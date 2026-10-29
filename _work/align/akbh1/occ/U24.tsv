@@ -12,10 +12,15 @@ U24-010	S0412	kāraṇāt	kāraṇa	n. nt. sg. abl.	0005b10	因	对译	0165c15	�
 U24-011	S0412	caittebhyo	abl.	gram. abl. (-ebhyaḥ)	0005b11	於	语法	0165c15	中	第五格（从诸心所中）译"於"
 U24-013	S0412	caittebhyo	caitta	n. m. pl. abl.	0005b11	心所法	对译	0165c15	心法	
 U24-014	S0412	vedanāsaṃjñe	vedanā-saṃjñā	cpd. f. du. nom.	0005b11	受想	对译	0165c15	受想	
+U24-072	S0412	vedanā	vedanā	n. 成分	0005b11	受	对译	0165c15	受	补成分记录
+U24-073	S0412	saṃjñe	saṃjñā	n. f. du. nom.	0005b11	想	对译	0165c15	想	补成分记录
 U24-015	S0412	pṛthakaskndhau	pṛthak-skandha	cpd. m. du. nom.	0005b11	別為蘊	意译	0165c15	別…陰	GRETIL 本作 pṛthakaskndhau
+U24-074	S0412	pṛthak	pṛthak	ind.	0005b11	別	对译	0165c15	別	补成分记录
 U24-016	S0412	niveśitau	ni-viś	ptc. m. du. nom. (caus.)	0005b11	為	意译	0165c15	立為	niveśita（安立）只作"為"
-U24-017	S0412	skndhau	skandha	n. 成分	0005b11	蘊	对译	0165c16	陰	
+U24-017	S0412	skndhau	skandha	n. m. du. nom.	0005b11	蘊	对译	0165c16	陰	
 U24-018	S0413	vivādamūle	vivāda-mūla	cpd. nt. du. nom.	0005b12	諍根	对译	0165c16	爭根	
+U24-075	S0413	vivāda	vivāda	n. 成分	0005b12	諍	对译	0165c16	爭	补成分记录
+U24-076	S0413	mūle	mūla	n. nt. du. nom.	0005b12	根	对译	0165c16	根	补成分记录
 U24-019	S0413	dve	dvi	num. nt. du. nom.	0005b12	二	对译	0165c16	二	"有"为增字
 U24-020	S0413	kāmādhyavasānaṃ	kāma-adhyavasāna	cpd. nt. sg. nom.	0005b12	著…欲	对译	0165c16	貪著欲塵	
 U24-021	S0413	ādhyavasānaṃ	adhyavasāna	n. nt. sg. nom.	0005b12	著	对译	0165c16	貪著	
@@ -23,8 +28,11 @@ U24-022	S0413				0005b12	諸…諸	增译	0165c16	諸	kāma、dṛṣṭi 在复
 U24-023	S0413	kāmā	kāma	n. 成分	0005b12	欲	对译	0165c16	欲塵	
 U24-024	S0413	dṛṣṭyadhyavasānaṃ	dṛṣṭi-adhyavasāna	cpd. nt. sg. nom.	0005b12	著…見	对译	0165c16	貪著諸見	
 U24-025	S0413	dṛṣṭy	dṛṣṭi	n. 成分	0005b12	見	对译	0165c17	見	
+U24-077	S0413	adhyavasānaṃ	adhyavasāna	n. nt. sg. nom.	0005b12	著	对译	0165c16	貪著	补成分记录
 U24-026	S0414	tayor	tad	pron. nt. du. gen.	0005b12	此二	语法	0165c17	此二	双数第六格（这两者的）
 U24-027	S0414	vedanāsaṃjñe	vedanā-saṃjñā	cpd. f. du. nom.	0005b13	受想	对译	0165c17	受想	
+U24-078	S0414	vedanā	vedanā	n. 成分	0005b13	受	对译	0165c17	受	补成分记录
+U24-079	S0414	saṃjñe	saṃjñā	n. f. du. nom.	0005b13	想	对译	0165c17	想	补成分记录
 U24-028	S0414	yathākramaṃ	yathākramam	ind.	0005b13	如其次第	对译	0165c17	次第	
 U24-029	S0414	pradhānahetū	pradhāna-hetu	cpd. m. du. nom.	0005b13	最勝因	对译	0165c17	勝因	"為"为增字
 U24-030	S0414	pradhāna	pradhāna	adj. 成分	0005b13	最勝	对译	0165c17	勝	
@@ -44,10 +52,13 @@ U24-045	S0416	saṃsārasyāpi	api	ind.	0005b14	又	语法
 U24-046	S0416	saṃsārasyāpi	saṃsāra	n. m. sg. gen.	0005b14	生死	对译	0165c19	生死	"法"为增字
 U24-047	S0416	te	tad	pron. f. du. nom.	0005b14	受及想	意译	0165c19	受想二法	代词 te 还原为所指
 U24-048	S0416	pradhānahetū	pradhāna-hetu	cpd. m. du. nom.	0005b15	最勝因	对译	0165c19	勝因	
+U24-080	S0416	pradhāna	pradhāna	adj. 成分	0005b15	最勝	对译	0165c19	勝	补成分记录
+U24-081	S0416	hetū	hetu	n. m. du. nom.	0005b15	因	对译	0165c19	因	补成分记录
 U24-049	S0416	gṛddho hi	hi	ind.	0005b15	由…故	语法			
 U24-050	S0416	vedanāsvādagṛddho	vedanā-āsvāda-gṛddha	cpd. adj. m. sg. nom.	0005b15	耽著受	意译	0165c19	貪著受	āsvāda 未译
 U24-051	S0416	gṛddho	gṛddha	ptc. m. sg. nom. (gṛdh)	0005b15	耽著	对译	0165c19	貪著	
 U24-052	S0416	vedanā	vedanā	n. 成分	0005b15	受	对译	0165c20	受	
+U24-082	S0416	āsvāda	āsvāda	n. 成分			省译			补成分记录；āsvāda 未译
 U24-053	S0416	viṣaryastasaṃjñaḥ	viparyasta-saṃjña	cpd. adj. m. sg. nom. (bahuvrīhi)	0005b15	倒想	意译	0165c20	起倒想	"起"为增字；GRETIL 本作 viṣaryasta-
 U24-053+1	S0416				0005b15	起	增译			合并时从 U24-053（起倒想）拆出
 U24-054	S0416	viṣaryasta	viparyasta	ptc. adj. 成分	0005b15	倒	对译	0165c20	倒	
@@ -56,11 +67,16 @@ U24-056	S0416	saṃsarati	sam-sṛ	v. pres. 3sg.	0005b15	生死輪迴	意译	016
 U24-057	S0417				0005b16	由此二因	增译			总括上述两种原因
 U24-059	S0417	upadekṣyamāṇaṃ	upa-diś	ptc. fut. pass. nt. sg. nom.	0005b16	說	对译	0165c21	說	
 U24-060	S0417	skandhakrame	skandha-krama	cpd. m. sg. loc.	0005b16	次第	合译	0165c20	次第	与 kramakāraṇāt 合用"次第因"
+U24-083	S0417	skandha	skandha	n. 成分			省译			补成分记录；skandha 未译
+U24-084	S0417	krame	krama	n. m. sg. loc.	0005b16	次第	合译	0165c20	次第	补成分记录；与 kramakāraṇāt 合用"次第因"
 U24-061	S0417	kāraṇam	kāraṇa	n. nt. sg. nom.	0005b16	因	合译	0165c20	因	与 kramakāraṇāt 合用"次第因"
 U24-062	S0417	kramakāraṇād	krama-kāraṇa	cpd. nt. sg. abl.	0005b16	次第因	对译	0165c21	次第因	第五格译"故"
+U24-085	S0417	krama	krama	n. 成分	0005b16	次第	对译	0165c21	次第	补成分记录
+U24-086	S0417	kāraṇād	kāraṇa	n. nt. sg. abl.	0005b16	因	对译	0165c21	因	补成分记录
 U24-063	S0417	tato 'pi	tatas	ind.			省译			
 U24-064	S0417	veditavyam	vid	gdv. nt. sg. nom.	0005b16	知	对译	0165c22	知	"應"表 gdv.
 U24-065	S0417	pṛthakskandhīkaraṇaṃ	pṛthak-skandhī-karaṇa	cpd. nt. sg. nom.	0005b17	別立…為蘊	对译	0165c21	分…別立為陰	
+U24-087	S0417	pṛthak	pṛthak	ind.	0005b17	別	对译	0165c21	分…別	补成分记录
 U24-066	S0417	skandhīkaraṇaṃ	skandhī-karaṇa	n. nt. sg. nom.	0005b17	立…為蘊	意译	0165c21	立為陰	
 U24-067	S0417	anayoḥ	idam	pron. f. du. gen.	0005b17	受想	意译	0165c21	受想二法	代词还原为所指
 U24-068	S0418	etacca	etad	pron. nt. sg. acc.	0005b17	其次第因	意译	0165c22	此因	代词还原为所指

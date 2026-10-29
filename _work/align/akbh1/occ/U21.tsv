@@ -18,6 +18,8 @@ U21-017	S0352	ekadhātutve	eka	num. 成分	0004c05	一	对译	0165a15	一
 U21-018	S0352	dvayoḥ	dvi	num. nt. du. gen.	0004c05	兩處	意译	0165a15	二	dvayoḥ 是 dvi 的双数第六格，词目原作 dvaya，改
 U21-019	S0352	saṃbhava	saṃbhava	n. m. sg. nom.	0004c06	生	对译	0165a15	生	
 U21-020	S0352	cakṣurādīnaṃ	cakṣus-ādi	cpd. nt. pl. gen.			省译	0165a15	眼等	
+U21-053	S0352	cakṣur	cakṣus	n. 成分			省译	0165a15	眼	补成分记录
+U21-054	S0352	ādīnaṃ	ādi	n. nt. pl. gen.			省译	0165a15	等	补成分记录
 U21-021	S0353	anya thā	anyathā	ind.	0004c06	若	语法	0165a16	若不爾	GRETIL 本分写作 anya thā
 U21-051	S0353	ekacakṣuḥśrotrādhiṣṭhānaikanāsikāvilasaṃbhavāt	eka-cakṣus-śrotra-adhiṣṭhāna-eka-nāsikā-bila-saṃbhava	cpd. m. sg. abl.	0004c06	眼耳根處…生一，鼻無二穴	意译	0165a16	一眼耳一依處生，一鼻一孔生	补整词记录；GRETIL 作 -vila-（即 bila）
 U21-022	S0353	ekacakṣuḥśrotrādhiṣṭhāna	eka-cakṣus-śrotra-adhiṣṭhāna	cpd. 成分	0004c06	眼耳根處…一	意译	0165a16	一眼耳一依處	
@@ -44,6 +46,9 @@ U21-043	S0354				0004c11	攝	增译			玄奘补"攝"，指上文诸蕴处界的�
 U21-045	S0355	vaktavyaṃ	vac	gdv. nt. sg. nom.	0004c11	說	对译	0165a22	說	
 U21-046	S0355	idaṃ	idam	pron. nt. sg. nom.	0004c11	其義	意译	0165a22	此義	代词 idam 还原为"其義"
 U21-047	S0355	skandhāyatanadhātvartha	skandha-āyatana-dhātu-artha	cpd. m. sg. nom.	0004c11	蘊處界…義	意译	0165a22	陰入界其義	"此""別"为增字
+U21-055	S0355	skandhā	skandha	n. 成分	0004c11	蘊	对译	0165a22	陰	补成分记录
+U21-056	S0355	āyatana	āyatana	n. 成分	0004c11	處	对译	0165a22	入	补成分记录
+U21-057	S0355	dhātv	dhātu	n. 成分	0004c12	界	对译	0165a22	界	补成分记录
 U21-047+1	S0355				0004c12	別	增译			合并时从 U21-047（蘊處界別義）拆出
 U21-048	S0355	artha	artha	n. m. sg. nom.	0004c12	義	对译	0165a22	義	
 U21-050	S0353				0004c07	此釋不然…誰言醜陋	梵本缺文	0165a17	是義不然…若本來如此	玄奘 0004c07–c11、真谛 0165a17–a21 都有驳"為端嚴"说、以"為所發識明了"释三根各生二处的一段（"此釋不然……是故三根各生二處"），GRETIL（Pradhan）无；合并时补入

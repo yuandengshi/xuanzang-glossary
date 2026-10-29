@@ -85,7 +85,8 @@ def skt_positions(occ):
     pos = {}
 
     def parts(l):
-        return set(l.split('-'))
+        # 比较用：-an/-as/-us 词干与复合词里的形式视为相同（pañcan ~ pañca-、manas ~ mano-）
+        return {re.sub(r'(an|as|us|is|in)$', lambda m: m.group(1)[0], x) for x in l.split('-')}
 
     def at(i):
         o = occ[i]
@@ -105,6 +106,7 @@ def skt_positions(occ):
                     q = t.find(frag, cp) if cp >= 0 else -1
                     if 0 <= q and q + len(frag) <= cp + len(c['skt']):
                         pos[i] = q
+                        o['_par'] = j
                     break
         return pos[i]
 
@@ -117,15 +119,22 @@ def skt_positions(occ):
         o['skt_k'] = k if q == p else 0
 
 
-def context(xz, starts, stream, line, frag):
-    """取译语所在的整句；只标出起于所引行的那一处。返回（句子，[[起, 止], …]）。"""
+def context(xz, starts, stream, line, frag, within=None):
+    """取译语所在的整句；只标出起于所引行的那一处。返回（句子，[[起, 止], …]，[绝对起, 绝对止]）。
+    within=(起, 止)：所属复合词译语在行文中的范围，成分的译语先在这个范围里找（单字译语在同一行前面已出现时不致标错）。"""
     if not frag or line not in starts:
-        return '', []
+        return '', [], None
     a0, a1 = starts[line], starts[line] + len(xz[line])
     parts = [p for p in frag.split('…') if p]
-    pos = stream.find(parts[0], a0)
+    pos = -1
+    if within:
+        q = stream.find(parts[0], max(a0, within[0]))
+        if 0 <= q < a1 and q + len(parts[0]) <= within[1]:
+            pos = q
+    if pos < 0:
+        pos = stream.find(parts[0], a0)
     if pos < 0 or pos >= a1:
-        return '', []
+        return '', [], None
     spans, cur = [[pos, pos + len(parts[0])]], pos + len(parts[0])
     for p in parts[1:]:
         q = stream.find(p, cur)
@@ -139,7 +148,7 @@ def context(xz, starts, stream, line, frag):
     e, post = (e, '') if e - spans[-1][1] <= 60 else (spans[-1][1] + 40, '…')
     ctx = pre + stream[b:e] + post
     off = b - len(pre)
-    return ctx, [[x - off, y - off] for x, y in spans]
+    return ctx, [[x - off, y - off] for x, y in spans], [spans[0][0], spans[-1][1]]
 
 
 def main(d, od, notes_path=None, only=None, pkg=None):
@@ -158,9 +167,13 @@ def main(d, od, notes_path=None, only=None, pkg=None):
         o['skt_sent'] = s['text']
         o['T'] = tref(o['xz_line']) if o['xz_line'] else ''
         o['verse'] = s['verse']
-        o['xz_ctx'], o['xz_hl'] = context(xz, starts, stream, o['xz_line'], o['xz'])
         o['PM'] = ('T29.%d%s' % (int(o['pm_line'][:4]), o['pm_line'][4:])) if o['pm_line'] else ''
     skt_positions(occ)
+    # 玄奘译语：复合词成分的译语在所属复合词译语的范围里找（所属复合词排在前面，先算好）
+    for o in occ:
+        par = occ[o['_par']] if '_par' in o else None
+        o['xz_ctx'], o['xz_hl'], o['_xzspan'] = context(xz, starts, stream, o['xz_line'], o['xz'],
+                                                        par.get('_xzspan') if par else None)
     os.makedirs(od, exist_ok=True)
     cols = ['oid', 'lemma', 'pos', 'skt', 'pradhan', 'karika', 'xz', 'T', 'type', 'pm', 'PM', 'note']
     with open(os.path.join(od, '界品译语实例.csv'), 'w', encoding='utf-8-sig', newline='') as f:

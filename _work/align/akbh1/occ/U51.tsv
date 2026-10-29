@@ -1,21 +1,28 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
 U51-001	S1047	tadvikāravikāritvād	tad-vikāra-vikāri-tva	cpd. nt. sg. abl.	0012b20	隨根變…異	意译	0172a21	隨根異識異	"識"为补出主语（另记）；-tva 未译；第五格"故"另记
+U51-068	S1047	tad	tad	pron. 成分	0012b20	根	意译	0172a21	根	补成分记录；tad 指根（眼等），玄奘、真谛都还原为"根"
 U51-001+1	S1047				0012b20	識	增译			合并时从 U51-001（隨根變識異）拆出
-U51-003	S1047	vikāravikāri	vikāra	n. 成分	0012b20	變	对译	0172a21	異	
+U51-003	S1047	vikāra	vikāra	n. 成分	0012b20	變	对译	0172a21	異	
 U51-004	S1047	vikāritvād	vikārin	adj. 成分	0012b20	隨…異	意译	0172a21	隨…異	vikārin（随之而变者）
 U51-007	S1047				0012b20	識	增译	0172a21	識	补出主语
 U51-008	S1047	āśrayāś	āśraya	n. m. pl. nom.	0012b20	依	对译	0172a21	依	
 U51-009	S1047				0012b20	名	增译	0172a21	成	"眼等名依"，以"名"表判断；真谛作"成"
 U51-010	S1047	cakṣurādayaḥ	cakṣus-ādi	cpd. m. pl. nom.	0012b20	眼等	对译	0172a21	眼等	
+U51-069	S1047	cakṣur	cakṣus	n. 成分	0012b20	眼	对译	0172a21	眼	补成分记录
+U51-070	S1047	ādayaḥ	ādi	n. m. pl. nom.	0012b20	等	对译	0172a21	等	补成分记录
 U51-011	S1048	dhātava	dhātu	n. m. pl. nom.	0012b21	界	对译			
 U51-012	S1048	adhikāraḥ	adhikāra	n. m. sg. nom.			省译			"dhātava ity adhikāraḥ"（"界"字承上），玄奘改写为"眼等即是眼等六界"；真谛未译
 U51-013	S1048				0012b21	眼等即是眼等六	增译			改写承上标目之语时补出
 U51-015	S1049	cakṣurādīnāṃ	cakṣus-ādi	cpd. m. pl. gen.	0012b21	眼等	对译	0172a22	眼等	
+U51-071	S1049	cakṣur	cakṣus	n. 成分	0012b21	眼	对译	0172a22	眼	补成分记录
+U51-072	S1049	ādīnāṃ	ādi	n. m. pl. gen.	0012b21	等	对译	0172a22	等	补成分记录
 U51-016	S1049				0012b21	根	增译	0172a22	根	二译皆补"根"
 U51-017	S1049				0012b21	有	增译	0172a22	有	
 U51-018	S1049	vikāreṇa tad	vikāra	n. m. sg. instr.	0012b21	轉變	对译	0172a22	差別	
 U51-019	S1049	vikāreṇa tad	instr.	gram. instr. (-eṇa)	0012b21	由…故	语法	0172a22	由…故	第三格表原因
 U51-020	S1049	tadvijñānānāṃ	tad-vijñāna	cpd. nt. pl. gen.	0012b22	識	意译	0172a22	識	tad 未译；复数"諸"另记
+U51-073	S1049	tad	tad	pron. 成分			省译			补成分记录；tad（彼，指眼等根）未译
+U51-074	S1049	vijñānānāṃ	vijñāna	n. nt. pl. gen.	0012b22	識	对译	0172a22	識	补成分记录
 U51-022	S1049	vikāro	vikāra	n. m. sg. nom.	0012b22	轉異	对译	0172a22	差別	同一 vikāra，上作"轉變"
 U51-023	S1049	bhavaty	bhū	v. pres. 3sg.			省译	0172a22	有	
 U51-024	S1049	anugrahopaghātapaṭumandatānuvidhānāt	anugraha-upaghāta-paṭu-mandatā-anuvidhāna	cpd. nt. sg. abl.	0012b22	隨…增損…明昧	意译	0172a23	若有增損，諸識隨之則有明昧	"根""識"为补出（另记）；第五格译"故"
@@ -29,6 +36,8 @@ U51-029	S1049	mandatā	mandatā	n. 成分	0012b22	昧	意译	0172a23	昧	mandat�
 U51-030	S1049	ānuvidhānāt	anuvidhāna	n. nt. sg. abl.	0012b22	隨	对译	0172a23	隨	anuvidhāna（随顺）
 U51-031	S1049				0012b22	根…識	增译			"隨根增損識明昧"中补出"根""識"
 U51-033	S1049	rūpādīnāṃ	rūpa-ādi	cpd. m. pl. gen.	0012b22	色等	对译	0172a23	色等	
+U51-075	S1049	rūpā	rūpa	n. 成分	0012b22	色	对译	0172a23	色	补成分记录
+U51-076	S1049	ādīnāṃ	ādi	n. m. pl. gen.	0012b23	等	对译	0172a23	等	补成分记录
 U51-034	S1049	vikāreṇa tadvikāraḥ	vikāra	n. m. sg. instr.	0012b23	變	对译	0172a23	差別	
 U51-035	S1049	tadvikāraḥ	tad-vikāra	cpd. m. sg. nom.	0012b23	識…異	意译	0172a24	諸識變異	"令""有"为补出（另记）
 U51-035+1	S1049				0012b23	有	增译			合并时从 U51-035（識有異）拆出
@@ -37,23 +46,38 @@ U51-037	S1049	vikāraḥ	vikāra	n. m. sg. nom.	0012b23	異	对译	0172a24	變�
 U51-038	S1049				0012b23	令…有	增译			"非色等變令識有異"，"令""有"为增字
 U51-040	S1050	sādhīyas	sādhīyas	adj. compar. nt. sg. acc. (adv.)			省译	0172a24	勝	sādhīyas（更为恰当）玄奘未译；真谛作"勝"
 U51-041	S1050	tadadhīnatvat	tad-adhīna-tva	cpd. nt. sg. abl.	0012b23	隨根	意译			GRETIL 本作 tadadhīnatvat，当读 tadadhīnatvāt；"識""不隨境"为补出（另记）
+U51-077	S1050	tad	tad	pron. 成分	0012b23	根	意译			补成分记录；tad 指根（眼等），玄奘还原为"根"
 U51-042	S1050	adhīna	adhīna	adj. 成分	0012b23	隨	意译			adhīna（依属于）译"隨"，上文作"託"
 U51-044	S1050				0012b23	識…不隨境	增译			"以識隨根不隨境故"，补出主语"識"及对比"不隨境"
 U51-045	S1050	ta evā	tad	pron. m. pl. nom.	0012b24	眼等	意译	0172a24	眼等	代词还原为所指"眼等"
 U51-047	S1050	āśrayā	āśraya	n. m. pl. nom.	0012b23	依	对译	0172a25	依	
 U51-048	S1050				0012b23	名	增译			"依名唯在眼等"，以"名…在"表判断
 U51-049	S1050	rūpādayaḥ	rūpa-ādi	cpd. m. pl. nom.	0012b24	餘	意译	0172a25	色等	以"餘"指色等
+U51-078	S1050	rūpā	rūpa	n. 成分	0012b24	餘	合译	0172a25	色	补成分记录；rūpa、ādi（色等）合为"餘"
+U51-079	S1050	ādayaḥ	ādi	n. m. pl. nom.	0012b24	餘	合译	0172a25	等	补成分记录；rūpa、ādi（色等）合为"餘"
 U51-050	S1051	kiṃ punaḥ kāraṇaṃ	kiṃ kāraṇam	pron. nt. sg. nom. + n. nt. sg. nom.	0012b24	何緣	语法	0172a25	何因	punar 未译，真谛作"復"
 U51-051	S1051	rūpādayaśca	rūpa-ādi	cpd. m. pl. nom.	0012b24	色等	对译	0172a25	色等	
+U51-080	S1051	rūpā	rūpa	n. 成分	0012b24	色	对译	0172a25	色	补成分记录
+U51-081	S1051	ādayaś	ādi	n. m. pl. nom.	0012b24	等	对译	0172a25	等	补成分记录
 U51-053	S1051				0012b24	正是	增译			强调"色等正是所識"
 U51-054	S1051	vijñāyante	vi-jñā	v. pres. pass. 3pl.	0012b24	所識	对译	0172a25	所識	
 U51-055	S1051	cocyate	ca	ind.	0012b24	而	语法			ca … ca 并举，后一个 ca 译"而"（转折）
 U51-056	S1051	cocyate	vac	v. pres. pass. 3sg.	0012b24	名	对译	0172a25	說為	
 U51-057	S1051	cakṣurvijñānaṃ	cakṣus-vijñāna	cpd. nt. sg. nom.	0012b25	眼識	对译	0172a26	眼識	
+U51-082	S1051	cakṣur	cakṣus	n. 成分	0012b25	眼	对译	0172a26	眼	补成分记录
+U51-083	S1051	vijñānaṃ	vijñāna	n. nt. sg. nom.	0012b25	識	对译	0172a26	識	补成分记录
 U51-059	S1051	manovijñānam	manas-vijñāna	cpd. nt. sg. nom.	0012b25	意識	对译	0172a26	意識	
+U51-084	S1051	mano	manas	n. 成分	0012b25	意	对译	0172a26	意	补成分记录
+U51-085	S1051	vijñānam	vijñāna	n. nt. sg. nom.	0012b25	識	对译	0172a26	識	补成分记录
 U51-061	S1052				0012b25	名	增译	0172a26	說為	承上 ucyate 补出
 U51-062	S1052	rūpavijñānaṃ	rūpa-vijñāna	cpd. nt. sg. nom.	0012b25	色識	对译	0172a26	色識	
+U51-086	S1052	rūpa	rūpa	n. 成分	0012b25	色	对译	0172a26	色	补成分记录
+U51-087	S1052	vijñānaṃ	vijñāna	n. nt. sg. nom.	0012b25	識	对译	0172a26	識	补成分记录
 U51-063	S1052	dharmavijñānam	dharma-vijñāna	cpd. nt. sg. nom.	0012b25	法識	对译	0172a26	法識	
+U51-088	S1052	dharma	dharma	n. 成分	0012b25	法	对译	0172a26	法	补成分记录
+U51-089	S1052	vijñānam	vijñāna	n. nt. sg. nom.	0012b25	識	对译	0172a26	識	补成分记录
 U51-064	S1053	ya ete	etad	pron. m. pl. nom.	0012b27	前說	意译			ya ete（此等…者，指前文所说者）译"前說"；玄奘此句在下一颂长行（彼謂前說眼等名依），GRETIL 置于颂前，与真谛次序同
 U51-066	S1053	cakṣurādaya	cakṣus-ādi	cpd. m. pl. nom.	0012b27	眼等	对译	0172a26	眼等	
+U51-090	S1053	cakṣur	cakṣus	n. 成分	0012b27	眼	对译	0172a26	眼	补成分记录
+U51-091	S1053	ādaya	ādi	n. m. pl. nom.	0012b27	等	对译	0172a27	等	补成分记录
 U51-067	S1053	āśrayā	āśraya	n. m. pl. nom.	0012b27	依	对译	0172a27	依	"名依"，"名"为补出

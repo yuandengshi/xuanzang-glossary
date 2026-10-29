@@ -11,6 +11,7 @@ U40-008	S0721	rūpa	rūpa	n. 成分	0009a05	色	对译	0169a09	色
 U40-009	S0721	gandha	gandha	n. 成分	0009a05	香	对译	0169a09	香	
 U40-010	S0721	rasa	rasa	n. 成分	0009a05	味	对译	0169a09	味	
 U40-011	S0721	spraṣṭavyā	spraṣṭavya	gdv. n. 成分	0009a05	觸	对译	0169a09	觸	
+U40-129	S0721	ākhyaṃ	ākhya	adj. nt. sg. nom.			省译			补成分记录：ākhya（名为…）未译
 U40-012	S0721	paraśudārvādisaṃjñakam	paraśu-dāru-ādi-saṃjñaka	cpd. adj. nt. sg. nom.	0009a05	成斧薪等	意译	0169a09	名斧名薪	
 U40-013	S0721	paraśu	paraśu	n. 成分	0009a05	斧	对译	0169a09	斧	
 U40-014	S0721	dārv	dāru	n. 成分	0009a05	薪	对译	0169a10	薪	
@@ -46,7 +47,10 @@ U40-042	S0724	niravaśeṣā	nir-avaśeṣa	adj. 成分	0009a08	全	意译	0169a
 U40-043	S0724	āṅga	aṅga	n. 成分			省译			
 U40-044	S0724	cchede	cheda	n. m. sg. loc.	0009a08	斷	对译	0169a11	斫	
 U40-045	S0724	advaidhīkaraṇāt	a-dvaidhī-karaṇa	cpd. nt. sg. abl.	0009a08	非…令成二	意译	0169a12	不可令二	前面的 tad 未译；第五格译"故"
+U40-130	S0724	advaidhīkaraṇāt	a- (neg.)	gram. neg.	0009a08	非	语法	0169a12	不	补成分记录：否定前缀 a- 管 dvaidhī-karaṇa 全体（非…令成二）
 U40-046	S0724	dvaidhīkaraṇāt	dvaidhī-karaṇa	cpd. nt. sg. abl.	0009a08	令成二	意译	0169a12	令二	
+U40-131	S0724	dvaidhī	dvaidha	adj. 成分 (dvaidhī)	0009a08	二	意译	0169a12	二	补成分记录：cvi 形 dvaidhī（dvaidhī-kṛ 分为二）
+U40-132	S0724	karaṇāt	karaṇa	n. nt. sg. abl.	0009a08	令成	意译	0169a12	令	补成分记录
 U40-047	S0724				0009a08	可	增译			"非可全斷"
 U40-048	S0725	hīndriyāṇi	indriya	n. nt. pl. nom.	0009a08	根	对译	0169a12	諸根	
 U40-049	S0725				0009a08	身…等	增译			"非身根等"
@@ -57,6 +61,7 @@ U40-053	S0726	chinnasyā	chid	ptc. nt. sg. gen. (chinna)	0009a09	離身	意译	0
 U40-054	S0726	āṅgasya	aṅga	n. nt. sg. gen.	0009a09	支分	对译	0169a13	諸分	
 U40-055	S0726				0009a09	則	增译	0169a12	則	
 U40-056	S0726	nirindriyatvāt	nir-indriya-tva	cpd. nt. sg. abl.	0009a09	無根	对译	0169a13	非根	-tva 未译；第五格译"故"
+U40-133	S0726	nirindriya	nir-indriya	adj. 成分	0009a09	無根	对译	0169a13	非根	补成分记录：-tva 前的 nir-indriya（无根的）作一个成分
 U40-057	S0727				0009a09	身根等	增译			补出主语
 U40-058	S0727	cchindanti	chid	v. pres. 3pl.	0009a10	斫	对译	0169a13	斫	"能"表主动
 U40-059	S0727	maṇiprabhāvad	maṇi-prabhā-vat	cpd. ind.	0009a10	如珠寶光	对译	0169a13	如寶光	
@@ -94,6 +99,8 @@ U40-092	S0731	dagdhṛtulyayoḥ	dagdhṛ-tulya	cpd. nt. du. loc.	0009a04	能燒
 U40-093	S0731	dagdhṛ	dagdhṛ	n. 成分	0009a04	能燒	对译	0169a17	能燒	
 U40-094	S0731	tulyayoḥ	tulya	gdv. nt. du. loc.	0009a04	所稱	对译	0169a17	所稱	
 U40-095	S0731	dagdhṛtulyayoḥ	dagdhṛ-tulya	cpd. nt. du. loc.	0009a13	能燒所稱	对译			长行复述本颂
+U40-134	S0731	dagdhṛ	dagdhṛ	n. 成分	0009a13	能燒	对译			补成分记录：长行复述本颂（U40-095）
+U40-135	S0731	tulyayoḥ	tulya	gdv. nt. du. loc.	0009a13	所稱	对译			补成分记录：长行复述本颂（U40-095）
 U40-096	S0731	vivādo	vivāda	n. m. sg. nom.	0009a14	異諍論	意译			长行复述本颂；"有"为补出
 U40-097	S0732	kecidāhuḥ	kaścit	pron. m. pl. nom.	0009a14	或有	意译	0169a17	有諸師	
 U40-099	S0732	dāhakaṃ	dāhaka	adj. nt. sg. nom.	0009a14	能燒	对译	0169a18	能燒	
@@ -102,6 +109,8 @@ U40-101	S0732				0009a14	體	增译
 U40-102	S0732	tadeva dhātu	tad	pron. nt. sg. nom.	0009a14	如前	意译			tad（前述者）译"如前"
 U40-104	S0732				0009a15	唯外	增译	0169a18	外	
 U40-105	S0732	dhātucatuṣṭayaṃ	dhātu-catuṣṭaya	cpd. nt. sg. nom.	0009a15	四界	对译	0169a18	四界	
+U40-136	S0732	dhātu	dhātu	n. 成分	0009a15	界	对译	0169a18	界	补成分记录：玄奘、真谛都倒序（四界）
+U40-137	S0732	catuṣṭayaṃ	catuṣṭaya	n. nt. sg. nom.	0009a15	四	对译	0169a18	四	补成分记录
 U40-106	S0733	kecidāhus	kaścit	pron. m. pl. nom.	0009a15	或復有	意译	0169a18	有諸師	
 U40-108	S0733	tejodhātur	tejas-dhātu	cpd. m. sg. nom.	0009a15	火界	对译	0169a19	火大	
 U40-109	S0733	tejo	tejas	n. 成分	0009a15	火	对译	0169a19	火	

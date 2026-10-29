@@ -2,10 +2,14 @@ oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
 U32-001	S0514	chidram	chidra	n. nt. sg. nom.	0006c07	竅隙	对译	0166c29	竅穴	
 U32-002	S0514	ākāśadhātvākhyam	ākāśa-dhātu-ākhya	cpd. adj. nt. sg. nom.	0006c07	空界謂	意译	0166c29	名空界	
 U32-003	S0514	ākāśadhātvā	ākāśa-dhātu	cpd. 成分	0006c07	空界	对译	0166c29	空界	
+U32-137	S0514	ākāśa	ākāśa	n. 成分	0006c07	空	对译	0166c29	空	补成分记录
+U32-138	S0514	dhātvā	dhātu	n. 成分	0006c07	界	对译	0166c29	界	补成分记录
 U32-004	S0514	ākhyam	ākhya	adj. nt. sg. nom.	0006c07	謂	意译	0166c29	名	ākhya（名为…的）本颂译"謂"
 U32-005	S0514	chidram	chidra	n. nt. sg. nom.	0006c09	竅隙	对译			长行承接 S0513"門窓口鼻等"，复述颂文"竅隙名為空界"
 U32-006	S0514	ākhyam	ākhya	adj. nt. sg. nom.	0006c09	名為	对译			长行复述颂文
 U32-007	S0514	ākāśadhātvā	ākāśa-dhātu	cpd. 成分	0006c09	空界	对译			长行复述颂文
+U32-139	S0514	ākāśa	ākāśa	n. 成分	0006c09	空	对译			补成分记录；长行复述颂文
+U32-140	S0514	dhātvā	dhātu	n. 成分	0006c10	界	对译			补成分记录；长行复述颂文
 U32-008	S0515	chidramity	chidra	n. nt. sg. nom.	0006c10	竅隙	对译	0166c29	竅穴	
 U32-010	S0515	ucyamānaṃ	vac	ptc. pres. pass. nt. sg. nom.			省译	0166c29	說	
 U32-012	S0515	veditavyam	vid	gdv. nt. sg. nom.	0006c10	知	对译	0166c29	知	"應"归义务分词
@@ -15,17 +19,25 @@ U32-015	S0516	āloka	āloka	n. 成分	0006c07	明	对译	0167a01	光
 U32-016	S0516	tamasī	tamas	n. nt. du. nom.	0006c07	闇	对译	0167a01	闇	
 U32-017	S0516				0006c07	是	增译	0167a01	謂	
 U32-018	S0516	ālokatamasī	āloka-tamas	cpd. nt. du. nom.	0006c10	明闇	对译			长行复述颂文"傳說：竅隙即是明闇"
+U32-141	S0516	āloka	āloka	n. 成分	0006c10	明	对译			补成分记录；长行复述颂文
+U32-142	S0516	tamasī	tamas	n. nt. du. nom.	0006c11	闇	对译			补成分记录；长行复述颂文
 U32-019	S0516				0006c10	竅隙即是	增译			长行复述颂文时补出主语与系词
 U32-020	S0517	chidramāloka	chidra	n. nt. sg. nom.	0006c11	竅隙	对译	0167a02	竅穴	
 U32-021	S0517	ālokatamobhyām	āloka-tamas	cpd. nt. du. abl.	0006c11	明闇	对译	0167a02	光闇	
+U32-143	S0517	āloka	āloka	n. 成分	0006c11	明	对译	0167a02	光	补成分记录
+U32-144	S0517	tamobhyām	tamas	n. nt. du. abl.	0006c11	闇	对译	0167a02	闇	补成分记录
 U32-022	S0517	manyad	anya	pron. nt. sg. nom.	0006c11	離	意译	0167a02	離	anya + 第五格（异于…）译"離"
 U32-023	S0517	gṛhyate	grah	v. pres. pass. 3sg.	0006c11	取	对译	0167a02	見	
 U32-025	S0518	tasmāt	tasmāt	ind.	0006c11	故	语法	0167a02	是故	
 U32-026	S0518	kilākāśa	kila	ind.	0006c11	說	语法	0167a02	彼言	kila（据说）此处译"說"（故說）
 U32-027	S0518	kilākāśadhātur	ākāśa-dhātu	cpd. m. sg. nom.	0006c11	空界	对译	0167a02	空界	
+U32-145	S0518	ākāśa	ākāśa	n. 成分	0006c11	空	对译	0167a02	空	补成分记录
+U32-146	S0518	dhātur	dhātu	n. m. sg. nom.	0006c11	界	对译	0167a02	界	补成分记录
 U32-028	S0518	ālokatamaḥsvabhāvo	āloka-tamas-svabhāva	cpd. adj. m. sg. nom.	0006c11	明闇為體	对译	0167a02	光闇…為性	
 U32-029	S0518	ālokatamaḥ	āloka-tamas	cpd. 成分	0006c11	明闇	对译	0167a02	光闇	
-U32-030	S0518	svabhāvo rātri	svabhāva	n. m. sg. nom.	0006c12	體	意译	0167a03	性	
+U32-147	S0518	āloka	āloka	n. 成分	0006c11	明	对译	0167a02	光	补成分记录
+U32-148	S0518	tamaḥ	tamas	n. 成分	0006c11	闇	对译	0167a02	闇	补成分记录
+U32-030	S0518	svabhāvo	svabhāva	n. m. sg. nom.	0006c12	體	意译	0167a03	性	
 U32-031	S0518	rātrindivasvabhāvo	rātrindiva-svabhāva	cpd. adj. m. sg. nom.	0006c12	體…晝夜	意译	0167a03	晝夜為位	"此體不離晝夜"，"此""不離"为增字
 U32-032	S0518	rātrindiva	rātrindiva	n. 成分	0006c12	晝夜	对译	0167a03	晝夜	玄奘、真谛都倒序作"晝夜"
 U32-033	S0518	vasvabhāvo	svabhāva	n. m. sg. nom.	0006c12	體	意译	0167a03	位	
@@ -62,11 +74,15 @@ U32-067	S0522	cānyasya rūpasye	rūpa	n. nt. sg. gen.	0006c16	礙	意译	0167a0
 U32-068	S0522	sāmantakaṃ	sāmantaka	adj. nt. sg. nom.	0006c16	相隣	意译	0167a06	相隣	
 U32-069	S0522				0006c16	是故說名隣阿伽色	增译			复述得名
 U32-070	S0523	vijñānadhātur	vijñāna-dhātu	cpd. m. sg. nom.	0006c08	識界	对译	0167a06	識界	
+U32-149	S0523	vijñāna	vijñāna	n. 成分	0006c08	識	对译	0167a06	識	补成分记录
+U32-150	S0523	dhātur	dhātu	n. m. sg. nom.	0006c08	界	对译	0167a06	界	补成分记录
 U32-071	S0523	vijñānaṃ	vijñāna	n. nt. sg. nom.	0006c08	識	对译	0167a07	識	
 U32-072	S0523	sāsravaṃ	sa-āsrava	adj. nt. sg. nom.	0006c08	有漏	对译	0167a07	有流	
 U32-073	S0523	vijñānaṃ	vijñāna	n. nt. sg. nom.	0006c17	識	对译			长行复述颂文"諸有漏識名為識界"
 U32-074	S0523	sāsravaṃ	sa-āsrava	adj. nt. sg. nom.	0006c17	有漏	对译			长行复述
 U32-075	S0523	vijñānadhātur	vijñāna-dhātu	cpd. m. sg. nom.	0006c17	識界	对译			长行复述
+U32-151	S0523	vijñāna	vijñāna	n. 成分	0006c17	識	对译			补成分记录；长行复述颂文
+U32-152	S0523	dhātur	dhātu	n. m. sg. nom.	0006c17	界	对译			补成分记录；长行复述颂文
 U32-076	S0523				0006c17	諸…名為	增译			长行复述颂文所加
 U32-077	S0524	kasmād	kim	pron. nt. sg. abl.	0006c17	云何…耶	语法	0167a07	云何	疑问 kasmāt（为何）译"云何…耶"
 U32-079	S0524	nocyate	vac	v. pres. pass. 3sg.	0006c17	說	对译	0167a07	說	
@@ -81,6 +97,8 @@ U32-087	S0525	janma	janman	n. 成分	0006c08	生	对译	0167a08	生
 U32-088	S0525	niśrayāḥ	niśraya	n. m. pl. nom.	0006c08	所依	对译	0167a08	所依	
 U32-089	S0525				0006c08	有情	增译			本颂"有情生所依"之"有情"
 U32-090	S0525	janmaniśrayāḥ	janman-niśraya	cpd. adj. m. pl. nom.	0006c18	生所依	对译			长行把颂文 janmaniśrayāḥ 并入 S0524 理由句
+U32-153	S0525	janma	janman	n. 成分	0006c18	生	对译			补成分记录；长行复述颂文
+U32-154	S0525	niśrayāḥ	niśraya	n. m. pl. nom.	0006c18	所依	对译			补成分记录；长行复述颂文
 U32-091	S0525				0006c18	是諸有情	增译			
 U32-092	S0526	ete hi	etad	pron. m. pl. nom.	0006c19	如是…界	意译	0167a08	此六界	代词还原为所指（六界）
 U32-095	S0526	pratisandhicittād	pratisandhi-citta	cpd. nt. sg. abl.	0006c19	續生心	对译	0167a08	初託生心	
@@ -91,6 +109,8 @@ U32-100	S0526	cyuticitta	cyuti-citta	cpd. nt. sg. acc. (?)	0006c19	命終心	对
 U32-101	S0526	cyuti	cyuti	n. 成分	0006c19	命終	对译	0167a09	死墮	
 U32-136	S0526	ticitta	citta	n. nt. sg. acc. (?)	0006c19	心	对译	0167a09	心	补末成分记录：按 cyuticittaṃ 读（见 U32-100），格为推定
 U32-102	S0526	sādhāraṇabhūtāḥ	sādhāraṇa-bhūta	cpd. adj. m. pl. nom.	0006c19	恒持	意译	0167a09	所依止	sādhāraṇabhūta（为…共同依持者）
+U32-155	S0526	sādhāraṇa	sādhāraṇa	adj. 成分	0006c19	恒持	意译	0167a09	所依止	补成分记录；sādhāraṇa（共同依持者）译"恒持"
+U32-156	S0526	bhūtāḥ	bhū	ptc. m. pl. nom. (bhūta)			省译			补成分记录；-bhūta（为…者）未译
 U32-103	S0526	janmanaḥ	janman	n. nt. sg. gen.	0006c19	生	对译	0167a09	生	
 U32-104	S0527	anāsravāstu	an-āsrava	adj. m. pl. nom.	0006c20	無漏	对译	0167a09	無流	
 U32-107	S0527	dharmā	dharma	n. m. pl. nom.	0006c20	法	对译	0167a09	法	
@@ -99,14 +119,20 @@ U32-111	S0528	catvāro	catur	num. m. pl. nom.	0006c20	四	对译	0167a10	四
 U32-112	S0528				0006c20	前	增译	0167a10	前	
 U32-113	S0528	dhātavaḥ spraṣṭavya	dhātu	n. m. pl. nom.			省译			
 U32-114	S0528	spraṣṭavyadhātāv	spraṣṭavya-dhātu	cpd. m. sg. loc.	0006c20	觸界	对译	0167a10	觸界	
+U32-157	S0528	spraṣṭavya	spraṣṭavya	gdv. n. 成分	0006c20	觸	对译	0167a10	觸	补成分记录
+U32-158	S0528	dhātāv	dhātu	n. m. sg. loc.	0006c21	界	对译	0167a10	界	补成分记录
 U32-115	S0528	antarbhūtāḥ	antar-bhū	ptc. m. pl. nom.	0006c21	所攝	意译	0167a10	攝	antarbhūta（包含于内）
 U32-116	S0528				0006c20	即此…即此…即此	增译			三个"即此"（本论的）为增字
 U32-117	S0528	pañcamo	pañcama	num. m. sg. nom.	0006c21	第五	对译	0167a10	第五	
 U32-118	S0528	rūpadhātau	rūpa-dhātu	cpd. m. sg. loc.	0006c21	色界	对译	0167a10	色界	
+U32-159	S0528	rūpa	rūpa	n. 成分	0006c21	色	对译	0167a10	色	补成分记录
+U32-160	S0528	dhātau	dhātu	n. m. sg. loc.	0006c21	界	对译	0167a10	界	补成分记录
 U32-119	S0528				0006c21	所攝	增译	0167a10	攝	承上补出
 U32-120	S0528	ṣaṣṭhaḥ	ṣaṣṭha	num. m. sg. nom.	0006c21	第六	对译	0167a10	第六	
 U32-121	S0528	saptasu	saptan	num. pl. loc.	0006c21	七	对译	0167a11	七	
 U32-122	S0528	vijñānadhātuṣviti	vijñāna-dhātu	cpd. m. pl. loc.	0006c21	心界	意译	0167a11	識界	vijñāna 此处译"心"
+U32-161	S0528	vijñāna	vijñāna	n. 成分	0006c21	心	意译	0167a11	識	补成分记录；vijñāna 此处译"心"
+U32-162	S0528	dhātuṣv	dhātu	n. m. pl. loc.	0006c22	界	对译	0167a11	界	补成分记录
 U32-123	S0528				0006c22	攝	增译	0167a11	攝	承上补出
 U32-124	S0528				0006c22	彼經餘界如其所應，皆即此中十八界攝	增译			玄奘增出结语，GRETIL 本、真谛都无
 U32-125	S0529	ye punarime	punar	ind.	0007a07	復次	语法			

@@ -11,13 +11,19 @@ U30-012	S0488				0006b07	八萬法蘊一一	增译	0166c03	八十千中一一法
 U30-013	S0488	opramaṇamiti	pramāṇa	n. nt. sg. nom.	0006b07	量	对译	0166c02	量	GRETIL 本作 opramaṇam，当读 pramāṇam
 U30-014	S0488				0006b07	等	增译			"量等《法蘊足論》"之"等"
 U30-015	S0488	dharmaskandhasaṃjñakasyai	dharma-skandha-saṃjñaka	cpd. adj. nt. sg. gen.	0006b07	法蘊	意译	0166c02	名法陰	书名《法蘊足論》（Dharmaskandhapāda），"足"为增字
+U30-102	S0488	dharma	dharma	n. 成分	0006b07	法	对译	0166c02	法	补成分记录
+U30-103	S0488	skandha	skandha	n. 成分	0006b07	蘊	对译	0166c02	陰	补成分记录
+U30-104	S0488	saṃjñakasya	saṃjñaka	adj. nt. sg. gen.			省译	0166c02	名	补成分记录；saṃjñaka（名为…的）未译
 U30-015+1	S0488				0006b08	足	增译			合并时从 U30-015（法蘊足）拆出
 U30-016	S0488	vābhidharmaśāstrasyāsya	abhidharma-śāstra	cpd. nt. sg. gen.	0006b08	論	意译	0166c02	阿毘達磨	abhidharmaśāstra 此处只作"論"；下文"如對法中"又以"對法"译 abhidharma
 U30-017	S0488	vābhidharma	abhidharma	n. 成分	0006b08	對法	对译	0166c02	阿毘達磨	"如對法中《法蘊足》說"
+U30-105	S0488	śāstrasyā	śāstra	n. nt. sg. gen.	0006b08	論	对译			补成分记录
 U30-018	S0488				0006b08	如…中《法蘊足》說	增译			玄奘复述出处
 U30-019	S0489	tacca	ca	ind.	0006b08	謂	语法			"謂彼一一有六千頌"
 U30-020	S0489	tacca	tad	pron. nt. sg. nom.	0006b08	彼一一	意译	0166c02	其	代词还原（每一法蕴）
 U30-021	S0489	ṣaṭsahasrāṇi	ṣaṣ-sahasra	cpd. num. nt. pl. nom.	0006b08	六千	对译	0166c02	六千	
+U30-106	S0489	ṣaṭ	ṣaṣ	num. 成分	0006b08	六	对译	0166c02	六	补成分记录
+U30-107	S0489	sahasrāṇi	sahasra	num. nt. pl. nom.	0006b08	千	对译	0166c02	千	补成分记录
 U30-022	S0489				0006b08	有…頌	增译	0166c02	有…偈	补出"頌"（śloka）
 U30-023	S0490	apare	apara	pron. m. pl. nom.	0006b09	或	意译	0166c03	有諸師	apare（另一些人）译"或"（或說）
 U30-025	S0491	skandhādīnaṃ	skandha-ādi	cpd. m. pl. gen.	0006b06	蘊等	对译	0166c04	陰等	GRETIL 本作 skandhādīnaṃ，当读 skandhādīnāṃ
@@ -28,7 +34,7 @@ U30-029	S0491	kathaikaśaḥ	ekaśas	ind.	0006b06	隨	意译	0166c04	一一	本�
 U30-030	S0491				0006b06	或	增译			本颂"或"表另一说
 U30-031	S0492				0006b09	法蘊隨蘊等言一一差別數有八萬	增译			玄奘以长行复述颂文（"…數有八萬"）
 U30-032	S0492				0006b10	謂	增译			引出列举
-U30-033	S0492	skandhāyatanadhātupratītyasamutpādasatyāhāradhyānāpramāṇārūpyavimokṣābhibhvāyatanakṛtsnāyatanabodhipākṣikābhijñāpratisaṃvitpraṇidhijñānāraṇādīnāṃ	skandha-āyatana-dhātu-pratītyasamutpāda-satya-āhāra-dhyāna-apramāṇa-ārūpya-vimokṣa-abhibhvāyatana-kṛtsnāyatana-bodhipākṣika-abhijñā-pratisaṃvid-praṇidhijñāna-araṇā-ādi	cpd. m. pl. gen.	0006b10	蘊、處、界、緣起、諦、食、靜慮、無量、無色、解脫、勝處、遍處、覺品、神通、無諍、願智、無礙	对译	0166c04	陰、入、界、緣生、諦、食、定、無量、無色、解脫、制入、遍入、覺、助、通、解、願、智、	玄奘把末四项排作神通、無諍、願智、無礙解；xz 截至"無礙"（"解等"在 0006b12）
+U30-033	S0492	skandhāyatanadhātupratītyasamutpādasatyāhāradhyānāpramāṇārūpyavimokṣābhibhvāyatanakṛtsnāyatanabodhipākṣikābhijñāpratisaṃvitpraṇidhijñānāraṇādīnāṃ	skandha-āyatana-dhātu-pratītyasamutpāda-satya-āhāra-dhyāna-a-pramāṇa-ārūpya-vimokṣa-abhibhū-āyatana-kṛtsna-āyatana-bodhipākṣika-abhijñā-pratisaṃvid-praṇidhi-jñāna-araṇā-ādi	cpd. m. pl. gen.	0006b10	蘊、處、界、緣起、諦、食、靜慮、無量、無色、解脫、勝處、遍處、覺品、神通、無諍、願智、無礙	对译	0166c04	陰、入、界、緣生、諦、食、定、無量、無色、解脫、制入、遍入、覺、助、通、解、願、智、	玄奘把末四项排作神通、無諍、願智、無礙解；xz 截至"無礙"（"解等"在 0006b12）
 U30-034	S0492	skandhā	skandha	n. 成分	0006b10	蘊	对译	0166c04	陰	
 U30-035	S0492	āyatana	āyatana	n. 成分	0006b10	處	对译	0166c04	入	
 U30-036	S0492	dhātu	dhātu	n. 成分	0006b10	界	对译	0166c04	界	
@@ -39,22 +45,32 @@ U30-040	S0492	dhyānā	dhyāna	n. 成分	0006b10	靜慮	对译	0166c05	定
 U30-041	S0492	āpramāṇā	a-pramāṇa	n. 成分	0006b10	無量	对译	0166c05	無量	
 U30-042	S0492	ārūpya	ārūpya	n. 成分	0006b10	無色	对译	0166c05	無色	
 U30-043	S0492	vimokṣā	vimokṣa	n. 成分	0006b11	解脫	对译	0166c05	解脫	
-U30-044	S0492	ābhibhvāyatana	abhibhu-āyatana	cpd. 成分	0006b11	勝處	对译	0166c05	制入	
+U30-044	S0492	ābhibhvāyatana	abhibhū-āyatana	cpd. 成分	0006b11	勝處	对译	0166c05	制入	
+U30-108	S0492	ābhibhv	abhibhū	adj. 成分	0006b11	勝	对译	0166c05	制	补成分记录
+U30-109	S0492	āyatana	āyatana	n. 成分	0006b11	處	对译	0166c05	入	补成分记录
 U30-045	S0492	kṛtsnāyatana	kṛtsna-āyatana	cpd. 成分	0006b11	遍處	对译	0166c05	遍入	
+U30-110	S0492	kṛtsnā	kṛtsna	n. 成分	0006b11	遍	对译	0166c05	遍	补成分记录
+U30-111	S0492	āyatana	āyatana	n. 成分	0006b11	處	对译	0166c05	入	补成分记录
 U30-046	S0492	bodhipākṣikā	bodhipākṣika	adj. 成分	0006b11	覺品	对译	0166c05	覺、助	真谛分作"覺、助"
 U30-047	S0492	ābhijñā	abhijñā	n. 成分	0006b11	神通	对译	0166c05	通	
 U30-048	S0492	pratisaṃvit	pratisaṃvid	n. 成分	0006b11	無礙解	对译	0166c05	解	
 U30-049	S0492	praṇidhijñānā	praṇidhi-jñāna	cpd. 成分	0006b11	願智	对译	0166c05	願、智	真谛分作"願、智"
+U30-112	S0492	praṇidhi	praṇidhi	n. 成分	0006b11	願	对译	0166c05	願	补成分记录
+U30-113	S0492	jñānā	jñāna	n. 成分	0006b11	智	对译	0166c05	智	补成分记录
 U30-050	S0492	āraṇā	araṇā	n. 成分	0006b11	無諍	对译	0166c06	無爭	
 U30-051	S0492	ādīnāṃ	ādi	n. m. pl. gen.	0006b12	等	对译	0166c06	等	
 U30-052	S0492	kathā	kathā	n. f. sg. nom.	0006b12	教門	意译	0166c06	正教	
 U30-053	S0492	prātyekaṃ	pratyekam	ind.	0006b12	一一	对译	0166c06	一一	GRETIL 本作 prātyekaṃ，当读 pratyekaṃ
 U30-054	S0492	dharmaskandha iti	dharma-skandha	cpd. m. sg. nom.	0006b12	法蘊	对译	0166c06	法陰	"一"为增字
+U30-114	S0492	dharma	dharma	n. 成分	0006b12	法	对译	0166c06	法	补成分记录
+U30-115	S0492	skandha	skandha	n. m. sg. nom.	0006b12	蘊	对译	0166c06	陰	补成分记录
 U30-055	S0492				0006b12	一	增译			"名一法蘊"之"一"
 U30-057	S0493	caritapratipakṣastu	carita-pratipakṣa	cpd. m. sg. nom.	0006b06	行對治	对译	0166c06	行對治	
 U30-058	S0493	carita	carita	n. 成分	0006b06	行	对译	0166c06	行	
 U30-059	S0493	pratipakṣastu	pratipakṣa	n. m. sg. nom.	0006b06	對治	对译	0166c07	對治	
 U30-060	S0493	dharmaskandho	dharma-skandha	cpd. m. sg. nom.			省译	0166c07	法陰	本颂此句未再出"法蘊"
+U30-122	S0493	dharma	dharma	n. 成分			省译	0166c07	法	补成分记录；整词玄奘省译
+U30-123	S0493	skandho	skandha	n. m. sg. nom.			省译	0166c07	陰	补成分记录；整词玄奘省译
 U30-061	S0493	'nuvarṇitaḥ	anu-varṇ	ptc. m. sg. nom. (caus.)	0006b06	如實	意译	0166c07	隨釋	anuvarṇita（所称述）玄奘作"如實"，即"如实之说"；真谛作"實判…隨釋"
 U30-062	S0494	evaṃ tu	evam	ind.	0006b12	如實	意译	0166c07	如此	evaṃ（如此）玄奘作"如實"，呼应颂文 anuvarṇita
 U30-063	S0494	varṇayanty	varṇ	v. pres. caus. 3pl.	0006b12	說	对译	0166c07	實判	
@@ -81,6 +97,8 @@ U30-082	S0495	bhagavatā	bhagavat	n. m. sg. instr.	0006b14	世尊	对译	0166c09
 U30-083	S0495	'śītir	aśīti	num. f. sg. nom.	0006b14	八萬	合译	0166c09	八萬	
 U30-100	S0495	dharmaskandhasahasrāṇy	dharma-skandha-sahasra	cpd. nt. pl. nom.	0006b14	八萬法蘊	合译	0166c09	八萬法陰	补整词记录；sahasra 与 aśīti 合为"八萬"
 U30-084	S0495	dharmaskandha	dharma-skandha	cpd. 成分	0006b14	法蘊	对译	0166c09	法陰	
+U30-116	S0495	dharma	dharma	n. 成分	0006b14	法	对译	0166c09	法	补成分记录
+U30-117	S0495	skandha	skandha	n. 成分	0006b14	蘊	对译	0166c09	陰	补成分记录
 U30-085	S0495	sahasrāṇy	sahasra	num. nt. pl. nom.	0006b14	八萬	合译	0166c09	八萬	
 U30-086	S0495	uktāni	vac	ptc. nt. pl. nom.	0006b14	宣說	对译	0166c09	正說	
 U30-088	S0496	yathaitāny	etad	pron. nt. pl. nom.	0006b14	彼	语法			
@@ -88,9 +106,13 @@ U30-089	S0496				0006b14	所說	增译			"如彼所說"之"所說"
 U30-090	S0496	tānyaśītir	aśīti	num. f. sg. nom.	0006b14	八萬	合译	0166c09	八萬	
 U30-101	S0496	dharmaskandhasahasrāṇy	dharma-skandha-sahasra	cpd. nt. pl. nom.	0006b14	八萬法蘊	合译	0166c09	八萬法陰	补整词记录；sahasra 与 aśīti 合为"八萬"
 U30-091	S0496	dharmaskandha	dharma-skandha	cpd. 成分	0006b14	法蘊	对译	0166c09	法陰	
+U30-118	S0496	dharma	dharma	n. 成分	0006b14	法	对译	0166c09	法	补成分记录
+U30-119	S0496	skandha	skandha	n. 成分	0006b14	蘊	对译	0166c10	陰	补成分记录
 U30-092	S0496	sahasrāṇy	sahasra	num. nt. pl. nom.	0006b14	八萬	合译	0166c09	八萬	
 U30-093	S0496	eṣveva	eva	ind.	0006b14	皆	语法			
 U30-094	S0496	pañcaskandheṣu	pañca-skandha	cpd. m. pl. loc.	0006b15	五	意译	0166c10	五陰	"蘊"承下省
+U30-120	S0496	pañca	pañcan	num. 成分	0006b15	五	对译	0166c10	五	补成分记录
+U30-121	S0496	skandheṣu	skandha	n. m. pl. loc.			省译	0166c10	陰	补成分记录；"蘊"承下省
 U30-096	S0496				0006b15	二蘊	增译	0166c10	色行二陰	玄奘、真谛都补出"二蘊"（真谛具体作"色行"）
 U30-097	S0496	opratipāditāni	prati-pad (caus.)	ptc. nt. pl. nom.	0006b15	所攝	意译	0166c10	入…攝	pratipādita（被归入）；GRETIL 本作 opratipāditāni，"o"疑为衍字（待核）
 U30-098	S0496				0006b15	如是餘處諸蘊處界類亦應然	增译			玄奘增出，引起下颂；真谛无

@@ -83,7 +83,7 @@ def lex_lemma(l, pos):
         l = 'ākhyā'
     if l == 'pañca':
         return 'pañcan'
-    if l.startswith('ṣaṭ-'):
+    if l.startswith(('ṣaṭ-', 'ṣaḍ-')):
         l = 'ṣaṣ-' + l[len('ṣaṭ-'):]
     parts = l.split('-')
     # 否定前缀：apratisaṃkhyā-nirodha、anutpatti-dharman 等复合词的首成分

@@ -10,28 +10,43 @@ U04-005	S0038	upaśāntaye	upaśānti	n. f. sg. dat.	0001b19	滅	意译	0162a19	
 U04-006	S0038	'bhyupāyaḥ	abhyupāya	n. m. sg. nom.	0001b19	勝方便	对译	0162a19	別方便	abhi- 译"勝"
 U04-007	S0038	bhramati	bhram	v. pres. 3sg.	0001b20	漂	意译	0162a19	轉	
 U04-008	S0038	bhavārṇave	bhava-arṇava	cpd. m. sg. loc.	0001b20	有海	对译	0162a19	有海	
+U04-066	S0038	bhavā	bhava	n. 成分	0001b20	有	对译	0162a19	有	补成分记录
+U04-067	S0038	ārṇave	arṇava	n. m. sg. loc.	0001b20	海	对译	0162a19	海	补成分记录
 U04-009	S0038	lokas	loka	n. m. sg. nom.	0001b20	世間	对译	0162a19	世間	
 U04-010	S0038	taddhetor	tad-hetu	cpd. m. sg. abl.	0001b20	因此	对译	0162a19	為此	
+U04-068	S0038	tad	tad	pron. 成分	0001b20	此	对译	0162a20	此	补成分记录；倒序作"因此"
+U04-069	S0038	dhetor	hetu	n. m. sg. abl.	0001b20	因	对译	0162a19	為	补成分记录；连声 tad-hetu → taddhetu
 U04-011	S0038	kilaiṣa	kila	ind.	0001b20	傳	语法	0162a20	傳	kila 表传闻，玄奘译"傳"（傳佛說）
 U04-012	S0038	śāstrā	śāstṛ	n. m. sg. instr.	0001b20	佛	意译	0162a20	佛	
 U04-013	S0038	uditaḥ	vad	ptc. m. sg. nom.	0001b20	說	对译	0162a20	說	
 U04-014	S0039	vinā	vinā	ind.	0001b21	離	对译	0162a20	離	
 U04-015	S0039	dharmapravicayenā	dharma-pravicaya	cpd. m. sg. instr.	0001b21	擇法	对译	0162a20	擇法覺分	真谛增"覺分"
+U04-070	S0039	dharma	dharma	n. 成分	0001b21	法	对译	0162a20	法	补成分记录
+U04-071	S0039	pravicayenā	pravicaya	n. m. sg. instr.	0001b21	擇	对译	0162a20	擇	补成分记录
 U04-016	S0039	kleśopaśamābhyupāyaḥ	kleśa-upaśama-abhyupāya	cpd. m. sg. nom.	0001b21	勝方便…滅…惑	意译	0162a20	別方便…除滅…惑	
+U04-072	S0039	kleśo	kleśa	n. 成分	0001b21	惑	对译	0162a21	惑	补成分记录
 U04-017	S0039	opaśamā	upaśama	n. 成分	0001b21	滅	对译	0162a21	除滅	
+U04-073	S0039	ābhyupāyaḥ	abhyupāya	n. m. sg. nom.	0001b21	勝方便	对译	0162a20	別方便	补成分记录；abhi- 译"勝"（同 U04-006）
 U04-018	S0040	kleśāś	kleśa	n. m. pl. nom.	0001b21	惑	对译	0162a21	惑	
 U04-019	S0040	bhramayanti	bhram (caus.)	v. pres. caus. 3pl.	0001b22	漂轉	对译	0162a21	輪轉	使役以"令"表出（U04-019b）；"能"为增字
 U04-019b	S0040	bhramayanti	caus.	gram. caus. (-aya-)	0001b22	令	语法			使役
 U04-020	S0040	saṃsāramahārṇeve	saṃsāra-mahā-arṇava	cpd. m. sg. loc.	0001b22	生死大海	对译	0162a21	生死海	
+U04-074	S0040	saṃsāra	saṃsāra	n. 成分	0001b22	生死	对译	0162a21	生死	补成分记录
 U04-021	S0040	mahārṇeve	mahā-arṇava	cpd. m. sg. loc.	0001b22	大海	对译	0162a21	海	
+U04-075	S0040	mahā	mahat	adj. 成分	0001b22	大	对译			补成分记录；真谛未译
+U04-076	S0040	ārṇeve	arṇava	n. m. sg. loc.	0001b22	海	对译	0162a21	海	补成分记录；GRETIL 本作 mahārṇeve
 U04-022	S0041	buddhenā	buddha	n. m. sg. instr.	0001b22	佛	对译	0162a22	佛世	
 U04-023	S0041	kila	kila	ind.	0001b22	傳	语法			
 U04-024	S0041	śāstrā kila	śāstṛ	n. m. sg. instr.			省译	0162a22	大師	śāstrā buddhena，玄奘只作"佛"；真谛作"大師佛世尊"
 U04-025	S0041	dharmapravicayasyā	dharma-pravicaya	cpd. m. sg. gen.	0001b23	擇法	对译	0162a22	簡擇法	
+U04-077	S0041	dharma	dharma	n. 成分	0001b23	法	对译	0162a22	法	补成分记录
+U04-078	S0041	pravicayasyā	pravicaya	n. m. sg. gen.	0001b23	擇	对译	0162a22	簡擇	补成分记录
 U04-025b	S0041	ārthe	artha	n. m. sg. loc.	0001b23	欲令…故	意译	0162a22	欲令	"为了"之义；"得"为增字
 U04-025c	S0041				0001b23	世間	增译	0162a22	弟子	玄奘补出"世間"，真谛作"弟子"
 U04-026	S0041	bhidharma uktaḥ	abhidharma	n. m. sg. nom.	0001b23	對法	对译	0162a23	阿毘達磨	
 U04-027	S0042	'bhidharmopadeśena	abhidharma-upadeśa	cpd. m. sg. instr.	0001b23	說對法	对译			
+U04-079	S0042	'bhidharmo	abhidharma	n. 成分	0001b23	對法	对译			补成分记录
+U04-080	S0042	opadeśena	upadeśa	n. m. sg. instr.	0001b23	說	对译			补成分记录
 U04-028	S0042	śiṣyaḥ	śiṣya	n. m. sg. nom.	0001b23	弟子	对译	0162a23	弟子	
 U04-029	S0042	śakto	śakta	ptc. adj. m. sg. nom.	0001b24	能	对译	0162a24	能	
 U04-030	S0042	dharmān	dharma	n. m. pl. acc.	0001b24	法	对译	0162a24	法	"諸"表复数（U04-030c），"相"为增字（U04-030d）
@@ -55,6 +70,7 @@ U04-042	S0043	dharmatrāto	dharmatrāta	n. 成分 (人名)	0001b26	法救	对译
 U04-043	S0043	dānavargīyakaraṇavad	udāna-vargīya-karaṇa-vat	cpd. ind.	0001b26	所集無常品等鄔拕南頌	意译	0162a26	撰集優陀那、伽他部類	玄奘以"無常品等"指明《法集要頌》（Udānavarga）；GRETIL 作 dānavargīya-
 U04-044	S0043	dānavargīya	udāna-vargīya	adj. 成分	0001b27	鄔拕南	音译	0162a26	優陀那	udāna 音译"鄔拕南"，增"頌"
 U04-044+1	S0043				0001b27	頌	增译			合并时从 U04-044（鄔拕南頌）拆出
+U04-081	S0043	karaṇa	karaṇa	n. 成分	0001b26	所集	意译	0162a26	撰集	补成分记录；-vat 前的词干；karaṇa（编作）译"所集"
 U04-045	S0043	vaibhāṣikāḥ	vaibhāṣika	n. m. pl. nom.	0001b27	毘婆沙師	音译	0162a26	毘婆沙師	
 U04-046	S0043	ityāhur	ah	v. perf. 3pl.	0001b27	傳說	意译	0162a27	傳說	āhuḥ（他们说）译"傳說"
 U04-046b	S0043	ityāhur	iti	ind.	0001b27	如此	语法	0162a27	如此	
@@ -62,6 +78,8 @@ U04-047	S0044	katame	katama	pron. m. pl. nom.	0001b27	何	语法	0162a27	何者
 U04-047b	S0044	dharmā yeṣāṃ	dharma	n. m. pl. nom.	0001b27	法	对译	0162a27	諸法	
 U04-048	S0044	pravicayārtham	pravicaya-artham	cpd. ind.	0001b28	為…所簡擇	意译	0162a27	所簡擇	
 U04-049	S0044	abhidharmopadeśa	abhidharma-upadeśa	cpd. m. sg. nom.	0001b28	說對法	对译	0162a28	說阿毘達磨	
+U04-082	S0044	abhidharmo	abhidharma	n. 成分	0001b28	對法	对译	0162a28	阿毘達磨	补成分记录；真谛音译
+U04-083	S0044	opadeśa	upadeśa	n. m. sg. nom.	0001b28	說	对译	0162a28	說	补成分记录
 U04-050	S0038	kleśaiśca	kleśa	n. m. pl. instr.	0001b20	惑	对译	0162a19	惑	据校准补入
 U04-051	S0038	kleśaiśca	instr.	gram. instr. (-aiḥ)	0001b20	由	语法	0162a19	由	第三格表原因；据校准补入
 U04-052	S0041	uktaḥ	vac	ptc. m. sg. nom.	0001b22	說	对译	0162a23	說	
@@ -69,6 +87,8 @@ U04-053	S0038	yata upaśāntaye	yatas	ind.			省译
 U04-054	S0038	'tra lokas	atra	ind.			省译			
 U04-055	S0039	yato na	na	ind.	0001b21	無	语法	0162a20	無	na … asti 译"無"
 U04-056	S0041	atastaddhetos	tad-hetu	cpd. m. sg. abl.	0001b22	因此	对译	0162a22	由此	
+U04-084	S0041	tad	tad	pron. 成分	0001b22	此	对译	0162a22	此	补成分记录
+U04-085	S0041	dhetos	hetu	n. m. sg. abl.	0001b22	因	对译	0162a22	因	补成分记录；真谛作"正因"
 U04-057	S0042	nahi vinā	na	ind.	0001b24	不	语法	0162a23	不	na hi
 U04-058	S0042	vinā 'bhidharmopadeśena	vinā	ind.	0001b23	離	对译	0162a23	離	
 U04-059	S0043	sa tu prakīrṇa	tu	ind.	0001b24	然	语法			转折

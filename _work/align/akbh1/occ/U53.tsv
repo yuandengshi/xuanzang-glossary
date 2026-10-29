@@ -6,30 +6,61 @@ U53-006	S1075	pañcabhūmikāni	pañca-bhūmika	cpd. adj. nt. pl. nom.	0012c25	�
 U53-007	S1075	pañca	pañcan	num. 成分	0012c25	五	对译	0172b20	五	
 U53-008	S1075	bhūmikāni	bhūmika	adj. nt. pl. nom.	0012c25	地	对译	0172b20	地	
 U53-009	S1075	kāyacakṣūrūpāṇi	kāya-cakṣus-rūpa	cpd. nt. pl. nom.	0012c25	身眼色	对译	0172b20	身眼色	
+U53-222	S1075	kāya	kāya	n. 成分	0012c25	身	对译	0172b20	身	补成分记录
+U53-223	S1075	cakṣū	cakṣus	n. 成分	0012c25	眼	对译	0172b20	眼	补成分记录
+U53-224	S1075	rūpāṇi	rūpa	n. nt. pl. nom.	0012c25	色	对译	0172b20	色	补成分记录
 U53-010	S1075				0012c25	三皆	增译			补出所指"三"及"皆"
 U53-011	S1075				0012c25	謂在…中	增译	0172b21	謂	"謂在欲界四靜慮中"
 U53-012	S1075	kāmāvacarāṇi	kāma-avacara	cpd. adj. nt. pl. nom.	0012c25	欲界	意译	0172b21	欲界地	kāmāvacara（欲界系）作"欲界"
+U53-225	S1075	kāmā	kāma	n. 成分	0012c25	欲	对译	0172b21	欲	补成分记录
+U53-226	S1075	āvacarāṇi	avacara	adj. nt. pl. nom.	0012c25	界	意译	0172b21	界地	补成分记录；avacara（所行之域、所属）译"界"
 U53-014	S1075	caturthadhyānabhūmikāni	caturtha-dhyāna-bhūmika	cpd. adj. nt. pl. nom.	0012c25	四靜慮	意译	0172b21	第四定地	玄奘以"四靜慮"统指四静虑地（不言"第四"）；bhūmika 未译
+U53-227	S1075	caturtha	caturtha	num. 成分 (ord.)	0012c25	四	意译	0172b21	第四	补成分记录；玄奘不言"第四"
+U53-228	S1075	dhyāna	dhyāna	n. 成分	0012c25	靜慮	对译	0172b21	定	补成分记录
+U53-229	S1075	bhūmikāni	bhūmika	adj. nt. pl. nom.			省译	0172b21	地	补成分记录；bhūmika 未译
 U53-015	S1076	dvibhūmikaṃ	dvi-bhūmika	cpd. adj. nt. sg. nom.			省译	0172b21	有二地	玄奘不言"二地"，以"唯在欲界初定"表之（"唯在"另记）
+U53-230	S1076	dvi	dvi	num. 成分			省译	0172b21	二	补成分记录
+U53-231	S1076	bhūmikaṃ	bhūmika	adj. nt. sg. nom.			省译	0172b21	地	补成分记录
 U53-016	S1076				0012c26	唯在	增译			
 U53-017	S1076	cakṣurvijñānaṃ	cakṣus-vijñāna	cpd. nt. sg. nom.	0012c26	眼識	对译	0172b21	眼識	
+U53-232	S1076	cakṣur	cakṣus	n. 成分	0012c26	眼	对译	0172b21	眼	补成分记录
+U53-233	S1076	vijñānaṃ	vijñāna	n. nt. sg. nom.	0012c26	識	对译	0172b21	識	补成分记录
 U53-018	S1076	kāmāvacaraṃ	kāma-avacara	cpd. adj. nt. sg. nom.	0012c26	欲界	意译	0172b21	欲界	
+U53-234	S1076	kāmā	kāma	n. 成分	0012c26	欲	对译	0172b21	欲	补成分记录
+U53-235	S1076	āvacaraṃ	avacara	adj. nt. sg. nom.	0012c26	界	意译	0172b22	界	补成分记录；avacara 译"界"
 U53-019	S1076	prathamadhyānabhūmikaṃ	prathama-dhyāna-bhūmika	cpd. adj. nt. sg. nom.	0012c26	初定	意译	0172b22	初定	bhūmika 未译
+U53-236	S1076	prathama	prathama	num. 成分 (ord.)	0012c26	初	对译	0172b22	初	补成分记录
+U53-237	S1076	dhyāna	dhyāna	n. 成分	0012c26	定	意译	0172b22	定	补成分记录
+U53-238	S1076	bhūmikaṃ	bhūmika	adj. nt. sg. nom.			省译			补成分记录；bhūmika 未译（真谛亦未译）
 U53-022	S1077	cakṣurūrdhva	cakṣus	n. nt. sg. nom.	0012c26	眼根	对译	0172b22	眼根	梵文两出 cakṣuḥ，玄奘只作一"眼根"
 U53-023	S1077				0012c26	望	增译			以"望"表比较
 U53-024	S1077	kāyas	kāya	n. m. sg. nom.	0012c26	身	对译	0172b22	身	
 U53-025	S1077	yadbhūmikaḥ	yad-bhūmika	cpd. adj. m. sg. nom.	0012c26	生地	意译	0172b22	地	yadbhūmika（在某地者）译"生地"（身所生之地）
+U53-239	S1077	yad	yad	pron. 成分			省译			补成分记录；关系代词 yad 未单独译出
+U53-240	S1077	bhūmikaḥ	bhūmika	adj. m. sg. nom.	0012c26	生地	意译	0172b22	地	补成分记录；yadbhūmika（在某地者）译"生地"（身所生之地），"生"并入 bhūmika
 U53-026	S1077	tadbhūmikaṃ	tad-bhūmika	cpd. adj. nt. sg. nom.	0012c27	等	意译	0172b22	等地	与 yadbhūmika 相关（"身在何地，眼即在何地"），译"等"
+U53-241	S1077	tad	tad	pron. 成分	0012c27	等	意译	0172b22	等	补成分记录；tadbhūmika（与之同地）以"等"表出
+U53-242	S1077	bhūmikaṃ	bhūmika	adj. nt. sg. nom.			省译	0172b22	地	补成分记录
 U53-027	S1077	ūrdhvabhūmikaṃ	ūrdhva-bhūmika	cpd. adj. nt. sg. nom.	0012c27	上	意译	0172b22	上地	bhūmika 未译
+U53-243	S1077	ūrdhva	ūrdhva	adj. 成分	0012c27	上	对译	0172b22	上	补成分记录
+U53-244	S1077	bhūmikaṃ	bhūmika	adj. nt. sg. nom.			省译	0172b22	地	补成分记录
 U53-028	S1077	vā	vā	ind.	0012c27	或…或	语法	0172b22	或…或	"或等或上"
 U53-029	S1077	vā cakṣur	cakṣus	n. nt. sg. nom.			省译			第二个 cakṣuḥ 未重出
 U53-030	S1077	na tv	na tu	ind.	0012c27	終不	语法	0172b23	定無	"終"强调绝不
 U53-031	S1077	adharabhūmikam	adhara-bhūmika	cpd. adj. nt. sg. nom.	0012c27	下	意译	0172b23	下地	"居"为补出
+U53-245	S1077	adhara	adhara	adj. 成分	0012c27	下	对译	0172b23	下	补成分记录
+U53-246	S1077	bhūmikam	bhūmika	adj. nt. sg. nom.			省译	0172b23	地	补成分记录
 U53-031+1	S1077				0012c27	居	增译			合并时从 U53-031（居下）拆出
 U53-032	S1078	yadbhūmikaṃ	yad-bhūmika	cpd. adj. nt. sg. nom.			省译	0172b23	隨…地	"yadbhūmikaṃ cakṣuḥ tadbhūmikam"玄奘只作"望眼等"
+U53-247	S1078	yad	yad	pron. 成分			省译	0172b23	隨	补成分记录
+U53-248	S1078	bhūmikaṃ	bhūmika	adj. nt. sg. nom.			省译	0172b23	地	补成分记录
 U53-033	S1078	cakṣustad	cakṣus	n. nt. sg. nom.	0012c27	眼	对译	0172b23	眼根	
 U53-034	S1078	tadbhūmikam	tad-bhūmika	cpd. adj. nt. sg. nom.	0012c27	等	意译	0172b23	等地	
+U53-249	S1078	tad	tad	pron. 成分	0012c27	等	意译	0172b23	等	补成分记录；tadbhūmika（与之同地）以"等"表出
+U53-250	S1078	bhūmikam	bhūmika	adj. nt. sg. nom.			省译	0172b23	地	补成分记录
 U53-035	S1078	adharabhūmikaṃ	adhara-bhūmika	cpd. adj. nt. sg. nom.	0012c27	下	意译	0172b23	下地	
+U53-251	S1078	adhara	adhara	adj. 成分	0012c27	下	对译	0172b23	下	补成分记录
+U53-252	S1078	bhūmikaṃ	bhūmika	adj. nt. sg. nom.			省译	0172b23	地	补成分记录
 U53-037	S1078	rūpaṃ	rūpa	n. nt. sg. nom.	0012c27	色	对译	0172b23	色	
 U53-038	S1078	viṣayo	viṣaya	n. m. sg. nom.			省译	0172b24	境界	
 U53-039	S1079	ūdhrvaṃ	ūrdhva	adj. nt. sg. nom.	0012c21	上	对译	0172b24	上	GRETIL 本作 ūdhrvaṃ，当读 ūrdhvaṃ
@@ -37,8 +68,12 @@ U53-040	S1079	rūpaṃ	rūpa	n. nt. sg. nom.	0012c21	色	对译	0172b24	色
 U53-042	S1079	cakṣuṣaḥ	cakṣus	n. nt. sg. gen.	0012c21	眼	对译			真谛作"非下境"
 U53-044	S1080	kadācid	kadācit	ind.			省译	0172b24	未曾	真谛以"未曾有"合译 na kadācit
 U53-045	S1080	ūrdhrvabhūmikaṃ	ūrdhva-bhūmika	cpd. adj. nt. sg. nom.	0012c28	上	意译	0172b24	上地	GRETIL 本作 ūrdhrva-，当读 ūrdhva-；bhūmika 未译
+U53-253	S1080	ūrdhrva	ūrdhva	adj. 成分	0012c28	上	对译	0172b24	上	补成分记录；GRETIL 本作 ūrdhrva-，当读 ūrdhva-
+U53-254	S1080	bhūmikaṃ	bhūmika	adj. nt. sg. nom.			省译	0172b24	地	补成分记录
 U53-046	S1080	rūpam	rūpa	n. nt. sg. nom.	0012c28	色	对译	0172b25	色	
 U53-047	S1080	adhobhūmikena	adhas-bhūmika	cpd. adj. nt. sg. instr.	0012c28	下	意译	0172b25	下地	bhūmika 未译
+U53-255	S1080	adho	adhas	ind. 成分	0012c28	下	对译	0172b25	下	补成分记录
+U53-256	S1080	bhūmikena	bhūmika	adj. nt. sg. instr.			省译	0172b25	地	补成分记录
 U53-048	S1080	cakṣuṣā	cakṣus	n. nt. sg. instr.	0012c28	眼	对译	0172b25	眼	
 U53-049	S1080	draṣṭuṃ	dṛś	inf.	0012c28	見	对译	0172b25	見	
 U53-050	S1080	śakyate	śak	v. pres. pass. 3sg.	0012c28	能	对译	0172b25	能	
@@ -55,7 +90,11 @@ U53-061	S1083	kāyasyo	kāya	n. m. sg. gen.	0012c22	身	对译	0172b26	身
 U53-062	S1083	obhe	ubha	pron. nt. du. nom.	0012c22	二	对译	0172b26	二	
 U53-063	S1083	obhe ca	ca	ind.	0012c22	亦然	语法			ca 与承上省略的 sarvataḥ 合译"亦然"
 U53-066	S1084	anantaroktasya	an-antara-ukta	cpd. ptc. nt. sg. gen.			省译	0172b27	前所說	
+U53-257	S1084	anantaro	an-antara	adj. 成分			省译	0172b27	前	补成分记录
+U53-258	S1084	oktasya	vac	ptc. nt. sg. gen. (ukta)			省译	0172b27	所說	补成分记录
 U53-067	S1084	cakṣurvijñānasya	cakṣus-vijñāna	cpd. nt. sg. gen.	0012c29	識	意译	0172b27	眼識	玄奘只作"識"
+U53-259	S1084	cakṣur	cakṣus	n. 成分			省译	0172b27	眼	补成分记录；玄奘只作"識"
+U53-260	S1084	vijñānasya	vijñāna	n. nt. sg. gen.	0012c29	識	对译	0172b27	識	补成分记录
 U53-068	S1084	rūpaṃ	rūpa	n. nt. sg. nom.	0012c29	色	对译	0172b27	色	
 U53-069	S1084				0012c29	望	增译			"色望於識"
 U53-070	S1084	sarvato	sarvatas	ind.	0012c29	通	意译	0172b27	一切	sarvataḥ（于一切处）译"通"（通等上下）
@@ -63,9 +102,13 @@ U53-071	S1084	viṣayaḥ	viṣaya	n. m. sg. nom.			省译	0172b27	境界
 U53-072	S1084	ūrdhvam	ūrdhvam	ind.	0012c29	上	对译	0172b28	上	
 U53-073	S1084	adhaḥ	adhas	ind.	0012c29	下	对译	0172b28	下	
 U53-074	S1084	svabhūmau	sva-bhūmi	cpd. f. sg. loc.	0012c29	等	意译	0172b28	等	svabhūmi（自地）译"等"（同地）
+U53-261	S1084	sva	sva	pron. 成分	0012c29	等	意译	0172b28	等	补成分记录；svabhūmi（自地）以"等"（同地）表出
+U53-262	S1084	bhūmau	bhūmi	n. f. sg. loc.			省译			补成分记录
 U53-075	S1085	kāyasya	kāya	n. m. sg. gen.	0012c29	身	对译	0172b28	身	
 U53-076	S1085	cobhe	ubha	pron. nt. du. nom.			省译	0172b28	二	"ubhe rūpavijñāne"玄奘只作"色識"
 U53-077	S1085	rūpavijñāne	rūpa-vijñāna	cpd. nt. du. nom.	0012c29	色識	对译	0172b28	識及色	
+U53-263	S1085	rūpa	rūpa	n. 成分	0012c29	色	对译	0172b28	色	补成分记录
+U53-264	S1085	vijñāne	vijñāna	n. nt. du. nom.	0012c29	識	对译	0172b28	識	补成分记录
 U53-078	S1085	sarvato	sarvatas	ind.	0012c29	如色於識	意译	0172b28	一切	sarvataḥ（遍一切地）以比况"如色於識"表出
 U53-079	S1085	bhavataḥ	bhū	v. pres. 3du.			省译	0172b29	有	
 U53-082	S1085	cakṣuruttaṃ	cakṣus	n. nt. sg. nom.	0013a01	眼	对译	0172b29	眼根	
@@ -95,41 +138,69 @@ U53-108	S1089	trayāṇāṃ	traya	num. m. pl. gen.	0012c23	三	对译	0172c02	�
 U53-109	S1089				0012c23	次	增译	0172c02	餘	表次第（鼻舌身），真谛作"餘"
 U53-110	S1089	sarvameva	sarva	adj. nt. sg. nom.	0012c23	皆	对译	0172c03	一切	
 U53-111	S1089	svabhūmikam	sva-bhūmika	cpd. adj. nt. sg. nom.	0012c23	自地	对译	0172c03	屬自地	
+U53-265	S1089	sva	sva	pron. 成分	0012c23	自	对译	0172c03	自	补成分记录
+U53-266	S1089	bhūmikam	bhūmika	adj. nt. sg. nom.	0012c23	地	对译	0172c03	地	补成分记录
 U53-112	S1090	ghrāṇajihvākāyadhātūnāṃ	ghrāṇa-jihvā-kāya-dhātu	cpd. m. pl. gen.	0013a03	鼻舌身	意译	0172c03	鼻、舌、身界	dhātu 未译，"三"为补出
 U53-112+1	S1090				0013a03	三	增译			合并时从 U53-112（鼻舌身三）拆出
 U53-113	S1090	ghrāṇa	ghrāṇa	n. 成分	0013a03	鼻	对译	0172c03	鼻	
 U53-114	S1090	jihvā	jihvā	n. 成分	0013a03	舌	对译	0172c03	舌	
 U53-115	S1090	jihvākāya	kāya	n. 成分	0013a03	身	对译	0172c03	身	
+U53-267	S1090	dhātūnāṃ	dhātu	n. m. pl. gen.			省译	0172c03	界	补成分记录；dhātu 未译
 U53-116	S1090	kāyaviṣayavijñānāni	kāya-viṣaya-vijñāna	cpd. nt. pl. nom.	0013a03	總皆	意译	0172c03	身自塵及識	身、境、识三者以"總皆"概括
+U53-268	S1090	kāya	kāya	n. 成分			省译	0172c03	身	补成分记录；身、境、识三者玄奘以"總皆"概括
+U53-269	S1090	viṣaya	viṣaya	n. 成分			省译	0172c03	塵	补成分记录；身、境、识三者玄奘以"總皆"概括
+U53-270	S1090	vijñānāni	vijñāna	n. nt. pl. nom.			省译	0172c03	識	补成分记录；身、境、识三者玄奘以"總皆"概括
 U53-117	S1090	svabhūmikāny	sva-bhūmika	cpd. adj. nt. pl. nom.	0013a03	自地	对译	0172c04	屬自地	
+U53-271	S1090	sva	sva	pron. 成分	0013a03	自	对译	0172c04	自	补成分记录
+U53-272	S1090	bhūmikāny	bhūmika	adj. nt. pl. nom.	0013a03	地	对译	0172c04	地	补成分记录
 U53-118	S1091	utsargaviśeṣeṇa	utsarga-viśeṣa	cpd. m. sg. instr.			省译	0172c04	通立無差別	玄奘略去"先作通则"之语
+U53-273	S1091	utsarga	utsarga	n. 成分			省译	0172c04	通立	补成分记录；utsarga（通则）
+U53-274	S1091	viśeṣeṇa	viśeṣa	n. m. sg. instr.			省译	0172c04	無差別	补成分记录；待核：真谛作"無差別"，疑当读 utsargam aviśeṣeṇa（a-viśeṣa）
 U53-119	S1091	kṛtvā	kṛ	abs.			省译			
 U53-120	S1091				0013a03	於中	增译			玄奘以"於中別者"概括此句
 U53-121	S1091	viśeṣaṇārtham	viśeṣaṇa-artham	cpd. ind.			省译	0172c04	為簡別	
 U53-122	S1091	apavāda	apavāda	n. m. sg. nom.	0013a04	別	意译	0172c05	別言	apavāda（例外之规定）译"別"（別者）
 U53-123	S1091	ārabhyate	ā-rabh	v. pres. pass. 3sg.			省译	0172c04	更立	
 U53-124	S1092	kāyavijñānam	kāya-vijñāna	cpd. nt. sg. nom.	0012c24	身識	对译	0172c05	身識	
+U53-275	S1092	kāya	kāya	n. 成分	0012c24	身	对译	0172c05	身	补成分记录
+U53-276	S1092	vijñānam	vijñāna	n. nt. sg. nom.	0012c24	識	对译	0172c05	識	补成分记录
 U53-125	S1092	adharasvabhūmi	adhara-sva-bhūmi	cpd. adj. nt. sg. nom.	0012c24	自下地	意译	0172c05	下自地	玄奘倒序作"自下地"
 U53-126	S1092	adhara	adhara	adj. 成分	0012c24	下	对译	0172c05	下	
 U53-127	S1092	svabhūmi	sva	pron. 成分	0012c24	自	对译	0172c05	自	
 U53-128	S1092	bhūmi	bhūmi	n. nt. sg. nom.	0012c24	地	对译	0172c05	地	
 U53-129	S1093	kāyaḥ	kāya	n. m. sg. nom.	0013a04	身	对译	0172c05	身	
 U53-130	S1093	kāyadhātuḥ	kāya-dhātu	cpd. m. sg. nom.			省译			释语"kāyaḥ kāyadhātuḥ"玄奘未译
+U53-277	S1093	kāya	kāya	n. 成分			省译			补成分记录
+U53-278	S1093	dhātuḥ	dhātu	n. m. sg. nom.			省译			补成分记录
 U53-131	S1093	spraṣṭavyaṃ	spraṣṭavya	gdv. n. nt. sg. nom.	0013a04	觸	对译	0172c06	觸	
 U53-132	S1093	spraṣṭavyaṃ ca	ca	ind.	0013a04	與	语法			并列 ca 译"與"
 U53-133	S1093	svabhūmikāny	sva-bhūmika	cpd. adj. nt. pl. nom.	0013a04	其地…同	意译	0172c06	在自地	svabhūmika（各在自地）译"其地…同"
+U53-279	S1093	sva	sva	pron. 成分	0013a04	其…同	意译	0172c06	自	补成分记录；sva（各自）译"其…同"（其地必同）
+U53-280	S1093	bhūmikāny	bhūmika	adj. nt. pl. nom.	0013a04	地	对译	0172c06	地	补成分记录
 U53-134	S1093	nityaṃ	nityam	ind.	0013a04	必	意译	0172c06	恒	nityam（恒常）译"必"
 U53-135	S1094	kāyavijñānaṃ tu	kāya-vijñāna	cpd. nt. sg. nom.	0013a04	識	意译	0172c06	身識	玄奘只作"識"
+U53-281	S1094	kāya	kāya	n. 成分			省译	0172c06	身	补成分记录；玄奘只作"識"
+U53-282	S1094	vijñānaṃ	vijñāna	n. nt. sg. nom.	0013a04	識	对译	0172c06	識	补成分记录
 U53-136	S1094				0013a04	望觸身	增译			以"望觸身"表比较对象
 U53-138	S1094	svabhūmikaṃ	sva-bhūmika	cpd. adj. nt. sg. nom.	0013a05	自	意译	0172c06	屬自地	
+U53-283	S1094	sva	sva	pron. 成分	0013a05	自	对译	0172c06	自	补成分记录
+U53-284	S1094	bhūmikaṃ	bhūmika	adj. nt. sg. nom.			省译	0172c06	地	补成分记录
 U53-140	S1094				0013a05	若	增译			
 U53-141	S1094	kāmadhātuprathamadhyānopapannāṃ	kāma-dhātu-prathama-dhyāna-upapanna	cpd. m. pl. gen.	0013a05	生欲界初定	对译	0172c07	生欲界及初定	GRETIL 本作 -upapannāṃ，当读 -upapannānām
 U53-142	S1094	kāmadhātu	kāma-dhātu	cpd. 成分	0013a05	欲界	对译	0172c07	欲界	
+U53-285	S1094	kāma	kāma	n. 成分	0013a05	欲	对译	0172c07	欲	补成分记录
+U53-286	S1094	dhātu	dhātu	n. 成分	0013a05	界	对译	0172c07	界	补成分记录
 U53-143	S1094	prathamadhyāno	prathama-dhyāna	cpd. 成分	0013a05	初定	对译	0172c07	初定	
+U53-287	S1094	prathama	prathama	num. 成分 (ord.)	0013a05	初	对译	0172c07	初	补成分记录
+U53-288	S1094	dhyāno	dhyāna	n. 成分	0013a05	定	意译	0172c07	定	补成分记录
 U53-144	S1094	opapannāṃ	upa-pad	ptc. m. pl. gen.	0013a05	生	对译	0172c07	生	
 U53-146	S1095	adharabhūmikaṃ	adhara-bhūmika	cpd. adj. nt. sg. nom.	0013a05	下	意译	0172c07	屬下地	
+U53-289	S1095	adhara	adhara	adj. 成分	0013a05	下	对译	0172c07	下	补成分记录
+U53-290	S1095	bhūmikaṃ	bhūmika	adj. nt. sg. nom.			省译	0172c07	地	补成分记录
 U53-148	S1095	dvitīyādidhyānopapannānām	dvitīya-ādi-dhyāna-upapanna	cpd. m. pl. gen.	0013a05	生上三定	意译	0172c07	生二定	dvitīyādi（第二等）译"上三"
 U53-149	S1095	dvitīyādi	dvitīya-ādi	cpd. 成分	0013a05	上三	意译	0172c07	二定	
+U53-291	S1095	dvitīyā	dvitīya	num. 成分 (ord.)	0013a05	上三	合译	0172c07	二	补成分记录；与 ādi 合为"上三"（第二至第四定）
+U53-292	S1095	ādi	ādi	n. 成分	0013a05	上三	合译			补成分记录；与 dvitīya 合为"上三"
 U53-150	S1095	dhyāno	dhyāna	n. 成分	0013a05	定	意译	0172c07	定	
 U53-151	S1095	opapannānām	upa-pad	ptc. m. pl. gen.	0013a05	生	对译	0172c07	生	
 U53-152	S1095	nāmiti	iti	ind.	0013a05	謂之為	语法			句末 iti，玄奘以"謂之為下"重申"下"，待核
@@ -143,15 +214,28 @@ U53-160	S1097	mano bhavati	manas	n. nt. sg. nom.	0013a06	意	对译	0172c08	意�
 U53-161	S1097	kāyamanovijñānadharmaiḥ	kāya-manas-vijñāna-dharma	cpd. m. pl. instr.	0013a07	身識法	意译	0172c08	身意識法	manovijñāna 作"識"
 U53-162	S1097	kāyamano	kāya	n. 成分	0013a07	身	对译	0172c08	身	
 U53-163	S1097	manovijñāna	manas-vijñāna	cpd. 成分	0013a07	識	意译	0172c08	意識	
+U53-293	S1097	mano	manas	n. 成分			省译	0172c08	意	补成分记录；manovijñāna 玄奘作"識"
+U53-294	S1097	vijñāna	vijñāna	n. 成分	0013a07	識	对译	0172c09	識	补成分记录
 U53-164	S1097	dharmaiḥ	dharma	n. m. pl. instr.	0013a07	法	对译	0172c09	法	
 U53-166	S1097				0013a07	四皆	增译			补出"四"（意、身、識、法）及"皆"
 U53-167	S1097	samānabhūmikaṃ	samāna-bhūmika	cpd. adj. nt. sg. nom.	0013a07	同地	对译	0172c09	同在一地	
+U53-295	S1097	samāna	samāna	adj. 成分	0013a07	同	对译	0172c09	同	补成分记录
+U53-296	S1097	bhūmikaṃ	bhūmika	adj. nt. sg. nom.	0013a07	地	对译	0172c09	地	补成分记录
 U53-169	S1097	ūrdhvādhobhūmikam	ūrdhva-adhas-bhūmika	cpd. adj. nt. sg. nom.	0013a07	上下	意译	0172c09	上下為地	bhūmika 未译
+U53-297	S1097	ūrdhvā	ūrdhva	adj. 成分	0013a07	上	对译	0172c09	上	补成分记录
+U53-298	S1097	ādho	adhas	ind. 成分	0013a07	下	对译	0172c09	下	补成分记录
+U53-299	S1097	bhūmikam	bhūmika	adj. nt. sg. nom.			省译	0172c09	地	补成分记录；bhūmika 未译
 U53-170	S1098	pañcabhūmike	pañca-bhūmika	cpd. adj. m. sg. loc.	0013a07	五地	对译	0172c09	五地	
+U53-300	S1098	pañca	pañcan	num. 成分	0013a07	五	对译	0172c09	五	补成分记录
+U53-301	S1098	bhūmike	bhūmika	adj. m. sg. loc.	0013a07	地	对译	0172c09	地	补成分记录
 U53-172	S1098	kāye	kāya	n. m. sg. loc.	0013a07	身	对译	0172c09	身	
 U53-173	S1098				0013a07	唯	增译			"身唯五地"
 U53-174	S1098	sarvabhūmikāni	sarva-bhūmika	cpd. adj. nt. pl. nom.	0013a08	通一切	意译	0172c10	一切地	bhūmika 未译，"通"表遍
+U53-302	S1098	sarva	sarva	adj. 成分	0013a08	一切	对译	0172c10	一切	补成分记录
+U53-303	S1098	bhūmikāni	bhūmika	adj. nt. pl. nom.			省译	0172c10	地	补成分记录；bhūmika 未译
 U53-175	S1098	mana ādīni	manas-ādi	cpd. nt. pl. nom.	0013a07	三	意译	0172c10	意等	mana-ādi（意等，指意、识、法）以"三"概称
+U53-304	S1098	mana	manas	n. 成分			省译	0172c10	意	补成分记录；mana-ādi（意等）玄奘以"三"概称
+U53-305	S1098	ādīni	ādi	n. nt. pl. nom.	0013a07	三	意译	0172c10	等	补成分记录；以"三"概称意、識、法
 U53-176	S1098	samāpattyupapattikāle	samāpatti-upapatti-kāla	cpd. m. sg. loc.	0013a08	等至…生時	意译	0172c10	入觀時及受生時	"遊""及""受"为补出；"於"另记
 U53-176+1	S1098				0013a08	遊	增译			合并时从 U53-176（遊等至及受生時）拆出
 U53-176+2	S1098				0013a08	及	增译			合并时从 U53-176（遊等至及受生時）拆出
@@ -166,10 +250,15 @@ U53-184	S1098	samāpattinirdeśe	samāpatti-nirdeśa	cpd. m. sg. loc.	0013a09	�
 U53-185	S1098	samāpattinirdeśe	samāpatti	n. 成分	0013a09	定	意译	0172c11	三摩跋提	samāpatti 此作"定"，上文作"等至"
 U53-186	S1098	nirdeśe	nirdeśa	n. m. sg. loc.	0013a09	品	意译	0172c11	品	nirdeśa（章）译"品"
 U53-187	S1098	kośasthāna	kośa-sthāna	cpd. nt. sg. loc.			省译			kośasthāna（论之一章）未译
+U53-306	S1098	kośa	kośa	n. 成分			省译			补成分记录
+U53-307	S1098	sthāna	sthāna	n. nt. sg. loc.			省译			补成分记录；kośasthāne 连声作 kośasthāna
 U53-189	S1098				0013a09	如後	增译			"如後定品當廣分別"
 U53-190	S1098	ākhyāyiṣyate	ā-khyā	v. fut. pass. 3sg.	0013a09	分別	意译	0172c11	說	
 U53-192	S1099	atihahugranthabhāraparihārārthaṃ	ati-bahu-grantha-bhāra-parihāra-artham	cpd. ind.	0013a09	為捨繁文故	意译	0172c11	為離繁重言故	GRETIL 本作 atihahu-，当读 atibahu-
+U53-308	S1099	atihahu	ati-bahu	adj. 成分	0013a09	繁	合译	0172c11	繁	补成分记录；GRETIL 本作 atihahu，当读 atibahu；与 bhāra 合为"繁"
 U53-193	S1099	granthabhāra	grantha-bhāra	cpd. 成分	0013a09	繁文	意译	0172c11	繁重言	ati-bahu（过多）并入"繁"字
+U53-309	S1099	grantha	grantha	n. 成分	0013a09	文	对译	0172c12	言	补成分记录
+U53-310	S1099	bhāra	bhāra	n. 成分	0013a09	繁	合译	0172c11	重	补成分记录；与 ati-bahu 合为"繁"
 U53-194	S1099	parihār	parihāra	n. 成分	0013a09	捨	对译	0172c11	離	
 U53-195	S1099	ārthaṃ	artham	ind.	0013a09	為…故	语法	0172c11	為…故	复合词末的 -artham（为了）译"為…故"
 U53-196	S1099	nedānīṃ	na	ind.	0013a10	未	语法	0172c12	不	

@@ -227,3 +227,61 @@ akbh1_cpd_todo.py 找出孤立成分（标"成分"而句中没有整词记录包
 - 改 45 处：成分 skt 收窄（为使页面高亮——取 skt 在句中第一次出现处——落在正确位置，有的多带前一成分的末字母，如 odhātur、ticitta），末成分补性数格，U18-017/018 pañca āśrayāḥ 判为两个独立的词（num. pl. nom.、n. m. pl. nom.），U32-051、U32-058 tat/tad 判为独立代词（pron. nt. sg. nom.）。
 - 误报：B-9 pradeśivat、B-12 sapratighatvāt、B-15 audārikatvāt（单词干派生词）。
 - 待编者定：aṣṭādaśa-dhātu 照 aṣṭādaśa-dharma、daśa-dhātu 的先例写（不作 aṣṭādaśan-）；pañcāśrayāḥ 作两个词；U21-029 真谛 pm "一鼻一孔生"的"生"属 saṃbhava（工具改不了 pm，note 已说明）；U32-100 的格。
+
+# 补成分记录（2026-10-29，用户要求"也把缺的成分记录补上"）
+
+akbh1_member_todo.py 找成分记录不全的复合词（920 个，脚本推测缺约 1,787 个成分；其中 708 个复合词原无成分记录），分七组逐个核对补写（akbh1_add_records.py，after 栏按句中次序插在整词或前一成分之后），新记录 note 皆作"补成分记录"。
+
+## M5：U42–U46
+
+- 新增 280 条（U42 58、U43 27、U44 92、U45 51、U46 52），其中省译 32 条；改已有 1 条（U44-252 gṛhaṇād 末成分 → n. nt. sg. abl.）。verify 0 错，lint 0 ERROR；member_todo 剩 3 个（U46-150 -arthena 已有语法记录；U44-178、U44-287 同一复合词里 sabhāga 出现两次，脚本分不清）。
+- 脚本漏报而实缺、已补：U42-107、U44-004、U44-071/077、U45-114、U46-040、U46-194（同句别的复合词的成分被算作已有）。
+- 新词目：koṭika、dharmaka（-ka 形式照 ādika 单独立目；catur-koṭika 在 U05、U33、U50 的写法宜统一）、dharmin、a-ṣaṣṭha、vi-i（ptc. (vīta)）、kṣānti、dṛśi、pāṭha、ānupūrvī（整词词目 pāṭha-anupūrvī 是否改 pāṭha-ānupūrvī 待定）。
+- 待定：U43-061、U42-092、U44-071 整词意译，成分难逐字对；分词词目 ā-śri 与 āśrita 并存（U46-188、193、345 用 āśrita）；tatsabhāga 真谛"非等分"，"非"未对给 tat；U42-120、U44-079 ca 标 ind. 成分；GRETIL 误字照录 skt、note 注正读。
+
+## M7：U53–U54
+
+- 新增 184 条（U53 89：U53-222~310；U54 95：U54-167~261），改已有 1 条（U54-083 indriya 末成分 skt 收窄为 indriyaṃ）。verify 0 错，lint 0 ERROR；member_todo 剩 1 个（U54-118 末成分已有 U54-120 ānantaraṃ，词目 anantaram，脚本误报）。
+- 新词目 11 个：avacara、utsarga、ati-bahu（照 ati-viprakṛṣṭa 合为一条）、jīvita、saumanasya、daurmanasya、upekṣā、śraddhā、vīrya、ājñā、ājñātāvin。序数词成分作 num. 成分 (ord.)；ukta 末成分作 vac … (ukta)；adhas 作 ind. 成分（无先例，待定）。
+- 待核：U53-274 utsargaviśeṣeṇa 真谛"通立無差別"，疑读 utsargam aviśeṣeṇa（已标待核；若成立，整词 U53-118 也要重拟）。
+- 合译、意译、概括处的分配见各条 note（dvitīya-ādi → 上三；ati-bahu、bhāra → 繁；tad-bhūmika → 等；色等五界、眼等五識中未单独译出的成分记省译）。
+- 页面问题：玄奘译语的高亮取所标行中第一处，单字译语（根、等、色、識）在同行前面已出现时会标错——主会话改页面。
+- 词目写法：ṣaḍ-āyatana 与 ṣaṣ-āyatana 并存。
+
+## M2：U11–U22
+
+- 新增 258 条（U11 21、U12 28、U13 34、U14 10、U15 14、U16 36、U17 7、U18 18、U19 19、U20 6、U21 5、U22 60；对译 219、意译 12、省译 24、合译 3），改已有 13 处。verify 0 错，lint 0 ERROR，member_todo 剩 0。
+- 更正脚本推测：-tva 前的词干（U15-132、U22-150、U22-151）标成分；U19-065 缺的是 tad；U22-008、U15-084 被同句别的记录抵掉。另补脚本漏报的 16 条（U14-046/049/051 dhātu、U19-050 cakṣus、U14-016、U15-038 颂文复述、U15-030、U19-025、U22-161）。全库另有 17 个复合词被脚本漏报（清单 scratchpad/memM2/script_missed.txt），末成分误标"成分"16 条（scratchpad/memM2/finalchk_all.txt）——主会话合并后处理。
+- 改已有：末成分补性数格 U11-003、U11-028、U14-027、U15-120、U19-087、U22-053、U22-132、U22-406；U12-041 mahā → mahat；U16-076 skt。
+- 新写法：ud-bhū（ptc. 成分 (udbhūta)）；api、hi 作成分标 ind. 成分；upādāya 作成分标 abs. 成分（词目 upa-ā-dā）。
+- 待定：mahā-bhūta 拆作 mahat→大、bhūta→種（意译）；U11-061 artha 合译"義"；U12-032 udbhūta、vṛtti 合译"增盛"；U16-071 daśāyatanāni 或为两词（标待核）；U22-295 anāgata、pratyutpanna 省译（玄奘以"等"概括）。
+
+## M4：U35–U41
+
+- 新增 230 条（U35 7、U36 48、U37 8、U38 32、U39 46、U40 9、U41 80），改已有 1 条（U36-044 skt 多带下一词开头，收窄）。verify 0 错，lint 0 ERROR，member_todo 剩 0。
+- 另补脚本漏报：U39-153/156 mahat；U35-006 asaṃskṛta（省译）；U39-049、U40-095 长行复述的同形复合词。
+- 切法：U40-045 a-dvaidhī-karaṇa 否定管整个 dvaidhī-karaṇa，补 a- (neg.)（gram. neg.）→ 非；nir-indriya 仿 nir-avaśeṣa 作一条；sa-vitarka + vicāra。
+- 新词目：viṣ、mūtra、vidha、a-vinirbhāga、vartin、anvaya、dvaidha（adj. 成分 (dvaidhī)）、nir-indriya、pada、lopa、go、ratha、pāṭha、kṣānti。
+- 待定：共用一个汉字的成分记合译（U38-004 六識的六个成分皆"六"；U38-069 眼等五根；U35-001 通），也可作省译；viṣ-mūtra；pāṭha-krama 意译的分法；caitasika-svabhāva 的 svabhāva → 法；karma-ja 的 ja → 從…所生；U41-176 ja 省译；sa- 重出的处理（U36-008、U36-102）；bhūta → 種 标对译；GRETIL 误字处 skt（U39-162、U39-190、U38-122）；U38-005 dhātu 真谛作"根"；U39-247 yathā-ukta 的 ukta → 所說。
+
+## M6：U47–U52
+
+- 新增 287 条（U47 3、U48 48、U49 73、U50 39、U51 24、U52 100），改已有 4 条 skt（U48-199、U51-003、U52-137、U52-193）。verify 0 错，lint 0 ERROR，member_todo 剩 0。
+- 脚本当作已有、其实缺（相邻复合词的成分或独立的词被抵掉）：U52-072、U52-115/116、U52-124、U52-196、U52-157/161/184、U52-191。
+- 新词目：ni-mīl（ptc. … (nimīlita)）、anyathībhāva、alāta、cakra、vāla、drākṣā、carman、koṭika、avacara。
+- 待定："X 等"概括成一字的四处（U50-137 根、U50-141 境、U51-049 餘、U52-047 境）两成分都记合译；U48-094 鼻等三；tad/sva-bhūmika 系列（代词还原记意译，bhūmika → 屬/地）；ardha-nimīlita、anyathībhāva、alāta-cakra（GRETIL 脱 ca，cakra skt 取 krā）的拆分；U49-175、U48-103 整词译语里的增字未拆；U50-118、U50-123、U52-163、U52-196 嵌套复合词未补中间层记录。
+
+## M1：U01–U10
+
+- 新增 284 条（U01 43、U02 17、U03 10、U04 20、U05 77、U06 16、U07 12、U08 8、U09 25、U10 56），改已有 16 条。verify 0 错，lint 0 ERROR，member_todo 剩 0。不补的只有后缀 -tva、-vat。
+- 另补候选外被顶替的：U01-095 pratipatti、saṃpad；U05-088 dravya；U10-469 viṣaya；U10-069 saṃsthāna 末成分。
+- 改已有：末成分误标"成分" → 性数格（U06-131、U07-071、U08-019、U09-071、U10-020、U10-023、U10-067、U10-166、U10-170、U10-306）；skt 收窄（U03-011、U05-023、U10-010、U10-019、U10-305）。skt 过宽未动：U01-004、U01-005、U09-003、U09-054、U09-006、U07-030。
+- 新词目：hita、pratipatti、saṃpad、upāya、vara、parama、arṇava、pada、lopa、go、ratha、sākṣātkriyā；-ka/-īya 派生词 pūrvaka、koṭika、sthānīya、pratilambhika。
+- 待定：U01-201 upāya → 方便（待核，取下句移后的译法）；-bhūta（成为）用 bhū ptc. (bhūta)，U26-115、U26-199 作 bhūta ptc. (bhū)，需统一；mahat/mahā 并存；多财释末的 -dharman 词目作 dharma；U05-074 duḥkhādi → 四 合译；U05-049 satya → 聖諦（"聖"为补出）；连声片段两边都取融合元音。
+
+## M3：U23–U34
+
+- 新增 319 条（U23 9、U24 16、U25 22、U26 17、U27 12、U28 14、U29 8、U30 20、U31 44、U32 26、U33 69、U34 62；其中 13 条给候选外被顶替的复合词），改已有 13 处。verify 0 错，lint 0 ERROR；member_todo 剩 5 个复合词（整词省译，暂未补成分）：U28-105、U30-060、U33-064、U34-010、U34-415。
+- 改已有：末成分补性数格 U23-033、U23-064、U24-017、U25-064、U25-068；skt 夹带下一词删去 U32-030、U33-042、U33-391、U34-350、U34-359；另 U32-028、U33-040、U33-389、U34-348、U34-357 收窄 skt。U33-025、U33-234、U34-372 按同词目先例加一层 cpd. 成分。
+- 新词目：abhibhu（照 abhibhu-āyatana；是否应作 abhibhū 待定）、vi-i（ptc. 成分 (vīta)）、koṭika、praṇidhi、sthiti、sādhāraṇa、vasti、guhya。
+- 待定：U27-026 vartamāna → 一（待核）；合译处 U26-213 根、U31-003 等、U33-333 等、U33-207/240 有對；U31-087 等处整词词目里成分连写（ānantyāyatana、abhibhvāyatana、kṛtsnāyatana、praṇidhijñāna）；U33-253 pm_line 疑应为 0167b11。

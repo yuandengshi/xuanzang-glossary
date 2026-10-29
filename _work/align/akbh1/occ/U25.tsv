@@ -13,6 +13,8 @@ U25-011	S0420	eteṣv	etad	pron. m. pl. loc.	0005b20	色等	意译	0165c24	五	�
 U25-012	S0420	skandheṣū	skandha	n. m. pl. loc.	0005b20	蘊	对译	0165c24	陰	
 U25-014	S0420				0005b20	與色等	增译	0165c25	與陰	
 U25-015	S0420	arthāyogāt	artha-a-yoga	cpd. m. sg. abl.	0005b21	義不相應	对译	0165c25	義不相應	
+U25-086	S0420	arthā	artha	n. 成分	0005b21	義	对译	0165c25	義	补成分记录
+U25-087	S0420	āyogāt	a-yoga	n. m. sg. abl.	0005b21	不相應	对译	0165c25	不相應	补成分记录
 U25-016	S0421	nahi	hi	ind.	0005b21	謂	语法			
 U25-017	S0421	tadrūpaṃ	tad	pron. nt. sg. nom.	0005b21	體	意译			代词 tad（无为）作"體"
 U25-018	S0421	rūpaṃ	rūpa	n. nt. sg. nom.	0005b21	色	对译	0165c26	色	
@@ -24,48 +26,68 @@ U25-023	S0422	skandho	skandha	n. m. sg. nom.	0005b22	蘊	对译	0165c27	陰
 U25-024	S0422	kutaḥ	kutas	ind.			省译	0165c27	何以故	
 U25-025	S0422				0005b22	彼與蘊	增译			
 U25-026	S0422	arthāyogāt /	artha-a-yoga	cpd. m. sg. abl.	0005b22	義不相應	对译	0165c27	不應陰義	
+U25-088	S0422	arthā	artha	n. 成分	0005b22	義	对译	0165c27	義	补成分记录
+U25-089	S0422	āyogāt	a-yoga	n. m. sg. abl.	0005b22	不相應	对译	0165c27	不應	补成分记录
 U25-027	S0423	rāśyartho	rāśi-artha	cpd. m. sg. nom.	0005b22	聚義	对译	0165c28	聚義	
+U25-090	S0423	rāśy	rāśi	n. 成分	0005b22	聚	对译	0165c28	聚	补成分记录
+U25-091	S0423	artho	artha	n. m. sg. nom.	0005b23	義	对译	0165c28	義	补成分记录
 U25-028	S0423	skandhārtha	skandha-artha	cpd. m. sg. nom.	0005b23	蘊	意译	0165c28	陰	artha 未译
+U25-092	S0423	skandhā	skandha	n. 成分	0005b23	蘊	对译	0165c28	陰	补成分记录
+U25-093	S0423	ārtha	artha	n. m. sg. nom.			省译			补成分记录；artha 未译
 U25-029	S0423				0005b23	如前具	增译	0165c28	前已	
 U25-030	S0423	tyuktam	vac	ptc. nt. sg. nom.	0005b23	說	对译	0165c28	說	
 U25-031	S0424	āsaṃskṛtam	a-saṃskṛta	ptc. adj. nt. sg. nom.	0005b23	無為	对译	0165c28	無為	"法"为增字
 U25-032	S0424	rūpādivad	rūpa-ādi-vat	cpd. ind.	0005b23	如色等	对译	0165c29	如色等	
+U25-094	S0424	rūpā	rūpa	n. 成分	0005b23	色	对译	0165c29	色	补成分记录
+U25-095	S0424	ādi	ādi	n. 成分	0005b23	等	对译	0165c29	等	补成分记录
 U25-033	S0424	atītādibhedabhinnaṃ	atīta-ādi-bheda-bhinna	cpd. nt. sg. nom.	0005b23	有過去等品類差別	意译	0165c28	過去未來現在等異	
 U25-034	S0424	atītā	atīta	ptc. 成分	0005b24	過去	对译	0165c28	過去	
 U25-035	S0424	ādi	ādi	n. 成分	0005b24	等	对译	0165c28	等	
 U25-036	S0424	bheda	bheda	n. 成分	0005b24	品類差別	意译	0165c29	異	
+U25-096	S0424	bhinnaṃ	bhid	ptc. nt. sg. nom. (bhinna)	0005b23	有	意译			补成分记录；bhinna（为…所区分）以"有"表出
 U25-038	S0424	gacchet	opt.	gram. opt. (-et)	0005b24	可	语法	0165c29	可	祈愿式表可能
 U25-039	S0424	abhisaṃkṣipyā	abhi-sam-kṣip	abs.	0005b24	略	对译	0165c29	攝聚	
 U25-040	S0424	tatsarvam	sarva	adj. nt. sg. nom.			省译	0165c29	一切	
 U25-041	S0424	aikadhyam	aikadhya	n. nt. sg. acc. (adv.)	0005b24	一聚	意译	0165c29	一處	
 U25-042	S0424	saṃkhyāṃ gacchet	saṃkhyāṃ gam	v. opt. 3sg. (idiom)	0005b24	名	意译	0165c29	立名	
 U25-043	S0424	āsaṃskṛtaskandha	a-saṃskṛta-skandha	cpd. m. sg. nom.	0005b24	無為蘊	对译	0165c29	無為陰	
+U25-097	S0424	āsaṃskṛta	a-saṃskṛta	ptc. adj. 成分	0005b24	無為	对译	0165c29	無為	补成分记录
+U25-098	S0424	skandha	skandha	n. m. sg. nom.	0005b24	蘊	对译	0166a01	陰	补成分记录
 U25-044	S0425				0005b24	又	增译			
 U25-045	S0425	ūpādānaskandhavacanaṃ	upādāna-skandha-vacana	cpd. nt. sg. nom.	0005b25	言取蘊	对译	0166a01	說取陰	
 U25-046	S0425	vacanaṃ	vacana	n. nt. sg. nom.	0005b25	言	对译	0166a01	說	
 U25-047	S0425	ūpādānaskandha	upādāna-skandha	cpd. 成分	0005b25	取蘊	对译	0166a01	取陰	
+U25-099	S0425	ūpādāna	upādāna	n. 成分	0005b25	取	对译	0166a01	取	补成分记录
+U25-100	S0425	skandha	skandha	n. 成分	0005b25	蘊	对译	0166a01	陰	补成分记录
 U25-048	S0425	saṃkleśavastujñāpanārthaṃ	saṃkleśa-vastu-jñāpana-artham	cpd. ind.	0005b25	為顯染依	对译	0166a01	為顯染污依止故	
 U25-049	S0425	saṃkleśavastujñāpanārthaṃ	-artham	gram. purpose	0005b25	為	语法	0166a01	為…故	
 U25-050	S0425	jñāpanā	jñāpana	n. 成分	0005b25	顯	对译	0166a01	顯	
 U25-051	S0425	saṃkleśavastu	saṃkleśa	n. 成分	0005b25	染	对译	0166a01	染污	
 U25-052	S0425	vastu	vastu	n. 成分	0005b25	依	意译	0166a01	依止	vastu（所依之事）译"依"
 U25-053	S0425	saṃkleśavyavadānavastujñāpanārthaṃ	saṃkleśa-vyavadāna-vastu-jñāpana-artham	cpd. ind.	0005b25	染淨…依…所顯	意译	0166a01	為顯染污清淨依止故	"二"为增字
+U25-101	S0425	saṃkleśa	saṃkleśa	n. 成分	0005b25	染	对译	0166a01	染污	补成分记录
 U25-053+1	S0425				0005b25	二	增译			合并时从 U25-053（染淨二依…所顯）拆出
 U25-054	S0425	vyavadāna	vyavadāna	n. 成分	0005b25	淨	对译	0166a01	清淨	
+U25-102	S0425	vastu	vastu	n. 成分	0005b25	依	意译	0166a02	依止	补成分记录；vastu（所依之事）译"依"
+U25-103	S0425	jñāpanā	jñāpana	n. 成分	0005b25	所顯	意译	0166a01	顯	补成分记录；玄奘改为"蘊言所顯"
 U25-055	S0425	skandhavacanaṃ	skandha-vacana	cpd. nt. sg. nom.	0005b25	蘊言	对译	0166a02	說陰	
+U25-104	S0425	skandha	skandha	n. 成分	0005b25	蘊	对译	0166a02	陰	补成分记录
+U25-105	S0425	vacanaṃ	vacana	n. nt. sg. nom.	0005b25	言	对译	0166a02	說	补成分记录
 U25-056	S0426	asaṃskṛtam	a-saṃskṛta	ptc. adj. nt. sg. nom.	0005b25	無為	对译	0166a02	無為	
 U25-057	S0426	obhayathā	ubhayathā	ind.	0005b26	此二義	意译	0166a02	此二義	
 U25-058	S0426	"pyasaṃskṛtam	api	ind.	0005b26	都	语法			na … api（两方面都不），玄奘作"都無"
 U25-059	S0426	arthāyogān	artha-a-yoga	cpd. m. sg. abl.	0005b26	義不相應	对译	0166a02	不相應	第五格译"故"
+U25-106	S0426	arthā	artha	n. 成分	0005b26	義	对译			补成分记录
+U25-107	S0426	āyogān	a-yoga	n. m. sg. abl.	0005b26	不相應	对译	0166a02	不相應	补成分记录
 U25-060	S0426	vyavasthāpitam	vi-ava-sthā (caus.)	ptc. nt. sg. nom.	0005b26	立	对译	0166a03	立	
 U25-061	S0426	teśu	tad	pron. m. pl. loc.	0005b26	蘊	意译	0166a03	陰	代词 teṣu 还原为"蘊"；GRETIL 本作 teśu
 U25-062	S0427	ghaṭoparamo	ghaṭa-uparama	cpd. m. sg. nom.	0005b27	瓶破	对译	0166a03	瓶，破壞	"有說"见 apare（未另立）
 U25-063	S0427	ghaṭoparamo	ghaṭa	n. 成分	0005b27	瓶	对译	0166a03	瓶	
-U25-064	S0427	ghaṭoparamo	uparama	n. 成分	0005b27	破	意译	0166a03	破壞	uparama（止息）此处译"破"
+U25-064	S0427	oparamo	uparama	n. m. sg. nom.	0005b27	破	意译	0166a03	破壞	uparama（止息）此处译"破"
 U25-065	S0427	na ghaṭa	ghaṭa	n. m. sg. nom.	0005b27	瓶	对译	0166a03	瓶	
 U25-066	S0427	skandhoparamo	skandha-uparama	cpd. m. sg. nom.	0005b27	蘊息	对译	0166a04	陰滅壞	
 U25-067	S0427	skandhoparamo	skandha	n. 成分	0005b27	蘊	对译	0166a04	陰	
-U25-068	S0427	skandhoparamo	uparama	n. 成分	0005b27	息	对译	0166a04	滅壞	
+U25-068	S0427	oparamo	uparama	n. m. sg. nom.	0005b27	息	对译	0166a04	滅壞	
 U25-069	S0427	arhatī	arh	v. pres. 3sg.	0005b27	應	合译	0166a04	可	bhavitum arhati 合译"應"
 U25-070	S0427	bhavitum	bhū	inf.	0005b27	應	合译			与 arhati 合为"應"
 U25-071	S0427	na skandho	skandha	n. m. sg. nom.	0005b27	蘊	对译	0166a04	陰	

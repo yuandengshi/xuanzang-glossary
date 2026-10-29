@@ -14,7 +14,11 @@ U12-010	S0219	ityete	etad	pron. m. pl. nom.	0003b01	地、水、火、風	意译
 U12-011	S0219	catvāraḥ	catur	num. m. pl. nom.			省译	0163c17	四	玄奘已列出"地、水、火、風"，不出"四"
 U12-012	S0219	svalakṣaṇopādāyarūpadhāraṇād	sva-lakṣaṇa-upādāya-rūpa-dhāraṇa	cpd. nt. sg. abl.	0003b01	持自相…所造色	对译	0163c17	持自相及所造…色	
 U12-013	S0219	svalakṣaṇo	sva-lakṣaṇa	cpd. 成分	0003b01	自相	对译	0163c17	自相	
+U12-142	S0219	sva	sva	pron. 成分	0003b01	自	对译	0163c17	自	补成分记录
+U12-143	S0219	lakṣaṇo	lakṣaṇa	n. 成分	0003b01	相	对译	0163c17	相	补成分记录
 U12-014	S0219	opādāyarūpa	upādāya-rūpa	cpd. 成分	0003b01	所造色	意译	0163c17	所造…色	upādāyarūpa（依大种而有之色）译"所造色"
+U12-144	S0219	opādāya	upa-ā-dā	abs. 成分	0003b01	所造	意译	0163c17	所造	补成分记录
+U12-145	S0219	rūpa	rūpa	n. 成分	0003b01	色	对译	0163c18	色	补成分记录
 U12-015	S0219	dhāraṇād	dhāraṇa	n. nt. sg. abl.	0003b01	持	对译	0163c17	持	
 U12-016	S0219				0003b01	能	增译	0163c17	能	玄奘、真谛都补"能"
 U12-017	S0219	dhātavaś	dhātu	n. m. pl. nom.	0003b02	界	对译	0163c18	界	"名為"为增字
@@ -22,6 +26,8 @@ U12-018	S0219	catvāri	catur	num. nt. pl. nom.	0003b02	四	对译	0163c18	四	�
 U12-019	S0219				0003b02	如是…界	增译			复指主语
 U12-020	S0219				0003b02	亦	增译			
 U12-021	S0219	mahābhūtāny	mahā-bhūta	cpd. nt. pl. nom.	0003b02	大種	对译	0163c18	大	
+U12-146	S0219	mahā	mahat	adj. 成分	0003b02	大	对译	0163c18	大	补成分记录
+U12-147	S0219	bhūtāny	bhūta	n. nt. pl. nom.	0003b02	種	意译			补成分记录；bhūta 与 mahat 合为"大種"，此取"種"
 U12-022	S0219	ucyante	vac	v. pres. pass. 3pl.	0003b02	名	对译	0163c18	名	
 U12-023	S0220	mahattvam	mahat-tva	n. nt. sg. nom.			省译	0163c19	大	"所以名大"之意，玄奘承上"亦名大種"而不重出
 U12-024	S0220	sarvānyarūpāśrayatvena	sarva-anya-rūpa-āśraya-tva	cpd. nt. sg. instr.	0003b02	一切餘色所依性	对译	0163c18	一切餘色依止	
@@ -34,6 +40,9 @@ U12-030	S0220	audārikatvāt	audārika-tva	n. nt. sg. abl.	0003b03	寬廣	意译
 U12-030+1	S0220				0003b03	體	增译			合并时从 U12-030（體寬廣）拆出
 U12-031	S0221	atha vā	athavā	ind.	0003b03	或	语法	0163c19	復次	
 U12-032	S0221	tadudbhūtavṛttiṣu	tad-udbhūta-vṛtti	cpd. m. pl. loc.	0003b03	增盛	意译	0163c19	極遍滿起	udbhūtavṛtti（其作用显著者）译"增盛"
+U12-148	S0221	tad	tad	pron. 成分			省译			补成分记录
+U12-149	S0221	udbhūta	ud-bhū	ptc. 成分 (udbhūta)	0003b03	增盛	合译			补成分记录；与 vṛtti 合为"增盛"
+U12-150	S0221	vṛttiṣu	vṛtti	n. m. pl. loc.	0003b03	增盛	合译			补成分记录；与 udbhūta 合为"增盛"
 U12-033	S0221	pṛthivyaptejovāyuskandheṣv	pṛthivī-ap-tejas-vāyu-skandha	cpd. m. pl. loc.	0003b03	地等…聚	意译	0163c19	地水…火風聚	玄奘以"地等"概括
 U12-034	S0221	pṛthivy	pṛthivī	n. 成分	0003b03	地	对译	0163c19	地	
 U12-035	S0221	aptejovāyuskandheṣv	ap	n. 成分			省译	0163c19	水	玄奘以"地等"概括水火風
@@ -42,7 +51,7 @@ U12-037	S0221	vāyuskandheṣv	vāyu	n. 成分			省译	0163c20	風
 U12-038	S0221	skandheṣv	skandha	n. m. pl. loc.	0003b03	聚	意译	0163c20	聚	skandha（团、聚）此处译"聚"
 U12-039	S0221	skandheṣv	loc.	gram. pl. loc. (-eṣu)	0003b03	於…中	语法	0163c20	中	第七格译"於…中"
 U12-040	S0221	mahāsṇniveśatvāt	mahā-saṃniveśa-tva	cpd. nt. sg. abl.	0003b03	形相大	意译	0163c20	形量大	GRETIL 本作 mahāsṇniveśatvāt，当读 mahāsaṃniveśatvāt；玄奘倒序
-U12-041	S0221	mahā	mahā	adj. 成分	0003b03	大	对译	0163c20	大	
+U12-041	S0221	mahā	mahat	adj. 成分	0003b03	大	对译	0163c20	大	
 U12-042	S0221	sṇniveśa	saṃniveśa	n. 成分	0003b03	形相	意译	0163c20	形量	saṃniveśa（结构、形态）
 U12-043	S0221				0003b04	或起種種大事用故	梵本缺文	0163c21	及於世間能作大事	GRETIL 本无；真谛亦有此意
 U12-044	S0222	dhātavaḥ	dhātu	n. m. pl. nom.	0003b04	大種	意译	0163c22	界	dhātu 此处译"大種"；"四"为增字
@@ -90,13 +99,21 @@ U12-087	S0227	eraṇāḥ	īraṇa	n. f. pl. nom.	0003a29	動	对译	0163c25	動
 U12-088	S0227				0003a29	性	增译	0163c25	性	补出"性"（自性）
 U12-089	S0228	kharaḥ	khara	adj. m. sg. nom.	0003b08	堅	对译	0163c26	堅	
 U12-090	S0228	pṛthivīdhātuḥ	pṛthivī-dhātu	cpd. m. sg. nom.	0003b08	地界	对译	0163c26	地界	
+U12-151	S0228	pṛthivī	pṛthivī	n. 成分	0003b08	地	对译	0163c26	地	补成分记录
+U12-152	S0228	dhātuḥ	dhātu	n. m. sg. nom.	0003b08	界	对译	0163c26	界	补成分记录
 U12-091	S0228				0003b08	性	增译	0163c26	為性	四句各补"性"
 U12-092	S0228	sneho	sneha	n. m. sg. nom.	0003b08	濕	对译	0163c26	濕	
 U12-093	S0228	'bdhātuḥ	ap-dhātu	cpd. m. sg. nom.	0003b08	水界	对译	0163c26	水界	
+U12-153	S0228	'b	ap	n. 成分	0003b08	水	对译	0163c26	水	补成分记录
+U12-154	S0228	dhātuḥ	dhātu	n. m. sg. nom.	0003b08	界	对译	0163c26	界	补成分记录
 U12-094	S0228	uṣṇatā	uṣṇatā	n. f. sg. nom.	0003b09	煖	对译	0163c27	熱	
 U12-095	S0228	tejodhātuḥ	tejas-dhātu	cpd. m. sg. nom.	0003b09	火界	对译	0163c26	火界	
+U12-155	S0228	tejo	tejas	n. 成分	0003b09	火	对译	0163c26	火	补成分记录
+U12-156	S0228	dhātuḥ	dhātu	n. m. sg. nom.	0003b09	界	对译	0163c26	界	补成分记录
 U12-096	S0229	īraṇā vāyu	īraṇa	n. f. sg. nom.	0003b09	動	对译	0163c27	動	
 U12-097	S0229	vāyudhātuḥ	vāyu-dhātu	cpd. m. sg. nom.	0003b09	風界	对译	0163c27	風界	
+U12-157	S0229	vāyu	vāyu	n. 成分	0003b09	風	对译	0163c27	風	补成分记录
+U12-158	S0229	dhātuḥ	dhātu	n. m. sg. nom.	0003b09	界	对译	0163c27	界	补成分记录
 U12-098	S0229	'nayā	idam	pron. f. sg. instr.	0003b09	由此	语法			第三格代词译"由此"
 U12-099	S0229	īryate	īr	v. pres. pass. 3sg.	0003b09	引	对译	0163c27	引	"能"为增字
 U12-100	S0229	bhūtasroto	bhūta-srotas	cpd. nt. sg. nom.	0003b09	大種…相續	意译	0163c27	諸大相續	
@@ -105,6 +122,8 @@ U12-102	S0229	sroto	srotas	n. nt. sg. nom.	0003b10	相續	意译	0163c27	相續	
 U12-103	S0229				0003b09	造	增译			玄奘补"造色"（大種造色）
 U12-104	S0229	deśāntarotpādanāt	deśa-antara-utpādana	cpd. nt. sg. abl.	0003b10	生至餘方	意译	0163c27	生異…處	
 U12-105	S0229	deśāntaro	deśa-antara	cpd. 成分	0003b10	餘方	对译	0163c27	異…處	
+U12-159	S0229	deśā	deśa	n. 成分	0003b10	方	对译	0163c28	處	补成分记录
+U12-160	S0229	āntaro	antara	adj. 成分	0003b10	餘	对译	0163c27	異	补成分记录
 U12-106	S0229	otpādanāt	utpādana	n. nt. sg. abl.	0003b10	生	对译	0163c27	生	
 U12-107	S0229	pradīperaṇavad	pradīpa-īraṇa-vat	cpd. ind.	0003b10	吹燈光	意译	0163c28	吹燈光	
 U12-108	S0229	pradīpe	pradīpa	n. 成分	0003b10	燈光	意译	0163c28	燈光	
@@ -114,11 +133,15 @@ U12-111	S0230	prakāraṇeṣu	prakaraṇa	n. nt. pl. loc.	0003b11	品類足論	
 U12-112	S0230	sūtre ca	sūtra	n. nt. sg. loc.	0003b11	契經	对译	0163c29	經	
 U12-113	S0230	nirdiṣṭaṃ	nir-diś	ptc. nt. sg. nom.	0003b11	言	意译	0163c28	云	
 U12-114	S0230	vāyudhātuḥ	vāyu-dhātu	cpd. m. sg. nom.	0003b11	風界	对译	0163c28	風…界	
+U12-161	S0230	vāyu	vāyu	n. 成分	0003b11	風	对译	0163c28	風	补成分记录
+U12-162	S0230	dhātuḥ	dhātu	n. m. sg. nom.	0003b11	界	对译	0163c29	界	补成分记录
 U12-115	S0230	laghusamudīraṇatvam	laghu-samudīraṇa-tva	cpd. nt. sg. nom.	0003b11	輕等動性	意译	0163c29	輕觸	"等"或对 sam-（待核）
 U12-116	S0230	laghu	laghu	adj. 成分	0003b11	輕	对译	0163c29	輕	
 U12-117	S0230	samudīraṇa	samudīraṇa	n. 成分	0003b12	動	对译			
 U12-118	S0231	laghutvam	laghu-tva	n. nt. sg. nom.	0003b12	輕	对译	0163c29	輕觸	
 U12-119	S0231	upādāya rūpam	upādāya-rūpa	cpd. nt. sg. nom.	0003b12	所造色	意译	0163c29	所造…色	
+U12-163	S0231	upādāya	upa-ā-dā	abs. 成分	0003b12	所造	意译	0163c29	所造	补成分记录
+U12-164	S0231	rūpam	rūpa	n. nt. sg. nom.	0003b12	色	对译	0164a01	色	补成分记录
 U12-120	S0231	rūpamapy	api	ind.	0003b12	復	意译	0163c29	或	
 U12-121	S0231	uktaṃ	vac	ptc. nt. sg. nom.	0003b12	說	对译	0163c29	說	
 U12-122	S0231	prakaraṇeṣu	prakaraṇa	n. nt. pl. loc.			省译			承上不重出书名
@@ -137,5 +160,10 @@ U12-134	S0232	'bhivyaktaḥ	abhi-vyañj	ptc. m. sg. nom.	0003b13	顯	对译	0164
 U12-135	S0232				0003b13	故亦言輕	增译			玄奘补出：所以经论又说"輕"
 U12-136	S0233	kaḥ	kim	pron. m. sg. nom.	0003b13	云何	语法	0164a02	云何	
 U12-137	S0233	pṛthivyādināṃ	pṛthivī-ādi	cpd. m. pl. gen. (?)	0003b13	地等	对译	0164a02	地等	GRETIL 本作 pṛthivyādināṃ
+U12-165	S0233	pṛthivy	pṛthivī	n. 成分	0003b13	地	对译	0164a02	地	补成分记录
+U12-166	S0233	ādināṃ	ādi	n. m. pl. gen. (?)	0003b13	等	对译	0164a02	等	补成分记录
 U12-138	S0233	pṛthivīdhātvādīnāṃ	pṛthivī-dhātu-ādi	cpd. m. pl. gen.	0003b13	地…等界	意译	0164a02	地界等	玄奘作"地等界"
+U12-167	S0233	pṛthivī	pṛthivī	n. 成分	0003b13	地	对译	0164a02	地	补成分记录
+U12-168	S0233	dhātvā	dhātu	n. 成分	0003b14	界	对译	0164a02	界	补成分记录
+U12-169	S0233	ādīnāṃ	ādi	n. m. pl. gen.	0003b14	等	对译	0164a02	等	补成分记录
 U12-139	S0233	viśeṣaḥ	viśeṣa	n. m. sg. nom.	0003b14	別	对译	0164a02	異義	

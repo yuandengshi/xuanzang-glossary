@@ -4,7 +4,8 @@
 Usage: python3 -I akbh1_prune.py AKBH1_DIR [--dry]
   按单位顺序，每个（词目, 译语）只留前两例；省译每个词目只留一例。
   多出的记录移到 AKBH1_DIR/occ_extra/ 存档（不删除，以后需要频次时可以恢复）。
-  note 中标"待核"的记录一律保留，不占两例的名额。
+  note 中标"待核"的记录一律保留，不占两例的名额；复合词的成分（pos 含"成分"，如 tad-vijñāna 的 tad）是复合词分析的
+  一部分，也不裁、不占名额。
 """
 import csv
 import glob
@@ -34,7 +35,7 @@ def main(d, dry):
         rows = list(csv.DictReader(open(f, encoding='utf-8'), delimiter='\t', quoting=csv.QUOTE_NONE))
         keep, extra = [], []
         for r in rows:
-            if is_fw(r) and '待核' not in r['note']:  # 标"待核"的留给用户审，不裁、不占名额
+            if is_fw(r) and '待核' not in r['note'] and '成分' not in r['pos']:  # 待核的留给用户审；复合词成分不裁
                 k = (r['lemma'], r['xz'] if r['type'] != '省译' else '（省译）')
                 count[k] += 1
                 lim = 1 if r['type'] == '省译' else 2

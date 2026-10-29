@@ -3,13 +3,19 @@ U31-001	S0497	tathā 'nye	tathā	ind.	0006b17	如是	语法	0166c10	如此
 U31-002	S0497	tathā 'nye	anya	pron. m. pl. nom.	0006b17	餘	对译	0166c10	餘	
 U31-003	S0497	skandhāyatanadhātavaḥ	skandha-āyatana-dhātu	cpd. m. pl. nom.	0006b17	蘊等	意译	0166c11	陰入及界等	āyatana、dhātu 以"等"概括
 U31-004	S0497	skandhā	skandha	n. 成分	0006b17	蘊	对译	0166c11	陰	
+U31-205	S0497	āyatana	āyatana	n. 成分	0006b17	等	合译	0166c11	入	补成分记录；与 dhātu 合用"等"
+U31-206	S0497	dhātavaḥ	dhātu	n. m. pl. nom.	0006b17	等	合译	0166c11	界	补成分记录；与 āyatana 合用"等"
 U31-005	S0497	yathāyogaṃ	yathāyogam	ind.	0006b17	隨其所應	对译	0166c10	應理	"各"为增字
 U31-006	S0497				0006b17	各	增译			
 U31-007	S0497	pratipādyā	prati-pad (caus.)	gdv. m. pl. nom.	0006b18	攝在	意译	0166c11	攝	pratipādya（应归入）
 U31-009	S0497	yathokteṣu	yathā-ukta	cpd. m. pl. loc.	0006b18	前說	意译	0166c11	前說	
+U31-207	S0497	yatho	yathā	ind.	0006b18	前	意译	0166c11	前	补成分记录
+U31-208	S0497	okteṣu	vac	ptc. m. pl. loc. (ukta)	0006b18	說	对译	0166c11	說	补成分记录
 U31-011	S0497	saṃpradhārya	saṃ-pra-dhṛ (caus.)	abs.	0006b18	審觀	对译	0166c11	熟思	
 U31-012	S0497	saṃpradhārya	abs.	gram. abs. (-ya)			省译			独立式未译出先行义
 U31-013	S0497	svalakṣaṇam	sva-lakṣaṇa	cpd. nt. sg. acc.	0006b18	自相	对译	0166c11	彼性類	
+U31-209	S0497	sva	sva	pron. 成分	0006b18	自	对译	0166c11	彼	补成分记录
+U31-210	S0497	lakṣaṇam	lakṣaṇa	n. nt. sg. acc.	0006b18	相	对译	0166c11	性類	补成分记录
 U31-015	S0498	sūtrāntareṣūktās	sūtra-antara	cpd. nt. pl. loc.	0006b19	餘契經	对译	0166c12	餘經	
 U31-016	S0498	sūtrāntareṣūktās	sūtra	n. 成分	0006b19	契經	对译	0166c12	經	
 U31-017	S0498	āntareṣūktās	antara	adj. nt. pl. loc.	0006b19	餘	对译	0166c12	餘	
@@ -22,7 +28,11 @@ U31-024	S0498	ṣūktās	vac	ptc. m. pl. nom.			省译	0166c12	說
 U31-025	S0498				0006b19	隨應	增译			取自本颂 yathāyogam
 U31-026	S0498	pratiopādyāḥ	prati-pad (caus.)	gdv. m. pl. nom.	0006b19	攝在	意译	0166c14	攝入	GRETIL 本作 pratiopādyāḥ，当读 pratipādyāḥ
 U31-028	S0498	yathokteṣu	yathā-ukta	cpd. m. pl. loc.	0006b19	前所說	意译	0166c12	如前所說	
+U31-211	S0498	yatho	yathā	ind.	0006b19	前	意译	0166c12	如前	补成分记录
+U31-212	S0498	okteṣu	vac	ptc. m. pl. loc. (ukta)	0006b19	所說	对译	0166c13	所說	补成分记录
 U31-029	S0498	skandhādiṣu	skandha-ādi	cpd. m. pl. loc.	0006b20	蘊等	对译	0166c13	陰入界	玄奘把"如此論中所說蘊等"移到后半
+U31-213	S0498	skandhā	skandha	n. 成分	0006b20	蘊	对译	0166c13	陰	补成分记录
+U31-214	S0498	ādiṣu	ādi	n. m. pl. loc.	0006b20	等	对译	0166c13	入界	补成分记录
 U31-030	S0498	lakṣaṇameṣāṃ	idam	pron. m. pl. gen.	0006b20	彼	语法			"彼一一自相"
 U31-031	S0498	svaṃ svaṃ	sva	pron. nt. sg. acc.	0006b20	自	对译	0166c13	彼	
 U31-032	S0498	svaṃ svaṃ	sva	pron. nt. sg. acc. (iterated)	0006b20	一一	意译			重复 svaṃ svaṃ 表分配，玄奘作"一一"
@@ -40,20 +50,30 @@ U31-044	S0499	samādhi	samādhi	n. 成分	0006b21	定	对译	0166c15	定
 U31-045	S0499	prajñā	prajñā	n. 成分	0006b21	慧	对译	0166c15	慧	
 U31-046	S0499	vimukti	vimukti	n. 成分	0006b21	解脫…解脫	对译	0166c15	解脫、解脫	一个 vimukti 兼作两蕴的成分，故重出
 U31-047	S0499	jñānadarśana	jñāna-darśana	cpd. 成分	0006b22	智見	对译	0166c15	知見	
+U31-215	S0499	jñāna	jñāna	n. 成分	0006b22	智	对译	0166c15	知	补成分记录
+U31-216	S0499	darśana	darśana	n. 成分	0006b22	見	对译	0166c15	見	补成分记录
 U31-048	S0499	darśanaskandhānāṃ	skandha	n. m. pl. gen.	0006b22	蘊	对译	0166c15	陰	
 U31-049	S0499	pañcānāṃ	pañcan	num. pl. gen.	0006b22	五	对译	0166c14	五	
 U31-050	S0499	skandhānāṃ	gen.	gram. pl. gen. (-ānām)	0006b22	彼中	语法			表部分的第六格（五蕴之中）
 U31-051	S0499	śīlaskandho	śīla-skandha	cpd. m. sg. nom.	0006b22	戒蘊	对译	0166c15	界陰	真谛本"界"当为"戒"之误
+U31-217	S0499	śīla	śīla	n. 成分	0006b22	戒	对译	0166c15	界	补成分记录；真谛"界"当为"戒"之误
+U31-218	S0499	skandho	skandha	n. m. sg. nom.	0006b22	蘊	对译	0166c15	陰	补成分记录
 U31-052	S0499				0006b22	此	增译			"此色蘊"之"此"（本论所说）
 U31-053	S0499	rūpaskandhena	rūpa-skandha	cpd. m. sg. instr.	0006b22	色蘊	对译	0166c15	色陰	
+U31-219	S0499	rūpa	rūpa	n. 成分	0006b22	色	对译	0166c15	色	补成分记录
+U31-220	S0499	skandhena	skandha	n. m. sg. instr.	0006b22	蘊	对译	0166c15	陰	补成分记录
 U31-054	S0499	saṃgṛhītaḥ	saṃ-grah	ptc. m. sg. nom.	0006b22	攝	对译	0166c15	入…攝	
 U31-055	S0500	śeṣāḥ	śeṣa	adj. m. pl. nom.	0006b22	餘	对译	0166c15	餘四	
 U31-056	S0500				0006b22	彼…四蘊此	增译			"彼餘四蘊此"之"彼""四蘊""此"
 U31-057	S0500	saṃskāraskandhena	saṃskāra-skandha	cpd. m. sg. instr.	0006b23	行蘊	对译	0166c16	行陰	
+U31-221	S0500	saṃskāra	saṃskāra	n. 成分	0006b23	行	对译	0166c16	行	补成分记录
+U31-222	S0500	skandhena	skandha	n. m. sg. instr.	0006b23	蘊	对译	0166c16	陰	补成分记录
 U31-058	S0500				0006b23	攝	增译	0166c16	攝	承上补出 saṃgṛhītāḥ
 U31-059	S0501				0006b23	又諸經說	增译	0166c16	復有	玄奘补出话题
 U31-060	S0501	daśānāṃ	daśan	num. pl. gen.	0006b23	十	对译	0166c16	十	
 U31-061	S0501	kṛtsnāyatanānām	kṛtsna-āyatana	cpd. nt. pl. gen.	0006b23	遍處	对译	0166c16	遍入	
+U31-223	S0501	kṛtsnā	kṛtsna	n. 成分	0006b23	遍	对译	0166c16	遍	补成分记录
+U31-224	S0501	āyatanānām	āyatana	n. nt. pl. gen.	0006b23	處	对译	0166c16	入	补成分记录
 U31-062	S0501				0006b23	等	增译			"十遍處等"之"等"（兼指下文勝處等）
 U31-063	S0501	maṣṭāv	aṣṭan	num. pl. nom.	0006b23	八	对译	0166c16	八	
 U31-064	S0501				0006b23	前…遍處	增译	0166c16	前…遍入	"前八遍處"之"前"及复出的"遍處"
@@ -62,11 +82,15 @@ U31-066	S0501	alobha	a-lobha	n. 成分	0006b23	無貪	对译	0166c16	無貪
 U31-067	S0501	svabhāvatvād	svabhāva	n. 成分	0006b24	性	对译	0166c17	自性	
 U31-068	S0501				0006b24	此	增译			
 U31-069	S0501	ddharmāyatanena	dharma-āyatana	cpd. nt. sg. instr.	0006b24	法處	对译	0166c17	法入	
+U31-225	S0501	dharmā	dharma	n. 成分	0006b24	法	对译	0166c17	法	补成分记录
+U31-226	S0501	āyatanena	āyatana	n. nt. sg. instr.	0006b24	處	对译	0166c17	入	补成分记录
 U31-070	S0501				0006b24	攝	增译	0166c17	所攝	承上补出 saṃgṛhīta
 U31-071	S0502	saparivārāṇi tu	tu	ind.	0006b24	若	语法	0166c17	若	
 U31-072	S0502	saparivārāṇi	sa-parivāra	adj. nt. pl. nom.	0006b24	兼助伴	意译	0166c17	共伴類	sa-（具）译"兼"，parivāra（眷属）译"助伴"
 U31-073	S0502	pañcaskandhasvabhāvatvān	pañca-skandha-svabhāva-tva	cpd. nt. sg. abl.	0006b24	五蘊性	对译	0166c17	五陰為性	
 U31-074	S0502	pañcaskandha	pañca-skandha	cpd. 成分	0006b24	五蘊	对译	0166c17	五陰	
+U31-227	S0502	pañca	pañcan	num. 成分	0006b24	五	对译	0166c17	五	补成分记录
+U31-228	S0502	skandha	skandha	n. 成分	0006b24	蘊	对译	0166c17	陰	补成分记录
 U31-075	S0502	svabhāvatvān	svabhāva	n. 成分	0006b24	性	对译	0166c17	性	
 U31-076	S0502				0006b24	即此	增译			
 U31-077	S0502	manodharmāyatanābhyām	manas-dharma-āyatana	cpd. nt. du. instr.	0006b24	意處法處	对译	0166c18	意法二入	
@@ -77,23 +101,33 @@ U31-081	S0502	āyatanābhyām	du.	gram. du. (-bhyām)			省译	0166c18	二	双�
 U31-082	S0502				0006b25	所攝	增译	0166c18	所攝	承上补出 saṃgṛhīta
 U31-083	S0503	tathā 'bhibhvāyatanāni	tathā	ind.	0006b25	亦爾	语法	0166c18	亦爾	
 U31-084	S0503				0006b25	攝八	增译			"攝八勝處"之"攝""八"
-U31-085	S0503	'bhibhvāyatanāni	abhibhu-āyatana	cpd. nt. pl. nom.	0006b25	勝處	对译	0166c18	制入	
+U31-085	S0503	'bhibhvāyatanāni	abhibhū-āyatana	cpd. nt. pl. nom.	0006b25	勝處	对译	0166c18	制入	
+U31-229	S0503	bhibhv	abhibhū	adj. 成分	0006b25	勝	对译	0166c18	制	补成分记录
+U31-230	S0503	āyatanāni	āyatana	n. nt. pl. nom.	0006b25	處	对译	0166c18	入	补成分记录
 U31-086	S0503				0006b25	應知	增译			
 U31-087	S0504	ākāśavijñānānantyāyatanakṛtsne	ākāśa-vijñāna-ānantyāyatana-kṛtsna	cpd. nt. du. nom.	0006b25	空、識遍處	对译	0166c18	空遍入、識遍入	ānantyāyatana 此处未译
 U31-088	S0504	ākāśa	ākāśa	n. 成分	0006b25	空	对译	0166c18	空	
 U31-089	S0504	vijñānā	vijñāna	n. 成分	0006b25	識	对译	0166c18	識	
+U31-231	S0504	ānantyā	ānantya	n. 成分			省译			补成分记录；ānantyāyatana 未译
+U31-232	S0504	āyatana	āyatana	n. 成分			省译			补成分记录；ānantyāyatana 未译
 U31-090	S0504	kṛtsne	kṛtsna	n. nt. du. nom.	0006b25	遍處	意译	0166c18	遍入	kṛtsna（遍满）译"遍處"
 U31-091	S0504	catvāri	catur	num. nt. pl. nom.	0006b26	四	对译	0166c19	四	
 U31-092	S0504	cākāśānantyāyatanādīni	ākāśa-ānantya-āyatana-ādi	cpd. nt. pl. nom.	0006b26	空無邊等…處	意译	0166c19	空等…無邊入	"無色"为增字；āyatana 译"處"置于末尾
 U31-092+1	S0504				0006b26	無色	增译			合并时从 U31-092（空無邊等…無色處）拆出
 U31-093	S0504	cākāśā	ākāśa	n. 成分	0006b26	空	对译	0166c19	空	
 U31-094	S0504	ānantyāyatanādīni	ānantya	n. 成分	0006b26	無邊	对译	0166c19	無邊	
+U31-233	S0504	āyatanā	āyatana	n. 成分	0006b26	處	对译	0166c19	入	补成分记录；玄奘置于末尾
 U31-095	S0504	āyatanādīni	ādi	n. nt. pl. nom.	0006b26	等	对译	0166c19	等	
 U31-096	S0504				0006b26	無色	增译			"四無色處"之"無色"
 U31-097	S0504	catuḥskandhasvabhāvatvāt	catur-skandha-svabhāva-tva	cpd. nt. sg. abl.	0006b26	四蘊性	对译	0166c19	四陰為性	
 U31-098	S0504	catuḥskandha	catur-skandha	cpd. 成分	0006b26	四蘊	对译	0166c19	四陰	
+U31-234	S0504	catuḥ	catur	num. 成分	0006b26	四	对译	0166c19	四	补成分记录
+U31-235	S0504	skandha	skandha	n. 成分	0006b26	蘊	对译	0166c19	陰	补成分记录
 U31-099	S0504	svabhāvatvāt	svabhāva	n. 成分	0006b26	性	对译	0166c19	性	
 U31-100	S0504	manodharmāyatanābhyām	manas-dharma-āyatana	cpd. nt. du. instr.	0006b26	意處、法處	对译	0166c19	意法二入	
+U31-236	S0504	mano	manas	n. 成分	0006b26	意	对译	0166c19	意	补成分记录
+U31-237	S0504	dharmā	dharma	n. 成分	0006b27	法	对译	0166c19	法	补成分记录
+U31-238	S0504	āyatanābhyām	āyatana	n. nt. du. instr.	0006b26	處…處	对译	0166c19	入	补成分记录；dvandva 共用 āyatana，玄奘分作"意處、法處"
 U31-101	S0504				0006b26	即此	增译			
 U31-102	S0505	pañca vimuktyāyatanāni	pañcan	num. pl. nom.	0006b27	五	对译	0166c20	五	
 U31-103	S0505	vimuktyāyatanāni	vimukti-āyatana	cpd. nt. pl. nom.	0006b27	解脫處	对译	0166c20	解脫入	
@@ -103,6 +137,8 @@ U31-106	S0505	prajñāsvabhāvatvād	prajñā-svabhāva-tva	cpd. nt. sg. abl.	00
 U31-107	S0505	prajñā	prajñā	n. 成分	0006b27	慧	对译	0166c20	智慧	
 U31-108	S0505	svabhāvatvād	svabhāva	n. 成分	0006b27	性	对译	0166c20	性	
 U31-109	S0505	ddharmāyatanena	dharma-āyatana	cpd. nt. sg. instr.	0006b27	法處	对译	0166c20	法入	
+U31-239	S0505	dharmā	dharma	n. 成分	0006b27	法	对译	0166c20	法	补成分记录
+U31-240	S0505	āyatanena	āyatana	n. nt. sg. instr.	0006b27	處	对译	0166c20	入	补成分记录
 U31-110	S0505				0006b27	此…攝	增译	0166c20	所攝	
 U31-112	S0506	saparivārāṇi	sa-parivāra	adj. nt. pl. nom.	0006b28	兼助伴	意译	0166c20	共伴類	
 U31-113	S0506	śabdo manodharmāyatanaiḥ	śabda-manas-dharma-āyatana	cpd. nt. pl. instr.	0006b28	聲意法處	对译	0166c21	聲意法三入	GRETIL 本作 śabdo manodharmāyatanaiḥ，当读 śabdamanodharmāyatanaiḥ
@@ -126,6 +162,7 @@ U31-130	S0507				0006c01	所攝	增译	0166c22	所攝
 U31-131	S0507	gandharsāyatanābhāvāt	gandha-rasa-āyatana-abhāva	cpd. m. sg. abl.	0006c01	無香味	意译	0166c23	除香味入	GRETIL 本作 gandharsāyatana-，当读 gandharasāyatana-；āyatana 未译
 U31-132	S0507	gandharsā	gandha	n. 成分	0006c01	香	对译	0166c23	香	
 U31-133	S0507	gandharsā	rasa	n. 成分	0006c01	味	对译	0166c23	味	GRETIL 本作 -rsā-
+U31-241	S0507	āyatanā	āyatana	n. 成分			省译	0166c23	入	补成分记录；āyatana 未译
 U31-134	S0507	ābhāvāt	a-bhāva	n. m. sg. abl.	0006c01	無	对译	0166c23	除	
 U31-135	S0508				0006b29	及	增译			玄奘先把两处并举
 U31-136	S0508	naivasaṃjñānāsaṃjñāyatanopagā	naivasaṃjñānāsaṃjñāyatana-upaga	cpd. m. pl. nom.	0006b29	非想非非想處	对译	0166c22	非想非非想入	upaga（生于该处者）未译
@@ -133,6 +170,9 @@ U31-137	S0508	naivasaṃjñānāsaṃjñāyatano	naivasaṃjñānāsaṃjñāyat
 U31-138	S0508	opagā	upaga	adj. m. pl. nom.			省译			
 U31-139	S0508				0006c01	後處即此	增译	0166c23	第二入	
 U31-140	S0508	manodharmāyatanābhyām	manas-dharma-āyatana	cpd. nt. du. instr.	0006c01	意法處	对译	0166c23	意法二入	
+U31-242	S0508	mano	manas	n. 成分	0006c01	意	对译	0166c23	意	补成分记录
+U31-243	S0508	dharmā	dharma	n. 成分	0006c01	法	对译	0166c23	法	补成分记录
+U31-244	S0508	āyatanābhyām	āyatana	n. nt. du. instr.	0006c01	處	对译	0166c23	入	补成分记录
 U31-141	S0508				0006c01	攝	增译	0166c23	所攝	
 U31-142	S0508				0006c02	四蘊性故	增译			玄奘补出理由；GRETIL 本、真谛都无
 U31-143	S0509	evaṃ	evam	ind.	0006c02	又	语法	0166c23	如此	
@@ -182,10 +222,14 @@ U31-176	S0512	kimākāśam	ākāśa	n. nt. sg. nom.	0006c05	虛空	对译	0166c2
 U31-177	S0512	veditavyaḥ	vid	gdv. m. sg. nom.	0006c05	名為	意译	0166c27	應知	veditavya（应知为）玄奘作"名為"
 U31-178	S0512	veditavyaḥ	gdv.	gram. gdv. (-tavya)			省译	0166c27	應	
 U31-179	S0512	mevākāśadhātur	ākāśa-dhātu	cpd. m. sg. nom.	0006c05	空界	对译	0166c27	空界	
+U31-245	S0512	ākāśa	ākāśa	n. 成分	0006c05	空	对译	0166c27	空	补成分记录
+U31-246	S0512	dhātur	dhātu	n. m. sg. nom.	0006c05	界	对译	0166c27	界	补成分记录
 U31-180	S0512	sarvaṃ aca	sarva	adj. nt. sg. nom.	0006c05	一切	对译	0166c27	一切	GRETIL 本作 sarvaṃ aca，"aca"当读 ca
 U31-181	S0512	vijñānaṃ vijñāna	vijñāna	n. nt. sg. nom.	0006c05	識	对译	0166c27	識	
 U31-182	S0512				0006c05	名	增译			第二问承上补出"名"
 U31-183	S0512	vijñānadhātuḥ	vijñāna-dhātu	cpd. m. sg. nom.	0006c05	識界	对译	0166c28	識界	
+U31-247	S0512	vijñāna	vijñāna	n. 成分	0006c05	識	对译	0166c28	識	补成分记录
+U31-248	S0512	dhātuḥ	dhātu	n. m. sg. nom.	0006c06	界	对译	0166c28	界	补成分记录
 U31-186	S0513	kiṃ tarhi	kiṃ tarhi	ind.	0006c06	云何	语法	0166c28	云何非	
 U31-187	S0513	dvāravātāyanamukhanāsikādiṣu	dvāra-vātāyana-mukha-nāsikā-ādi	cpd. nt. pl. loc. (?)	0006c09	門窓及口鼻等	对译	0166c28	門風竅鼻口內等	S0513 末句引出下颂，玄奘译在 U32 论曰（0006c09）；"諸有""內外"为增字
 U31-188	S0513	dvāra	dvāra	n. 成分	0006c09	門	对译	0166c28	門	

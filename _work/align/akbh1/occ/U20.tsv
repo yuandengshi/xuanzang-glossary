@@ -9,6 +9,8 @@ U20-009	S0346	ekadhātutā	eka-dhātu-tā	cpd. f. sg. nom.	0004b28	界體一	意
 U20-010	S0346	ekadhātutā	dhātu	n. 成分	0004b28	界	对译	0165a11	界	
 U20-011	S0346	ekadhātutā	eka	num. 成分	0004b28	一	对译	0165a10	一	
 U20-012	S0346	cakṣuradīnaṃ	cakṣus-ādi	cpd. nt. pl. gen.	0004c04	眼等	对译			颂文 cakṣurādīnām 玄奘移至下句（然為令端嚴，眼等各生二）；GRETIL 本作 cakṣuradīnaṃ
+U20-047	S0346	cakṣur	cakṣus	n. 成分	0004c04	眼	对译			补成分记录
+U20-048	S0346	adīnaṃ	ādi	n. nt. pl. gen.	0004c04	等	对译			补成分记录；GRETIL 本作 -adīnaṃ
 U20-014	S0347	jātisāmānyam	jāti-sāmānya	cpd. nt. sg. nom.	0004b29	類同	对译	0165a11	同類	"者""謂"为增字
 U20-015	S0347	jāti	jāti	n. 成分	0004b29	類	对译	0165a11	類	
 U20-016	S0347	sāmānyam	sāmānya	n. nt. sg. nom.	0004b29	同	对译	0165a11	同	
@@ -30,9 +32,13 @@ U20-031	S0349	sāmānyam	sāmānya	n. nt. sg. nom.	0004c01	同	对译	0165a12	�
 U20-032	S0349	ekacakṣurvijñānāśrayatvāt	eka-cakṣus-vijñāna-āśraya-tva	cpd. nt. sg. abl.	0004c02	為眼識依	意译	0165a12	共為一眼識依止	玄奘未译 eka
 U20-033	S0349	eka	eka	num. 成分			省译	0165a12	一	
 U20-034	S0349	cakṣurvijñānā	cakṣus-vijñāna	cpd. 成分	0004c02	眼識	对译	0165a12	眼識	
+U20-049	S0349	cakṣur	cakṣus	n. 成分	0004c02	眼	对译	0165a12	眼	补成分记录
+U20-050	S0349	vijñānā	vijñāna	n. 成分	0004c02	識	对译	0165a13	識	补成分记录
 U20-035	S0349	āśraya	āśraya	n. 成分	0004c02	依	对译	0165a13	依止	
 U20-036	S0349	tasmad	tasmāt	ind.	0004c02	由此	语法	0165a13	是故	GRETIL 本作 tasmad
 U20-037	S0349	cakṣurdhātuḥ	cakṣus-dhātu	cpd. m. sg. nom.	0004c02	眼界	对译	0165a13	眼根	
+U20-051	S0349	cakṣur	cakṣus	n. 成分	0004c02	眼	对译	0165a13	眼	补成分记录
+U20-052	S0349	dhātuḥ	dhātu	n. m. sg. nom.	0004c02	界	对译			补成分记录
 U20-038	S0349				0004c02	雖二而	增译	0165a13	雖二共成	复述颂文"雖二"
 U20-039	S0349	eka eva	eka	num. m. sg. nom.	0004c02	一	对译	0165a13	一	
 U20-040	S0350	śrotraghrāṇayor	śrotra-ghrāṇa	cpd. nt. du. loc.	0004c02	耳鼻	对译	0165a13	耳鼻	

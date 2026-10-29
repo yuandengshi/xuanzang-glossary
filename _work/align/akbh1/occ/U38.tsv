@@ -2,10 +2,24 @@ oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
 U38-001	S0670	sapta	saptan	num. pl. nom.	0008b11	七	对译	0168b09	七	
 U38-002	S0670	sālambanāś	sa-ālambana	adj. m. pl. nom.	0008b11	有所緣	对译	0168b09	有緣緣	
 U38-003	S0670	cittadhātavaḥ	citta-dhātu	cpd. m. pl. nom.	0008b11	心	意译	0168b09	識	本颂 dhātu 未译
+U38-145	S0670	citta	citta	n. 成分	0008b11	心	对译	0168b09	識	补成分记录
+U38-146	S0670	dhātavaḥ	dhātu	n. m. pl. nom.			省译			补成分记录：本颂 dhātu 未译
 U38-004	S0671	cakṣuḥśrotraghrāṇajihvākāyamanovijñānadhātavo	cakṣus-śrotra-ghrāṇa-jihvā-kāya-manas-vijñāna-dhātu	cpd. m. pl. nom.	0008b13	六識	意译	0168b10	眼耳鼻舌身識…意識	玄奘以"六識"总括六识界
+U38-147	S0671	cakṣuḥ	cakṣus	n. 成分	0008b13	六	合译	0168b10	眼	补成分记录：眼、耳、鼻、舌、身、意六者合为"六"（六識）
+U38-148	S0671	śrotra	śrotra	n. 成分	0008b13	六	合译	0168b10	耳	补成分记录：合为"六"（六識）
+U38-149	S0671	ghrāṇa	ghrāṇa	n. 成分	0008b13	六	合译	0168b10	鼻	补成分记录：合为"六"（六識）
+U38-150	S0671	jihvā	jihvā	n. 成分	0008b13	六	合译	0168b10	舌	补成分记录：合为"六"（六識）
+U38-151	S0671	kāya	kāya	n. 成分	0008b13	六	合译	0168b10	身	补成分记录：合为"六"（六識）
+U38-152	S0671	mano	manas	n. 成分	0008b13	六	合译	0168b10	意	补成分记录：合为"六"（六識）
+U38-153	S0671	vijñāna	vijñāna	n. 成分	0008b13	識	对译	0168b10	識	补成分记录
+U38-154	S0671	dhātavo	dhātu	n. m. pl. nom.			省译			补成分记录：dhātu 未译
 U38-005	S0671	manodhātuś	manas-dhātu	cpd. m. sg. nom.	0008b13	意界	对译	0168b10	意根	
+U38-155	S0671	mano	manas	n. 成分	0008b13	意	对译	0168b10	意	补成分记录
+U38-156	S0671	dhātuś	dhātu	n. m. sg. nom.	0008b13	界	对译	0168b10	根	补成分记录：真谛作"意根"
 U38-006	S0671	ete sapta	saptan	num. pl. nom.			省译	0168b10	七	
 U38-007	S0671	cittadhātavaḥ sālambanā	citta-dhātu	cpd. m. pl. nom.			省译	0168b10	識界	
+U38-157	S0671	citta	citta	n. 成分			省译	0168b10	識	补成分记录
+U38-158	S0671	dhātavaḥ	dhātu	n. m. pl. nom.			省译	0168b10	界	补成分记录
 U38-008	S0671				0008b13	名	增译			"名有所緣"
 U38-009	S0671	sālambanā viṣaya	sa-ālambana	adj. m. pl. nom.	0008b13	有所緣	对译	0168b11	有緣緣	与 S0673 合为一句
 U38-010	S0671				0008b14	能	增译	0168b11	能	
@@ -18,11 +32,14 @@ U38-016	S0673	sālambanaṃ	sa-ālambana	adj. nt. sg. nom.	0008b13	有所緣	合
 U38-017	S0673				0008b13	法界攝諸	增译			"法界攝諸心所法"
 U38-018	S0673	caitasikasvabhāvam	caitasika-svabhāva	cpd. adj. nt. sg. nom.	0008b13	心所法	意译	0168b12	以心法為體	svabhāva（以…为体）未直译
 U38-019	S0673	caitasika	caitasika	adj. n. 成分	0008b13	心所	对译	0168b12	心法	
+U38-159	S0673	svabhāvam	svabhāva	n. nt. sg. nom.	0008b13	法	意译	0168b12	以…為體	补成分记录：svabhāva（以…为体）玄奘意译作"法"（心所法）
 U38-020	S0674	śeṣā	śeṣa	adj. m. pl. nom.	0008b14	餘	对译	0168b12	餘	
 U38-021	S0674	daśa	daśan	num. pl. nom.	0008b14	十	对译	0168b12	十	
 U38-022	S0674	rūpiṇo	rūpin	adj. m. pl. nom.	0008b14	色	对译	0168b12	有色	
 U38-023	S0674	dhātavo	dhātu	n. m. pl. nom.	0008b14	界	对译	0168b12	界	
 U38-024	S0674	dharmadhātupradeśaś	dharma-dhātu-pradeśa	cpd. m. sg. nom.	0008b14	法界	意译	0168b13	法界一分	pradeśa（一分）未译，以"法界攝…法"表出
+U38-160	S0674	dharma	dharma	n. 成分	0008b14	法	对译	0168b13	法	补成分记录
+U38-161	S0674	dhātu	dhātu	n. 成分	0008b14	界	对译	0168b13	界	补成分记录
 U38-025	S0674	pradeśaś	pradeśa	n. m. sg. nom.			省译	0168b13	一分	
 U38-026	S0674	cāsaṃprayuktako	a-saṃprayuktaka	adj. m. sg. nom.	0008b14	不相應	对译	0168b13	與心不相應	
 U38-027	S0674				0008b14	攝…法	增译			
@@ -53,8 +70,14 @@ U38-054	S0679	navānupāttāḥ	an-upātta	ptc. adj. m. pl. nom.	0008b17	無執�
 U38-055	S0679				0008b17	皆	增译			
 U38-056	S0679	sapta cittadhātavo	saptan	num. pl. nom.			省译	0168b16	七	玄奘已于上句"前七心界及法界全"列出
 U38-057	S0679	cittadhātavo	citta-dhātu	cpd. m. pl. nom.			省译	0168b16	識界	同上
+U38-162	S0679	citta	citta	n. 成分			省译	0168b16	識	补成分记录：玄奘已于上句列出
+U38-163	S0679	dhātavo	dhātu	n. m. pl. nom.			省译	0168b16	界	补成分记录：玄奘已于上句列出
 U38-058	S0679	dharmadhātuḥ	dharma-dhātu	cpd. m. sg. nom.			省译	0168b16	法界	同上
+U38-164	S0679	dharma	dharma	n. 成分			省译	0168b16	法	补成分记录：玄奘已于上句列出
+U38-165	S0679	dhātuḥ	dhātu	n. m. sg. nom.			省译	0168b16	界	补成分记录：玄奘已于上句列出
 U38-059	S0679	śabdadhātuś	śabda-dhātu	cpd. m. sg. nom.	0008b17	聲	意译	0168b16	聲界	dhātu 未译
+U38-166	S0679	śabda	śabda	n. 成分	0008b17	聲	对译	0168b16	聲	补成分记录
+U38-167	S0679	dhātuś	dhātu	n. m. sg. nom.			省译	0168b16	界	补成分记录：dhātu 未译
 U38-060	S0680	anye	anya	pron. m. pl. nom.	0008b12	餘	对译	0168b17	餘	本颂
 U38-061	S0680	dvidhā	dvidhā	ind.	0008b12	二	对译	0168b17	有二	本颂
 U38-062	S0680	anye	anya	pron. m. pl. nom.	0008b17	所餘	对译			长行复述本颂
@@ -66,6 +89,10 @@ U38-067	S0681	anupāttāś	an-upātta	ptc. adj. m. pl. nom.	0008b18	無執受	�
 U38-068	S0681				0008b18	故	增译			
 U38-069	S0682	cakṣuḥśrotraghrāṇajihvākāyāḥ	cakṣus-śrotra-ghrāṇa-jihvā-kāya	cpd. m. pl. nom.	0008b18	眼等五根	意译	0168b18	眼耳鼻舌身	
 U38-070	S0682	cakṣuḥ	cakṣus	n. 成分	0008b18	眼	对译	0168b18	眼	
+U38-168	S0682	śrotra	śrotra	n. 成分	0008b18	等	合译	0168b18	耳	补成分记录：耳、鼻、舌、身合为"等"（眼等五根）
+U38-169	S0682	ghrāṇa	ghrāṇa	n. 成分	0008b18	等	合译	0168b18	鼻	补成分记录：合为"等"（眼等五根）
+U38-170	S0682	jihvā	jihvā	n. 成分	0008b18	等	合译	0168b18	舌	补成分记录：合为"等"（眼等五根）
+U38-171	S0682	kāyāḥ	kāya	n. m. pl. nom.	0008b18	等	合译	0168b18	身	补成分记录：合为"等"（眼等五根）
 U38-071	S0682	pratyutpannā upāttāḥ	pratyutpanna	ptc. adj. m. pl. nom.	0008b18	現在	对译	0168b18	現在	
 U38-072	S0682				0008b18	住…世	增译			"住現在世"
 U38-073	S0682	pratyutpannā upāttāḥ	upātta	ptc. adj. m. pl. nom.	0008b18	有執受	对译	0168b18	有執	"名"为补出
@@ -78,6 +105,7 @@ U38-079	S0684	rūpa	rūpa	n. 成分	0008b19	色	对译	0168b18	色
 U38-080	S0684	gandha	gandha	n. 成分	0008b19	香	对译	0168b18	香	
 U38-081	S0684	rasa	rasa	n. 成分	0008b19	味	对译	0168b18	味	
 U38-082	S0684	spraṣṭavya	spraṣṭavya	gdv. n. 成分	0008b19	觸	对译	0168b18	觸	
+U38-172	S0684	dhātavaḥ	dhātu	n. m. pl. nom.			省译			补成分记录：dhātu 未译
 U38-083	S0684	pratyutpannā indriyā	pratyutpanna	ptc. adj. m. pl. nom.	0008b19	現在	对译	0168b19	現在	
 U38-084	S0684	indriyāvinirbhāgiṇa	indriya-a-vinirbhāgin	cpd. adj. m. pl. nom.	0008b20	不離…根	意译	0168b19	與根不相離	"五"为补出；玄奘倒序
 U38-084+1	S0684				0008b20	五	增译			合并时从 U38-084（不離五根）拆出
@@ -97,6 +125,8 @@ U38-098	S0685	nakha	nakha	n. 成分	0008b22	爪	对译	0168b20	爪
 U38-099	S0685	danteṣu	danta	n. m. pl. loc.	0008b22	齒	对译	0168b20	齒	
 U38-100	S0685	viṇmūtrakheṭasiṃghāṇakaśeṇitādiṣu	viṣ-mūtra-kheṭa-siṃghāṇaka-śoṇita-ādi	cpd. m. pl. loc. (?)	0008b22	大小便利洟唾血等	对译	0168b20	屎尿涕唾血等	GRETIL 本作 śeṇita，当读 śoṇita
 U38-101	S0685	viṇmūtra	viṣ-mūtra	cpd. 成分	0008b22	大小便利	意译	0168b20	屎尿	"大便、小便"合称"大小便利"
+U38-173	S0685	viṇ	viṣ	n. 成分	0008b22	大…便利	意译	0168b20	屎	补成分记录："大小便利"即大便利、小便利，二者共用"便利"
+U38-174	S0685	mūtra	mūtra	n. 成分	0008b22	小便利	意译	0168b20	尿	补成分记录：同上
 U38-102	S0685	kheṭa	kheṭa	n. 成分	0008b22	唾	对译	0168b20	唾	玄奘倒序作"洟唾"
 U38-103	S0685	siṃghāṇaka	siṃghāṇaka	n. 成分	0008b22	洟	对译	0168b20	涕	
 U38-104	S0685	śeṇitā	śoṇita	n. 成分	0008b22	血	对译	0168b20	血	GRETIL 本作 śeṇita
@@ -105,6 +135,7 @@ U38-106	S0685				0008b22	在身外	增译
 U38-107	S0685	bhūmyudakādiṣu	bhūmi-udaka-ādi	cpd. m. pl. loc. (?)	0008b23	地水等	对译	0168b20	地水	
 U38-108	S0685	bhūmy	bhūmi	n. 成分	0008b23	地	对译	0168b20	地	
 U38-109	S0685	udakā	udaka	n. 成分	0008b23	水	对译	0168b20	水	
+U38-175	S0685	ādiṣu	ādi	n. m. pl. loc. (?)	0008b23	等	对译	0168b21	等	补成分记录
 U38-111	S0685				0008b23	色香味觸，雖在現世而無執受	增译			玄奘补出谓语
 U38-112	S0686	upāttamiti	upātta	ptc. adj. nt. sg. nom.	0008b24	有執受	对译	0168b21	有執	真谛作"有執無執"
 U38-114	S0686				0008b24	此言	增译	0168b21	此言	
@@ -117,6 +148,7 @@ U38-119	S0687				0008b24	共	增译			"共所執持"
 U38-120	S0687	opiagṛhītam	upa-grah	ptc. nt. sg. nom.	0008b24	執持攝	意译	0168b21	攝	GRETIL 本作 upiagṛhītam，当读 upagṛhītam
 U38-122	S0687	adhiṣṭhānabhāvenopi	adhiṣṭhāna-bhāva	cpd. m. sg. instr.	0008b25	為依處	意译	0168b21	為自依止	
 U38-123	S0687	adhiṣṭhāna	adhiṣṭhāna	n. 成分	0008b25	依處	对译	0168b22	依止	
+U38-176	S0687	bhāveno	bhāva	n. m. sg. instr.	0008b25	為	意译	0168b21	為	补成分记录：adhiṣṭhāna-bhāvena（作为依处）之 bhāva 译"為"；GRETIL 本作 bhāvenopiagṛhītam，当读 bhāvenopagṛhītam
 U38-124	S0687				0008b25	名有執受	增译			补出所释之词
 U38-125	S0687	anugrahopaghātābhyām	anugraha-upaghāta	cpd. m. du. instr.	0008b25	損益	对译	0168b22	損益	玄奘、真谛都倒序
 U38-126	S0687	anugraho	anugraha	n. 成分	0008b25	益	对译	0168b22	益	

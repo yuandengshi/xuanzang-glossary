@@ -35,6 +35,7 @@ U01-030	S0002	jñāpanārthaṃ	jñāpana-artham	cpd. ind.	0001a10	為顯	对译
 U01-031	S0002	guṇākhyānapūrvakaṃ	guṇa-ākhyāna-pūrvaka	cpd. adj. m. sg. acc.	0001a11	先讚德	意译	0161c10	說眾德為先	
 U01-032	S0002	guṇ	guṇa	n. 成分	0001a11	德	对译	0161c10	德	
 U01-033	S0002	ākhyāna	ākhyāna	n. 成分	0001a11	讚	意译	0161c10	說	ākhyāna 本义"称说"
+U01-168	S0002	pūrvakaṃ	pūrvaka	adj. m. sg. acc.	0001a11	先	对译	0161c10	為先	补成分记录
 U01-034	S0002	namaskāram	namaskāra	n. m. sg. acc.	0001a11	敬禮	对译	0161c10	頂禮	
 U01-035	S0002	ārabhate	ā-rabh	v. pres. 3sg.	0001a11	申	意译			
 U01-036b	S0002	iti	iti	ind.	0001a11	言	语法			引语标记 iti 译"言"（諸言所表）
@@ -45,14 +46,22 @@ U01-040	S0003	hatamasyāndhakāramanena	bahuvrīhi	gram. (bahuvrīhi 释义)	000
 U01-041	S0003	hatam	han	ptc. nt. sg. nom. (hata)	0001a12	破	对译			长行以"破"释本颂的"滅"
 U01-042	S0003	āndhakāram	andhakāra	n. nt. sg. nom.	0001a12	闇	对译			本颂作"冥"，长行作"闇"
 U01-043	S0003	hatāndhakāraḥ	hata-andhakāra	cpd. m. sg. nom.	0001a12	冥滅	对译			
+U01-169	S0003	hatā	han	ptc. 成分 (hata)	0001a12	滅	对译			补成分记录
+U01-170	S0003	āndhakāraḥ	andhakāra	n. m. sg. nom.	0001a12	冥	对译			补成分记录
 U01-044	S0004	sarveṇa	sarva	adj. m. sg. instr.	0001a13	一切	对译			
 U01-045	S0004	prakāreṇa	prakāra	n. m. sg. instr.	0001a13	品	对译			prakāra 此处译"品"；sarvathā 中的"種"也对应此义
 U01-046	S0004	sarvasmin	sarva	pron. nt. sg. loc.	0001a13	諸境	意译			玄奘补出"境"
 U01-047	S0004	sarvathāsarvahatāndhakāraḥ	sarvathā-sarva-hata-andhakāra	cpd. m. sg. nom.	0001a12	一切種諸冥滅	对译			长行引颂
+U01-171	S0004	sarvathā	sarvathā	ind.	0001a12	一切種	对译			补成分记录
+U01-172	S0004	sarva	sarva	adj. 成分	0001a12	諸	对译			补成分记录
+U01-173	S0004	hatā	han	ptc. 成分 (hata)	0001a13	滅	对译			补成分记录
+U01-174	S0004	āndhakāraḥ	andhakāra	n. m. sg. nom.	0001a12	冥	对译			补成分记录
 U01-048	S0005	ajñānaṃ	a-jñāna	n. nt. sg. nom.	0001a13	無知	对译	0161c12	無明	真谛译"無明"
 U01-049	S0005	hi	hi	ind.	0001a13	以	语法			"以諸無知…故"
 U01-050	S0005	bhūtārthadarśanapratibandhād	bhūta-artha-darśana-pratibandha	cpd. m. sg. abl.	0001a13	能覆實義及障真見	拆译	0161c12	能障見真實義	玄奘拆为两个动宾短语
 U01-051	S0005	bhūtārtha	bhūta-artha	cpd. 成分	0001a14	實義	对译	0161c13	真實義	
+U01-175	S0005	bhūtā	bhū	ptc. 成分 (bhūta)	0001a14	實	对译	0161c13	真實	补成分记录
+U01-176	S0005	ārtha	artha	n. 成分	0001a14	義	对译	0161c13	義	补成分记录
 U01-052	S0005	darśana	darśana	n. 成分	0001a14	見	对译	0161c13	見	
 U01-053	S0005	pratibandhād	pratibandha	n. m. sg. abl.	0001a13	覆…障	拆译	0161c12	障	一词分作"覆""障"两个动词
 U01-054	S0005	pratibandhād	abl.	gram. abl. (-āt)	0001a14	故	语法	0161c13	故	第五格表原因
@@ -69,6 +78,7 @@ U01-062	S0006	jñeye	jñeya	n. nt. sg. loc. (gerundive)	0001a15	境	对译	0161c
 U01-063	S0006	anutpattidharmatvād	an-utpatti-dharmatva	cpd. nt. sg. abl.	0001a15	不生法	意译	0161c14	不生為法	-tva 未译；"證"为增字（U01-063b）；第五格"故"与 S0007 ataḥ 合用（U01-149）
 U01-063b	S0006				0001a15	證	增译			
 U01-064	S0006	anutpatti	an-utpatti	n. 成分	0001a15	不生	对译	0161c14	不生	
+U01-177	S0006	dharma	dharma	n. 成分	0001a15	法	对译	0161c15	法	补成分记录；-tva 前的词干
 U01-065	S0006	dhatam	han	ptc. nt. sg. nom. (hata)	0001a16	滅	对译	0161c15	滅	
 U01-066	S0006				0001a14	唯	增译			玄奘增"唯"（唯佛世尊）
 U01-067	S0008	pratyaikabuddhaśrāvakā	pratyekabuddha-śrāvaka	cpd. m. pl. nom.	0001a16	聲聞獨覺	对译	0161c15	獨覺及聲聞	玄奘倒序；GRETIL 本作 pratyaika-
@@ -76,6 +86,8 @@ U01-068	S0008	pratyaikabuddha	pratyekabuddha	n. 成分	0001a16	獨覺	对译	016
 U01-069	S0008	śrāvakā	śrāvaka	n. m. pl. nom.	0001a16	聲聞	对译	0161c15	聲聞	
 U01-070	S0008	kāmaṃ	kāmam	ind.	0001a16	雖	语法	0161c15	雖	表让步
 U01-071	S0008	hatāndhakārāḥ	hata-andhakāra	cpd. m. pl. nom.	0001a16	滅…冥	对译	0161c16	除…無明	
+U01-178	S0008	hatā	han	ptc. 成分 (hata)	0001a16	滅	对译	0161c16	除	补成分记录
+U01-179	S0008	āndhakārāḥ	andhakāra	n. m. pl. nom.	0001a16	冥	对译	0161c16	無明	补成分记录；真谛作"無明"
 U01-072	S0008	kliṣṭasaṃmohātyantavigamāt	kliṣṭa-saṃmoha-atyanta-vigama	cpd. m. sg. abl.	0001a16	染無知畢竟斷	对译	0161c16	染污無明極不生	
 U01-073	S0008	kliṣṭa	kliṣṭa	ptc. adj. 成分	0001a16	染	对译	0161c16	染污	
 U01-074	S0008	saṃmohā	saṃmoha	n. 成分	0001a16	無知	意译	0161c16	無明	saṃmoha 本义"迷惑"，玄奘与 ajñāna 同译"無知"
@@ -86,9 +98,13 @@ U01-078	S0009	na tu	na tu	ind.	0001a17	非	语法	0161c16	不	否定
 U01-078b	S0009	sarvathā	sarvathā	ind.	0001a17	一切種	对译	0161c16	一切種	
 U01-079	S0010	tatha hy	tathā hi	ind.	0001a17	所以者何…由	语法	0161c17	何以故	GRETIL 本作 tatha；玄奘以设问"所以者何"引出理由，再以"由"承接
 U01-080	S0010	buddhadharmeṣv	buddha-dharma	cpd. m. pl. loc.	0001a18	佛法	对译	0161c17	如來不共法	
+U01-180	S0010	buddha	buddha	n. 成分	0001a18	佛	对译	0161c17	如來	补成分记录
+U01-181	S0010	dharmeṣv	dharma	n. m. pl. loc.	0001a18	法	对译	0161c17	法	补成分记录；真谛作"不共法"
 U01-081	S0010	ativiprakṛṣṭadeśakāleṣu	ati-viprakṛṣṭa-deśa-kāla	cpd. m. pl. loc.	0001a18	極遠時處	对译	0161c18	最久遠時處	玄奘把 deśa-kāla 倒序作"時處"
 U01-082	S0010	ativiprakṛṣṭa	ati-viprakṛṣṭa	ptc. 成分	0001a18	極遠	对译	0161c18	最久遠	
 U01-083	S0010	deśakāleṣu	deśa-kāla	cpd. m. pl. loc.	0001a18	時處	对译	0161c18	時處	
+U01-182	S0010	deśa	deśa	n. 成分	0001a18	處	对译	0161c18	處	补成分记录；玄奘、真谛都倒序作"時處"
+U01-183	S0010	kāleṣu	kāla	n. m. pl. loc.	0001a18	時	对译	0161c18	時	补成分记录
 U01-084	S0010	artheṣu	artha	n. m. pl. loc.	0001a18	義類	意译	0161c18	餘境	
 U01-085	S0010	cānantaprabhedeṣu	an-anta-prabheda	cpd. m. pl. loc.	0001a18	無邊差別	对译	0161c18	無邊差別	
 U01-086	S0010	cānanta	an-anta	adj. 成分	0001a18	無邊	对译	0161c18	無邊	
@@ -98,12 +114,20 @@ U01-088b	S0010	ajñānam	a-jñāna	n. nt. sg. nom.	0001a18	無知	对译	0161c18
 U01-089	S0010	bhavaty	bhū	v. pres. 3sg.	0001a19	未斷	意译	0161c18	有	以否定式"未斷"表达"仍存在"；"猶"对应 eva（U01-153）
 U01-090	S0011	ātmahitapratipattisaṃpadā	ātma-hita-pratipatti-saṃpad	cpd. f. sg. instr.	0001a19	自利德滿	意译	0161c19	自利行究竟	
 U01-091	S0011	ātmahita	ātma-hita	cpd. 成分	0001a19	自利	对译	0161c19	自利	
+U01-184	S0011	ātma	ātman	n. 成分	0001a19	自	对译	0161c19	自	补成分记录
+U01-185	S0011	hita	hita	n. 成分	0001a19	利	对译	0161c19	利	补成分记录
 U01-092	S0011	pratipattisaṃpadā	pratipatti-saṃpad	cpd. f. sg. instr.	0001a19	德滿	意译	0161c19	行究竟	真谛 pratipatti 译"行"
+U01-186	S0011	pratipatti	pratipatti	n. 成分	0001a19	德	意译	0161c19	行	补成分记录
+U01-187	S0011	saṃpadā	saṃpad	n. f. sg. instr.	0001a19	滿	对译	0161c19	究竟	补成分记录
 U01-093	S0011	saṃstutya	saṃ-stu	abs.	0001a19	讚	对译	0161c19	讚歎	
 U01-093b	S0011	saṃstutya	abs.	gram. abs. (-tya)	0001a19	已	语法	0161c19	已	独立式表先行，译"已"
 U01-094	S0011	punas	punar	ind.	0001a19	次當	意译	0161c19	次	
 U01-095	S0011	parahitapratipattisaṃpadā	para-hita-pratipatti-saṃpad	cpd. f. sg. instr.	0001a20	利他德圓	意译	0161c19	利他行圓滿	同一 saṃpad，上句作"滿"，此作"圓"
 U01-096	S0011	parahita	para-hita	cpd. 成分	0001a20	利他	对译	0161c19	利他	
+U01-188	S0011	para	para	pron. 成分	0001a20	他	对译	0161c19	他	补成分记录
+U01-189	S0011	hita	hita	n. 成分	0001a20	利	对译	0161c19	利	补成分记录
+U01-190	S0011	pratipatti	pratipatti	n. 成分	0001a20	德	意译	0161c19	行	补成分记录；U01-095（parahitapratipattisaṃpadā）的成分
+U01-191	S0011	saṃpadā	saṃpad	n. f. sg. instr.	0001a20	圓	对译	0161c19	圓滿	补成分记录；U01-095 的末成分；上句 saṃpad 作"滿"
 U01-097	S0011	saṃstauti	saṃ-stu	v. pres. 3sg.	0001a19	讚	对译	0161c20	讚歎	
 U01-098	S0012	saṃsāro	saṃsāra	n. m. sg. nom.	0001a20	生死	对译	0161c20	生死	
 U01-099	S0012	jagadāsaṅgasthānatvāt	jagat-āsaṅga-sthāna-tva	cpd. nt. sg. abl.	0001a21	眾生沈溺處	对译	0161c21	世間沈著處	-tva 以"是"表出（U01-099b）；第五格译"故"
@@ -113,12 +137,16 @@ U01-101	S0012	āsaṅga	āsaṅga	n. 成分	0001a21	沈溺	意译	0161c21	沈著
 U01-102	S0012	sthāna	sthāna	n. 成分	0001a21	處	对译	0161c21	處	
 U01-103	S0012	duruttaratvāc	dur-uttara-tva	n. nt. sg. abl.	0001a21	難可出	对译	0161c21	難可度	
 U01-104	S0012	paṅkabhūtaḥ	paṅka-bhūta	cpd. adj. m. sg. nom.	0001a21	譬泥	意译	0161c21	以譬泥	
+U01-192	S0012	paṅka	paṅka	n. 成分	0001a22	泥	对译	0161c21	泥	补成分记录
+U01-193	S0012	bhūtaḥ	bhū	ptc. m. sg. nom. (bhūta)	0001a21	譬	意译	0161c21	譬	补成分记录；-bhūta（成为、犹如）译"譬"
 U01-105	S0013	āvamagnaṃ	ava-majj	ptc. nt. sg. acc.	0001a22	淪沒	对译	0161c22	沈著	
 U01-106	S0013	atrāṇam	a-trāṇa	adj. nt. sg. acc.	0001a22	無救	对译	0161c22	無救接	
 U01-107	S0013	anukampamāno	anu-kamp	ptc. pres. m. sg. nom.	0001a22	哀愍	对译	0161c22	憐愍	
 U01-108	S0013	bhagavān	bhagavat	n. m. sg. nom.	0001a22	世尊	对译	0161c22	佛世尊	
 U01-109	S0013	saddharmadeśanāhastapradānair	sad-dharma-deśanā-hasta-pradāna	cpd. nt. pl. instr.	0001a23	正法教手	对译	0161c23	授說正法手	pradāna 被玄奘移前，与 yathābhavyam 合译为"隨授所應"
 U01-110	S0013	saddharma	sad-dharma	cpd. 成分	0001a23	正法	对译	0161c23	正法	
+U01-194	S0013	sad	sat	ptc. 成分	0001a23	正	对译	0161c23	正	补成分记录
+U01-195	S0013	dharma	dharma	n. 成分	0001a23	法	对译	0161c23	法	补成分记录
 U01-111	S0013	deśanā	deśanā	n. 成分	0001a23	教	对译	0161c23	說	
 U01-112	S0013	hasta	hasta	n. 成分	0001a23	手	对译	0161c23	手	
 U01-113	S0013	pradānair	pradāna	n. nt. pl. instr.	0001a22	授	对译	0161c23	授	
@@ -131,7 +159,13 @@ U01-118	S0014	yathārtham	yathārtha	adj. nt. sg. acc.	0001a25	如實	对译			�
 U01-119	S0014	aviparītaṃ	a-viparīta	ptc. adj. nt. sg. acc.	0001a25	無倒	对译	0161c25	無倒	
 U01-120	S0014	śāstīti	śās	v. pres. 3sg.	0001a25	教授誡勗	意译			玄奘以四字"教授誡勗"译 śāsti
 U01-121	S0014	yathārthaśāstā	yathārtha-śāstṛ	cpd. m. sg. nom.	0001a26	如理師	对译	0161c25	大師	
+U01-196	S0014	yathārtha	yathārtha	adj. 成分	0001a26	如理	对译			补成分记录；真谛只作"大師"
+U01-197	S0014	śāstā	śāstṛ	n. m. sg. nom.	0001a26	師	对译	0161c25	大師	补成分记录
 U01-122	S0015	parahitapratipattyupāyam	para-hita-pratipatti-upāya	cpd. m. sg. acc.	0001a26	利他德	意译			
+U01-198	S0015	para	para	pron. 成分	0001a26	他	对译			补成分记录
+U01-199	S0015	hita	hita	n. 成分	0001a26	利	对译			补成分记录
+U01-200	S0015	pratipatty	pratipatti	n. 成分	0001a26	德	意译			补成分记录
+U01-201	S0015	upāyam	upāya	n. m. sg. acc.	0001a27	方便	意译			补成分记录；待核：整词"利他德"未出 upāya，"方便"见下句"能方便說如理正教"，疑即 upāya 移后所译
 U01-123	S0015	āviṣkaroti	āvis-kṛ	v. pres. 3sg.	0001a26	顯	对译			
 U01-124	S0016	yathābhūtaśāsanāc	yathābhūta-śāsana	cpd. nt. sg. abl.	0001a27	如理正教	意译	0161c26	如理教	"說"为增字
 U01-125	S0016	yathābhūta	yathā-bhūta	adj. 成分	0001a27	如理	意译	0161c26	如理	
@@ -139,6 +173,8 @@ U01-126	S0016	śāsanāc	śāsana	n. nt. sg. abl.	0001a27	正教	意译	0161c26	
 U01-127	S0016	ṛddhivarapradānaprabhāveṇ	ṛddhi-vara-pradāna-prabhāva	cpd. m. sg. instr.	0001a28	威力與願神通	对译	0161c27	通慧施恩威德	玄奘把成分倒序
 U01-128	S0016	ṛddhi	ṛddhi	n. 成分	0001a28	神通	对译	0161c27	通慧	
 U01-129	S0016	varapradāna	vara-pradāna	cpd. 成分	0001a28	與願	对译	0161c28	施恩	
+U01-202	S0016	vara	vara	n. 成分	0001a28	願	对译	0161c28	恩	补成分记录
+U01-203	S0016	pradāna	pradāna	n. 成分	0001a28	與	对译	0161c28	施	补成分记录；玄奘、真谛都作动宾倒序（與願、施恩）
 U01-130	S0016	prabhāveṇ	prabhāva	n. m. sg. instr.	0001a28	威力	对译	0161c28	威德	
 U01-131	S0016	na tv	na tu	ind.	0001a28	不	语法	0161c27	不	
 U01-131b	S0016	prabhāveṇ	instr.	gram. instr. (-ena)	0001a28	由	语法	0161c27	由	第三格表手段
@@ -152,12 +188,19 @@ U01-136	S0018	chāstram	śāstra	n. nt. sg. nom.	0001b01	論	对译
 U01-137	S0019	katamac	katama	pron. nt. sg. nom.	0001b01	者何	语法	0162a01	云何	
 U01-137b	S0019	chāstram	śāstra	n. nt. sg. nom.	0001b01	論	对译			
 U01-138	S0019	abhidharmakośam	abhidharma-kośa	cpd. nt. sg. nom.	0001b01	對法藏	对译	0162a01	阿毘達磨俱舍	真谛此处音译
+U01-204	S0019	abhidharma	abhidharma	n. 成分	0001b01	對法	对译	0162a01	阿毘達磨	补成分记录；真谛音译
+U01-205	S0019	kośam	kośa	n. nt. sg. nom.	0001b01	藏	对译	0162a01	俱舍	补成分记录；真谛音译
 U01-139	S0020	ko 'yam	kim	pron. m. sg. nom.	0001b01	何	语法	0162a01	何	
 U01-139b	S0020	nāma	nāma	ind.	0001b01	謂	语法	0162a01	名	疑问句中的 nāma 译"謂"（何謂）
 U01-140	S0020	abhidharmo	abhidharma	n. m. sg. nom.	0001b01	對法	对译	0162a01	阿毘達磨	真谛音译
 U01-141	S0013	ya evam	yad	pron. m. sg. nom.	0001a25	諸	语法			长行中 yaḥ 再次译諸（諸有具前自他利德）；据港教大语料库校准补入
 U01-142	S0013	evamātma	evam	ind.	0001a25	前	意译			evam（如是）译前，指上文所说；据校准补入
 U01-143	S0013	ātmaparahitapratipattisaṃpadā	ātma-para-hita-pratipatti-saṃpad	cpd. f. sg. instr.	0001a25	自他利德	意译			据校准补入
+U01-206	S0013	ātma	ātman	n. 成分	0001a25	自	对译			补成分记录
+U01-207	S0013	para	para	pron. 成分	0001a25	他	对译			补成分记录
+U01-208	S0013	hita	hita	n. 成分	0001a25	利	对译			补成分记录
+U01-209	S0013	pratipatti	pratipatti	n. 成分	0001a25	德	意译			补成分记录
+U01-210	S0013	saṃpadā	saṃpad	n. f. sg. instr.			省译			补成分记录；玄奘"自他利德"未出 saṃpad（上文作"滿""圓"）
 U01-144	S0013	yuktas	yukta	ptc. adj. m. sg. nom.	0001a25	具	对译			据校准补入
 U01-145	S0003	tyāha	ah	v. perf. 3sg.	0001a11	謂	语法	0161c11	說	āha 引出解释，译"謂"
 U01-146	S0003	anena	idam	pron. m. sg. instr.	0001a12	此	语法			"此能破闇"

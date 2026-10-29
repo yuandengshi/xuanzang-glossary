@@ -14,6 +14,8 @@ U17-013	S0318	niruddhaṃ	ni-rudh	ptc. nt. sg. nom.	0004b04	滅	对译	0164c14	�
 U17-015	S0318				0004b04	能生後識故	增译			玄奘补出"意界"得名之由
 U17-016	S0318	ityucyeta	vac	v. opt. pass. 3sg.	0004b04	名	对译	0164c14	說名	
 U17-017	S0318	manodhātur	manas-dhātu	cpd. m. sg. nom.	0004b05	意界	对译	0164c15	意界	
+U17-047	S0318	mano	manas	n. 成分	0004b05	意	对译	0164c15	意	补成分记录
+U17-048	S0318	dhātur	dhātu	n. m. sg. nom.	0004b05	界	对译	0164c15	界	补成分记录
 U17-018	S0319	tadyathā	tadyathā	ind.	0004b05	謂如	语法	0164c15	譬如	
 U17-021	S0319	putro	putra	n. m. sg. nom.	0004b05	子	对译	0164c15	子	
 U17-022	S0319	bhavati	bhū	v. pres. 3sg.	0004b05	名	意译	0164c15	為	bhavati（成为）译"名"
@@ -30,7 +32,12 @@ U17-032	S0320	saptadaśa	saptadaśan	num. pl. nom.	0004b06	十七	对译	0164c17
 U17-034	S0320	dvādaśa	dvādaśan	num. pl. nom.	0004b06	十二	对译	0164c17	十二	
 U17-035	S0320	ṣaḍvijñānadhātumanodhātūnām	ṣaṣ-vijñāna-dhātu-manas-dhātu	cpd. m. pl. gen.	0004b06	六識與意	意译	0164c17	六識界及意界	玄奘省去两处"界"
 U17-036	S0320	ṣaḍvijñānadhātu	ṣaṣ-vijñāna-dhātu	cpd. 成分	0004b06	六識	意译	0164c17	六識界	
+U17-049	S0320	ṣaḍ	ṣaṣ	num. 成分	0004b06	六	对译	0164c17	六	补成分记录
+U17-050	S0320	vijñāna	vijñāna	n. 成分	0004b06	識	对译	0164c17	識	补成分记录
+U17-051	S0320	dhātu	dhātu	n. 成分			省译	0164c17	界	补成分记录；玄奘省"界"
 U17-037	S0320	manodhātūnām	manas-dhātu	cpd. m. pl. gen.	0004b07	意	意译	0164c18	意界	
+U17-052	S0320	mano	manas	n. 成分	0004b07	意	对译	0164c18	意	补成分记录
+U17-053	S0320	dhātūnām	dhātu	n. m. pl. gen.			省译	0164c18	界	补成分记录；玄奘省"界"
 U17-038	S0320	manodhātūnām	dvandva	gram. cpd.	0004b07	與	语法	0164c18	及	
 U17-039	S0320	itaretarāntarbhāvād	itaretara-antarbhāva	cpd. m. sg. abl.	0004b07	更相攝	对译	0164c18	互相攝	
 U17-040	S0320	itaretarā	itaretara	pron. 成分	0004b07	更相	对译	0164c18	互相	

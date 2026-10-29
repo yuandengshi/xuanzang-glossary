@@ -9,6 +9,8 @@ U18-007	S0322	"ṣādaś	aṣṭādaśan	num. pl. nom.	0004b08	十八	对译	016
 U18-008	S0322	smṛtāḥ	smṛ	ptc. m. pl. nom. (smṛta)	0004b08	應知	意译			smṛta（被认为）玄奘作"應知"
 U18-009	S0323	pañcānāṃ	pañcan	num. pl. gen.	0004b09	五	对译	0164c20	五種	"如"为增字
 U18-010	S0323	vijñānadhātūnāṃ	vijñāna-dhātu	cpd. m. pl. gen.	0004b09	識界	对译	0164c20	識界	
+U18-084	S0323	vijñāna	vijñāna	n. 成分	0004b09	識	对译	0164c20	識	补成分记录
+U18-085	S0323	dhātūnāṃ	dhātu	n. m. pl. gen.	0004b09	界	对译	0164c20	界	补成分记录
 U18-011	S0323				0004b09	別有	增译			
 U18-012	S0323	cakṣurdhātvāyatanādayaḥ	cakṣus-dhātu-āyatana-ādi	cpd. m. pl. nom.	0004b09	眼等…界	意译	0164c20	眼等…界	梵文"眼界、眼处等"，二译都只作"眼等…界"
 U18-013	S0323	cakṣur	cakṣus	n. 成分	0004b09	眼	对译	0164c20	眼	
@@ -19,13 +21,19 @@ U18-017	S0323	pañcāśrayāḥ	pañcan	num. pl. nom.	0004b09	五	对译	0164c20
 U18-018	S0323	āśrayāḥ	āśraya	n. m. pl. nom.	0004b09	依	对译	0164c20	依	"為"为增字；与 pañca 是两个独立的词（pañca āśrayāḥ 连声）
 U18-019	S0324	ṣaṣṭhasya	ṣaṣṭha	adj. m. sg. gen.	0004b09	第六	对译	0164c20	第六	
 U18-020	S0324	manovijñānadhātor	manas-vijñāna-dhātu	cpd. m. sg. gen.	0004b10	意識	意译	0164c20	意識界	玄奘省"界"
+U18-086	S0324	mano	manas	n. 成分	0004b10	意	对译	0164c20	意	补成分记录
+U18-087	S0324	vijñāna	vijñāna	n. 成分	0004b10	識	对译	0164c20	識	补成分记录
+U18-088	S0324	dhātor	dhātu	n. m. sg. gen.			省译	0164c20	界	补成分记录；玄奘省"界"
 U18-022	S0324	"nyo	anya	pron. m. sg. nom.	0004b10	別	对译	0164c21	別	
 U18-023	S0324	āśrayo	āśraya	n. m. sg. nom.	0004b10	所依	对译	0164c21	依	
 U18-025	S0325	tadāśrayaprasiddhacyartha	tad-āśraya-prasiddhi-artham	cpd. ind.	0004b10	為成此依故	对译	0164c21	為成立此依，故	GRETIL 本作 -prasiddhacyartha，当读 -prasiddhyarthaṃ
+U18-089	S0325	tad	tad	pron. 成分	0004b10	此	对译	0164c21	此	补成分记录
 U18-026	S0325	āśraya	āśraya	n. 成分	0004b10	依	对译	0164c21	依	
 U18-027	S0325	prasiddhacy	prasiddhi	n. 成分	0004b10	成	对译	0164c21	成立	GRETIL 误作 prasiddhacy-
 U18-028	S0325	prasiddhacyartha	-artham	gram. purpose	0004b10	為…故	语法	0164c21	為…故	
 U18-029	S0325	manodhātu	manas-dhātu	cpd. m. sg. nom.	0004b10	意界	对译	0164c21	意界	
+U18-090	S0325	mano	manas	n. 成分	0004b10	意	对译	0164c21	意	补成分记录
+U18-091	S0325	dhātu	dhātu	n. m. sg. nom.	0004b10	界	对译	0164c21	界	补成分记录
 U18-030	S0325	rūpadiṣṭaḥ	upa-diś	ptc. m. sg. nom.	0004b10	說	对译	0164c21	說	GRETIL 本作 manodhāturūpadiṣṭaḥ，当读 manodhātur upadiṣṭaḥ
 U18-032	S0326	āśrayāśritālambanaṣṭkavyavasathānād	āśraya-āśrita-ālambana-ṣaṭka-vyavasthāna	cpd. nt. sg. abl.	0004b11	所依能依境界…各六	意译	0164c21	安立依、能依、境界三六	GRETIL 本作 -ālambanaṣṭkavyavasathāna-，当读 -ālambanaṣaṭkavyavasthāna-；玄奘未译 vyavasthāna
 U18-033	S0326	āśrayā	āśraya	n. 成分	0004b11	所依	对译	0164c22	依	
@@ -45,6 +53,8 @@ U18-047	S0327	bhaviṣyati	fut.	gram. fut. (-sya-)	0004b12	應	语法	0164c23	�
 U18-049	S0327	mano	manas	n. nt. sg. nom.	0004b12	意界	意译	0164c23	意界	颂意 manas 即意界，二译都补"界"
 U18-050	S0327	bhaviṣyati	bhū	v. fut. 3sg.			省译			
 U18-051	S0328	tatsasmanantarātītaṃ	samanantara-atīta	cpd. nt. sg. nom.	0004b12	無間滅	对译	0164c23	無間滅	GRETIL 本作 sasmanantarātītaṃ
+U18-092	S0328	sasmanantarā	samanantara	adj. 成分	0004b12	無間	对译	0164c23	無間	补成分记录；GRETIL 本作 sasmanantara-；否定字为译名本身所有
+U18-093	S0328	ātītaṃ	atīta	ptc. nt. sg. nom.	0004b12	滅	意译	0164c24	滅	补成分记录
 U18-052	S0328	tadasti	tad	pron. nt. sg. nom.	0004b12	後識	意译	0164c23	識	代词 tad 还原为所指"後識"
 U18-053	S0328	tadasti	as	v. pres. 3sg.	0004b13	生	意译	0164c23	在後生	asti（有）玄奘作"生"
 U18-054	S0328	nahi	hi	ind.	0004b13	故	语法			玄奘以"…故"标出理由
@@ -54,6 +64,7 @@ U18-057	S0329	mano	manas	n. 成分	0004b13	意	对译	0164c24	意
 U18-058	S0329	bhāvenā	bhāva	n. m. sg. instr.	0004b13	性	对译	0164c24	性	
 U18-059	S0329	āvasthitatvāt	ava-sthā	ptc. 成分 (avasthita)	0004b13	住	对译	0164c24	住	
 U18-060	S0330	anyakāraṇavaikalyāt	anya-kāraṇa-vaikalya	cpd. nt. sg. abl.	0004b13	闕餘緣	对译	0164c25	因緣不具	
+U18-094	S0330	anya	anya	pron. 成分	0004b13	餘	对译			补成分记录
 U18-061	S0330	vaikalyāt	vaikalya	n. nt. sg. abl.	0004b13	闕	对译	0164c25	不具	
 U18-062	S0330	kāraṇa	kāraṇa	n. 成分	0004b14	緣	意译	0164c25	因緣	
 U18-063	S0330	ottaravijñānasaṃbhūtiḥ	uttara-vijñāna-saṃbhūti	cpd. f. sg. nom.	0004b14	後識…生	对译	0164c25	後識…生	
@@ -66,12 +77,19 @@ U18-070	S0331	saṃgrahaḥ	saṃgraha	n. m. sg. nom.	0004b14	攝	对译	0164c25
 U18-071	S0331	sarva	sarva	adj. 成分	0004b14	一切	对译	0164c25	一切	
 U18-072	S0331	saṃskṛta	saṃskṛta	ptc. adj. 成分	0004b14	有為	对译	0164c26	有為	
 U18-073	S0332	upādānaskandhaiḥ	upādāna-skandha	cpd. m. pl. instr.	0004b14	取蘊	对译	0164c26	取陰	
+U18-095	S0332	upādāna	upādāna	n. 成分	0004b14	取	对译	0164c26	取	补成分记录
+U18-096	S0332	skandhaiḥ	skandha	n. m. pl. instr.	0004b14	蘊	对译	0164c26	陰	补成分记录
 U18-074	S0332				0004b15	唯	增译			
 U18-075	S0332	sarvasāsravāṇām	sarva-sa-āsrava	cpd. m. pl. gen.	0004b15	一切有漏	对译	0164c26	一切有流	
+U18-097	S0332	sarva	sarva	adj. 成分	0004b15	一切	对译	0164c26	一切	补成分记录
 U18-076	S0332	sāsravāṇām	sa-āsrava	adj. m. pl. gen.	0004b15	有漏	对译	0164c26	有流	
 U18-077	S0332	ā yatanadhātubhiḥ	āyatana-dhātu	cpd. m. pl. instr.	0004b15	處界	对译	0164c26	入…界	GRETIL 本分写作 sāsravāṇāmā yatana-，当读 sāsravāṇām āyatana-
+U18-098	S0332	ā yatana	āyatana	n. 成分	0004b15	處	对译	0164c26	入	补成分记录
+U18-099	S0332	dhātubhiḥ	dhātu	n. m. pl. instr.	0004b15	界	对译	0164c26	界	补成分记录
 U18-078	S0332				0004b15	總…盡	增译	0164c27	盡	
 U18-079	S0332	sarvadharmāṇām	sarva-dharma	cpd. m. pl. gen.	0004b15	一切法	对译	0164c26	一切法	
+U18-100	S0332	sarva	sarva	adj. 成分	0004b15	一切	对译	0164c26	一切	补成分记录
+U18-101	S0332	dharmāṇām	dharma	n. m. pl. gen.	0004b15	法	对译	0164c27	法	补成分记录
 U18-080	S0333				0004b15	別攝如是	增译			玄奘补出"別攝如是"，与"總攝"相对
 U18-081	S0333	samāsatas	samāsatas	ind.	0004b16	總	意译	0164c27	略	
 U18-082	S0333	jñātavyaḥ	jñā	gdv. m. sg. nom.			省译	0164c27	應知	玄奘改作设问"總攝云何"

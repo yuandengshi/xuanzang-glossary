@@ -24,11 +24,16 @@ U27-023	S0451	aniyata	a-niyata	ptc. adj. 成分	0005c25	不定	对译	0166a25	�
 U27-024	S0451	viṣayam	viṣaya	n. nt. sg. nom.	0005c25	境	对译	0166a24	境界	
 U27-025	S0452	kiñcidvarttamāna	kiṃcit	pron. nt. sg. nom.	0005c25	或	语法	0166a25	有	"kiñcit … kiñcit"（有的…有的）译"或…或"
 U27-026	S0452	kiñcidvarttamānaviṣayaṃ	vartamāna-viṣaya	cpd. adj. nt. sg. nom.	0005c25	唯取一	意译	0166a25	緣現在塵	待核：梵文"有的取现在境"，玄奘作"或唯取一或二三四"（于三世、无为中或取一、或取二三四），不专指现在
+U27-186	S0452	varttamāna	vartamāna	ptc. 成分	0005c25	一	意译	0166a25	現在	补成分记录；待核：玄奘概括为"唯取一"（三世、無為中只取其一），不专指现在
+U27-187	S0452	viṣayaṃ	viṣaya	n. nt. sg. nom.	0005c25	取	意译	0166a25	緣…塵	补成分记录；viṣaya（以…为境）作"取"
 U27-027	S0452				0005c25	二三四	增译			"或唯取一或二三四"之"二三四"
 U27-028	S0452	kiñcit vyadhvā	kiṃcit	pron. nt. sg. nom.	0005c25	或	语法	0166a25	有	
 U27-029	S0452	vyadhvānadhraviṣayam	tri-adhvan-anadhvan-viṣaya	cpd. adj. nt. sg. nom.	0005c25	三世無為	意译	0166a25	緣三世及非三世…塵	GRETIL 本作 vyadhvānadhra-，当读 tryadhvānadhva-；玄奘把它提前作"意境"的内容
 U27-030	S0452	vyadhvā	tri-adhvan	cpd. 成分	0005c25	三世	对译	0166a25	三世	GRETIL 本作 vyadhva-，当读 tryadhva-
+U27-189	S0452	vy	tri	num. 成分	0005c25	三	对译	0166a25	三	补成分记录；GRETIL 本作 vy-，当读 try-
+U27-190	S0452	adhvā	adhvan	n. 成分	0005c25	世	对译	0166a25	世	补成分记录
 U27-031	S0452	ānadhra	an-adhvan	adj. 成分	0005c25	無為	意译	0166a25	非三世	anadhva（非世）指無為法；GRETIL 本作 -ānadhra-
+U27-188	S0452	viṣayam	viṣaya	n. nt. sg. nom.			省译	0166a25	緣…塵	补成分记录；viṣaya 未单独译（"意境"之"境"见 U27-024）
 U27-032	S0453	bhautikārthyāc	bhautika-arthya	n. nt. sg. abl.	0005c22	境…所造	意译	0166a26	所造塵	"唯"为增字
 U27-032+1	S0453				0005c22	唯	增译			合并时从 U27-032（境唯所造）拆出
 U27-033	S0453	bhautikā	bhautika	adj. 成分	0005c22	所造	对译	0166a26	所造	
@@ -96,6 +101,7 @@ U27-096	S0460	dūrān	dūra	n. nt. sg. abl.	0006a01	遠	对译	0166b02	遠
 U27-097	S0460				0006a01	山	增译			"山河"之"山"
 U27-098	S0460	nadīṃ	nadī	n. f. sg. acc.	0006a02	河	对译	0166b02	江河	
 U27-099	S0460	tacchabdāśravaṇād	tad-śabda-aśravaṇa	cpd. nt. sg. abl.	0006a02	不聞聲	对译	0166b02	不聞聲	tad 未译
+U27-191	S0460	tac	tad	pron. 成分			省译			补成分记录；tad 未译
 U27-100	S0460	tacchabdā	śabda	n. 成分	0006a02	聲	对译	0166b02	聲	
 U27-101	S0460	āśravaṇād	a-śravaṇa	n. nt. sg. abl.	0006a02	不聞	对译	0166b02	不聞	
 U27-103	S0460	pūrvamuktam	pūrvam	ind.	0006a01	先	对译	0166b03	前	
@@ -156,11 +162,15 @@ U27-165	S0467	daśasvāyataneṣu	daśan	num. pl. loc.	0006a08	十	对译	0166b0
 U27-166	S0467	āyataneṣu	āyatana	n. nt. pl. loc.	0006a08	處	对译	0166b10	入	
 U27-167	S0467	rūpaskandhasaṃgṛhīteṣv	rūpa-skandha-saṃgṛhīta	cpd. ptc. nt. pl. loc.	0006a08	色蘊攝	对译	0166b10	色陰所攝	"皆"为增字
 U27-168	S0467	rūpaskandha	rūpa-skandha	cpd. 成分	0006a08	色蘊	对译	0166b10	色陰	
+U27-192	S0467	rūpa	rūpa	n. 成分	0006a08	色	对译	0166b10	色	补成分记录
+U27-193	S0467	skandha	skandha	n. 成分	0006a08	蘊	对译	0166b10	陰	补成分记录
 U27-169	S0467	saṃgṛhīteṣv	saṃ-grah	ptc. nt. pl. loc.	0006a08	攝	对译	0166b10	所攝	
 U27-170	S0467				0006a08	皆	增译	0166b10	皆	
 U27-171	S0467	ṣvekaṃ	eka	num. nt. sg. nom.	0006a08	唯…一	意译	0166b10	唯一	ekam（唯一）
 U27-172	S0467				0006a09	種	增译			"一種"之"種"
 U27-173	S0467	rūpāyatanam	rūpa-āyatana	cpd. nt. sg. nom.	0006a09	色處	对译	0166b10	色入	
+U27-194	S0467	rūpā	rūpa	n. 成分	0006a09	色	对译	0166b10	色	补成分记录
+U27-195	S0467	āyatanam	āyatana	n. nt. sg. nom.	0006a09	處	对译	0166b10	入	补成分记录
 U27-174	S0467	mucyate	vac	v. pres. pass. 3sg.	0006a09	立…名	意译	0166b10	名	
 U27-175	S0468	sarveṣu ca	ca	ind.	0006a09	又	语法			
 U27-176	S0468	sarveṣu	sarva	adj. m. pl. loc.	0006a09	十二處	意译	0166b10	一切入	sarva（一切）还原为"十二處"
@@ -172,4 +182,6 @@ U27-180	S0468				0006a09	皆是	增译
 U27-181	S0468	ṣvekaṃ	eka	num. nt. sg. nom.	0006a09	唯…一	意译	0166b11	唯一	
 U27-182	S0468				0006a10	種	增译			
 U27-183	S0468	dharmāyatanam	dharma-āyatana	cpd. nt. sg. nom.	0006a10	法處	对译	0166b11	法入	
+U27-196	S0468	dharmā	dharma	n. 成分	0006a10	法	对译	0166b11	法	补成分记录
+U27-197	S0468	āyatanam	āyatana	n. nt. sg. nom.	0006a10	處	对译	0166b11	入	补成分记录
 U27-184	S0468				0006a10	立…名	增译	0166b11	名	承上补出（ucyate 省略）

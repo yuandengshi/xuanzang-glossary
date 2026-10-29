@@ -16,13 +16,19 @@ U16-015	S0303	vijñānakāyāḥ	vijñāna-kāya	cpd. m. pl. nom.	0004a22	識身
 U16-016	S0303	vijñānakāyāḥ	vijñāna	n. 成分	0004a22	識	对译	0164c03	識	
 U16-017	S0303	kāyāḥ	kāya	n. m. pl. nom.	0004a22	身	对译	0164c04	聚	
 U16-018	S0303	cakṣurvijñānaṃ	cakṣus-vijñāna	cpd. nt. sg. nom.	0004a22	眼識	对译	0164c04	眼識	玄奘补"身"（眼識身）
+U16-110	S0303	cakṣur	cakṣus	n. 成分	0004a22	眼	对译	0164c04	眼	补成分记录
+U16-111	S0303	vijñānaṃ	vijñāna	n. nt. sg. nom.	0004a22	識	对译	0164c04	識	补成分记录
 U16-019	S0303	yāvan	yāvat	ind.	0004a22	至	语法	0164c04	乃至	
 U16-020	S0303	manovijñānam	manas-vijñāna	cpd. nt. sg. nom.	0004a22	意識	对译	0164c04	意識	玄奘补"身"
+U16-112	S0303	mano	manas	n. 成分	0004a22	意	对译	0164c04	意	补成分记录
+U16-113	S0303	vijñānam	vijñāna	n. nt. sg. nom.	0004a22	識	对译	0164c04	識	补成分记录
 U16-021	S0304				0004a23	應知	增译			
 U16-022	S0304	ya eṣa	yad	pron. m. sg. nom.	0004a23	所	语法			关系代词与分词 ukta 合为"所說"
 U16-023	S0304	eṣa	etad	pron. m. sg. nom.	0004a23	如是	语法	0164c04	是	
 U16-024	S0304	ukta	vac	ptc. m. sg. nom.	0004a23	說	对译	0164c04	說	
 U16-025	S0304	vijñānaskandha	vijñāna-skandha	cpd. m. sg. nom.	0004a23	識蘊	对译	0164c04	識陰	
+U16-114	S0304	vijñāna	vijñāna	n. 成分	0004a23	識	对译	0164c04	識	补成分记录
+U16-115	S0304	skandha	skandha	n. m. sg. nom.	0004a23	蘊	对译	0164c04	陰	补成分记录
 U16-026	S0304	āyatanavyavasthāyāṃ	āyatana-vyavasthā	cpd. f. sg. loc.	0004a23	於處門中立為	意译	0164c04	若安立	
 U16-027	S0304	āyatana	āyatana	n. 成分	0004a23	處	对译	0164c05	入	
 U16-028	S0304	vyavasthāyāṃ	vyavasthā	n. f. sg. loc.	0004a23	門中立為	意译	0164c04	安立	
@@ -42,10 +48,17 @@ U16-042	S0309	vijñānāny	vijñāna	n. nt. pl. nom.	0004a20	識	对译	0164c06	
 U16-043	S0309	atho	atho	ind.	0004a20	轉為	意译			atho（又、以及）玄奘作"轉為"，取下颂"六识无间灭为意"之义；待核
 U16-044	S0309	manaḥ	manas	n. nt. sg. nom.	0004a20	意	对译	0164c07	意根	真谛补"根"
 U16-045	S0310	cakṣurvijñānadhātur	cakṣus-vijñāna-dhātu	cpd. m. sg. nom.	0004a24	眼識界	对译	0164c07	眼識界	
+U16-116	S0310	cakṣur	cakṣus	n. 成分	0004a24	眼	对译	0164c07	眼	补成分记录
+U16-117	S0310	vijñāna	vijñāna	n. 成分	0004a24	識	对译	0164c07	識	补成分记录
 U16-046	S0310	dhātur	dhātu	n. m. sg. nom.	0004a24	界	对译	0164c07	界	
 U16-047	S0310	yāvan	yāvat	ind.	0004a24	至	语法	0164c07	乃至	
 U16-048	S0310	manovijñānadhātu	manas-vijñāna-dhātu	cpd. m. sg. nom.	0004a24	意識界	对译	0164c07	意識界	GRETIL 本作 manovijñānadhātumanodhātuś，脱 -r
+U16-118	S0310	mano	manas	n. 成分	0004a24	意	对译	0164c07	意	补成分记录
+U16-119	S0310	vijñāna	vijñāna	n. 成分	0004a24	識	对译	0164c07	識	补成分记录
+U16-120	S0310	dhātu	dhātu	n. m. sg. nom.	0004a25	界	对译	0164c07	界	补成分记录；GRETIL 本脱 -r
 U16-049	S0310	manodhātuś	manas-dhātu	cpd. m. sg. nom.	0004a25	意界	对译	0164c07	意界	
+U16-121	S0310	mano	manas	n. 成分	0004a25	意	对译	0164c07	意	补成分记录
+U16-122	S0310	dhātuś	dhātu	n. m. sg. nom.	0004a25	界	对译	0164c07	界	补成分记录
 U16-050	S0310				0004a25	即此六識轉為	增译			复述颂文 ṣaḍ vijñānāny atho manaḥ
 U16-052	S0311	atra	atra	ind.	0004a25	此中	语法	0164c07	此中	
 U16-053	S0311	nirddiṣṭā	nir-diś	ptc. m. pl. nom.	0004a25	說	对译	0164c08	說	GRETIL 本作 nirddiṣṭā
@@ -65,38 +78,61 @@ U16-067	S0312	avijñapti	a-vijñapti	n. 成分	0004a26	無表	对译	0164c08	無
 U16-068	S0312	varjyo	varjya	gdv. m. sg. nom. (vṛj)	0004a26	除	对译	0164c08	除	
 U16-069	S0312				0004a26	諸餘	增译			
 U16-070	S0312	rūpaskandho	rūpa-skandha	cpd. m. sg. nom.	0004a26	色蘊	对译	0164c09	色陰	
+U16-123	S0312	rūpa	rūpa	n. 成分	0004a26	色	对译	0164c09	色	补成分记录
+U16-124	S0312	skandho	skandha	n. m. sg. nom.	0004a26	蘊	对译	0164c09	陰	补成分记录
 U16-071	S0312	daśāyatanāni	daśa-āyatana	cpd. nt. pl. nom.	0004a27	十處	对译	0164c09	十入	
+U16-125	S0312	daśā	daśan	num. 成分	0004a27	十	对译	0164c09	十	补成分记录；或为 daśa āyatanāni 两词连声（参 U16-072 daśa dhatavaḥ、U18-017），待核
+U16-126	S0312	āyatanāni	āyatana	n. nt. pl. nom.	0004a27	處	对译	0164c09	入	补成分记录
 U16-072	S0312	daśa dhatavaḥ	daśan	num. pl. nom.	0004a27	十	对译	0164c09	十	
 U16-073	S0312	dhatavaḥ	dhātu	n. m. pl. nom.	0004a27	界	对译	0164c09	界	GRETIL 本作 dhatavaḥ
 U16-074	S0312				0004a27	即名…亦名	增译	0164c09	立為	
 U16-075	S0313	vedanā dayaḥ	vedanā-ādi	cpd. m. pl. nom.	0004a27	受想行	意译	0164c09	受想行	vedanādayas trayaḥ（受等三蕴）玄奘直接列出"受想行"；GRETIL 本分写作 vedanā dayaḥ
-U16-076	S0313	vedanā dayaḥ	vedanā	n. 成分	0004a27	受	对译	0164c09	受	
+U16-076	S0313	vedanā	vedanā	n. 成分	0004a27	受	对译	0164c09	受	
+U16-127	S0313	dayaḥ	ādi	n. m. pl. nom.	0004a27	想行	意译	0164c09	想行	补成分记录；ādi（等）二译都展开为"想行"
 U16-077	S0313	skandhās	skandha	n. m. pl. nom.	0004a27	蘊	对译	0164c09	陰	
 U16-078	S0313	trayo	tri	num. m. pl. nom.			省译			
 U16-079	S0313	"vijñaptir	a-vijñapti	n. f. sg. nom.	0004a27	無表	对译	0164c09	無教	GRETIL 以 " 代 avagraha
 U16-080	S0313	asaṃskṛtāni	a-saṃskṛta	ptc. adj. nt. pl. nom.	0004a27	無為	对译	0164c09	無為	
 U16-081	S0313				0004a27	總名	增译			
 U16-082	S0313	dharmāyatanaṃ	dharma-āyatana	cpd. nt. sg. nom.	0004a28	法處	对译	0164c10	法入	
+U16-128	S0313	dharmā	dharma	n. 成分	0004a28	法	对译	0164c10	法	补成分记录
+U16-129	S0313	āyatanaṃ	āyatana	n. nt. sg. nom.	0004a28	處	对译	0164c10	入	补成分记录
 U16-083	S0313	dharmadhātuśca	ca	ind.	0004a28	亦	语法			"總名法處，亦名法界"
 U16-084	S0313	dharmadhātuś	dharma-dhātu	cpd. m. sg. nom.	0004a28	法界	对译	0164c10	法界	
+U16-130	S0313	dharma	dharma	n. 成分	0004a28	法	对译	0164c10	法	补成分记录
+U16-131	S0313	dhātuś	dhātu	n. m. sg. nom.	0004a28	界	对译	0164c10	界	补成分记录
 U16-085	S0313				0004a28	應知	增译			
 U16-086	S0313	vijñānaskandho	vijñāna-skandha	cpd. m. sg. nom.	0004a28	識蘊	对译	0164c10	識陰	
+U16-132	S0313	vijñāna	vijñāna	n. 成分	0004a28	識	对译	0164c10	識	补成分记录
+U16-133	S0313	skandho	skandha	n. m. sg. nom.	0004a28	蘊	对译	0164c10	陰	补成分记录
 U16-087	S0313	mana āyatanaṃ	manas-āyatana	cpd. nt. sg. nom.	0004a28	意處	对译	0164c10	意入	"即名"为增字
+U16-134	S0313	mana	manas	n. 成分	0004a28	意	对译	0164c10	意	补成分记录
+U16-135	S0313	āyatanaṃ	āyatana	n. nt. sg. nom.	0004a28	處	对译	0164c10	入	补成分记录
 U16-088	S0313				0004a28	亦名七界	增译			玄奘补出总数"七界"
 U16-089	S0313	ṣaḍ vijñānadhātavo	ṣaṣ	num. pl. nom.	0004a29	六	对译	0164c10	六	
 U16-090	S0313	vijñānadhātavo	vijñāna-dhātu	cpd. m. pl. nom.	0004a29	識界	对译	0164c10	識界	
+U16-136	S0313	vijñāna	vijñāna	n. 成分	0004a29	識	对译	0164c10	識	补成分记录
+U16-137	S0313	dhātavo	dhātu	n. m. pl. nom.	0004a29	界	对译	0164c10	界	补成分记录
 U16-091	S0313	manodhātuśceti	ca	ind.	0004a29	及與	对译	0164c10	并	
 U16-092	S0313	manodhātuśceti	manas-dhātu	cpd. m. sg. nom.	0004a29	意界	对译	0164c11	意界	
+U16-138	S0313	mano	manas	n. 成分	0004a29	意	对译	0164c11	意	补成分记录
+U16-139	S0313	dhātuś	dhātu	n. m. sg. nom.	0004a29	界	对译	0164c11	界	补成分记录
 U16-093	S0314	nanu ca	nanu	ind.	0004a29	豈不	语法	0164c11	為不如此耶	nanu（岂非）本身含否定
 U16-094	S0314	vijñānaskandha	vijñāna-skandha	cpd. m. sg. nom.	0004a29	識蘊	对译	0164c11	識陰	
+U16-140	S0314	vijñāna	vijñāna	n. 成分	0004a29	識	对译	0164c11	識	补成分记录
+U16-141	S0314	skandha	skandha	n. m. sg. nom.	0004a29	蘊	对译	0164c11	陰	补成分记录
 U16-095	S0314				0004a29	唯	增译	0164c11	唯	
 U16-096	S0314	ṣaḍ	ṣaṣ	num. pl. nom.	0004a29	六	对译	0164c11	六	
 U16-097	S0314	vijñānakāyā	vijñāna-kāya	cpd. m. pl. nom.	0004b01	識身	对译			
+U16-142	S0314	vijñāna	vijñāna	n. 成分	0004b01	識	对译			补成分记录
+U16-143	S0314	kāyā	kāya	n. m. pl. nom.	0004b01	身	对译			补成分记录
 U16-098	S0314	ityuktam	vac	ptc. nt. sg. nom.			省译	0164c11	說	玄奘改作反问，未译"說"；真谛作"前說"
 U16-099	S0315	atha	atha	ind.			省译			
 U16-100	S0315	"nyo manodhātuḥ	anya	pron. m. sg. nom.	0004b01	異	对译	0164c12	異	
 U16-101	S0315				0004b01	說	增译			
 U16-103	S0315	manodhātuḥ	manas-dhātu	cpd. m. sg. nom.	0004b01	意界	对译	0164c12	意界	
+U16-144	S0315	mano	manas	n. 成分	0004b01	意	对译	0164c12	意	补成分记录
+U16-145	S0315	dhātuḥ	dhātu	n. m. sg. nom.	0004b01	界	对译	0164c12	界	补成分记录
 U16-104	S0315	khalu	khalu	ind.	0004b01	更	语法			强调词 khalu 译"更"（更無）
 U16-106	S0315	kaścid	kaścit	pron. m. sg. nom.	0004b01	法	意译			不定代词 kaścit 还原为"法"
 U16-107	S0315	kaścidanyaḥ	anya	pron. m. sg. nom.	0004b01	異	对译	0164c12	別	

@@ -3,23 +3,33 @@ U03-001	S0032	tasyārthato	artha	n. sg. abl. (-tas)	0001b13	勝義	意译	0162a1
 U03-002	S0032	samanupraveśāt	sam-anupraveśa	n. m. sg. abl.	0001b13	攝	意译	0162a12	入此攝	
 U03-003	S0032	cāśrayo	āśraya	n. m. sg. nom.	0001b13	依	对译	0162a14	依	
 U03-004	S0032	syetyabhidharmakośam	abhidharma-kośa	cpd. nt. sg. nom.	0001b13	對法俱舍	音译	0162a14	俱舍	本颂中对译（對法）与音译（俱舍）合用；长行作"對法藏"
+U03-040	S0032	abhidharma	abhidharma	n. 成分	0001b13	對法	对译			补成分记录
 U03-005	S0032	kośam	kośa	n. nt. sg. nom.	0001b13	俱舍	音译	0162a14	俱舍	
 U03-006	S0033	śāstrasaṃjñako	śāstra-saṃjñaka	cpd. adj. m. sg. nom.	0001b14	論	意译	0162a12	彼文句名阿毘達磨	śāstrasaṃjñaka（名为论的）只译"論"
+U03-041	S0033	śāstra	śāstra	n. 成分	0001b14	論	对译	0162a12	文句	补成分记录
+U03-042	S0033	saṃjñako	saṃjñaka	adj. m. sg. nom.			省译	0162a12	名	补成分记录；-saṃjñaka（名为）玄奘未译
 U03-006b	S0033	'bhidharma etasminn	abhidharma	n. m. sg. nom.	0001b14	對法	对译	0162a12	阿毘達磨	
 U03-007	S0033	arthato	artha	n. sg. abl. (-tas)	0001b14	義	意译	0162a13	義	与 yathāpradhānam 合为"勝義"
 U03-008	S0033	yathāpradhānam	yathā-pradhāna	ind.	0001b14	勝	意译	0162a12	隨勝	与 arthataḥ 合为"勝義"
 U03-009	S0033	antarbhūta	antar-bhū	ptc. m. sg. nom.	0001b14	入…攝	对译	0162a13	入…攝	
 U03-010	S0033	kośasthānīyaṃ	kośa-sthānīya	cpd. adj. nt. sg. nom.	0001b15	藏名	意译	0162a13	稱為藏	
 U03-010b	S0033	bhavati	bhū	v. pres. 3sg.	0001b14	得	意译	0162a13	得	
-U03-011	S0033	kośasthānīyaṃ	kośa	n. 成分	0001b15	藏	对译	0162a13	藏	
+U03-011	S0033	kośa	kośa	n. 成分	0001b15	藏	对译	0162a13	藏	
+U03-043	S0033	sthānīyaṃ	sthānīya	adj. nt. sg. nom.	0001b15	名	意译	0162a13	稱為	补成分记录；sthānīya（处于…之位）译"名"（此得藏名）
 U03-012	S0034	athavā	athavā	ind.	0001b15	或	语法	0162a13	復次	
 U03-013	S0034	āśrayabhūtaḥ	āśraya-bhūta	cpd. m. sg. nom.	0001b15	依	意译	0162a15	依止	梵文"对法是此论之所依"，玄奘转为"此依彼"
+U03-044	S0034	āśraya	āśraya	n. 成分	0001b15	依	对译	0162a15	依止	补成分记录
+U03-045	S0034	bhūtaḥ	bhū	ptc. m. sg. nom. (bhūta)			省译			补成分记录
 U03-014	S0035	nirākṛṣṭam	nir-ā-kṛṣ	ptc. nt. sg. nom.	0001b15	引生	意译	0162a15	引生	
 U03-015	S0035	tato	tatas	ind.	0001b15	從彼	对译	0162a15	從彼	
 U03-016	S0035	kośa	kośa	n. m. sg. nom.	0001b16	藏	对译	0162a16	藏	
 U03-017	S0035	abhidharvarmakośam	abhidharma-kośa	cpd. nt. sg. nom.	0001b16	對法藏	对译	0162a16	阿毘達磨俱舍	GRETIL 本误作 abhidharvarmakośam
+U03-046	S0035	abhidharvarma	abhidharma	n. 成分	0001b16	對法	对译	0162a16	阿毘達磨	补成分记录；GRETIL 本误作 abhidharvarma-
+U03-047	S0035	kośam	kośa	n. nt. sg. nom.	0001b16	藏	对译	0162a17	俱舍	补成分记录；真谛音译
 U03-018	S0035	chāstram	śāstra	n. nt. sg. nom.	0001b16	論	对译	0162a16	論	
 U03-019	S0036	abhidharmopadeśaḥ	abhidharma-upadeśa	cpd. m. sg. nom.	0001b16	說…阿毘達磨	意译			
+U03-048	S0036	abhidharmo	abhidharma	n. 成分	0001b16	阿毘達磨	音译			补成分记录
+U03-049	S0036	opadeśaḥ	upadeśa	n. m. sg. nom.	0001b16	說	对译			补成分记录；倒序作"說…阿毘達磨"
 U03-020	S0036	kimarthaṃ	kim-artham	ind.	0001b16	何因	语法	0162a17	其用云何	
 U03-021	S0036	upadiṣṭo	upa-diś	ptc. m. sg. nom.	0001b17	說	对译	0162a17	說	
 U03-022	S0036	prathamata	prathamatas	ind.	0001b17	先	对译	0162a17	先	

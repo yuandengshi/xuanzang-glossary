@@ -25,6 +25,8 @@ U47-024	S0952	cakṣuṣi	cakṣus	n. nt. sg. loc.	0011b13	眼	对译	0171b02	�
 U47-025	S0952	cakṣuṣi	loc. abs.	gram. loc. abs. (-e)	0011b13	時	语法			第七格独立句译"…時"（開一眼觸一眼時）
 U47-026	S0952	dvitīye	dvitīya	num. nt. sg. loc.	0011b13	一	意译	0171b02	一	dvitīya（第二）玄奘、真谛都作"一"
 U47-027	S0952	ārdhanimīlite	ardha-nimīlita	cpd. ptc. nt. sg. loc.	0011b13	觸	意译	0171b02	半閉	ardhanimīlita（半闭）玄奘作"觸"（按触一眼），与真谛"半閉"不同
+U47-064	S0952	ārdha	ardha	n. 成分			省译	0171b02	半	补成分记录；玄奘以"觸"意译整词，ardha（半）未单独译出
+U47-065	S0952	nimīlite	ni-mīl	ptc. nt. sg. loc. (nimīlita)	0011b13	觸	意译	0171b02	閉	补成分记录；nimīlita（闭合）玄奘作"觸"（按触一眼），真谛作"閉"
 U47-028	S0952				0011b13	便於現前	增译			
 U47-029	S0952	dvicandrādigrahaṇaṃ	dvi-candra-ādi-grahaṇa	cpd. nt. sg. nom.	0011b13	見二月等	对译	0171b02	見二月	
 U47-030	S0952	dvicandrā	dvi	num. 成分	0011b14	二	对译	0171b02	二	
@@ -34,6 +36,7 @@ U47-033	S0952	grahaṇaṃ	grahaṇa	n. nt. sg. nom.	0011b13	見	意译	0171b02	
 U47-034	S0952	grahaṇaṃ bhavati	bhū	v. pres. 3sg.			省译			
 U47-035	S0953	naikatarānyathībhāvāt	ekatara-anyathībhāva	cpd. m. sg. abl.	0011b14	閉一觸一	意译	0171b02	隨一變異	待核：ekatara-anyathībhāva（其中一眼改变）玄奘作"閉一觸一此事則無"，na 译"此事則無"（na → 無 已足两例，不另立）；真谛作"由隨一變異見則不明"
 U47-036	S0953	aikatarā	ekatara	pron. 成分	0011b14	一	意译	0171b02	隨一	
+U47-066	S0953	ānyathībhāvāt	anyathībhāva	n. m. sg. abl.	0011b14	閉…觸	意译	0171b02	變異	补成分记录；anyathībhāva（改变）玄奘具体化为"閉…觸"（閉一觸一）
 U47-037	S0953				0011b14	是故或時二眼俱見	增译			玄奘补出结论
 U47-038	S0954	āśrayavicchedād	āśraya-viccheda	cpd. m. sg. abl.	0011b15	所依別	对译	0171b03	依止處別	第五格未译
 U47-039	S0954	āśraya	āśraya	n. 成分	0011b15	所依	对译	0171b03	依止	

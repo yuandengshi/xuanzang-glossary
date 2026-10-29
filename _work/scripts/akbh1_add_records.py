@@ -4,6 +4,8 @@
 Usage: python3 -I akbh1_add_records.py AKBH1_DIR NEW.tsv [--dry]
 NEW.tsv 栏目：before sid skt lemma pos xz_line xz type pm_line pm note（带表头，Tab 分隔）
   before：插在哪条记录之前（同单位 occ/ 中的 oid，一般是复合词的第一个成分）；新记录取该单位下一个空号。
+  也可以用 after 栏代替 before：插在哪条记录之后（after 指向同一批新增的记录时，用它的 skt 无法定位，
+  请按句中次序写多行、都指向同一条已有记录，它们会依次排在该记录之后）。
 核验同 akbh1_verify.py（skt 是梵文句的子串；xz、pm 按"…"分段出现在所标行起的两行窗口里），
 pos 须合形态规则（morph.py）。任何一条不合格，整批都不写入。
 """
@@ -32,8 +34,9 @@ def main(d, new, dry):
     errs, plan = [], {}
     nextno = {}
     for k, a in enumerate(adds, 2):
-        a = {c: (a.get(c) or '').strip() for c in ['before'] + COLS[1:]}
-        u = a['before'].split('-')[0]
+        a = {c: (a.get(c) or '').strip() for c in ['before', 'after'] + COLS[1:]}
+        anchor = a['before'] or a['after']
+        u = anchor.split('-')[0]
         f = os.path.join(d, 'occ', u + '.tsv')
         if not os.path.exists(f):
             errs.append('第 %d 行：before %s 的单位不存在' % (k, a['before'])); continue
@@ -43,8 +46,10 @@ def main(d, new, dry):
             nextno[u] = max(used) + 1
         oids = [r['oid'] for r in tsv(f)]
         e = []
-        if a['before'] not in oids:
-            e.append('before %s 不在 %s' % (a['before'], f))
+        if bool(a['before']) == bool(a['after']):
+            e.append('before、after 须填且只填一个')
+        elif anchor not in oids:
+            e.append('%s 不在 %s' % (anchor, f))
         if a['type'] not in V.TYPES:
             e.append('type 不合法')
         if a['sid'] not in skt:
@@ -71,7 +76,7 @@ def main(d, new, dry):
         if not a['lemma'] or ' + ' in a['lemma']:
             e.append('lemma 为空或含"+"')
         if e:
-            errs.append('第 %d 行（%s %s）：%s' % (k, a['before'], a['skt'], '；'.join(e))); continue
+            errs.append('第 %d 行（%s %s）：%s' % (k, anchor, a['skt'], '；'.join(e))); continue
         a['oid'] = '%s-%03d' % (u, nextno[u]); nextno[u] += 1
         plan.setdefault(f, []).append(a)
     for e in errs:
@@ -85,8 +90,10 @@ def main(d, new, dry):
         for r in rows:
             out += [a for a in items if a['before'] == r['oid']]
             out.append(r)
+            out += [a for a in items if a['after'] == r['oid']]
         for a in items:
-            print('%s新增 %s（在 %s 前）：%s | %s | %s | %s' % ('（试算）' if dry else '', a['oid'], a['before'], a['skt'], a['lemma'], a['pos'], a['xz'] or '（未译）'))
+            print('%s新增 %s（在 %s %s）：%s | %s | %s | %s' % ('（试算）' if dry else '', a['oid'], a['before'] or a['after'],
+                  '前' if a['before'] else '后', a['skt'], a['lemma'], a['pos'], a['xz'] or '（未译）'))
         if not dry:
             with open(f, 'w', encoding='utf-8') as fo:
                 fo.write('\t'.join(hdr) + '\n')

@@ -10,6 +10,9 @@ U23-008	S0404	skandhā	skandha	n. 成分	0005b03	蘊	对译	0165c08	陰
 U23-009	S0404	ādi	ādi	n. 成分	0005b03	處界	意译	0165c08	入界	
 U23-010	S0404	tisraḥ	tri	num. f. pl. nom.	0005b03	三	对译			
 U23-011	S0404	skandhādideśanāḥ	skandha-ādi-deśanā	cpd. f. pl. nom.	0005b04	說蘊等三門	意译			长行复述颂文；"世尊為"为增字
+U23-071	S0404	skandhā	skandha	n. 成分	0005b04	蘊	对译			补成分记录；长行复述颂文
+U23-072	S0404	ādi	ādi	n. 成分	0005b04	等	对译			补成分记录；长行复述颂文
+U23-073	S0404	deśanāḥ	deśanā	n. f. pl. nom.	0005b04	說	意译			补成分记录；长行复述颂文
 U23-012	S0405	trayaḥ	tri	num. m. pl. nom.	0005b04	三	对译			"有"为增字
 U23-013	S0405	prakārās	prakāra	n. m. pl. nom.	0005b04	品	对译			
 U23-014	S0405	traidham	traidha	n. nt. sg. nom.			省译			释词句，玄奘不出被释词 traidham
@@ -29,13 +32,15 @@ U23-027	S0406	grahaṇataḥ	grahaṇa	n. sg. abl. (-tas)	0005b05	執	对译	016
 U23-028	S0406	ātma	ātman	n. 成分	0005b06	我	对译	0165c10	我	
 U23-031	S0407	rūpa eva	rūpa	n. nt. sg. loc.	0005b06	色	对译	0165c10	色	"愚"承上补出
 U23-032	S0407	rūpacittayoḥ	rūpa-citta	cpd. nt. du. loc.	0005b06	色心	对译	0165c11	色心	
-U23-033	S0407	rūpacittayoḥ	citta	n. 成分	0005b06	心	对译	0165c11	心	
+U23-074	S0407	rūpa	rūpa	n. 成分	0005b06	色	对译	0165c11	色	补成分记录
+U23-033	S0407	cittayoḥ	citta	n. nt. du. loc.	0005b06	心	对译	0165c11	心	
 U23-034	S0407	indriyāṇy	indriya	n. nt. pl. nom.	0005b06	根	对译	0165c11	根	
 U23-035	S0407	trividhāni	trividha	adj. nt. pl. nom.	0005b06	三	对译	0165c11	三	"有"为增字
 U23-036	S0408	tīkṣṇamadhyamṛdvindriyatvāt	tīkṣṇa-madhya-mṛdu-indriya-tva	cpd. nt. sg. abl.	0005b06	利、中、鈍	对译	0165c11	利、中、鈍	indriya-tva 未译；"謂"为增字
 U23-037	S0408	tīkṣṇa	tīkṣṇa	adj. 成分	0005b06	利	对译	0165c11	利	
 U23-038	S0408	madhya	madhya	adj. 成分	0005b07	中	对译	0165c11	中	
 U23-039	S0408	mṛdv	mṛdu	adj. 成分	0005b07	鈍	对译	0165c11	鈍	
+U23-075	S0408	indriya	indriya	n. 成分			省译			补成分记录；indriya 未译
 U23-040	S0408	rūcir	ruci	n. f. sg. nom.	0005b07	樂	对译	0165c11	樂	GRETIL 本作 rūcir
 U23-041	S0408	trividhā	trividha	adj. f. sg. nom.	0005b07	三種	对译	0165c11	三	
 U23-042	S0409	saṃkṣiptamadhyavistaragrantharucitvāt	saṃkṣipta-madhya-vistara-grantha-ruci-tva	cpd. nt. sg. abl.	0005b07	樂、略、中，及廣文	意译	0165c12	樂、略、中。廣文	玄奘把 ruci 提前作"樂"；第五格译"故"
@@ -60,10 +65,14 @@ U23-060	S0411				0005b08	餘	增译	0165c13	所餘
 U23-061	S0411	caitasikā	caitasika	n. m. pl. nom.	0005b08	心所	对译	0165c13	心法	
 U23-062	S0411	ekatra	ekatra	ind.	0005b09	總	意译	0165c13	一	
 U23-063	S0411	saṃskāraskandhanikṣiptā	saṃskāra-skandha-nikṣipta	cpd. ptc. m. pl. nom.	0005b09	置行蘊	对译	0165c13	安置一行陰	
-U23-064	S0411	nikṣiptā	ni-kṣip	ptc. 成分	0005b09	置	对译	0165c13	安置	
+U23-064	S0411	nikṣiptā	ni-kṣip	ptc. m. pl. nom. (nikṣipta)	0005b09	置	对译	0165c13	安置	
 U23-065	S0411	saṃskāraskandha	saṃskāra-skandha	cpd. 成分	0005b09	行蘊	对译	0165c14	行陰	
+U23-076	S0411	saṃskāra	saṃskāra	n. 成分	0005b09	行	对译	0165c14	行	补成分记录
+U23-077	S0411	skandha	skandha	n. 成分	0005b09	蘊	对译	0165c14	陰	补成分记录
 U23-066	S0411	pṛthak	pṛthak	ind.	0005b09	別	对译	0165c14	別	
 U23-067	S0411	skandhīkṛte	skandhī-kṛ	ptc. f. du. nom.	0005b09	分…為…蘊	意译	0165c14	分…立為陰	
 U23-068	S0411	vedanāsaṃjñe	vedanā-saṃjñā	cpd. f. du. nom.	0005b09	受想	对译	0165c14	受想	
+U23-078	S0411	vedanā	vedanā	n. 成分	0005b09	受	对译	0165c14	受	补成分记录
+U23-079	S0411	saṃjñe	saṃjñā	n. f. du. nom.	0005b09	想	对译	0165c14	想	补成分记录
 U23-069	S0411	skandhīkṛte	du.	gram. du. (-e)	0005b09	二	语法	0165c14	二	双数以"二"表出
 U23-070	S0411	ityāha	ah	v. perf. 3sg.	0005b09	頌曰	语法	0165c14	偈曰	

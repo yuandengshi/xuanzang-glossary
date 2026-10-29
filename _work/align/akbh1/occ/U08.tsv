@@ -8,6 +8,8 @@ U08-007	S0125	pañcā	pañcan	num. pl. nom.	0002b07	五	对译	0163a04	五
 U08-008	S0125	āvijñaptir	a-vijñapti	n. f. sg. nom.	0002b07	無表	对译	0163a04	無教	
 U08-010	S0126				0002b08	言…者	增译			长行标举颂文，以"言…者"引出
 U08-011	S0126	pañcendriyāṇi	pañca-indriya	cpd. nt. pl. nom.	0002b08	五根	对译	0163a05	五根	
+U08-053	S0126	pañce	pañcan	num. 成分	0002b08	五	对译	0163a05	五	补成分记录
+U08-054	S0126	endriyāṇi	indriya	n. nt. pl. nom.	0002b08	根	对译	0163a05	根	补成分记录
 U08-012	S0126				0002b08	所謂	增译	0163a05	謂	
 U08-013	S0126	cakṣuḥśtrotragrhāṇajihvākāyendariyā ṇa	cakṣus-śrotra-ghrāṇa-jihvā-kāya-indriya	cpd. nt. pl. nom.	0002b08	眼、耳、鼻、舌、身根	对译	0163a05	眼耳鼻舌身	GRETIL 本作 cakṣuḥśtrotragrhāṇajihvākāyendariyā ṇa，当读 cakṣuḥśrotraghrāṇajihvākāyendriyāṇi
 U08-014	S0126	cakṣuḥ	cakṣus	n. 成分	0002b08	眼	对译	0163a05	眼	
@@ -15,13 +17,15 @@ U08-015	S0126	śtrotra	śrotra	n. 成分	0002b08	耳	对译	0163a05	耳	GRETIL �
 U08-016	S0126	grhāṇa	ghrāṇa	n. 成分	0002b08	鼻	对译	0163a05	鼻	GRETIL 本作 grhāṇa
 U08-017	S0126	jihvā	jihvā	n. 成分	0002b08	舌	对译	0163a05	舌	
 U08-018	S0126	kāye	kāya	n. 成分	0002b08	身	对译	0163a05	身	
-U08-019	S0126	endariyā ṇa	indriya	n. 成分	0002b08	根	对译			GRETIL 本作 endariyā ṇa
+U08-019	S0126	endariyā ṇa	indriya	n. nt. pl. nom.	0002b08	根	对译			GRETIL 本作 endariyā ṇa
 U08-020	S0127				0002b08	言…者	增译			
 U08-021	S0127	pañcā	pañcan	num. pl. nom.	0002b08	五	对译	0163a05	五	
 U08-022	S0127	ārthās	artha	n. m. pl. nom.	0002b09	境	意译	0163a05	塵	
 U08-023	S0127	teṣāmeva	tad	pron. nt. pl. gen.	0002b09	即是	合译	0163a05	是	teṣām eva（即彼）合译"即是"
 U08-024	S0127	teṣāmeva	eva	ind.	0002b09	即是	合译			teṣām eva（即彼）合译"即是"
 U08-025	S0127	cakṣurādīnām	cakṣus-ādi	cpd. nt. pl. gen.	0002b09	眼等	对译	0163a05	眼等	
+U08-055	S0127	cakṣur	cakṣus	n. 成分	0002b09	眼	对译	0163a05	眼	补成分记录
+U08-056	S0127	ādīnām	ādi	n. nt. pl. gen.	0002b09	等	对译	0163a05	等	补成分记录
 U08-026	S0127	indriyāṇāṃ	indriya	n. nt. pl. gen.	0002b09	根	对译	0163a05	根	
 U08-027	S0127	yathāsvaṃ	yathāsvam	ind.			省译			"各自的"未译
 U08-028	S0127	ye pañca	yad	pron. m. pl. nom.			省译			
@@ -40,6 +44,8 @@ U08-040	S0128				0002b10	謂無表色	增译			补出解释
 U08-041	S0128	etāvān	etāvat	pron. m. sg. nom.	0002b10	唯…此量	意译	0163a06	如此量	etāvat（仅此之量）
 U08-042	S0128				0002b10	依	增译			
 U08-043	S0128	rūpaskandhaḥ	rūpa-skandha	cpd. m. sg. nom.	0002b10	色蘊	对译	0163a06	色陰	
+U08-057	S0128	rūpa	rūpa	n. 成分	0002b10	色	对译	0163a06	色	补成分记录
+U08-058	S0128	skandhaḥ	skandha	n. m. sg. nom.	0002b10	蘊	对译	0163a06	陰	补成分记录
 U08-044	S0128				0002b10	立…名	增译	0163a06	名	
 U08-045	S0129	tatra	tatra	ind.	0002b11	此中	语法	0163a06	此中	
 U08-046	S0129				0002b11	先應說五根相	增译			玄奘补出过渡语；S0129 其余部分玄奘移到下颂长行（0002b13）
@@ -47,4 +53,6 @@ U08-047	S0129	ya ete	yad	pron. m. pl. nom.	0002b13	前	语法	0163a07	前	关系
 U08-049	S0129	uktāḥ	vac	ptc. m. pl. nom.	0002b13	說	对译	0163a07	說	
 U08-050	S0129	pañca	pañcan	num. pl. nom.	0002b13	五	对译	0163a07	五	
 U08-051	S0129	rūpādayo	rūpa-ādi	cpd. m. pl. nom.	0002b13	色等	对译	0163a07	色等	
+U08-059	S0129	rūpā	rūpa	n. 成分	0002b13	色	对译	0163a07	色	补成分记录
+U08-060	S0129	ādayo	ādi	n. m. pl. nom.	0002b13	等	对译	0163a07	等	补成分记录
 U08-052	S0129	'rthā	artha	n. m. pl. nom.	0002b13	境	意译	0163a07	塵	

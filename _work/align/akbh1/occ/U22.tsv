@@ -7,6 +7,9 @@ U22-005	S0356	dvāra	dvāra	n. 成分	0004c13	門	对译	0165a22	門
 U22-006	S0356	gotrā	gotra	n. 成分	0004c13	種族	对译	0165a22	性	
 U22-007	S0356	ārthāḥ	artha	n. m. pl. nom.	0004c13	義	对译	0165a22	義	
 U22-008	S0356	skandhāyatanadhātavaḥ	skandha-āyatana-dhātu	cpd. m. pl. nom.	0004c13	蘊處界	对译	0165a23	陰入界	"是"为增字；真谛作"陰入界三名"
+U22-413	S0356	skandhā	skandha	n. 成分	0004c13	蘊	对译	0165a23	陰	补成分记录
+U22-414	S0356	āyatana	āyatana	n. 成分	0004c13	處	对译	0165a23	入	补成分记录
+U22-415	S0356	dhātavaḥ	dhātu	n. m. pl. nom.	0004c13	界	对译	0165a23	界	补成分记录
 U22-009	S0356				0004c14	諸有為法和合	增译			玄奘补出"諸有為法和合"
 U22-010	S0356	rāśy	rāśi	n. 成分	0004c14	聚	对译			长行开头复述颂文（聚義是蘊義）
 U22-011	S0357	vacanāt	vacana	n. nt. sg. abl.	0004c14	言	对译	0165a26	言	"如契經言"
@@ -33,9 +36,15 @@ U22-031	S0357	abhisaṃkṣipya	abhi-sam-kṣip	abs.	0004c16	略為	意译	0165a
 U22-032	S0357	aikadhyam	aikadhya	n. nt. sg. acc. (adv.)	0004c17	一聚	意译	0165a25	一處	aikadhyam（合在一处）
 U22-033	S0357	saṃkhyāṃ gacchatī	saṃkhyāṃ gam	v. pres. 3sg. (idiom)	0004c17	說名	意译	0165a25	說名	saṃkhyāṃ gacchati（被计为）
 U22-034	S0357	rūpaskandha	rūpa-skandha	cpd. m. sg. nom.	0004c17	色蘊	对译	0165a25	色陰	
+U22-416	S0357	rūpa	rūpa	n. 成分	0004c17	色	对译	0165a25	色	补成分记录
+U22-417	S0357	skandha	skandha	n. m. sg. nom.	0004c17	蘊	对译	0165a25	陰	补成分记录
 U22-035	S0357	vacanāt	abl.	gram. abl. (-āt)	0004c17	由此	语法	0165a25	由此	第五格"由于（经中）此语"，玄奘作"由此"
 U22-036	S0357	rāśyarthaḥ	rāśi-artha	cpd. m. sg. nom.	0004c17	聚義	对译	0165a26	聚義	
+U22-418	S0357	rāśy	rāśi	n. 成分	0004c17	聚	对译	0165a26	聚	补成分记录
+U22-419	S0357	arthaḥ	artha	n. m. sg. nom.	0004c17	義	对译	0165a26	義	补成分记录
 U22-037	S0357	skandhārtha	skandha-artha	cpd. m. sg. nom.	0004c17	蘊義	对译	0165a26	陰	
+U22-420	S0357	skandhā	skandha	n. 成分	0004c17	蘊	对译	0165a26	陰	补成分记录
+U22-421	S0357	ārtha	artha	n. m. sg. nom.	0004c17	義	对译			补成分记录
 U22-038	S0357	siddham	sidh	ptc. nt. sg. nom. (siddha)	0004c17	成	对译	0165a26	成	"得"为增字
 U22-039	S0358	tatrātītaṃ	tatra	ind.	0004c18	於此經中	语法	0165a26	此中	tatra（其中）玄奘补"經"作"於此經中"
 U22-040	S0358	anityatāniruddham	a-nityatā-niruddha	cpd. nt. sg. nom.	0004c18	無常已滅	对译	0165a27	無常已滅	
@@ -51,7 +60,8 @@ U22-049	S0359	utpannā	ut-pad	ptc. 成分 (utpanna)	0004c19	生	对译	0165a27	�
 U22-050	S0359	āniruddham	a-niruddha	ptc. nt. sg. nom.	0004c19	未謝	对译	0165a27	未滅	
 U22-051	S0359	pratyutpannam	pratyutpanna	ptc. nt. sg. nom.	0004c19	現在	对译	0165a27	現在	
 U22-052	S0360	svāsāntānikaṃ	sva-sāṃtānika	cpd. adj. nt. sg. nom.	0004c19	自身	意译	0165a27	自相續	GRETIL 本作 svāsāntānikaṃ，当读 svasāṃtānikam
-U22-053	S0360	sāntānikaṃ	sāṃtānika	adj. 成分	0004c19	身	意译	0165a28	相續	
+U22-422	S0360	svā	sva	pron. 成分	0004c19	自	对译	0165a27	自	补成分记录；GRETIL 本作 svā-
+U22-053	S0360	sāntānikaṃ	sāṃtānika	adj. nt. sg. nom.	0004c19	身	意译	0165a28	相續	
 U22-054	S0360	ādhyātmikaṃ	ādhyātmika	adj. nt. sg. nom.	0004c19	內	对译	0165a28	內	
 U22-055	S0360	anyad	anya	pron. nt. sg. nom.	0004c19	所餘	对译	0165a28	異此	
 U22-056	S0360	bāhyam	bāhya	adj. nt. sg. nom.	0004c20	外	对译	0165a28	外	
@@ -111,6 +121,7 @@ U22-114	S0369	bhadanta	bhadanta	n. m. sg. nom.	0004c26	大德	对译	0165b06	大
 U22-115	S0369				0004c27	法救	增译			玄奘补出大德之名（法救，Dharmatrāta）
 U22-116	S0369	āha	ah	v. perf. 3sg.	0004c27	作是言	语法	0165b06	說	"復"为增字
 U22-117	S0369	pañacendriyagrāhyam	pañca-indriya-grāhya	cpd. gdv. nt. sg. nom.	0004c27	五根所取	对译	0165b06	五根所緣	GRETIL 本作 pañacendriya-
+U22-423	S0369	pañace	pañcan	num. 成分	0004c27	五	对译	0165b06	五	补成分记录；GRETIL 本作 pañace-
 U22-118	S0369	endriya	indriya	n. 成分	0004c27	根	对译	0165b06	根	
 U22-119	S0369	grāhyam	grāhya	gdv. nt. sg. nom. (grah)	0004c27	所取	对译	0165b06	所緣	
 U22-120	S0369	audārikarūpaṃ	audārika-rūpa	cpd. nt. sg. nom.	0004c27	麁色	对译	0165b06	麁	
@@ -125,26 +136,35 @@ U22-128	S0370	manāpam	manāpa	adj. nt. sg. nom.	0004c28	所餘	意译	0165b07	�
 U22-129	S0370	praṇītaṃ	praṇīta	ptc. adj. nt. sg. nom.	0004c28	勝	对译	0165b07	美	
 U22-130	S0370	adṛśyadeśam	a-dṛśya-deśa	cpd. nt. sg. nom.	0004c28	不可見處	对译	0165b07	不可見處	
 U22-131	S0370	adṛśya	a-dṛśya	gdv. 成分	0004c28	不可見	对译	0165b07	不可見	
-U22-132	S0370	adṛśyadeśam	deśa	n. 成分	0004c29	處	对译	0165b07	處	
+U22-132	S0370	deśam	deśa	n. nt. sg. nom.	0004c29	處	对译	0165b07	處	
 U22-133	S0370	dūram	dūra	adj. nt. sg. nom.	0004c29	遠	对译	0165b07	遠	
 U22-134	S0370	dṛśyadeśam /	dṛśya-deśa	cpd. nt. sg. nom.	0004c29	可見處	意译	0165b07	可見處	"在"为增字
 U22-134+1	S0370				0004c29	在	增译			合并时从 U22-134（在可見處）拆出
 U22-135	S0370	dṛśyadeśam /	dṛśya	gdv. 成分	0004c29	可見	对译	0165b07	可見	
+U22-424	S0370	deśam /	deśa	n. nt. sg. nom.	0004c29	處	对译	0165b07	處	补成分记录
 U22-136	S0370	antikaṃ	antika	adj. nt. sg. nom.	0004c29	近	对译	0165b07	近	
 U22-137	S0371	atītādīnāṃ	atīta-ādi	cpd. nt. pl. gen. (?)	0004c29	過去等	对译	0165b08	過去等	"色"为增字
+U22-425	S0371	atītā	atīta	ptc. 成分	0004c29	過去	对译	0165b08	過去	补成分记录
+U22-426	S0371	ādīnāṃ	ādi	n. nt. pl. gen. (?)	0004c29	等	对译	0165b08	等	补成分记录
 U22-138	S0371	śabdenā	instr.	gram. instr. (-ena)	0005a01	如	语法			第三格"以（其自身之名）"，玄奘作"如"
 U22-139	S0371	svaśabdenā	sva-śabda	cpd. m. sg. instr.	0005a01	自名	对译	0165b08	自名	
 U22-140	S0371	sva	sva	pron. 成分	0005a01	自	对译	0165b08	自	
 U22-141	S0371	śabdenā	śabda	n. m. sg. instr.	0005a01	名	意译	0165b08	名	śabda（词）译"名"
 U22-142	S0371	ābhi hitatvāt	abhi-dhā	ptc. 成分 (abhihita)	0005a01	顯	意译	0165b08	所顯	GRETIL 本分写作 abhi hitatvāt
 U22-143	S0372	vedanādayo	vedanā-ādi	cpd. m. pl. nom. (?)	0005a01	受等	对译	0165b08	受等	
+U22-427	S0372	vedanā	vedanā	n. 成分	0005a01	受	对译	0165b08	受	补成分记录
+U22-428	S0372	ādayo	ādi	n. m. pl. nom. (?)	0005a01	等	对译	0165b08	等	补成分记录
 U22-145	S0372	evam	evam	ind.	0005a01	然	语法	0165b08	爾	
 U22-146	S0372	veditavyāḥ	vid	gdv. m. pl. nom. (?)			省译	0165b08	應知	
 U22-147	S0373	āśrayavaśāt	āśraya-vaśa	cpd. m. sg. abl.	0005a01	隨所依力	对译	0165b09	隨依止	
 U22-148	S0373	vaśāt	vaśa	n. m. sg. abl.	0005a01	隨…力	拆译	0165b09	隨	
 U22-149	S0373	āśraya	āśraya	n. 成分	0005a01	所依	对译	0165b09	依止	
 U22-150	S0373	dūrāntikatvaṃ	dūra-antika-tva	cpd. nt. sg. nom.	0005a01	遠近	对译	0165b09	遠近	"應知"为增字
+U22-429	S0373	dūrā	dūra	adj. 成分	0005a01	遠	对译	0165b09	遠	补成分记录
+U22-430	S0373	āntika	antika	adj. 成分	0005a02	近	对译	0165b09	近	补成分记录
 U22-151	S0373	audārikasūkṣmatvaṃ	audārika-sūkṣma-tva	cpd. nt. sg. nom.	0005a02	麁細	对译	0165b09	麁細	
+U22-431	S0373	audārika	audārika	adj. 成分	0005a02	麁	对译	0165b09	麁	补成分记录
+U22-432	S0373	sūkṣma	sūkṣma	adj. 成分	0005a02	細	对译	0165b09	細	补成分记录
 U22-152	S0373	pūarvavad	-vat	gram. suffix	0005a02	同	语法	0165b09	如	
 U22-153	S0373	pūarvavad	pūrva-vat	cpd. ind.	0005a02	同前	意译	0165b09	如前	GRETIL 本作 pūarvavad
 U22-154	S0373	pūarva	pūrva	adj. 成分	0005a02	前	对译	0165b09	前	
@@ -155,10 +175,14 @@ U22-158	S0374	āya	āya	n. 成分	0005a02	生長	意译	0165b10	來
 U22-159	S0374	dvārā	dvāra	n. 成分	0005a02	門	对译	0165b10	門	
 U22-160	S0374	ārtha	artha	n. m. sg. nom.	0005a02	義	对译	0165b10	義	
 U22-161	S0374	āyatanārthaḥ	āyatana-artha	cpd. m. sg. nom.	0005a02	處義	对译	0165b09	入	"是"为增字
+U22-471	S0374	āyatanā	āyatana	n. 成分	0005a02	處	对译	0165b09	入	补成分记录
+U22-472	S0374	ārthaḥ	artha	n. m. sg. nom.	0005a02	義	对译			补成分记录
 U22-162	S0375	nirvacanaṃ	nirvacana	n. nt. sg. nom.	0005a03	訓釋詞	对译			"者"为增字
 U22-163	S0375	āyaṃ	āya	n. m. sg. acc.	0005a03	生	合译	0165b10	來	与 tanvanti 合为"生長"
 U22-164	S0375	tanvantīti	tan	v. pres. 3pl.	0005a03	長	合译	0165b10	增長	与 āyam 合为"生長"；"能"为增字
 U22-165	S0375	cittacaittānām	citta-caitta	cpd. m. pl. gen.	0005a03	心心所法	对译	0165b10	心及心法	
+U22-433	S0375	citta	citta	n. 成分	0005a03	心	对译	0165b10	心	补成分记录
+U22-434	S0375	caittānām	caitta	n. m. pl. gen.	0005a03	心所法	对译	0165b10	心法	补成分记录
 U22-166	S0375	tanvantīti	iti	ind.	0005a03	故名為	语法			
 U22-167	S0375	āyatanāni	āyatana	n. nt. pl. nom.	0005a03	處	对译			
 U22-168	S0376	tyarthaḥ	iti	ind.	0005a04	是	语法			ity arthaḥ（意思是）作"是…義"
@@ -168,7 +192,10 @@ U22-171	S0376	tyarthaḥ	artha	n. m. sg. nom.	0005a04	義	对译
 U22-172	S0376				0005a04	法	增译			"法種族義"之"法"为增字
 U22-173	S0376	gotrārtho	gotra-artha	cpd. m. sg. nom.	0005a04	種族義	对译	0165b11	別義	
 U22-174	S0376	gotrā	gotra	n. 成分	0005a04	種族	对译	0165b11	別	
+U22-435	S0376	ārtho	artha	n. m. sg. nom.	0005a04	義	对译	0165b11	義	补成分记录
 U22-175	S0376	dhātvarthaḥ	dhātu-artha	cpd. m. sg. nom.	0005a04	界義	对译	0165b11	界者	"是"为增字
+U22-436	S0376	dhātv	dhātu	n. 成分	0005a04	界	对译	0165b11	界	补成分记录
+U22-437	S0376	arthaḥ	artha	n. m. sg. nom.	0005a04	義	对译			补成分记录
 U22-177	S0377	aikasmin	eka	num. m. sg. loc.	0005a05	一	对译	0165b11	一	
 U22-178	S0377	parvate	parvata	n. m. sg. loc.	0005a05	山	对译	0165b11	山	
 U22-180	S0377	bahūny	bahu	adj. nt. pl. nom.	0005a05	多	对译	0165b11	多	"有"为增字
@@ -195,6 +222,8 @@ U22-201	S0378	uacyante	vac	v. pres. pass. 3pl.	0005a07	是	意译			ucyante（�
 U22-202	S0378	ākarās	ākara	n. m. pl. nom.	0005a07	生本	意译	0165b13	本	ākara（矿藏、来源）玄奘作"生本"；"義"为增字
 U22-203	S0379	ta ime	idam	pron. m. pl. nom.	0005a07	如是	语法			ta ime（这些）译"如是"
 U22-204	S0379	cakṣurādayaḥ	cakṣus-ādi	cpd. m. pl. nom.	0005a07	眼等	对译			
+U22-438	S0379	cakṣur	cakṣus	n. 成分	0005a07	眼	对译			补成分记录
+U22-439	S0379	ādayaḥ	ādi	n. m. pl. nom.	0005a07	等	对译			补成分记录
 U22-205	S0379	kasyā	kim	pron. nt. sg. gen. (?)	0005a07	誰之	语法			
 U22-206	S0379	ākarāḥ	ākara	n. m. pl. nom.	0005a08	生本	意译			
 U22-207	S0380	svasyā	sva	pron. f. sg. gen.	0005a08	自	对译			"謂"为增字
@@ -205,6 +234,8 @@ U22-211	S0380	hetutvāt	hetu	n. 成分	0005a08	因	对译	0165b14	因
 U22-213	S0381	asaṃskṛtaṃ	a-saṃskṛta	ptc. adj. nt. sg. nom.	0005a08	無為	对译	0165b15	無為	
 U22-215	S0381	dhātuḥ	dhātu	n. m. sg. nom.	0005a09	界	对译	0165b15	界	"名"为增字
 U22-216	S0382	cittacittānāṃ	citta-caitta	cpd. m. pl. gen.	0005a09	心心所法	对译	0165b16	心及心法	GRETIL 本作 cittacittānāṃ，当读 cittacaittānāṃ；其后疑脱 ākaratvāt 之类（玄奘"生之本故"、真谛"同類因故"）
+U22-440	S0382	citta	citta	n. 成分	0005a09	心	对译	0165b16	心	补成分记录
+U22-441	S0382	cittānāṃ	caitta	n. m. pl. gen.	0005a09	心所法	对译	0165b16	心法	补成分记录；GRETIL 本作 -cittānāṃ，当读 -caittānāṃ
 U22-217	S0382				0005a09	生之本故	梵本缺文	0165b16	同類因故	梵本此处疑有脱文；待核
 U22-218	S0382	tarhi	tarhi	ind.			省译			此处 tarhi 疑因脱文而错乱；待核
 U22-219	S0382	ityapare	apara	pron. m. pl. nom.	0005a09	有說	意译	0165b16	復有餘師說	ity apare（另有人说）玄奘作"有說"并移至句首
@@ -226,7 +257,11 @@ U22-234	S0383	dhātava iti	dhātu	n. m. pl. nom.	0005a10	界	对译	0165b17	界
 U22-235	S0384	yadi	yadi	ind.	0005a11	若…者	语法	0165b17	若	"言"为增字
 U22-235+1	S0384				0005a11	言	增译			合并时从 U22-235（若言…者）拆出
 U22-236	S0384	rāśyarthaḥ	rāśi-artha	cpd. m. sg. nom.	0005a11	聚義	对译	0165b18	聚義	
+U22-442	S0384	rāśy	rāśi	n. 成分	0005a11	聚	对译	0165b18	聚	补成分记录
+U22-443	S0384	arthaḥ	artha	n. m. sg. nom.	0005a11	義	对译	0165b18	義	补成分记录
 U22-237	S0384	skandhārthaḥ	skandha-artha	cpd. m. sg. nom.	0005a11	蘊義	对译	0165b17	陰	
+U22-444	S0384	skandhā	skandha	n. 成分	0005a11	蘊	对译	0165b17	陰	补成分记录
+U22-445	S0384	ārthaḥ	artha	n. m. sg. nom.	0005a11	義	对译			补成分记录
 U22-238	S0384	skandhāḥ	skandha	n. m. pl. nom.	0005a11	蘊	对译	0165b18	陰	
 U22-239	S0384	prāpnuvanti	pra-āp	v. pres. 3pl.	0005a11	應	意译	0165b18	應	prāpnuvanti（推出）译"應"
 U22-240	S0384	prajñaptisantaḥ	prajñapti-sat	cpd. m. pl. nom.	0005a11	假有	对译	0165b18	假名	
@@ -249,7 +284,11 @@ U22-256	S0386	skandhatvāt	-tva (abstract)	gram. suffix	0005a13	名	语法	0165b
 U22-257	S0386	skandhatvāt	skandha	n. 成分	0005a13	蘊	对译	0165b19	陰	
 U22-258	S0386	vaktavyam	vac	gdv. nt. sg. nom.	0005a13	言	对译	0165b20	說	
 U22-259	S0386	rāśyarthaḥ	rāśi-artha	cpd. m. sg. nom.	0005a13	聚義	对译	0165b20	聚義	
+U22-446	S0386	rāśy	rāśi	n. 成分	0005a13	聚	对译	0165b20	聚	补成分记录
+U22-447	S0386	arthaḥ	artha	n. m. sg. nom.	0005a13	義	对译	0165b20	義	补成分记录
 U22-260	S0386	skandhārtha	skandha-artha	cpd. m. sg. nom.	0005a13	蘊義	对译	0165b20	陰	
+U22-448	S0386	skandhā	skandha	n. 成分	0005a13	蘊	对译	0165b20	陰	补成分记录
+U22-449	S0386	ārtha	artha	n. m. sg. nom.	0005a13	義	对译			补成分记录
 U22-261	S0387	ekasyāsti	eka	num. m. sg. gen. (?)	0005a13	一	对译	0165b20	一	
 U22-262	S0387				0005a13	實物	增译			
 U22-264	S0387	rāśitvam	rāśi	n. 成分	0005a14	聚	对译	0165b20	聚	
@@ -260,11 +299,15 @@ U22-267+1	S0387				0005a14	能	增译			合并时从 U22-267（能荷重擔義�
 U22-268	S0387	odvahanā	udvahana	n. 成分	0005a14	荷	对译	0165b21	荷負	
 U22-269	S0387	hāro	bhāra	n. 成分	0005a14	重擔	意译			kārya-bhāra（事务之担）作"重擔"
 U22-270	S0387	kāryab	kārya	n. 成分			省译	0165b21	事	
+U22-450	S0387	ārthaḥ	artha	n. m. sg. nom.	0005a14	義	对译			补成分记录
 U22-271	S0387	skandhārtha ity	skandha-artha	cpd. m. sg. nom.	0005a14	蘊義	对译	0165b21	陰義	
+U22-451	S0387	skandhā	skandha	n. 成分	0005a14	蘊	对译	0165b21	陰	补成分记录
+U22-452	S0387	ārtha	artha	n. m. sg. nom.	0005a14	義	对译	0165b21	義	补成分记录
 U22-272	S0387				0005a15	由此世間說肩名蘊，物所聚故	增译			玄奘补出的释义（skandha 又指肩）
 U22-273	S0388	vā	vā	ind.	0005a15	或有說者	语法	0165b21	復有師說	vā（或者）承上 ity apare，玄奘作"或有說者"
 U22-274	S0388	pracchedārtho	praccheda-artha	cpd. m. sg. nom.	0005a16	可分段義	意译	0165b21	分分	"是蘊義"为补出
 U22-275	S0388	pracchedā	praccheda	n. 成分	0005a16	可分段	意译	0165b21	分分	
+U22-453	S0388	ārtho	artha	n. m. sg. nom.	0005a16	義	对译			补成分记录
 U22-276	S0389	tathāhi	tathā hi	ind.	0005a16	故	语法	0165b22	何以故	
 U22-277	S0389				0005a16	世	增译			
 U22-278	S0389	bhavanti	bhū	v. pres. 3pl.	0005a16	有	对译	0165b22	有	
@@ -279,10 +322,15 @@ U22-288	S0389	utsūtram	utsūtra	adj. nt. sg. nom.	0005a17	越經	对译	0165b23
 U22-289	S0390	sūtraṃ	sūtra	n. nt. sg. nom.	0005a17	經	对译	0165b23	經	
 U22-290	S0390	bravīti	brū	v. pres. 3sg.	0005a17	說	对译	0165b23	說	
 U22-291	S0390	rāśyartham	rāśi-artha	cpd. m. sg. acc.	0005a17	聚義	对译	0165b23	聚	"是蘊義"为补出
+U22-454	S0390	rāśy	rāśi	n. 成分	0005a17	聚	对译	0165b23	聚	补成分记录
+U22-455	S0390	artham	artha	n. m. sg. acc.	0005a17	義	对译			补成分记录
 U22-292	S0390				0005a18	如契經言	增译	0165b23	如經言	
 U22-293	S0390	yatkiñcid	yad kiñcit	pron. nt. sg. nom.	0005a18	諸所有	语法	0165b24	隨所有	
 U22-294	S0390	rūpam	rūpa	n. nt. sg. nom.	0005a18	色	对译	0165b24	色	
 U22-295	S0390	atītānāgatapratyutpannam	atīta-anāgata-pratyutpanna	cpd. nt. sg. nom.	0005a18	若過去等	意译	0165b24	若過去未來現在等	玄奘以"等"略去未来、现在
+U22-456	S0390	atītā	atīta	ptc. 成分	0005a18	過去	对译	0165b24	過去	补成分记录
+U22-457	S0390	ānāgata	an-āgata	ptc. 成分			省译	0165b24	未來	补成分记录；玄奘以"等"概括未来、现在
+U22-458	S0390	pratyutpannam	pratyutpanna	ptc. nt. sg. nom.			省译	0165b24	現在	补成分记录；玄奘以"等"概括未来、现在
 U22-296	S0390	vistaraḥ	vistara	n. m. sg. nom.	0005a18	廣說	对译	0165b24	廣說	"如前"为增字
 U22-297	S0391				0005a19	若謂	增译	0165b25	若汝言	玄奘作对方之说"若謂"
 U22-298	S0391	tatra	tatra	ind.	0005a19	此經	意译	0165b25	於經中	tatra（其中）指经文
@@ -297,10 +345,14 @@ U22-306	S0391	skandhatvaṃ	skandha	n. 成分	0005a19	蘊	对译	0165b25	陰
 U22-307	S0392				0005a19	是故	增译	0165b26	是故	
 U22-308	S0392	sarvam	sarva	adj. nt. sg. nom.	0005a20	一切	对译	0165b26	一切	
 U22-309	S0392	atītādi	atīta-ādi	cpd. nt. sg. nom.	0005a20	過去…等	对译	0165b26	過去等	
+U22-459	S0392	atītā	atīta	ptc. 成分	0005a20	過去	对译	0165b26	過去	补成分记录
+U22-460	S0392	ādi	ādi	n. nt. sg. nom.	0005a20	等	对译	0165b26	等	补成分记录
 U22-310	S0392	rūpam	rūpa	n. nt. sg. nom.	0005a20	色	对译	0165b26	色	
 U22-311	S0392	ekaśo	ekaśas	ind.	0005a20	一一…各各	意译	0165b26	一一	"實物"为增字
 U22-312	S0392				0005a20	實物	增译			
 U22-313	S0392	rūpaskandha	rūpa-skandha	cpd. m. sg. nom.	0005a20	蘊	意译	0165b26	色陰	只译"蘊"
+U22-461	S0392	rūpa	rūpa	n. 成分			省译	0165b26	色	补成分记录；玄奘只译"蘊"
+U22-462	S0392	skandha	skandha	n. m. sg. nom.	0005a20	蘊	对译	0165b26	陰	补成分记录
 U22-315	S0393	evaṃ	evam	ind.	0005a20	此	语法			evam（如此［理解］）玄奘作"此（執）"
 U22-316	S0393	vijñātum	vi-jñā	inf.	0005a20	執	意译	0165b27	執	
 U22-317	S0393	na śakyam	na śakyam	ind. phr.	0005a21	非理	意译	0165b26	不應	na śakyam（不能）玄奘作"非理"
@@ -314,18 +366,26 @@ U22-326	S0394	rāśivad	rāśi-vat	cpd. ind.	0005a22	如聚	对译	0165b28	如�
 U22-327	S0394	skandhāḥ	skandha	n. m. pl. nom.	0005a22	蘊	对译	0165b28	陰	
 U22-328	S0394	rāśivadeva	eva	ind.	0005a22	定	语法			强调词 eva 译"定"
 U22-329	S0394	prajñaptisantaḥ	prajñapti-sat	cpd. m. pl. nom.	0005a22	假有	对译	0165b28	假名有	
+U22-463	S0394	prajñapti	prajñapti	n. 成分	0005a22	假	对译	0165b28	假名	补成分记录
+U22-464	S0394	santaḥ	sat	ptc. m. pl. nom.	0005a22	有	对译	0165b28	有	补成分记录
 U22-330	S0395	prāpnuvanti	pra-āp	v. pres. 3pl.	0005a22	應許	意译	0165b29	應成	
 U22-332	S0395	rūpoīny	rūpin	adj. nt. pl. nom.	0005a22	有色	对译	0165b28	有色	GRETIL 本作 rūpoīnyapi，当读 rūpīṇy api
 U22-333	S0395	āyatanāni	āyatana	n. nt. pl. nom.	0005a23	處	对译	0165b28	入	
 U22-334	S0395	prajñaptisanti	prajñapti-sat	cpd. nt. pl. nom.	0005a23	假有	对译	0165b29	假名有	"亦是"之"是"为增字
+U22-465	S0395	prajñapti	prajñapti	n. 成分	0005a23	假	对译	0165b29	假名	补成分记录
+U22-466	S0395	santi	sat	ptc. nt. pl. nom.	0005a23	有	对译	0165b29	有	补成分记录
 U22-335	S0396	cakṣurādiparamāṇūnām	cakṣus-ādi-paramāṇu	cpd. m. pl. gen.	0005a23	眼等極微	对译	0165b29	眼等隣虛	
 U22-336	S0396	cakṣurādi	cakṣus-ādi	cpd. 成分	0005a23	眼等	对译	0165b29	眼等	
+U22-467	S0396	cakṣur	cakṣus	n. 成分	0005a23	眼	对译	0165b29	眼	补成分记录
+U22-468	S0396	ādi	ādi	n. 成分	0005a23	等	对译	0165b29	等	补成分记录
 U22-337	S0396	paramāṇūnām	paramāṇu	n. m. pl. gen.	0005a23	極微	对译	0165b29	隣虛	
 U22-338	S0396				0005a23	要…積聚	增译			
 U22-339	S0396	bahunāṃ	bahu	adj. m. pl. gen.	0005a23	多	对译	0165b29	多	GRETIL 本作 bahunāṃ
 U22-412	S0396	āyadvāra bhāvāt	āya-dvāra-bhāva	cpd. m. sg. abl.	0005a23	成生門	意译	0165b29	成來門	补整词记录；GRETIL 本分写作 āyadvāra bhāvāt，当连读 āyadvārabhāvāt
 U22-340	S0396	bhāvāt	bhāva	n. m. sg. abl.	0005a23	成	意译	0165b29	成	
 U22-341	S0396	āyadvāra	āya-dvāra	cpd. 成分	0005a23	生門	意译	0165b29	來門	GRETIL 本分写作 āyadvāra bhāvāt
+U22-469	S0396	āya	āya	n. 成分	0005a23	生	意译	0165b29	來	补成分记录
+U22-470	S0396	dvāra	dvāra	n. 成分	0005a23	門	对译	0165c01	門	补成分记录
 U22-342	S0397	na /	na	ind.	0005a24	此難非理	语法	0165c01	是義不然	
 U22-343	S0398	samagrāṇāṃ	samagra	adj. m. pl. gen.	0005a24	多積聚	意译	0165c01	聚集	
 U22-344	S0398	samagrāṇāṃ	gen.	gram. gen. (-ānām)	0005a24	中	语法	0165c01	中	分格第六格以"中"表出
@@ -388,7 +448,7 @@ U22-402	S0403				0005b01	於所知境	增译
 U22-403	S0403	skandhādimudhena	skandha-ādi-mukha	cpd. nt. sg. instr.	0005b01	由蘊等門	对译	0165c07	由陰等門	GRETIL 本作 skandhādimudhena，当读 skandhādimukhena
 U22-404	S0403	skandhā	skandha	n. 成分	0005b01	蘊	对译	0165c07	陰	
 U22-405	S0403	ādi	ādi	n. 成分	0005b01	等	对译	0165c07	等	
-U22-406	S0403	mudhena	mukha	n. 成分	0005b01	門	对译	0165c07	門	
+U22-406	S0403	mudhena	mukha	n. nt. sg. instr.	0005b01	門	对译	0165c07	門	
 U22-407	S0403	ārabhate	ā-rabh	v. pres. 3sg.	0005b01	作	意译	0165c07	作	
 U22-408	S0403	trividhāṃ	trividha	adj. f. sg. acc.	0005b02	三種	对译	0165c07	三種	
 U22-409	S0403	deśanām	deśanā	n. f. sg. acc.	0005b02	說	意译	0165c07	正說	

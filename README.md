@@ -44,6 +44,7 @@ python3 -I scripts/akbh1_normalize.py align/akbh1      # 统一写法（合并�
 python3 -I scripts/akbh1_morph_todo.py align/akbh1 U06  # 列出形态未标全的记录（附末成分关系、梵文句）
 python3 -I scripts/akbh1_morph_apply.py align/akbh1 MAP.tsv --dry   # 按对照表（oid、pos）改形态，先核验格式
 python3 -I scripts/akbh1_cpd_todo.py align/akbh1 U06 > todo.json  # 找缺整词记录的复合词（有误报，逐个判断）
+python3 -I scripts/akbh1_member_todo.py align/akbh1 U06 > todo.json  # 找成分记录不全的复合词（同上）
 python3 -I scripts/akbh1_add_records.py align/akbh1 NEW.tsv --dry   # 新增记录：自动编号，核验后插入
 python3 -I scripts/akbh1_edit_records.py align/akbh1 EDITS.tsv --dry # 改已有记录的 skt、lemma、pos、note
 python3 -I scripts/akbh1_lemmas.py align               # 更新规范词目表（新词目记为"新增"，待确认）
