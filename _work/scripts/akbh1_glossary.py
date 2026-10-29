@@ -79,6 +79,44 @@ def load(d, notes_path, only=None):
 SENT_END = '。？！；'
 
 
+def skt_positions(occ):
+    """每条记录的 skt 在梵文句中取第几次出现（页面据此高亮）。复合词成分取它所属复合词范围内的那一处：
+    所属复合词 = 同句、排在它前面最近的一条 skt 包住它、词目成分包含它的复合词记录（可层层套）。其余取第一次出现。"""
+    pos = {}
+
+    def parts(l):
+        return set(l.split('-'))
+
+    def at(i):
+        o = occ[i]
+        if i in pos:
+            return pos[i]
+        t, frag = o['skt_sent'], o['skt']
+        p = t.find(frag) if frag else -1
+        pos[i] = p
+        if frag:
+            for j in range(i - 1, max(-1, i - 80), -1):
+                c = occ[j]
+                if c['sid'] != o['sid']:
+                    break
+                if c['skt'] and len(c['skt']) > len(frag) and frag in c['skt'] and \
+                        ('-' in c['lemma'] or c['pos'].startswith('cpd.')) and parts(o['lemma']) <= parts(c['lemma']):
+                    cp = at(j)
+                    q = t.find(frag, cp) if cp >= 0 else -1
+                    if 0 <= q and q + len(frag) <= cp + len(c['skt']):
+                        pos[i] = q
+                    break
+        return pos[i]
+
+    for i, o in enumerate(occ):
+        p = at(i)
+        k, q = 0, o['skt_sent'].find(o['skt']) if o['skt'] else -1
+        while 0 <= q < p:
+            q = o['skt_sent'].find(o['skt'], q + 1)
+            k += 1
+        o['skt_k'] = k if q == p else 0
+
+
 def context(xz, starts, stream, line, frag):
     """取译语所在的整句；只标出起于所引行的那一处。返回（句子，[[起, 止], …]）。"""
     if not frag or line not in starts:
@@ -122,6 +160,7 @@ def main(d, od, notes_path=None, only=None, pkg=None):
         o['verse'] = s['verse']
         o['xz_ctx'], o['xz_hl'] = context(xz, starts, stream, o['xz_line'], o['xz'])
         o['PM'] = ('T29.%d%s' % (int(o['pm_line'][:4]), o['pm_line'][4:])) if o['pm_line'] else ''
+    skt_positions(occ)
     os.makedirs(od, exist_ok=True)
     cols = ['oid', 'lemma', 'pos', 'skt', 'pradhan', 'karika', 'xz', 'T', 'type', 'pm', 'PM', 'note']
     with open(os.path.join(od, '界品译语实例.csv'), 'w', encoding='utf-8-sig', newline='') as f:
@@ -250,7 +289,7 @@ def write_html(entries, gram, add, omit, rev, occ, skt, pkg, used):
             cidx[c] = len(ctx)
             ctx.append(c)
         recs.append([o['oid'], o['lemma'], o['pos'], o['skt'], sidx[sid], o['xz'], o['xz_line'], o['type'],
-                     o['pm'], o['pm_line'], o['note'], cidx.get(c, -1) if c else -1, o['xz_hl']])
+                     o['pm'], o['pm_line'], o['note'], cidx.get(c, -1) if c else -1, o['xz_hl'], o['skt_k']])
     # 文本信息取自 _work/align/texts.tsv（各文本共用的登记表）
     reg = {r['dir']: r for r in tsv(os.path.join(os.path.dirname(os.path.abspath(D_DIR)), 'texts.tsv'))}
     t = reg[os.path.basename(os.path.abspath(D_DIR))]
@@ -360,7 +399,7 @@ const J=id=>JSON.parse(document.getElementById(id).textContent);const AB=J('d-ab
 function tl(v,ln){return ln?v+'.'+parseInt(ln.slice(0,4),10)+ln.slice(4):''}
 function decode(p){const S=p.sents,C=p.ctx;return p.recs.map(r=>{const s=S[r[4]];return {oid:r[0],lemma:r[1],pos:r[2],skt:r[3],
   pradhan:s[1],karika:s[2],verse:s[3],skt_sent:s[4],xz:r[5],xz_line:r[6],T:tl(p.meta.vol,r[6]),type:r[7],pm:r[8],pm_line:r[9],
-  PM:tl(p.meta.vol,r[9]),note:r[10],xz_ctx:r[11]>=0?C[r[11]]:'',xz_hl:r[12]||[]}})}
+  PM:tl(p.meta.vol,r[9]),note:r[10],xz_ctx:r[11]>=0?C[r[11]]:'',xz_hl:r[12]||[],sk:r[13]||0}})}
 window.XZG_DATA=function(p){META=p.meta;D=decode(p);TANG=p.tang||{};init()};
 const ORDER=['a','ā','i','ī','u','ū','ṛ','ṝ','ḷ','e','ai','o','au','ṃ','ḥ','k','kh','g','gh','ṅ','c','ch','j','jh','ñ','ṭ','ṭh','ḍ','ḍh','ṇ','t','th','d','dh','n','p','ph','b','bh','m','y','r','l','v','ś','ṣ','s','h'];
 const R={};ORDER.forEach((c,i)=>R[c]=i);
@@ -368,7 +407,8 @@ function key(s){s=s.toLowerCase().normalize('NFC').replace(/^[-√(]+/,'');const
 const KC=new Map();function ck(s){let k=KC.get(s);if(!k){k=key(s);KC.set(s,k)}return k}
 function cmp(a,b){const x=ck(a),y=ck(b);for(let i=0;i<Math.min(x.length,y.length);i++)if(x[i]!=y[i])return x[i]-y[i];return x.length-y.length}
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-function hlSkt(text,frag){text=text.replace(/\s*\/\/\s*VAkK_[0-9.]+\s*\/\//gi,' //').trim();if(!frag)return esc(text);const i=text.indexOf(frag);
+function hlSkt(text,frag,k){text=text.replace(/\s*\/\/\s*VAkK_[0-9.]+\s*\/\//gi,' //').trim();if(!frag)return esc(text);let i=text.indexOf(frag);
+ for(let n=0;n<(k||0)&&i>=0;n++)i=text.indexOf(frag,i+1);if(i<0)i=text.indexOf(frag);
  return i<0?esc(text):esc(text.slice(0,i))+'<mark>'+esc(frag)+'</mark>'+esc(text.slice(i+frag.length))}
 function hlZh(text,spans){let h='',k=0;(spans||[]).forEach(([a,b])=>{h+=esc(text.slice(k,a))+'<mark>'+esc(text.slice(a,b))+'</mark>';k=b});return h+esc(text.slice(k))}
 function posHTML(p){return esc(p).replace(/loc\. abs\.|[0-9]?[a-zA-Z-]+\.(?:-[a-z]+\.)?|bahuvrīhi|tavat|suffix|abstract|formula|-tas/g,t=>{const k=AB.alias[t]||t;const d=AB.known[k];return d?`<abbr title="${esc(d)}">${t}</abbr>`:t})}
@@ -380,7 +420,7 @@ function abbrHTML(){const tb=(head,rows)=>`<table class="ab"><thead><tr>${head.m
  return h+'</section>'}
 function cb(o){if(!o.xz_line)return'';return `<a href="https://cbetaonline.dila.edu.tw/zh/${META.work}_p${o.xz_line}" target="_blank" rel="noopener" title="联网时可到 CBETA 查看">${esc(o.T)}</a>`}
 function occHTML(o){return `<div class="o"><div class="ref"><span>P ${esc(o.pradhan)}</span>${o.karika?`<span>颂 ${esc(o.karika)}</span>`:''}${cb(o)}<span class="ty">${esc(o.type)}</span>${o.pos?`<span>${posHTML(o.pos)}</span>`:''}</div>
-<div class="skt${o.verse=='V'?' verse':''}">${hlSkt(o.skt_sent,o.skt)}</div><div class="xz">${o.xz_ctx?hlZh(o.xz_ctx,o.xz_hl):'<span class="small">（玄奘未译）</span>'}</div>
+<div class="skt${o.verse=='V'?' verse':''}">${hlSkt(o.skt_sent,o.skt,o.sk)}</div><div class="xz">${o.xz_ctx?hlZh(o.xz_ctx,o.xz_hl):'<span class="small">（玄奘未译）</span>'}</div>
 ${o.pm?`<div class="note"><span class="lab">真谛</span>${esc(o.pm)}（${esc(o.PM)}）</div>`:''}${o.note?`<div class="note"><span class="lab">注</span>${esc(o.note)}</div>`:''}${rvBar(o)}</div>`}
 function group(list,kf){const m=new Map();list.forEach(o=>{const k=kf(o);if(!m.has(k))m.set(k,[]);m.get(k).push(o)});return m}
 const OS=[];

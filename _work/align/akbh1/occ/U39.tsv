@@ -75,12 +75,12 @@ U39-070	S0699	tacca	tad	pron. nt. sg. nom.	0008c08	彼說	意译	0168c02	此執	
 U39-072	S0699	naivaṃ	evam	ind.	0008c09	然	语法	0168c02	然	
 U39-073	S0699				0008c09	唯	增译			"契經唯說"
 U39-074	S0699	sūtre	sūtra	n. nt. sg. loc.	0008c09	契經	对译	0168c02	經中	
-U39-075	S0699	khakkhaṭādilakṣaṇāvadhāraṇāt	khakkhaṭa-ādi-lakṣaṇa-avadhāraṇa	cpd. nt. sg. abl.	0008c09	說堅等…相	意译	0168c02	決了說…堅等四相	第五格译"故"
+U39-075	S0699	catuṣṭva khakkhaṭādilakṣaṇāvadhāraṇāt	catuṣṭva-khakkhaṭa-ādi-lakṣaṇa-avadhāraṇa	cpd. nt. sg. abl.	0008c09	說堅等四相	意译	0168c02	決了說四大及堅等四相	第五格译"故"；GRETIL 分写 catuṣṭva khakkhaṭādi-，据两汉译连读为一复合词（玄奘"說堅等四相"，真谛"決了說四大及堅等四相"）
 U39-076	S0699	khakkhaṭā	khakkhaṭa	adj. n. 成分	0008c09	堅	对译	0168c03	堅	
 U39-077	S0699	khakkhaṭādi	ādi	n. 成分	0008c09	等	对译	0168c03	等	
 U39-078	S0699	lakṣaṇā	lakṣaṇa	n. 成分	0008c09	相	对译	0168c03	相	
 U39-079	S0699	āvadhāraṇāt	avadhāraṇa	n. nt. sg. abl.	0008c09	說	意译	0168c02	決了說	avadhāraṇa（确定、决定）译"說"，"唯"或亦承此义
-U39-080	S0699	catuṣṭva	catuṣṭva	n. 成分	0008c09	四	意译	0168c03	四	GRETIL 本作 catuṣṭva（缺词尾）
+U39-080	S0699	catuṣṭva	catuṣṭva	n. 成分	0008c09	四	意译	0168c03	四	GRETIL 分写 catuṣṭva khakkhaṭādi-，与下连读为一复合词，见 U39-075
 U39-081	S0699	bhūtānāṃ	bhūta	n. nt. pl. gen.	0008c09	大種	对译	0168c02	四大	
 U39-082	S0699				0008c09	為	增译			"為大種故"
 U39-083	S0700	teṣāṃ	tad	pron. nt. pl. gen.	0008c09	此四大種	意译	0168c03	此四大	代词还原为所指
@@ -233,9 +233,10 @@ U39-238	S0713	dharmaś	dharma	n. m. sg. nom.	0008c25	法	对译	0168c18	法
 U39-239	S0713	cittaniśrita	citta-niśrita	cpd. adj. m. sg. nom.	0008c25	依止心	对译	0168c19	依心	玄奘倒序
 U39-240	S0713	niśrita	niśrita	ptc. m. sg. nom.	0008c25	依止	对译	0168c19	依	
 U39-241	S0713	cittānvayāc	citta-anvaya	cpd. m. sg. abl.			省译			cittānvaya（随心转）未译，玄奘只作"依止心"
+U39-293	S0713	sarāgacittādi vacanāc	sa-rāga-citta-ādi-vacana	cpd. nt. sg. abl.	0008c25	說有貪心等	对译	0168c20	說心與欲相應	补整词记录；GRETIL 分写 sarāgacittādi vacanācca，当读 sarāgacittādivacanāc ca
 U39-242	S0713	sarāgacittādi	sa-rāga-citta-ādi	cpd. 成分	0008c25	有貪心等	对译	0168c20	心與欲相應	
 U39-243	S0713	sarāga	sa-rāga	adj. 成分	0008c25	有貪	对译	0168c20	與欲相應	
-U39-244	S0713	vacanācca	vacana	n. nt. sg. abl.	0008c25	說	对译	0168c20	說	
+U39-244	S0713	vacanāc	vacana	n. nt. sg. abl.	0008c25	說	对译	0168c20	說	
 U39-245	S0713	vacanācca	ca	ind.	0008c25	又亦	语法			
 U39-246	S0714	tasmāc	tasmāt	ind.	0008c25	由此	语法	0168c20	是故	GRETIL 本作 tasmācyathoktaṃ，当读 tasmād yathoktaṃ
 U39-247	S0714	yathoktaṃ	yathā-ukta	cpd. adj. nt. sg. nom.	0008c26	如…所說	意译	0168c20	如前說	"前"为补出

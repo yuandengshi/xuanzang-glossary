@@ -44,13 +44,13 @@ U32-047	S0520	atyarthaṃ	atyartham	ind.	0006c13	極	对译	0167a04	最
 U32-048	S0520	ghātāt	ghāta	n. m. sg. abl.	0006c13	礙	意译	0167a04	易變壞	ghāta（打击、损坏）玄奘译"礙"，真谛译"易變壞"
 U32-049	S0520				0006c13	能為	增译			"極能為礙"之"能為"
 U32-050	S0520				0006c13	名阿伽	增译			玄奘补出"故名阿伽"
-U32-051	S0521	tatsāmantakam	tad	pron. 成分	0006c14	此空界色	意译	0167a04	光闇	代词还原为所指（空界色）
+U32-051	S0521	tat	tad	pron. nt. sg. nom.	0006c14	此空界色	意译	0167a04	光闇	代词还原为所指（空界色）；GRETIL 连写 tatsāmantakam，tat 为独立主语（"此空界色與彼相隣"，"彼"当 tasya），非复合词成分
 U32-052	S0521	sāmantakam	sāmantaka	adj. nt. sg. nom.	0006c14	相隣	意译	0167a05	相隣	
 U32-053	S0521	sāmantakamiti	iti	ind.	0006c14	是故	语法	0167a05	故	
 U32-054	S0521				0006c14	說名隣阿伽	增译	0167a05	名隣礙色	复述得名
 U32-055	S0522	rūpasyetyapare	apara	pron. m. pl. nom.	0006c15	有	意译	0167a05	有餘師	
 U32-057	S0522	aghaṃ ca	agha	n. nt. sg. nom.	0006c15	阿伽	音译	0167a05	礙	
-U32-058	S0522	tadanyasya	tad	pron. 成分	0006c15	空界色	意译	0167a05	此	代词还原为所指（空界色）；"即"为增字
+U32-058	S0522	tad	tad	pron. nt. sg. nom.	0006c15	空界色	意译	0167a05	此	代词还原为所指（空界色）；"即"为增字；GRETIL 连写 tadanyasya，二译都读作 aghaṃ ca tad（阿伽即空界色／此亦是礙）、anyasya rūpasya（他），tad 为独立代词，非 tad-anya 复合词
 U32-059	S0522				0006c15	即	增译	0167a05	亦是	
 U32-060	S0522	tadanyasya	anya	pron. nt. sg. gen.			省译	0167a06	他	"為他色之礙"未译
 U32-061	S0522	tadanyasya rūpasya	rūpa	n. nt. sg. gen.			省译			同上
@@ -87,8 +87,9 @@ U32-095	S0526	pratisandhicittād	pratisandhi-citta	cpd. nt. sg. abl.	0006c19	續
 U32-096	S0526	pratisandhi	pratisandhi	n. 成分	0006c19	續生	对译	0167a08	託生	
 U32-097	S0526	cittād	citta	n. nt. sg. abl.	0006c19	心	对译	0167a08	心	
 U32-098	S0526	cittād	abl.	gram. abl. (-āt)	0006c19	從	语法	0167a08	從	第五格表起点
-U32-100	S0526	cyuticitta	cyuti-citta	cpd. 成分	0006c19	命終心	对译	0167a09	死墮心	待核：GRETIL 连写 cyuticittasādhāraṇabhūtāḥ，cyuticitta 是复合词成分还是当读 cyuticittam
+U32-100	S0526	cyuticitta	cyuti-citta	cpd. nt. sg. acc. (?)	0006c19	命終心	对译	0167a09	死墮心	待核：GRETIL 连写 cyuticittasādhāraṇabhūtāḥ，今按 cyuticittaṃ sādhāraṇabhūtāḥ 读（yāvat 带第二格，与 pratisandhicittād 相对；二译"至命終心""乃至死墮心"同此读），cyuticitta 作独立复合词，格为推定
 U32-101	S0526	cyuti	cyuti	n. 成分	0006c19	命終	对译	0167a09	死墮	
+U32-136	S0526	ticitta	citta	n. nt. sg. acc. (?)	0006c19	心	对译	0167a09	心	补末成分记录：按 cyuticittaṃ 读（见 U32-100），格为推定
 U32-102	S0526	sādhāraṇabhūtāḥ	sādhāraṇa-bhūta	cpd. adj. m. pl. nom.	0006c19	恒持	意译	0167a09	所依止	sādhāraṇabhūta（为…共同依持者）
 U32-103	S0526	janmanaḥ	janman	n. nt. sg. gen.	0006c19	生	对译	0167a09	生	
 U32-104	S0527	anāsravāstu	an-āsrava	adj. m. pl. nom.	0006c20	無漏	对译	0167a09	無流	

@@ -202,3 +202,28 @@
 - 次序改正：U01-107、U10-431（ptc. pres.）。
 - 同一名词不同性：andhakāra（U01-006 多财释末成分 m.；andhakāram nt.）；kośa（U03-016 m.；书名 abhidharmakośam 一律 nt.，与 śāstram 同位）；svabhāva、varṇa、saṃsthāna、ālambana 作多财释末成分随所修饰的词。
 - 数据问题：U05-095 lemma 作动词 sākṣāt-kṛ 而 pos 是名词 sākṣātkaraṇa，脚本因此认不出它是 U05-091 的末成分（两条已一致 nt. sg. abl.）；U06-093 grahaṇāt xz 空、note 待核。scratchpad 根目录的 build.py 被别组换过，误跑一次（只重写了 scratchpad 里 U44–U48 的草表，没写项目文件）。
+
+# 补复合词整词记录（2026-10-29，用户要求"补上缺的复合词整词记录"）
+
+akbh1_cpd_todo.py 找出孤立成分（标"成分"而句中没有整词记录包住的），归并为 71 个候选，分三组逐个判断；新增用 akbh1_add_records.py，改成分用 akbh1_edit_records.py（都先核验）。
+
+## cpdA：U01–U13（22 个候选）
+
+- 新增 10 条：U01-166 māhātmya-jñāpana-artham（cpd. ind.）、U01-167 pratipakṣa-lābha、U04-064 bhadanta-kātyāyanīputra-prabhṛti、U04-065 bhadanta-dharmatrāta-udāna-vargīya-karaṇa-vat（cpd. ind.；GRETIL 分写的 dharmatrāto 是 dharmatrāta + udāna 连声，EdUHK 同）、U05-195 samāsa-nirdeśa、U10-529 dīrgha-ādi-pariccheda、U12-140 pṛthivī-dhātu、U12-141 ap-tejas-vāyu-dhātu（二词合为"四界，即地水火風"）、U13-323 sva-bhūta-catuṣka-āśrita-tva-abhyupagama、U13-324 āśraya-rūpaṇa（GRETIL 分写）。
+- 改成分 27 处：skt 收窄（U01-059、U04-035、U06-038、U10-059、U10-150、U11-060、U12-004、U12-128、U13-003、U13-004、U13-062、U13-063、U13-257、U13-258、U13-261、U13-315 等），末成分由"成分"改为性数格（U10-151、U11-060、U12-004、U12-128、U13-004、U13-063、U13-261、U13-316），U04-037 prabhṛti ind. → n. m. pl. instr.（照 -ādi），U04-042 dharmatrāta n. m. sg. nom. → n. 成分。
+- 误报：hyeka、caikavarṇam、hetvartha、īraṇāsvabhāvo、varṇasaṃsthānam、rūpaskandha（整词已有，成分 skt 带进邻词或与整词同长）。
+- 待编者定：U04-065 改为大复合词；prabhṛti 的词类；U12-126 īraṇāsvabhāvo 作多财释（主会话已改 cpd. adj. m. sg. nom. (bahuvrīhi)）；收窄后的 skt 在句中出现两次的 U04-035、U11-060、U12-128、U13-003（靠记录次序区分）。
+
+## cpdC：U34–U54（24 个候选）
+
+- 新增 9 条：U34-417 tad-a-saṃbhava、U39-293 sa-rāga-citta-ādi-vacana（GRETIL 分写）、U40-128 dhātu-catuṣṭaya（GRETIL 分写）、U41-333 prathama-an-āsrava（cpd. adj.）、U46-596 sa-megha-a-megha-rātrindiva-rūpa-darśana（cpd. 成分 (-vat)）、U46-597 kliṣṭa-a-kliṣṭa-laukika-śaikṣa-a-śaikṣa（cpd. adj. f. pl. instr. (dvandva)；玄奘拆在"世間諸見有染無染"与"學無學見"两处）、U46-598 tad-vijñāna、U46-599 cakṣus-saṃprāpta（GRETIL 分写）、U48-311 saha-bhū-gandha-ādi-a-grahaṇa。
+- 改成分 13 处：skt 收窄（U34-207、U39-244、U45-118、U46-474、U46-490、U48-066、U48-067），末成分补性数格（U41-281、U45-118），U46-075 lemma samegha-amegha → sa-megha-a-megha，U46-490 去掉 (?)，U39-080、U39-075 note。
+- 误报：X-vat 后接的 atideśa、avasthita、acchatva 是另一个词（C-6、C-7、C-18–23）；C-8、C-24 整词已有。
+- 待编者定：C-2 U39-075 catuṣṭva 与 khakkhaṭādilakṣaṇa 疑同属一个复合词（GRETIL 分写；真谛"四大及堅等四相"），要动 skt/lemma/xz/pm 四栏，已标待核；C-3 sarāgacittādi 缺 citta、ādi 成分记录；U46-491 lemma saṃ-prāpta 拆了分词前缀，不合第八节；另有约 10 条成分记录的 skt 与整词同长（U34-049、U35-037、U39-068、U46-092、U46-537、U50-092、U51-036、U52-069、U53-185、U54-004）；cakṣurādivad、rūpādivad 无成分记录。
+
+## cpdB：U14–U33（25 个候选）
+
+- 新增 19 条：U21-051 eka-cakṣus-śrotra-adhiṣṭhāna-eka-nāsikā-bila-saṃbhava（原 U21-029 降为子复合词 eka-nāsikā-bila，cpd. 成分）及第二个 eka 成分 U21-052；U22-412 āya-dvāra-bhāva（GRETIL 分写）；U30-099 carita-sahasra、U30-100/101 dharma-skandha-sahasra；U31-195~204 六界（pṛthivī-、ap-、tejas-、vāyu-、ākāśa-、vijñāna-dhātu）及所缺的四个 dhātu 末成分；U32-136 citta 末成分（cyuticittaṃ sādhāraṇabhūtāḥ，第二格推定，待核）；U33-396/397 aṣṭādaśa-dhātu。
+- 改 45 处：成分 skt 收窄（为使页面高亮——取 skt 在句中第一次出现处——落在正确位置，有的多带前一成分的末字母，如 odhātur、ticitta），末成分补性数格，U18-017/018 pañca āśrayāḥ 判为两个独立的词（num. pl. nom.、n. m. pl. nom.），U32-051、U32-058 tat/tad 判为独立代词（pron. nt. sg. nom.）。
+- 误报：B-9 pradeśivat、B-12 sapratighatvāt、B-15 audārikatvāt（单词干派生词）。
+- 待编者定：aṣṭādaśa-dhātu 照 aṣṭādaśa-dharma、daśa-dhātu 的先例写（不作 aṣṭādaśan-）；pañcāśrayāḥ 作两个词；U21-029 真谛 pm "一鼻一孔生"的"生"属 saṃbhava（工具改不了 pm，note 已说明）；U32-100 的格。

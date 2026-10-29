@@ -175,7 +175,8 @@ U34-202	S0609	puruṣendriyā	puruṣa-indriya	cpd. 成分	0007c12	男根	对译
 U34-203	S0609	ādhiṣṭhānavat	adhiṣṭhāna	n. 成分	0007c13	依處	对译	0167c18	依止	
 U34-205	S0610	yuktas	yukta	ptc. adj. m. sg. nom.	0007c13	可	意译	0167c18	可然	
 U34-206	S0610				0007c13	於彼	增译	0167c18	於彼	
-U34-207	S0610	tadasaṃbhavo	tad	pron. 成分	0007c13	男根依處	意译	0167c18	此	代词还原为所指（puruṣendriyādhiṣṭhāna）
+U34-417	S0610	tadasaṃbhavo	tad-a-saṃbhava	cpd. m. sg. nom.	0007c13	無男根依處	意译	0167c18	此不生	补整词记录；tad 还原为所指"男根依處"
+U34-207	S0610	tad	tad	pron. 成分	0007c13	男根依處	意译	0167c18	此	代词还原为所指（puruṣendriyādhiṣṭhāna）
 U34-208	S0610	asaṃbhavo	a-saṃbhava	n. m. sg. nom.	0007c13	無	对译	0167c18	不生	
 U34-209	S0610	niṣprayojanatvāt	niṣ-prayojana-tva	cpd. nt. sg. abl.	0007c14	無用	对译	0167c18	無用	
 U34-210	S0610				0007c14	彼	增译			"彼無用故"

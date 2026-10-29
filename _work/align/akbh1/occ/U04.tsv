@@ -41,15 +41,17 @@ U04-030b	S0042				0001b24	如理	增译	0162a24	如理
 U04-031	S0042	pravicetum	pra-vi-ci	inf.	0001b24	簡擇	对译	0162a24	簡擇	
 U04-032	S0043	prakīrṇa	pra-kṝ	ptc. m. sg. nom.	0001b25	散	对译	0162a24	散	"處處散說"
 U04-033	S0043	ukto bhagavatā	bhagavat	n. m. sg. instr.	0001b24	佛世尊	对译	0162a24	佛世尊	
+U04-064	S0043	bhadantakātyāyanīputra-prabhṛtibhiḥ	bhadanta-kātyāyanīputra-prabhṛti	cpd. m. pl. instr.	0001b25	大德迦多衍尼子等	音译	0162a25	大德迦旃延子等	补整词记录
 U04-034	S0043	bhadantakātyāyanīputra	bhadanta-kātyāyanīputra	cpd. 成分	0001b25	大德迦多衍尼子	音译	0162a25	大德迦旃延子	
-U04-035	S0043	bhadantakātyāyanīputra	bhadanta	n. 成分	0001b25	大德	对译	0162a25	大德	
+U04-035	S0043	bhadanta	bhadanta	n. 成分	0001b25	大德	对译	0162a25	大德	
 U04-036	S0043	kātyāyanīputra	kātyāyanīputra	n. 成分 (人名)	0001b25	迦多衍尼子	音译	0162a25	迦旃延子	-putra 意译"子"
-U04-037	S0043	prabhṛtibhiḥ	prabhṛti	ind.	0001b25	等	对译	0162a25	等	
+U04-037	S0043	prabhṛtibhiḥ	prabhṛti	n. m. pl. instr.	0001b25	等	对译	0162a25	等	
 U04-038	S0043				0001b25	諸大聲聞	增译	0162a25	諸弟子	玄奘补出主语"諸大聲聞"；真谛作"諸弟子"
 U04-039	S0043	piṇḍīkṛtya	piṇḍī-kṛ	abs.	0001b26	結集	意译	0162a25	撰集	
 U04-040	S0043	sthapito	sthāpita	ptc. m. sg. nom. (caus. sthā)	0001b26	安置	对译	0162a25	安置	
+U04-065	S0043	bhadanta dharmatrāto dānavargīyakaraṇavad	bhadanta-dharmatrāta-udāna-vargīya-karaṇa-vat	cpd. ind.	0001b26	大德法救所集無常品等鄔拕南頌	意译	0162a25	大德達磨多羅多撰集優陀那、伽他部類	补整词记录；GRETIL 分写，当连读为 bhadantadharmatrātodānavargīyakaraṇavat（dharmatrāto 是 dharmatrāta 与 udāna 的连声；EdUHK 亦作 bhadanta-dharmatrāta-udāna-）；-vat（猶如）另记
 U04-041	S0043	bhadanta dharmatrāto	bhadanta	n. 成分	0001b26	大德	对译	0162a25	大德	
-U04-042	S0043	dharmatrāto	dharmatrāta	n. m. sg. nom. (人名)	0001b26	法救	对译	0162a26	達磨多羅多	玄奘意译人名，真谛音译
+U04-042	S0043	dharmatrāto	dharmatrāta	n. 成分 (人名)	0001b26	法救	对译	0162a26	達磨多羅多	玄奘意译人名，真谛音译；dharmatrāto 是 dharmatrāta 与 udāna 的连声，为复合词成分（GRETIL 分写）
 U04-043	S0043	dānavargīyakaraṇavad	udāna-vargīya-karaṇa-vat	cpd. ind.	0001b26	所集無常品等鄔拕南頌	意译	0162a26	撰集優陀那、伽他部類	玄奘以"無常品等"指明《法集要頌》（Udānavarga）；GRETIL 作 dānavargīya-
 U04-044	S0043	dānavargīya	udāna-vargīya	adj. 成分	0001b27	鄔拕南	音译	0162a26	優陀那	udāna 音译"鄔拕南"，增"頌"
 U04-044+1	S0043				0001b27	頌	增译			合并时从 U04-044（鄔拕南頌）拆出

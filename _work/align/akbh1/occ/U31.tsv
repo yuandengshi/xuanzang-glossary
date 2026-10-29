@@ -154,15 +154,25 @@ U31-158	S0511	ya ime	yad	pron. m. pl. nom.	0006c03	所	语法	0166c25	所	关系
 U31-159	S0511	uktāḥ	vac	ptc. m. pl. nom.	0006c04	說	对译	0166c25	說	
 U31-160	S0511	ṣaḍ	ṣaṣ	num. pl. nom.	0006c04	六	对译	0166c25	六	
 U31-161	S0511	ṣaḍ dhātavaḥ	dhātu	n. m. pl. nom.	0006c04	界	对译	0166c25	界	
-U31-162	S0511	pṛthivīdhātur	pṛthivī	n. 成分	0006c04	地	对译	0166c25	地	
-U31-163	S0511	rabdhātus	ap	n. 成分	0006c04	水	对译	0166c26	水	
-U31-164	S0511	tejodhātur	tejas	n. 成分	0006c04	火	对译	0166c26	火	
-U31-165	S0511	vāyudhātur	vāyu	n. 成分	0006c04	風	对译	0166c26	風	
-U31-166	S0511	pṛthivīdhātur	dhātu	n. m. sg. nom.	0006c04	界	合译	0166c25	界	四个 -dhātu 合为"地水火風四界"之"界"
+U31-195	S0511	pṛthivīdhātur	pṛthivī-dhātu	cpd. m. sg. nom.	0006c04	地…界	合译	0166c25	地界	补整词记录；四个 -dhātu 合为"地水火風四界"之"界"
+U31-162	S0511	pṛthivī	pṛthivī	n. 成分	0006c04	地	对译	0166c25	地	
+U31-166	S0511	dhātur	dhātu	n. m. sg. nom.	0006c04	界	合译	0166c25	界	pṛthivīdhātu 的末成分；四个 -dhātu 合为"地水火風四界"之"界"
+U31-196	S0511	abdhātus	ap-dhātu	cpd. m. sg. nom.	0006c04	水…界	合译	0166c26	水…界	补整词记录；四个 -dhātu 合为"地水火風四界"之"界"；真谛"水、火、風、空、識界"共用"界"
+U31-163	S0511	ab	ap	n. 成分	0006c04	水	对译	0166c26	水	
+U31-197	S0511	dhātus	dhātu	n. m. sg. nom.	0006c04	界	合译	0166c26	界	补末成分记录（abdhātu）；四个 -dhātu 合为"地水火風四界"之"界"
+U31-198	S0511	tejodhātur	tejas-dhātu	cpd. m. sg. nom.	0006c04	火…界	合译	0166c26	火…界	补整词记录；四个 -dhātu 合为"地水火風四界"之"界"；真谛"水、火、風、空、識界"共用"界"
+U31-164	S0511	tejo	tejas	n. 成分	0006c04	火	对译	0166c26	火	
+U31-199	S0511	odhātur	dhātu	n. m. sg. nom.	0006c04	界	合译	0166c26	界	补末成分记录（tejodhātu）；四个 -dhātu 合为"地水火風四界"之"界"
+U31-200	S0511	vāyudhātur	vāyu-dhātu	cpd. m. sg. nom.	0006c04	風…界	合译	0166c26	風…界	补整词记录；四个 -dhātu 合为"地水火風四界"之"界"；真谛"水、火、風、空、識界"共用"界"
+U31-165	S0511	vāyu	vāyu	n. 成分	0006c04	風	对译	0166c26	風	
+U31-201	S0511	udhātur	dhātu	n. m. sg. nom.	0006c04	界	合译	0166c26	界	补末成分记录（vāyudhātu）；四个 -dhātu 合为"地水火風四界"之"界"
 U31-167	S0511				0006c04	四…已說	增译			"四界已說"为增出
-U31-168	S0511	rākāśadhātur	ākāśa	n. 成分	0006c04	空	对译	0166c26	空	
-U31-169	S0511	rvijñānadhātur	vijñāna	n. 成分	0006c04	識	对译	0166c26	識	
-U31-170	S0511	rākāśadhātur	dhātu	n. m. sg. nom.	0006c04	界	合译	0166c26	界	两个 -dhātu 合为"空識二界"之"界"
+U31-202	S0511	ākāśadhātur	ākāśa-dhātu	cpd. m. sg. nom.	0006c04	空…界	合译	0166c26	空…界	补整词记录；两个 -dhātu 合为"空識二界"之"界"；真谛"水、火、風、空、識界"共用"界"
+U31-168	S0511	ākāśa	ākāśa	n. 成分	0006c04	空	对译	0166c26	空	
+U31-203	S0511	vijñānadhātur	vijñāna-dhātu	cpd. m. sg. nom.	0006c04	識…界	合译	0166c26	識界	补整词记录；两个 -dhātu 合为"空識二界"之"界"
+U31-169	S0511	vijñāna	vijñāna	n. 成分	0006c04	識	对译	0166c26	識	
+U31-170	S0511	śadhātur	dhātu	n. m. sg. nom.	0006c04	界	合译	0166c26	界	ākāśadhātu 的末成分；两个 -dhātu 合为"空識二界"之"界"
+U31-204	S0511	nadhātur	dhātu	n. m. sg. nom.	0006c04	界	合译	0166c26	界	补末成分记录（vijñānadhātu）；两个 -dhātu 合为"空識二界"之"界"
 U31-171	S0511	dvayor	dvi	num. m. du. gen.	0006c04	二	对译	0166c26	二	
 U31-172	S0511	lakṣaṇamanuktam	an-ukta	ptc. nt. sg. nom.	0006c04	未說	对译	0166c26	未說	
 U31-173	S0511				0006c05	其	增译	0166c26	其	

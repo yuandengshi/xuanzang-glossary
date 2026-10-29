@@ -19,6 +19,7 @@ U21-018	S0352	dvayoḥ	dvi	num. nt. du. gen.	0004c05	兩處	意译	0165a15	二	d
 U21-019	S0352	saṃbhava	saṃbhava	n. m. sg. nom.	0004c06	生	对译	0165a15	生	
 U21-020	S0352	cakṣurādīnaṃ	cakṣus-ādi	cpd. nt. pl. gen.			省译	0165a15	眼等	
 U21-021	S0353	anya thā	anyathā	ind.	0004c06	若	语法	0165a16	若不爾	GRETIL 本分写作 anya thā
+U21-051	S0353	ekacakṣuḥśrotrādhiṣṭhānaikanāsikāvilasaṃbhavāt	eka-cakṣus-śrotra-adhiṣṭhāna-eka-nāsikā-bila-saṃbhava	cpd. m. sg. abl.	0004c06	眼耳根處…生一，鼻無二穴	意译	0165a16	一眼耳一依處生，一鼻一孔生	补整词记录；GRETIL 作 -vila-（即 bila）
 U21-022	S0353	ekacakṣuḥśrotrādhiṣṭhāna	eka-cakṣus-śrotra-adhiṣṭhāna	cpd. 成分	0004c06	眼耳根處…一	意译	0165a16	一眼耳一依處	
 U21-023	S0353	cakṣuḥ	cakṣus	n. 成分	0004c06	眼	对译	0165a16	眼	
 U21-024	S0353	śrotrā	śrotra	n. 成分	0004c06	耳	对译	0165a16	耳	
@@ -26,7 +27,8 @@ U21-025	S0353	ādhiṣṭhāna	adhiṣṭhāna	n. 成分	0004c06	根處	意译	0
 U21-026	S0353				0004c06	唯	增译			
 U21-027	S0353	saṃbhavāt	saṃbhava	n. m. sg. abl.	0004c06	生	对译	0165a16	生	
 U21-028	S0353	ekacakṣuḥ	eka	num. 成分	0004c06	一	对译	0165a16	一	
-U21-029	S0353	aikanāsikāvilasaṃbhavāt	eka-nāsikā-bila-saṃbhava	cpd. m. sg. abl.	0004c06	鼻無二穴	意译	0165a16	一鼻一孔生	以否定"無二穴"意译 eka-nāsikā-bila（只有一个鼻孔）；GRETIL 作 -vila-（即 bila）
+U21-029	S0353	aikanāsikāvila	eka-nāsikā-bila	cpd. 成分	0004c06	鼻無二穴	意译	0165a16	一鼻一孔生	以否定"無二穴"意译 eka-nāsikā-bila（只有一个鼻孔）；GRETIL 作 -vila-（即 bila）；原标作 eka-nāsikā-bila-saṃbhava 整词，今改为成分，末成分 saṃbhava 见 U21-027；真谛"一鼻一孔生"之"生"属 saṃbhava
+U21-052	S0353	aika	eka	num. 成分	0004c06	無二	意译	0165a16	一	补成分记录：第二个 eka（eka-nāsikā-bila），玄奘以否定"無二"意译（鼻無二穴）
 U21-030	S0353	nāsikā	nāsikā	n. 成分	0004c06	鼻	对译	0165a16	鼻	
 U21-031	S0353	vila	bila	n. 成分	0004c06	穴	对译	0165a16	孔	GRETIL 本作 vila
 U21-032	S0353				0004c06	身	增译	0165a17	此身	

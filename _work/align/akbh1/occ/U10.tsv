@@ -56,7 +56,7 @@ U10-055	S0145	kecin	kaścit	pron. m. pl. nom.	0002b28	有餘師	意译	0163a19	�
 U10-056	S0145	saṃpaṭhanti	sam-paṭh	v. pres. 3pl.	0002b28	說	意译	0163a19	說	paṭh（诵读）译"說"
 U10-057	S0145	nabhaś	nabhas	n. nt. sg. nom.	0002b28	空	对译	0163a19	空	
 U10-058	S0145	aikavarṇam	eka-varṇa	cpd. nt. sg. nom.	0002b28	一顯色	对译	0163a19	一色	
-U10-059	S0145	caikavarṇam	eka	num. 成分	0002b28	一	对译	0163a19	一	
+U10-059	S0145	aika	eka	num. 成分	0002b28	一	对译	0163a19	一	
 U10-060	S0145	varṇam	varṇa	n. nt. sg. nom.	0002b28	顯色	对译	0163a19	色	
 U10-061	S0145	ekaviṃśatiṃ	ekaviṃśati	num. f. sg. acc.	0002b28	二十一	对译	0163a20	二十一	
 U10-062	S0145				0002b28	第	增译			第二十一
@@ -141,8 +141,9 @@ U10-146	S0156	dṛśyate hi	hi	ind.	0002c08	故	语法	0163a27	何以故	表理�
 U10-147	S0156				0002c07	世間	增译			
 U10-148	S0156	nīlādīnaṃ	nīla-ādi	cpd. nt. pl. gen. (?)	0002c07	青等	对译	0163a28	青等	GRETIL 本作 nīlādīnaṃ
 U10-149	S0156				0002c08	色處	增译	0163a28	諸色	
-U10-150	S0156	dīrghādipariccheda	dīrgha-ādi	cpd. 成分	0002c08	長等	对译	0163a28	長等	
-U10-151	S0156	pariccheda	pariccheda	n. 成分			省译	0163a28	差別	pariccheda（界限、分别）未译，玄奘作"有長等"
+U10-529	S0156	dīrghādipariccheda	dīrgha-ādi-pariccheda	cpd. m. sg. nom.	0002c08	長等	意译	0163a28	長等差別	补整词记录；pariccheda 未译
+U10-150	S0156	dīrghādi	dīrgha-ādi	cpd. 成分	0002c08	長等	对译	0163a28	長等	
+U10-151	S0156	pariccheda	pariccheda	n. m. sg. nom.			省译	0163a28	差別	pariccheda（界限、分别）未译，玄奘作"有長等"
 U10-152	S0157	kathaṃ	katham	ind.	0002c08	如何	语法	0163a28	云何	
 U10-153	S0157	ekaṃ	eka	num. nt. sg. nom.	0002c08	一	对译	0163a28	一	
 U10-154	S0157	dravyam	dravya	n. nt. sg. nom.	0002c08	事	意译	0163a28	物	dravya 此处译"事"

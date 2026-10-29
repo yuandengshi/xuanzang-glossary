@@ -13,7 +13,7 @@ from collections import defaultdict
 
 IDIOM = {'kiṃ kāraṇam', 'kiṃ kāraṇam', 'kiṃ tarhi', 'tathā hi', 'na tu', 'pṛthak', 'santi … yeṣām', 'yad … tad', 'yāvat … tāvat',
          'kim … nāma', 'uktaṃ bhavati', 'na śakyam punar', 'oṃ namo buddhāya', 'tadyathā', 'athavā'}
-NEGLEM = re.compile(r'^(a-|an-|na\b|nir|vi|dur|niḥ|a$)|^a[^ā]|^an|vaiyarthya|vaikalya|vigama|nirodha|antareṇa|vinā|varj|heya|tyāga|kṣaya|prahāṇa')
+NEGLEM = re.compile(r'^(a-|an-|na\b|nir|vi|dur|niḥ|a$)|-an?-|^a[^ā]|^an|vaiyarthya|vaikalya|vigama|nirodha|antareṇa|vinā|varj|heya|tyāga|kṣaya|prahāṇa')
 VERB = ('v.', 'ptc.', 'abs.', 'inf.')
 
 

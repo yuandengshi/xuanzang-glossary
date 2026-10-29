@@ -1,9 +1,11 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
 U12-001	S0218	bhūtāni	bhūta	n. nt. pl. nom.	0003a28	大種	意译	0163c16	大	bhūta（大）译"大種"
 U12-002	S0218	bhūtāni	nom.	gram. pl. nom. (-āni)			省译	0163c16	諸	复数未译；真谛作"諸大"
+U12-140	S0218	pṛthivīdhātur	pṛthivī-dhātu	cpd. m. sg. nom.	0003a28	界…地	合译	0163c16	地界	补整词记录；与 aptejovāyudhātavaḥ 合为"四界，即地水火風"，共用"界"
 U12-003	S0218	pṛthivī	pṛthivī	n. 成分	0003a28	地	对译	0163c16	地	
-U12-004	S0218	pṛthivīdhātur	dhātu	n. 成分	0003a28	界	合译	0163c16	界	与 dhātavaḥ 合为"四界"之"界"
+U12-004	S0218	dhātur	dhātu	n. m. sg. nom.	0003a28	界	合译	0163c16	界	与 dhātavaḥ 合为"四界"之"界"
 U12-005	S0218				0003a28	四	增译			补出"四"（四界）
+U12-141	S0218	aptejovāyudhātavaḥ	ap-tejas-vāyu-dhātu	cpd. m. pl. nom.	0003a28	界…水火風	合译	0163c17	水火風界	补整词记录；与 pṛthivīdhātuḥ 合为"四界，即地水火風"，共用"界"
 U12-006	S0218	ap	ap	n. 成分	0003a28	水	对译	0163c17	水	
 U12-007	S0218	tejo	tejas	n. 成分	0003a28	火	对译	0163c17	火	
 U12-008	S0218	vāyu	vāyu	n. 成分	0003a28	風	对译	0163c17	風	
@@ -123,9 +125,9 @@ U12-122	S0231	prakaraṇeṣu	prakaraṇa	n. nt. pl. loc.			省译			承上不�
 U12-123	S0232	ato	atas	ind.	0003b12	故	语法			
 U12-124	S0232	ya īraṇāsvabhāvo dharmaḥ sa	yad … tad	gram. rel.-cor.			省译			关系-相关句未以虚词表出
 U12-125	S0232				0003b12	應	增译			
-U12-126	S0232	īraṇāsvabhāvo	īraṇa-svabhāva	cpd. m. sg. nom.	0003b12	動為自性	对译	0164a01	以動為定性	
+U12-126	S0232	īraṇāsvabhāvo	īraṇa-svabhāva	cpd. adj. m. sg. nom. (bahuvrīhi)	0003b12	動為自性	对译	0164a01	以動為定性	
 U12-127	S0232	īraṇā	īraṇa	n. 成分	0003b12	動	对译	0164a01	動	
-U12-128	S0232	svabhāvo dharmaḥ	svabhāva	n. 成分	0003b13	自性	对译	0164a01	定性	
+U12-128	S0232	svabhāvo	svabhāva	n. m. sg. nom.	0003b13	自性	对译	0164a01	定性	
 U12-129	S0232	dharmaḥ	dharma	n. m. sg. nom.			省译	0164a01	法	
 U12-130	S0232	vāyuriti	vāyu	n. m. sg. nom.	0003b12	風界	意译	0164a01	風界	补"界"
 U12-131	S0232	karṃaṇā	karman	n. nt. sg. instr.	0003b13	業	对译	0164a01	業	GRETIL 本作 karṃaṇā

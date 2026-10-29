@@ -29,6 +29,7 @@ U01-025,pra-nī,inf.,praṇetu,1.8,,造,T29.1a10,对译,造,T29.161c09,复合词
 U01-026,kāma,n. m. sg. nom.,kāmaḥ,1.8,,欲,T29.1a10,对译,欲,T29.161c09,复合词成分
 U01-027,sva,pron. m. sg. gen.,svasya,1.8,,自,T29.1a10,对译,,,
 U01-028,śāstṛ,n. m. sg. gen.,śāstur,1.8,,師,T29.1a10,对译,大師,T29.161c09,
+U01-166,māhātmya-jñāpana-artham,cpd. ind.,māhātmyajñāpanārthaṃ,1.8,,為顯…其體尊高超諸聖眾,T29.1a10,意译,令他知…不共功德,T29.161c09,补整词记录
 U01-029,māhātmya,n. 成分,māhātmya,1.8,,其體尊高超諸聖眾,T29.1a10,意译,不共功德,T29.161c09,"玄奘铺陈为""其體尊高超諸聖眾"""
 U01-030,jñāpana-artham,cpd. ind.,jñāpanārthaṃ,1.8,,為顯,T29.1a10,对译,令他知,T29.161c09,
 U01-031,guṇa-ākhyāna-pūrvaka,cpd. adj. m. sg. acc.,guṇākhyānapūrvakaṃ,1.8,,先讚德,T29.1a11,意译,說眾德為先,T29.161c10,
@@ -58,9 +59,10 @@ U01-054,abl.,gram. abl. (-āt),pratibandhād,1.10–11,,故,T29.1a14,语法,故,
 U01-055,andhakāra,n. nt. sg. nom.,dhakāram,1.10–11,,冥,T29.1a14,对译,暝,T29.161c13,GRETIL 本作 pratibandhādhakāram，当读 pratibandhād andhakāram
 U01-056,bhagavat,n. m. sg. gen.,bhagavato,1.11–12,,世尊,T29.1a14,对译,世尊,T29.161c13,
 U01-056b,buddha,n. m. sg. gen.,buddhasya,1.11–12,,佛,T29.1a14,对译,佛,T29.161c13,
+U01-167,pratipakṣa-lābha,cpd. m. sg. instr.,pratipakṣalābhenā,1.11–12,,得…對治,T29.1a14,对译,得…對治,T29.161c14,补整词记录；二译都在中间插入 atyantam 的译语（永、究竟通）
 U01-057,pratipakṣa,n. 成分,pratipakṣa,1.11–12,,對治,T29.1a15,对译,對治,T29.161c14,
 U01-058,lābha,n. m. sg. instr.,lābhenā,1.11–12,,得,T29.1a14,对译,得,T29.161c14,
-U01-059,atyantam,ind.,lābhenātyantaṃ,1.11–12,,永,T29.1a15,对译,究竟,T29.161c14,
+U01-059,atyantam,ind.,ātyantaṃ,1.11–12,,永,T29.1a15,对译,究竟,T29.161c14,
 U01-060,sarvathā,ind.,sarvathā,1.11–12,,一切種,T29.1a15,对译,一切種,T29.161c14,
 U01-061,sarvatra,ind.,sarvatra,1.11–12,,於一切,T29.1a15,对译,於一切,T29.161c14,
 U01-062,jñeya,n. nt. sg. loc. (gerundive),jñeye,1.11–12,,境,T29.1a15,对译,法,T29.161c14,
@@ -326,15 +328,17 @@ U04-030b,,,,3.2,,如理,T29.1b24,增译,如理,T29.162a24,
 U04-031,pra-vi-ci,inf.,pravicetum,3.2,,簡擇,T29.1b24,对译,簡擇,T29.162a24,
 U04-032,pra-kṝ,ptc. m. sg. nom.,prakīrṇa,3.3–4,,散,T29.1b25,对译,散,T29.162a24,"""處處散說"""
 U04-033,bhagavat,n. m. sg. instr.,ukto bhagavatā,3.3–4,,佛世尊,T29.1b24,对译,佛世尊,T29.162a24,
+U04-064,bhadanta-kātyāyanīputra-prabhṛti,cpd. m. pl. instr.,bhadantakātyāyanīputra-prabhṛtibhiḥ,3.3–4,,大德迦多衍尼子等,T29.1b25,音译,大德迦旃延子等,T29.162a25,补整词记录
 U04-034,bhadanta-kātyāyanīputra,cpd. 成分,bhadantakātyāyanīputra,3.3–4,,大德迦多衍尼子,T29.1b25,音译,大德迦旃延子,T29.162a25,
-U04-035,bhadanta,n. 成分,bhadantakātyāyanīputra,3.3–4,,大德,T29.1b25,对译,大德,T29.162a25,
+U04-035,bhadanta,n. 成分,bhadanta,3.3–4,,大德,T29.1b25,对译,大德,T29.162a25,
 U04-036,kātyāyanīputra,n. 成分 (人名),kātyāyanīputra,3.3–4,,迦多衍尼子,T29.1b25,音译,迦旃延子,T29.162a25,"-putra 意译""子"""
-U04-037,prabhṛti,ind.,prabhṛtibhiḥ,3.3–4,,等,T29.1b25,对译,等,T29.162a25,
+U04-037,prabhṛti,n. m. pl. instr.,prabhṛtibhiḥ,3.3–4,,等,T29.1b25,对译,等,T29.162a25,
 U04-038,,,,3.3–4,,諸大聲聞,T29.1b25,增译,諸弟子,T29.162a25,"玄奘补出主语""諸大聲聞""；真谛作""諸弟子"""
 U04-039,piṇḍī-kṛ,abs.,piṇḍīkṛtya,3.3–4,,結集,T29.1b26,意译,撰集,T29.162a25,
 U04-040,sthāpita,ptc. m. sg. nom. (caus. sthā),sthapito,3.3–4,,安置,T29.1b26,对译,安置,T29.162a25,
+U04-065,bhadanta-dharmatrāta-udāna-vargīya-karaṇa-vat,cpd. ind.,bhadanta dharmatrāto dānavargīyakaraṇavad,3.3–4,,大德法救所集無常品等鄔拕南頌,T29.1b26,意译,大德達磨多羅多撰集優陀那、伽他部類,T29.162a25,补整词记录；GRETIL 分写，当连读为 bhadantadharmatrātodānavargīyakaraṇavat（dharmatrāto 是 dharmatrāta 与 udāna 的连声；EdUHK 亦作 bhadanta-dharmatrāta-udāna-）；-vat（猶如）另记
 U04-041,bhadanta,n. 成分,bhadanta dharmatrāto,3.3–4,,大德,T29.1b26,对译,大德,T29.162a25,
-U04-042,dharmatrāta,n. m. sg. nom. (人名),dharmatrāto,3.3–4,,法救,T29.1b26,对译,達磨多羅多,T29.162a26,玄奘意译人名，真谛音译
+U04-042,dharmatrāta,n. 成分 (人名),dharmatrāto,3.3–4,,法救,T29.1b26,对译,達磨多羅多,T29.162a26,玄奘意译人名，真谛音译；dharmatrāto 是 dharmatrāta 与 udāna 的连声，为复合词成分（GRETIL 分写）
 U04-043,udāna-vargīya-karaṇa-vat,cpd. ind.,dānavargīyakaraṇavad,3.3–4,,所集無常品等鄔拕南頌,T29.1b26,意译,撰集優陀那、伽他部類,T29.162a26,"玄奘以""無常品等""指明《法集要頌》（Udānavarga）；GRETIL 作 dānavargīya-"
 U04-044,udāna-vargīya,adj. 成分,dānavargīya,3.3–4,,鄔拕南,T29.1b27,音译,優陀那,T29.162a26,"udāna 音译""鄔拕南""，增""頌"""
 U04-044+1,,,,3.3–4,,頌,T29.1b27,增译,,,合并时从 U04-044（鄔拕南頌）拆出
@@ -363,6 +367,7 @@ U05-001,sa-āsrava,adj. m. pl. nom.,sāsravā,3.6,1.4,有漏,T29.1b29,对译,有
 U05-002,an-āsrava,adj. m. pl. nom.,'nāsravā,3.6,1.4,無漏,T29.1b29,对译,無流,T29.162a29,
 U05-003,dharma,n. m. pl. nom.,dharmāḥ,3.6,1.4,法,T29.1b29,对译,法,T29.162a29,
 U05-004,sarva-dharma,cpd. m. pl. gen.,sarvadharmāṇāṃ,3.7,,一切法,T29.1c06,对译,一切法,T29.162a29,
+U05-195,samāsa-nirdeśa,cpd. m. sg. nom.,samāsanirddeśaḥ,3.7,,說…略,T29.1c06,意译,略說,T29.162a29,"补整词记录；玄奘拆作""說一切法略有二種""；GRETIL 本作 nirddeśa"
 U05-005,nirdeśa,n. m. sg. nom.,nirddeśaḥ,3.7,,說,T29.1c06,意译,說,T29.162a29,GRETIL 本作 nirddeśa
 U05-005b,,,,3.7,,有二種,T29.1c06,增译,,,
 U05-006,samāsa,n. 成分,samāsa,3.7,,略,T29.1c06,对译,略,T29.162a29,
@@ -616,7 +621,7 @@ U06-032,saṃskṛta,ptc. adj. m. pl. nom.,iti saṃskṛtāḥ,4.27,,,,省译,�
 U06-035,as,v. pres. 3sg.,astī,4.27,,有,T29.2a11,对译,有,T29.162c09,
 U06-036,kaścit,pron. nt. sg. nom.,kiñcid,4.27,,少法,T29.2a11,意译,法,T29.162c10,"kiñcid（任何一物）译""少法"""
 U06-037,eka-pratyaya-janita,cpd. nt. sg. nom.,ekapratyayajanitaṃ,4.27,,一緣所生,T29.2a12,对译,一緣所生,T29.162c10,
-U06-038,eka,num. 成分,hyeka,4.27,,一,T29.2a12,对译,一,T29.162c10,
+U06-038,eka,num. 成分,eka,4.27,,一,T29.2a12,对译,一,T29.162c10,
 U06-039,pratyaya,n. 成分,ekapratyaya,4.27,,緣,T29.2a12,对译,緣,T29.162c10,
 U06-040,jan (caus.),ptc. nt. sg. nom.,janitaṃ,4.27,,生,T29.2a12,对译,生,T29.162c10,
 U06-041,ppp.,gram. ppp. (-ta),janitaṃ,4.27,,所,T29.2a12,语法,所,T29.162c10,
@@ -1031,7 +1036,7 @@ U10-055,kaścit,pron. m. pl. nom.,kecin,6.13–14,,有餘師,T29.2b28,意译,有
 U10-056,sam-paṭh,v. pres. 3pl.,saṃpaṭhanti,6.13–14,,說,T29.2b28,意译,說,T29.163a19,"paṭh（诵读）译""說"""
 U10-057,nabhas,n. nt. sg. nom.,nabhaś,6.13–14,,空,T29.2b28,对译,空,T29.163a19,
 U10-058,eka-varṇa,cpd. nt. sg. nom.,aikavarṇam,6.13–14,,一顯色,T29.2b28,对译,一色,T29.163a19,
-U10-059,eka,num. 成分,caikavarṇam,6.13–14,,一,T29.2b28,对译,一,T29.163a19,
+U10-059,eka,num. 成分,aika,6.13–14,,一,T29.2b28,对译,一,T29.163a19,
 U10-060,varṇa,n. nt. sg. nom.,varṇam,6.13–14,,顯色,T29.2b28,对译,色,T29.163a19,
 U10-061,ekaviṃśati,num. f. sg. acc.,ekaviṃśatiṃ,6.13–14,,二十一,T29.2b28,对译,二十一,T29.163a20,
 U10-062,,,,6.13–14,,第,T29.2b28,增译,,,第二十一
@@ -1116,8 +1121,9 @@ U10-146,hi,ind.,dṛśyate hi,6.20,,故,T29.2c08,语法,何以故,T29.163a27,"�
 U10-147,,,,6.20,,世間,T29.2c07,增译,,,
 U10-148,nīla-ādi,cpd. nt. pl. gen. (?),nīlādīnaṃ,6.20,,青等,T29.2c07,对译,青等,T29.163a28,GRETIL 本作 nīlādīnaṃ
 U10-149,,,,6.20,,色處,T29.2c08,增译,諸色,T29.163a28,
-U10-150,dīrgha-ādi,cpd. 成分,dīrghādipariccheda,6.20,,長等,T29.2c08,对译,長等,T29.163a28,
-U10-151,pariccheda,n. 成分,pariccheda,6.20,,,,省译,差別,T29.163a28,"pariccheda（界限、分别）未译，玄奘作""有長等"""
+U10-529,dīrgha-ādi-pariccheda,cpd. m. sg. nom.,dīrghādipariccheda,6.20,,長等,T29.2c08,意译,長等差別,T29.163a28,补整词记录；pariccheda 未译
+U10-150,dīrgha-ādi,cpd. 成分,dīrghādi,6.20,,長等,T29.2c08,对译,長等,T29.163a28,
+U10-151,pariccheda,n. m. sg. nom.,pariccheda,6.20,,,,省译,差別,T29.163a28,"pariccheda（界限、分别）未译，玄奘作""有長等"""
 U10-152,katham,ind.,kathaṃ,6.21,,如何,T29.2c08,语法,云何,T29.163a28,
 U10-153,eka,num. nt. sg. nom.,ekaṃ,6.21,,一,T29.2c08,对译,一,T29.163a28,
 U10-154,dravya,n. nt. sg. nom.,dravyam,6.21,,事,T29.2c08,意译,物,T29.163a28,"dravya 此处译""事"""
@@ -1538,7 +1544,7 @@ U11-056,mahā-bhūta,cpd. nt. pl. acc.,mahābhūtāny,8.5–6,,大種,T29.3a21,�
 U11-057,upa-ā-dā,abs.,upādāyeti,8.5–6,,所造,T29.3a21,意译,依止於,T29.163c11,
 U11-058,hetu-artha,cpd. m. sg. nom.,hetvartha,8.7,,因義,T29.3a22,对译,以因為義,T29.163c11,
 U11-059,hetu,n. 成分,hetv,8.7,,因,T29.3a22,对译,因,T29.163c11,
-U11-060,artha,n. 成分,artha upādāyārtha,8.7,,義,T29.3a22,对译,義,T29.163c11,
+U11-060,artha,n. m. sg. nom.,artha,8.7,,義,T29.3a22,对译,義,T29.163c11,
 U11-061,upādāya-artha,cpd. m. sg. nom.,upādāyārtha,8.7,,造,T29.3a22,意译,依止,T29.163c11,"artha 与 hetvartha 共用""義"""
 U11-062,vaibhāṣika,n. m. pl. nom.,vaibhāṣikāḥ,8.7,,毘婆沙,T29.3a21,音译,毘婆沙師,T29.163c11,"此处无""師"""
 U11-063,janana-ādi-hetu-bhāva,cpd. m. sg. abl.,jananādihetubhāvāt,8.7,,作生等…因,T29.3a22,意译,生等…因,T29.163c12,
@@ -1587,9 +1593,11 @@ U11-106,ppp.,gram. ppp. (-ta),uktāni,8.11,,既,T29.3a26,语法,前,T29.163c15,"
 U11-108,bhūta,n. nt. pl. nom.,bhūtāni,8.11,,大種,T29.3a26,意译,四大,T29.163c16,
 U12-001,bhūta,n. nt. pl. nom.,bhūtāni,8.12,1.12,大種,T29.3a28,意译,大,T29.163c16,"bhūta（大）译""大種"""
 U12-002,nom.,gram. pl. nom. (-āni),bhūtāni,8.12,1.12,,,省译,諸,T29.163c16,"复数未译；真谛作""諸大"""
+U12-140,pṛthivī-dhātu,cpd. m. sg. nom.,pṛthivīdhātur,8.12,1.12,界…地,T29.3a28,合译,地界,T29.163c16,"补整词记录；与 aptejovāyudhātavaḥ 合为""四界，即地水火風""，共用""界"""
 U12-003,pṛthivī,n. 成分,pṛthivī,8.12,1.12,地,T29.3a28,对译,地,T29.163c16,
-U12-004,dhātu,n. 成分,pṛthivīdhātur,8.12,1.12,界,T29.3a28,合译,界,T29.163c16,"与 dhātavaḥ 合为""四界""之""界"""
+U12-004,dhātu,n. m. sg. nom.,dhātur,8.12,1.12,界,T29.3a28,合译,界,T29.163c16,"与 dhātavaḥ 合为""四界""之""界"""
 U12-005,,,,8.12,1.12,四,T29.3a28,增译,,,"补出""四""（四界）"
+U12-141,ap-tejas-vāyu-dhātu,cpd. m. pl. nom.,aptejovāyudhātavaḥ,8.12,1.12,界…水火風,T29.3a28,合译,水火風界,T29.163c17,"补整词记录；与 pṛthivīdhātuḥ 合为""四界，即地水火風""，共用""界"""
 U12-006,ap,n. 成分,ap,8.12,1.12,水,T29.3a28,对译,水,T29.163c17,
 U12-007,tejas,n. 成分,tejo,8.12,1.12,火,T29.3a28,对译,火,T29.163c17,
 U12-008,vāyu,n. 成分,vāyu,8.12,1.12,風,T29.3a28,对译,風,T29.163c17,
@@ -1709,9 +1717,9 @@ U12-122,prakaraṇa,n. nt. pl. loc.,prakaraṇeṣu,8.23–24,,,,省译,,,承上
 U12-123,atas,ind.,ato,8.24–25,,故,T29.3b12,语法,,,
 U12-124,yad … tad,gram. rel.-cor.,ya īraṇāsvabhāvo dharmaḥ sa,8.24–25,,,,省译,,,关系-相关句未以虚词表出
 U12-125,,,,8.24–25,,應,T29.3b12,增译,,,
-U12-126,īraṇa-svabhāva,cpd. m. sg. nom.,īraṇāsvabhāvo,8.24–25,,動為自性,T29.3b12,对译,以動為定性,T29.164a01,
+U12-126,īraṇa-svabhāva,cpd. adj. m. sg. nom. (bahuvrīhi),īraṇāsvabhāvo,8.24–25,,動為自性,T29.3b12,对译,以動為定性,T29.164a01,
 U12-127,īraṇa,n. 成分,īraṇā,8.24–25,,動,T29.3b12,对译,動,T29.164a01,
-U12-128,svabhāva,n. 成分,svabhāvo dharmaḥ,8.24–25,,自性,T29.3b13,对译,定性,T29.164a01,
+U12-128,svabhāva,n. m. sg. nom.,svabhāvo,8.24–25,,自性,T29.3b13,对译,定性,T29.164a01,
 U12-129,dharma,n. m. sg. nom.,dharmaḥ,8.24–25,,,,省译,法,T29.164a01,
 U12-130,vāyu,n. m. sg. nom.,vāyuriti,8.24–25,,風界,T29.3b12,意译,風界,T29.164a01,"补""界"""
 U12-131,karman,n. nt. sg. instr.,karṃaṇā,8.24–25,,業,T29.3b13,对译,業,T29.164a01,GRETIL 本作 karṃaṇā
@@ -1725,8 +1733,8 @@ U12-138,pṛthivī-dhātu-ādi,cpd. m. pl. gen.,pṛthivīdhātvādīnāṃ,8.26
 U12-139,viśeṣa,n. m. sg. nom.,viśeṣaḥ,8.26,,別,T29.3b14,对译,異義,T29.164a02,
 U13-001,pṛthivī,n. f. sg. nom.,pṛthivī varṇa,9.1,1.13,地,T29.3b15,对译,地,T29.164a03,
 U13-002,varṇa-saṃsthāna,cpd. nt. sg. nom.,varṇasaṃsthānam,9.1,1.13,顯形,T29.3b15,对译,顯形色,T29.164a03,
-U13-003,varṇa,n. 成分,varṇasaṃsthānam,9.1,1.13,顯,T29.3b15,对译,顯,T29.164a03,
-U13-004,saṃsthāna,n. 成分,saṃsthānamucyate,9.1,1.13,形,T29.3b15,对译,形,T29.164a03,
+U13-003,varṇa,n. 成分,varṇa,9.1,1.13,顯,T29.3b15,对译,顯,T29.164a03,
+U13-004,saṃsthāna,n. nt. sg. nom.,saṃsthānam,9.1,1.13,形,T29.3b15,对译,形,T29.164a03,
 U13-005,,,,9.1,1.13,色,T29.3b15,增译,色,T29.164a03,"本颂补""色""（顯形色）"
 U13-006,vac,v. pres. pass. 3sg.,mucyate,9.1,1.13,立名,T29.3b15,意译,說,T29.164a03,"ucyate（被称为）译""立名"""
 U13-007,loka-saṃjñā,cpd. f. sg. instr.,lokasaṃjñayā,9.1,1.13,世想,T29.3b15,对译,世…名想,T29.164a03,
@@ -1783,8 +1791,8 @@ U13-058,avijñapti-paryanta,cpd. m. sg. nom.,avijñaptiparyanto,9.10,,無表為�
 U13-059,a-vijñapti,n. 成分,avijñapti,9.10,,無表,T29.3b22,对译,無教,T29.164a09,
 U13-060,paryanta,n. m. sg. nom.,paryanto,9.10,,為後,T29.3b22,意译,為後,T29.164a09,
 U13-061,rūpa-skandha,cpd. m. sg. nom.,rūpaskandha,9.10,,蘊…色,T29.3b22,意译,陰名色,T29.164a09,"玄奘拆开：""此蘊""…""說為色"""
-U13-062,rūpa,n. 成分,rūpaskandha,9.10,,色,T29.3b22,对译,色,T29.164a09,
-U13-063,skandha,n. 成分,skandha ity,9.10,,蘊,T29.3b22,对译,陰,T29.164a09,
+U13-062,rūpa,n. 成分,rūpa,9.10,,色,T29.3b22,对译,色,T29.164a09,
+U13-063,skandha,n. m. sg. nom.,skandha,9.10,,蘊,T29.3b22,对译,陰,T29.164a09,
 U13-064,vac,v. pres. pass. 3sg.,ityucyate,9.10,,說,T29.3b22,对译,說,T29.164a09,
 U13-065,rūpaṇa,n. nt. sg. abl.,raupaṇāt,9.10,,變壞,T29.3b23,对译,變壞,T29.164a10,GRETIL 本作 raupaṇāt，当读 rūpaṇāt
 U13-066,abl.,gram. abl. (-āt),raupaṇāt,9.10,,由…故,T29.3b22,语法,故,T29.164a10,
@@ -1972,12 +1980,13 @@ U13-252,ādi,n. 成分,ādi,9.26–10.1,,等,T29.3c14,对译,等,T29.164b01,
 U13-253,varṇa,n. 成分,varṇa,9.26–10.1,,顯色,T29.3c14,对译,顯色,T29.164b01,
 U13-254,paramāṇu,n. m. pl. gen.,paramāṇūnāṃ,9.26–10.1,,極微,T29.3c14,对译,隣虛,T29.164b01,
 U13-255,pratyekam,ind.,pratyekaṃ,9.26–10.1,,各,T29.3c14,对译,各各,T29.164b01,
+U13-323,sva-bhūta-catuṣka-āśrita-tva-abhyupagama,cpd. m. sg. abl.,svabhūtacatuṣkāśritatvābhyupagamāt,9.26–10.1,,彼宗…自依止四大種,T29.3c13,意译,彼…師說…依止自四大,T29.164a29,补整词记录
 U13-256,sva-bhūta-catuṣka-āśrita-tva,cpd. 成分,svabhūtacatuṣkāśritatvā,9.26–10.1,,自依止四大種,T29.3c14,意译,依止自四大,T29.164b01,
-U13-257,sva,pron. 成分,svabhūta,9.26–10.1,,自,T29.3c14,对译,自,T29.164b01,
-U13-258,bhūta,n. 成分,bhūtacatuṣkā,9.26–10.1,,大種,T29.3c14,意译,大,T29.164b01,
+U13-257,sva,pron. 成分,sva,9.26–10.1,,自,T29.3c14,对译,自,T29.164b01,
+U13-258,bhūta,n. 成分,bhūta,9.26–10.1,,大種,T29.3c14,意译,大,T29.164b01,
 U13-259,catuṣka,n. 成分,catuṣkā,9.26–10.1,,四,T29.3c14,对译,四,T29.164b01,
 U13-260,ā-śri,ptc. 成分,āśrita,9.26–10.1,,依止,T29.3c14,对译,依止,T29.164b01,
-U13-261,abhyupagama,n. 成分,bhyupagamāt,9.26–10.1,,彼宗,T29.3c13,意译,彼…師說,T29.164a29,"abhyupagama（所许、主张）译""彼宗"""
+U13-261,abhyupagama,n. m. sg. abl.,ābhyupagamāt,9.26–10.1,,彼宗,T29.3c13,意译,彼…師說,T29.164a29,"abhyupagama（所许、主张）译""彼宗"""
 U13-262,loc. abs.,gram. loc. abs. (sati),satyapi,10.1,,設許,T29.3c14,语法,若,T29.164b01,"satyapi（纵然是）译""設許"""
 U13-263,tad-āśrita-tva,cpd. nt. sg. loc.,tadāśritatve,10.1,,依止樹寶,T29.3c15,意译,依樹寶,T29.164b02,
 U13-264,tad,pron. 成分,tadāśritatve,10.1,,樹寶,T29.3c15,意译,樹寶,T29.164b02,代词还原为所指
@@ -2032,8 +2041,9 @@ U13-311+1,,,,10.5–6,,前,T29.3c20,增译,,,合并时从 U13-311（前所難）
 U13-312,,,,10.5–6,,定為,T29.3c20,增译,,,
 U13-313,atas,ind.,ityata,10.5–6,,,,省译,,,
 U13-314,upa-pad,ptc. nt. sg. nom.,upapannam,10.5–6,,成就,T29.3c20,意译,應然,T29.164b07,"upapanna（合理、成立）译""成就"""
-U13-315,āśraya,n. 成分,āśraya rūpaṇād,10.5–6,,,,省译,,,"玄奘只作""變礙名色"""
-U13-316,rūpaṇa,n. 成分,rūpaṇād,10.5–6,,變礙,T29.3c20,对译,可…變壞,T29.164b07,
+U13-324,āśraya-rūpaṇa,cpd. nt. sg. abl.,āśraya rūpaṇād,10.5–6,,變礙,T29.3c20,意译,可…變壞,T29.164b07,补整词记录；GRETIL 分写作 āśraya rūpaṇād；āśraya 未译
+U13-315,āśraya,n. 成分,āśraya,10.5–6,,,,省译,,,"玄奘只作""變礙名色"""
+U13-316,rūpaṇa,n. nt. sg. abl.,rūpaṇād,10.5–6,,變礙,T29.3c20,对译,可…變壞,T29.164b07,
 U13-317,rūpa,n. nt. sg. nom.,rūpamiti,10.5–6,,色,T29.3c20,对译,色陰,T29.164b08,
 U13-318,,,,10.5–6,,理得,T29.3c20,增译,,,
 U13-319,rūpa-skandha-svabhāva,cpd. m. pl. nom.,rūpaskandhasvabhāvā,10.7,,色蘊性,T29.3c23,对译,色陰為性,T29.164b08,
@@ -2295,8 +2305,8 @@ U16-005,prati,ind.,prati,11.7,,各各,T29.4a21,对译,對對,T29.164c02,
 U16-006,vijñapti,n. f. sg. nom.,vijñaptir,11.7,,了別,T29.4a21,对译,,,
 U16-007,upalabdhi,n. f. sg. nom.,upalabdhir,11.7,,總取境相,T29.4a21,意译,,,"upalabdhi（了知、把握）玄奘铺陈为""總取境相"""
 U16-008,vijñāna-skandha,cpd. m. sg. nom.,vijñāna skandha,11.7,,識蘊,T29.4a22,对译,識陰,T29.164c03,GRETIL 本分写作 vijñāna skandha
-U16-009,vijñāna,n. 成分,vijñāna skandha,11.7,,識,T29.4a22,对译,識,T29.164c03,
-U16-010,skandha,n. 成分,skandha ity,11.7,,蘊,T29.4a22,对译,陰,T29.164c03,
+U16-009,vijñāna,n. 成分,vijñāna,11.7,,識,T29.4a22,对译,識,T29.164c03,
+U16-010,skandha,n. m. sg. nom.,skandha,11.7,,蘊,T29.4a22,对译,陰,T29.164c03,
 U16-012,vac,v. pres. pass. 3sg.,ityucyate,11.7,,名,T29.4a21,对译,名,T29.164c03,
 U16-013,,,,11.7–8,,差別,T29.4a22,增译,分別,T29.164c03,梵文此句无 bhidyamāna，二译仿上文补出
 U16-014,ṣaṣ,num. pl. nom.,ṣaḍ,11.7–8,,六,T29.4a22,对译,六,T29.164c03,"""有""为增字"
@@ -2447,8 +2457,8 @@ U18-013,cakṣus,n. 成分,cakṣur,11.27,,眼,T29.4b09,对译,眼,T29.164c20,
 U18-014,dhātu,n. 成分,dhātvā,11.27,,界,T29.4b09,对译,界,T29.164c20,
 U18-015,āyatana,n. 成分,āyatanādayaḥ,11.27,,,,省译,,,
 U18-016,ādi,n. m. pl. nom.,ādayaḥ,11.27,,等,T29.4b09,对译,等,T29.164c20,
-U18-017,pañcan,num. 成分,pañcāśrayāḥ,11.27,,五,T29.4b09,对译,五,T29.164c20,
-U18-018,āśraya,n. 成分,āśrayāḥ,11.27,,依,T29.4b09,对译,依,T29.164c20,"""為""为增字"
+U18-017,pañcan,num. pl. nom.,pañcāśrayāḥ,11.27,,五,T29.4b09,对译,五,T29.164c20,pañca āśrayāḥ 连声，pañca 为独立数词（同 U08-007 pañcā），非复合词成分
+U18-018,āśraya,n. m. pl. nom.,āśrayāḥ,11.27,,依,T29.4b09,对译,依,T29.164c20,"""為""为增字；与 pañca 是两个独立的词（pañca āśrayāḥ 连声）"
 U18-019,ṣaṣṭha,adj. m. sg. gen.,ṣaṣṭhasya,11.28,,第六,T29.4b09,对译,第六,T29.164c20,
 U18-020,manas-vijñāna-dhātu,cpd. m. sg. gen.,manovijñānadhātor,11.28,,意識,T29.4b10,意译,意識界,T29.164c20,"玄奘省""界"""
 U18-022,anya,pron. m. sg. nom.,"""nyo",11.28,,別,T29.4b10,对译,別,T29.164c21,
@@ -2657,6 +2667,7 @@ U21-018,dvi,num. nt. du. gen.,dvayoḥ,12.25,,兩處,T29.4c05,意译,二,T29.165
 U21-019,saṃbhava,n. m. sg. nom.,saṃbhava,12.25,,生,T29.4c06,对译,生,T29.165a15,
 U21-020,cakṣus-ādi,cpd. nt. pl. gen.,cakṣurādīnaṃ,12.25,,,,省译,眼等,T29.165a15,
 U21-021,anyathā,ind.,anya thā,12.25–13.1,,若,T29.4c06,语法,若不爾,T29.165a16,GRETIL 本分写作 anya thā
+U21-051,eka-cakṣus-śrotra-adhiṣṭhāna-eka-nāsikā-bila-saṃbhava,cpd. m. sg. abl.,ekacakṣuḥśrotrādhiṣṭhānaikanāsikāvilasaṃbhavāt,12.25–13.1,,眼耳根處…生一，鼻無二穴,T29.4c06,意译,一眼耳一依處生，一鼻一孔生,T29.165a16,补整词记录；GRETIL 作 -vila-（即 bila）
 U21-022,eka-cakṣus-śrotra-adhiṣṭhāna,cpd. 成分,ekacakṣuḥśrotrādhiṣṭhāna,12.25–13.1,,眼耳根處…一,T29.4c06,意译,一眼耳一依處,T29.165a16,
 U21-023,cakṣus,n. 成分,cakṣuḥ,12.25–13.1,,眼,T29.4c06,对译,眼,T29.165a16,
 U21-024,śrotra,n. 成分,śrotrā,12.25–13.1,,耳,T29.4c06,对译,耳,T29.165a16,
@@ -2664,7 +2675,8 @@ U21-025,adhiṣṭhāna,n. 成分,ādhiṣṭhāna,12.25–13.1,,根處,T29.4c06
 U21-026,,,,12.25–13.1,,唯,T29.4c06,增译,,,
 U21-027,saṃbhava,n. m. sg. abl.,saṃbhavāt,12.25–13.1,,生,T29.4c06,对译,生,T29.165a16,
 U21-028,eka,num. 成分,ekacakṣuḥ,12.25–13.1,,一,T29.4c06,对译,一,T29.165a16,
-U21-029,eka-nāsikā-bila-saṃbhava,cpd. m. sg. abl.,aikanāsikāvilasaṃbhavāt,12.25–13.1,,鼻無二穴,T29.4c06,意译,一鼻一孔生,T29.165a16,"以否定""無二穴""意译 eka-nāsikā-bila（只有一个鼻孔）；GRETIL 作 -vila-（即 bila）"
+U21-029,eka-nāsikā-bila,cpd. 成分,aikanāsikāvila,12.25–13.1,,鼻無二穴,T29.4c06,意译,一鼻一孔生,T29.165a16,"以否定""無二穴""意译 eka-nāsikā-bila（只有一个鼻孔）；GRETIL 作 -vila-（即 bila）；原标作 eka-nāsikā-bila-saṃbhava 整词，今改为成分，末成分 saṃbhava 见 U21-027；真谛""一鼻一孔生""之""生""属 saṃbhava"
+U21-052,eka,num. 成分,aika,12.25–13.1,,無二,T29.4c06,意译,一,T29.165a16,"补成分记录：第二个 eka（eka-nāsikā-bila），玄奘以否定""無二""意译（鼻無二穴）"
 U21-030,nāsikā,n. 成分,nāsikā,12.25–13.1,,鼻,T29.4c06,对译,鼻,T29.165a16,
 U21-031,bila,n. 成分,vila,12.25–13.1,,穴,T29.4c06,对译,孔,T29.165a16,GRETIL 本作 vila
 U21-032,,,,12.25–13.1,,身,T29.4c06,增译,此身,T29.165a17,
@@ -3007,7 +3019,8 @@ U22-336,cakṣus-ādi,cpd. 成分,cakṣurādi,14.3–4,,眼等,T29.5a23,对译,
 U22-337,paramāṇu,n. m. pl. gen.,paramāṇūnām,14.3–4,,極微,T29.5a23,对译,隣虛,T29.165b29,
 U22-338,,,,14.3–4,,要…積聚,T29.5a23,增译,,,
 U22-339,bahu,adj. m. pl. gen.,bahunāṃ,14.3–4,,多,T29.5a23,对译,多,T29.165b29,GRETIL 本作 bahunāṃ
-U22-340,bhāva,n. 成分,bhāvāt,14.3–4,,成,T29.5a23,意译,成,T29.165b29,
+U22-412,āya-dvāra-bhāva,cpd. m. sg. abl.,āyadvāra bhāvāt,14.3–4,,成生門,T29.5a23,意译,成來門,T29.165b29,补整词记录；GRETIL 本分写作 āyadvāra bhāvāt，当连读 āyadvārabhāvāt
+U22-340,bhāva,n. m. sg. abl.,bhāvāt,14.3–4,,成,T29.5a23,意译,成,T29.165b29,
 U22-341,āya-dvāra,cpd. 成分,āyadvāra,14.3–4,,生門,T29.5a23,意译,來門,T29.165b29,GRETIL 本分写作 āyadvāra bhāvāt
 U22-342,na,ind.,na /,14.4,,此難非理,T29.5a24,语法,是義不然,T29.165c01,
 U22-343,samagra,adj. m. pl. gen.,samagrāṇāṃ,14.4–5,,多積聚,T29.5a24,意译,聚集,T29.165c01,
@@ -3163,7 +3176,7 @@ U24-017,skandha,n. 成分,skndhau,14.17–18,1.21,蘊,T29.5b11,对译,陰,T29.16
 U24-018,vivāda-mūla,cpd. nt. du. nom.,vivādamūle,14.19,,諍根,T29.5b12,对译,爭根,T29.165c16,
 U24-019,dvi,num. nt. du. nom.,dve,14.19,,二,T29.5b12,对译,二,T29.165c16,"""有""为增字"
 U24-020,kāma-adhyavasāna,cpd. nt. sg. nom.,kāmādhyavasānaṃ,14.19,,著…欲,T29.5b12,对译,貪著欲塵,T29.165c16,
-U24-021,adhyavasāna,n. 成分,ādhyavasānaṃ dṛṣṭy,14.19,,著,T29.5b12,对译,貪著,T29.165c16,
+U24-021,adhyavasāna,n. nt. sg. nom.,ādhyavasānaṃ,14.19,,著,T29.5b12,对译,貪著,T29.165c16,
 U24-022,,,,14.19,,諸…諸,T29.5b12,增译,諸,T29.165c16,"kāma、dṛṣṭi 在复合词中无复数词尾，玄奘都加""諸"""
 U24-023,kāma,n. 成分,kāmā,14.19,,欲,T29.5b12,对译,欲塵,T29.165c16,
 U24-024,dṛṣṭi-adhyavasāna,cpd. nt. sg. nom.,dṛṣṭyadhyavasānaṃ,14.19,,著…見,T29.5b12,对译,貪著諸見,T29.165c16,
@@ -3255,13 +3268,13 @@ U25-042,saṃkhyāṃ gam,v. opt. 3sg. (idiom),saṃkhyāṃ gacchet,15.2–3,,�
 U25-043,a-saṃskṛta-skandha,cpd. m. sg. nom.,āsaṃskṛtaskandha,15.2–3,,無為蘊,T29.5b24,对译,無為陰,T29.165c29,
 U25-044,,,,15.3–4,,又,T29.5b24,增译,,,
 U25-045,upādāna-skandha-vacana,cpd. nt. sg. nom.,ūpādānaskandhavacanaṃ,15.3–4,,言取蘊,T29.5b25,对译,說取陰,T29.166a01,
-U25-046,vacana,n. 成分,vacanaṃ saṃkleśa,15.3–4,,言,T29.5b25,对译,說,T29.166a01,
+U25-046,vacana,n. nt. sg. nom.,vacanaṃ,15.3–4,,言,T29.5b25,对译,說,T29.166a01,
 U25-047,upādāna-skandha,cpd. 成分,ūpādānaskandha,15.3–4,,取蘊,T29.5b25,对译,取陰,T29.166a01,
 U25-048,saṃkleśa-vastu-jñāpana-artham,cpd. ind.,saṃkleśavastujñāpanārthaṃ,15.3–4,,為顯染依,T29.5b25,对译,為顯染污依止故,T29.166a01,
 U25-049,-artham,gram. purpose,saṃkleśavastujñāpanārthaṃ,15.3–4,,為,T29.5b25,语法,為…故,T29.166a01,
 U25-050,jñāpana,n. 成分,jñāpanā,15.3–4,,顯,T29.5b25,对译,顯,T29.166a01,
 U25-051,saṃkleśa,n. 成分,saṃkleśavastu,15.3–4,,染,T29.5b25,对译,染污,T29.166a01,
-U25-052,vastu,n. 成分,vastujñāpanārthaṃ khalū,15.3–4,,依,T29.5b25,意译,依止,T29.166a01,"vastu（所依之事）译""依"""
+U25-052,vastu,n. 成分,vastu,15.3–4,,依,T29.5b25,意译,依止,T29.166a01,"vastu（所依之事）译""依"""
 U25-053,saṃkleśa-vyavadāna-vastu-jñāpana-artham,cpd. ind.,saṃkleśavyavadānavastujñāpanārthaṃ,15.3–4,,染淨…依…所顯,T29.5b25,意译,為顯染污清淨依止故,T29.166a01,"""二""为增字"
 U25-053+1,,,,15.3–4,,二,T29.5b25,增译,,,合并时从 U25-053（染淨二依…所顯）拆出
 U25-054,vyavadāna,n. 成分,vyavadāna,15.3–4,,淨,T29.5b25,对译,清淨,T29.166a01,
@@ -3310,7 +3323,7 @@ U26-014,rūpa,n. nt. sg. nom.,rūpaṃ hi,15.10,,色,T29.5c02,对译,色,T29.166
 U26-015,sa-pratigha,adj. 成分,sapratighatvāt,15.10,,有對,T29.5c02,对译,有礙,T29.166a06,"真谛 pratigha 译""礙"""
 U26-016,-tva (abstract),gram. suffix,sapratighatvāt,15.10,,,,省译,,,抽象后缀 -tva 未译
 U26-018,sarva-audārika,cpd. adj. nt. sg. nom.,sarvaudārikam,15.10,,諸蘊中麁,T29.5c02,意译,一切中最麁,T29.166a07,"sarvaudārika（一切之中最粗）；玄奘补出""蘊"""
-U26-019,sarva,adj. 成分,sarvaudārikam,15.10,,諸蘊中,T29.5c02,意译,一切中,T29.166a07,"补出""蘊""，""中""表比较范围"
+U26-019,sarva,adj. 成分,sarva,15.10,,諸蘊中,T29.5c02,意译,一切中,T29.166a07,"补出""蘊""，""中""表比较范围"
 U26-020,audārika,adj. nt. sg. nom.,audārikam,15.10,,麁,T29.5c02,对译,最麁,T29.166a07,
 U26-021,a-rūpin,adj. m. pl. gen.,arupiṇāṃ,15.10,,無色,T29.5c02,对译,無色,T29.166a07,GRETIL 本作 arupiṇāṃ，当读 arūpiṇāṃ
 U26-022,gen.,gram. pl. gen. (-ām),arupiṇāṃ,15.10,,中,T29.5c02,语法,中,T29.166a07,"表部分的第六格（诸无色蕴之中）译""中"""
@@ -3729,7 +3742,7 @@ U28-056,,,,16.20–21,,諸色中,T29.6a17,增译,,,
 U28-057,rūpa-āyatana,cpd. nt. sg. gen.,rūpāyatanasya,16.20–21,,色處,T29.6a17,对译,色入,T29.166b16,
 U28-058,prādhānya,n. nt. sg. abl.,prādhānyāt,16.20–21,,最勝,T29.6a17,意译,勝,T29.166b16,
 U28-059,,,,16.20–21,,立通名,T29.6a17,增译,,,"玄奘补出结语""故立通名"""
-U28-061,sa-pratigha,adj. 成分,sapratighatvācca,16.21,,有對,T29.6a17,对译,有礙,T29.166b17,
+U28-061,sa-pratigha,adj. 成分,sapratighatvāc,16.21,,有對,T29.6a17,对译,有礙,T29.166b17,
 U28-062,pāṇi-ādi-saṃsparśa,cpd. m. pl. instr.,pāṇyādisaṃsparśaiḥ,16.21,,手等觸,T29.6a18,对译,手等物觸,T29.166b17,
 U28-063,pāṇi,n. 成分,pāṇyādi,16.21,,手,T29.6a18,对译,手,T29.166b17,
 U28-064,ādi,n. 成分,ādisaṃsparśaiḥ,16.21,,等,T29.6a18,对译,等,T29.166b17,
@@ -3738,7 +3751,7 @@ U28-066,instr.,gram. instr. (-aiḥ),saṃsparśaiḥ,16.21,,時,T29.6a18,语法
 U28-067,spṛś,ptc. nt. sg. nom.,spṛṣṭaṃ,16.21,,觸,T29.6a18,合译,,,"与 saṃsparśa 合用""觸"""
 U28-068,,,,16.21,,即便,T29.6a18,增译,即便,T29.166b17,
 U28-069,rūp,v. pres. pass. 3sg.,rūpyate,16.21,,變壞,T29.6a18,对译,變壞,T29.166b17,
-U28-071,sa-nidarśana,adj. 成分,sanidarśanatvācca,16.22,,有見,T29.6a18,对译,,,"真谛作""體相顯現""，不逐词"
+U28-071,sa-nidarśana,adj. 成分,sanidarśanatvāc,16.22,,有見,T29.6a18,对译,,,"真谛作""體相顯現""，不逐词"
 U28-072,iha,ind.,ihāmutreti,16.22–23,,在此,T29.6a19,对译,於此,T29.166b18,
 U28-073,amutra,ind.,āmutreti,16.22–23,,在彼,T29.6a19,对译,彼處,T29.166b18,
 U28-074,nirūpaṇa,n. nt. sg. abl.,nirūpaṇāt,16.22–23,,可示,T29.6a18,意译,易指示,T29.166b18,nirūpaṇa（指明）
@@ -3934,8 +3947,9 @@ U30-071,moha,n. 成分,moha,17.19,,,,省译,癡,T29.166c08,"以""等""概括"
 U30-072,māna,n. 成分,mānā,17.19,,,,省译,慢,T29.166c08,"以""等""概括"
 U30-073,ādi,n. 成分,mānādi,17.19,,等,T29.6b13,对译,等,T29.166c08,
 U30-074,aśīti,num. f. sg. nom.,aśītiś,17.19,,八萬,T29.6b13,合译,八萬,T29.166c08,"aśītiḥ … sahasrāṇi（八十千）合为""八萬"""
-U30-075,carita,n. 成分,caritasahasraṇi,17.19,,行,T29.6b13,对译,行類,T29.166c08,
-U30-076,sahasra,num. nt. pl. nom.,caritasahasraṇi,17.19,,八萬,T29.6b13,合译,八萬,T29.166c08,"与 aśīti 合为""八萬""；GRETIL 本作 sahasraṇi，当读 sahasrāṇi"
+U30-099,carita-sahasra,cpd. nt. pl. nom.,caritasahasraṇi,17.19,,八萬行,T29.6b13,合译,八萬…行類,T29.166c08,"补整词记录；sahasra 与 aśīti 合为""八萬""；GRETIL 本作 sahasraṇi，当读 sahasrāṇi"
+U30-075,carita,n. 成分,carita,17.19,,行,T29.6b13,对译,行類,T29.166c08,
+U30-076,sahasra,num. nt. pl. nom.,sahasraṇi,17.19,,八萬,T29.6b13,合译,八萬,T29.166c08,"与 aśīti 合为""八萬""；GRETIL 本作 sahasraṇi，当读 sahasrāṇi"
 U30-077,carita,n. 成分,caritabhedena,17.19,,,,省译,,,"与前一 carita 合用""行"""
 U30-078,bheda,n. m. sg. instr.,bhedena,17.19,,別,T29.6b13,对译,差別,T29.166c08,
 U30-079,tad,pron. nt. pl. gen.,teṣāṃ,17.20,,彼八萬行,T29.6b13,意译,此行,T29.166c09,代词还原为所指（八萬行）
@@ -3943,14 +3957,16 @@ U30-080,pratipakṣa,n. m. sg. instr.,pratipakṣeṇa,17.20,,對治,T29.6b13,�
 U30-081,instr.,gram. instr. (-ena),pratipakṣeṇa,17.20,,為…故,T29.6b13,语法,為,T29.166c09,第三格表目的
 U30-082,bhagavat,n. m. sg. instr.,bhagavatā,17.20,,世尊,T29.6b14,对译,世尊,T29.166c09,
 U30-083,aśīti,num. f. sg. nom.,'śītir,17.20,,八萬,T29.6b14,合译,八萬,T29.166c09,
-U30-084,dharma-skandha,cpd. 成分,dharmaskandhasahasrāṇy,17.20,,法蘊,T29.6b14,对译,法陰,T29.166c09,
+U30-100,dharma-skandha-sahasra,cpd. nt. pl. nom.,dharmaskandhasahasrāṇy,17.20,,八萬法蘊,T29.6b14,合译,八萬法陰,T29.166c09,"补整词记录；sahasra 与 aśīti 合为""八萬"""
+U30-084,dharma-skandha,cpd. 成分,dharmaskandha,17.20,,法蘊,T29.6b14,对译,法陰,T29.166c09,
 U30-085,sahasra,num. nt. pl. nom.,sahasrāṇy,17.20,,八萬,T29.6b14,合译,八萬,T29.166c09,
 U30-086,vac,ptc. nt. pl. nom.,uktāni,17.20,,宣說,T29.6b14,对译,正說,T29.166c09,
 U30-088,etad,pron. nt. pl. nom.,yathaitāny,17.20–21,,彼,T29.6b14,语法,,,
 U30-089,,,,17.20–21,,所說,T29.6b14,增译,,,"""如彼所說""之""所說"""
 U30-090,aśīti,num. f. sg. nom.,tānyaśītir,17.20–21,,八萬,T29.6b14,合译,八萬,T29.166c09,
-U30-091,dharma-skandha,cpd. 成分,rdharmaskandhasahasrāṇy,17.20–21,,法蘊,T29.6b14,对译,法陰,T29.166c09,
-U30-092,sahasra,num. nt. pl. nom.,sahasrāṇyeṣveva,17.20–21,,八萬,T29.6b14,合译,八萬,T29.166c09,
+U30-101,dharma-skandha-sahasra,cpd. nt. pl. nom.,dharmaskandhasahasrāṇy,17.20–21,,八萬法蘊,T29.6b14,合译,八萬法陰,T29.166c09,"补整词记录；sahasra 与 aśīti 合为""八萬"""
+U30-091,dharma-skandha,cpd. 成分,dharmaskandha,17.20–21,,法蘊,T29.6b14,对译,法陰,T29.166c09,
+U30-092,sahasra,num. nt. pl. nom.,sahasrāṇy,17.20–21,,八萬,T29.6b14,合译,八萬,T29.166c09,
 U30-093,eva,ind.,eṣveva,17.20–21,,皆,T29.6b14,语法,,,
 U30-094,pañca-skandha,cpd. m. pl. loc.,pañcaskandheṣu,17.20–21,,五,T29.6b15,意译,五陰,T29.166c10,"""蘊""承下省"
 U30-096,,,,17.20–21,,二蘊,T29.6b15,增译,色行二陰,T29.166c10,"玄奘、真谛都补出""二蘊""（真谛具体作""色行""）"
@@ -4111,15 +4127,25 @@ U31-158,yad,pron. m. pl. nom.,ya ime,18.10–11,,所,T29.6c03,语法,所,T29.166
 U31-159,vac,ptc. m. pl. nom.,uktāḥ,18.10–11,,說,T29.6c04,对译,說,T29.166c25,
 U31-160,ṣaṣ,num. pl. nom.,ṣaḍ,18.10–11,,六,T29.6c04,对译,六,T29.166c25,
 U31-161,dhātu,n. m. pl. nom.,ṣaḍ dhātavaḥ,18.10–11,,界,T29.6c04,对译,界,T29.166c25,
-U31-162,pṛthivī,n. 成分,pṛthivīdhātur,18.10–11,,地,T29.6c04,对译,地,T29.166c25,
-U31-163,ap,n. 成分,rabdhātus,18.10–11,,水,T29.6c04,对译,水,T29.166c26,
-U31-164,tejas,n. 成分,tejodhātur,18.10–11,,火,T29.6c04,对译,火,T29.166c26,
-U31-165,vāyu,n. 成分,vāyudhātur,18.10–11,,風,T29.6c04,对译,風,T29.166c26,
-U31-166,dhātu,n. m. sg. nom.,pṛthivīdhātur,18.10–11,,界,T29.6c04,合译,界,T29.166c25,"四个 -dhātu 合为""地水火風四界""之""界"""
+U31-195,pṛthivī-dhātu,cpd. m. sg. nom.,pṛthivīdhātur,18.10–11,,地…界,T29.6c04,合译,地界,T29.166c25,"补整词记录；四个 -dhātu 合为""地水火風四界""之""界"""
+U31-162,pṛthivī,n. 成分,pṛthivī,18.10–11,,地,T29.6c04,对译,地,T29.166c25,
+U31-166,dhātu,n. m. sg. nom.,dhātur,18.10–11,,界,T29.6c04,合译,界,T29.166c25,"pṛthivīdhātu 的末成分；四个 -dhātu 合为""地水火風四界""之""界"""
+U31-196,ap-dhātu,cpd. m. sg. nom.,abdhātus,18.10–11,,水…界,T29.6c04,合译,水…界,T29.166c26,"补整词记录；四个 -dhātu 合为""地水火風四界""之""界""；真谛""水、火、風、空、識界""共用""界"""
+U31-163,ap,n. 成分,ab,18.10–11,,水,T29.6c04,对译,水,T29.166c26,
+U31-197,dhātu,n. m. sg. nom.,dhātus,18.10–11,,界,T29.6c04,合译,界,T29.166c26,"补末成分记录（abdhātu）；四个 -dhātu 合为""地水火風四界""之""界"""
+U31-198,tejas-dhātu,cpd. m. sg. nom.,tejodhātur,18.10–11,,火…界,T29.6c04,合译,火…界,T29.166c26,"补整词记录；四个 -dhātu 合为""地水火風四界""之""界""；真谛""水、火、風、空、識界""共用""界"""
+U31-164,tejas,n. 成分,tejo,18.10–11,,火,T29.6c04,对译,火,T29.166c26,
+U31-199,dhātu,n. m. sg. nom.,odhātur,18.10–11,,界,T29.6c04,合译,界,T29.166c26,"补末成分记录（tejodhātu）；四个 -dhātu 合为""地水火風四界""之""界"""
+U31-200,vāyu-dhātu,cpd. m. sg. nom.,vāyudhātur,18.10–11,,風…界,T29.6c04,合译,風…界,T29.166c26,"补整词记录；四个 -dhātu 合为""地水火風四界""之""界""；真谛""水、火、風、空、識界""共用""界"""
+U31-165,vāyu,n. 成分,vāyu,18.10–11,,風,T29.6c04,对译,風,T29.166c26,
+U31-201,dhātu,n. m. sg. nom.,udhātur,18.10–11,,界,T29.6c04,合译,界,T29.166c26,"补末成分记录（vāyudhātu）；四个 -dhātu 合为""地水火風四界""之""界"""
 U31-167,,,,18.10–11,,四…已說,T29.6c04,增译,,,"""四界已說""为增出"
-U31-168,ākāśa,n. 成分,rākāśadhātur,18.10–11,,空,T29.6c04,对译,空,T29.166c26,
-U31-169,vijñāna,n. 成分,rvijñānadhātur,18.10–11,,識,T29.6c04,对译,識,T29.166c26,
-U31-170,dhātu,n. m. sg. nom.,rākāśadhātur,18.10–11,,界,T29.6c04,合译,界,T29.166c26,"两个 -dhātu 合为""空識二界""之""界"""
+U31-202,ākāśa-dhātu,cpd. m. sg. nom.,ākāśadhātur,18.10–11,,空…界,T29.6c04,合译,空…界,T29.166c26,"补整词记录；两个 -dhātu 合为""空識二界""之""界""；真谛""水、火、風、空、識界""共用""界"""
+U31-168,ākāśa,n. 成分,ākāśa,18.10–11,,空,T29.6c04,对译,空,T29.166c26,
+U31-203,vijñāna-dhātu,cpd. m. sg. nom.,vijñānadhātur,18.10–11,,識…界,T29.6c04,合译,識界,T29.166c26,"补整词记录；两个 -dhātu 合为""空識二界""之""界"""
+U31-169,vijñāna,n. 成分,vijñāna,18.10–11,,識,T29.6c04,对译,識,T29.166c26,
+U31-170,dhātu,n. m. sg. nom.,śadhātur,18.10–11,,界,T29.6c04,合译,界,T29.166c26,"ākāśadhātu 的末成分；两个 -dhātu 合为""空識二界""之""界"""
+U31-204,dhātu,n. m. sg. nom.,nadhātur,18.10–11,,界,T29.6c04,合译,界,T29.166c26,"补末成分记录（vijñānadhātu）；两个 -dhātu 合为""空識二界""之""界"""
 U31-171,dvi,num. m. du. gen.,dvayor,18.10–11,,二,T29.6c04,对译,二,T29.166c26,
 U31-172,an-ukta,ptc. nt. sg. nom.,lakṣaṇamanuktam,18.10–11,,未說,T29.6c04,对译,未說,T29.166c26,
 U31-173,,,,18.10–11,,其,T29.6c05,增译,其,T29.166c26,
@@ -4187,13 +4213,13 @@ U32-047,atyartham,ind.,atyarthaṃ,18.18,,極,T29.6c13,对译,最,T29.167a04,
 U32-048,ghāta,n. m. sg. abl.,ghātāt,18.18,,礙,T29.6c13,意译,易變壞,T29.167a04,"ghāta（打击、损坏）玄奘译""礙""，真谛译""易變壞"""
 U32-049,,,,18.18,,能為,T29.6c13,增译,,,"""極能為礙""之""能為"""
 U32-050,,,,18.18,,名阿伽,T29.6c13,增译,,,"玄奘补出""故名阿伽"""
-U32-051,tad,pron. 成分,tatsāmantakam,18.18–19,,此空界色,T29.6c14,意译,光闇,T29.167a04,代词还原为所指（空界色）
+U32-051,tad,pron. nt. sg. nom.,tat,18.18–19,,此空界色,T29.6c14,意译,光闇,T29.167a04,"代词还原为所指（空界色）；GRETIL 连写 tatsāmantakam，tat 为独立主语（""此空界色與彼相隣""，""彼""当 tasya），非复合词成分"
 U32-052,sāmantaka,adj. nt. sg. nom.,sāmantakam,18.18–19,,相隣,T29.6c14,意译,相隣,T29.167a05,
 U32-053,iti,ind.,sāmantakamiti,18.18–19,,是故,T29.6c14,语法,故,T29.167a05,
 U32-054,,,,18.18–19,,說名隣阿伽,T29.6c14,增译,名隣礙色,T29.167a05,复述得名
 U32-055,apara,pron. m. pl. nom.,rūpasyetyapare,18.19,,有,T29.6c15,意译,有餘師,T29.167a05,
 U32-057,agha,n. nt. sg. nom.,aghaṃ ca,18.19,,阿伽,T29.6c15,音译,礙,T29.167a05,
-U32-058,tad,pron. 成分,tadanyasya,18.19,,空界色,T29.6c15,意译,此,T29.167a05,"代词还原为所指（空界色）；""即""为增字"
+U32-058,tad,pron. nt. sg. nom.,tad,18.19,,空界色,T29.6c15,意译,此,T29.167a05,"代词还原为所指（空界色）；""即""为增字；GRETIL 连写 tadanyasya，二译都读作 aghaṃ ca tad（阿伽即空界色／此亦是礙）、anyasya rūpasya（他），tad 为独立代词，非 tad-anya 复合词"
 U32-059,,,,18.19,,即,T29.6c15,增译,亦是,T29.167a05,
 U32-060,anya,pron. nt. sg. gen.,tadanyasya,18.19,,,,省译,他,T29.167a06,"""為他色之礙""未译"
 U32-061,rūpa,n. nt. sg. gen.,tadanyasya rūpasya,18.19,,,,省译,,,同上
@@ -4230,8 +4256,9 @@ U32-095,pratisandhi-citta,cpd. nt. sg. abl.,pratisandhicittād,18.23,,續生心,
 U32-096,pratisandhi,n. 成分,pratisandhi,18.23,,續生,T29.6c19,对译,託生,T29.167a08,
 U32-097,citta,n. nt. sg. abl.,cittād,18.23,,心,T29.6c19,对译,心,T29.167a08,
 U32-098,abl.,gram. abl. (-āt),cittād,18.23,,從,T29.6c19,语法,從,T29.167a08,第五格表起点
-U32-100,cyuti-citta,cpd. 成分,cyuticitta,18.23,,命終心,T29.6c19,对译,死墮心,T29.167a09,待核：GRETIL 连写 cyuticittasādhāraṇabhūtāḥ，cyuticitta 是复合词成分还是当读 cyuticittam
+U32-100,cyuti-citta,cpd. nt. sg. acc. (?),cyuticitta,18.23,,命終心,T29.6c19,对译,死墮心,T29.167a09,"待核：GRETIL 连写 cyuticittasādhāraṇabhūtāḥ，今按 cyuticittaṃ sādhāraṇabhūtāḥ 读（yāvat 带第二格，与 pratisandhicittād 相对；二译""至命終心""""乃至死墮心""同此读），cyuticitta 作独立复合词，格为推定"
 U32-101,cyuti,n. 成分,cyuti,18.23,,命終,T29.6c19,对译,死墮,T29.167a09,
+U32-136,citta,n. nt. sg. acc. (?),ticitta,18.23,,心,T29.6c19,对译,心,T29.167a09,补末成分记录：按 cyuticittaṃ 读（见 U32-100），格为推定
 U32-102,sādhāraṇa-bhūta,cpd. adj. m. pl. nom.,sādhāraṇabhūtāḥ,18.23,,恒持,T29.6c19,意译,所依止,T29.167a09,sādhāraṇabhūta（为…共同依持者）
 U32-103,janman,n. nt. sg. gen.,janmanaḥ,18.23,,生,T29.6c19,对译,生,T29.167a09,
 U32-104,an-āsrava,adj. m. pl. nom.,anāsravāstu,18.23–24,,無漏,T29.6c20,对译,無流,T29.167a09,
@@ -4526,7 +4553,8 @@ U33-279,vac,ptc. m. pl. nom.,uktāḥ,20.3,,說,T29.7b14,对译,說,T29.167b15,
 U33-281,,,,20.3,,如是,T29.7b14,增译,,,
 U33-282,sa-pratigha,adj. m. pl. nom.,sapratighā,20.3,,有對,T29.7b14,对译,有礙,T29.167b15,
 U33-283,a-pratigha,adj. m. pl. nom.,apratighāśca,20.3,,無對,T29.7b14,对译,,,
-U33-284,aṣṭādaśan,num. 成分,aṣṭādaśadhātūnāṃ,20.4,,十八,T29.7a07,合译,十八,T29.167b15,"玄奘把 S0529、S0532、S0570 三问并在卷二开头，共用""於前所說十八界中"""
+U33-396,aṣṭādaśa-dhātu,cpd. m. pl. gen.,aṣṭādaśadhātūnāṃ,20.4,,十八界,T29.7a07,合译,十八界,T29.167b15,"补整词记录；玄奘把 S0529、S0532、S0570 三问并在卷二开头，共用""於前所說十八界中"""
+U33-284,aṣṭādaśan,num. 成分,aṣṭādaśa,20.4,,十八,T29.7a07,合译,十八,T29.167b15,"玄奘把 S0529、S0532、S0570 三问并在卷二开头，共用""於前所說十八界中"""
 U33-285,dhātu,n. m. pl. gen.,dhātūnāṃ,20.4,,界,T29.7a07,合译,界,T29.167b15,同上
 U33-286,kuśala,adj. m. pl. nom.,kuśalāḥ,20.4,,善,T29.7a08,对译,善,T29.167b15,
 U33-287,a-kuśala,adj. m. pl. nom.,katyakuśalāḥ,20.4,,不善,T29.7a08,对译,惡,T29.167b15,
@@ -4627,7 +4655,8 @@ U33-381,vac,ptc. m. sg. nom.,uktaḥ,20.15,,說,T29.7b23,对译,說,T29.167b26,
 U33-383,kuśala-ādi-bhāva,cpd. m. sg. nom.,kuśalādibhāvaḥ,20.15,,善等,T29.7b23,意译,善…等性,T29.167b26,bhāva 未译
 U33-384,kuśala,adj. 成分,kuśalā,20.15,,善,T29.7b23,对译,善,T29.167b26,
 U33-385,ādi,n. 成分,ādibhāvaḥ,20.15,,等,T29.7b23,对译,等,T29.167b27,
-U33-386,aṣṭādaśan,num. 成分,aṣṭādaśadhātūnāṃ,20.16,,十八,T29.7b23,对译,十八,T29.167b27,
+U33-397,aṣṭādaśa-dhātu,cpd. m. pl. gen.,aṣṭādaśadhātūnāṃ,20.16,,十八界,T29.7b23,对译,十八界,T29.167b27,补整词记录
+U33-386,aṣṭādaśan,num. 成分,aṣṭādaśa,20.16,,十八,T29.7b23,对译,十八,T29.167b27,
 U33-387,dhātu,n. m. pl. gen.,dhātūnāṃ,20.16,,界,T29.7b24,对译,界,T29.167b27,
 U33-389,kāma-dhātu-āpta,cpd. m. pl. nom.,kāmadhātvāptāḥ,20.16,,欲界繫,T29.7b24,对译,於欲界相應,T29.167b27,
 U33-390,kāma-dhātu,cpd. 成分,kāmadhātvā,20.16,,欲界,T29.7b24,对译,欲界,T29.167b27,
@@ -4812,7 +4841,8 @@ U34-202,puruṣa-indriya,cpd. 成分,puruṣendriyā,21.7,,男根,T29.7c12,对�
 U34-203,adhiṣṭhāna,n. 成分,ādhiṣṭhānavat,21.7,,依處,T29.7c13,对译,依止,T29.167c18,
 U34-205,yukta,ptc. adj. m. sg. nom.,yuktas,21.7–8,,可,T29.7c13,意译,可然,T29.167c18,
 U34-206,,,,21.7–8,,於彼,T29.7c13,增译,於彼,T29.167c18,
-U34-207,tad,pron. 成分,tadasaṃbhavo,21.7–8,,男根依處,T29.7c13,意译,此,T29.167c18,代词还原为所指（puruṣendriyādhiṣṭhāna）
+U34-417,tad-a-saṃbhava,cpd. m. sg. nom.,tadasaṃbhavo,21.7–8,,無男根依處,T29.7c13,意译,此不生,T29.167c18,"补整词记录；tad 还原为所指""男根依處"""
+U34-207,tad,pron. 成分,tad,21.7–8,,男根依處,T29.7c13,意译,此,T29.167c18,代词还原为所指（puruṣendriyādhiṣṭhāna）
 U34-208,a-saṃbhava,n. m. sg. nom.,asaṃbhavo,21.7–8,,無,T29.7c13,对译,不生,T29.167c18,
 U34-209,niṣ-prayojana-tva,cpd. nt. sg. abl.,niṣprayojanatvāt,21.7–8,,無用,T29.7c14,对译,無用,T29.167c18,
 U34-210,,,,21.7–8,,彼,T29.7c14,增译,,,"""彼無用故"""
@@ -5486,12 +5516,12 @@ U39-070,tad,pron. nt. sg. nom.,tacca,24.1–2,,彼說,T29.8c08,意译,此執,T29
 U39-072,evam,ind.,naivaṃ,24.1–2,,然,T29.8c09,语法,然,T29.168c02,
 U39-073,,,,24.1–2,,唯,T29.8c09,增译,,,"""契經唯說"""
 U39-074,sūtra,n. nt. sg. loc.,sūtre,24.1–2,,契經,T29.8c09,对译,經中,T29.168c02,
-U39-075,khakkhaṭa-ādi-lakṣaṇa-avadhāraṇa,cpd. nt. sg. abl.,khakkhaṭādilakṣaṇāvadhāraṇāt,24.1–2,,說堅等…相,T29.8c09,意译,決了說…堅等四相,T29.168c02,"第五格译""故"""
+U39-075,catuṣṭva-khakkhaṭa-ādi-lakṣaṇa-avadhāraṇa,cpd. nt. sg. abl.,catuṣṭva khakkhaṭādilakṣaṇāvadhāraṇāt,24.1–2,,說堅等四相,T29.8c09,意译,決了說四大及堅等四相,T29.168c02,"第五格译""故""；GRETIL 分写 catuṣṭva khakkhaṭādi-，据两汉译连读为一复合词（玄奘""說堅等四相""，真谛""決了說四大及堅等四相""）"
 U39-076,khakkhaṭa,adj. n. 成分,khakkhaṭā,24.1–2,,堅,T29.8c09,对译,堅,T29.168c03,
 U39-077,ādi,n. 成分,khakkhaṭādi,24.1–2,,等,T29.8c09,对译,等,T29.168c03,
 U39-078,lakṣaṇa,n. 成分,lakṣaṇā,24.1–2,,相,T29.8c09,对译,相,T29.168c03,
 U39-079,avadhāraṇa,n. nt. sg. abl.,āvadhāraṇāt,24.1–2,,說,T29.8c09,意译,決了說,T29.168c02,"avadhāraṇa（确定、决定）译""說""，""唯""或亦承此义"
-U39-080,catuṣṭva,n. 成分,catuṣṭva,24.1–2,,四,T29.8c09,意译,四,T29.168c03,GRETIL 本作 catuṣṭva（缺词尾）
+U39-080,catuṣṭva,n. 成分,catuṣṭva,24.1–2,,四,T29.8c09,意译,四,T29.168c03,GRETIL 分写 catuṣṭva khakkhaṭādi-，与下连读为一复合词，见 U39-075
 U39-081,bhūta,n. nt. pl. gen.,bhūtānāṃ,24.1–2,,大種,T29.8c09,对译,四大,T29.168c02,
 U39-082,,,,24.1–2,,為,T29.8c09,增译,,,"""為大種故"""
 U39-083,tad,pron. nt. pl. gen.,teṣāṃ,24.2,,此四大種,T29.8c09,意译,此四大,T29.168c03,代词还原为所指
@@ -5644,9 +5674,10 @@ U39-238,dharma,n. m. sg. nom.,dharmaś,24.13–14,,法,T29.8c25,对译,法,T29.1
 U39-239,citta-niśrita,cpd. adj. m. sg. nom.,cittaniśrita,24.13–14,,依止心,T29.8c25,对译,依心,T29.168c19,玄奘倒序
 U39-240,niśrita,ptc. m. sg. nom.,niśrita,24.13–14,,依止,T29.8c25,对译,依,T29.168c19,
 U39-241,citta-anvaya,cpd. m. sg. abl.,cittānvayāc,24.13–14,,,,省译,,,"cittānvaya（随心转）未译，玄奘只作""依止心"""
+U39-293,sa-rāga-citta-ādi-vacana,cpd. nt. sg. abl.,sarāgacittādi vacanāc,24.13–14,,說有貪心等,T29.8c25,对译,說心與欲相應,T29.168c20,补整词记录；GRETIL 分写 sarāgacittādi vacanācca，当读 sarāgacittādivacanāc ca
 U39-242,sa-rāga-citta-ādi,cpd. 成分,sarāgacittādi,24.13–14,,有貪心等,T29.8c25,对译,心與欲相應,T29.168c20,
 U39-243,sa-rāga,adj. 成分,sarāga,24.13–14,,有貪,T29.8c25,对译,與欲相應,T29.168c20,
-U39-244,vacana,n. nt. sg. abl.,vacanācca,24.13–14,,說,T29.8c25,对译,說,T29.168c20,
+U39-244,vacana,n. nt. sg. abl.,vacanāc,24.13–14,,說,T29.8c25,对译,說,T29.168c20,
 U39-245,ca,ind.,vacanācca,24.13–14,,又亦,T29.8c25,语法,,,
 U39-246,tasmāt,ind.,tasmāc,24.15,,由此,T29.8c25,语法,是故,T29.168c20,GRETIL 本作 tasmācyathoktaṃ，当读 tasmād yathoktaṃ
 U39-247,yathā-ukta,cpd. adj. nt. sg. nom.,yathoktaṃ,24.15,,如…所說,T29.8c26,意译,如前說,T29.168c20,"""前""为补出"
@@ -5698,6 +5729,7 @@ U40-001,chid,v. pres. 3sg.,chinatti,24.22,1.36,斫,T29.9a03,对译,斫,T29.169a0
 U40-002,chid,v. pres. pass. 3sg.,cchidyate,24.22,1.36,斫,T29.9a03,对译,斫,T29.169a09,"""所""表被动（-ya-）"
 U40-003,,,,24.22,1.36,謂,T29.9a03,增译,,,
 U40-004,bāhya,adj. nt. sg. nom.,bāhyaṃ,24.22,1.36,外,T29.9a03,对译,外,T29.169a09,
+U40-128,dhātu-catuṣṭaya,cpd. nt. sg. nom.,dhātue catuṣṭayam,24.22,1.36,四界,T29.9a03,对译,四界,T29.169a09,补整词记录；GRETIL 本作 dhātue catuṣṭayam，当读 dhātucatuṣṭayam
 U40-005,dhātu,n. 成分,dhātue,24.22,1.36,界,T29.9a03,对译,界,T29.169a09,GRETIL 本作 dhātue catuṣṭayam，当读 dhātucatuṣṭayam
 U40-006,catuṣṭaya,n. nt. sg. nom.,catuṣṭayam,24.22,1.36,四,T29.9a03,对译,四,T29.169a09,
 U40-007,rūpa-gandha-rasa-spraṣṭavya-ākhya,cpd. adj. nt. sg. nom.,rūpagandharasaspraṣṭavyākhyaṃ,24.23,,色香味觸,T29.9a05,对译,色香味觸,T29.169a09,ākhya（名为…）未译
@@ -6050,8 +6082,9 @@ U41-275,pāṭha-krama,cpd. m. sg. instr.,pāṭhakrameṇa,26.8,,於六三中�
 U41-277,paścima,adj. m. pl. nom.,paścimāḥ,26.8,,後,T29.9b20,对译,後,T29.169b20,"""名為""""三""为增字"
 U41-278,tad,pron. m. pl. nom.,te,26.8–9,,此三界,T29.9b20,意译,此三,T29.169b21,"代词补出所指""三界"""
 U41-279,,,,26.8–9,,唯,T29.9b20,增译,,,
+U41-333,prathama-an-āsrava,cpd. adj. m. sg. loc.,prathamānāsrave,26.8–9,,初無漏,T29.9b21,对译,初無流,T29.169b21,补整词记录；修饰 kalāpe
 U41-280,prathama,adj. 成分,prathamā,26.8–9,,初,T29.9b21,对译,初,T29.169b21,
-U41-281,an-āsrava,adj. 成分,ānāsrave,26.8–9,,無漏,T29.9b21,对译,無流,T29.169b21,
+U41-281,an-āsrava,adj. m. sg. loc.,ānāsrave,26.8–9,,無漏,T29.9b21,对译,無流,T29.169b21,
 U41-282,duḥkha,n. nt. sg. loc.,duḥkhe,26.8–9,,苦,T29.9b21,对译,苦,T29.169b21,
 U41-283,dharma-jñāna-kṣānti-kalāpa,cpd. m. sg. loc.,dharmajñānakṣāntikalāpe,26.8–9,,法忍品,T29.9b21,对译,法忍,T29.169b21,
 U41-284,dharma-jñāna-kṣānti,cpd. 成分,dharmajñānakṣānti,26.8–9,,法忍,T29.9b21,意译,法忍,T29.169b21,"法智忍略作""法忍"""
@@ -6745,7 +6778,7 @@ U45-115,pañca-indriya-ja,cpd. adj. nt. sg. nom.,pañcendriyajaṃ,29.11–12,,�
 U45-115+1,,,,29.11–12,,眼等,T29.10b28,增译,,,合并时从 U45-115（從眼等五根生）拆出
 U45-116,pañcan,num. 成分,pañce,29.11–12,,五,T29.10b28,对译,五,T29.170b25,
 U45-117,indriya,n. 成分,endriya,29.11–12,,根,T29.10b28,对译,根,T29.170b25,
-U45-118,ja,adj. 成分 (√jan),jaṃ ca,29.11–12,,生,T29.10b28,对译,生,T29.170b25,
+U45-118,ja,adj. nt. sg. nom. (√jan),jaṃ,29.11–12,,生,T29.10b28,对译,生,T29.170b25,
 U45-119,,,,29.11–12,,即五識等,T29.10b28,增译,,,玄奘补出所指
 U45-120,tad,pron. nt. sg. nom.,yattadapi,29.11–12,,前,T29.10b29,意译,此法,T29.170b25,"""前""总指上文异生性、非六生等，与 S0871 之色合说""前及此色"""
 U45-121,api,ind.,tadapi,29.11–12,,及,T29.10b29,语法,亦,T29.170b25,"tad api（彼亦）与""此色""合说为""前及此色"""
@@ -6821,7 +6854,8 @@ U46-071,a-śaikṣa,n. m. sg. gen.,aśaikṣasya,29.20–21,,無學,T29.10c13,�
 U46-072,gen.,gram. gen. (-sya),aśaikṣasya,29.20–21,,身中,T29.10c14,语法,,,
 U46-073,,,,29.20–21,,諸無漏見,T29.10c14,增译,,,梵文 aśaikṣasya aśaikṣī 承上省略 anāsravā dṛṣṭiḥ，玄奘补足
 U46-074,-vat,gram. suffix,darśanavat,29.21–22,,譬如…如是,T29.10c14,语法,如,T29.170c03,"比况后缀 -vat，玄奘作""譬如…如是…"""
-U46-075,samegha-amegha,cpd. 成分,sameghāmegha,29.21–22,,有雲無雲,T29.10c14,对译,有雲無雲,T29.170c03,
+U46-596,sa-megha-a-megha-rātrindiva-rūpa-darśana,cpd. 成分 (-vat),sameghāmegharatrindivarūpadarśanavat,29.21–22,,夜分晝分有雲無雲…覩…色像,T29.10c14,对译,有雲無雲夜晝見色,T29.170c03,"补整词记录；-vat 另记（U46-074），""眾""为增字（U46-080）"
+U46-075,sa-megha-a-megha,cpd. 成分,sameghāmegha,29.21–22,,有雲無雲,T29.10c14,对译,有雲無雲,T29.170c03,
 U46-076,sa-megha,adj. 成分,sameghā,29.21–22,,有雲,T29.10c14,对译,有雲,T29.170c03,
 U46-077,a-megha,adj. 成分,āmegha,29.21–22,,無雲,T29.10c14,对译,無雲,T29.170c03,
 U46-078,rātrindiva,n. 成分,ratrindiva,29.21–22,,夜分晝分,T29.10c14,对译,夜晝,T29.170c03,GRETIL 本作 ratrindiva，当读 rātrindiva
@@ -6829,6 +6863,7 @@ U46-079,rūpa,n. 成分,rūpa,29.21–22,,色像,T29.10c15,对译,色,T29.170c04
 U46-080,,,,29.21–22,,眾,T29.10c15,增译,,,
 U46-081,darśana,n. 成分 (-vat),darśanavat,29.21–22,,覩,T29.10c14,对译,見,T29.170c03,
 U46-082,,,,29.21–22,,明昧有異,T29.10c15,增译,,,"玄奘补出譬喻之义""明昧有異"""
+U46-597,kliṣṭa-a-kliṣṭa-laukika-śaikṣa-a-śaikṣa,cpd. adj. f. pl. instr. (dvandva),kliṣṭākliṣṭalaukikīśaikṣyaśaikṣībhir,29.21–22,,世間…有染無染…學無學,T29.10c15,对译,有染污無染污世間、有學、無學,T29.170c04,"补整词记录；修饰 dṛṣṭibhir，玄奘分作""世間諸見有染無染""与""學無學見""两处"
 U46-083,kliṣṭa-a-kliṣṭa,cpd. 成分,kliṣṭākliṣṭa,29.21–22,,有染無染,T29.10c15,对译,有染污無染污,T29.170c04,
 U46-084,kliṣṭa,ptc. adj. 成分,kliṣṭā,29.21–22,,染,T29.10c15,对译,染污,T29.170c04,
 U46-085,a-kliṣṭa,adj. 成分,ākliṣṭa,29.21–22,,無染,T29.10c15,对译,無染污,T29.170c04,
@@ -7160,7 +7195,8 @@ U46-470,cakṣus,n. nt. sg. nom.,cakṣur,31.7–8,,眼根,T29.11a25,对译,眼,
 U46-471,vi-jñā,v. pres. 3sg.,vijānātīti,31.7–8,,識,T29.11a25,对译,識,T29.171a15,"""能識""，""名""为增字"
 U46-472,pra-āp,v. pres. 3sg.,prāpnoti,31.7–8,,應,T29.11a25,意译,義至應言,T29.171a15,"prāpnoti（可推得）玄奘作""應"""
 U46-473,pra-āp,v. pres. 3sg.,prāpnoti,31.8,,如是失,T29.11a25,意译,至,T29.171a16,"na prāpnoti（推不出）玄奘作""無如是失"""
-U46-474,tad,pron. 成分,tadvijñānaṃ,31.8–9,,眼,T29.11a26,意译,此,T29.171a16,代词还原为所指（眼識）
+U46-598,tad-vijñāna,cpd. nt. sg. nom.,tadvijñānaṃ,31.8–9,,眼識,T29.11a26,意译,此眼識,T29.171a16,"补整词记录；tad 还原为所指""眼"""
+U46-474,tad,pron. 成分,tad,31.8–9,,眼,T29.11a26,意译,此,T29.171a16,代词还原为所指（眼識）
 U46-475,vijñāna,n. nt. sg. nom.,vijñānaṃ,31.8–9,,識,T29.11a26,对译,識,T29.171a16,
 U46-476,darśana,n. nt. sg. nom.,darśanam,31.8–9,,見,T29.11a26,对译,見,T29.171a16,"""是""为增字"
 U46-477,rūḍha,ptc. nt. sg. nom.,ruḍhaṃ,31.8–9,,同許,T29.11a26,意译,成立,T29.171a16,GRETIL 本作 ruḍhaṃ
@@ -7174,8 +7210,9 @@ U46-485,vac,v. pres. pass. 3sg.,ucyate,31.9,,說,T29.11a26,对译,說,T29.171a17
 U46-486,vi-jñā,ptc. nt. sg. nom.,vijñātam,31.9,,識,T29.11a27,对译,所識,T29.171a17,
 U46-487,vibhāṣā,n. f. sg. loc.,vibhāṣāyām,31.9–10,,毘婆沙,T29.11a27,音译,毘婆沙,T29.171a18,
 U46-489,vac,ptc. nt. sg. nom.,uktaṃ,31.9–10,,說,T29.11a27,对译,說,T29.171a18,"""作是""为增字"
-U46-490,cakṣus,n. 成分 (?),"""cakṣuḥ",31.9–10,,眼,T29.11a27,对译,眼,T29.171a18,"""若""为增字"
-U46-491,saṃ-prāpta,ptc. nt. sg. nom.,saṃpraptaṃ,31.9–10,,所得,T29.11a28,对译,所至,T29.171a18,GRETIL 本作 saṃpraptaṃ
+U46-599,cakṣus-saṃprāpta,cpd. nt. sg. nom.,cakṣuḥ saṃpraptaṃ,31.9–10,,眼所得,T29.11a27,对译,眼所至,T29.171a18,补整词记录；GRETIL 分写 cakṣuḥ saṃpraptaṃ，当读 cakṣuḥsaṃprāptaṃ，与下 cakṣurvijñānānubhūtaṃ 并列
+U46-490,cakṣus,n. 成分,cakṣuḥ,31.9–10,,眼,T29.11a27,对译,眼,T29.171a18,"""若""为增字"
+U46-491,saṃprāpta,ptc. nt. sg. nom.,saṃpraptaṃ,31.9–10,,所得,T29.11a28,对译,所至,T29.171a18,GRETIL 本作 saṃpraptaṃ
 U46-492,cakṣus-vijñāna-anubhūta,cpd. nt. sg. nom.,cakṣurvijñānānubhūtaṃ,31.9–10,,眼識所受,T29.11a28,对译,眼識所受,T29.171a18,
 U46-493,cakṣus-vijñāna,cpd. 成分,cakṣurvijñānā,31.9–10,,眼識,T29.11a28,对译,眼識,T29.171a18,
 U46-494,anubhūta,ptc. nt. sg. nom.,ānubhūtaṃ,31.9–10,,所受,T29.11a28,对译,所受,T29.171a18,
@@ -7397,11 +7434,12 @@ U48-060,prāpta,ptc. m. sg. nom.,prāpto,32.6–7,,至,T29.11b27,对译,至,T29.
 U48-061,viṣaya,n. m. sg. nom.,viṣayo,32.6–7,,境,T29.11b27,对译,塵,T29.171b12,
 U48-062,na tu,ind.,na tu,32.6–7,,然,T29.11b27,语法,不,T29.171b12,"""然不能取一切""，""不""与 S0965 agrahaṇa 的 a- 合用"
 U48-063,sarva,adj. m. sg. nom.,sarvaḥ,32.6–7,,一切,T29.11b27,对译,一切,T29.171b13,
+U48-311,saha-bhū-gandha-ādi-a-grahaṇa,cpd. nt. sg. abl.,sahabhūgandhādyagrahaṇāt,?,,不…取…俱有香等,T29.11b27,对译,不能取香等共有,T29.171b13,"补整词记录；""能""""與根""为增字；第五格未译"
 U48-064,saha-bhū-gandha-ādi,cpd. 成分,sahabhūgandhādy,?,,俱有香等,T29.11b28,意译,香等共有,T29.171b13,"""與根""为增字"
 U48-064+1,,,,?,,與根,T29.11b27,增译,,,合并时从 U48-064（與根俱有香等）拆出
 U48-065,saha-bhū,adj. 成分,sahabhū,?,,俱有,T29.11b28,对译,共有,T29.171b13,
-U48-066,gandha,n. 成分,gandhādy,?,,香,T29.11b28,对译,香,T29.171b13,
-U48-067,ādi,n. 成分,ādyagrahaṇāt,?,,等,T29.11b28,对译,等,T29.171b13,
+U48-066,gandha,n. 成分,gandhā,?,,香,T29.11b28,对译,香,T29.171b13,
+U48-067,ādi,n. 成分,ādy,?,,等,T29.11b28,对译,等,T29.171b13,
 U48-068,a-grahaṇa,n. nt. sg. abl.,agrahaṇāt,?,,不…取,T29.11b27,对译,不能取,T29.171b13,"""能""为增字；第五格未译"
 U48-068+1,,,,?,,能,T29.11b27,增译,,,合并时从 U48-068（不能取）拆出
 U48-069,cakṣus,n. nt. sg. gen.,cakṣuṣo,32.7,,眼根,T29.11b28,对译,眼,T29.171b13,

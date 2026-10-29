@@ -69,8 +69,9 @@ U30-071	S0494	moha	moha	n. 成分			省译	0166c08	癡	以"等"概括
 U30-072	S0494	mānā	māna	n. 成分			省译	0166c08	慢	以"等"概括
 U30-073	S0494	mānādi	ādi	n. 成分	0006b13	等	对译	0166c08	等	
 U30-074	S0494	aśītiś	aśīti	num. f. sg. nom.	0006b13	八萬	合译	0166c08	八萬	aśītiḥ … sahasrāṇi（八十千）合为"八萬"
-U30-075	S0494	caritasahasraṇi	carita	n. 成分	0006b13	行	对译	0166c08	行類	
-U30-076	S0494	caritasahasraṇi	sahasra	num. nt. pl. nom.	0006b13	八萬	合译	0166c08	八萬	与 aśīti 合为"八萬"；GRETIL 本作 sahasraṇi，当读 sahasrāṇi
+U30-099	S0494	caritasahasraṇi	carita-sahasra	cpd. nt. pl. nom.	0006b13	八萬行	合译	0166c08	八萬…行類	补整词记录；sahasra 与 aśīti 合为"八萬"；GRETIL 本作 sahasraṇi，当读 sahasrāṇi
+U30-075	S0494	carita	carita	n. 成分	0006b13	行	对译	0166c08	行類	
+U30-076	S0494	sahasraṇi	sahasra	num. nt. pl. nom.	0006b13	八萬	合译	0166c08	八萬	与 aśīti 合为"八萬"；GRETIL 本作 sahasraṇi，当读 sahasrāṇi
 U30-077	S0494	caritabhedena	carita	n. 成分			省译			与前一 carita 合用"行"
 U30-078	S0494	bhedena	bheda	n. m. sg. instr.	0006b13	別	对译	0166c08	差別	
 U30-079	S0495	teṣāṃ	tad	pron. nt. pl. gen.	0006b13	彼八萬行	意译	0166c09	此行	代词还原为所指（八萬行）
@@ -78,14 +79,16 @@ U30-080	S0495	pratipakṣeṇa	pratipakṣa	n. m. sg. instr.	0006b13	對治	对�
 U30-081	S0495	pratipakṣeṇa	instr.	gram. instr. (-ena)	0006b13	為…故	语法	0166c09	為	第三格表目的
 U30-082	S0495	bhagavatā	bhagavat	n. m. sg. instr.	0006b14	世尊	对译	0166c09	世尊	
 U30-083	S0495	'śītir	aśīti	num. f. sg. nom.	0006b14	八萬	合译	0166c09	八萬	
-U30-084	S0495	dharmaskandhasahasrāṇy	dharma-skandha	cpd. 成分	0006b14	法蘊	对译	0166c09	法陰	
+U30-100	S0495	dharmaskandhasahasrāṇy	dharma-skandha-sahasra	cpd. nt. pl. nom.	0006b14	八萬法蘊	合译	0166c09	八萬法陰	补整词记录；sahasra 与 aśīti 合为"八萬"
+U30-084	S0495	dharmaskandha	dharma-skandha	cpd. 成分	0006b14	法蘊	对译	0166c09	法陰	
 U30-085	S0495	sahasrāṇy	sahasra	num. nt. pl. nom.	0006b14	八萬	合译	0166c09	八萬	
 U30-086	S0495	uktāni	vac	ptc. nt. pl. nom.	0006b14	宣說	对译	0166c09	正說	
 U30-088	S0496	yathaitāny	etad	pron. nt. pl. nom.	0006b14	彼	语法			
 U30-089	S0496				0006b14	所說	增译			"如彼所說"之"所說"
 U30-090	S0496	tānyaśītir	aśīti	num. f. sg. nom.	0006b14	八萬	合译	0166c09	八萬	
-U30-091	S0496	rdharmaskandhasahasrāṇy	dharma-skandha	cpd. 成分	0006b14	法蘊	对译	0166c09	法陰	
-U30-092	S0496	sahasrāṇyeṣveva	sahasra	num. nt. pl. nom.	0006b14	八萬	合译	0166c09	八萬	
+U30-101	S0496	dharmaskandhasahasrāṇy	dharma-skandha-sahasra	cpd. nt. pl. nom.	0006b14	八萬法蘊	合译	0166c09	八萬法陰	补整词记录；sahasra 与 aśīti 合为"八萬"
+U30-091	S0496	dharmaskandha	dharma-skandha	cpd. 成分	0006b14	法蘊	对译	0166c09	法陰	
+U30-092	S0496	sahasrāṇy	sahasra	num. nt. pl. nom.	0006b14	八萬	合译	0166c09	八萬	
 U30-093	S0496	eṣveva	eva	ind.	0006b14	皆	语法			
 U30-094	S0496	pañcaskandheṣu	pañca-skandha	cpd. m. pl. loc.	0006b15	五	意译	0166c10	五陰	"蘊"承下省
 U30-096	S0496				0006b15	二蘊	增译	0166c10	色行二陰	玄奘、真谛都补出"二蘊"（真谛具体作"色行"）

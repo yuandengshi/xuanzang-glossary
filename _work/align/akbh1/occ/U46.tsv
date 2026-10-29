@@ -65,7 +65,8 @@ U46-071	S0882	aśaikṣasya	a-śaikṣa	n. m. sg. gen.	0010c13	無學	对译
 U46-072	S0882	aśaikṣasya	gen.	gram. gen. (-sya)	0010c14	身中	语法			
 U46-073	S0882				0010c14	諸無漏見	增译			梵文 aśaikṣasya aśaikṣī 承上省略 anāsravā dṛṣṭiḥ，玄奘补足
 U46-074	S0883	darśanavat	-vat	gram. suffix	0010c14	譬如…如是	语法	0170c03	如	比况后缀 -vat，玄奘作"譬如…如是…"
-U46-075	S0883	sameghāmegha	samegha-amegha	cpd. 成分	0010c14	有雲無雲	对译	0170c03	有雲無雲	
+U46-596	S0883	sameghāmegharatrindivarūpadarśanavat	sa-megha-a-megha-rātrindiva-rūpa-darśana	cpd. 成分 (-vat)	0010c14	夜分晝分有雲無雲…覩…色像	对译	0170c03	有雲無雲夜晝見色	补整词记录；-vat 另记（U46-074），"眾"为增字（U46-080）
+U46-075	S0883	sameghāmegha	sa-megha-a-megha	cpd. 成分	0010c14	有雲無雲	对译	0170c03	有雲無雲	
 U46-076	S0883	sameghā	sa-megha	adj. 成分	0010c14	有雲	对译	0170c03	有雲	
 U46-077	S0883	āmegha	a-megha	adj. 成分	0010c14	無雲	对译	0170c03	無雲	
 U46-078	S0883	ratrindiva	rātrindiva	n. 成分	0010c14	夜分晝分	对译	0170c03	夜晝	GRETIL 本作 ratrindiva，当读 rātrindiva
@@ -73,6 +74,7 @@ U46-079	S0883	rūpa	rūpa	n. 成分	0010c15	色像	对译	0170c04	色	"眾"为�
 U46-080	S0883				0010c15	眾	增译			
 U46-081	S0883	darśanavat	darśana	n. 成分 (-vat)	0010c14	覩	对译	0170c03	見	
 U46-082	S0883				0010c15	明昧有異	增译			玄奘补出譬喻之义"明昧有異"
+U46-597	S0883	kliṣṭākliṣṭalaukikīśaikṣyaśaikṣībhir	kliṣṭa-a-kliṣṭa-laukika-śaikṣa-a-śaikṣa	cpd. adj. f. pl. instr. (dvandva)	0010c15	世間…有染無染…學無學	对译	0170c04	有染污無染污世間、有學、無學	补整词记录；修饰 dṛṣṭibhir，玄奘分作"世間諸見有染無染"与"學無學見"两处
 U46-083	S0883	kliṣṭākliṣṭa	kliṣṭa-a-kliṣṭa	cpd. 成分	0010c15	有染無染	对译	0170c04	有染污無染污	
 U46-084	S0883	kliṣṭā	kliṣṭa	ptc. adj. 成分	0010c15	染	对译	0170c04	染污	
 U46-085	S0883	ākliṣṭa	a-kliṣṭa	adj. 成分	0010c15	無染	对译	0170c04	無染污	
@@ -404,7 +406,8 @@ U46-470	S0932	cakṣur	cakṣus	n. nt. sg. nom.	0011a25	眼根	对译	0171a15	�
 U46-471	S0932	vijānātīti	vi-jñā	v. pres. 3sg.	0011a25	識	对译	0171a15	識	"能識"，"名"为增字
 U46-472	S0932	prāpnoti	pra-āp	v. pres. 3sg.	0011a25	應	意译	0171a15	義至應言	prāpnoti（可推得）玄奘作"應"
 U46-473	S0933	prāpnoti	pra-āp	v. pres. 3sg.	0011a25	如是失	意译	0171a16	至	na prāpnoti（推不出）玄奘作"無如是失"
-U46-474	S0934	tadvijñānaṃ	tad	pron. 成分	0011a26	眼	意译	0171a16	此	代词还原为所指（眼識）
+U46-598	S0934	tadvijñānaṃ	tad-vijñāna	cpd. nt. sg. nom.	0011a26	眼識	意译	0171a16	此眼識	补整词记录；tad 还原为所指"眼"
+U46-474	S0934	tad	tad	pron. 成分	0011a26	眼	意译	0171a16	此	代词还原为所指（眼識）
 U46-475	S0934	vijñānaṃ	vijñāna	n. nt. sg. nom.	0011a26	識	对译	0171a16	識	
 U46-476	S0934	darśanam	darśana	n. nt. sg. nom.	0011a26	見	对译	0171a16	見	"是"为增字
 U46-477	S0934	ruḍhaṃ	rūḍha	ptc. nt. sg. nom.	0011a26	同許	意译	0171a16	成立	GRETIL 本作 ruḍhaṃ
@@ -418,8 +421,9 @@ U46-485	S0935	ucyate	vac	v. pres. pass. 3sg.	0011a26	說	对译	0171a17	說
 U46-486	S0935	vijñātam	vi-jñā	ptc. nt. sg. nom.	0011a27	識	对译	0171a17	所識	
 U46-487	S0936	vibhāṣāyām	vibhāṣā	n. f. sg. loc.	0011a27	毘婆沙	音译	0171a18	毘婆沙	
 U46-489	S0936	uktaṃ	vac	ptc. nt. sg. nom.	0011a27	說	对译	0171a18	說	"作是"为增字
-U46-490	S0936	"cakṣuḥ	cakṣus	n. 成分 (?)	0011a27	眼	对译	0171a18	眼	"若"为增字
-U46-491	S0936	saṃpraptaṃ	saṃ-prāpta	ptc. nt. sg. nom.	0011a28	所得	对译	0171a18	所至	GRETIL 本作 saṃpraptaṃ
+U46-599	S0936	cakṣuḥ saṃpraptaṃ	cakṣus-saṃprāpta	cpd. nt. sg. nom.	0011a27	眼所得	对译	0171a18	眼所至	补整词记录；GRETIL 分写 cakṣuḥ saṃpraptaṃ，当读 cakṣuḥsaṃprāptaṃ，与下 cakṣurvijñānānubhūtaṃ 并列
+U46-490	S0936	cakṣuḥ	cakṣus	n. 成分	0011a27	眼	对译	0171a18	眼	"若"为增字
+U46-491	S0936	saṃpraptaṃ	saṃprāpta	ptc. nt. sg. nom.	0011a28	所得	对译	0171a18	所至	GRETIL 本作 saṃpraptaṃ
 U46-492	S0936	cakṣurvijñānānubhūtaṃ	cakṣus-vijñāna-anubhūta	cpd. nt. sg. nom.	0011a28	眼識所受	对译	0171a18	眼識所受	
 U46-493	S0936	cakṣurvijñānā	cakṣus-vijñāna	cpd. 成分	0011a28	眼識	对译	0171a18	眼識	
 U46-494	S0936	ānubhūtaṃ	anubhūta	ptc. nt. sg. nom.	0011a28	所受	对译	0171a18	所受	

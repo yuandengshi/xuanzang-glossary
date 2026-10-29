@@ -42,13 +42,13 @@ U25-042	S0424	saṃkhyāṃ gacchet	saṃkhyāṃ gam	v. opt. 3sg. (idiom)	0005b
 U25-043	S0424	āsaṃskṛtaskandha	a-saṃskṛta-skandha	cpd. m. sg. nom.	0005b24	無為蘊	对译	0165c29	無為陰	
 U25-044	S0425				0005b24	又	增译			
 U25-045	S0425	ūpādānaskandhavacanaṃ	upādāna-skandha-vacana	cpd. nt. sg. nom.	0005b25	言取蘊	对译	0166a01	說取陰	
-U25-046	S0425	vacanaṃ saṃkleśa	vacana	n. 成分	0005b25	言	对译	0166a01	說	
+U25-046	S0425	vacanaṃ	vacana	n. nt. sg. nom.	0005b25	言	对译	0166a01	說	
 U25-047	S0425	ūpādānaskandha	upādāna-skandha	cpd. 成分	0005b25	取蘊	对译	0166a01	取陰	
 U25-048	S0425	saṃkleśavastujñāpanārthaṃ	saṃkleśa-vastu-jñāpana-artham	cpd. ind.	0005b25	為顯染依	对译	0166a01	為顯染污依止故	
 U25-049	S0425	saṃkleśavastujñāpanārthaṃ	-artham	gram. purpose	0005b25	為	语法	0166a01	為…故	
 U25-050	S0425	jñāpanā	jñāpana	n. 成分	0005b25	顯	对译	0166a01	顯	
 U25-051	S0425	saṃkleśavastu	saṃkleśa	n. 成分	0005b25	染	对译	0166a01	染污	
-U25-052	S0425	vastujñāpanārthaṃ khalū	vastu	n. 成分	0005b25	依	意译	0166a01	依止	vastu（所依之事）译"依"
+U25-052	S0425	vastu	vastu	n. 成分	0005b25	依	意译	0166a01	依止	vastu（所依之事）译"依"
 U25-053	S0425	saṃkleśavyavadānavastujñāpanārthaṃ	saṃkleśa-vyavadāna-vastu-jñāpana-artham	cpd. ind.	0005b25	染淨…依…所顯	意译	0166a01	為顯染污清淨依止故	"二"为增字
 U25-053+1	S0425				0005b25	二	增译			合并时从 U25-053（染淨二依…所顯）拆出
 U25-054	S0425	vyavadāna	vyavadāna	n. 成分	0005b25	淨	对译	0166a01	清淨	

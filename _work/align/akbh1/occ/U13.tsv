@@ -1,8 +1,8 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
 U13-001	S0234	pṛthivī varṇa	pṛthivī	n. f. sg. nom.	0003b15	地	对译	0164a03	地	
 U13-002	S0234	varṇasaṃsthānam	varṇa-saṃsthāna	cpd. nt. sg. nom.	0003b15	顯形	对译	0164a03	顯形色	
-U13-003	S0234	varṇasaṃsthānam	varṇa	n. 成分	0003b15	顯	对译	0164a03	顯	
-U13-004	S0234	saṃsthānamucyate	saṃsthāna	n. 成分	0003b15	形	对译	0164a03	形	
+U13-003	S0234	varṇa	varṇa	n. 成分	0003b15	顯	对译	0164a03	顯	
+U13-004	S0234	saṃsthānam	saṃsthāna	n. nt. sg. nom.	0003b15	形	对译	0164a03	形	
 U13-005	S0234				0003b15	色	增译	0164a03	色	本颂补"色"（顯形色）
 U13-006	S0234	mucyate	vac	v. pres. pass. 3sg.	0003b15	立名	意译	0164a03	說	ucyate（被称为）译"立名"
 U13-007	S0234	lokasaṃjñayā	loka-saṃjñā	cpd. f. sg. instr.	0003b15	世想	对译	0164a03	世…名想	
@@ -59,8 +59,8 @@ U13-058	S0242	avijñaptiparyanto	avijñapti-paryanta	cpd. m. sg. nom.	0003b22	�
 U13-059	S0242	avijñapti	a-vijñapti	n. 成分	0003b22	無表	对译	0164a09	無教	
 U13-060	S0242	paryanto	paryanta	n. m. sg. nom.	0003b22	為後	意译	0164a09	為後	
 U13-061	S0242	rūpaskandha	rūpa-skandha	cpd. m. sg. nom.	0003b22	蘊…色	意译	0164a09	陰名色	玄奘拆开："此蘊"…"說為色"
-U13-062	S0242	rūpaskandha	rūpa	n. 成分	0003b22	色	对译	0164a09	色	
-U13-063	S0242	skandha ity	skandha	n. 成分	0003b22	蘊	对译	0164a09	陰	
+U13-062	S0242	rūpa	rūpa	n. 成分	0003b22	色	对译	0164a09	色	
+U13-063	S0242	skandha	skandha	n. m. sg. nom.	0003b22	蘊	对译	0164a09	陰	
 U13-064	S0242	ityucyate	vac	v. pres. pass. 3sg.	0003b22	說	对译	0164a09	說	
 U13-065	S0242	raupaṇāt	rūpaṇa	n. nt. sg. abl.	0003b23	變壞	对译	0164a10	變壞	GRETIL 本作 raupaṇāt，当读 rūpaṇāt
 U13-066	S0242	raupaṇāt	abl.	gram. abl. (-āt)	0003b22	由…故	语法	0164a10	故	
@@ -248,12 +248,13 @@ U13-252	S0265	ādi	ādi	n. 成分	0003c14	等	对译	0164b01	等
 U13-253	S0265	varṇa	varṇa	n. 成分	0003c14	顯色	对译	0164b01	顯色	
 U13-254	S0265	paramāṇūnāṃ	paramāṇu	n. m. pl. gen.	0003c14	極微	对译	0164b01	隣虛	
 U13-255	S0265	pratyekaṃ	pratyekam	ind.	0003c14	各	对译	0164b01	各各	
+U13-323	S0265	svabhūtacatuṣkāśritatvābhyupagamāt	sva-bhūta-catuṣka-āśrita-tva-abhyupagama	cpd. m. sg. abl.	0003c13	彼宗…自依止四大種	意译	0164a29	彼…師說…依止自四大	补整词记录
 U13-256	S0265	svabhūtacatuṣkāśritatvā	sva-bhūta-catuṣka-āśrita-tva	cpd. 成分	0003c14	自依止四大種	意译	0164b01	依止自四大	
-U13-257	S0265	svabhūta	sva	pron. 成分	0003c14	自	对译	0164b01	自	
-U13-258	S0265	bhūtacatuṣkā	bhūta	n. 成分	0003c14	大種	意译	0164b01	大	
+U13-257	S0265	sva	sva	pron. 成分	0003c14	自	对译	0164b01	自	
+U13-258	S0265	bhūta	bhūta	n. 成分	0003c14	大種	意译	0164b01	大	
 U13-259	S0265	catuṣkā	catuṣka	n. 成分	0003c14	四	对译	0164b01	四	
 U13-260	S0265	āśrita	ā-śri	ptc. 成分	0003c14	依止	对译	0164b01	依止	
-U13-261	S0265	bhyupagamāt	abhyupagama	n. 成分	0003c13	彼宗	意译	0164a29	彼…師說	abhyupagama（所许、主张）译"彼宗"
+U13-261	S0265	ābhyupagamāt	abhyupagama	n. m. sg. abl.	0003c13	彼宗	意译	0164a29	彼…師說	abhyupagama（所许、主张）译"彼宗"
 U13-262	S0266	satyapi	loc. abs.	gram. loc. abs. (sati)	0003c14	設許	语法	0164b01	若	satyapi（纵然是）译"設許"
 U13-263	S0266	tadāśritatve	tad-āśrita-tva	cpd. nt. sg. loc.	0003c15	依止樹寶	意译	0164b02	依樹寶	
 U13-264	S0266	tadāśritatve	tad	pron. 成分	0003c15	樹寶	意译	0164b02	樹寶	代词还原为所指
@@ -308,8 +309,9 @@ U13-311+1	S0272				0003c20	前	增译			合并时从 U13-311（前所難）拆�
 U13-312	S0272				0003c20	定為	增译			
 U13-313	S0272	ityata	atas	ind.			省译			
 U13-314	S0272	upapannam	upa-pad	ptc. nt. sg. nom.	0003c20	成就	意译	0164b07	應然	upapanna（合理、成立）译"成就"
-U13-315	S0272	āśraya rūpaṇād	āśraya	n. 成分			省译			玄奘只作"變礙名色"
-U13-316	S0272	rūpaṇād	rūpaṇa	n. 成分	0003c20	變礙	对译	0164b07	可…變壞	
+U13-324	S0272	āśraya rūpaṇād	āśraya-rūpaṇa	cpd. nt. sg. abl.	0003c20	變礙	意译	0164b07	可…變壞	补整词记录；GRETIL 分写作 āśraya rūpaṇād；āśraya 未译
+U13-315	S0272	āśraya	āśraya	n. 成分			省译			玄奘只作"變礙名色"
+U13-316	S0272	rūpaṇād	rūpaṇa	n. nt. sg. abl.	0003c20	變礙	对译	0164b07	可…變壞	
 U13-317	S0272	rūpamiti	rūpa	n. nt. sg. nom.	0003c20	色	对译	0164b08	色陰	
 U13-318	S0272				0003c20	理得	增译			
 U13-319	S0273	rūpaskandhasvabhāvā	rūpa-skandha-svabhāva	cpd. m. pl. nom.	0003c23	色蘊性	对译	0164b08	色陰為性	

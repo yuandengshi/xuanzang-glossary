@@ -29,6 +29,7 @@ U01-025	S0002	praṇetu	pra-nī	inf.	0001a10	造	对译	0161c09	造	复合词成
 U01-026	S0002	kāmaḥ	kāma	n. m. sg. nom.	0001a10	欲	对译	0161c09	欲	复合词成分
 U01-027	S0002	svasya	sva	pron. m. sg. gen.	0001a10	自	对译			
 U01-028	S0002	śāstur	śāstṛ	n. m. sg. gen.	0001a10	師	对译	0161c09	大師	
+U01-166	S0002	māhātmyajñāpanārthaṃ	māhātmya-jñāpana-artham	cpd. ind.	0001a10	為顯…其體尊高超諸聖眾	意译	0161c09	令他知…不共功德	补整词记录
 U01-029	S0002	māhātmya	māhātmya	n. 成分	0001a10	其體尊高超諸聖眾	意译	0161c09	不共功德	玄奘铺陈为"其體尊高超諸聖眾"
 U01-030	S0002	jñāpanārthaṃ	jñāpana-artham	cpd. ind.	0001a10	為顯	对译	0161c09	令他知	
 U01-031	S0002	guṇākhyānapūrvakaṃ	guṇa-ākhyāna-pūrvaka	cpd. adj. m. sg. acc.	0001a11	先讚德	意译	0161c10	說眾德為先	
@@ -58,9 +59,10 @@ U01-054	S0005	pratibandhād	abl.	gram. abl. (-āt)	0001a14	故	语法	0161c13	�
 U01-055	S0005	dhakāram	andhakāra	n. nt. sg. nom.	0001a14	冥	对译	0161c13	暝	GRETIL 本作 pratibandhādhakāram，当读 pratibandhād andhakāram
 U01-056	S0006	bhagavato	bhagavat	n. m. sg. gen.	0001a14	世尊	对译	0161c13	世尊	
 U01-056b	S0006	buddhasya	buddha	n. m. sg. gen.	0001a14	佛	对译	0161c13	佛	
+U01-167	S0006	pratipakṣalābhenā	pratipakṣa-lābha	cpd. m. sg. instr.	0001a14	得…對治	对译	0161c14	得…對治	补整词记录；二译都在中间插入 atyantam 的译语（永、究竟通）
 U01-057	S0006	pratipakṣa	pratipakṣa	n. 成分	0001a15	對治	对译	0161c14	對治	
 U01-058	S0006	lābhenā	lābha	n. m. sg. instr.	0001a14	得	对译	0161c14	得	
-U01-059	S0006	lābhenātyantaṃ	atyantam	ind.	0001a15	永	对译	0161c14	究竟	
+U01-059	S0006	ātyantaṃ	atyantam	ind.	0001a15	永	对译	0161c14	究竟	
 U01-060	S0006	sarvathā	sarvathā	ind.	0001a15	一切種	对译	0161c14	一切種	
 U01-061	S0006	sarvatra	sarvatra	ind.	0001a15	於一切	对译	0161c14	於一切	
 U01-062	S0006	jñeye	jñeya	n. nt. sg. loc. (gerundive)	0001a15	境	对译	0161c14	法	

@@ -264,7 +264,8 @@ U33-279	S0569	uktāḥ	vac	ptc. m. pl. nom.	0007b14	說	对译	0167b15	說
 U33-281	S0569				0007b14	如是	增译			
 U33-282	S0569	sapratighā	sa-pratigha	adj. m. pl. nom.	0007b14	有對	对译	0167b15	有礙	
 U33-283	S0569	apratighāśca	a-pratigha	adj. m. pl. nom.	0007b14	無對	对译			
-U33-284	S0570	aṣṭādaśadhātūnāṃ	aṣṭādaśan	num. 成分	0007a07	十八	合译	0167b15	十八	玄奘把 S0529、S0532、S0570 三问并在卷二开头，共用"於前所說十八界中"
+U33-396	S0570	aṣṭādaśadhātūnāṃ	aṣṭādaśa-dhātu	cpd. m. pl. gen.	0007a07	十八界	合译	0167b15	十八界	补整词记录；玄奘把 S0529、S0532、S0570 三问并在卷二开头，共用"於前所說十八界中"
+U33-284	S0570	aṣṭādaśa	aṣṭādaśan	num. 成分	0007a07	十八	合译	0167b15	十八	玄奘把 S0529、S0532、S0570 三问并在卷二开头，共用"於前所說十八界中"
 U33-285	S0570	dhātūnāṃ	dhātu	n. m. pl. gen.	0007a07	界	合译	0167b15	界	同上
 U33-286	S0570	kuśalāḥ	kuśala	adj. m. pl. nom.	0007a08	善	对译	0167b15	善	
 U33-287	S0570	katyakuśalāḥ	a-kuśala	adj. m. pl. nom.	0007a08	不善	对译	0167b15	惡	
@@ -365,7 +366,8 @@ U33-381	S0585	uktaḥ	vac	ptc. m. sg. nom.	0007b23	說	对译	0167b26	說
 U33-383	S0585	kuśalādibhāvaḥ	kuśala-ādi-bhāva	cpd. m. sg. nom.	0007b23	善等	意译	0167b26	善…等性	bhāva 未译
 U33-384	S0585	kuśalā	kuśala	adj. 成分	0007b23	善	对译	0167b26	善	
 U33-385	S0585	ādibhāvaḥ	ādi	n. 成分	0007b23	等	对译	0167b27	等	
-U33-386	S0586	aṣṭādaśadhātūnāṃ	aṣṭādaśan	num. 成分	0007b23	十八	对译	0167b27	十八	
+U33-397	S0586	aṣṭādaśadhātūnāṃ	aṣṭādaśa-dhātu	cpd. m. pl. gen.	0007b23	十八界	对译	0167b27	十八界	补整词记录
+U33-386	S0586	aṣṭādaśa	aṣṭādaśan	num. 成分	0007b23	十八	对译	0167b27	十八	
 U33-387	S0586	dhātūnāṃ	dhātu	n. m. pl. gen.	0007b24	界	对译	0167b27	界	
 U33-389	S0586	kāmadhātvāptāḥ	kāma-dhātu-āpta	cpd. m. pl. nom.	0007b24	欲界繫	对译	0167b27	於欲界相應	
 U33-390	S0586	kāmadhātvā	kāma-dhātu	cpd. 成分	0007b24	欲界	对译	0167b27	欲界	

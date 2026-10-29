@@ -65,11 +65,12 @@ U48-060	S0964	prāpto	prāpta	ptc. m. sg. nom.	0011b27	至	对译	0171b12	至	"�
 U48-061	S0964	viṣayo	viṣaya	n. m. sg. nom.	0011b27	境	对译	0171b12	塵	
 U48-062	S0964	na tu	na tu	ind.	0011b27	然	语法	0171b12	不	"然不能取一切"，"不"与 S0965 agrahaṇa 的 a- 合用
 U48-063	S0964	sarvaḥ	sarva	adj. m. sg. nom.	0011b27	一切	对译	0171b13	一切	
+U48-311	S0965	sahabhūgandhādyagrahaṇāt	saha-bhū-gandha-ādi-a-grahaṇa	cpd. nt. sg. abl.	0011b27	不…取…俱有香等	对译	0171b13	不能取香等共有	补整词记录；"能""與根"为增字；第五格未译
 U48-064	S0965	sahabhūgandhādy	saha-bhū-gandha-ādi	cpd. 成分	0011b28	俱有香等	意译	0171b13	香等共有	"與根"为增字
 U48-064+1	S0965				0011b27	與根	增译			合并时从 U48-064（與根俱有香等）拆出
 U48-065	S0965	sahabhū	saha-bhū	adj. 成分	0011b28	俱有	对译	0171b13	共有	
-U48-066	S0965	gandhādy	gandha	n. 成分	0011b28	香	对译	0171b13	香	
-U48-067	S0965	ādyagrahaṇāt	ādi	n. 成分	0011b28	等	对译	0171b13	等	
+U48-066	S0965	gandhā	gandha	n. 成分	0011b28	香	对译	0171b13	香	
+U48-067	S0965	ādy	ādi	n. 成分	0011b28	等	对译	0171b13	等	
 U48-068	S0965	agrahaṇāt	a-grahaṇa	n. nt. sg. abl.	0011b27	不…取	对译	0171b13	不能取	"能"为增字；第五格未译
 U48-068+1	S0965				0011b27	能	增译			合并时从 U48-068（不能取）拆出
 U48-069	S0966	cakṣuṣo	cakṣus	n. nt. sg. gen.	0011b28	眼根	对译	0171b13	眼	
