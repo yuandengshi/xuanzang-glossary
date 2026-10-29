@@ -336,7 +336,7 @@ U33-440	S0574	gandha	gandha	n. 成分	0007b16	香	对译	0167b17	香	补成分�
 U33-441	S0574	rasa	rasa	n. 成分	0007b16	味	对译	0167b17	味	补成分记录
 U33-442	S0574	spraṣṭavyā	spraṣṭavya	gdv. n. m. pl. nom. (√spṛś)	0007b16	觸	对译	0167b17	觸	补成分记录
 U33-309	S0574	dhātavaśca	dhātu	n. m. pl. nom.	0007b16	境	意译	0167b17	界	dhātu 此处译"境"
-U33-310	S0575	kuśalākuśalabhāvenā	kuśala-akuśala-bhāva	cpd. m. sg. instr.	0007b16	善不善性	对译	0167b18	善惡差別	
+U33-310	S0575	kuśalākuśalabhāvenā	kuśala-a-kuśala-bhāva	cpd. m. sg. instr.	0007b16	善不善性	对译	0167b18	善惡差別	
 U33-311	S0575	kuśalā	kuśala	adj. 成分	0007b16	善	对译	0167b18	善	
 U33-312	S0575	ākuśala	a-kuśala	adj. 成分	0007b16	不善	对译	0167b18	惡	
 U33-313	S0575	bhāvenā	bhāva	n. m. sg. instr.	0007b16	性	对译	0167b18	差別	
@@ -360,7 +360,7 @@ U33-329	S0578	anye daśa	anya	pron. m. pl. nom.	0007b18	其餘	对译	0167b20	�
 U33-330	S0578	daśa dhātavaḥ	daśan	num. pl. nom.	0007b18	十	对译	0167b20	十種	
 U33-331	S0578	dhātavaḥ	dhātu	n. m. pl. nom.	0007b18	界	对译	0167b20	界	
 U33-332	S0578				0007b18	通	增译	0167b21	具	
-U33-333	S0578	kuśalākuśalāvyākṛtāḥ	kuśala-akuśala-avyākṛta	cpd. m. pl. nom.	0007b18	善等三	意译	0167b21	善、惡、無記	
+U33-333	S0578	kuśalākuśalāvyākṛtāḥ	kuśala-a-kuśala-a-vyākṛta	cpd. m. pl. nom.	0007b18	善等三	意译	0167b21	善、惡、無記	
 U33-334	S0578	kuśalā	kuśala	adj. 成分	0007b18	善	对译	0167b21	善	
 U33-443	S0578	ākuśalā	a-kuśala	adj. 成分			省译	0167b21	惡	补成分记录；与 avyākṛta 合用"等"（善等三）；玄奘以"等"概括，此成分不单译，记省译（原作合译）
 U33-444	S0578	āvyākṛtāḥ	a-vyākṛta	ptc. adj. m. pl. nom. (√vi-ā-kṛ)			省译	0167b21	無記	补成分记录；与 akuśala 合用"等"（善等三）；玄奘以"等"概括，此成分不单译，记省译（原作合译）
@@ -408,7 +408,7 @@ U33-365	S0584	rūpa	rūpa	n. 成分	0007b22	色	对译	0167b25	色
 U33-366	S0584	śabda	śabda	n. 成分	0007b22	聲	对译	0167b25	聲	
 U33-455	S0584	dhātū	dhātu	n. m. du. nom.	0007b22	界…界	对译	0167b25	界…界	补成分记录；dvandva 共用 dhātu，玄奘分作"色界聲界"
 U33-367	S0584				0007b22	若	增译			
-U33-368	S0584	kuśalākuśalacittasamuṭthau	kuśala-akuśala-citta-samuttha	cpd. m. du. nom.	0007b22	善不善心…等起	意译	0167b25	善惡心發起	GRETIL 本作 samuṭthau，当读 samutthau；"力"为增字
+U33-368	S0584	kuśalākuśalacittasamuṭthau	kuśala-a-kuśala-citta-samuttha	cpd. m. du. nom.	0007b22	善不善心…等起	意译	0167b25	善惡心發起	GRETIL 本作 samuṭthau，当读 samutthau；"力"为增字
 U33-456	S0584	kuśalā	kuśala	adj. 成分	0007b22	善	对译	0167b25	善	补成分记录
 U33-457	S0584	ākuśala	a-kuśala	adj. 成分	0007b22	不善	对译	0167b25	惡	补成分记录
 U33-368+1	S0584				0007b22	力	增译			合并时从 U33-368（善不善心力等起）拆出
@@ -420,7 +420,7 @@ U33-373	S0584	kāya	kāya	n. 成分	0007b22	身	对译	0167b26	身
 U33-374	S0584	vāg	vāc	n. 成分	0007b22	語	对译	0167b26	口	
 U33-375	S0584	vijñapti	vijñapti	n. 成分	0007b23	表	对译	0167b26	業	
 U33-376	S0584	saṃgṛhītau	saṃgṛhīta	ptc. m. du. nom. (√saṃ-grah)	0007b23	攝	对译	0167b26	所攝	
-U33-377	S0584	kuśalākuśalau	kuśala-akuśala	cpd. m. du. nom.	0007b23	善不善	对译	0167b25	善惡	"是"为增字
+U33-377	S0584	kuśalākuśalau	kuśala-a-kuśala	cpd. m. du. nom.	0007b23	善不善	对译	0167b25	善惡	"是"为增字
 U33-458	S0584	kuśalā	kuśala	adj. 成分	0007b23	善	对译	0167b25	善	补成分记录
 U33-459	S0584	ākuśalau	a-kuśala	adj. m. du. nom.	0007b23	不善	对译	0167b25	惡	补成分记录
 U33-378	S0584				0007b23	是	增译	0167b25	是	

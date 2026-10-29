@@ -108,7 +108,7 @@ U36-072	S0646	vitarkastū	vitarka	n. m. sg. nom.	0008a19	尋	对译	0168a20	覺	
 U36-073	S0646	nityam	nityam	ind.	0008a19	一切時	意译	0168a20	恒	
 U36-074	S0646	aviatarko	a-vitarka	adj. m. sg. nom.	0008a19	無尋	对译	0168a20	無覺	GRETIL 本作 aviatarko，当读 avitarko
 U36-075	S0646	vicāramātro	vicāra-mātra	cpd. adj. m. sg. nom.	0008a19	唯伺	对译	0168a20	唯有觀	
-U36-076	S0646	dvitīyavitarkābhāvāt	dvitīya-vitarka-abhāva	cpd. m. sg. abl.	0008a20	無第二尋	对译	0168a20	無第二覺	
+U36-076	S0646	dvitīyavitarkābhāvāt	dvitīya-vitarka-a-bhāva	cpd. m. sg. abl.	0008a20	無第二尋	对译	0168a20	無第二覺	
 U36-077	S0646	dvitīya	dvitīya	num. 成分	0008a20	第二	对译	0168a20	第二	
 U36-078	S0646	vitarkā	vitarka	n. 成分	0008a20	尋	对译	0168a20	覺	
 U36-079	S0646	ābhāvāt	a-bhāva	n. m. sg. abl.	0008a20	無	对译	0168a20	無	
@@ -132,7 +132,7 @@ U36-092	S0648	vaktavyaḥ	vaktavya	gdv. m. sg. nom. (√vac)	0008a21	名	意译	
 U36-094	S0649				0008a21	此應名曰	增译			答辞复述问句
 U36-095	S0649	avicāro	a-vicāra	adj. m. sg. nom.	0008a21	無伺	对译	0168a22	無觀	
 U36-096	S0649	vitarkamātaraḥ	vitarka-mātra	cpd. adj. m. sg. nom.	0008a22	唯尋	对译	0168a22	唯有覺	GRETIL 本作 vitarkamātaraḥ，当读 vitarkamātraḥ
-U36-097	S0649	dvitīyavicārābhāvāt	dvitīya-vicāra-abhāva	cpd. m. sg. abl.	0008a22	無第二伺	对译	0168a22	無第二觀	
+U36-097	S0649	dvitīyavicārābhāvāt	dvitīya-vicāra-a-bhāva	cpd. m. sg. abl.	0008a22	無第二伺	对译	0168a22	無第二觀	
 U36-194	S0649	dvitīya	dvitīya	num. 成分	0008a22	第二	对译	0168a22	第二	补成分记录
 U36-195	S0649	vicārā	vicāra	n. 成分	0008a22	伺	对译	0168a22	觀	补成分记录
 U36-196	S0649	ābhāvāt	a-bhāva	n. m. sg. abl.	0008a22	無	对译	0168a22	無	补成分记录

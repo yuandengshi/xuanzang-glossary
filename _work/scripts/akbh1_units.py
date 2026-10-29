@@ -7,6 +7,7 @@ Usage: python3 -I akbh1_units.py AKBH1_DIR OUT_JSON OUT_MD
 """
 import csv
 import json
+import os
 import re
 import sys
 
@@ -38,8 +39,10 @@ def main(d, out_json, out_md):
     xs, xpos, xplain = stream(load_lines(d + '/xz_lines.tsv'))
     ps, ppos, pplain = stream(load_lines(d + '/pm_lines.tsv'))
     pmv = list(csv.DictReader(open(d + '/pm_verses.tsv', encoding='utf-8'), delimiter='\t', quoting=csv.QUOTE_NONE))
-    # 玄奘：第 1 单位从头起，其后第 u 单位从第 (u-1) 个"頌曰"起
-    xcut = cut_points(xplain, xpos, r'頌\s*曰', [None] + list(range(1, len(units))))
+    # 玄奘：第 1 单位从头起；其后各单位从各自的"頌曰"起。界品首颂（归敬颂）前无"頌曰"，第 u 单位从第 (u-1) 个起；
+    # 其余各品首单位就带"頌曰"（"頌曰"个数 = 单位数），第 u 单位从第 u 个起
+    off = 1 if len(re.findall(r'頌\s*曰', xplain)) >= len(units) else 0
+    xcut = cut_points(xplain, xpos, r'頌\s*曰', [None] + [k + off for k in range(1, len(units))])
     # 真谛：单位起点 = 对应的第 p 个"偈曰"
     pidx = []
     for u in units:
@@ -62,9 +65,13 @@ def main(d, out_json, out_md):
         out.append({'unit': u['unit'], 'karika': u['karika'], 'xz': xz, 'pm': pm,
                     'skt': skt[scut[i]:se]})
     json.dump(out, open(out_json, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-    L = ['# 俱舍论·界品 梵汉三方对照（工作底本）', '',
+    # 标题等取自 _work/align/texts.tsv（文本登记表）
+    reg = {r['dir']: r for r in csv.DictReader(open(os.path.join(os.path.dirname(os.path.abspath(d)), 'texts.tsv'), encoding='utf-8'),
+                                               delimiter='\t', quoting=csv.QUOTE_NONE)}
+    t = reg.get(os.path.basename(os.path.abspath(d)), {'short': '俱舍论·界品', 'juan': '1–2'})
+    L = ['# %s 梵汉三方对照（工作底本）' % t['short'], '',
          '梵本：GRETIL 本（Pradhan 1975 为底本，Hackett & Lusthaus 修订），[页|行] 为 Pradhan 本页行；**粗体**为本颂。',
-         '玄奘：T1558 卷1–2；真谛：T1559 卷1–2；〔0001a08〕为大正藏第 29 册页栏行。', '']
+         '玄奘：T1558 卷%s；真谛：T1559 相应部分；〔0001a08〕为大正藏第 29 册页栏行。' % t['juan'], '']
     for u in out:
         L += ['## %s（颂 %s）' % (u['unit'], u['karika']), '', '**梵**', '']
         for s in u['skt']:

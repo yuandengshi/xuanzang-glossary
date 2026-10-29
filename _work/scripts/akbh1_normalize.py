@@ -11,6 +11,8 @@ Usage: python3 -I akbh1_normalize.py AKBH1_DIR [--dry]
     合写的 manovijñāna、cakṣurvijñāna 拆为 manas-vijñāna、cakṣus-vijñāna；分词、形容词不拆前缀（saṃprayukta）。
     单用的基数词用 -an 词干（pañca → pañcan）；复合词里 -an 词干去 n（pañca-、aṣṭādaśa-、ātma-、karma-、nāma-），ṣaṣ- 不变。
  4. 形态标注排成规定次序（morph.canon）：词类、性、数、格；动词为时态/语气、pass.、caus.、人称数。
+ 5. 否定前缀：规范词目表里有带连字符写法的（a-kuśala、an-upātta、a-mala），单用的词目和复合词成分里
+    不加连字符的（akuśala、kuśala-akuśala、amala）一律改成带连字符的写法。
 """
 import csv
 import glob
@@ -76,7 +78,12 @@ def gram_lemma(lemma, pos, xz):
     return cat, 'gram. %s (%s)' % (lab, ending)
 
 
+NEG = {}   # akuśala → a-kuśala（据规范词目表，main 里填）
+
+
 def lex_lemma(l, pos):
+    if l in NEG:
+        l = NEG[l]
     if l in LEX:
         l = LEX[l]
     if l.startswith('anutpatti-'):
@@ -95,6 +102,8 @@ def lex_lemma(l, pos):
     for k, p in enumerate(parts):
         if k < len(parts) - 1 and p in AN_STEM:   # 复合词非末成分的 -an 词干去 n
             p = p[:-1]
+        if p in NEG and len(parts) > 1:
+            p = NEG[p]
         if p in MEMBER:
             p = MEMBER[p]
         elif p == 'manovijñāna':
@@ -105,7 +114,18 @@ def lex_lemma(l, pos):
     return '-'.join(out)
 
 
+def load_neg(d):
+    p = os.path.join(os.path.dirname(os.path.abspath(d)), 'lemmas.tsv')
+    if not os.path.exists(p):
+        return
+    for r in csv.DictReader(open(p, encoding='utf-8'), delimiter='\t', quoting=csv.QUOTE_NONE):
+        l = r['lemma']
+        if l.count('-') == 1 and l.split('-')[0] in ('a', 'an') and not r['class'].startswith('gram'):
+            NEG[l.replace('-', '')] = l
+
+
 def main(d, dry):
+    load_neg(d)
     stats = {'gram': 0, 'comp': 0, 'lex': 0, 'order': 0}
     for f in sorted(glob.glob(os.path.join(d, 'occ', 'U*.tsv')) + glob.glob(os.path.join(d, 'occ_extra', 'U*.tsv'))):
         hdr = open(f, encoding='utf-8').readline().rstrip('\n').split('\t')

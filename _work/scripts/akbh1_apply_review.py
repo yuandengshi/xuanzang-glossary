@@ -9,6 +9,7 @@ Usage: python3 -I akbh1_apply_review.py AKBH1_DIR REVIEW.json [REVIEW2.json ...]
   核对：审定时的原值（orig）与当前数据不符的（数据其后改过），不自动套用，列出交编者处理；
   多人对同一条意见不一致的，不自动套用，列出交编者裁定。
 结果：改写 occ/*.tsv（--dry 时只报告），日志追加到 AKBH1_DIR/review_log.md。改正后请再跑 akbh1_verify.py。
+审定文件可以同时含几品的条目（页面导出的是全书一份）：只处理属于 AKBH1_DIR 的单位，其余各品请对相应目录再运行一次。
 """
 import csv
 import datetime
@@ -33,6 +34,10 @@ def main(d, files, dry):
         rows = list(csv.DictReader(open(f, encoding='utf-8'), delimiter='\t', quoting=csv.QUOTE_NONE))
         occ[f] = (hdr, rows)
     where = {r['oid']: r for _, (h, rows) in occ.items() for r in rows}
+    mine = {os.path.basename(f)[:-4] for f in occ}
+    other = [o for o in items if o.split('-')[0] not in mine]   # 属于其他品的条目
+    for o in other:
+        del items[o]
     log, done, skip = [], 0, 0
     key = lambda it: (it['verdict'], it.get('lemma'), it.get('xz'), it.get('type')) if it['verdict'] == '改正' else (it['verdict'],)
     for oid, its in sorted(items.items()):
@@ -75,7 +80,8 @@ def main(d, files, dry):
             fo.write('\n## %s 应用审定：%s\n\n' % (datetime.date.today().isoformat(), '、'.join(os.path.basename(f) for f in files)))
             fo.write('\n'.join(log) + '\n')
     print('\n'.join(log))
-    print('%s套用 %d 条，未套用 %d 条' % ('（试算）' if dry else '', done, skip))
+    print('%s套用 %d 条，未套用 %d 条%s' % ('（试算）' if dry else '', done, skip,
+          '；另有 %d 条属于其他品，请对相应目录再运行' % len(other) if other else ''))
 
 
 if __name__ == '__main__':

@@ -1,0 +1,92 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U211-001	S0293	manovittitrayaṃ	manas-vitti-traya	cpd. nt. sg. nom.	0016c10	意三受	意译	0176a07	意三受	玄奘倒序作"三受"
+U211-002	S0293	mano	manas	n. 成分	0016c10	意	对译	0176a07	意	
+U211-003	S0293	vitti	vitti	n. 成分	0016c10	受	对译	0176a07	受	
+U211-004	S0293	trayaṃ	traya	n. nt. sg. nom.	0016c10	三	对译	0176a07	三	
+U211-005	S0293	tredhā	tredhā	ind.	0016c10	通三	意译	0176a07	三種	
+U211-007	S0294	vittitrayam	vitti-traya	cpd. nt. sg. nom.			省译	0176a07	三受	
+U211-008	S0294	vitti	vitti	n. 成分			省译	0176a07	受	
+U211-009	S0294	trayam	traya	n. nt. sg. nom.			省译	0176a07	三	
+U211-010	S0294				0016c12	意	增译			长行复述颂文 manas
+U211-011	S0294	sukhasaumanasyopekṣāḥ	sukha-saumanasya-upekṣā	cpd. f. pl. nom.	0016c12	喜、樂、捨	意译	0176a08	樂、喜、捨	玄奘倒序作"喜、樂"
+U211-012	S0294	sukha	sukha	n. 成分	0016c12	樂	对译	0176a08	樂	
+U211-013	S0294	saumanasyo	saumanasya	n. 成分	0016c12	喜	对译	0176a08	喜	
+U211-014	S0294	opekṣāḥ	upekṣā	n. f. pl. nom.	0016c12	捨	对译	0176a08	捨	
+U211-015	S0294				0016c12	一一通三	增译			长行复述颂文 tredhā
+U211-016	S0294				0016c12	皆通見、修、非所斷故	增译			玄奘补出"三"的内容（见所断、修所断、非所断）
+U211-017	S0295	dviheyā	dvi-heya	cpd. adj. f. sg. nom.	0016c10	見修所斷	意译	0176a08	見修滅	dvi（二）具体化为"見修"
+U211-018	S0295	dvi	dvi	num. 成分	0016c10	見修	意译	0176a08	見修	dvi（二）具体化为"見修"
+U211-019	S0295	heyā	heya	gdv. f. sg. nom. (√hā)	0016c10	所斷	对译	0176a08	滅	
+U211-020	S0295	durmanaskatā	durmanaskatā	n. f. sg. nom.	0016c10	憂	对译	0176a08	憂根	durmanaskatā（忧恼）即 daurmanasya
+U211-021	S0296	dauarmanasyaṃ	daurmanasya	n. nt. sg. nom.	0016c13	憂根	意译	0176a08	憂根	GRETIL 本作 dauarmanasyaṃ，当读 daurmanasyaṃ；daurmanasya 指憂根
+U211-022	S0296				0016c13	唯通	增译			
+U211-023	S0296	dvābhyāṃ	dvi	num. f. du. instr.			省译	0176a08	二	玄奘不出"二"，径列"見修"
+U211-024	S0296	praheyaṃ	praheya	gdv. nt. sg. nom. (√pra-hā)	0016c13	所斷	对译	0176a09	所滅	
+U211-025	S0296	darśanabhāvanābhyām	darśana-bhāvanā	cpd. f. du. instr.	0016c13	見修	对译	0176a09	見道、修道	
+U211-026	S0296	darśana	darśana	n. 成分	0016c13	見	对译	0176a09	見道	
+U211-027	S0296	bhāvanābhyām	bhāvanā	n. f. du. instr.	0016c13	修	对译	0176a09	修道	
+U211-029	S0296				0016c13	非無漏故	增译			玄奘补出理由
+U211-030	S0297	nava	navan	num. pl. nom.	0016c11	九	对译	0176a09	九	
+U211-031	S0297				0016c11	唯	增译			
+U211-032	S0297	bhāvanayā	bhāvanā	n. f. sg. instr.	0016c11	修	对译	0176a09	修道	
+U211-033	S0297				0016c11	所斷	增译	0176a09	滅	承上 heya（长行 heyānīty adhikāraḥ，S0298）
+U211-034	S0298	heyānī	heya	gdv. nt. pl. nom. (√hā)			省译			说明 heya 一词流贯，玄奘、真谛皆未译
+U211-035	S0298	adhikāraḥ	adhikāra	n. m. sg. nom.			省译			
+U211-036	S0298	jīvitāṣṭamāni	jīvita-aṣṭama	cpd. adj. nt. pl. nom. (bahuvrīhi)	0016c13	命	意译	0176a10	命根為第八	玄奘以"七色、命"分说八根
+U211-037	S0298	jīvitā	jīvita	n. 成分	0016c13	命	对译	0176a10	命根	
+U211-038	S0298	āṣṭamāni	aṣṭama	num. nt. pl. nom.			省译	0176a10	第八	玄奘以"七色、命"分说八根
+U211-039	S0298	cakṣurādīni	cakṣus-ādi	cpd. nt. pl. nom.	0016c13	七色	意译	0176a10	眼根為第一	以"七色"概括眼、耳、鼻、舌、身、女、男
+U211-040	S0298	cakṣur	cakṣus	n. 成分			省译	0176a10	眼根	以"七色"概括
+U211-041	S0298	ādīni	ādi	n. nt. pl. nom.			省译			以"七色"概括
+U211-042	S0298	duḥkhendriyaṃ	duḥkha-indriya	cpd. nt. sg. nom.	0016c14	苦	意译	0176a10	苦根	indriya 未译
+U211-043	S0298	duḥkhe	duḥkha	n. 成分	0016c14	苦	对译	0176a10	苦	
+U211-044	S0298	endriyaṃ	indriya	n. nt. sg. nom.			省译	0176a10	根	
+U211-045	S0298	bhāvanāheyāny	bhāvanā-heya	cpd. nt. pl. nom.	0016c14	修所斷	对译	0176a10	修道滅	
+U211-046	S0298	bhāvanā	bhāvanā	n. 成分	0016c14	修	对译	0176a10	修道	
+U211-047	S0298	heyāny	heya	gdv. nt. pl. nom. (√hā)	0016c14	所斷	对译	0176a10	滅	
+U211-048	S0298				0016c14	不染污故、非六生故、皆有漏故	增译			玄奘补出三条理由
+U211-049	S0299	pañca	pañcan	num. pl. nom.	0016c11	五	对译	0176a11	五	
+U211-051	S0299				0016c11	修	增译			本颂"修"即 api 所含的"亦修所斷"（长行 S0300 bhāvanāheyāny api）
+U211-052	S0299	aheyāny	a-heya	gdv. nt. pl. nom. (√hā)	0016c11	非	意译	0176a11	非滅	本颂略作"非"（非所斷）
+U211-054	S0300	śraddhādīni	śraddhā-ādi	cpd. nt. pl. nom.	0016c15	信等	对译	0176a11	信等	
+U211-055	S0300	śraddhā	śraddhā	n. 成分	0016c15	信	对译	0176a11	信	
+U211-056	S0300	ādīni	ādi	n. nt. pl. nom.	0016c15	等	对译	0176a11	等	
+U211-057	S0300	pañca	pañcan	num. pl. nom.	0016c15	五	对译	0176a11	五	
+U211-058	S0300				0016c15	根	增译	0176a11	根	玄奘、真谛都补"根"
+U211-059	S0300	bhāvanāheyāny	bhāvanā-heya	cpd. nt. pl. nom.	0016c15	修所斷	对译	0176a11	修道滅	
+U211-060	S0300	bhāvanā	bhāvanā	n. 成分	0016c15	修	对译	0176a11	修道	
+U211-061	S0300	heyāny	heya	gdv. nt. pl. nom. (√hā)	0016c15	所斷	对译	0176a11	滅	
+U211-062	S0300	bhāvanāheyānyapy	api	ind.	0016c15	或	意译	0176a11	或	api … api（亦…亦）译"或…或"
+U211-063	S0300	aheyāny	a-heya	gdv. nt. pl. nom. (√hā)	0016c15	非所斷	对译	0176a12	非所滅	
+U211-065	S0300				0016c15	非染污故	增译			玄奘补出理由
+U211-066	S0300				0016c15	皆通	增译			
+U211-067	S0300	sāsravānāsravatvāt	sa-āsrava-an-āsrava-tva	cpd. nt. sg. abl.	0016c16	有漏及無漏	对译	0176a12	有流、無流	
+U211-068	S0300	sāsravā	sa-āsrava	adj. 成分	0016c16	有漏	对译	0176a12	有流	
+U211-069	S0300	ānāsrava	an-āsrava	adj. 成分	0016c16	無漏	对译	0176a12	無流	
+U211-071	S0301	trayam	traya	n. nt. sg. nom.	0016c11	三	对译	0176a12	三	
+U211-072	S0302	trayaṃ	traya	n. nt. sg. nom.	0016c16	三	对译	0176a13	三	
+U211-073	S0302	praheyam	praheya	gdv. nt. sg. nom. (√pra-hā)	0016c16	所斷	对译	0176a13	所滅	
+U211-074	S0302	ājñāsyāmīndriyādikam	ājñāsyāmi-indriya-ādika	cpd. adj. nt. sg. nom.	0016c16	最後…根	意译	0176a13	未知欲知等…根	玄奘以"最後三根"指称未知當知等三根
+U211-075	S0302	ājñāsyāmī	ā-jñā	v. fut. 1sg.			省译	0176a13	欲知	以"最後"概括
+U211-076	S0302	ndriyā	indriya	n. 成分	0016c16	根	对译	0176a13	根	
+U211-077	S0302	ādikam	ādika	adj. nt. sg. nom.			省译	0176a13	等	以"最後"概括
+U211-078	S0302				0016c16	皆	增译			
+U211-079	S0302	anāsravatvāt	an-āsrava-tva	n. nt. sg. abl.	0016c16	無漏	对译	0176a13	無流	
+U211-081	S0302	nirdoṣaṃ	nirdoṣa	adj. nt. sg. nom.	0016c17	無過法	意译	0176a14	無過失法	nirdoṣa（无过者）译"無過法"
+U211-082	S0302				0016c17	是	增译			
+U211-083	S0302	prahāṇārham	prahāṇa-arha	cpd. adj. nt. sg. nom.	0016c17	所斷	意译	0176a14	可除	
+U211-084	S0302	prahāṇā	prahāṇa	n. 成分	0016c17	斷	对译	0176a14	除	
+U211-085	S0302	ārham	arha	adj. nt. sg. nom.			省译	0176a14	可	以"所斷"概括
+U211-086	S0303	uktaḥ	ukta	ptc. m. sg. nom. (√vac)	0016c17	說	对译	0176a15	說	
+U211-088	S0303				0016c17	諸門	增译			
+U211-089	S0303	prakārabhedaḥ	prakāra-bheda	cpd. m. sg. nom.	0016c17	義類差別	意译	0176a15	品類差別	
+U211-090	S0303	prakāra	prakāra	n. 成分	0016c17	義類	意译	0176a15	品類	
+U211-091	S0303	bhedaḥ	bheda	n. m. sg. nom.	0016c18	差別	对译	0176a15	差別	
+U211-092	S0304	lābha	lābha	n. m. sg. nom.			省译	0176a15	至得	玄奘不标目，径作"何界初得幾異熟根"
+U211-093	S0304	idānīṃ	idānīm	ind.			省译	0176a15	今	
+U211-094	S0304	vaktavyaḥ	vaktavya	gdv. m. sg. nom. (√vac)			省译	0176a15	說	
+U211-095	S0305	katīndriyāṇi	indriya	n. nt. pl. nom.	0016c18	根	对译	0176a15	根	
+U211-097	S0305	dhātau	dhātu	n. m. sg. loc.	0016c18	界	对译	0176a16	界	
+U211-098	S0305	vipākaḥ	vipāka	n. m. sg. nom.	0016c18	異熟	对译	0176a16	果報	
+U211-099	S0305	prathamato	prathamatas	ind.	0016c18	初	对译	0176a16	先	
+U211-100	S0305	labhyante	labh	v. pres. pass. 3pl.	0016c18	得	对译	0176a16	得	

@@ -7,6 +7,7 @@ Usage: _work/.venv/bin/python _work/scripts/pkg_build.py
 包内：首页.html、词汇表.html、译经清单.html、data/、fonts/、表格/、使用说明.txt
 """
 import datetime
+import glob
 import os
 import shutil
 import subprocess
@@ -46,9 +47,9 @@ ul{{font-family:var(--zh);font-size:15.5px;line-height:1.9;padding-left:1.3em;ma
 .foot{{margin-top:36px;font-family:var(--sans);font-size:12.5px;color:var(--mut);line-height:1.8}}
 </style></head><body><main>
 <header class="top"><p class="kicker">玄奘译语词汇表 · 离线资料包</p><h1>玄奘译语词汇表</h1>
-<p class="lead">对勘玄奘译经论与现存梵本，逐词记录玄奘的译法，附真谛旧译与唐代注疏的自注。目前收录俱舍论·界品全品。全部资料都在本文件夹内，不需要联网，也不需要安装任何软件。</p></header>
+<p class="lead">对勘玄奘译经论与现存梵本，逐词记录玄奘的译法，附真谛旧译与唐代注疏的自注。目前收录：{scope}。全部资料都在本文件夹内，不需要联网，也不需要安装任何软件。</p></header>
 <div class="cards">
-<a class="card" href="词汇表.html"><h2>词汇表 · 俱舍论界品</h2><p>梵→汉词条、语法形式、汉→梵反查、增译与省译、缩略语；每条附梵汉原句与出处。可在"审定"页逐条审定。</p><div class="n">{n_occ} 条对应 · {n_lem} 个梵文词目</div></a>
+<a class="card" href="词汇表.html"><h2>词汇表 · 俱舍论{shorts}</h2><p>梵→汉词条、语法形式、汉→梵反查、增译与省译、缩略语；每条附梵汉原句与出处。可在"审定"页逐条审定。</p><div class="n">{n_occ} 条对应 · {n_lem} 个梵文词目</div></a>
 <a class="card" href="译经清单.html"><h2>玄奘译经清单</h2><p>《开元录》所载玄奘所出 76 部：译出年月、译场、梵名、梵本存世状况、校订本、同本异译、藏译。</p><div class="n">76 部 · 1347 卷</div></a>
 </div>
 <h3>使用</h3>
@@ -74,7 +75,7 @@ GUIDE = '''玄奘译语词汇表 · 离线资料包  使用说明
 
 二、内容
   首页.html      入口
-  词汇表.html    俱舍论·界品的玄奘译语词汇表（梵→汉、语法形式、汉→梵、增译省译、缩略语、审定）
+  词汇表.html    俱舍论（{shorts}）的玄奘译语词汇表（梵→汉、语法形式、汉→梵、增译省译、缩略语、审定）
   译经清单.html  《开元录》所载玄奘所出 76 部的清单
   表格\\          对应实例（CSV）、译经清单（CSV）、待核清单（Markdown）。CSV 可用 Excel、Numbers 打开。
                  玄奘译语.sqlite：全部数据的数据库（含词汇表未收的全部虚词例句），
@@ -132,25 +133,36 @@ def main():
         shutil.rmtree(PKG)
     os.makedirs(os.path.join(PKG, '表格'))
     run('python3', 'scripts/akbh1_lemmas.py', 'align')
-    run('python3', 'scripts/akbh1_glossary.py', 'align/akbh1', '../试点-俱舍界品', 'align/akbh1/tangnotes.tsv', '--pkg=' + PKG)
+    # 各品：按 align/texts.tsv 的次序，有对应实例的才收（词汇表页面依次载入各品的数据文件）
+    import csv
+    texts = [t for t in csv.DictReader(open(os.path.join(W, 'align', 'texts.tsv'), encoding='utf-8'), delimiter='\t',
+                                       quoting=csv.QUOTE_NONE) if glob.glob(os.path.join(W, 'align', t['dir'], 'occ', 'U*.tsv'))]
+    copies = [('清单/玄奘译经清单.csv', '玄奘译经清单.csv'), ('试点-俱舍界品/体例草案.md', '体例说明.md')]
+    for t in texts:
+        d, od, short = 'align/' + t['dir'], '../' + t['outdir'], t['short'].split('·')[-1]
+        os.makedirs(os.path.join(W, od), exist_ok=True)
+        notes = [d + '/tangnotes.tsv'] if os.path.exists(os.path.join(W, d, 'tangnotes.tsv')) else []
+        run('python3', 'scripts/akbh1_glossary.py', d, od, *notes, '--pkg=' + PKG)
+        run('python3', 'scripts/akbh1_review.py', d, od + '/待核清单.md')
+        copies += [(t['outdir'] + '/' + short + '译语实例.csv', '俱舍论%s-对应实例.csv' % short),
+                   (t['outdir'] + '/待核清单.md', '俱舍论%s-待核清单.md' % short)]
     run('python3', 'scripts/inv_build.py', 'align', '../清单', PKG)
-    run('python3', 'scripts/akbh1_review.py', 'align/akbh1', '../试点-俱舍界品/待核清单.md')
-    for src, dst in [('试点-俱舍界品/界品译语实例.csv', '俱舍论界品-对应实例.csv'),
-                     ('清单/玄奘译经清单.csv', '玄奘译经清单.csv'),
-                     ('试点-俱舍界品/待核清单.md', '俱舍论界品-待核清单.md'),
-                     ('试点-俱舍界品/体例草案.md', '体例说明.md')]:
+    for src, dst in copies:
         shutil.copy(os.path.join(ROOT, src), os.path.join(PKG, '表格', dst))
     run('python3', 'scripts/build_sqlite.py', 'align', '../清单/玄奘译经清单.csv', os.path.join(PKG, '表格', '玄奘译语.sqlite'))
     open(os.path.join(PKG, '表格', '查询示例.sql'), 'w', encoding='utf-8').write(QUERIES)
-    n_occ = sum(1 for _ in open(os.path.join(ROOT, '试点-俱舍界品/界品译语实例.csv'), encoding='utf-8-sig')) - 1
-    import csv
-    n_lem = len({r['lemma'] for r in csv.DictReader(open(os.path.join(ROOT, '试点-俱舍界品/界品译语实例.csv'), encoding='utf-8-sig'))
-                 if r['lemma'] and not r['pos'].startswith('gram')})
+    rows = [r for t in texts for r in csv.DictReader(open(os.path.join(ROOT, t['outdir'], t['short'].split('·')[-1] + '译语实例.csv'),
+                                                          encoding='utf-8-sig'))]
+    n_occ = len(rows)
+    n_lem = len({r['lemma'] for r in rows if r['lemma'] and not r['pos'].startswith('gram')})
+    scope = '；'.join('俱舍论' + t['scope'] for t in texts)
+    shorts = '、'.join(t['short'].split('·')[-1] for t in texts)
     date = datetime.date.today().isoformat()
     open(os.path.join(PKG, '首页.html'), 'w', encoding='utf-8').write(
-        HOME.format(fonts=page_style.LOCAL_FONT_LINK, base=page_style.BASE_CSS, n_occ=n_occ, n_lem=n_lem, date=date))
+        HOME.format(fonts=page_style.LOCAL_FONT_LINK, base=page_style.BASE_CSS, n_occ=n_occ, n_lem=n_lem, date=date,
+                    scope=scope, shorts=shorts))
     with open(os.path.join(PKG, '使用说明.txt'), 'w', encoding='utf-8-sig', newline='\r\n') as f:
-        f.write(GUIDE.format(date=date))
+        f.write(GUIDE.format(date=date, shorts=shorts))
     print('$ pkg_fonts.py')
     subprocess.run([sys.executable, '-I', os.path.join(HERE, 'pkg_fonts.py'), os.path.join(W, 'src', 'fonts'), PKG], check=True)
     if os.path.exists(ZIP):

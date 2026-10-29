@@ -1,0 +1,83 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U217-001	S0449	bahubhir	bahu	adj. nt. pl. instr.	0018a26	極多	意译	0177b24	極多	本颂；bahubhir（最多）译"極多"
+U217-002	S0449	yukta	yukta	ptc. m. sg. nom. (√yuj)	0018a26	成	对译	0177b24	與	
+U217-003	S0449	ekānnaviṃāśatyā	ekānnaviṃśati	num. f. sg. instr.	0018a26	十九	对译	0177b24	十九	GRETIL 本作 ekānnaviṃāśatyā，当读 ekānnaviṃśatyā
+U217-004	S0449	'malavarjitaiḥ	a-mala-varjita	cpd. nt. pl. instr.	0018a26	除…淨	对译	0177b25	離…無流根	
+U217-005	S0449	'mala	a-mala	adj. 成分	0018a26	淨	对译	0177b25	無流	
+U217-006	S0449	varjitaiḥ	varjita	ptc. nt. pl. instr. (caus. √vṛj)	0018a26	除	对译	0177b25	離	
+U217-007	S0449				0018a26	三	增译	0177b25	三	颂文无"三"，取长行 trīṇi；真谛同
+U217-008	S0450	varjayitvā	varjaya (caus. vṛj)	abs.	0018a28	除	对译	0177b25	除	
+U217-009	S0450	trīṇi	tri	num. nt. pl. acc.	0018a28	三	对译	0177b25	三	
+U217-010	S0450	anā sravaṇi	an-āsrava	adj. nt. pl. acc.	0018a28	無漏	对译	0177b25	無流	GRETIL 本作 anā sravaṇi，当读 anāsravāṇi
+U217-011	S0451	dviliṅgaḥ	dvi-liṅga	cpd. adj. m. sg. nom.	0018a26	二形	对译	0177b25	二根	本颂
+U217-012	S0451	dvi	dvi	num. 成分	0018a26	二	对译	0177b25	二	
+U217-013	S0451	liṅgaḥ	liṅga	n. m. sg. nom.	0018a26	形	意译	0177b25	根	liṅga（男女根之相）译"形"；多财释，随所修饰者作阳性
+U217-014	S0452				0018a28	諸	增译			
+U217-015	S0452	dvivyañjano	dvi-vyañjana	cpd. adj. m. sg. nom.	0018a28	二形	对译	0177b26	女男根	真谛作"具女男根"
+U217-016	S0452	dvi	dvi	num. 成分	0018a28	二	对译			
+U217-017	S0452	vyañjano	vyañjana	n. m. sg. nom.	0018a28	形	意译	0177b26	根	vyañjana（男女根之相）译"形"；多财释，随所修饰者作阳性
+U217-018	S0452	yaḥ	yad	pron. m. sg. nom.	0018a28	者	语法	0177b26	若人	关系代词以"…者"表出
+U217-019	S0452	samagrendriyaḥ	samagra-indriya	cpd. adj. m. sg. nom.	0018a28	具…根	对译	0177b26	具餘根	samagrendriya（诸根完具）；"眼等"为增字
+U217-020	S0452	samagre	samagra	adj. 成分	0018a28	具	对译	0177b26	具	
+U217-021	S0452	ndriyaḥ	indriya	n. m. sg. nom.	0018a28	根	对译	0177b26	根	多财释，随所修饰者作阳性
+U217-022	S0452				0018a28	眼等	增译			
+U217-023	S0452	samanvāgataḥ	samanvāgata	ptc. m. sg. nom. (√sam-anu-ā-gam)	0018a28	成	对译	0177b26	相應	"成餘十九"
+U217-024	S0452				0018a28	餘	增译			
+U217-025	S0452	ekānnaviṃśatyā	ekānnaviṃśati	num. f. sg. instr.	0018a29	十九	对译	0177b26	十九	
+U217-026	S0452				0018a29	無漏名淨，離二縛故	增译			玄奘补出释颂文"淨"
+U217-027	S0452				0018a29	二形必是欲界異生，未離欲貪故有十九	增译			玄奘补出
+U217-028	S0452				0018b01	唯此具十九	增译			
+U217-029	S0452	kaś	kim	pron. m. sg. nom.	0018b01	為…耶	语法	0177b27	何	疑问代词 kaḥ 以"為…耶"表出
+U217-030	S0452	āparaḥ	apara	pron. m. sg. nom.	0018b02	更	意译	0177b27	別	apara（另一者）译"更"（更有）
+U217-031	S0452				0018b02	有	增译	0177b27	有	
+U217-032	S0453	āryo	ārya	adj. m. sg. nom.	0018a27	聖者	对译	0177b27	聖	本颂
+U217-033	S0453	rāgī	rāgin	adj. m. sg. nom.	0018a27	未離欲	意译	0177b27	有欲	rāgin（有贪者）玄奘反说作"未離欲"
+U217-034	S0453	āryo	ārya	adj. m. sg. nom.	0018b02	聖者	对译			长行复述颂文
+U217-035	S0453	rāgī	rāgin	adj. m. sg. nom.	0018b02	未離欲	意译			长行复述颂文
+U217-036	S0453				0018b02	亦具十九	增译			长行复述颂文
+U217-037	S0454				0018b02	謂	增译			
+U217-038	S0454				0018b02	聖	增译	0177b28	聖人	取颂文 ārya；真谛同
+U217-039	S0454	śaikṣaḥ	śaikṣa	adj. m. sg. nom.	0018b02	有學	对译	0177b28	有學	
+U217-040	S0454	avītarāgo	a-vīta-rāga	cpd. adj. m. sg. nom.	0018b02	未離欲貪	对译	0177b28	未離欲	
+U217-041	S0454	avīta	a-vīta	ptc. 成分 (√vi-i)	0018b02	未離	对译	0177b28	未離	
+U217-042	S0454	rāgo	rāga	n. m. sg. nom.	0018b03	欲貪	意译	0177b28	欲	rāga（贪）此指欲界贪，译"欲貪"
+U217-043	S0454	samanvāgataḥ	samanvāgata	ptc. m. sg. nom. (√sam-anu-ā-gam)	0018b03	成就	对译	0177b28	相應	
+U217-044	S0454	sarvabahubhir	sarva-bahu	cpd. nt. pl. instr.	0018b03	極多	意译	0177b28	極多	
+U217-045	S0454	sarva	sarva	adj. 成分	0018b03	極	意译	0177b28	極	
+U217-046	S0454	bahubhir	bahu	adj. nt. pl. instr.	0018b03	多	对译	0177b28	多	
+U217-047	S0454				0018b03	具	增译			"亦具十九"之"具"复说 samanvāgata
+U217-048	S0454	ekānnaviṃśatyā	ekānnaviṃśati	num. f. sg. instr.	0018b03	十九	对译	0177b29	十九	
+U217-049	S0455	ekaliṅgadvayamalavarjitaiḥ	eka-liṅga-dvaya-a-mala-varjita	cpd. nt. pl. instr.	0018a27	除二淨一形	对译	0177b29	一根除二淨	本颂；玄奘作"除二淨一形"，次序与梵本不同
+U217-050	S0455	eka	eka	num. 成分	0018a27	一	对译	0177b29	一	
+U217-051	S0455	liṅga	liṅga	n. 成分	0018a27	形	意译	0177b29	根	
+U217-052	S0455	dvaya	dvaya	num. 成分	0018a27	二	对译	0177b29	二	
+U217-053	S0455	amala	a-mala	adj. 成分	0018a27	淨	对译	0177b29	淨	
+U217-054	S0455	varjitaiḥ	varjita	ptc. nt. pl. instr. (caus. √vṛj)	0018a27	除	对译	0177b29	除	
+U217-055	S0456	varjayitvā	varjaya (caus. vṛj)	abs.	0018b03	除	对译	0177c01	除	"及除一形"之"除"另记增译
+U217-056	S0456	dve	dvi	num. nt. du. acc.	0018b03	二	对译	0177c01	二	
+U217-057	S0456	cānāsrave	an-āsrava	adj. nt. du. acc.	0018b03	無漏	对译	0177c01	無流	
+U217-058	S0456				0018b04	除	增译	0177c01	除	"及除一形"重出"除"；真谛同
+U217-059	S0456	ekaṃ	eka	num. nt. sg. acc.	0018b04	一	对译	0177c01	一	
+U217-060	S0456	vyañjanaṃ	vyañjana	n. nt. sg. acc.	0018b04	形	意译	0177c01	根	
+U217-061	S0456				0018b04	若住見道	增译			玄奘按见道、修道分别说明
+U217-062	S0456				0018b04	除	增译			
+U217-063	S0456	ājñātāvīndriyaṃ	ājñātāvin-indriya	cpd. nt. sg. acc.	0018b04	具知根	对译	0177c01	知已根	
+U217-064	S0456	ājñātāvī	ājñātāvin	adj. 成分	0018b04	具知	意译	0177c01	知已	
+U217-065	S0456	ndriyaṃ	indriya	n. nt. sg. acc.	0018b04	根	对译	0177c01	根	
+U217-066	S0456	dvayośā	dvaya	num. nt. du. gen.			省译	0177c01	前二	玄奘按见道、修道具体说出，不出"二"
+U217-067	S0456	cānyatarat	anyatara	pron. nt. sg. acc.	0018b04	已知根…未知根	意译	0177c01	隨…一	anyatarat（二者之一）玄奘按见道、修道分别说为"已知根""未知根"
+U217-068	S0456				0018b04	若住修道	增译			
+U217-069	S0456				0018b05	除…及具知根	增译			
+U217-070	S0456				0018b05	女男二根隨除一種，以諸聖者無二形故	增译			玄奘补出说明 ekaṃ vyañjanam
+U217-071	S0457	dhātuprabhedaprasaṅgenā	instr.	gram. instr. (-ena)	0018b06	因	语法	0177c02	由	第三格（缘由）译"因"
+U217-072	S0457	dhātuprabhedaprasaṅgenā	dhātu-prabheda-prasaṅga	cpd. m. sg. instr.	0018b06	分別界…乘茲	意译	0177c02	分別界	
+U217-073	S0457	dhātu	dhātu	n. 成分	0018b06	界	对译	0177c02	界	
+U217-074	S0457	prabheda	prabheda	n. 成分	0018b06	分別	对译	0177c02	分別	
+U217-075	S0457	prasaṅgenā	prasaṅga	n. m. sg. instr.	0018b07	乘茲	意译			prasaṅga（因缘、顺便）译"乘茲"
+U217-076	S0457				0018b06	根非根差別	增译	0177c02	差別	玄奘补出所分别之内容
+U217-077	S0457	āgatānāṃ	āgata	ptc. nt. pl. gen. (√ā-gam)			省译	0177c02	所引來	
+U217-078	S0457	vistareṇa	vistara	n. m. sg. instr.	0018b07	廣	对译	0177c03	廣	
+U217-079	S0457	prabhedaḥ	prabheda	n. m. sg. nom.	0018b07	辯	意译	0177c03	分別義	prabheda（分别）此译"辯"
+U217-080	S0457				0018b07	二十二	增译			
+U217-081	S0457	indriyāṇāṃ	indriya	n. nt. pl. gen.	0018b07	根	对译	0177c02	根	
+U217-082	S0457	ukta	ukta	ptc. m. sg. nom. (√vac)	0018b07	竟	意译	0177c03	已說	uktaḥ（已说）译"竟"

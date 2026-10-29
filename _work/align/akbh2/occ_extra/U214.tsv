@@ -1,0 +1,45 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U214-007	S0351	phalayoḥ	du.	gram. du. gen. (-ayoḥ)	0017a24	二	语法	0176b24	二	双数以"二"表出
+U214-016	S0352	punar	punar	ind.			省译			
+U214-023	S0352	ca	ca	ind.			省译	0176b25	及	
+U214-031	S0353	ca	ca	ind.	0017a27	及	对译			
+U214-036	S0354	tatra	tatra	ind.			省译	0176b26	此中	
+U214-056	S0354	manaupekṣendriyābhyāṃ	dvandva	gram. cpd.	0017a28	及	语法			并列复合词（意、捨）以"及"连接
+U214-065	S0355	mārge	loc.	gram. loc. (-e)	0017a29	在	语法	0176b28	在	
+U214-073	S0355	vimuktimārge	loc.	gram. loc. (-e)	0017b01	在	语法	0176b29	在	
+U214-076	S0356	hi	hi	ind.			省译			
+U214-082	S0356	prāpter	gen.	gram. gen. (-eḥ)	0017b02	於	语法			第六格（对于离系得）译"於"
+U214-087	S0356	tvād	-tva (abstract)	gram. suffix	0017b03	性	语法			抽象后缀 -tva 译"性"
+U214-088	S0356	tvād	abl.	gram. abl. (-āt)	0017b03	故	语法	0176c01	故	第五格表原因
+U214-092	S0357	asya	idam	pron. m. sg. gen.			省译			
+U214-113	S0357	cānyatamen	ca	ind.	0017b04	及	对译			
+U214-130	S0359	phalayoḥ	du.	gram. du. gen. (-ayoḥ)	0017b07	二	语法	0176c05	二	
+U214-144	S0361	tāvad	tāvat	ind.	0017b08	且	对译			
+U214-148	S0361	sa ca	tad	pron. m. sg. nom.			省译	0176c06	人	
+U214-154	S0361	indriyaiḥ	instr.	gram. pl. instr. (-aiḥ)	0017b08	由	语法	0176c07	由	
+U214-165	S0362	upekṣāmanaindriyābhyāṃ	dvandva	gram. cpd.	0017b09	及	语法			
+U214-167	S0363	atha	atha	ind.			省译	0176c07	若	
+U214-173	S0363	indriyai	instr.	gram. pl. instr. (-aiḥ)	0017b09	由	语法	0176c08	由	
+U214-196	S0366	yady	yadi	ind.	0017b11	若…者	语法	0176c10	若	
+U214-207	S0367	yathā	yathā	ind.	0017b13	如	合译	0176c11	如	玄奘把本句与下句（tathaiva）合为"如前次第得一來果"，置于"依出世道由八根得"之后
+U214-218	S0368	tathaiva	eva	ind.			省译	0176c12	亦	
+U214-228	S0370	yathā	yathā	ind.	0017b14	如	语法	0176c14	如	
+U214-243	S0372	ndriyāṇām	gen.	gram. pl. gen. (-āṇām)	0017b16	中	语法			
+U214-252	S0373	viśeṣāt	abl.	gram. abl. (-āt)	0017b15	故	语法	0176c16	故	
+U214-260	S0374	mārge	loc.	gram. loc. (-e)	0017b17	於…中	语法	0176c16	於	
+U214-269	S0374	tadāpy	api	ind.			省译			
+U214-281	S0375	mārge	loc.	gram. loc. (-e)	0017b19	中	语法	0176c18	於…中	
+U214-292	S0376	tūpekṣendriyam	tu	ind.			省译	0176c19	則	
+U214-316	S0379	yattarhy	yad	pron. nt. sg. nom.			省译			
+U214-321	S0379	katibhir	kati	pron. pl. instr.	0017b22	幾	对译	0176c22	幾	
+U214-325	S0379	prapnotītyāha	iti	ind.			省译			
+U214-348	S0383	asti	as	v. pres. 3sg.	0017b25	有	对译	0176c25	有	
+U214-355	S0383	parihāya	abs.	gram. abs. (-ya)	0017b26	已	语法	0176c25	已	独立式表先行，译"已"
+U214-370	S0384	khalu	khalu	ind.			省译			
+U214-384	S0385	na	na	ind.	0017b29	不	语法	0176c28	不	
+U214-385	S0385	eṣa	etad	pron. m. sg. nom.	0017b29	如是	意译	0176c28	如此	
+U214-388	S0386	nahy	na	ind.	0017c01	無	语法	0176c29	無	
+U214-392	S0386	asau	adas	pron. m. sg. nom.			省译			
+U214-394	S0386	parihīṇaḥ	ppp.	gram. ppp. (-na)	0017c01	已	语法	0176c29	已	过去被动分词表已然，译"已"
+U214-401	S0386	na ca	na	ind.	0017c02	非	语法	0177a01	無	
+U214-425	S0388	katibhiḥ	kati	pron. pl. instr.	0017c04	幾	对译	0177a03	幾	

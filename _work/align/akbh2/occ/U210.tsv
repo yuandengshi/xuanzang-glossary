@@ -1,0 +1,172 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U210-001	S0274	kāmāptam	kāma-āpta	cpd. nt. sg. nom.	0016b23	欲	意译	0175c21	欲界有	本颂"欲色無色界"，"界"三界共用（另记）
+U210-002	S0274	kāmā	kāma	n. 成分	0016b23	欲	对译	0175c21	欲	
+U210-003	S0274	āptam	āpta	ptc. adj. nt. sg. nom. (√āp)			省译	0175c21	有	玄奘颂以"欲…界"表之，āpta（所繫）未译
+U210-004	S0274				0016b23	界	增译			"欲色無色界"之"界"，三界共用
+U210-005	S0274				0016b23	如次	增译			本颂补"如次"（欲、色、無色依次）
+U210-006	S0274	amalaṃ	a-mala	adj. nt. sg. acc.	0016b23	後三	意译	0175c22	淨	amala（无垢）指三无漏根，本颂作"後三"
+U210-007	S0274	hitvā	hā	abs.	0016b23	除	对译	0175c22	除	
+U210-008	S0274	hitvā	abs.	gram. abs. (-tvā)			省译			独立式未译出先行义
+U210-009	S0274	kāmapratisaṃyuktaṃ	kāma-pratisaṃyukta	cpd. nt. sg. nom.	0016b26	欲界繫	意译	0175c22	欲界相應	
+U210-010	S0274	kāma	kāma	n. 成分	0016b26	欲	对译	0175c22	欲	
+U210-011	S0274	pratisaṃyuktaṃ	pratisaṃyukta	ptc. nt. sg. nom. (√prati-saṃ-yuj)	0016b26	繫	对译	0175c22	相應	
+U210-012	S0274				0016b26	唯有十九	增译			玄奘补出根数
+U210-013	S0274	indriyaṃ	indriya	n. nt. sg. nom.	0016b26	根	对译			
+U210-014	S0274	veditavyam	veditavya	gdv. nt. sg. nom. (√vid)	0016b26	准知	意译	0175c22	知	准知（据此推知）
+U210-016	S0275				0016b25	欲界	增译			长行复述颂文 kāmāpta
+U210-017	S0275	hitvā	hā	abs.	0016b25	除	对译	0175c22	除	
+U210-018	S0275	ekāntānāsravam	ekānta-an-āsrava	cpd. adj. nt. sg. acc.	0016b25	無漏	意译	0175c22	一向無流	ekānta 未译
+U210-019	S0275	ekāntā	ekānta	adj. 成分			省译	0175c22	一向	
+U210-020	S0275	ānāsravam	an-āsrava	adj. nt. sg. acc.	0016b25	無漏	对译	0175c22	無流	
+U210-021	S0275	ājñāsyāmīndriyāditrayaṃ	ājñāsyāmi-indriya-ādi-traya	cpd. nt. sg. acc.	0016b25	後三…根	意译	0175c23	未知欲知等三根	玄奘以"後三"指称未知當知等三根
+U210-022	S0275	ājñāsyāmī	ā-jñā	v. fut. 1sg.			省译	0175c23	欲知	以"後三"概括
+U210-023	S0275	ndriyā	indriya	n. 成分	0016b25	根	对译	0175c23	根	
+U210-024	S0275	ādi	ādi	n. 成分			省译	0175c23	等	以"後三"概括
+U210-025	S0275	trayaṃ	traya	n. nt. sg. acc.	0016b25	三	对译	0175c23	三	
+U210-027	S0276				0016b25	三根	增译	0175c23	三	"彼三根"之"三根"，复指所指
+U210-028	S0276	taddhy	hi	ind.	0016b25	由…故	语法	0175c23	何以故	
+U210-029	S0276	apratisaṃyuktam	a-pratisaṃyukta	ptc. adj. nt. sg. nom. (√prati-saṃ-yuj)	0016b25	不繫	对译	0175c23	非三界相應	
+U210-031	S0277	rūpāptaṃ	rūpa-āpta	cpd. nt. sg. nom.	0016b23	色	意译	0175c24	色有	"界"三界共用（见 S0274）
+U210-032	S0277	rūpā	rūpa	n. 成分	0016b23	色	对译	0175c24	色	
+U210-033	S0277	āptaṃ	āpta	ptc. adj. nt. sg. nom. (√āp)			省译	0175c24	有	
+U210-034	S0277				0016b24	兼	增译			本颂"兼"表在"後三"之外又除
+U210-035	S0277	strīpumindriye	strī-puṃs-indriya	cpd. nt. du. acc.	0016b24	女男	对译	0175c24	女男	
+U210-036	S0277	strī	strī	n. 成分	0016b24	女	对译	0175c24	女	
+U210-037	S0277	pum	puṃs	n. 成分	0016b24	男	对译	0175c24	男	
+U210-038	S0277	indriye	indriya	n. nt. du. acc.			省译			本颂未出"根"
+U210-039	S0278	duḥkhe	duḥkha	n. nt. du. acc.	0016b24	憂苦	意译	0175c24	二苦	duḥkhe（二苦）指苦、憂二根（长行 S0279）
+U210-040	S0278	duḥkhe	du.	gram. du. (-e)			省译	0175c24	二	双数玄奘未译（以"憂苦"分说）；真谛作"二苦"
+U210-041	S0278	hitvā	hā	abs.	0016b23	除	合译	0175c24	除	与 S0274 hitvā 共用颂中"除"（如次除後三，兼女男憂苦）
+U210-042	S0279				0016b26	色界	增译			长行复述颂文 rūpāpta
+U210-043	S0279	varttate	vṛt	v. pres. 3sg.	0016b26	如前	意译	0175c24	如前	varttate（承上文流贯）译"如前"；GRETIL 本作 varttate
+U210-044	S0279				0016b27	除三	增译	0175c25	除	承上 hitvā；"三"指三无漏根
+U210-045	S0279	amalaṃ	a-mala	adj. nt. sg. nom.	0016b27	無漏	意译	0175c25	無流	amala（无垢）译"無漏"
+U210-046	S0279	ceti	ca	ind.	0016b27	兼	语法			amalaṃ ca（無漏亦除）之 ca 译"兼"
+U210-047	S0279				0016b27	除男、女	增译			长行复述颂文 hitvā strīpumindriye
+U210-048	S0279	duḥkhe iti	duḥkha	n. nt. du. nom.			省译	0175c25	二苦	释词所引颂文，玄奘径出所指
+U210-049	S0279	duḥkhadaurmanasye	duḥkha-daurmanasya	cpd. nt. du. nom.	0016b27	憂、苦	意译	0175c25	苦憂二根	玄奘倒序作"憂、苦"
+U210-050	S0279	duḥkha	duḥkha	n. 成分	0016b27	苦	对译	0175c25	苦	
+U210-051	S0279	daurmanasye	daurmanasya	n. nt. du. nom.	0016b27	憂	对译	0175c25	憂	
+U210-052	S0279				0016b27	四根	增译			"男、女、憂、苦四根"之"四根"
+U210-053	S0279				0016b27	准知十五根亦通色界繫	增译			玄奘补出根数（承 S0274 句式）
+U210-054	S0280	maithunadharmavairāgyād	maithuna-dharma-vairāgya	cpd. nt. sg. abl.	0016b28	離婬欲法	意译	0175c25	離欲婬欲法	
+U210-055	S0280	maithuna	maithuna	n. 成分	0016b28	婬欲	对译	0175c26	婬欲	
+U210-056	S0280	dharma	dharma	n. 成分	0016b28	法	对译	0175c26	法	
+U210-057	S0280	vairāgyād	vairāgya	n. nt. sg. abl.	0016b28	離	意译	0175c25	離欲	vairāgya（离欲）译"離"
+U210-058	S0280				0016b28	已	增译			"已離"之"已"
+U210-060	S0280	aśobhākaratvāc	a-śobhā-kara-tva	cpd. nt. sg. abl.	0016b29	醜陋	意译	0175c26	令依止非可愛	
+U210-061	S0280	aśobhākara	a-śobhā-kara	adj. 成分	0016b29	醜陋	意译	0175c26	令…非可愛	-tva 前的 aśobhākara 作一个成分
+U210-062	S0280	aśobhākaratvāc	abl.	gram. abl. (-āt)	0016b29	由…故	语法	0175c26	故	第五格表原因
+U210-063	S0280				0016b29	女男根身	增译			补出：女男根（令）身醜陋
+U210-064	S0280	rūpadhātau	rūpa-dhātu	cpd. m. sg. loc.	0016b28	色界	对译	0175c25	色界	
+U210-065	S0280	rūpa	rūpa	n. 成分	0016b28	色	对译	0175c25	色	
+U210-066	S0280	dhātau	dhātu	n. m. sg. loc.	0016b28	界	对译	0175c25	界	
+U210-068	S0280	strīpuruṣendriye	strī-puruṣa-indriya	cpd. nt. du. nom.	0016b28	女男	对译	0175c26	女男二根	
+U210-069	S0280	strī	strī	n. 成分	0016b28	女	对译	0175c26	女	
+U210-070	S0280	puruṣe	puruṣa	n. 成分	0016b28	男	对译	0175c27	男	
+U210-071	S0280	ndriye	indriya	n. nt. du. nom.			省译	0175c27	根	
+U210-072	S0280	na staḥ	na	ind.	0016b28	除	意译	0175c26	無	na staḥ（無有）玄奘以颂文"除"表之（除女男者）
+U210-073	S0280				0016b28	者	增译			"除女男者"之"者"，标举话题
+U210-075	S0281	kathamidānīṃ	katham	ind.	0016b29	何故	语法	0175c27	云何	
+U210-076	S0281	idānīṃ	idānīm	ind.	0016b29	若爾	意译	0175c27	若爾	idānīm（那么）译"若爾"
+U210-077	S0281	puruṣās	puruṣa	n. m. pl. nom.	0016c01	男	对译	0175c27	丈夫	
+U210-079	S0281	ucyante	vac	v. pres. pass. 3pl.	0016b29	說…為	对译	0175c27	說…為	
+U210-081	S0282	kvocyante	kva	ind.	0016c01	於何處	对译	0175c27	何處	
+U210-082	S0282	ocyante	vac	v. pres. pass. 3pl.	0016c01	說	对译	0175c27	說	
+U210-083	S0282	sūtre	sūtra	n. nt. sg. loc.	0016c01	契經	对译	0175c27	經	
+U210-085	S0282				0016c01	說	增译			"契經中說"之"說"，答语复述 ucyante
+U210-086	S0283				0016c01	如契經言	增译	0175c27	如經言	引经标语
+U210-087	S0283	asthānam	a-sthāna	n. nt. sg. nom.	0016c01	無處	对译	0175c28	無處	
+U210-088	S0283	anavakāśo	an-avakāśa	n. m. sg. nom.	0016c01	無容	对译	0175c28	無理	
+U210-090	S0283	strī	strī	n. f. sg. nom.	0016c02	女身	意译	0175c28	女人	strī（女人）译"女身"
+U210-091	S0283	brahmatvaṃ	brahma-tva	n. nt. sg. acc.	0016c02	梵	意译	0175c28	梵	brahmatva（梵王之位）译"梵"
+U210-092	S0283	kārayiṣyati	kṛ (caus.)	v. fut. caus. 3sg.	0016c02	為	意译	0175c28	作	brahmatvaṃ kārayiṣyati（行梵王之事）译"為梵"
+U210-097	S0284	sthānaṃ	sthāna	n. nt. sg. nom.			省译			
+U210-098	S0284	sthānaṃ vidyate	vid	v. pres. pass. 3sg.			省译			
+U210-099	S0284	sthānametat	sthāna	n. nt. sg. nom.	0016c02	處	对译	0175c28	處	
+U210-100	S0284	etat vidyate	vid	v. pres. pass. 3sg.	0016c02	有	对译	0175c28	有	vidyate（存在）译"有"（有處）
+U210-101	S0284				0016c02	有容	增译	0175c28	有理	与上句"無容"对举（avakāśa）
+U210-102	S0284	puruṣa	puruṣa	n. m. sg. nom.	0016c02	男身	意译	0175c28	丈夫	puruṣa（男子）译"男身"
+U210-103	S0284				0016c02	為梵	梵本缺文	0175c28	作梵	梵本略引（yat puruṣa iti），玄奘、真谛都补出"為梵/作梵"
+U210-104	S0285	anyaḥ	anya	pron. m. sg. nom.	0016c02	別	意译	0175c29	別	anya（另一）译"別"
+U210-105	S0285				0016c02	有	增译	0175c29	有	"別有男相"之"有"
+U210-106	S0285	puruṣabhāvo	puruṣa-bhāva	cpd. m. sg. nom.	0016c02	男相	意译	0175c29	丈夫相	
+U210-107	S0285	puruṣa	puruṣa	n. 成分	0016c02	男	对译	0175c29	丈夫	
+U210-108	S0285	bhāvo	bhāva	n. m. sg. nom.	0016c03	相	意译	0175c29	相	bhāva（性、状态）译"相"
+U210-109	S0285	yaḥ	yad	pron. m. sg. nom.	0016c03	謂	语法			关系代词引出说明，译"謂"
+U210-110	S0285	kāmachātau	kāma-dhātu	cpd. m. sg. loc.	0016c03	欲界	对译	0175c29	欲界	GRETIL 本作 kāmachātau，当读 kāmadhātau
+U210-111	S0285	kāma	kāma	n. 成分	0016c03	欲	对译	0175c29	欲	
+U210-112	S0285	chātau	dhātu	n. m. sg. loc.	0016c03	界	对译	0175c29	界	GRETIL 本作 -chātau
+U210-114	S0285	puruṣāṇāṃ	puruṣa	n. m. pl. gen.	0016c03	男身	意译	0175c29	丈夫	
+U210-115	S0285	bhavati	bhū	v. pres. 3sg.	0016c03	所有	意译	0175c29	所得	puruṣāṇāṃ bhavati（为男子所有）译"男身所有"
+U210-116	S0286	duḥkhendriyaṃ	duḥkha-indriya	cpd. nt. sg. nom.	0016c03	苦根	对译	0176a01	苦根	
+U210-117	S0286	duḥkhe	duḥkha	n. 成分	0016c03	苦	对译	0176a01	苦	
+U210-118	S0286	endriyaṃ	indriya	n. nt. sg. nom.	0016c03	根	对译	0176a01	根	
+U210-121	S0286				0016c03	者	增译			"無苦根者"之"者"
+U210-122	S0286	āśrayasyā	āśraya	n. m. sg. gen.	0016c03	身	意译	0176a01	依止	āśraya（所依身）译"身"
+U210-123	S0286	ācchatvād	accha-tva	n. nt. sg. abl.	0016c03	淨妙	意译	0176a01	淨妙	
+U210-124	S0286	akuśalā bhāvāc	a-kuśala-a-bhāva	cpd. m. sg. abl.	0016c04	無有不善法	意译	0176a01	無惡業	GRETIL 本作 akuśalā bhāvāccha，当读 akuśalābhāvāc ca
+U210-125	S0286	akuśalā	a-kuśala	adj. 成分	0016c04	不善法	意译	0176a01	惡業	akuśala（不善）译"不善法"
+U210-126	S0286	bhāvāc	a-bhāva	n. m. sg. abl.	0016c04	無有	对译	0176a01	無	
+U210-128	S0286				0016c04	彼	增译			"又彼"之"彼"，指色界
+U210-129	S0287	daurmanasyendriyaṃ	daurmanasya-indriya	cpd. nt. sg. nom.	0016c04	憂根	对译	0176a02	憂根	
+U210-130	S0287	daurmanasye	daurmanasya	n. 成分	0016c04	憂	对译	0176a02	憂	
+U210-131	S0287	ndriyaṃ	indriya	n. nt. sg. nom.	0016c04	根	对译	0176a02	根	
+U210-134	S0287				0016c04	者	增译			"無憂根者"之"者"
+U210-135	S0287	śamathasnigdhasantānatvād	śamatha-snigdha-santāna-tva	cpd. nt. sg. abl.	0016c04	奢摩他潤相續	意译	0176a02	奢摩他軟滑相續	
+U210-136	S0287	śamatha	śamatha	n. 成分	0016c04	奢摩他	音译	0176a02	奢摩他	
+U210-137	S0287	snigdha	snigdha	ptc. 成分 (√snih)	0016c05	潤	对译	0176a02	軟滑	
+U210-138	S0287	santāna	santāna	n. 成分	0016c05	相續	对译	0176a02	相續	
+U210-140	S0287	āghātavastvabhāvāc	āghāta-vastu-a-bhāva	cpd. m. sg. abl.	0016c05	無惱害事	意译	0176a02	無限類境界	
+U210-141	S0287	āghāta	āghāta	n. 成分	0016c05	惱害	对译			
+U210-142	S0287	vastv	vastu	n. 成分	0016c05	事	对译			
+U210-143	S0287	abhāvāc	a-bhāva	n. m. sg. abl.	0016c05	無	对译	0176a02	無	
+U210-144	S0287				0016c05	定	增译			"定無"之"定"
+U210-146	S0287				0016c05	彼	增译			"又彼"之"彼"
+U210-147	S0288	ārūpyāptaṃ	ārūpya-āpta	cpd. nt. sg. nom.	0016b23	無色	意译	0176a03	無色有	"界"三界共用（见 S0274）
+U210-148	S0288	ārūpyā	ārūpya	n. 成分	0016b23	無色	对译	0176a03	無色	
+U210-149	S0288	āptaṃ	āpta	ptc. adj. nt. sg. nom. (√āp)			省译	0176a03	有	
+U210-150	S0288	sukhe	sukha	n. nt. du. acc.	0016b24	喜樂	意译	0176a03	二樂	sukhe（二乐）指乐、喜二根
+U210-151	S0288	cāpohya	ca	ind.	0016b24	并	语法			
+U210-152	S0288	āpohya	apa-ūh	abs.	0016b24	除	对译	0176a03	除	
+U210-153	S0288	rūpi	rūpin	adj. nt. sg. acc.	0016b24	色	意译	0176a03	色	rūpin（有色者）指眼等五色根
+U210-154	S0289				0016c05	無色	增译			长行复述颂文 ārūpyāpta
+U210-155	S0289	strīpuruṣendriye	strī-puruṣa-indriya	cpd. nt. du. acc.	0016c06	女、男	对译	0176a03	女男二根	
+U210-156	S0289	strī	strī	n. 成分	0016c06	女	对译	0176a03	女	
+U210-157	S0289	puruṣe	puruṣa	n. 成分	0016c06	男	对译	0176a04	男	
+U210-158	S0289	ndriye	indriya	n. nt. du. acc.			省译	0176a04	根	
+U210-159	S0289	duḥkhe	duḥkha	n. nt. du. acc.	0016c06	憂、苦	意译	0176a04	二苦根	duḥkhe（二苦）分作"憂、苦"
+U210-160	S0289	cāmalaṃ	a-mala	adj. nt. sg. acc.	0016c06	無漏	意译	0176a04	無流	amala（无垢）译"無漏"
+U210-161	S0289				0016c06	三	增译			"三無漏"之"三"
+U210-162	S0289	hitveti	hā	abs.	0016c06	除	对译	0176a03	除	
+U210-163	S0289	varttate	vṛt	v. pres. 3sg.	0016c06	如前	意译			varttate（承上文流贯）译"如前"；GRETIL 本作 varttate
+U210-164	S0289				0016c06	并除五色及喜、樂根	增译			长行复述颂文 sukhe … rūpi ca
+U210-165	S0289	kimavaśāiṣyate	kim	pron. nt. sg. nom.			省译	0176a04	幾	设问 kim avaśiṣyate，玄奘不设问
+U210-166	S0289	avaśāiṣyate	ava-śiṣ	v. pres. pass. 3sg.	0016c07	餘	意译	0176a04	所餘	GRETIL 本作 avaśāiṣyate，当读 avaśiṣyate
+U210-167	S0290				0016c07	謂	增译			列举所余八根
+U210-168	S0290	manojīvitopekṣendriyāṇi	manas-jīvita-upekṣā-indriya	cpd. nt. pl. nom.	0016c07	意、命、捨…根	对译	0176a04	意命捨	"根"与 śraddhādīni pañca 共用（信等五根）
+U210-169	S0290	mano	manas	n. 成分	0016c07	意	对译	0176a04	意	
+U210-170	S0290	jīvito	jīvita	n. 成分	0016c07	命	对译	0176a05	命	
+U210-171	S0290	opekṣe	upekṣā	n. 成分	0016c07	捨	对译	0176a05	捨	
+U210-172	S0290	endriyāṇi	indriya	n. nt. pl. nom.	0016c08	根	合译	0176a05	根	与 śraddhādīni pañca 共用"根"（信等五根）
+U210-173	S0290	śraddhādīni	śraddhā-ādi	cpd. nt. pl. nom.	0016c07	信等	对译	0176a05	信等	
+U210-174	S0290	śraddhā	śraddhā	n. 成分	0016c07	信	对译	0176a05	信	
+U210-175	S0290	ādīni	ādi	n. nt. pl. nom.	0016c08	等	对译	0176a05	等	
+U210-176	S0290	pañca	pañcan	num. pl. nom.	0016c08	五	对译	0176a05	五	
+U210-177	S0291	etāny	etad	pron. nt. pl. nom.	0016c07	八根	意译	0176a05	如此多根	代词还原为所指（八根）
+U210-178	S0291				0016c07	准知	增译			承 S0274 句式
+U210-179	S0291				0016c07	通	增译			"通無色界繫"之"通"
+U210-180	S0291	ārūpyapratisaṃyuktāni	ārūpya-pratisaṃyukta	cpd. nt. pl. nom.	0016c07	無色界繫	意译	0176a05	無色界相應	
+U210-181	S0291	ārūpya	ārūpya	n. 成分	0016c07	無色界	意译	0176a05	無色界	ārūpya（无色界）
+U210-182	S0291	pratisaṃyuktāni	pratisaṃyukta	ptc. nt. pl. nom. (√prati-saṃ-yuj)	0016c07	繫	对译	0176a05	相應	
+U210-184	S0291	nānyāni	anya	pron. nt. pl. nom.			省译	0176a06	餘	nānyāni（非余根）玄奘未译；真谛作"無餘根"
+U210-185	S0292				0016c08	如是已說欲界繫等	增译			玄奘补出结上之语
+U210-186	S0292				0016c08	二十二…中	增译			补出问题范围（二十二根中）
+U210-187	S0292	katīndriyāṇi	indriya	n. nt. pl. nom.	0016c08	根	对译	0176a06	根	
+U210-188	S0292	darśanaprahātavyāni	darśana-prahātavya	cpd. nt. pl. nom.	0016c09	見所斷	对译	0176a06	見諦滅	
+U210-189	S0292	darśana	darśana	n. 成分	0016c09	見	对译	0176a06	見諦	
+U210-190	S0292	prahātavyāni	prahātavya	gdv. nt. pl. nom. (√pra-hā)	0016c09	所斷	对译	0176a06	滅	
+U210-191	S0292	bhāvanāprahātavyāni	bhāvanā-prahātavya	cpd. nt. pl. nom.	0016c09	修所斷	对译	0176a06	修道滅	
+U210-192	S0292	bhāvanā	bhāvanā	n. 成分	0016c09	修	对译	0176a06	修道	
+U210-193	S0292	prahātavyāni	prahātavya	gdv. nt. pl. nom. (√pra-hā)	0016c09	所斷	对译	0176a06	滅	
+U210-194	S0292	aprahātavyāni	a-prahātavya	gdv. nt. pl. nom. (√pra-hā)	0016c09	非所斷	对译	0176a07	非所滅	

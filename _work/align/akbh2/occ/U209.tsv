@@ -1,0 +1,131 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U209-001	S0256	mano	manas	n. nt. sg. nom.	0016b03	意	对译	0175c10	意	
+U209-002	S0256	'nyavittiśraddhādīni	anya-vitti-śraddhā-ādi	cpd. nt. pl. nom.	0016b03	餘受信等	对译	0175c10	餘受信等	
+U209-003	S0256	'nya	anya	pron. 成分	0016b03	餘	对译	0175c10	餘	
+U209-004	S0256	vitti	vitti	n. 成分	0016b03	受	对译	0175c10	受	vitti（感受）即 vedanā
+U209-005	S0256	śraddhā	śraddhā	n. 成分	0016b03	信	对译	0175c10	信	
+U209-006	S0256	ādīni	ādi	n. nt. pl. nom.	0016b03	等	对译	0175c10	等	
+U209-007	S0256				0016b10	意根	增译			长行复述颂文 manas
+U209-008	S0257	anyavittigrahaṇāt	anya-vitti-grahaṇa	cpd. nt. sg. abl.			省译	0175c10	餘受者	玄奘不释"餘受"之名，径作"餘四受"
+U209-009	S0257	anya	anya	pron. 成分			省译	0175c10	餘	
+U209-010	S0257	vitti	vitti	n. 成分			省译	0175c10	受	
+U209-011	S0257	grahaṇāt	grahaṇa	n. nt. sg. abl.			省译			
+U209-012	S0257	daurmanasyād	daurmanasya	n. nt. sg. abl.			省译	0175c11	憂根	玄奘不出"異於憂"，以"四"表之（樂苦喜捨）
+U209-013	S0257	anyat	anya	pron. nt. sg. nom.	0016b10	餘	对译	0175c11	異	
+U209-014	S0257				0016b10	四	增译			"餘四受"之"四"（樂、苦、喜、捨）
+U209-015	S0257	veditaṃ	vedita	ptc. nt. sg. nom. (caus. √vid)	0016b10	受	对译			veditam（所受）即受；真谛作"應知"，似读作 veditavyam
+U209-016	S0257	gṛhyate	grah	v. pres. pass. 3sg.			省译			
+U209-017	S0258	śraddhādīni	śraddhā-ādi	cpd. nt. pl. nom.	0016b10	信等	对译			
+U209-018	S0258	śraddhā	śraddhā	n. 成分	0016b10	信	对译			
+U209-019	S0258	ādīni	ādi	n. nt. pl. nom.	0016b10	等	对译			
+U209-020	S0258				0016b10	言	增译			"信等言"之"言"，指颂文用语
+U209-021	S0258				0016b10	等取	增译			说明"等"字所摄
+U209-022	S0258	śraddhāvīryasmṛtisamāchiprajñāḥ	śraddhā-vīrya-smṛti-samādhi-prajñā	cpd. f. pl. nom.	0016b10	精進等	意译	0175c11	信精進念定慧	GRETIL 本作 samāchi，当读 samādhi；玄奘只出"精進"，以"等"概括念、定、慧，"信"已见上文"信等"
+U209-023	S0258	śraddhā	śraddhā	n. 成分			省译	0175c11	信	已见"信等"，不重出
+U209-024	S0258	vīrya	vīrya	n. 成分	0016b10	精進	对译	0175c11	精進	
+U209-025	S0258	smṛti	smṛti	n. 成分			省译	0175c11	念	玄奘以"等"概括
+U209-026	S0258	samāchi	samādhi	n. 成分			省译	0175c11	定	GRETIL 本作 samāchi，当读 samādhi；玄奘以"等"概括
+U209-027	S0258	prajñāḥ	prajñā	n. f. pl. nom.			省译	0175c11	慧	玄奘以"等"概括
+U209-028	S0258				0016b10	四根	增译	0175c11	根	"精進等四根"之"四根"
+U209-030	S0259	manaḥsukhasaumanasyopekṣā	manas-sukha-saumanasya-upekṣā	cpd. f. pl. nom.	0016b11	意樂喜捨	对译	0175c11	意樂喜捨	
+U209-031	S0259	manaḥ	manas	n. 成分	0016b11	意	对译	0175c11	意	
+U209-032	S0259	sukha	sukha	n. 成分	0016b11	樂	对译	0175c11	樂	
+U209-033	S0259	saumanasyo	saumanasya	n. 成分	0016b11	喜	对译	0175c11	喜	
+U209-034	S0259	opekṣā	upekṣā	n. f. pl. nom.	0016b11	捨	对译	0175c12	捨	
+U209-035	S0259				0016b11	若	增译	0175c12	若	条件句
+U209-036	S0259	akuāśalāḥ	a-kuśala	adj. f. pl. nom.	0016b11	不善	对译	0175c12	惡	GRETIL 本作 akuāśalāḥ，当读 akuśalāḥ
+U209-037	S0259	kuśalāḥ	kuśala	adj. f. pl. nom.	0016b11	善	对译	0175c12	善	
+U209-038	S0259	sāsravāś	sa-āsrava	adj. f. pl. nom.	0016b11	有漏	对译	0175c12	有流	
+U209-039	S0259	savipākāḥ	sa-vipāka	adj. f. pl. nom.	0016b12	有異熟	对译	0175c12	有果報	
+U209-040	S0260				0016b12	若	增译			条件句；真谛无此句
+U209-041	S0260	anāsravā	an-āsrava	adj. f. pl. nom.	0016b12	無漏	对译			玄奘倒序作"無記無漏"
+U209-042	S0260	avyākṛtāś	a-vyākṛta	ptc. adj. f. pl. nom. (√vi-ā-kṛ)	0016b12	無記	对译			
+U209-043	S0260	āvipākāḥ	a-vipāka	adj. f. pl. nom.	0016b12	無異熟	对译			
+U209-044	S0261	duḥkhendriyaṃ	duḥkha-indriya	cpd. nt. sg. nom.	0016b12	苦根	对译	0175c12	苦根	
+U209-045	S0261	duḥkhe	duḥkha	n. 成分	0016b12	苦	对译	0175c12	苦	
+U209-046	S0261	endriyaṃ	indriya	n. nt. sg. nom.	0016b12	根	对译	0175c12	根	
+U209-047	S0261				0016b12	若	增译	0175c12	若	条件句
+U209-048	S0261	kuśalākuāśalaṃ	kuśala-a-kuśala	cpd. adj. nt. sg. nom.	0016b12	善不善	对译	0175c12	善…惡	GRETIL 本作 kuśalākuāśalaṃ，当读 kuśalākuśalaṃ
+U209-049	S0261	kuśalā	kuśala	adj. 成分	0016b12	善	对译	0175c12	善	
+U209-050	S0261	ākuāśalaṃ	a-kuśala	adj. nt. sg. nom.	0016b12	不善	对译	0175c13	惡	GRETIL 本作 -ākuāśalaṃ
+U209-051	S0261	savipākam	sa-vipāka	adj. nt. sg. nom.	0016b13	有異熟	对译	0175c13	有果報	
+U209-052	S0261				0016b13	若	增译	0175c13	若	条件句
+U209-053	S0261	avyākṛtam	a-vyākṛta	ptc. adj. nt. sg. nom. (√vi-ā-kṛ)	0016b13	無記	对译	0175c13	無記	
+U209-054	S0261	avipākam	a-vipāka	adj. nt. sg. nom.	0016b13	無異熟	对译	0175c13	無果報	
+U209-055	S0262	śraddhādīni	śraddhā-ādi	cpd. nt. pl. nom.	0016b13	信等	对译	0175c13	信等	
+U209-056	S0262	śraddhā	śraddhā	n. 成分	0016b13	信	对译	0175c13	信	
+U209-057	S0262	ādīni	ādi	n. nt. pl. nom.	0016b13	等	对译	0175c13	等	
+U209-058	S0262				0016b13	五根	增译	0175c13	五根	玄奘、真谛都补"五根"
+U209-059	S0262				0016b13	若	增译	0175c13	若	条件句
+U209-060	S0262	sasravāṇi	sa-āsrava	adj. nt. pl. nom.	0016b13	有漏	对译	0175c13	有流	GRETIL 本作 sasravāṇi，当读 sāsravāṇi
+U209-061	S0262	savipākāny	sa-vipāka	adj. nt. pl. nom.	0016b14	有異熟	对译	0175c14	有果報	
+U209-062	S0262				0016b14	若	增译			条件句
+U209-063	S0262	anāsravāṇy	an-āsrava	adj. nt. pl. nom.	0016b14	無漏	对译	0175c14	無流	
+U209-064	S0262	avipākāni	a-vipāka	adj. nt. pl. nom.	0016b14	無異熟	对译	0175c14	無果報	
+U209-065	S0263	anyad	anya	pron. nt. sg. nom.	0016b08	眼等前八及最後三	意译	0175c14	所餘	anyat（其余）玄奘具体化为"眼等前八及最後三"，并移到"信等"诸句之前
+U209-066	S0263				0016b08	定	增译			"定無異熟"之"定"
+U209-067	S0263	avipākam	a-vipāka	adj. nt. sg. nom.	0016b08	無異熟	对译	0175c14	無果報	
+U209-068	S0263				0016b09	八無記故，三無漏故	增译			玄奘补出无异熟之理由
+U209-069	S0263				0016b09	餘皆通二	增译			复述颂文 daśa dvidhā
+U209-071	S0263	siddham	siddha	ptc. nt. sg. nom. (√sidh)	0016b09	義准…成	意译	0175c14	義至自成	siddham（自明、成立）译"義准已成"；"已"另记
+U209-073	S0264				0016b14	如是已說有異熟等	增译			玄奘补出结上之语
+U209-074	S0264				0016b15	二十二根中	增译			补出问题范围
+U209-076	S0264	kuśalāni	kuśala	adj. nt. pl. nom.	0016b15	善	对译	0175c15	善	
+U209-078	S0264	akuśalāni	a-kuśala	adj. nt. pl. nom.	0016b15	不善	对译	0175c15	惡	
+U209-079	S0264	avyākṛtāni	a-vyākṛta	ptc. adj. nt. pl. nom. (√vi-ā-kṛ)	0016b15	無記	对译	0175c15	無記	
+U209-080	S0264	ekāntena	ekānta	n. m. sg. instr.	0016b18	一向	对译	0175c16	一向	长行"信等八根一向是善"
+U209-082	S0265				0016b16	唯	增译			本颂"唯"即长行 ekāntena 之意
+U209-083	S0265	aṣṭakaṃ	aṣṭaka	n. nt. sg. nom.	0016b16	八	对译	0175c16	八	aṣṭaka（八者一组）
+U209-084	S0265				0016b16	後…根	增译			"後八根"之"後""根"
+U209-085	S0265	kuśalaṃ	kuśala	adj. nt. sg. nom.	0016b16	善	对译	0175c16	善	
+U209-086	S0265	pañcaśraddhādīni	pañcan	num. pl. nom.			省译	0175c16	五	GRETIL 本连写作 pañcaśraddhādīni，当分作 pañca śraddhādīni；玄奘合五与三为"信等八根"
+U209-087	S0265	śraddhādīni	śraddhā-ādi	cpd. nt. pl. nom.	0016b18	信等	对译	0175c16	信等	
+U209-088	S0265	śraddhā	śraddhā	n. 成分	0016b18	信	对译	0175c16	信	
+U209-089	S0265	ādīni	ādi	n. nt. pl. nom.	0016b18	等	对译	0175c16	等	
+U209-090	S0265				0016b18	八根	增译			长行复述颂文 aṣṭakam
+U209-091	S0265				0016b18	是善	增译			长行复述颂文 kuśalam
+U209-092	S0265	trīṇi	tri	num. nt. pl. nom.			省译	0175c17	三	玄奘以"信等八根"概括
+U209-093	S0265	cājñāsyāmīndriyādīni	ājñāsyāmi-indriya-ādi	cpd. nt. pl. nom.			省译	0175c16	未知欲知等	玄奘以"信等八根"概括
+U209-094	S0265	ājñāsyāmī	ā-jñā	v. fut. 1sg.			省译	0175c17	欲知	ājñāsyāmi（我当知）为根名的略称（anājñātam ājñāsyāmīndriya）
+U209-095	S0265	ndriyā	indriya	n. 成分			省译			
+U209-096	S0265	ādīni	ādi	n. nt. pl. nom.			省译	0175c17	等	
+U209-097	S0265				0016b18	數次雖居後，乘前故先說	增译			玄奘补出：信等八根次第在后，承上（憂根）先说
+U209-098	S0266	dvidhā	dvidhā	ind.	0016b16	通善不善	意译	0175c17	二種	本颂以"善不善"具体化"二"（据长行 S0268）
+U209-099	S0267	daurmanasyaṃ	daurmanasya	n. nt. sg. nom.	0016b16	憂	对译	0175c17	憂	
+U209-100	S0268				0016b19	憂根唯通	增译			长行复述颂文 daurmanasyaṃ dvidhā
+U209-101	S0268	kuśalaṃ	kuśala	adj. nt. sg. nom.	0016b19	善	对译	0175c17	善	
+U209-102	S0268	cākuśalaṃ	a-kuśala	adj. nt. sg. nom.	0016b19	不善	对译	0175c17	惡	
+U209-103	S0268				0016b19	性	增译			"善不善性"之"性"
+U209-104	S0269	mano	manas	n. nt. sg. nom.	0016b17	意	对译	0175c18	意	
+U209-105	S0269	'nyā	anya	pron. f. sg. nom.	0016b17	餘	对译	0175c18	餘	
+U209-107	S0269	vittis	vitti	n. f. sg. nom.	0016b17	受	对译	0175c18	受	
+U209-108	S0269	tredhā	tredhā	ind.	0016b17	三種	对译	0175c18	三種	
+U209-109	S0269				0016b19	意…餘受一一通	增译			长行复述颂文
+U209-110	S0270	kuśalākuśalāvyākṛtāni	kuśala-a-kuśala-a-vyākṛta	cpd. nt. pl. nom.	0016b20	三	意译	0175c18	善、惡、無記	玄奘以"三"概括善、不善、無記
+U209-111	S0270	kuśalā	kuśala	adj. 成分			省译	0175c18	善	玄奘以"三"概括
+U209-112	S0270	ākuśalā	a-kuśala	adj. 成分			省译	0175c19	惡	玄奘以"三"概括
+U209-113	S0270	āvyākṛtāni	a-vyākṛta	ptc. adj. nt. pl. nom. (√vi-ā-kṛ)			省译	0175c19	無記	玄奘以"三"概括
+U209-114	S0271	anyad	anya	pron. nt. sg. nom.	0016b17	前八	意译	0175c19	餘	anyat（其余）本颂具体化为"前八"
+U209-115	S0271	ekadhā	ekadhā	ind.	0016b17	唯無記	意译	0175c19	一種	本颂以"唯無記"具体化 ekadhā（据长行 S0272）
+U209-116	S0272	kiñcid	kiṃcit	pron. nt. sg. nom.			省译			待核：kiñcid anyat 文意不明，真谛作"何者為餘"，似读作 kiṃ tad anyat；玄奘不设问
+U209-117	S0272	kiñcidanyat	anya	pron. nt. sg. nom.			省译	0175c19	餘	
+U209-118	S0272	jīvitāṣṭamaṃ	jīvita-aṣṭama	cpd. adj. nt. sg. nom. (bahuvrīhi)	0016b20	八	意译	0175c20	命根為第八	jīvitāṣṭama（以命为第八者）只译"八"
+U209-119	S0272	jīvitā	jīvita	n. 成分			省译	0175c20	命根	
+U209-120	S0272	āṣṭamaṃ	aṣṭama	num. nt. sg. nom.	0016b20	八	意译	0175c20	第八	序数"第八"译作基数"八"
+U209-121	S0272	cakṣurādi	cakṣus-ādi	cpd. nt. sg. nom.	0016b20	眼等	对译	0175c19	眼根為第一	
+U209-122	S0272	cakṣur	cakṣus	n. 成分	0016b20	眼	对译	0175c19	眼	
+U209-123	S0272	ādi	ādi	n. nt. sg. nom.	0016b20	等	对译			
+U209-124	S0272				0016b20	根	增译			"眼等八根"之"根"
+U209-126	S0272	avyākṛtameva	a-vyākṛta	ptc. adj. nt. sg. nom. (√vi-ā-kṛ)	0016b20	無記	对译	0175c20	無記	
+U209-128	S0272				0016b20	性	增译			"唯無記性"之"性"
+U209-129	S0273				0016b20	如是已說善不善等	增译			玄奘补出结上之语
+U209-130	S0273	katamadindriyaṃ	katama	pron. nt. sg. nom.	0016b21	幾	意译	0175c21	何	玄奘把"何根属何界"改作"幾欲界繫、幾色界繫、幾無色界繫"三问
+U209-131	S0273	indriyaṃ	indriya	n. nt. sg. nom.			省译	0175c21	根	已见"二十二根中"
+U209-132	S0273	katamadhātvāptam	katama-dhātu-āpta	cpd. adj. nt. sg. nom.	0016b21	欲界繫…色界繫…無色界繫	意译	0175c21	何界相應	玄奘分作三界逐一发问
+U209-133	S0273	katama	katama	pron. 成分			省译	0175c21	何	疑问并入"幾"
+U209-134	S0273	dhātv	dhātu	n. 成分	0016b21	界	对译	0175c21	界	
+U209-135	S0273	āptam	āpta	ptc. adj. nt. sg. nom. (√āp)	0016b21	繫	对译	0175c21	相應	
+U209-136	S0273	eṣām	idam	pron. nt. pl. gen.	0016b21	二十二	意译	0175c21	二十二	代词还原为所指（二十二根）
+U209-137	S0273	indriyāṇām	indriya	n. nt. pl. gen.	0016b21	根	对译	0175c21	根	
+U209-138	S0273	indriyāṇām	gen.	gram. pl. gen. (-ānām)	0016b21	中	语法	0175c21	中	表部分的第六格
+U209-139	S0273				0016b21	欲…色…無色	增译			玄奘具体列出三界

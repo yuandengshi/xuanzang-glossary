@@ -1,0 +1,192 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U213-001	S0332	nirodhayaty	ni-rudh (caus.)	v. pres. caus. 3sg.	0017a06	滅	对译	0176b05	棄捨	
+U213-002	S0332				0017a06	諸根	增译			本颂补"諸根"（滅諸根）
+U213-003	S0332	uparamān	uparamat	ptc. m. sg. nom. (√upa-ram)	0017a06	死	意译	0176b05	死	GRETIL 本作 uparamānnārūpye，当读 uparamann ārūpye；uparamat（命终者）译"死"
+U213-004	S0332	uparamān	pres. ptc.	gram. pres. ptc. (-at)	0017a06	正	语法	0176b04	正	现在分词表正在，译"正"（正死）
+U213-005	S0332	ārūpye	ārūpya	n. m. sg. loc.	0017a06	無色	对译	0176b05	無色	
+U213-006	S0332	jīvitam	jīvita	n. nt. sg. acc.	0017a06	三	合译	0176b05	命	与 manaḥ、upekṣām 合为"三"（本颂"無色三"）
+U213-007	S0332	manaḥ	manas	n. nt. sg. acc.	0017a06	三	合译	0176b05	意	与 jīvitam、upekṣām 合为"三"
+U213-008	S0333	upekṣāṃ	upekṣā	n. f. sg. acc.	0017a06	三	合译	0176b05	捨	与 jīvitam、manaḥ 合为"三"
+U213-009	S0333				0017a08	在無色界將命終時，命、意、捨三於最後滅	梵本缺文	0176b05	若人在無色界正死，於最後心棄捨命、意、捨三根	二译长行都有释无色界一句，梵本无，疑所据梵本有之
+U213-010	S0333	rūpe	rūpa	n. nt. sg. loc.	0017a06	色	对译	0176b07	色	rūpa 指色界
+U213-011	S0333	'ṣṭau	aṣṭan	num. pl. nom.	0017a06	八	对译	0176b07	八	
+U213-012	S0334				0017a09	若在	增译	0176b07	若人在	
+U213-013	S0334	rūpadhātau	rūpa-dhātu	cpd. m. sg. loc.	0017a09	色界	对译	0176b07	色界	
+U213-014	S0334	rūpa	rūpa	n. 成分	0017a09	色	对译	0176b07	色	
+U213-015	S0334	dhātau	dhātu	n. m. sg. loc.	0017a09	界	对译	0176b07	界	
+U213-016	S0334	mriyalmāṇo	mriyamāṇa	ptc. m. sg. nom. (√mṛ)	0017a09	命終	意译	0176b07	死	GRETIL 本作 mriyalmāṇo，当读 mriyamāṇo
+U213-017	S0334	mriyalmāṇo	pres. ptc.	gram. pres. ptc. (-māna)	0017a09	將…時	语法	0176b07	正	现在分词表将然，译"將…時"
+U213-018	S0334	'ṣṭau nirodhayati	aṣṭan	num. pl. acc.	0017a10	八	对译	0176b08	八	
+U213-019	S0334				0017a10	如是…種	增译			"如是八種"之"如是""種"
+U213-020	S0334				0017a10	於最後	梵本缺文	0176b07	於最後心	待核：二译皆有"於最後（心）"，梵本无；或二人各自据颂文 uparamat 补出
+U213-021	S0334	nirodhayati	ni-rudh (caus.)	v. pres. caus. 3sg.	0017a10	滅	对译	0176b08	棄捨	
+U213-022	S0334				0017a09	即	增译			
+U213-023	S0334	tāni	tad	pron. nt. pl. nom.	0017a09	前	意译	0176b08	如前	tāni（前述者）译"前"
+U213-025	S0334	trīṇi	tri	num. nt. pl. nom.	0017a09	三	对译	0176b08	三	
+U213-026	S0334				0017a09	根	增译			"前三根"之"根"
+U213-027	S0334	cakṣurādīni	cakṣus-ādi	cpd. nt. pl. nom.	0017a09	眼等	对译	0176b08	眼等	
+U213-028	S0334	cakṣur	cakṣus	n. 成分	0017a09	眼	对译	0176b08	眼	
+U213-029	S0334	ādīni	ādi	n. nt. pl. nom.	0017a10	等	对译	0176b08	等	
+U213-030	S0334	pañca	pañcan	num. pl. nom.	0017a10	五	对译	0176b08	五	
+U213-031	S0335	sarve	sarva	adj. m. pl. nom.	0017a10	一切	对译	0176b09	一切	
+U213-033	S0335	upapādukāḥ	upapāduka	adj. m. pl. nom.	0017a10	化生	对译	0176b09	化生	
+U213-034	S0335				0017a10	必	增译			
+U213-035	S0335	samagrendriyā	samagra-indriya	cpd. adj. m. pl. nom. (bahuvrīhi)	0017a10	具…根	意译	0176b09	具根	samagrendriya（诸根具足者）
+U213-036	S0335	samagre	samagra	adj. 成分	0017a10	具	意译	0176b09	具	samagra（完全、具足）译"具"
+U213-037	S0335	ndriyā	indriya	n. m. pl. nom.	0017a11	根	对译	0176b09	根	
+U213-038	S0335				0017a11	諸	增译			"具諸根"之"諸"
+U213-039	S0335				0017a11	而	增译			
+U213-040	S0335	upapadyante	upa-pad	v. pres. 3pl.	0017a11	生	对译	0176b09	受生	
+U213-041	S0335	mriyante	mṛ	v. pres. 3pl.	0017a11	死	对译	0176b09	死墮	
+U213-042	S0336	kāme	kāma	n. m. sg. loc.	0017a07	欲	对译	0176b10	欲界	
+U213-043	S0336				0017a07	頓	增译			本颂补"頓"（据长行 sakṛnmaraṇe，S0339）
+U213-044	S0336	daśa	daśan	num. pl. nom.	0017a07	十	对译	0176b10	十	
+U213-045	S0336	navā	navan	num. pl. nom.	0017a07	九	对译	0176b10	九	
+U213-046	S0336	āṣṭau	aṣṭan	num. pl. nom.	0017a07	八	对译	0176b10	八	
+U213-047	S0337				0017a11	若在	增译	0176b10	若人在	
+U213-048	S0337	kāmadhātau	kāma-dhātu	cpd. m. sg. loc.	0017a11	欲界	对译	0176b10	欲界	
+U213-049	S0337	kāma	kāma	n. 成分	0017a11	欲	对译	0176b10	欲	
+U213-050	S0337	dhātau	dhātu	n. m. sg. loc.	0017a11	界	对译	0176b10	界	
+U213-051	S0337				0017a11	頓	增译			据 S0339 sakṛnmaraṇe 补出
+U213-052	S0337	mriyamāṇa	mriyamāṇa	ptc. m. sg. nom. (√mṛ)	0017a11	命終	意译	0176b10	死	
+U213-053	S0337	mriyamāṇa	pres. ptc.	gram. pres. ptc. (-māna)	0017a11	時	语法	0176b10	正	现在分词表同时，译"時"
+U213-054	S0337				0017a11	十九八根…滅	增译			长行复述颂文
+U213-055	S0337				0017a12	於最後	梵本缺文	0176b10	於最後心	待核：二译皆有，梵本无；或据颂文 uparamat 补出（参 S0334）
+U213-056	S0337				0017a12	謂	增译			
+U213-057	S0337	ubhayavyañjanī	ubhaya-vyañjanin	cpd. adj. m. sg. nom.	0017a12	二形	对译	0176b11	具二根人	
+U213-058	S0337	ubhaya	ubhaya	pron. 成分	0017a12	二	意译	0176b11	二	
+U213-059	S0337	vyañjanī	vyañjanin	adj. m. sg. nom.	0017a12	形	意译	0176b11	根	vyañjanin（有男女根者）译"形"
+U213-060	S0337				0017a12	者	增译			
+U213-061	S0337				0017a12	後	增译			"後滅"之"後"
+U213-062	S0337	daśe	daśan	num. pl. acc.	0017a12	十	对译	0176b11	十	
+U213-063	S0337	ndriyāṇi	indriya	n. nt. pl. acc.	0017a12	根	对译	0176b11	根	
+U213-064	S0337	nirodhayati	ni-rudh (caus.)	v. pres. caus. 3sg.	0017a12	滅	对译	0176b11	棄捨	
+U213-065	S0338				0017a12	即	增译			
+U213-066	S0338	tāni	tad	pron. nt. pl. nom.	0017a13	前	意译	0176b11	如前	tāni（前述者）译"前"
+U213-067	S0338	cāṣṭau	ca	ind.	0017a13	并	语法	0176b11	又	
+U213-068	S0338	āṣṭau	aṣṭan	num. pl. nom.	0017a13	八	对译	0176b11	八	
+U213-069	S0338				0017a13	種	增译			"前八種"之"種"
+U213-070	S0338	strī puruṣendriye	strī-puruṣa-indriya	cpd. nt. du. nom.	0017a12	女男根	对译	0176b11	女男根	GRETIL 本作 strī puruṣendriye（中有空格），当连写；玄奘倒序，先出女男根
+U213-071	S0338	strī	strī	n. 成分	0017a12	女	对译	0176b11	女	
+U213-072	S0338	puruṣe	puruṣa	n. 成分	0017a13	男	对译	0176b12	男	
+U213-073	S0338	ndriye	indriya	n. nt. du. nom.	0017a13	根	对译	0176b12	根	
+U213-074	S0339				0017a13	若	增译	0176b12	若	
+U213-075	S0339	ekavyañjano	eka-vyañjana	cpd. adj. m. sg. nom. (bahuvrīhi)	0017a13	一形	对译	0176b12	一根人	
+U213-076	S0339	eka	eka	num. 成分	0017a13	一	对译	0176b12	一	
+U213-077	S0339	vyañjano	vyañjana	n. m. sg. nom.	0017a13	形	意译	0176b12	根	
+U213-078	S0339				0017a13	者	增译			
+U213-079	S0339				0017a13	後滅…根	增译			承上 nirodhayati
+U213-080	S0339	nava	navan	num. pl. acc.	0017a13	九	对译	0176b12	九	
+U213-081	S0339				0017a13	於女男中隨除一種	增译			玄奘补出说明
+U213-082	S0339				0017a14	若	增译	0176b12	若	
+U213-083	S0339	avyañjano	a-vyañjana	adj. m. sg. nom.	0017a14	無形	对译	0176b12	無根人	
+U213-084	S0339				0017a14	者	增译			
+U213-085	S0339				0017a14	後滅…根	增译			承上 nirodhayati
+U213-086	S0339	'ṣṭau	aṣṭan	num. pl. acc.	0017a14	八	对译	0176b13	八	
+U213-087	S0339				0017a14	謂無女男，唯有前八	增译			玄奘补出说明
+U213-088	S0339	sakṛnmaraṇa	sakṛt-maraṇa	cpd. nt. sg. loc.	0017a15	頓命終	对译	0176b13	一時死	
+U213-089	S0339	sakṛn	sakṛt	ind. 成分	0017a15	頓	对译	0176b13	一時	
+U213-090	S0339	maraṇa	maraṇa	n. nt. sg. loc.	0017a15	命終	对译	0176b13	死	
+U213-091	S0339	sakṛnmaraṇa	loc.	gram. loc. (-e)	0017a15	依	语法	0176b13	若	第七格表所就之情形，译"依"
+U213-093	S0339	nyāyaḥ	nyāya	n. m. sg. nom.	0017a15	所說	意译	0176b13	道理	nyāya（理、规则）译"所說"
+U213-094	S0340	kramamṛtyau	krama-mṛtyu	cpd. m. sg. loc.	0017a07	漸	意译	0176b13	次第死	mṛtyu 未译
+U213-095	S0340	krama	krama	n. 成分	0017a07	漸	对译	0176b13	次第	
+U213-096	S0340	mṛtyau	mṛtyu	n. m. sg. loc.			省译	0176b13	死	
+U213-097	S0340	catvāri	catur	num. nt. pl. nom.	0017a07	四	对译	0176b14	四	
+U213-098	S0341				0017a15	若	增译	0176b14	若	
+U213-099	S0341	krameṇa	krama	n. m. sg. instr.	0017a15	漸	对译	0176b14	次第	
+U213-100	S0341	mriyamāṇaś	mriyamāṇa	ptc. m. sg. nom. (√mṛ)	0017a15	命終	意译	0176b14	死	
+U213-101	S0341				0017a16	後唯	增译			
+U213-102	S0341	catvārī	catur	num. nt. pl. acc.	0017a16	四	对译	0176b15	四	
+U213-103	S0341	catvārīndriyāṇi	indriya	n. nt. pl. acc.			省译	0176b15	根	
+U213-104	S0341	nirodhayati	ni-rudh (caus.)	v. pres. caus. 3sg.	0017a16	捨	意译	0176b14	棄捨	此处译"捨"（後唯捨四）
+U213-105	S0341				0017a16	謂在欲界漸命終時	增译			玄奘补出（欲界）并复述上文
+U213-106	S0341	kāyajīvitamanaupekṣendriyāṇi	kāya-jīvita-manas-upekṣā-indriya	cpd. nt. pl. nom.	0017a16	身、命、意、捨	对译	0176b15	身、命、意、捨根	indriya 未译
+U213-107	S0341	kāya	kāya	n. 成分	0017a16	身	对译	0176b15	身	
+U213-108	S0341	jīvita	jīvita	n. 成分	0017a16	命	对译	0176b15	命	
+U213-109	S0341	mana	manas	n. 成分	0017a16	意	对译	0176b15	意	
+U213-110	S0341	upekṣe	upekṣā	n. 成分	0017a17	捨	对译	0176b15	捨	
+U213-111	S0341	endriyāṇi	indriya	n. nt. pl. nom.			省译	0176b15	根	
+U213-112	S0341				0017a17	於最後	梵本缺文	0176b14	於最後心	待核：二译皆有，梵本无（参 S0334）
+U213-113	S0341				0017a17	滅	增译			"於最後滅"之"滅"，复述 nirodhayati
+U213-115	S0342				0017a17	四	增译	0176b15	四	"此四"之"四"
+U213-116	S0342				0017a17	必	增译			
+U213-117	S0342	pṛthag	pṛthak	ind.	0017a17	前後	意译	0176b15	相離	pṛthak（各别）译"前後"（无前后灭）
+U213-118	S0342	nirodhaḥ	nirodha	n. m. sg. nom.	0017a17	滅	对译	0176b16	盡	
+U213-119	S0342				0017a17	義	增译			
+U213-121	S0342	nyāyaḥ	nyāya	n. m. sg. nom.	0017a17	所說	意译	0176b16	道理	nyāya（理、规则）译"所說"
+U213-122	S0342				0017a18	但	增译			
+U213-123	S0342	kliṣṭāvyākṛtacittasya	kliṣṭa-a-vyākṛta-citta	cpd. nt. sg. gen.	0017a18	染無記心	对译	0176b16	染污心及無記心	
+U213-124	S0342	kliṣṭā	kliṣṭa	ptc. 成分 (√kliś)	0017a18	染	对译	0176b16	染污	
+U213-125	S0342	āvyākṛta	a-vyākṛta	ptc. 成分 (√vi-ā-kṛ)	0017a18	無記	对译	0176b16	無記	
+U213-126	S0342	cittasya	citta	n. nt. sg. gen.	0017a18	心	对译	0176b16	心	
+U213-127	S0342				0017a18	而	增译			
+U213-128	S0342	maraṇe	maraṇa	n. nt. sg. loc.	0017a18	命終	对译	0176b16	死	
+U213-129	S0342	maraṇe	loc.	gram. loc. (-e)	0017a18	依	语法			"但依…而命終者"
+U213-130	S0342				0017a18	者	增译			
+U213-131	S0342	veditavyaḥ	veditavya	gdv. m. sg. nom. (√vid)	0017a18	知	对译	0176b16	知	
+U213-133	S0343	yadā tu kuśale cetasi sthito mriyate tadā	yadā … tadā	gram. rel.-cor.	0017a18	若…時	语法	0176b17	若…是時	以"若…時"表 yadā … tadā
+U213-134	S0343				0017a18	在三界	增译			玄奘补出"三界"
+U213-135	S0343	kuśale	kuśala	adj. nt. sg. loc.	0017a19	善	对译	0176b17	善	
+U213-136	S0343	cetasi	cetas	n. nt. sg. loc.	0017a19	心	对译	0176b17	心	
+U213-137	S0343	sthito	sthita	ptc. m. sg. nom. (√sthā)			省译			sthita（住于）未译
+U213-138	S0343	mriyate	mṛ	v. pres. 3sg.	0017a19	死	对译	0176b17	死	
+U213-139	S0344	ṣubhe	śubha	adj. nt. sg. loc.	0017a07	善	对译	0176b17	善	GRETIL 本作 ṣubhe，当读 śubhe
+U213-140	S0344	sarvatra	sarvatra	ind.			省译	0176b17	諸處	本颂未译；长行作"一切位"（S0345）
+U213-141	S0344	pañca	pañcan	num. pl. nom.	0017a07	五	对译	0176b17	五	
+U213-142	S0344	ca	ca	ind.	0017a07	增	意译			ca（又、另加）译"增"
+U213-143	S0345	kuśale	kuśala	adj. nt. sg. loc.			省译	0176b18	善	玄奘与 S0343 合为"若在三界善心死時"
+U213-144	S0345	cetasi	cetas	n. nt. sg. loc.			省译	0176b18	心	同上
+U213-145	S0345	mriyamāṇaḥ	mriyamāṇa	ptc. m. sg. nom. (√mṛ)			省译	0176b18	死	同上
+U213-146	S0345				0017a19	故	增译			承上"信等五根必皆具有"（S0347）
+U213-147	S0345	sarvatra	sarvatra	ind.	0017a20	一切位	意译	0176b18	一切處	sarvatra（一切处）译"一切位"
+U213-148	S0345				0017a20	中	增译			
+U213-149	S0345				0017a19	於	增译			
+U213-150	S0345	yathoktam	yathā-ukta	cpd. ind.	0017a19	前說	意译	0176b18	如前說	
+U213-151	S0345	yatho	yathā	ind. 成分	0017a19	前	意译	0176b18	如前	yathā（如）译"前"（如前所说）
+U213-152	S0345	oktam	ukta	ptc. 成分 (√vac)	0017a19	說	对译	0176b18	說	
+U213-153	S0345	indriyāṇi	indriya	n. nt. pl. acc.			省译	0176b19	根	
+U213-154	S0345				0017a20	其數	增译			
+U213-155	S0345	nirodhayati	ni-rudh (caus.)	v. pres. caus. 3sg.			省译	0176b18	棄捨	
+U213-156	S0346				0017a20	皆應	增译			
+U213-157	S0346	śraddhādīni	śraddhā-ādi	cpd. nt. pl. nom.	0017a20	信等	对译	0176b19	信等	
+U213-158	S0346	śraddhā	śraddhā	n. 成分	0017a20	信	对译	0176b19	信	
+U213-159	S0346	ādīni	ādi	n. nt. pl. nom.	0017a20	等	对译	0176b19	等	
+U213-160	S0346	pañcā	pañcan	num. pl. nom.	0017a20	五	对译	0176b19	五	
+U213-161	S0346	ādhikāni	adhika	adj. nt. pl. nom.	0017a20	加	意译	0176b19	復	adhika（增多的）译"加"
+U213-162	S0347	eṣāṃ	etad	pron. nt. pl. gen.	0017a19	信等五根	意译	0176b19	此信等五根	代词还原为所指（信等五根）
+U213-163	S0347	kuśale	kuśala	adj. nt. sg. loc.			省译	0176b20	善	与 S0343 合用"善心"
+U213-164	S0347	cetasy	cetas	n. nt. sg. loc.			省译	0176b20	心	同上
+U213-165	S0347	avaśyaṃbhāvaḥ	avaśyam-bhāva	cpd. m. sg. nom.	0017a19	必…具有	意译	0176b20	必具足生	
+U213-166	S0347	avaśyaṃ	avaśyam	ind. 成分	0017a19	必	对译	0176b20	必	
+U213-167	S0347	bhāvaḥ	bhāva	n. m. sg. nom.	0017a19	具有	意译	0176b20	具足生	bhāva（有、存在）译"具有"
+U213-168	S0347				0017a19	皆	增译			
+U213-169	S0348	evam	evam	ind.	0017a20	謂	意译	0176b20	如此	evam（如是）引出例示，译"謂"
+U213-170	S0348	ārūpyeṣv	ārūpya	n. m. pl. loc.	0017a20	無色	对译	0176b20	無色界	
+U213-172	S0348				0017a21	增至	增译			
+U213-173	S0348	aṣṭau	aṣṭan	num. pl. acc.	0017a21	八	对译	0176b20	八	
+U213-174	S0348				0017a21	根	增译	0176b20	根	
+U213-175	S0348	aṣṭau nirodhayati	ni-rudh (caus.)	v. pres. caus. 3sg.			省译	0176b20	棄捨	
+U213-176	S0348	rūpeṣu	rūpa	n. nt. pl. loc.			省译	0176b21	色界	玄奘不出"色界十三"，改举"乃至欲界漸終至九"
+U213-177	S0348	trayodaśāeti	trayodaśan	num. pl. acc.			省译	0176b21	十三	GRETIL 本作 trayodaśāeti，当读 trayodaśeti；玄奘未译，见上
+U213-178	S0348				0017a21	乃至欲界漸終至九	增译			梵本作 rūpeṣu trayodaśa（色界十三），真谛同梵本；玄奘改举欲界渐终九根
+U213-179	S0348	vistareṇa	vistara	n. m. sg. instr.	0017a21	中間多少	意译	0176b21	廣	vistareṇa（详细地）译"中間多少"
+U213-180	S0348				0017a21	如理	增译			
+U213-181	S0348	gaṇanīyam	gaṇanīya	gdv. nt. sg. nom. (√gaṇ)	0017a22	知	意译	0176b21	數	gaṇanīya（应计算）译"知"
+U213-183	S0349	indriyaprakaraṇe	indriya-prakaraṇa	cpd. nt. sg. loc.	0017a22	分別根	意译	0176b22	根伽蘭他	玄奘以品名"分別根"称之；真谛作"根伽蘭他"（伽蘭他即 grantha）
+U213-184	S0349	indriya	indriya	n. 成分	0017a22	根	对译	0176b22	根	
+U213-185	S0349	prakaraṇe	prakaraṇa	n. nt. sg. loc.	0017a22	分別	意译	0176b22	伽蘭他	prakaraṇa（章、品）以品名"分別"表之
+U213-186	S0349	sarva	sarva	adj. m. pl. nom.	0017a22	一切	对译	0176b22	一切	
+U213-187	S0349	indriyadharmā	indriya-dharma	cpd. m. pl. nom.	0017a22	根法	对译	0176b22	根法	
+U213-188	S0349	indriya	indriya	n. 成分	0017a22	根	对译	0176b22	根	
+U213-189	S0349	dharmā	dharma	n. m. pl. nom.	0017a22	法	对译	0176b22	法	
+U213-190	S0349				0017a22	皆應	增译			
+U213-191	S0349	vicāryante	vi-car (caus.)	v. pres. pass. caus. 3pl.	0017a22	思擇	对译	0176b22	簡擇	
+U213-192	S0350				0017a22	二十二	增译			补出"二十二根"
+U213-193	S0350	katamac	katama	pron. nt. sg. nom.	0017a23	何	语法	0176b23	何	
+U213-194	S0350	chrāmaṇyaphalaṃ	śrāmaṇya-phala	cpd. nt. sg. nom.	0017a23	沙門果	对译	0176b23	沙門…果	
+U213-195	S0350	chrāmaṇya	śrāmaṇya	n. 成分	0017a23	沙門	音译	0176b23	沙門	śrāmaṇya（沙门性）以"沙門"音译
+U213-196	S0350	phalaṃ	phala	n. nt. sg. nom.	0017a23	果	对译	0176b23	果	
+U213-197	S0350	indriyaiḥ	indriya	n. nt. pl. instr.	0017a23	根	对译	0176b23	根	
+U213-198	S0350				0017a23	能	增译	0176b23	能	
+U213-199	S0350	prāpyate	pra-āp	v. pres. pass. 3sg.	0017a23	證得	对译	0176b23	得	

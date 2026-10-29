@@ -65,7 +65,7 @@ U13-053	S0241	maṇḍalikā	maṇḍalikā	adj. f. sg. nom.	0003b21	團	对译	
 U13-054	S0241	maṇḍalikā vātyeti	vātyā	n. f. sg. nom.	0003b21	風	对译	0164a09	風	
 U13-055	S0241				0003b21	此用顯形表示風故	增译			玄奘补出释义
 U13-056	S0242	kasmāt	kim	pron. nt. sg. abl.	0003b22	何故	语法	0164a09	云何	
-U13-058	S0242	avijñaptiparyanto	avijñapti-paryanta	cpd. m. sg. nom.	0003b22	無表為後	对译	0164a09	無教為後	
+U13-058	S0242	avijñaptiparyanto	a-vijñapti-paryanta	cpd. m. sg. nom.	0003b22	無表為後	对译	0164a09	無教為後	
 U13-059	S0242	avijñapti	a-vijñapti	n. 成分	0003b22	無表	对译	0164a09	無教	
 U13-060	S0242	paryanto	paryanta	n. m. sg. nom.	0003b22	為後	意译	0164a09	為後	
 U13-061	S0242	rūpaskandha	rūpa-skandha	cpd. m. sg. nom.	0003b22	蘊…色	意译	0164a09	陰名色	玄奘拆开："此蘊"…"說為色"
@@ -154,7 +154,7 @@ U13-338	S0252	sthaṃ	stha	adj. nt. sg. nom.			省译	0164a18	住	补成分记�
 U13-143	S0252	tu tad	tad	pron. nt. sg. nom.	0003c03	眾微	意译			代词还原为所指（極微）
 U13-144	S0252	rūpyata eva	rūp	v. pres. pass. 3sg.	0003c03	變礙	意译	0164a19	變壞	此处 rūpyate 译"變礙"
 U13-145	S0252				0003c03	義成	增译			
-U13-146	S0253	atītānāgataṃ	atīta-anāgata	cpd. nt. sg. nom.	0003c03	過去未來	对译	0164a19	過去未來	
+U13-146	S0253	atītānāgataṃ	atīta-an-āgata	cpd. nt. sg. nom.	0003c03	過去未來	对译	0164a19	過去未來	
 U13-147	S0253	atītā	atīta	ptc. 成分 (√ati-i)	0003c03	過去	对译	0164a19	過去	
 U13-148	S0253	ānāgataṃ	an-āgata	ptc. nt. sg. nom. (√ā-gam)	0003c03	未來	对译	0164a19	未來	
 U13-149	S0253	tarhi rūpaṃ	tarhi	ind.			省译	0164a19	若爾	
@@ -199,11 +199,11 @@ U13-186	S0259	āvijñaptinivṛttiḥ	a-vijñapti-nivṛtti	cpd. f. sg. nom.	000
 U13-187	S0259	āvijñapti	a-vijñapti	n. 成分	0003c07	無表	对译	0164a23	無教	
 U13-188	S0259	nivṛttiḥ	nivṛtti	n. f. sg. nom.	0003c08	滅	对译	0164a23	謝滅	
 U13-189	S0259	syād	as	v. opt. 3sg.	0003c07	應	语法	0164a23	應	祈愿式 syāt 译"應"
-U13-190	S0259	vṛkṣābhāve	vṛkṣa-abhāva	cpd. m. sg. loc.	0003c08	樹滅	对译	0164a23	樹滅	
+U13-190	S0259	vṛkṣābhāve	vṛkṣa-a-bhāva	cpd. m. sg. loc.	0003c08	樹滅	对译	0164a23	樹滅	
 U13-191	S0259	vṛkṣā	vṛkṣa	n. 成分	0003c08	樹	对译	0164a23	樹	
 U13-192	S0259	ābhāve	a-bhāva	n. m. sg. loc.	0003c08	滅	意译	0164a23	滅	abhāva（不存在）译"滅"
 U13-193	S0259	ābhāve	loc.	gram. loc. (-e)	0003c08	時	语法			
-U13-194	S0259	cchāyā 'bhāvavat	chāyā-abhāva-vat	cpd. ind.	0003c08	影…滅	意译	0164a23	影滅	"必隨"为增字
+U13-194	S0259	cchāyā 'bhāvavat	chāyā-a-bhāva-vat	cpd. ind.	0003c08	影…滅	意译	0164a23	影滅	"必隨"为增字
 U13-195	S0259	cchāyā 'bhāvavat	chāyā	n. 成分	0003c08	影	对译	0164a23	影	
 U13-196	S0259	'bhāvavat	a-bhāva	n. 成分	0003c08	滅	意译	0164a23	滅	
 U13-197	S0260	ityapare	apara	pron. m. pl. nom.	0003c08	有	意译	0164a24	有餘師	
@@ -294,7 +294,7 @@ U13-274	S0267				0003c15	彼	增译	0164b03	彼師	补出主语
 U13-275	S0267	'bhyupagamyate	abhi-upa-gam	v. pres. pass. 3sg.	0003c16	許	对译	0164b03	許	
 U13-276	S0267	niruddheṣvapi	niruddha	ptc. nt. pl. loc. (√ni-rudh)	0003c16	滅	对译	0164b03	謝	
 U13-277	S0267	niruddheṣvapi	api	ind.	0003c16	雖	语法			第七格独立句 + api（纵使）译"雖"
-U13-278	S0267	avijña ptyāśayeṣu	avijñapti-āśraya	cpd. m. pl. loc. (?)	0003c16	所依	意译	0164b03	無教所依止	GRETIL 本作 avijña ptyāśayeṣu，当读 avijñaptyāśrayeṣu；avijñapti 未译
+U13-278	S0267	avijña ptyāśayeṣu	a-vijñapti-āśraya	cpd. m. pl. loc. (?)	0003c16	所依	意译	0164b03	無教所依止	GRETIL 本作 avijña ptyāśayeṣu，当读 avijñaptyāśrayeṣu；avijñapti 未译
 U13-348	S0267	avijña pty	a-vijñapti	n. 成分			省译	0164b03	無教	补成分记录；玄奘未译 avijñapti
 U13-349	S0267	āśayeṣu	āśraya	n. m. pl. loc. (?)	0003c16	所依	对译	0164b03	所依止	补成分记录；GRETIL 本作 -āśayeṣu，当读 -āśrayeṣu
 U13-279	S0267	mahābhūteṣu	mahā-bhūta	cpd. nt. pl. loc.	0003c16	大種	对译	0164b03	四大	

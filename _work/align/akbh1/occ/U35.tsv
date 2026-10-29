@@ -6,7 +6,7 @@ U35-002	S0633	ete	etad	pron. m. pl. nom.	0008a05	意法意識	意译	0168a09	是
 U35-003	S0633	trayaḥ	tri	num. m. pl. nom.			省译	0168a09	三	玄奘本颂直举三界之名
 U35-004	S0634	ye mārgasatyāsaṃskṛtasaṃghṛhītāste	yad … tad	gram. rel.-cor.	0008a06	者…名為	语法	0168a09	若…是	关系-相关句 ye…te 译"…者，名為…"
 U35-005	S0634				0008a06	意及意識	增译			玄奘把一句分为两句：先说意、意識，再说法界
-U35-006	S0634	mārgasatyāsaṃskṛtasaṃghṛhītā	mārga-satya-asaṃskṛta-saṃgṛhīta	cpd. adj. m. pl. nom.	0008a06	道諦攝	意译	0168a09	道諦無為所攝	就意、意識而言，asaṃskṛta 不译；GRETIL 本作 saṃghṛhīta，当读 saṃgṛhīta
+U35-006	S0634	mārgasatyāsaṃskṛtasaṃghṛhītā	mārga-satya-a-saṃskṛta-saṃgṛhīta	cpd. adj. m. pl. nom.	0008a06	道諦攝	意译	0168a09	道諦無為所攝	就意、意識而言，asaṃskṛta 不译；GRETIL 本作 saṃghṛhīta，当读 saṃgṛhīta
 U35-007	S0634	mārgasatyā	mārga-satya	cpd. 成分	0008a06	道諦	对译	0168a09	道諦	
 U35-043	S0634	mārga	mārga	n. 成分	0008a06	道	对译	0168a09	道	补成分记录
 U35-044	S0634	satyā	satya	n. 成分	0008a06	諦	对译	0168a09	諦	补成分记录
@@ -17,7 +17,7 @@ U35-010	S0634	anye	anya	pron. m. pl. nom.	0008a06	餘	对译	0168a10	異此
 U35-011	S0634				0008a06	名	增译			"餘名有漏"（两处同）
 U35-012	S0634	sāsravāḥ	sa-āsrava	adj. m. pl. nom.	0008a07	有漏	对译	0168a10	有流	
 U35-013	S0634				0008a07	法界若	增译			第二句专说法界
-U35-014	S0634	mārgasatyāsaṃskṛtasaṃghṛhītā	mārga-satya-asaṃskṛta-saṃgṛhīta	cpd. adj. m. pl. nom.	0008a07	是道諦無為	意译			就法界而言；saṃgṛhīta 以"是"表出
+U35-014	S0634	mārgasatyāsaṃskṛtasaṃghṛhītā	mārga-satya-a-saṃskṛta-saṃgṛhīta	cpd. adj. m. pl. nom.	0008a07	是道諦無為	意译			就法界而言；saṃgṛhīta 以"是"表出
 U35-015	S0634	mārgasatyā	mārga-satya	cpd. 成分	0008a07	道諦	对译			第二句
 U35-046	S0634	mārga	mārga	n. 成分	0008a07	道	对译			补成分记录
 U35-047	S0634	satyā	satya	n. 成分	0008a07	諦	对译			补成分记录

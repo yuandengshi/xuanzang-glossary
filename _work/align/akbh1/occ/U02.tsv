@@ -1,13 +1,13 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
 U02-001	S0021	prajñā	prajñā	n. f. sg. nom.	0001b02	慧	对译	0162a02	智	真谛 prajñā 译"智"
-U02-002	S0021	'malā	amala	adj. f. sg. nom.	0001b02	淨	对译	0162a02	淨	
+U02-002	S0021	'malā	a-mala	adj. f. sg. nom.	0001b02	淨	对译	0162a02	淨	
 U02-003	S0021	sānucarā	sa-anucara	adj. f. sg. nom.	0001b02	隨行	对译	0162a02	助伴	
 U02-004	S0021	'bhidharmaḥ	abhidharma	n. m. sg. nom.	0001b02	對法	对译	0162a02	對法	
 U02-005	S0022	prajñā	prajñā	n. f. sg. nom.	0001b03	慧	对译	0162a02	智	
 U02-006	S0022	dharmapravicayaḥ	dharma-pravicaya	cpd. m. sg. nom.	0001b03	擇法	对译	0162a02	擇法	
 U02-063	S0022	dharma	dharma	n. 成分	0001b03	法	对译	0162a02	法	补成分记录；玄奘、真谛都倒序作"擇法"
 U02-064	S0022	pravicayaḥ	pravicaya	n. m. sg. nom.	0001b03	擇	对译	0162a02	擇	补成分记录
-U02-007	S0022	amaleti	amala	adj. f. sg. nom.	0001b03	淨	对译	0162a03	淨	
+U02-007	S0022	amaleti	a-mala	adj. f. sg. nom.	0001b03	淨	对译	0162a03	淨	
 U02-008	S0022	anāsravā	an-āsrava	adj. f. sg. nom.	0001b03	無漏	对译	0162a03	無垢	真谛此处作"無垢"
 U02-009	S0022	saparivārā	sa-parivāra	adj. f. sg. nom.	0001b03	眷屬	对译	0162a03	助伴	
 U02-010	S0022	sānucareti	sa-anucara	adj. f. sg. nom.	0001b03	隨行	对译			

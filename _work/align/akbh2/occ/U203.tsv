@@ -1,0 +1,72 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U203-001	S0078	cittāśrayas	citta-āśraya	cpd. m. sg. nom.	0014b02	心所依	对译	0173c20	心依	
+U203-002	S0078	cittā	citta	n. 成分	0014b02	心	对译	0173c20	心	
+U203-003	S0078	āśrayas	āśraya	n. m. sg. nom.	0014b02	所依	对译	0173c20	依	
+U203-004	S0078	tadvikalpaḥ	tad-vikalpa	cpd. m. sg. nom.	0014b02	此別	对译	0173c20	此差別	
+U203-005	S0078	tad	tad	pron. 成分	0014b02	此	对译	0173c20	此	
+U203-006	S0078	vikalpaḥ	vikalpa	n. m. sg. nom.	0014b02	別	对译	0173c20	差別	
+U203-007	S0078				0014b02	此…此	增译			颂文于"住""雜染"前各补"此"（复指心所依）
+U203-008	S0078	sthitiḥ	sthiti	n. f. sg. nom.	0014b02	住	对译	0173c21	住	
+U203-009	S0078	saṃkleśa	saṃkleśa	n. m. sg. nom.	0014b02	雜染	对译	0173c21	染污	
+U203-011	S0078	saṃbhāro	saṃbhāra	n. m. sg. nom.	0014b03	資糧	对译	0173c21	資糧	
+U203-012	S0078	vyavadānaṃ	vyavadāna	n. nt. sg. nom.	0014b03	淨	对译	0173c21	清淨	
+U203-013	S0078				0014b03	此…此	增译			颂文于"資糧""淨"前各补"此"
+U203-014	S0078	yāvatā tāvad	yāvat … tāvat	pron. nt. sg. instr.	0014b03	由此量	语法	0173c21	如此量	关系-相关句式（凡此所及，即为根），译"由此量"
+U203-015	S0078	indriyam	indriya	n. nt. sg. nom.	0014b03	根	对译	0173c21	根	
+U203-016	S0078				0014b03	立	增译	0173c21	立	真谛亦补"立"
+U203-017	S0079	cittāśrayaḥ	citta-āśraya	cpd. m. sg. nom.	0014b04	心所依	对译	0173c22	心依	
+U203-018	S0079	cittā	citta	n. 成分	0014b04	心	对译	0173c22	心	
+U203-019	S0079	āśrayaḥ	āśraya	n. m. sg. nom.	0014b04	所依	对译	0173c22	依	
+U203-020	S0079				0014b04	眼等	增译	0173c22	眼等	真谛亦作"眼等六根"
+U203-021	S0079	ṣaḍ	ṣaṣ	num. pl. nom.	0014b04	六	对译	0173c22	六	
+U203-022	S0079	indriyāṇi	indriya	n. nt. pl. nom.	0014b04	根	对译	0173c22	根	
+U203-023	S0079	etac	etad	pron. nt. sg. nom.	0014b04	此	对译			
+U203-024	S0079				0014b04	內	增译			
+U203-025	S0079	ṣaḍāyatanaṃ	ṣaṣ-āyatana	cpd. nt. sg. nom.	0014b04	六處	对译	0173c22	六入	
+U203-026	S0079	ṣaḍ	ṣaṣ	num. 成分	0014b04	六	对译	0173c22	六	
+U203-027	S0079	āyatanaṃ	āyatana	n. nt. sg. nom.	0014b04	處	对译	0173c22	入	
+U203-028	S0079				0014b04	是	增译			
+U203-029	S0079	maulaṃ	maula	adj. nt. sg. nom.	0014b05	本	对译	0173c23	根本	
+U203-030	S0079	saṭtvadravyam	sattva-dravya	cpd. nt. sg. nom.	0014b04	有情	意译	0173c22	眾生類	GRETIL 本作 saṭtva-；dravya（实体）未译
+U203-031	S0079	saṭtva	sattva	n. 成分	0014b04	有情	对译	0173c22	眾生	GRETIL 本作 saṭtva
+U203-032	S0079	dravyam	dravya	n. nt. sg. nom.			省译	0173c22	類	
+U203-033	S0080	strīpuruṣavikalpaḥ	strī-puruṣa-vikalpa	cpd. m. sg. nom.	0014b05	相差別	意译	0173c23	差別	玄奘不出"女男"（下文"由女男根"已出）；tasya → 此（tad → 此 已满两例，未另记）
+U203-034	S0080	strī	strī	n. 成分			省译			
+U203-035	S0080	puruṣa	puruṣa	n. 成分			省译			
+U203-036	S0080	vikalpaḥ	vikalpa	n. m. sg. nom.	0014b05	差別	对译	0173c23	差別	
+U203-037	S0080				0014b05	相	增译			
+U203-038	S0080	strīpuruṣendraiyābhyāṃ	strī-puruṣa-indriya	cpd. nt. du. instr.	0014b05	女男根	对译	0173c23	女男二根	GRETIL 本作 -endraiyābhyāṃ
+U203-039	S0080	strī	strī	n. 成分	0014b05	女	对译	0173c23	女	
+U203-040	S0080	puruṣe	puruṣa	n. 成分	0014b05	男	对译	0173c23	男	
+U203-041	S0080	endraiyābhyāṃ	indriya	n. nt. du. instr.	0014b05	根	对译	0173c23	根	GRETIL 本作 -endraiya-
+U203-042	S0080	endraiyābhyāṃ	instr.	gram. du. instr. (-ābhyām)	0014b05	由	语法	0173c23	由	第三格表所由，译"由"
+U203-043	S0080	sthitir	sthiti	n. f. sg. nom.	0014b06	住	对译	0173c24	住	
+U203-044	S0080				0014b05	此一期	增译	0173c23	此一期	真谛亦作"此一期住"
+U203-045	S0080				0014b05	復	增译			
+U203-046	S0080	jīvitendriyeṇa	jīvita-indriya	cpd. nt. sg. instr.	0014b05	命根	对译	0173c24	命根	
+U203-047	S0080	jīvite	jīvita	n. 成分	0014b05	命	对译	0173c24	命	
+U203-048	S0080	endriyeṇa	indriya	n. nt. sg. instr.	0014b05	根	对译	0173c24	根	
+U203-049	S0080	saṃkleśo	saṃkleśa	n. m. sg. nom.	0014b06	雜染	对译	0173c24	染污	
+U203-050	S0080				0014b06	此成	增译			
+U203-051	S0080	vedanā bhiḥ	vedanā	n. f. pl. instr.	0014b06	受	对译	0173c24	受	GRETIL 本断作 vedanā bhiḥ
+U203-052	S0080				0014b06	五…根	增译	0173c24	五…根	真谛亦作"五受根"
+U203-053	S0081				0014b06	此	增译			
+U203-054	S0081	vyavadānasaṃbharaṇaṃ	vyavadāna-saṃbharaṇa	cpd. nt. sg. nom.	0014b06	淨資糧	对译	0173c24	清淨資糧	
+U203-055	S0081	vyavadāna	vyavadāna	n. 成分	0014b06	淨	对译	0173c24	清淨	
+U203-056	S0081	saṃbharaṇaṃ	saṃbharaṇa	n. nt. sg. nom.	0014b06	資糧	意译	0173c24	資糧	saṃbharaṇa（积集）译"資糧"
+U203-057	S0081				0014b06	信等	增译	0173c25	信等	真谛亦作"信等五根"
+U203-058	S0081	pañcabhir	pañcan	num. pl. instr.	0014b07	五	对译	0173c25	五	
+U203-059	S0081	vyavadānaṃ	vyavadāna	n. nt. sg. nom.	0014b07	清淨	对译	0173c25	實清淨	
+U203-060	S0081				0014b07	此成	增译			
+U203-061	S0081	tribhiḥ	tri	num. nt. pl. instr.	0014b07	三	对译	0173c25	三	
+U203-062	S0081				0014b07	後…根	增译	0173c25	無流根	
+U203-063	S0082				0014b07	由此立根事皆究竟	增译			玄奘总结：立根之事尽于此
+U203-064	S0082	ato	atas	ind.	0014b08	是故	语法	0173c25	是故	
+U203-065	S0082				0014b08	應	增译			
+U203-066	S0082	iṣṭam	iṣṭa	ptc. nt. sg. nom. (√iṣ)	0014b08	許	对译	0173c25	許	
+U203-067	S0082	āvidyādīnām	a-vidyā-ādi	cpd. m. pl. gen.	0014b08	無明等	对译	0173c26	無明等	
+U203-068	S0082	āvidyā	a-vidyā	n. 成分	0014b08	無明	对译	0173c26	無明	
+U203-069	S0082	ādīnām	ādi	n. m. pl. gen.	0014b08	等	对译	0173c26	等	
+U203-070	S0082				0014b08	及語具等亦立為	增译			
+U203-071	S0082	indriyatvam	indriya-tva	n. nt. sg. nom.	0014b09	根	对译	0173c26	根	
+U203-072	S0082				0014b09	彼無此中增上用故	增译			

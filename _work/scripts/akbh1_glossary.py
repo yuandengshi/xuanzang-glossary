@@ -2,11 +2,11 @@
 """akbh1_glossary.py -- 由对应实例生成词汇表（梵→汉词条、汉→梵索引、语法对应、增译/省译清单）。
 
 Usage: python3 -I akbh1_glossary.py AKBH1_DIR OUT_DIR [NOTES_TSV] [--only=U01,U02,...] [--pkg=PKG_DIR]
-  OUT_DIR 写 md 与 csv；--pkg 写离线资料包里的 词汇表.html 与 data/akbh1.js
+  OUT_DIR 写 md 与 csv；--pkg 写离线资料包里的 词汇表.html 与 data/<文本编号>.js（各品各一个）
   --only：只取这些单位（合并、核验完成前，用来只发布已审定的部分）
   读取 AKBH1_DIR/occ/*.tsv（应先用 akbh1_verify.py 核验）、skt_sent.tsv、xz_lines.tsv、pm_lines.tsv
   NOTES_TSV：可选，唐代自注（akbh1_tangnotes.py 的输出），按玄奘译语挂到词条下
-输出：OUT_DIR/界品译语实例.csv、界品词汇表.md；PKG_DIR/词汇表.html、data/akbh1.js
+输出：OUT_DIR/<品名>译语实例.csv、<品名>词汇表.md（品名取自 align/texts.tsv）；PKG_DIR/词汇表.html、data/<文本编号>.js
 """
 import csv
 import glob
@@ -16,7 +16,7 @@ import os
 import re
 import sys
 import unicodedata
-from collections import OrderedDict, defaultdict
+from collections import Counter, OrderedDict, defaultdict
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))  # 同目录的 page_style（-I 模式下不自动加入）
 import page_style  # noqa: E402
@@ -154,6 +154,9 @@ def context(xz, starts, stream, line, frag, within=None):
 def main(d, od, notes_path=None, only=None, pkg=None):
     global D_DIR
     D_DIR = d
+    reg = {r['dir']: r for r in tsv(os.path.join(os.path.dirname(os.path.abspath(d)), 'texts.tsv'))}
+    T = reg[os.path.basename(os.path.abspath(d))]
+    short = T['short'].split('·')[-1]
     skt, xz, pm, occ, notes = load(d, notes_path, only)
     xl = list(xz)
     starts, stream = {}, ''
@@ -176,7 +179,7 @@ def main(d, od, notes_path=None, only=None, pkg=None):
                                                         par.get('_xzspan') if par else None)
     os.makedirs(od, exist_ok=True)
     cols = ['oid', 'lemma', 'pos', 'skt', 'pradhan', 'karika', 'xz', 'T', 'type', 'pm', 'PM', 'note']
-    with open(os.path.join(od, '界品译语实例.csv'), 'w', encoding='utf-8-sig', newline='') as f:
+    with open(os.path.join(od, short + '译语实例.csv'), 'w', encoding='utf-8-sig', newline='') as f:
         w = csv.DictWriter(f, fieldnames=cols, extrasaction='ignore')
         w.writeheader()
         w.writerows(occ)
@@ -226,7 +229,7 @@ def main(d, od, notes_path=None, only=None, pkg=None):
     used, unknown = abbr.scan([o['pos'] for o in occ])
     if unknown:
         print('提示：以下标注未收入缩略语说明表（scripts/abbr.py），请补充：%s' % dict(unknown))
-    write_md(entries, gram, add, omit, rev, os.path.join(od, '界品词汇表.md'), len(occ), used)
+    write_md(entries, gram, add, omit, rev, os.path.join(od, short + '词汇表.md'), len(occ), used, T['short'])
     if pkg:
         write_html(entries, gram, add, omit, rev, occ, skt, pkg, used)
     print('实例 %d；词条 %d；语法 %d；增译 %d；省译 %d；汉→梵 %d' % (
@@ -238,8 +241,8 @@ def occ_line(o):
     return s
 
 
-def write_md(entries, gram, add, omit, rev, path, n, used):
-    L = ['# 俱舍论·界品 玄奘译语词汇表（试点）', '',
+def write_md(entries, gram, add, omit, rev, path, n, used, title='俱舍论·界品'):
+    L = ['# %s 玄奘译语词汇表' % title, '',
          '出处写法：`1a08 = P 1.3` 指大正藏第 29 册 1 页 a 栏 8 行，对应 Pradhan 本第 1 页第 3 行。'
          '"真"后为真谛译（T1559）的对应译语。实例共 %d 条，全部通过出处核验。' % n, '',
          '## 一、梵→汉词条（实词与虚词）', '']
@@ -289,7 +292,8 @@ def write_md(entries, gram, add, omit, rev, path, n, used):
 
 
 def write_html(entries, gram, add, omit, rev, occ, skt, pkg, used):
-    """资料包：PKG/词汇表.html（外壳）＋ PKG/data/akbh1.js（数据：句子、语境去重，实例为紧凑数组）。"""
+    """资料包：PKG/词汇表.html（外壳）＋ PKG/data/<文本编号>.js（每品一个数据文件：句子、语境去重，实例为紧凑数组）。
+    外壳依次载入资料包里已有的各品数据，合并显示，可按品筛选。"""
     tang = {e['lemma']: [{'s': t['source'], 'r': t['ref'], 't': t['text'] + ('〔仅凭单字译语挂接，待核〕' if t['weak'] else '')} for t in e['tang']] for e in entries if e['tang']}
     sents, sidx, ctx, cidx, recs = [], {}, [], {}, []
     for o in occ:
@@ -309,22 +313,31 @@ def write_html(entries, gram, add, omit, rev, occ, skt, pkg, used):
     meta = {'part': t['text_id'], 'title': t['short'], 'short': t['short'].split('·')[-1], 'vol': t['vol'], 'work': t['cbeta_work']}
     data = {'meta': meta, 'sents': sents, 'ctx': ctx, 'recs': recs, 'tang': tang}
     os.makedirs(os.path.join(pkg, 'data'), exist_ok=True)
-    with open(os.path.join(pkg, 'data', 'akbh1.js'), 'w', encoding='utf-8') as f:
+    with open(os.path.join(pkg, 'data', t['text_id'] + '.js'), 'w', encoding='utf-8') as f:
         f.write('XZG_DATA(' + json.dumps(data, ensure_ascii=False, separators=(',', ':')) + ');\n')
+    # 外壳：按登记表次序列出资料包里已有数据文件的各品；缩略语用例数按各品合计
+    parts = [{'id': r['text_id'], 'short': r['short'].split('·')[-1], 'scope': r.get('scope', '')}
+             for r in reg.values() if os.path.exists(os.path.join(pkg, 'data', r['text_id'] + '.js'))]
+    used = Counter()
+    for r in reg.values():
+        if any(p['id'] == r['text_id'] for p in parts):
+            for fo in glob.glob(os.path.join(os.path.dirname(os.path.abspath(D_DIR)), r['dir'], 'occ', '*.tsv')):
+                used.update(abbr.scan([x['pos'] for x in tsv(fo)])[0])
     ab = {'groups': [{'name': g, 'items': [[a, f, d, used[a]] for a, f, d in items if used.get(a)]}
                      for g, items in abbr.GROUPS],
           'refs': abbr.REFS, 'types': abbr.TYPES, 'known': {a: d for a, (f, d) in abbr.KNOWN.items()},
           'alias': abbr.ALIAS}
     js = lambda o: json.dumps(o, ensure_ascii=False).replace('</', '<\\/')  # 防止数据中出现 </script>
+    tags = '\n'.join('<script src="data/%s.js" charset="utf-8"></script>' % p['id'] for p in parts)
     page = (HTML.replace('/*ABBR*/', js(ab)).replace('/*FONTS*/', page_style.LOCAL_FONT_LINK)
-            .replace('/*BASE*/', page_style.BASE_CSS).replace('/*DATAFILE*/', 'data/akbh1.js'))
+            .replace('/*BASE*/', page_style.BASE_CSS).replace('/*PARTS*/', js(parts)).replace('/*DATATAGS*/', tags))
     open(os.path.join(pkg, '词汇表.html'), 'w', encoding='utf-8').write(page)
 
 
 HTML = r'''<!doctype html>
 <html lang="zh-Hans"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>界品译语词汇表</title>
+<title>俱舍论译语词汇表</title>
 /*FONTS*/
 <style>/*BASE*/
 .stats{display:flex;flex-wrap:wrap;gap:22px;margin:16px 0 0;font-family:var(--sans);font-size:13px;color:var(--mut)}
@@ -352,6 +365,8 @@ HTML = r'''<!doctype html>
 .o:last-child{border-bottom:0}
 .ref{grid-column:1/-1;font-family:var(--sans);font-size:12px;color:var(--mut);letter-spacing:.03em;display:flex;flex-wrap:wrap;gap:4px 12px;align-items:center}
 .ty{border:1px solid var(--line);border-radius:5px;padding:0 6px;font-size:11.5px;color:var(--ink)}
+.chap{font-family:var(--zh);color:var(--acc)}
+#part{font:15px/1.4 var(--sans);color:var(--ink);background:var(--paper);border:1px solid var(--line);border-radius:10px;padding:9px 10px}
 .skt{font-family:var(--serif);font-size:16px;line-height:1.7;color:var(--ink)}
 .skt.verse{border-left:3px solid color-mix(in srgb,var(--acc) 45%,transparent);padding-left:10px;font-style:italic}
 .xz{font-family:var(--zht);font-size:16.5px;line-height:1.85;letter-spacing:.03em}
@@ -396,11 +411,12 @@ table.ab td.n{font-family:var(--sans);font-size:13px;color:var(--mut);text-align
 </style></head><body><main>
 <header class="top">
 <p class="kicker">玄奘译语词汇表 · 试点</p>
-<h1>俱舍论·界品 译语词汇表</h1>
-<p class="lead">范围为界品全品（颂 1.1–1.48，Pradhan 1.3–37.18，T29.1a07–13b09）。每条对应都附梵文原句（Pradhan 本页.行）、玄奘译文（大正藏 T29 页栏行，链接到 CBETA）与真谛译语；点开词条查看全部例句。虚词与语法形式每种对应只收一两例。检索框输入"待核"可筛出待核的条目，详见《待核清单》。</p>
+<h1>俱舍论 译语词汇表</h1>
+<p class="lead"><span id="scope"></span>每条对应都附梵文原句（Pradhan 本页.行）、玄奘译文（大正藏 T29 页栏行，链接到 CBETA）与真谛译语；点开词条查看全部例句。虚词与语法形式每种对应只收一两例。检索框输入"待核"可筛出待核的条目，详见《待核清单》。</p>
 <div class="stats" id="stats"></div>
 </header>
 <div class="bar">
+<select id="part" aria-label="按品筛选" hidden></select>
 <input type="search" id="q" placeholder="检索梵文词目、汉译、注或类型，如 abhidharma、對法、待核、梵本缺文" aria-label="检索">
 <div class="seg" role="tablist"><button class="on" data-v="lex">梵→汉</button><button data-v="gram">语法形式</button><button data-v="rev">汉→梵</button><button data-v="add">增译 · 省译 · 缺文</button><button data-v="abbr">缩略语</button><button data-v="audit">审定</button></div>
 </div>
@@ -408,12 +424,14 @@ table.ab td.n{font-family:var(--sans);font-size:13px;color:var(--mut);text-align
 </main>
 <script type="application/json" id="d-abbr">/*ABBR*/</script>
 <script>
-const J=id=>JSON.parse(document.getElementById(id).textContent);const AB=J('d-abbr');let D=[],TANG={},META={};
+const J=id=>JSON.parse(document.getElementById(id).textContent);const AB=J('d-abbr');const PARTS=/*PARTS*/;let ALL=[],D=[],TANG={},META={};
 function tl(v,ln){return ln?v+'.'+parseInt(ln.slice(0,4),10)+ln.slice(4):''}
-function decode(p){const S=p.sents,C=p.ctx;return p.recs.map(r=>{const s=S[r[4]];return {oid:r[0],lemma:r[1],pos:r[2],skt:r[3],
+function decode(p){const S=p.sents,C=p.ctx,m=p.meta;return p.recs.map(r=>{const s=S[r[4]];return {part:m.part,chap:m.short,work:m.work,oid:r[0],lemma:r[1],pos:r[2],skt:r[3],
   pradhan:s[1],karika:s[2],verse:s[3],skt_sent:s[4],xz:r[5],xz_line:r[6],T:tl(p.meta.vol,r[6]),type:r[7],pm:r[8],pm_line:r[9],
   PM:tl(p.meta.vol,r[9]),note:r[10],xz_ctx:r[11]>=0?C[r[11]]:'',xz_hl:r[12]||[],sk:r[13]||0}})}
-window.XZG_DATA=function(p){META=p.meta;D=decode(p);TANG=p.tang||{};init()};
+// 各品数据文件依次调用；全部载入后由页面末尾的 init() 建索引
+window.XZG_DATA=function(p){META[p.meta.part]=p.meta;ALL=ALL.concat(decode(p));D=ALL;
+ Object.entries(p.tang||{}).forEach(([k,v])=>{TANG[k]=(TANG[k]||[]).concat(v)})};
 const ORDER=['a','ā','i','ī','u','ū','ṛ','ṝ','ḷ','e','ai','o','au','ṃ','ḥ','k','kh','g','gh','ṅ','c','ch','j','jh','ñ','ṭ','ṭh','ḍ','ḍh','ṇ','t','th','d','dh','n','p','ph','b','bh','m','y','r','l','v','ś','ṣ','s','h'];
 const R={};ORDER.forEach((c,i)=>R[c]=i);
 function key(s){s=s.toLowerCase().normalize('NFC').replace(/^[-√(]+/,'');const o=[];for(let i=0;i<s.length;){const t=s.slice(i,i+2);if(t.length==2&&R[t]!==undefined){o.push(R[t]);i+=2;continue}const c=s[i];o.push(R[c]!==undefined?R[c]:200+c.charCodeAt(0));i++}return o}
@@ -431,8 +449,8 @@ function abbrHTML(){const tb=(head,rows)=>`<table class="ab"><thead><tr>${head.m
  AB.groups.filter(g=>g.items.length).forEach(g=>{h+=`<h2>${esc(g.name)}</h2>${tb(['缩写','全称','说明','用例'],g.items.map(([a,f,d,n])=>`<tr><td class="k">${esc(a)}</td><td class="f">${esc(f)}</td><td>${esc(d)}</td><td class="n">${n}</td></tr>`))}`});
  const al=Object.entries(AB.alias);if(al.length)h+=`<p class="small">另一写法：${al.map(([a,b])=>`${esc(a)} = ${esc(b)}`).join('；')}</p>`;
  return h+'</section>'}
-function cb(o){if(!o.xz_line)return'';return `<a href="https://cbetaonline.dila.edu.tw/zh/${META.work}_p${o.xz_line}" target="_blank" rel="noopener" title="联网时可到 CBETA 查看">${esc(o.T)}</a>`}
-function occHTML(o){return `<div class="o"><div class="ref"><span>P ${esc(o.pradhan)}</span>${o.karika?`<span>颂 ${esc(o.karika)}</span>`:''}${cb(o)}<span class="ty">${esc(o.type)}</span>${o.pos?`<span>${posHTML(o.pos)}</span>`:''}</div>
+function cb(o){if(!o.xz_line)return'';return `<a href="https://cbetaonline.dila.edu.tw/zh/${o.work}_p${o.xz_line}" target="_blank" rel="noopener" title="联网时可到 CBETA 查看">${esc(o.T)}</a>`}
+function occHTML(o){return `<div class="o"><div class="ref">${PARTS.length>1?`<span class="chap">${esc(o.chap)}</span>`:''}<span>P ${esc(o.pradhan)}</span>${o.karika?`<span>颂 ${esc(o.karika)}</span>`:''}${cb(o)}<span class="ty">${esc(o.type)}</span>${o.pos?`<span>${posHTML(o.pos)}</span>`:''}</div>
 <div class="skt${o.verse=='V'?' verse':''}">${hlSkt(o.skt_sent,o.skt,o.sk)}</div><div class="xz">${o.xz_ctx?hlZh(o.xz_ctx,o.xz_hl):'<span class="small">（玄奘未译）</span>'}</div>
 ${o.pm?`<div class="note"><span class="lab">真谛</span>${esc(o.pm)}（${esc(o.PM)}）</div>`:''}${o.note?`<div class="note"><span class="lab">注</span>${esc(o.note)}</div>`:''}${rvBar(o)}</div>`}
 function group(list,kf){const m=new Map();list.forEach(o=>{const k=kf(o);if(!m.has(k))m.set(k,[]);m.get(k).push(o)});return m}
@@ -449,7 +467,7 @@ function sortedGroups(name,list,kf,sorter){if(!SORTED[name]){const g=group(list,
 const COLL=new Intl.Collator('zh-Hant-u-co-stroke');
 let lexOcc=[],gramOcc=[],BYOID={};
 function prep(){lexOcc=D.filter(o=>!['增译','梵本缺文'].includes(o.type)&&!o.pos.startsWith('gram')&&o.lemma);
-gramOcc=D.filter(o=>o.pos.startsWith('gram')&&!['增译','梵本缺文'].includes(o.type));BYOID={};D.forEach(o=>BYOID[o.oid]=o)}
+gramOcc=D.filter(o=>o.pos.startsWith('gram')&&!['增译','梵本缺文'].includes(o.type));BYOID={};ALL.forEach(o=>BYOID[o.oid]=o)}
 const CHUNK=150;let PEND=[],SHOWN=0,IO=null;
 function bind(root){root.querySelectorAll('.e .eh').forEach(x=>{if(x.dataset.b)return;x.dataset.b=1;x.onclick=()=>{const e=x.parentNode,o=e.querySelector('.occ');
   if(o&&o.dataset.i!==undefined&&!o.dataset.done){o.innerHTML=OS[+o.dataset.i].map(occHTML).join('');o.dataset.done=1}e.classList.toggle('open')}})}
@@ -478,8 +496,9 @@ out.innerHTML='';PEND=H;SHOWN=0;more()}
 /* ===== 审定：结果保存在本浏览器（localStorage），可导出为文件交回 ===== */
 let REV={reviewer:'',items:{}},RVOK=true,AF='todo';
 const RVTYPES=['对译','意译','音译','拆译','合译','增译','省译','语法','梵本缺文'];
-function rkey(){return 'xzg-review-'+(META.part||'x')}
-function rvLoad(){try{const s=localStorage.getItem(rkey());if(s)REV=JSON.parse(s);if(!REV.items)REV.items={}}catch(e){RVOK=false}}
+function rkey(){return 'xzg-review-akbh'}
+function rvLoad(){try{if(!localStorage.getItem(rkey())&&localStorage.getItem('xzg-review-akbh1'))localStorage.setItem(rkey(),localStorage.getItem('xzg-review-akbh1'));
+ const s=localStorage.getItem(rkey());if(s)REV=JSON.parse(s);if(!REV.items)REV.items={}}catch(e){RVOK=false}}
 function rvSave(){try{localStorage.setItem(rkey(),JSON.stringify(REV))}catch(e){RVOK=false}}
 function rvBar(o){const it=REV.items[o.oid];
  return `<div class="rvbar" data-oid="${esc(o.oid)}"><span>${esc(o.oid)}</span>${it?`<span class="badge b-${it.verdict}">${it.verdict}</span>${it.comment?`<span>${esc(it.comment)}</span>`:''}`:''}<button class="rvb" data-act="rv-open">${it?'修改审定':'审定'}</button></div>`}
@@ -496,11 +515,11 @@ function rvRefresh(oid){document.querySelectorAll(`.rvbar[data-oid="${CSS.escape
 function stamp(){const d=new Date(),z=n=>String(n).padStart(2,'0');return `${d.getFullYear()}${z(d.getMonth()+1)}${z(d.getDate())}-${z(d.getHours())}${z(d.getMinutes())}`}
 function rvExport(){const items=Object.entries(REV.items).map(([oid,it])=>Object.assign({oid},it));
  if(!items.length){alert('还没有审定任何条目。');return}
- const out={format:'xzg-review',version:1,part:META.part,title:META.title,reviewer:REV.reviewer||'',exported:new Date().toISOString(),items};
+ const out={format:'xzg-review',version:1,part:'akbh',title:'俱舍论',reviewer:REV.reviewer||'',exported:new Date().toISOString(),items};
  const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(out,null,1)],{type:'application/json'}));
- a.download=`审定-${META.short||META.part}-${REV.reviewer||'未署名'}-${stamp()}.json`;document.body.appendChild(a);a.click();setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove()},1000)}
+ a.download=`审定-俱舍论-${REV.reviewer||'未署名'}-${stamp()}.json`;document.body.appendChild(a);a.click();setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove()},1000)}
 function rvImport(file){const fr=new FileReader();fr.onload=()=>{try{const x=JSON.parse(fr.result);if(x.format!=='xzg-review')throw 0;
-  if(x.part&&x.part!==META.part&&!confirm(`这个文件是"${x.title||x.part}"的审定结果，与当前页面不同，仍要导入吗？`))return;
+  if(x.part&&!String(x.part).startsWith('akbh')&&!confirm(`这个文件是"${x.title||x.part}"的审定结果，与当前页面不同，仍要导入吗？`))return;
   let n=0,k=0;(x.items||[]).forEach(it=>{const cur=REV.items[it.oid];if(!BYOID[it.oid]){k++;return}
    if(!cur||(it.ts||0)>(cur.ts||0)){const c=Object.assign({},it);delete c.oid;REV.items[it.oid]=c;n++}});
   if(!REV.reviewer&&x.reviewer)REV.reviewer=x.reviewer;rvSave();render();alert(`导入 ${n} 条${k?`；${k} 条在当前数据中找不到，已跳过`:''}。`)}catch(e){alert('无法读取：这不是审定结果文件。')}};fr.readAsText(file,'utf-8')}
@@ -531,13 +550,18 @@ document.addEventListener('click',e=>{const b=e.target.closest('[data-act]');if(
 document.addEventListener('input',e=>{if(e.target.id=='rv-name'){REV.reviewer=e.target.value.trim();rvSave()}});
 document.addEventListener('change',e=>{if(e.target.id=='rv-file'&&e.target.files[0]){rvImport(e.target.files[0]);e.target.value=''}});
 
-function init(){prep();rvLoad();
-document.getElementById('stats').innerHTML=[['对应实例',D.length],['梵文词目',new Set(lexOcc.map(o=>o.lemma)).size],['语法形式',new Set(gramOcc.map(o=>o.lemma)).size],['增译',D.filter(o=>o.type=='增译').length],['省译',D.filter(o=>o.type=='省译').length],['梵本缺文',D.filter(o=>o.type=='梵本缺文').length]].map(([a,b])=>`<div><b>${b}</b>${a}</div>`).join('');
+function stats(){document.getElementById('stats').innerHTML=[['对应实例',D.length],['梵文词目',new Set(lexOcc.map(o=>o.lemma)).size],['语法形式',new Set(gramOcc.map(o=>o.lemma)).size],['增译',D.filter(o=>o.type=='增译').length],['省译',D.filter(o=>o.type=='省译').length],['梵本缺文',D.filter(o=>o.type=='梵本缺文').length]].map(([a,b])=>`<div><b>${b}</b>${a}</div>`).join('')}
+function init(){D=ALL;prep();rvLoad();stats();
+document.getElementById('scope').textContent='收录：'+PARTS.map(p=>p.scope).join('；')+'。';
+const sel=document.getElementById('part');
+if(PARTS.length>1){sel.hidden=false;sel.innerHTML='<option value="">各品</option>'+PARTS.map(p=>`<option value="${esc(p.id)}">${esc(p.short)}</option>`).join('');
+ sel.onchange=()=>{D=sel.value?ALL.filter(o=>o.part==sel.value):ALL;for(const k in SORTED)delete SORTED[k];prep();stats();render()}}
 render()}
 document.querySelectorAll('.seg button').forEach(t=>t.onclick=()=>{view=t.dataset.v;document.querySelectorAll('.seg button').forEach(x=>x.classList.toggle('on',x===t));render()});
 document.getElementById('q').oninput=render;
 </script>
-<script src="/*DATAFILE*/" charset="utf-8"></script>
+/*DATATAGS*/
+<script>init()</script>
 </body></html>
 '''
 

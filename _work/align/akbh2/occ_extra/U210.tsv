@@ -1,0 +1,24 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U210-015	S0274	veditavyam	gdv.	gram. gdv. (-tavya)			省译			
+U210-026	S0276	taddhy	tad	pron. nt. sg. nom.	0016b25	彼	语法	0175c23	此	
+U210-030	S0276	apratisaṃyuktameva	eva	ind.	0016b25	唯	语法	0175c23	決定	
+U210-059	S0280	vairāgyād	abl.	gram. abl. (-āt)	0016b29	故	语法	0175c26	故	第五格表原因
+U210-067	S0280	dhātau	loc.	gram. loc. (-au)			省译	0175c25	於	第七格未译
+U210-074	S0280	staḥ	as	v. pres. 3du.			省译			
+U210-078	S0281	ta ucyante	tad	pron. m. pl. nom.	0016b29	彼	语法	0175c27	彼	
+U210-080	S0281	ucyante	pass.	gram. pass. (-ya-)			省译			被动未译
+U210-084	S0282	sūtre	loc.	gram. loc. (-e)	0016c01	中	语法			
+U210-089	S0283	yat	yad	pron. nt. sg. nom.			省译			
+U210-093	S0283	kārayiṣyati	fut.	gram. fut. (-sya-)			省译			未来时未译
+U210-094	S0283	kārayiṣyati	caus.	gram. caus. (-aya-)			省译			使役未译
+U210-095	S0284	nedaṃ	na	ind.			省译			nedaṃ sthānaṃ vidyate（无此处）一句，玄奘、真谛皆未译
+U210-096	S0284	nedaṃ	idam	pron. nt. sg. nom.			省译			
+U210-113	S0285	chātau	loc.	gram. loc. (-au)	0016c03	中	语法			
+U210-119	S0286	nāsty	na	ind.	0016c03	無	语法	0176a01	無	na … asti 译"無"
+U210-120	S0286	nāsty	as	v. pres. 3sg.			省译			na … asti 译"無"，asti 不单译
+U210-127	S0286	bhāvāccha	ca	ind.	0016c04	又	语法	0176a01	又	GRETIL 本作 bhāvāccha
+U210-132	S0287	nāsti	na	ind.	0016c04	無	语法	0176a02	無	
+U210-133	S0287	nāsti	as	v. pres. 3sg.			省译			na … asti 译"無"
+U210-139	S0287	santānatvād	abl.	gram. abl. (-āt)	0016c04	由…故	语法	0176a02	故	第五格表原因
+U210-145	S0287	abhāvācca	ca	ind.	0016c05	又	语法	0176a02	又	
+U210-183	S0291	santi	as	v. pres. 3pl.			省译			

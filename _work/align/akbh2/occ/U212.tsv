@@ -1,0 +1,190 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U212-001	S0306	kāmeṣv	kāma	n. m. pl. loc.	0016c19	欲	对译	0176a16	欲	
+U212-002	S0306	ādau	ādi	n. m. sg. loc.	0016c19	初	对译	0176a16	初	ādi（初始）
+U212-003	S0306	vipāko	vipāka	n. m. sg. nom.	0016c19	異熟	对译	0176a16	果報	
+U212-004	S0306	dve	dvi	num. nt. du. nom.	0016c19	二	对译	0176a16	二	
+U212-005	S0306	labhyate	labh	v. pres. pass. 3sg.	0016c19	得	对译	0176a16	得	
+U212-006	S0307				0016c21	欲	增译			长行复述颂文 kāmeṣu
+U212-007	S0307				0016c21	初受生位	增译			长行复述颂文 ādau
+U212-008	S0307				0016c21	唯得…二異熟	增译			长行复述颂文 dve vipāko labhyate
+U212-009	S0307	kāyendriyaṃ	kāya-indriya	cpd. nt. sg. nom.	0016c21	身…根	对译	0176a17	身根	"根"与 jīvitendriya 共用
+U212-010	S0307	kāye	kāya	n. 成分	0016c21	身	对译	0176a17	身	
+U212-011	S0307	endriyaṃ	indriya	n. nt. sg. nom.	0016c22	根	合译	0176a17	根	与 jīvitendriya 共用"根"（身與命二異熟根）
+U212-012	S0307	ca	ca	ind.	0016c21	與	语法			
+U212-013	S0307	jīvitendriyaṃ	jīvita-indriya	cpd. nt. sg. nom.	0016c21	命…根	对译	0176a17	命根	"根"与 kāyendriya 共用
+U212-014	S0307	jīvite	jīvita	n. 成分	0016c21	命	对译	0176a17	命	
+U212-015	S0307	endriyaṃ	indriya	n. nt. sg. nom.	0016c22	根	合译	0176a17	根	与 kāyendriya 共用"根"
+U212-018	S0308	nopapādukaiḥ	na	ind.	0016c19	胎卵濕生	合译	0176a18	非	na upapādukaiḥ（非化生者）合为"胎卵濕生"：本颂正说其余三生（据长行 S0309）
+U212-019	S0308	nopapādukaiḥ	upapāduka	adj. m. pl. instr.	0016c19	胎卵濕生	合译	0176a18	化生	同上
+U212-020	S0309	upapādukapratiṣedhād	upapāduka-pratiṣedha	cpd. m. sg. abl.			省译	0176a18	由除化生	玄奘不出"由遮化生"，径作"胎、卵、濕生"
+U212-021	S0309	upapāduka	upapāduka	adj. 成分			省译	0176a18	化生	
+U212-022	S0309	pratiṣedhād	pratiṣedha	n. m. sg. abl.			省译	0176a18	除	
+U212-023	S0309	aṇḍajajarāyujasaṃsvedajaīr	aṇḍaja-jarāyuja-saṃsvedaja	cpd. m. pl. instr.	0016c21	胎、卵、濕生	意译	0176a18	胎、卵、濕三生	GRETIL 本作 -saṃsvedajaīr，当读 -saṃsvedajair；玄奘、真谛倒序作"胎、卵"
+U212-024	S0309	aṇḍaja	aṇḍaja	adj. 成分	0016c21	卵	对译	0176a19	卵	"生"三者共用（见 saṃsvedaja）
+U212-025	S0309	jarāyuja	jarāyuja	adj. 成分	0016c21	胎	对译	0176a18	胎	"生"三者共用
+U212-026	S0309	saṃsvedajaīr	saṃsvedaja	adj. m. pl. instr.	0016c21	濕生	对译	0176a19	濕	
+U212-027	S0309	veditavyam	veditavya	gdv. nt. sg. nom. (√vid)			省译	0176a19	應知	
+U212-028	S0309				0016c22	由此三生根漸起故	增译			玄奘补出理由（三生之根渐次而起）
+U212-030	S0309				0016c22	彼	增译			指胎卵湿三生
+U212-032	S0309				0016c22	得	增译			承上 labhyate
+U212-033	S0309	manaupekṣendriye	manas-upekṣā-indriya	cpd. nt. du. nom.	0016c22	意、捨…根	对译	0176a19	意捨…根	
+U212-034	S0309	mana	manas	n. 成分	0016c22	意	对译	0176a19	意	
+U212-035	S0309	upekṣe	upekṣā	n. 成分	0016c23	捨	对译	0176a19	捨	
+U212-036	S0309	ndriye	indriya	n. nt. du. nom.	0016c23	根	对译	0176a19	根	
+U212-038	S0310	pratisandhikāle	pratisandhi-kāla	cpd. m. sg. loc.	0016c23	續生時	对译	0176a20	受生時	
+U212-039	S0310	pratisandhi	pratisandhi	n. 成分	0016c23	續生	对译	0176a20	受生	
+U212-040	S0310	kāle	kāla	n. m. sg. loc.	0016c23	時	对译	0176a20	時	
+U212-042	S0310	avaśyaṃ	avaśyam	ind.	0016c23	定	对译	0176a20	必	
+U212-043	S0310	kliṣṭatvāt	kliṣṭa-tva	n. nt. sg. abl.	0016c23	染污	对译	0176a20	染污	
+U212-044	S0310	athopapādukaiḥ	atha	ind.			省译	0176a20	若	
+U212-045	S0310	opapādukaiḥ	upapāduka	adj. m. pl. instr.	0016c23	化生	对译	0176a20	化生	
+U212-046	S0310				0016c23	初位	增译			
+U212-047	S0310	kati	kati	pron. pl. nom.			省译	0176a21	幾	设问未译，玄奘径答"得六七八"
+U212-048	S0310	labhyante	labh	v. pres. pass. 3pl.	0016c23	得	对译	0176a20	得	
+U212-049	S0310				0016c23	六七八	增译			长行复述颂文
+U212-050	S0311	taiḥ	tad	pron. m. pl. instr.	0016c20	化生	意译	0176a21	彼	代词还原为所指（upapāduka）
+U212-051	S0311	ṣaḍa	ṣaṣ	num. pl. nom.	0016c20	六	对译	0176a21	六	GRETIL 本作 ṣaḍa，当读 ṣaḍ
+U212-053	S0312				0016c24	謂	增译			
+U212-054	S0312	yady	yadi	ind.			省译	0176a21	若	以"…者"表条件（另记）
+U212-055	S0312	avyañjanā	a-vyañjana	adj. m. pl. nom.	0016c24	無形	对译	0176a21	無女男根	avyañjana（无男女根者）译"無形"
+U212-056	S0312	bhavanti	bhū	v. pres. 3pl.			省译			
+U212-057	S0312				0016c24	者	增译			
+U212-058	S0312				0016c24	初得六根	增译			承颂文补出
+U212-060	S0312	prāthamakalpikāḥ	prāthamakalpika	adj. m. pl. nom.	0016c24	劫初時	意译	0176a22	劫初生	prāthamakalpika（劫初之人）译"劫初時"
+U212-061	S0312	katamāni	katama	pron. nt. pl. nom.	0016c24	何等	语法	0176a22	何者	
+U212-062	S0312				0016c25	為	增译	0176a22	為	"何等為六"之"為"
+U212-063	S0312	ṣaṭ	ṣaṣ	num. pl. nom.	0016c25	六	对译	0176a22	六	
+U212-064	S0313				0016c25	所謂	增译			
+U212-065	S0313	cakṣuḥśrotraghrāṇajihvākāyajīvitendriyāṇi	cakṣus-śrotra-ghrāṇa-jihvā-kāya-jīvita-indriya	cpd. nt. pl. nom.	0016c25	眼、耳、鼻、舌、身、命	对译	0176a22	眼耳鼻舌身命根	indriya 未译
+U212-066	S0313	cakṣuḥ	cakṣus	n. 成分	0016c25	眼	对译	0176a22	眼	
+U212-067	S0313	śrotra	śrotra	n. 成分	0016c25	耳	对译	0176a22	耳	
+U212-068	S0313	ghrāṇa	ghrāṇa	n. 成分	0016c25	鼻	对译	0176a22	鼻	
+U212-069	S0313	jihvā	jihvā	n. 成分	0016c25	舌	对译	0176a22	舌	
+U212-070	S0313	kāya	kāya	n. 成分	0016c25	身	对译	0176a22	身	
+U212-071	S0313	jīvite	jīvita	n. 成分	0016c25	命	对译	0176a22	命	
+U212-072	S0313	endriyāṇi	indriya	n. nt. pl. nom.			省译	0176a22	根	
+U212-073	S0314	sapta	saptan	num. pl. nom.	0016c20	七	对译	0176a23	七	
+U212-074	S0315	yady	yadi	ind.	0016c25	若…者	语法	0176a23	若	
+U212-075	S0315	ekavyañjanā	eka-vyañjana	cpd. adj. m. pl. nom. (bahuvrīhi)	0016c25	一形	对译	0176a23	一根	
+U212-076	S0315	eka	eka	num. 成分	0016c25	一	对译	0176a23	一	
+U212-077	S0315	vyañjanā	vyañjana	n. m. pl. nom.	0016c25	形	意译	0176a23	根	vyañjana（男女根之相）译"形"
+U212-078	S0315	bhavanti	bhū	v. pres. 3pl.			省译			
+U212-079	S0315				0016c25	初得七根	增译			承颂文补出
+U212-081	S0316	devādiṣu	deva-ādi	cpd. m. pl. loc.	0016c26	天等	对译	0176a23	天等	
+U212-082	S0316	devā	deva	n. 成分	0016c26	天	对译	0176a23	天	
+U212-083	S0316	ādiṣu	ādi	n. m. pl. loc.	0016c26	等	对译	0176a23	等	
+U212-085	S0317	aṣṭau	aṣṭan	num. pl. nom.	0016c20	八	对译	0176a24	八	
+U212-086	S0318	yady	yadi	ind.	0016c26	若…者	语法	0176a24	若	
+U212-087	S0318	ubhayavyañjanā	ubhaya-vyañjana	cpd. adj. m. pl. nom. (bahuvrīhi)	0016c26	二形	对译	0176a24	二根	
+U212-088	S0318	ubhaya	ubhaya	pron. 成分	0016c26	二	意译	0176a24	二	ubhaya（两者）译"二"
+U212-089	S0318	vyañjanā	vyañjana	n. m. pl. nom.	0016c26	形	意译	0176a24	根	
+U212-090	S0318	bhavanti	bhū	v. pres. 3pl.			省译			
+U212-091	S0318				0016c26	初得八根	增译			承颂文补出
+U212-092	S0318	kiṃ punar	kiṃ punar	ind.	0016c26	豈	意译	0176a25	耶	反诘设问
+U212-093	S0318	ubhayavyañjanā	ubhaya-vyañjana	cpd. adj. m. pl. nom. (bahuvrīhi)	0016c26	二形	对译	0176a24	二根	
+U212-094	S0318	ubhaya	ubhaya	pron. 成分	0016c26	二	意译	0176a24	二	
+U212-095	S0318	vyañjanā	vyañjana	n. m. pl. nom.	0016c27	形	意译	0176a24	根	
+U212-096	S0318				0016c27	受	增译			"受化生"之"受"
+U212-097	S0318	upapādukā	upapāduka	adj. m. pl. nom.	0016c27	化生	对译	0176a24	化生	
+U212-098	S0318	bhavanti	bhū	v. pres. 3pl.	0016c26	有	对译	0176a24	有	"豈有"之"有"
+U212-099	S0318				0016c27	者	增译			
+U212-100	S0319	bhavanty	bhū	v. pres. 3pl.	0016c27	容有	意译	0176a25	可有	bhavanti（有）译"容有"
+U212-101	S0319	apāyeṣu	apāya	n. m. pl. loc.	0016c27	惡趣	对译	0176a25	惡道	
+U212-102	S0319				0016c27	二形化生	增译			补出主语
+U212-104	S0320				0016c27	說…初得根已	增译			玄奘补出结上之语
+U212-105	S0320	kāmadhātau	kāma-dhātu	cpd. m. sg. loc.	0016c27	欲界	对译	0176a25	欲界	
+U212-106	S0320	kāma	kāma	n. 成分	0016c27	欲	对译	0176a25	欲	
+U212-107	S0320	dhātau	dhātu	n. m. sg. loc.	0016c27	界	对译	0176a25	界	
+U212-108	S0320	atha	atha	ind.	0016c28	今次	意译			atha（现在、其次）译"今次"
+U212-109	S0320	rūpadhātāv	rūpa-dhātu	cpd. m. sg. loc.	0016c28	色…界	合译	0176a25	色界	与 ārūpyadhātau 共用"界"
+U212-110	S0320	rūpa	rūpa	n. 成分	0016c28	色	对译	0176a25	色	
+U212-111	S0320	dhātāv	dhātu	n. m. sg. loc.	0016c28	界	合译	0176a26	界	与 ārūpyadhātau 共用"界"
+U212-112	S0320	ārūpyadhātau	ārūpya-dhātu	cpd. m. sg. loc.	0016c28	無色界	对译	0176a26	無色界	
+U212-113	S0320	ārūpya	ārūpya	n. 成分	0016c28	無色	对译	0176a26	無色	
+U212-114	S0320	dhātau	dhātu	n. m. sg. loc.	0016c28	界	合译	0176a26	界	与 rūpadhātau 共用"界"
+U212-115	S0320	kathamityāha	katham	ind.			省译	0176a26	云何	设问未译
+U212-117	S0320				0016c28	當	增译			"當說"之"當"
+U212-118	S0321	ṣaḍ	ṣaṣ	num. pl. nom.	0016c20	六	对译	0176a26	六	
+U212-119	S0321	rūpeṣu	rūpa	n. nt. pl. loc.	0016c20	色	对译	0176a26	色	rūpa（色）指色界（长行 S0323）
+U212-120	S0322	kāmapradhānatvāt	kāma-pradhāna-tva	cpd. nt. sg. abl.	0016c28	欲勝	对译	0176a26	欲勝	
+U212-121	S0322	kāma	kāma	n. 成分	0016c28	欲	对译	0176a26	欲	
+U212-122	S0322	pradhāna	pradhāna	adj. 成分	0016c29	勝	对译	0176a26	勝	
+U212-123	S0322	kāmadhātuḥ	kāma-dhātu	cpd. m. sg. nom.	0016c28	欲界	对译	0176a27	欲界	
+U212-124	S0322	kāma	kāma	n. 成分	0016c28	欲	对译	0176a27	欲	
+U212-125	S0322	dhātuḥ	dhātu	n. m. sg. nom.	0016c28	界	对译	0176a27	界	
+U212-126	S0322				0016c29	但	增译	0176a27	但	
+U212-127	S0322	kāmā	kāma	n. m. pl. nom.	0016c29	欲	对译	0176a27	欲	
+U212-128	S0322	nirdiśyate	nir-diś	v. pres. pass. 3sg.	0016c29	言	意译	0176a27	名	nirdiśyate（被称作）译"言"
+U212-129	S0323	rūpapradhānatvād	rūpa-pradhāna-tva	cpd. nt. sg. abl.	0016c29	色勝	对译	0176a27	色勝	
+U212-130	S0323	rūpa	rūpa	n. 成分	0016c29	色	对译	0176a27	色	
+U212-131	S0323	pradhāna	pradhāna	adj. 成分	0016c29	勝	对译	0176a27	勝	
+U212-132	S0323	rūpadhātū	rūpa-dhātu	cpd. m. sg. nom.	0016c29	色界	对译	0176a27	色界	
+U212-133	S0323	rūpa	rūpa	n. 成分	0016c29	色	对译	0176a27	色	
+U212-134	S0323	dhātū	dhātu	n. m. sg. nom.	0016c29	界	对译	0176a27	界	
+U212-135	S0323				0016c29	但言	增译	0176a27	但名	承上 nirdiśyate
+U212-136	S0323	rūpāṇīti	rūpa	n. nt. pl. nom.	0016c29	色	对译	0176a28	色	
+U212-137	S0324	sūtre	sūtra	n. nt. sg. loc.	0016c29	契經	对译	0176a28	經	
+U212-139	S0324	uktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0017a01	言	对译	0176a28	說	
+U212-140	S0324	bhikṣavaḥ	bhikṣu	n. m. pl. voc.			省译			
+U212-141	S0324	śāntā	śānta	ptc. adj. m. pl. nom. (√śam)	0017a01	寂靜	对译	0176a28	寂靜	
+U212-142	S0324	vimokṣā	vimokṣa	n. m. pl. nom.	0017a01	解脫	对译	0176a28	解脫	
+U212-143	S0324	atikramya	ati-kram	abs.	0017a01	過	对译	0176a28	過	
+U212-144	S0324	rūpāṇy	rūpa	n. nt. pl. acc.	0017a01	色	对译	0176a28	色	
+U212-145	S0324	ārupyā	ārūpya	adj. m. pl. nom.	0017a01	無色	对译	0176a28	非色	GRETIL 本作 ārupyā，当读 ārūpyāḥ
+U212-146	S0325	rūpadhātau	rūpa-dhātu	cpd. m. sg. loc.	0017a01	色界	对译	0176a28	色界	
+U212-147	S0325	rūpa	rūpa	n. 成分	0017a01	色	对译	0176a28	色	
+U212-148	S0325	dhātau	dhātu	n. m. sg. loc.	0017a01	界	对译	0176a29	界	
+U212-149	S0325	ṣaḍḍ	ṣaṣ	num. pl. nom.	0017a01	六	对译	0176a29	六	GRETIL 本作 ṣaḍḍindriyāṇi，当读 ṣaḍ indriyāṇi
+U212-150	S0325	indriyāṇi	indriya	n. nt. pl. nom.	0017a01	根	对译	0176a29	根	
+U212-151	S0325	vipākaḥ	vipāka	n. m. sg. nom.	0017a01	異熟	对译	0176a29	果報	
+U212-152	S0325	parathamato	prathamatas	ind.	0017a01	初	对译	0176a29	初	GRETIL 本作 parathamato，当读 prathamato
+U212-153	S0325	labhyante	labh	v. pres. pass. 3pl.	0017a01	得	对译	0176a29	得	
+U212-154	S0326	yāny	yad	pron. nt. pl. nom.	0017a02	如	意译			yāny eva（即…者）译"如…說"
+U212-156	S0326	kāmadhātāv	kāma-dhātu	cpd. m. sg. loc.	0017a02	欲	意译	0176a29	欲界	dhātu 未译
+U212-157	S0326	kāma	kāma	n. 成分	0017a02	欲	对译	0176a29	欲	
+U212-158	S0326	dhātāv	dhātu	n. m. sg. loc.			省译	0176a29	界	
+U212-159	S0326	avyañjanai	a-vyañjana	adj. m. pl. instr.	0017a02	無形	对译	0176a29	無二根	GRETIL 本作 avyañjanaiarupapādukaiḥ，当读 avyañjanair upapādukaiḥ
+U212-160	S0326	upapādukaiḥ	upapāduka	adj. m. pl. instr.	0017a02	化生	对译	0176b01	化生	
+U212-161	S0326				0017a02	者說	增译			
+U212-162	S0327	ekam	eka	num. nt. sg. nom.	0016c20	唯	意译	0176b01	一	ekam（一）本颂作"唯命"
+U212-163	S0327	uttare	uttara	adj. m. sg. loc.	0016c20	上	意译	0176b01	餘	uttara（上、后）指无色界
+U212-164	S0327				0016c20	命	增译			本颂补"命"（据长行 S0329）
+U212-165	S0328				0017a02	上唯命者	增译			引颂文
+U212-166	S0328				0017a02	謂	增译			
+U212-167	S0328	rūpadhātor	rūpa-dhātu	cpd. m. sg. abl.			省译	0176b01	色界	比较对象"色界"玄奘未译
+U212-168	S0328	rūpa	rūpa	n. 成分			省译	0176b01	色	
+U212-169	S0328	dhātor	dhātu	n. m. sg. abl.			省译	0176b02	界	
+U212-170	S0328	rūpadhātor	abl. compar.	gram. abl. of comparison (-oḥ)			省译	0176b01	異	表比较的第五格未译
+U212-171	S0328	ārūpyadhātur	ārūpya-dhātu	cpd. m. sg. nom.	0017a02	無色界	对译	0176b01	無色界	
+U212-172	S0328	ārūpya	ārūpya	n. 成分	0017a02	無色	对译	0176b01	無色	
+U212-173	S0328	dhātur	dhātu	n. m. sg. nom.	0017a02	界	对译	0176b01	界	
+U212-174	S0328	uttaraḥ	uttara	adj. m. sg. nom.	0017a03	上	意译	0176b02	餘	玄奘作"故說上言"
+U212-175	S0328				0017a03	故說…言	增译			"故說上言"
+U212-176	S0328	samāpattitaś	samāpatti	n. sg. abl. (-tas)	0017a02	定	对译	0176b02	三摩跋提	
+U212-177	S0328	paratvād	para-tva	n. nt. sg. abl.	0017a03	勝	意译	0176b02	異	para（上、胜）译"勝"
+U212-178	S0328	upapattitaś	upapatti	n. sg. abl. (-tas)	0017a03	生	对译	0176b02	生	
+U212-179	S0328	pradhānataratvāt	pradhāna-tva	n. nt. sg. abl. (compar.)	0017a03	勝	对译	0176b02	勝	pradhānatara-tva（更胜）
+U212-180	S0328	pradhānataratvāt	compar.	gram. compar. (-tara)			省译			比较级未单独译出
+U212-181	S0329	tasmin	tad	pron. m. sg. loc.	0017a03	無色界	意译	0176b02	此	代词还原为所指（ārūpyadhātu）
+U212-182	S0329	ekameva	eka	num. nt. sg. nom.	0017a04	唯	合译	0176b03	一	ekam eva 合为"唯"
+U212-183	S0329	jīvitendriyaṃ	jīvita-indriya	cpd. nt. sg. nom.	0017a04	根…命	意译	0176b03	命根	玄奘拆作"…異熟根者，唯命"
+U212-184	S0329	jīvite	jīvita	n. 成分	0017a04	命	对译	0176b03	命	
+U212-185	S0329	ndriyaṃ	indriya	n. nt. sg. nom.	0017a04	根	对译	0176b03	根	
+U212-186	S0329	vipākaḥ	vipāka	n. m. sg. nom.	0017a03	異熟	对译	0176b03	果報	
+U212-187	S0329	prathamato	prathamatas	ind.	0017a03	最初	对译	0176b03	初	
+U212-188	S0329	labhyate	labh	v. pres. pass. 3sg.	0017a03	得	对译	0176b03	得	
+U212-189	S0329	labhyate	pass.	gram. pass. (-ya-)	0017a03	所	语法			被动以"所"表出
+U212-190	S0329				0017a04	者	增译			
+U212-191	S0329	nānyat	anya	pron. nt. sg. nom.	0017a04	餘	对译	0176b03	餘	
+U212-192	S0330	ukto	ukta	ptc. m. sg. nom. (√vac)	0017a04	說	对译	0176b03	說	
+U212-193	S0330				0017a04	異熟根最初	增译			
+U212-194	S0330	lābhaḥ	lābha	n. m. sg. nom.	0017a04	得	对译	0176b03	至得	
+U212-195	S0331	tyāga	tyāga	n. m. sg. nom.			省译	0176b04	棄捨	玄奘不标目，径作"何界死位幾根後滅"
+U212-196	S0331	idānīṃ	idānīm	ind.			省译	0176b04	今	
+U212-197	S0331	vaktavyaḥ	vaktavya	gdv. m. sg. nom. (√vac)			省译	0176b04	說	
+U212-198	S0331	dhātau	dhātu	n. m. sg. loc.	0017a04	界	对译	0176b04	界	
+U212-199	S0331	mriyamāṇaḥ	mriyamāṇa	ptc. m. sg. nom. (√mṛ)	0017a05	死	对译	0176b04	死	
+U212-200	S0331	mriyamāṇaḥ	pres. ptc.	gram. pres. ptc. (-māna)	0017a05	位	语法	0176b04	正	现在分词表"正当…之时"，译"位"（死位）
+U212-201	S0331	katīndriyāṇi	indriya	n. nt. pl. acc.	0017a05	根	对译	0176b04	根	
+U212-202	S0331				0017a05	後	增译			"後滅"之"後"（最后）
+U212-203	S0331	nirodhayatīti	ni-rudh (caus.)	v. pres. caus. 3sg.	0017a05	滅	对译	0176b04	棄捨	

@@ -1,0 +1,46 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U208-001	S0250	tat	tad	pron. nt. sg. nom.	0016b02	憂	意译			代词还原为所指（daurmanasya，承上颂 daurmanasyāc ca）
+U208-002	S0250	tattvekaṃ	tu	ind.	0016b02	定	意译	0175c06	定	tu 表 eva 义（长行 S0251 tuśabda evakārārthaḥ），译"定"
+U208-003	S0250	ekaṃ	eka	num. nt. sg. nom.			省译	0175c06	一	玄奘本颂不出"一"
+U208-004	S0250	savipākaṃ	sa-vipāka	adj. nt. sg. nom.	0016b02	有異熟	对译	0175c06	有報	
+U208-005	S0250				0016b02	前八後三無	增译			本颂补出，即长行 anyad avipākam iti siddham（S0263）之意
+U208-006	S0251				0016b04	如前所諍	增译			玄奘补出，承上文异熟之诤
+U208-007	S0251	tad	tad	pron. nt. sg. nom.	0016b04	憂根	意译	0175c06	此	代词还原为所指（憂根）；真谛作"此一憂根"
+U208-008	S0251	ekaṃ	eka	num. nt. sg. nom.			省译	0175c06	一	
+U208-009	S0251	savipākameva	sa-vipāka	adj. nt. sg. nom.	0016b04	有異熟	对译	0175c06	有果報	
+U208-010	S0251	savipākameva	eva	ind.	0016b04	定	语法			eva 译"定"（定有異熟）
+U208-011	S0251				0016b04	依	增译			"依唯越義"之"依"
+U208-012	S0251	tuśabda	tu-śabda	cpd. m. sg. nom.	0016b05	定聲	意译	0175c07	定言	玄奘以本颂"定"字当 tu
+U208-013	S0251	tuśabda	tu	ind. 成分	0016b05	定	意译	0175c07	定	
+U208-014	S0251	śabda	śabda	n. m. sg. nom.	0016b05	聲	对译	0175c07	言	
+U208-015	S0251	evakārārtho	eva-kāra-artha	cpd. adj. m. sg. nom. (bahuvrīhi)	0016b04	唯…義	意译	0175c07	為決	evakārārtha（有 eva 字之义者）译"唯…義"
+U208-016	S0251	evakārā	eva	ind. 成分	0016b04	唯	对译			eva-kāra（eva 字）之 eva 译"唯"
+U208-017	S0251	kārā	kāra	n. 成分			省译			kāra（字）未译，以"唯"概括 eva-kāra
+U208-018	S0251	ārtho	artha	n. m. sg. nom.	0016b05	義	对译			"唯越義"之"義"，兼及 bhinnakrama
+U208-019	S0251	bhinnakramaś	bhinna-krama	cpd. adj. m. sg. nom. (bahuvrīhi)	0016b05	越	意译			bhinnakrama（次第别置）译"越"（下文作"越次"）
+U208-020	S0251	bhinna	bhinna	ptc. 成分 (√bhid)	0016b05	越	意译			
+U208-021	S0251	kramaś	krama	n. m. sg. nom.			省译			以"越"概括（越次）
+U208-023	S0251	veditavyaḥ	veditavya	gdv. m. sg. nom. (√vid)	0016b04	知	对译			待核：veditavyaḥ 本属 tuśabda … veditavyaḥ 句，玄奘似移作"憂根當知定有異熟"之"當知"
+U208-024	S0251	veditavyaḥ	gdv.	gram. gdv. (-tavya)	0016b04	當	语法			同上
+U208-025	S0251				0016b05	頌說	增译			"頌說定聲"之"頌說"
+U208-026	S0251				0016b05	謂顯憂根唯有異熟兼具二義故越次說	增译			玄奘申说"越"义：憂根唯有异熟又具二义，故越次先说
+U208-027	S0252				0016b06	具二義者	增译			标举二义
+U208-030	S0252	tad	tad	pron. nt. sg. nom.	0016b06	憂	意译	0175c07	此根	代词还原为所指（daurmanasya）
+U208-031	S0252	avyākṛtam	a-vyākṛta	ptc. adj. nt. sg. nom. (√vi-ā-kṛ)	0016b06	無記	对译	0175c07	無記	
+U208-033	S0252				0016b06	強思起故	增译			玄奘补出非无记之理由；真谛无
+U208-036	S0252	anāsravam	an-āsrava	adj. nt. sg. nom.	0016b07	無漏	对译	0175c08	無流	
+U208-037	S0252				0016b07	唯	增译			"唯散地故"之"唯"
+U208-038	S0252	asamāhitatvāt	a-samāhita-tva	n. nt. sg. abl.	0016b07	散地	意译	0175c08	散動地	asamāhita（非定）译"散地"
+U208-042	S0253				0016b07	越次先說	增译			玄奘补出：由此（具二义）越次先说
+U208-043	S0253	nāsty	na	ind.	0016b08	定	意译	0175c08	無	nāsty avipākam（无无异熟者）双重否定，玄奘改作肯定"定有異熟"，na 与 a- 相消，以"定"表之
+U208-045	S0253	avipākaṃ	a-vipāka	adj. nt. sg. nom.	0016b08	異熟	意译	0175c08	無果報	否定前缀 a- 与 na 相消（见 na 条），玄奘只出"異熟"；真谛作"無無果報"
+U208-046	S0253	daurmanasyam	daurmanasya	n. nt. sg. nom.	0016b08	憂根	意译	0175c08	憂根	daurmanasya 指憂根
+U208-047	S0254	daśa	daśan	num. pl. nom.			省译	0175c09	十	本颂以"意餘受信等"列举而不出数；长行作"此十"（S0255）
+U208-048	S0254				0016b03	一一皆	增译			本颂补"一一皆"
+U208-049	S0254	dvidhā	dvidhā	ind.	0016b03	通二	意译	0175c09	二種	
+U208-050	S0255	savipākāny	sa-vipāka	adj. nt. pl. nom.	0016b11	二類	合译	0175c09	有報	与 avipākāni 合为"二類"（有异熟、无异熟）
+U208-051	S0255	avipākāni	a-vipāka	adj. nt. pl. nom.	0016b11	二類	合译	0175c09	無報	与 savipākāni 合为"二類"
+U208-052	S0255	katamāni	katama	pron. nt. pl. nom.	0016b10	謂	意译	0175c10	何者	设问 katamāni daśa，玄奘不设问，以"謂"直接列举
+U208-053	S0255				0016b11	此	增译			"此十"之"此"，复指上列诸根
+U208-054	S0255	daśa	daśan	num. pl. nom.	0016b11	十	对译	0175c10	十	
+U208-055	S0255				0016b11	一一皆通	增译			长行复述颂文"一一皆通二"

@@ -40,7 +40,9 @@ def main(d, out):
             occ.append(r)
     pend = [r for r in occ if '待核' in r['note']]
     lac = [r for r in occ if r['type'] == '梵本缺文']
-    L = ['# 俱舍论·界品 待核清单', '',
+    reg = {r['dir']: r for r in tsv(os.path.join(os.path.dirname(os.path.abspath(d)), 'texts.tsv'))}
+    title = reg.get(os.path.basename(os.path.abspath(d)), {'short': '俱舍论·界品'})['short']
+    L = ['# %s 待核清单' % title, '',
          '由七批子代理编写、主会话合并时汇总。第一、二部分从实例数据自动生成；第三部分以下据各批汇报整理。'
          '出处写法：P = Pradhan 本页.行；T = 大正藏 T29 页栏行（玄奘 T1558）；真谛出处同（T1559）。', '',
          '## 一、待核的对应（%d 条）' % len(pend), '',
@@ -57,10 +59,12 @@ def main(d, out):
         L.append('| %s | %s（P %s） | %s（T %s） | %s | %s |' % (
             r['oid'], r['sid'], pref(skt[r['sid']]['pradhan']), esc(r['xz']), tref(r['xz_line']),
             esc(r['pm']) or '—', esc(r['note'])))
-    L += ['', open(os.path.join(d, 'review_notes.md'), encoding='utf-8').read().rstrip('\n')]
+    rn = os.path.join(d, 'review_notes.md')   # 人工整理的梵本问题（可无）
+    if os.path.exists(rn):
+        L += ['', open(rn, encoding='utf-8').read().rstrip('\n')]
     morph = [r for sub in ('occ', 'occ_extra') for f in sorted(glob.glob(os.path.join(d, sub, 'U*.tsv')))
              for r in tsv(f) if '(?)' in r['pos']]
-    L += ['', '## 八、形态存疑（%d 条）' % len(morph), '',
+    L += ['', '## %s、形态存疑（%d 条）' % ('八' if os.path.exists(rn) else '三', len(morph)), '',
           '性、数、格或时态据词形和上下文仍不能确定的，取了最可能的一种，pos 末尾加 (?)。', '',
           '| 编号 | 梵文 | 词目 | 形态 | 玄奘 | 说明 |', '|---|---|---|---|---|---|']
     for r in sorted(morph, key=lambda r: r['oid']):

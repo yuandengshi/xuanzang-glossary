@@ -189,7 +189,7 @@ U10-181	S0160				0002b22	唯	增译			本颂补"唯"；tu 未译
 U10-182	S0160	aṣṭavidhaḥ	aṣṭavidha	adj. m. sg. nom.	0002b22	八種	对译	0163b02	八種	
 U10-183	S0161				0002c11	當說聲處	增译			玄奘补出过渡语
 U10-184	S0161				0002c11	聲唯八種	增译			复述颂文
-U10-185	S0161	upāttānupāttamahābhūtahetukaḥ	upātta-anupātta-mahābhūta-hetuka	cpd. adj. m. sg. nom.	0002c11	有執受…無執受大種為因	对译	0163b02	有執依、非執依四大為因	"或"为增字（另记）
+U10-185	S0161	upāttānupāttamahābhūtahetukaḥ	upātta-an-upātta-mahābhūta-hetuka	cpd. adj. m. sg. nom.	0002c11	有執受…無執受大種為因	对译	0163b02	有執依、非執依四大為因	"或"为增字（另记）
 U10-186	S0161	upātta	upātta	ptc. adj. 成分 (√upa-ā-dā)	0002c11	有執受	对译	0163b02	有執依	
 U10-187	S0161	ānupātta	an-upātta	ptc. adj. 成分 (√upa-ā-dā)	0002c11	無執受	对译	0163b02	非執依	
 U10-188	S0161	mahābhūta	mahā-bhūta	cpd. 成分	0002c12	大種	对译	0163b02	四大	
@@ -197,14 +197,14 @@ U10-544	S0161	mahā	mahat	adj. 成分	0002c12	大	对译	0163b02	大	补成分�
 U10-545	S0161	bhūta	bhūta	n. 成分	0002c12	種	意译			补成分记录
 U10-189	S0161	hetukaḥ	hetuka	adj. m. sg. nom.	0002c12	為因	意译	0163b02	為因	
 U10-190	S0161				0002c11	或	增译			并列复合词以"或"连接
-U10-191	S0161	sattvāsattvākhyaś	sattva-asattva-ākhya	cpd. adj. m. sg. nom.	0002c12	有情名、非有情名	对译	0163b03	眾生名、非眾生名	
+U10-191	S0161	sattvāsattvākhyaś	sattva-a-sattva-ākhya	cpd. adj. m. sg. nom.	0002c12	有情名、非有情名	对译	0163b03	眾生名、非眾生名	
 U10-192	S0161	sattvā	sattva	n. 成分	0002c12	有情	对译	0163b03	眾生	
 U10-193	S0161	āsattvā	a-sattva	n. 成分	0002c12	非有情	对译	0163b03	非眾生	
 U10-194	S0161	ākhyaś	ākhya	adj. m. sg. nom.	0002c12	名	对译	0163b03	名	
 U10-195	S0161	caturvidhaḥ	caturvidha	adj. m. sg. nom.	0002c12	四	对译	0163b03	四	
 U10-196	S0161				0002c12	差別	增译			
 U10-197	S0162				0002c13	此	增译	0163b03	此聲	补出主语
-U10-199	S0162	manojñāmanojñabhedād	manojña-amanojña-bheda	cpd. m. sg. abl.	0002c13	可意…不可意差別	对译	0163b03	可愛、非可愛差別	
+U10-199	S0162	manojñāmanojñabhedād	manojña-a-manojña-bheda	cpd. m. sg. abl.	0002c13	可意…不可意差別	对译	0163b03	可愛、非可愛差別	
 U10-200	S0162	manojñā	manojña	adj. 成分	0002c13	可意	对译	0163b03	可愛	
 U10-201	S0162	āmanojña	a-manojña	adj. 成分	0002c13	不可意	对译	0163b03	非可愛	
 U10-202	S0162	bhedād	bheda	n. m. sg. abl.	0002c13	差別	对译	0163b04	差別	
@@ -254,7 +254,7 @@ U10-238	S0167	ityapare	apara	pron. m. pl. nom.	0002c16	有	意译	0163b07	有餘
 U10-239	S0167	ityapare	iti	ind.	0002c16	說	语法	0163b07	說	
 U10-241	S0167	śabda	śabda	n. m. sg. nom.	0002c16	聲	对译	0163b07	聲	
 U10-242	S0167	'pyasti	api	ind.	0002c16	通	意译			api 配合并列复合词表"兼通"，译"通"
-U10-243	S0167	upāttānupāttamahābhūtahetuko	upātta-anupātta-mahābhūta-hetuka	cpd. adj. m. sg. nom.	0002c16	有執受…無執受大種為因	对译	0163b07	有執依、非執依四大為因	"及"为增字
+U10-243	S0167	upāttānupāttamahābhūtahetuko	upātta-an-upātta-mahābhūta-hetuka	cpd. adj. m. sg. nom.	0002c16	有執受…無執受大種為因	对译	0163b07	有執依、非執依四大為因	"及"为增字
 U10-244	S0167	upātta	upātta	ptc. adj. 成分 (√upa-ā-dā)	0002c16	有執受	对译	0163b07	有執依	
 U10-245	S0167	ānupātta	an-upātta	ptc. adj. 成分 (√upa-ā-dā)	0002c17	無執受	对译	0163b07	非執依	
 U10-246	S0167	mahābhūta	mahā-bhūta	cpd. 成分	0002c17	大種	对译	0163b07	四大	
@@ -440,7 +440,7 @@ U10-419	S0192	senāvyūham	senā-vyūha	cpd. m. sg. acc.	0003a06	軍眾	对译	0
 U10-420	S0192	senā	senā	n. 成分	0003a06	軍	对译	0163b25	軍	
 U10-421	S0192	vyūham	vyūha	n. m. sg. acc.	0003a06	眾	意译	0163b25	眾	vyūha（阵列）译"眾"
 U10-422	S0192				0003a06	山林	增译			
-U10-423	S0192	anekavarṇasaṃsthānaṃ	aneka-varṇa-saṃsthāna	cpd. adj. m. sg. acc.	0003a06	無量顯形	对译	0163b25	無量顯形	玄奘以之修饰"珠寶聚"
+U10-423	S0192	anekavarṇasaṃsthānaṃ	an-eka-varṇa-saṃsthāna	cpd. adj. m. sg. acc.	0003a06	無量顯形	对译	0163b25	無量顯形	玄奘以之修饰"珠寶聚"
 U10-424	S0192	aneka	an-eka	adj. 成分	0003a06	無量	对译	0163b25	無量	
 U10-425	S0192	varṇa	varṇa	n. 成分	0003a06	顯	对译	0163b25	顯	
 U10-426	S0192	saṃsthānaṃ	saṃsthāna	n. m. sg. acc.	0003a06	形	对译	0163b25	形	

@@ -1,7 +1,8 @@
 """morph.py -- 形态标注（pos 栏）的格式规则，供 akbh1_morph_apply.py、akbh1_lint.py、akbh1_normalize.py 共用。
 
 名词类（n. adj. pron. num. ptc. gdv. cpd.）：词类 + 性 + 数 + 格，如 "n. m. sg. gen."、"cpd. nt. sg. abl."；
-  性不能确定的写 "m./nt."；本身无性的词（第一、二人称代词，五以上的基数词，kati）与 -tas 形式不标性。
+  性不能确定的写 "m./nt."；本身无性的词（第一、二人称代词，五以上的基数词，kati）与 -tas 形式不标性，
+  末成分是这类词的复合词（sapta-aṣṭa-navan）也不标性。
   复合词的非末成分：词类 + "成分"，如 "n. 成分"；末成分带整个复合词的词尾，照整个复合词标性数格。
   不变格的复合词："cpd. ind."
 动词（v.）：时态/语气 [+ pass.] [+ caus.] + 人称数，如 "v. pres. 3sg."、"v. pres. pass. 3sg."
@@ -80,7 +81,8 @@ def problem(pos, typ='', lemma=''):
             return '名词类缺格'
         if not NUM.search(body):
             return '名词类缺数'
-        if not GENDER.search(body) and lemma not in GENDERLESS and '(-tas)' not in pos:
+        last = lemma.split('-')[-1] if head == 'cpd.' else lemma   # 复合词随末成分（sapta-aṣṭa-navan 不标性）
+        if not GENDER.search(body) and lemma not in GENDERLESS and last not in GENDERLESS and '(-tas)' not in pos:
             return '名词类缺性'
         if _misordered(body, _RANK_NOM):
             return '次序应为：词类、性、数、格'

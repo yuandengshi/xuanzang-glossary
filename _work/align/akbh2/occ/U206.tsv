@@ -1,0 +1,222 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U206-001	S0145				0015a14	唯	增译			本颂补"唯"
+U206-002	S0145	amalaṃ	a-mala	adj. nt. sg. nom.	0015a14	無漏	意译	0174b23	無垢	amala（无垢）颂中译"無漏"，长行释为"無垢"
+U206-003	S0145				0015a14	後	增译			补出"後"（最后三根）
+U206-004	S0145	trayam	traya	n. nt. sg. nom.	0015a14	三	对译	0174b23	三	
+U206-005	S0146				0015a16	體唯	增译			
+U206-006	S0146	anāsravam	an-āsrava	adj. nt. sg. nom.	0015a16	無漏	对译	0174b24	無流	
+U206-007	S0146				0015a16	無垢	增译	0174b24	無垢	复述颂文 amala；真谛同
+U206-008	S0146	arthaḥ	artha	n. m. sg. nom.	0015a17	義	对译	0174b24	義	
+U206-009	S0146	malānām	mala	n. m. pl. gen.	0015a17	垢	对译	0174b24	垢	
+U206-010	S0146				0015a17	之與	增译			
+U206-011	S0146	āsravaparyāyatvāt	āsrava-paryāya-tva	cpd. nt. sg. abl.	0015a17	漏名異體同	意译	0174b24	流別名	玄奘以"名異體同"释 paryāya（同义词）
+U206-012	S0146	āsrava	āsrava	n. 成分	0015a17	漏	对译	0174b24	流	
+U206-013	S0146	paryāyatvāt	paryāya	n. 成分	0015a17	名異體同	意译	0174b24	別名	paryāya（异名、同义词）
+U206-015	S0147	rūpīṇi	rūpin	adj. nt. pl. nom.	0015a14	有色	对译	0174b24	有色	本颂
+U206-016	S0147	jīvitaṃ	jīvita	n. nt. sg. nom.	0015a14	命	对译	0174b25	命	本颂
+U206-017	S0147	duḥkhe	duḥkha	n. nt. du. nom.	0015a14	憂苦	意译	0174b25	二苦	本颂；双数 duḥkhe 兼指苦根、憂根，玄奘分作"憂苦"，真谛作"二苦"
+U206-018	S0147				0015a15	當知唯	增译			本颂补出；"唯"即长行 ekānta
+U206-019	S0147	sāsravāṇi	sa-āsrava	adj. nt. pl. nom.	0015a15	有漏	对译	0174b25	有流	本颂
+U206-020	S0148	rūpīṇi	rūpin	adj. nt. pl. nom.	0015a17	有色	对译	0174b25	有色	
+U206-021	S0148	saptendriyāṇi	saptan	num. pl. nom.	0015a17	七	对译	0174b25	七	
+U206-022	S0148	saptendriyāṇi	indriya	n. nt. pl. nom.	0015a17	根	对译	0174b25	根	
+U206-023	S0148	caikāntasāsravāṇi	ca	ind.	0015a17	及	语法			句末 ca 玄奘移作"及"，置于"命"前
+U206-024	S0148	jīvitendriyaṃ	jīvita-indriya	cpd. nt. sg. nom.	0015a17	命	意译	0174b25	命根	玄奘只作"命"
+U206-025	S0148	jīvite	jīvita	n. 成分	0015a17	命	对译	0174b25	命	
+U206-026	S0148	endriyaṃ	indriya	n. nt. sg. nom.			省译	0174b25	根	玄奘以"七有色根及命憂苦"连举，不出"根"
+U206-027	S0148	dukhaḥdaurmanasyendriye	duḥkha-daurmanasya-indriya	cpd. nt. du. nom.	0015a17	憂苦	意译	0174b25	苦根憂根	GRETIL 本作 dukhaḥdaurmanasyendriye，当读 duḥkhadaurmanasyendriye；玄奘倒作"憂苦"
+U206-028	S0148	dukhaḥ	duḥkha	n. 成分	0015a17	苦	对译	0174b25	苦	
+U206-029	S0148	daurmanasye	daurmanasya	n. 成分	0015a17	憂	对译	0174b25	憂	
+U206-030	S0148	endriye	indriya	n. nt. du. nom.			省译	0174b25	根…根	玄奘不出"根"
+U206-031	S0148	caikāntasāsravāṇi	ekānta-sa-āsrava	cpd. adj. nt. pl. nom.	0015a18	一向有漏	对译	0174b26	一向有流	
+U206-032	S0148	aikānta	ekānta	n. 成分	0015a18	一向	对译	0174b26	一向	
+U206-033	S0148	sāsravāṇi	sa-āsrava	adj. nt. pl. nom.	0015a18	有漏	对译	0174b26	有流	
+U206-034	S0149	rūpīṇi	rūpin	adj. nt. pl. nom.	0015a18	有色	对译	0174b26	有色	
+U206-035	S0149	punaḥ	punar	ind.	0015a18	者	语法			punar 提起话题，译"者"
+U206-036	S0149	sapta	saptan	num. pl. nom.	0015a18	七	对译	0174b26	七	玄奘移至句首
+U206-037	S0149	cakṣuḥ śrotraghrāṇajihvākāyastripuruṣendriyāṇi	cakṣus-śrotra-ghrāṇa-jihvā-kāya-strī-puruṣa-indriya	cpd. nt. pl. nom.	0015a18	眼…根及女男根	意译	0174b26	眼等	GRETIL 本 cakṣuḥ 与下文分写，又 stri 当读 strī；玄奘以"眼等五根"概括前五
+U206-038	S0149	cakṣuḥ	cakṣus	n. 成分	0015a18	眼	对译	0174b26	眼	
+U206-039	S0149				0015a18	等五	增译	0174b26	等	以"等五"概括耳鼻舌身
+U206-040	S0149	śrotra	śrotra	n. 成分			省译			玄奘以"眼等五根"概括
+U206-041	S0149	ghrāṇa	ghrāṇa	n. 成分			省译			玄奘以"眼等五根"概括
+U206-042	S0149	jihvā	jihvā	n. 成分			省译			玄奘以"眼等五根"概括
+U206-043	S0149	kāyas	kāya	n. 成分			省译			玄奘以"眼等五根"概括
+U206-044	S0149	stri	strī	n. 成分	0015a18	女	对译			GRETIL 本作 stri，当读 strī
+U206-045	S0149	puruṣe	puruṣa	n. 成分	0015a18	男	对译			
+U206-046	S0149	endriyāṇi	indriya	n. nt. pl. nom.	0015a18	根…根	对译	0174b26	根	玄奘"五根""女男根"两出
+U206-047	S0149				0015a18	及	增译			
+U206-048	S0149	rūpaskandhasaṃgrahāt	rūpa-skandha-saṃgraha	cpd. m. sg. abl.	0015a18	色蘊攝	对译	0174b26	色陰攝	
+U206-049	S0149	rūpa	rūpa	n. 成分	0015a18	色	对译	0174b26	色	
+U206-050	S0149	skandha	skandha	n. 成分	0015a19	蘊	对译	0174b26	陰	
+U206-051	S0149	saṃgrahāt	saṃgraha	n. m. sg. abl.	0015a19	攝	对译	0174b27	攝	
+U206-052	S0150				0015a15	餘	增译			本颂补"餘"
+U206-053	S0150	dvidhā	dvidhā	ind.	0015a15	通二	意译	0174b27	二種	本颂
+U206-054	S0150	nava	navan	num. pl. nom.	0015a15	九	对译	0174b27	九	本颂
+U206-055	S0150				0015a15	根	增译			本颂补"根"
+U206-056	S0151	manaḥsukhasaumanasyopekṣāḥ	manas-sukha-saumanasya-upekṣā	cpd. f. pl. nom.	0015a19	意樂喜捨	对译	0174b27	意樂喜捨	
+U206-057	S0151	manaḥ	manas	n. 成分	0015a19	意	对译	0174b27	意	
+U206-058	S0151	sukha	sukha	n. 成分	0015a19	樂	对译	0174b27	樂	
+U206-059	S0151	saumanasyo	saumanasya	n. 成分	0015a19	喜	对译	0174b27	喜	
+U206-060	S0151	opekṣāḥ	upekṣā	n. f. pl. nom.	0015a19	捨	对译	0174b28	捨	
+U206-061	S0151	śraddhādīni	śraddhā-ādi	cpd. nt. pl. nom.	0015a19	信等	对译	0174b28	信等	
+U206-062	S0151	śraddhā	śraddhā	n. 成分	0015a19	信	对译	0174b28	信	
+U206-063	S0151	ādīni	ādi	n. nt. pl. nom.	0015a19	等	对译	0174b28	等	
+U206-064	S0151	pañca	pañcan	num. pl. nom.	0015a19	五	对译	0174b28	五	
+U206-065	S0151				0015a19	根	增译	0174b28	根	补出"根"
+U206-066	S0151	etāni	etad	pron. nt. pl. nom.	0015a19	此	语法	0174b28	此	
+U206-067	S0151	navendriyāṇi	navan	num. pl. nom.	0015a19	九	对译	0174b28	九	
+U206-068	S0151	navendriyāṇi	indriya	n. nt. pl. nom.			省译	0174b28	根	玄奘作"此九"
+U206-069	S0151				0015a19	皆	增译			
+U206-070	S0151	sāsravāṇy	sa-āsrava	adj. nt. pl. nom.	0015a19	有漏	对译	0174b28	有流	
+U206-071	S0151	anāsravāṇyapi	an-āsrava	adj. nt. pl. nom.	0015a20	無漏	对译	0174b28	無流	
+U206-072	S0151	anāsravāṇyapi	api	ind.	0015a19	通	意译	0174b28	或…或	sāsravāṇy anāsravāṇy api（有漏亦无漏）之 api 译"通"
+U206-073	S0152	eke	eka	pron. m. pl. nom.	0015a20	有餘師	意译	0174b28	有餘師	eke（有些人）
+U206-075	S0152	śraddhādīnīty	śraddhā-ādi	cpd. nt. pl. nom.	0015a20	信等	对译	0174b29	信等	
+U206-076	S0152	śraddhā	śraddhā	n. 成分	0015a20	信	对译	0174b29	信	
+U206-077	S0152	ādīnīty	ādi	n. nt. pl. nom.	0015a20	等	对译	0174b29	等	
+U206-078	S0152				0015a20	五根亦	增译			补出"五根亦"
+U206-079	S0152	anāsravāṇy	an-āsrava	adj. nt. pl. nom.	0015a20	無漏	对译	0174b29	無流	
+U206-080	S0152	anāsravāṇyeva	eva	ind.	0015a20	唯	语法	0174b29	一向	
+U206-082	S0153	uktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0015a21	說	对译	0174b29	說	
+U206-083	S0153	bhagavatā	bhagavat	n. m. sg. instr.	0015a20	世尊	对译	0174b29	佛世尊	
+U206-084	S0153	yasye	yad	pron. m. sg. gen.	0015a21	若	语法	0174c01	若人	关系代词 yasya（其人）作假设"若"
+U206-085	S0153	sarveṇa srvaṃ	sarveṇa sarvam	phr.	0015a21	全	意译	0174c01	一切種	GRETIL 本作 srvaṃ，当读 sarvaṃ；sarveṇa sarvam（全然）
+U206-087	S0153	emāni	idam	pron. nt. pl. nom.	0015a21	此	语法			
+U206-088	S0153				0015a21	信等	增译	0174c01	信等	补出"信等"；真谛同
+U206-089	S0153	pañcendriyāṇi	pañcan	num. pl. nom.	0015a21	五	对译	0174c01	五	
+U206-090	S0153	pañcendriyāṇi	indriya	n. nt. pl. nom.	0015a21	根	对译	0174c01	根	
+U206-091	S0153	tamahaṃ	aham	pron. sg. nom.	0015a21	我	对译	0174c01	我	
+U206-092	S0153	vadāmī	vad	v. pres. 1sg.	0015a21	說	对译	0174c01	說	
+U206-093	S0153	tamahaṃ	tad	pron. m. sg. acc.	0015a21	彼	语法	0174c01	此人	
+U206-094	S0153	pṛthagjanapakṣāvasthitaṃ	pṛthagjana-pakṣa-avasthita	cpd. adj. m. sg. acc.	0015a21	住…異生品	意译	0174c02	住凡夫眾類	
+U206-095	S0153	āvasthitaṃ	avasthita	ptc. m. sg. acc. (√ava-sthā)	0015a21	住	对译	0174c02	住	
+U206-096	S0153	bāhyaṃ	bāhya	adj. m. sg. acc.	0015a21	外	对译	0174c01	在正法外	真谛释作"在正法外"
+U206-097	S0153	pṛthagjana	pṛthagjana	n. 成分	0015a21	異生	对译	0174c02	凡夫	
+U206-098	S0153	pakṣā	pakṣa	n. 成分	0015a22	品	意译	0174c02	眾類	pakṣa（一方、党类）译"品"
+U206-099	S0154	nedaṃ	idam	pron. nt. sg. nom.	0015a22	此	语法	0174c02	此經	
+U206-100	S0154	jñāpakam	jñāpaka	n. nt. sg. nom.	0015a22	誠證	意译	0174c02	證	jñāpaka（能令知者、证据）
+U206-101	S0154	adhikṛtya	adhi-kṛ	abs.	0015a22	依	意译	0174c02	依	adhikṛtya（就…而言）
+U206-102	S0154	anāsravāṇy	an-āsrava	adj. nt. pl. acc.	0015a22	無漏	对译	0174c02	無流	
+U206-103	S0154				0015a22	根	增译			
+U206-104	S0154	vacanāt	vacana	n. nt. sg. abl.	0015a22	說…言	意译	0174c03	說	
+U206-105	S0154				0015a22	此	增译			"說此言"之"此"
+U206-106	S0155	tathā hy	tathā hi	ind.	0015a22	云何知然	语法	0174c03	云何知	tathā hi（因为）作设问"云何知然"，句末以"故"承之
+U206-107	S0155				0015a23	先依無漏信等五根	增译			玄奘补出所依
+U206-108	S0155	āryapudgalavyavasthānaṃ	ārya-pudgala-vyavasthāna	cpd. nt. sg. acc.	0015a23	建立…聖位差別	意译	0174c03	安立聖人	
+U206-109	S0155	vyavasthānaṃ	vyavasthāna	n. nt. sg. acc.	0015a23	建立	对译	0174c03	安立	
+U206-110	S0155				0015a23	諸	增译			
+U206-111	S0155	ārya	ārya	adj. 成分	0015a23	聖	对译	0174c03	聖	
+U206-112	S0155	pudgala	pudgala	n. 成分	0015a23	位差別	意译	0174c03	人	pudgala（人）此指诸圣者之位，译"位差別"
+U206-113	S0155	kṛtvā	kṛ	abs.			省译			与 vyavasthāna 合为"建立"
+U206-114	S0155	kṛtvā	abs.	gram. abs. (-tvā)	0015a24	已	语法	0174c03	已	
+U206-115	S0155	yasyemānīty	yad	pron. m. sg. gen.	0015a24	此言	意译	0174c03	此經	引经首语 yasyemāni 代指全句，玄奘作"此言"
+U206-117	S0155				0015a24	故	增译			回应前设问"云何知然"
+U206-119	S0156				0015a24	諸	增译			
+U206-120	S0156	pṛthagjano	pṛthagjana	n. m. sg. nom.	0015a24	異生	对译	0174c04	凡夫	
+U206-121	S0156				0015a24	略有	增译	0174c05	有	
+U206-122	S0156	dvividhaḥ	dvividha	adj. m. sg. nom.	0015a24	二種	对译	0174c05	二種	
+U206-123	S0157				0015a24	一…二	增译	0174c05	一…二	列举次第；真谛同
+U206-124	S0157	ābhyantarakaś	ābhyantaraka	adj. m. sg. nom.	0015a24	內	对译	0174c05	在正法內	玄奘先列"一內"，后释"內謂…"，两出
+U206-125	S0157				0015a25	內謂	增译			复举"內"以释之
+U206-126	S0157	āsamucchinna kuśalamūlo	a-samucchinna-kuśala-mūla	cpd. adj. m. sg. nom. (bahuvrīhi)	0015a25	不斷善根	对译	0174c05	不斷善根	GRETIL 本分写 asamucchinna kuśalamūlo，当连写
+U206-127	S0157	āsamucchinna	a-samucchinna	ptc. 成分 (√sam-ud-chid)	0015a25	不斷	对译	0174c05	不斷	
+U206-128	S0157	kuśala	kuśala	adj. 成分	0015a25	善	对译	0174c05	善	
+U206-129	S0157	mūlo	mūla	n. m. sg. nom.	0015a25	根	对译	0174c05	根	
+U206-130	S0157	bāhyakaś	bāhyaka	adj. m. sg. nom.	0015a24	二外	对译	0174c05	在正法外	"外"先列后释，两出；"二"为列举次第
+U206-131	S0157				0015a25	外謂	增译			复举"外"以释之
+U206-132	S0157	samucchinnakuśalamūlaḥ	samucchinna-kuśala-mūla	cpd. adj. m. sg. nom. (bahuvrīhi)	0015a25	善根已斷	意译	0174c06	斷善根	玄奘倒作"善根已斷"
+U206-133	S0157	samucchinna	samucchinna	ptc. 成分 (√sam-ud-chid)	0015a25	斷	对译	0174c06	斷	
+U206-135	S0157	kuśala	kuśala	adj. 成分	0015a25	善	对译	0174c06	善	
+U206-136	S0157	mūlaḥ	mūla	n. m. sg. nom.	0015a25	根	对译	0174c06	根	
+U206-137	S0158	tam	tad	pron. m. sg. acc.	0015a25	外異生	意译	0174c06	此人	代词还原为所指（断善根之外异生）
+U206-138	S0158	adhikāṛtyāha	adhi-kṛ	abs.	0015a25	依	意译	0174c06	依	GRETIL 本作 adhikāṛtya，当读 adhikṛtya
+U206-139	S0158	adhikāṛtyāha	ah	v. perf. 3sg.	0015a26	作如是說	意译	0174c06	說此言	
+U206-140	S0158				0015a26	若全無此信等五根	增译			玄奘复举经文前半
+U206-141	S0158	vadāmī	1sg.	gram. 1sg. (-mi)	0015a26	我	语法	0174c06	我	引文无 aham，第一人称由动词词尾表出
+U206-142	S0158	vadāmī	vad	v. pres. 1sg.	0015a26	說	对译	0174c06	說	
+U206-143	S0158				0015a26	彼	增译	0174c06	此人	补宾语
+U206-144	S0158	pṛthagjanapakṣāvasthitaṃ	pṛthagjana-pakṣa-avasthita	cpd. adj. m. sg. acc.	0015a27	住…異生品	意译	0174c07	住凡夫眾類	
+U206-145	S0158	āvasthitaṃ	avasthita	ptc. m. sg. acc. (√ava-sthā)	0015a27	住	对译	0174c07	住	
+U206-146	S0158	bāhyaṃ	bāhya	adj. m. sg. acc.	0015a27	外	对译	0174c06	在正法外	
+U206-147	S0158	pṛthagjana	pṛthagjana	n. 成分	0015a27	異生	对译	0174c07	凡夫	
+U206-148	S0158	pakṣā	pakṣa	n. 成分	0015a27	品	意译	0174c07	眾類	
+U206-150	S0159	uktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0015a27	說	对译	0174c07	說	
+U206-151	S0159	sūtre	sūtra	n. nt. sg. loc.	0015a27	契經	对译	0174c07	經	
+U206-153	S0159	sattvā	sattva	n. m. pl. nom.	0015a27	有情	对译	0174c07	眾生	
+U206-155	S0159	loke	loc.	gram. sg. loc. (-e)	0015a27	處在	语法	0174c08	於	第七格译"處在"
+U206-156	S0159	loke	loka	n. m. sg. loc.	0015a27	世間	对译	0174c08	世間	
+U206-157	S0159				0015a28	或…或	增译			jātā、vṛddhāḥ 二分词译"或生或長"
+U206-158	S0159	jātā	jāta	ptc. m. pl. nom. (√jan)	0015a28	生	对译	0174c08	生	
+U206-159	S0159	jātā loke	loka	n. m. sg. loc.			省译	0174c08	世間	两出 loke，玄奘只译一次
+U206-160	S0159	vṛddhās	vṛddha	ptc. m. pl. nom. (√vṛdh)	0015a28	長	对译	0174c08	長	
+U206-161	S0159				0015a28	有	增译			
+U206-162	S0159	tīkṣṇendriyā	tīkṣṇa-indriya	cpd. adj. m. pl. nom. (bahuvrīhi)	0015a28	上…根	意译	0174c08	利根	
+U206-163	S0159	tīkṣṇe	tīkṣṇa	adj. 成分	0015a28	上	意译	0174c08	利	tīkṣṇa（利）译"上"
+U206-164	S0159	endriyā	indriya	n. m. pl. nom.	0015a28	根	合译	0174c08	根	三个复合词共用一"根"
+U206-165	S0159	madhyendriyā	madhya-indriya	cpd. adj. m. pl. nom. (bahuvrīhi)	0015a28	中…根	意译	0174c08	中根	
+U206-166	S0159	madhye	madhya	adj. 成分	0015a28	中	对译	0174c08	中	
+U206-167	S0159	endriyā	indriya	n. m. pl. nom.	0015a28	根	合译	0174c08	根	三个复合词共用一"根"
+U206-168	S0159	mṛdvindriyā	mṛdu-indriya	cpd. adj. m. pl. nom. (bahuvrīhi)	0015a28	下…根	意译	0174c08	軟根	
+U206-169	S0159	mṛdv	mṛdu	adj. 成分	0015a28	下	意译	0174c08	軟	mṛdu（软、钝）译"下"
+U206-170	S0159	indriyā	indriya	n. m. pl. nom.	0015a28	根	合译	0174c08	根	三个复合词共用一"根"
+U206-172	S0159				0015a28	諸…差別	增译			
+U206-173	S0159				0015a28	是佛	增译			补出主语"佛"
+U206-174	S0159	apravarttita	a-pravartita	ptc. nt. sg. loc. (caus. √pra-vṛt)	0015a28	未轉	对译	0174c09	未轉	GRETIL 本作 apravarttita，即 apravartita
+U206-175	S0159	eva	eva	ind.	0015a28	猶	语法			
+U206-176	S0159	dharmacakre	dharma-cakra	cpd. nt. sg. loc.	0015a29	法輪	对译	0174c09	法輪	
+U206-177	S0159	dharma	dharma	n. 成分	0015a29	法	对译	0174c09	法	
+U206-178	S0159	cakre	cakra	n. nt. sg. loc.	0015a29	輪	对译	0174c09	輪	
+U206-179	S0159	dharmacakre	loc. abs.	gram. loc. abs. (-e)	0015a29	時	语法	0174c09	時	第七格独立句译"…時"
+U206-180	S0160	tasmāt	tasmāt	ind.	0015a29	故	语法	0174c09	是故	
+U206-181	S0160				0015a29	知	增译	0174c09	知	真谛同
+U206-182	S0160	santy	as	v. pres. 3pl.	0015a29	通	意译	0174c09	有	santi（有）译"通"（兼通有漏）
+U206-183	S0160	santyeva	eva	ind.	0015a29	亦	意译			强调的 eva 译"亦"
+U206-184	S0160	sāsravāṇi	sa-āsrava	adj. nt. pl. nom.	0015a29	有漏	对译	0174c09	有流	
+U206-185	S0160	śraddhādīni	śraddhā-ādi	cpd. nt. pl. nom.	0015a29	信等	对译	0174c09	信等	
+U206-186	S0160	śraddhā	śraddhā	n. 成分	0015a29	信	对译	0174c09	信	
+U206-187	S0160	ādīni	ādi	n. nt. pl. nom.	0015a29	等	对译	0174c09	等	
+U206-188	S0161	punaś	punar	ind.	0015a29	又	语法	0174c10	復	
+U206-189	S0161	coktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0015a29	說	对译	0174c10	說	
+U206-190	S0161				0015a29	世尊	增译	0174c10	佛	补出说者；真谛同
+U206-191	S0161	yāvacc	yāvat	ind.	0015b01	若	语法	0174c10	乃至	yāvat … na（只要尚未）译"若…未"
+U206-192	S0161	āham	aham	pron. sg. nom.	0015b01	我	对译	0174c10	我	
+U206-193	S0161	eṣāṃ	gen.	gram. pl. gen. (-ām)	0015b01	於	语法			第六格（对于此五根）译"於"
+U206-194	S0161				0015b01	信等	增译	0174c10	信等	补出"信等"；真谛同
+U206-195	S0161	pañcānām	pañcan	num. pl. gen.	0015b01	五	对译	0174c10	五	
+U206-196	S0161	indriyāṇāṃ	indriya	n. nt. pl. gen.	0015b01	根	对译	0174c10	根	
+U206-197	S0161	nādhyajñāsiṣaṃ	na	ind.	0015b01	未	语法	0174c10	未	
+U206-198	S0161	yathābhūtaṃ	yathā-bhūta	cpd. ind.	0015b01	如實	对译	0174c10	如實	
+U206-199	S0161	yathā	yathā	ind. 成分	0015b01	如	对译	0174c10	如	
+U206-200	S0161	bhūtaṃ	bhūta	n. 成分	0015b01	實	意译	0174c10	實	bhūta（真实）
+U206-201	S0161	nādhyajñāsiṣaṃ	adhi-jñā	v. aor. 1sg.	0015b01	知	对译	0174c10	知	
+U206-202	S0161				0015b01	是	增译			
+U206-203	S0161	samudayaṃ	samudaya	n. m. sg. acc.	0015b01	集	对译	0174c11	集生	
+U206-204	S0161	cāstagamaṃ	astagama	n. m. sg. acc.	0015b01	沒	对译	0174c11	滅	
+U206-205	S0161	svādaṃ	svāda	n. m. sg. acc.	0015b01	味	对译	0174c11	滋味	
+U206-206	S0161	cādīnavaṃ	ādīnava	n. m. sg. acc.	0015b02	過患	对译	0174c11	過失	
+U206-207	S0161	niḥsaraṇaṃ	niḥsaraṇa	n. nt. sg. acc.	0015b02	出離	对译	0174c11	出離	
+U206-208	S0161	na tāvad	na	ind.	0015b02	未	语法	0174c11	未	
+U206-209	S0161				0015b02	能	增译	0174c11	能	真谛同
+U206-210	S0161	tāvadaham	aham	pron. sg. nom.			省译	0174c11	我	第二个 aham 玄奘未重出
+U206-211	S0161	asmāt	abl.	gram. sg. abl. (-āt)	0015b02	超	意译	0174c11	從	第五格（从此世间[出]）玄奘译"超"，真谛作"從"
+U206-212	S0161	sadevakāl	sa-devaka	adj. m. sg. abl.	0015b02	天	意译	0174c12	有天	sadevaka（连同诸天的）
+U206-213	S0161				0015b02	人	增译			
+U206-214	S0161	lokād	loka	n. m. sg. abl.	0015b02	世間	对译	0174c11	世間	
+U206-215	S0161				0015b02	及魔梵等	梵本缺文	0174c12	有梵	经文 samāraka sabrahmaka 等，梵本以 iti vistaraḥ 略去；真谛亦有"梵"
+U206-216	S0161				0015b03	乃至未能證得無上正等菩提	增译			玄奘补出经文结句
+U206-217	S0161	ti vistaraḥ	iti vistaraḥ	ind.	0015b03	乃至廣說	语法	0174c12	廣說如經	
+U206-218	S0162	cānāsravāṇāṃ	an-āsrava	adj. m. pl. gen.	0015b04	無漏	对译	0174c12	無流	
+U206-219	S0162	dharmāṇām	dharma	n. m. pl. gen.	0015b04	法	对译	0174c12	法	
+U206-220	S0162				0015b04	可作	增译			
+U206-221	S0162	eṣa	etad	pron. m. sg. nom.	0015b04	如是	语法	0174c12	如此	
+U206-222	S0162	parīkṣāprakāraḥ	parīkṣā-prakāra	cpd. m. sg. nom.	0015b04	品類觀察	意译	0174c13	簡擇品類	玄奘倒作"品類觀察"
+U206-223	S0162	parīkṣā	parīkṣā	n. 成分	0015b04	觀察	对译	0174c13	簡擇	
+U206-224	S0162	prakāraḥ	prakāra	n. m. sg. nom.	0015b04	品類	对译	0174c13	品類	
+U206-225	S0162				0015b04	故，信等五根通有漏無漏	增译			玄奘补出结论
+U206-226	S0163				0015b05	如是已說有漏無漏。二十	增译			结上
+U206-227	S0163				0015b06	二…中	增译			
+U206-228	S0163	katīndriyāṇi	indriya	n. nt. pl. nom.	0015b06	根	对译	0174c13	根	
+U206-229	S0163				0015b06	是	增译	0174c13	是	
+U206-230	S0163	vipākaḥ	vipāka	n. m. sg. nom.	0015b06	異熟	对译	0174c13	果報	
+U206-231	S0163	na vipākaḥ	vipāka	n. m. sg. nom.	0015b06	異熟	对译	0174c13	果報	
+U206-232	S0163	ekāntena	ekānta	n. m. sg. instr.	0015b09	定	意译	0174c13	一向	引起下颂；玄奘长行作"唯一命根定是異熟"

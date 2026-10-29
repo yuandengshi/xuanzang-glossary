@@ -1,0 +1,447 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U215-001	S0390	upekṣājīvitamanoyukto	upekṣā-jīvita-manas-yukta	cpd. adj. m. sg. nom.	0017c05	成就命意捨	对译	0177a03	捨命…意相應	本颂；玄奘作"命意捨"，次序与梵本不同
+U215-002	S0390	upekṣā	upekṣā	n. 成分	0017c05	捨	对译	0177a03	捨	
+U215-003	S0390	jīvita	jīvita	n. 成分	0017c05	命	对译	0177a03	命	
+U215-004	S0390	mano	manas	n. 成分	0017c05	意	对译	0177a04	意	
+U215-005	S0390	yukto	yukta	ptc. m. sg. nom. (√yuj)	0017c05	成就	对译	0177a04	相應	
+U215-006	S0390				0017c05	各	增译			颂文补出"各"
+U215-007	S0390	'vaśyaṃ	avaśyam	ind.	0017c05	定	对译	0177a04	必	
+U215-008	S0390	trayānvitaḥ	traya-anvita	cpd. adj. m. sg. nom.	0017c05	成就三	对译	0177a04	三相應	
+U215-009	S0390	trayā	traya	num. 成分	0017c05	三	对译	0177a04	三	
+U215-010	S0390	ānvitaḥ	anvita	ptc. m. sg. nom. (√anu-i)	0017c05	成就	对译	0177a04	相應	
+U215-011	S0391	ya eṣāmupekṣādīnāmanyatamena samanvāgataḥ so	yad … tad	gram. rel.-cor.	0017c11	彼	语法	0177a04	若人…此人	关系-相关句 yaḥ … saḥ，以"…彼…"表出
+U215-013	S0391	upekṣādīnām	upekṣā-ādi	cpd. nt. pl. gen.	0017c11	命、意、捨	意译	0177a04	捨等	upekṣādi（捨等）玄奘列出"命、意、捨"
+U215-014	S0391	upekṣā	upekṣā	n. 成分	0017c11	捨	对译	0177a04	捨	
+U215-015	S0391	ādīnām	ādi	n. nt. pl. gen.	0017c11	命、意	意译	0177a04	等	ādi（等）指命、意，玄奘列出
+U215-016	S0391	anyatamena	anyatama	pron. nt. sg. instr.	0017c11	隨…一	对译	0177a04	隨一	
+U215-017	S0391	samanvāgataḥ	samanvāgata	ptc. m. sg. nom. (√sam-anu-ā-gam)	0017c11	成就	对译	0177a05	相應	
+U215-018	S0391	'vaśyaṃ	avaśyam	ind.	0017c11	定	对译	0177a05	必	
+U215-019	S0391	tribhir	tri	num. nt. pl. instr.	0017c12	三	对译	0177a05	三	
+U215-020	S0391	indriyaiḥ	indriya	n. nt. pl. instr.	0017c12	根	对译	0177a05	根	
+U215-021	S0391	samanvāgato	samanvāgata	ptc. m. sg. nom. (√sam-anu-ā-gam)	0017c11	成就	对译	0177a05	相應	
+U215-022	S0391	bhavaty	bhū	v. pres. 3sg.			省译			
+U215-023	S0391	ebhir	idam	pron. nt. pl. instr.	0017c11	如是	意译			ebhir eva（正是这些）译"如是"
+U215-026	S0392				0017c12	三	增译	0177a06	三	"此三中"之"三"为补出；真谛同
+U215-027	S0392	anyo 'ynena	anyonya	pron. m. sg. instr.	0017c12	隨	意译	0177a06	更互	anyo 'nyena（彼此）玄奘作"隨"（隨有所闕）；GRETIL 本作 'ynena，当读 'nyena
+U215-028	S0392	vinā	vinā	ind.	0017c12	有所闕	意译	0177a06	離	
+U215-029	S0392				0017c12	可有	增译			
+U215-030	S0392	samanvāgamaḥ	samanvāgama	n. m. sg. nom.	0017c12	成就	对译	0177a06	相應	
+U215-031	S0392	śeṣais	śeṣa	adj. nt. pl. instr.	0017c12	所餘	对译	0177a06	餘	
+U215-032	S0392				0017c13	根者	增译	0177a06	根	
+U215-033	S0392				0017c13	除此三根餘皆	增译			
+U215-034	S0392	aniyamaḥ	a-niyama	n. m. sg. nom.	0017c13	不定	对译	0177a07	不定	
+U215-035	S0393				0017c13	謂	增译			
+U215-037	S0393	syāt	opt.	gram. opt. (-yāt)	0017c13	或	语法	0177a07	或	祈愿式表可能，译"或"
+U215-038	S0393	samanvāgataḥ	samanvāgata	ptc. m. sg. nom. (√sam-anu-ā-gam)	0017c13	成就	对译	0177a07	相應	
+U215-039	S0393	syādasamanvāgataḥ	opt.	gram. opt. (-yāt)	0017c13	或	语法	0177a07	或	
+U215-040	S0393	asamanvāgataḥ	a-samanvāgata	ptc. m. sg. nom. (√sam-anu-ā-gam)	0017c13	不成就	对译	0177a07	不相應	
+U215-041	S0394	tatra	tatra	ind.	0017c14	此中	语法	0177a07	此中	
+U215-043	S0394	cakṣuḥśrotraghrāṇajihvendriyai	cakṣus-śrotra-ghrāṇa-jihvā-indriya	cpd. nt. pl. instr.	0017c14	眼耳鼻舌…根	对译	0177a08	眼耳鼻舌根	GRETIL 本作 jihvendriyai rārūpyo-，当读 jihvendriyair ārūpyo-
+U215-044	S0394	cakṣuḥ	cakṣus	n. 成分	0017c14	眼	对译	0177a08	眼	
+U215-045	S0394	śrotra	śrotra	n. 成分	0017c14	耳	对译	0177a08	耳	
+U215-046	S0394	ghrāṇa	ghrāṇa	n. 成分	0017c14	鼻	对译	0177a08	鼻	
+U215-047	S0394	jihve	jihvā	n. 成分	0017c14	舌	对译	0177a08	舌	
+U215-048	S0394	ndriyai	indriya	n. nt. pl. instr.	0017c14	根	对译	0177a08	根	
+U215-049	S0394				0017c14	四	增译			补出"四"（眼耳鼻舌四根）
+U215-050	S0394	ārūpyopapanno	ārūpya-upapanna	cpd. adj. m. sg. nom.	0017c14	生無色界	对译	0177a07	生無色界	
+U215-051	S0394	ārūpyo	ārūpya	adj. 成分	0017c14	無色界	意译	0177a07	無色界	ārūpya（无色〔界〕）译"無色界"
+U215-052	S0394	opapanno	upapanna	ptc. m. sg. nom. (√upa-pad)	0017c14	生	对译	0177a07	生	
+U215-053	S0394				0017c14	定	增译			补出"定"（定不成就）
+U215-055	S0394	samanvāgataḥ	samanvāgata	ptc. m. sg. nom. (√sam-anu-ā-gam)	0017c15	成就	对译	0177a08	相應	
+U215-056	S0395	kāmadhātau	kāma-dhātu	cpd. m. sg. loc.	0017c15	欲界	对译	0177a08	欲界	
+U215-057	S0395	kāma	kāma	n. 成分	0017c15	欲	对译	0177a08	欲	
+U215-058	S0395	dhātau	dhātu	n. m. sg. loc.	0017c15	界	对译	0177a08	界	
+U215-059	S0395				0017c15	生	增译			"若生欲界"之"生"为补出
+U215-060	S0395	ca	ca	ind.	0017c15	亦	意译	0177a08	亦	
+U215-061	S0395	yenā	yad	pron. m. sg. instr.	0017c15	若	语法	0177a08	若	关系代词 yena（凡…者）以"若"表出
+U215-062	S0395	āpratilabdhavihīnāni	a-pratilabdha-vihīna	cpd. adj. nt. pl. nom.	0017c15	未得已失	对译	0177a09	未得及已失	
+U215-063	S0395	āpratilabdha	a-pratilabdha	ptc. 成分 (√prati-labh)	0017c15	未得	对译	0177a09	未得	
+U215-064	S0395	vihīnāni	vihīna	ptc. nt. pl. nom. (√vi-hā)	0017c15	失	对译	0177a09	失	
+U215-066	S0395				0017c15	不成就	增译			梵文承上省 na samanvāgataḥ，玄奘补出
+U215-067	S0396	kāyendriyeṇā	kāya-indriya	cpd. nt. sg. instr.	0017c15	身根	对译	0177a09	身根	
+U215-068	S0396	kāye	kāya	n. 成分	0017c15	身	对译	0177a09	身	
+U215-069	S0396	ndriyeṇā	indriya	n. nt. sg. instr.	0017c15	根	对译	0177a09	根	
+U215-070	S0396				0017c16	唯有	增译			
+U215-071	S0396	ārūpyopapanno	ārūpya-upapanna	cpd. adj. m. sg. nom.	0017c16	生無色界	对译	0177a09	生無色界	
+U215-072	S0396	ārūpyo	ārūpya	adj. 成分	0017c16	無色界	意译	0177a09	無色界	
+U215-073	S0396	opapanno	upapanna	ptc. m. sg. nom. (√upa-pad)	0017c16	生	对译	0177a09	生	
+U215-074	S0396				0017c16	定	增译			
+U215-075	S0396	samanvāgataḥ	samanvāgata	ptc. m. sg. nom. (√sam-anu-ā-gam)	0017c16	成就	对译	0177a09	相應	
+U215-076	S0397	strīndriyeṇa	strī-indriya	cpd. nt. sg. instr.	0017c16	女…根	合译	0177a10	女根	与下句 puruṣendriyeṇa 合为"女男二根"
+U215-077	S0397	strī	strī	n. 成分	0017c16	女	对译	0177a10	女	
+U215-078	S0397	ndriyeṇa	indriya	n. nt. sg. instr.	0017c16	根	合译	0177a10	根	与下句 puruṣendriya 之 indriya 合为"根"
+U215-079	S0397	rūpārūpyopapannaḥ	rūpa-ārūpya-upapanna	cpd. adj. m. sg. nom.	0017c16	生上二界	意译	0177a10	生色無色界	rūpārūpya（色、无色）玄奘作"上二界"
+U215-080	S0397	rūpā	rūpa	n. 成分			省译	0177a10	色	以"上二界"概括
+U215-081	S0397	ārūpyo	ārūpya	adj. 成分			省译	0177a10	無色界	以"上二界"概括
+U215-082	S0397	opapannaḥ	upapanna	ptc. m. sg. nom. (√upa-pad)	0017c16	生	对译	0177a10	生	
+U215-083	S0397				0017c17	定不成就	增译			梵文省 na samanvāgataḥ，玄奘补出
+U215-084	S0397	kāmadhatau	kāma-dhātu	cpd. m. sg. loc.	0017c17	欲界	对译	0177a10	欲界	GRETIL 本作 kāmadhatau，当读 kāmadhātau
+U215-085	S0397	kāma	kāma	n. 成分	0017c17	欲	对译	0177a10	欲	
+U215-086	S0397	dhatau	dhātu	n. m. sg. loc.	0017c17	界	对译	0177a10	界	GRETIL 本作 dhatau
+U215-087	S0397				0017c17	生	增译			
+U215-089	S0397	āpratilabdhavihīnam	a-pratilabdha-vihīna	cpd. adj. nt. sg. nom.	0017c17	未得已失	对译	0177a11	未得及已失	
+U215-090	S0397	āpratilabdha	a-pratilabdha	ptc. 成分 (√prati-labh)	0017c17	未得	对译	0177a11	未得	
+U215-091	S0397	vihīnam	vihīna	ptc. nt. sg. nom. (√vi-hā)	0017c17	失	对译	0177a11	失	
+U215-092	S0397				0017c17	亦不成就	增译			
+U215-094	S0398	puruṣendriyeṇa	puruṣa-indriya	cpd. nt. sg. instr.	0017c16	男…根	合译	0177a11	男根	与上句 strīndriyeṇa 合为"女男二根"
+U215-095	S0398	puruṣe	puruṣa	n. 成分	0017c16	男	对译	0177a11	男	
+U215-096	S0398	ndriyeṇa	indriya	n. nt. sg. instr.	0017c16	根	合译	0177a11	根	
+U215-097	S0398				0017c16	二	增译			合女男二根为一句，补"二"
+U215-098	S0399	sukhendriyeṇa	sukha-indriya	cpd. nt. sg. instr.	0017c18	樂根	对译	0177a12	樂根	
+U215-099	S0399	sukhe	sukha	n. 成分	0017c18	樂	对译	0177a12	樂	
+U215-100	S0399	ndriyeṇa	indriya	n. nt. sg. instr.	0017c18	根	对译	0177a12	根	
+U215-101	S0399	caturdhyānārūpyopapannaḥ	catur-dhyāna-ārūpya-upapanna	cpd. adj. m. sg. nom.	0017c18	生第四定…無色界	对译	0177a11	生第四定…無色界	"及"为并列复合词的连接；真谛作"生第四定第二定處及無色界"，多"第二定處"
+U215-102	S0399	catur	catur	num. 成分	0017c18	第四	意译	0177a12	第四	caturdhyāna（第四静虑）之 catur 译"第四"
+U215-103	S0399	dhyānā	dhyāna	n. 成分	0017c18	定	对译	0177a12	定	
+U215-104	S0399	ārūpyo	ārūpya	adj. 成分	0017c18	無色界	意译	0177a12	無色界	
+U215-105	S0399	opapannaḥ	upapanna	ptc. m. sg. nom. (√upa-pad)	0017c18	生	对译	0177a11	生	"異生生"之后一"生"
+U215-106	S0399	pṛthagjano	pṛthagjana	n. m. sg. nom.	0017c18	異生	对译	0177a11	凡夫人	
+U215-107	S0399				0017c18	定	增译			
+U215-108	S0399	samanvāgataḥ	samanvāgata	ptc. m. sg. nom. (√sam-anu-ā-gam)	0017c18	成就	对译	0177a12	相應	
+U215-109	S0400	saumanasyendriyeṇa	saumanasya-indriya	cpd. nt. sg. instr.	0017c19	喜根	对译	0177a13	喜根	
+U215-110	S0400	saumanasye	saumanasya	n. 成分	0017c19	喜	对译	0177a13	喜	
+U215-111	S0400	ndriyeṇa	indriya	n. nt. sg. instr.	0017c19	根	对译	0177a13	根	
+U215-112	S0400	tṛtīyacaturthadhyānārūpyopapannaḥ	tṛtīya-caturtha-dhyāna-ārūpya-upapanna	cpd. adj. m. sg. nom.	0017c19	生三四定…無色界	对译	0177a13	生第三定第四定…無色界	"及"为并列复合词的连接
+U215-113	S0400	tṛtīya	tṛtīya	num. 成分	0017c19	三	对译	0177a13	第三	
+U215-114	S0400	caturtha	caturtha	num. 成分	0017c19	四	对译	0177a13	第四	
+U215-115	S0400	dhyānā	dhyāna	n. 成分	0017c19	定	对译	0177a13	定	
+U215-116	S0400	ārūpyo	ārūpya	adj. 成分	0017c19	無色界	意译	0177a13	無色界	
+U215-117	S0400	opapannaḥ	upapanna	ptc. m. sg. nom. (√upa-pad)	0017c19	生	对译	0177a13	生	
+U215-118	S0400	pṛthagjana	pṛthagjana	n. m. sg. nom.	0017c19	異生	对译	0177a13	凡夫	
+U215-119	S0400				0017c19	定不成就	增译			梵文省 na samanvāgataḥ，玄奘补出
+U215-120	S0401	duḥkhendriyeṇa	duḥkha-indriya	cpd. nt. sg. instr.	0017c19	苦根	对译	0177a14	苦根	
+U215-121	S0401	duḥkhe	duḥkha	n. 成分	0017c19	苦	对译	0177a14	苦	
+U215-122	S0401	ndriyeṇa	indriya	n. nt. sg. instr.	0017c20	根	对译	0177a14	根	
+U215-123	S0401				0017c20	若	增译			
+U215-124	S0401	rūpārūpyopapannaḥ	rūpa-ārūpya-upapanna	cpd. adj. m. sg. nom.	0017c20	生色無色界	对译	0177a14	生色無色界	
+U215-125	S0401	rūpā	rūpa	n. 成分	0017c20	色	对译	0177a14	色	
+U215-126	S0401	ārūpyo	ārūpya	adj. 成分	0017c20	無色界	意译	0177a14	無色界	
+U215-127	S0401	opapannaḥ	upapanna	ptc. m. sg. nom. (√upa-pad)	0017c20	生	对译	0177a14	生	
+U215-128	S0401				0017c20	定不成就	增译			
+U215-129	S0402	daurmanasyena	daurmanasya	n. nt. sg. instr.	0017c20	憂	对译	0177a15	憂	
+U215-130	S0402				0017c20	根	增译	0177a15	根	"憂根"之"根"为补出；真谛同
+U215-131	S0402				0017c20	一切	增译			
+U215-132	S0402	kāmavītarāgaḥ	kāma-vīta-rāga	cpd. adj. m. sg. nom.	0017c20	離欲貪	对译	0177a15	離欲	
+U215-133	S0402	kāma	kāma	n. 成分	0017c20	欲	对译	0177a15	欲	
+U215-134	S0402	vīta	vīta	ptc. 成分 (√vi-i)	0017c20	離	对译	0177a15	離	
+U215-135	S0402	rāgaḥ	rāga	n. m. sg. nom.	0017c21	貪	对译			
+U215-136	S0402				0017c21	者定不成就	增译			
+U215-137	S0403	śraddhādibhiḥ	śraddhā-ādi	cpd. nt. pl. instr.	0017c21	信等	对译	0177a15	信等	
+U215-138	S0403	śraddhā	śraddhā	n. 成分	0017c21	信	对译	0177a15	信	
+U215-139	S0403	ādibhiḥ	ādi	n. nt. pl. instr.	0017c21	等	对译	0177a15	等	
+U215-140	S0403				0017c21	五根	增译			
+U215-141	S0403	samucchinnakuśalamūlaḥ	samucchinna-kuśala-mūla	cpd. adj. m. sg. nom.	0017c21	善根斷	对译	0177a15	斷善根	玄奘作"善根斷"，次序倒换
+U215-142	S0403	samucchinna	samucchinna	ptc. 成分 (√sam-ud-chid)	0017c21	斷	对译	0177a15	斷	
+U215-143	S0403	kuśala	kuśala	adj. 成分	0017c21	善	对译	0177a15	善	
+U215-144	S0403	mūlaḥ	mūla	n. m. sg. nom.	0017c21	根	对译	0177a15	根	多财释，随所修饰者作阳性
+U215-145	S0403				0017c21	者定不成就	增译			
+U215-146	S0404	ājñāsyāmīndriyeṇa	ājñāsyāmi-indriya	cpd. nt. sg. instr.	0017c22	初無漏根	意译	0177a16	未知欲知根	以"初無漏根"称未知當知根（三无漏根之初）
+U215-147	S0404	ājñāsyāmī	ā-jñā	v. fut. 1sg.			省译	0177a16	欲知	以"初無漏"称之
+U215-148	S0404	ndriyeṇa	indriya	n. nt. sg. instr.	0017c22	根	对译	0177a16	根	
+U215-149	S0404				0017c22	一切	增译			
+U215-150	S0404	pṛthagjanaphalathā	pṛthagjana-phala-stha	cpd. m. pl. nom.	0017c22	異生…住果	对译	0177a16	凡夫及至得果人	GRETIL 本作 pṛthagjanaphalathānasamanvāgatāḥ，当读 pṛthagjanaphalasthā na samanvāgatāḥ；"及"为并列复合词的连接，"已"为增字
+U215-151	S0404	pṛthagjana	pṛthagjana	n. 成分	0017c22	異生	对译	0177a16	凡夫	
+U215-152	S0404	phala	phala	n. 成分	0017c22	果	对译	0177a16	果	
+U215-153	S0404	thā	stha	adj. m. pl. nom.	0017c22	住	对译	0177a16	人	GRETIL 本作 -thā，当读 -sthā
+U215-154	S0404				0017c22	已	增译			
+U215-155	S0404				0017c22	定	增译			
+U215-156	S0404	samanvāgatāḥ	samanvāgata	ptc. m. pl. nom. (√sam-anu-ā-gam)	0017c22	成就	对译	0177a17	相應	
+U215-157	S0405	ājñendriyeṇa	ājñā-indriya	cpd. nt. sg. instr.	0017c23	次無漏根	意译	0177a17	知根	以"次無漏根"称已知根
+U215-158	S0405	ājñe	ājñā	n. 成分			省译	0177a17	知	以"次無漏"称之
+U215-159	S0405	ndriyeṇa	indriya	n. nt. sg. instr.	0017c23	根	对译	0177a17	根	
+U215-160	S0405				0017c23	一切	增译			
+U215-161	S0405	pṛthagjanadarśanāśaikṣamārgasthāḥ	pṛthagjana-darśana-a-śaikṣa-mārga-stha	cpd. m. pl. nom.	0017c23	異生見道無學	对译	0177a17	凡夫及見道人無學道人	
+U215-162	S0405	pṛthagjana	pṛthagjana	n. 成分	0017c23	異生	对译	0177a17	凡夫	
+U215-163	S0405	darśanā	darśana	n. 成分	0017c23	見	对译	0177a17	見	
+U215-164	S0405	āśaikṣa	a-śaikṣa	adj. 成分	0017c23	無學	对译	0177a17	無學	
+U215-165	S0405	mārga	mārga	n. 成分	0017c23	道	对译	0177a17	道	"見道無學"，"道"在"見"后，兼摄无学道
+U215-166	S0405	sthāḥ	stha	adj. m. pl. nom.			省译	0177a17	人	
+U215-167	S0405				0017c23	定不成就	增译			梵文承上省 na samanvāgatāḥ
+U215-168	S0406	ājñātāvīndriyeṇa	ājñātāvin-indriya	cpd. nt. sg. instr.	0017c23	後無漏根	意译	0177a18	知已根	以"後無漏根"称具知根
+U215-169	S0406	ājñātāvī	ājñātāvin	adj. 成分			省译	0177a18	知已	以"後無漏"称之
+U215-170	S0406	ndriyeṇa	indriya	n. nt. sg. instr.	0017c24	根	对译	0177a18	根	
+U215-171	S0406				0017c24	一切	增译			
+U215-172	S0406	pṛthagjanaśaikṣaikṣyā	pṛthagjana-śaikṣa	cpd. m. pl. nom.	0017c24	異生…有學	对译	0177a18	凡夫…有學人	GRETIL 本作 pṛthagjanaśaikṣaikṣyā，当读 pṛthagjanaśaikṣā；"及"为并列复合词的连接
+U215-173	S0406	pṛthagjana	pṛthagjana	n. 成分	0017c24	異生	对译	0177a18	凡夫	
+U215-174	S0406	śaikṣaikṣyā	śaikṣa	adj. m. pl. nom.	0017c24	有學	对译	0177a18	有學	
+U215-175	S0406				0017c24	位定	增译			
+U215-176	S0406	asamanvāgatāḥ	a-samanvāgata	ptc. m. pl. nom. (√sam-anu-ā-gam)	0017c24	不成就	对译	0177a18	不相應	
+U215-178	S0407	apratipiddhāsv	a-pratiṣiddha	ptc. f. pl. loc. (√prati-sidh)	0017c24	非遮	对译	0177a18	非遮	GRETIL 本作 apratipiddhāsv，当读 apratiṣiddhāsv
+U215-179	S0407	avasthāsu	avasthā	n. f. pl. loc.	0017c25	位	对译	0177a19	位	
+U215-180	S0407	yathoktasamanvāgato	yathā-ukta-samanvāgata	cpd. adj. m. sg. nom.	0017c25	如…所說…成就	对译	0177a19	如前所說…相應	"前""諸根皆定"为增字
+U215-181	S0407	yatho	yathā	ind. 成分	0017c25	如	对译	0177a19	如	
+U215-182	S0407	kta	ukta	ptc. 成分 (√vac)	0017c25	所說	对译	0177a19	所說	
+U215-183	S0407	samanvāgato	samanvāgata	ptc. m. sg. nom. (√sam-anu-ā-gam)	0017c25	成就	对译	0177a19	相應	
+U215-184	S0407				0017c25	前	增译	0177a19	前	
+U215-185	S0407				0017c25	諸根皆定	增译			
+U215-186	S0407	veditavyaḥ	veditavya	gdv. m. sg. nom. (√vid)	0017c25	知	对译	0177a19	知	
+U215-188	S0408				0017c06	若成就	增译			颂文补出
+U215-189	S0408	caturbhiḥ	catur	num. nt. pl. instr.	0017c06	四	对译	0177a20	四	
+U215-190	S0408	sukha kāyābhyāṃ	sukha-kāya	cpd. m. du. instr.	0017c06	樂身	对译	0177a20	樂身	GRETIL 本 sukha 与 kāyābhyāṃ 间有空格，当连读
+U215-191	S0408	sukha	sukha	n. 成分	0017c06	樂	对译	0177a20	樂	
+U215-192	S0408	kāyābhyāṃ	kāya	n. m. du. instr.	0017c06	身	对译	0177a20	身	
+U215-193	S0408				0017c06	各定成就	增译			
+U215-194	S0409	yaḥ sukhendriyeṇa samanvāgataḥ so	yad … tad	gram. rel.-cor.	0017c25	若	语法	0177a20	若人…此人	关系-相关句 yaḥ … saḥ 以"若"表出
+U215-195	S0409	sukhendriyeṇa	sukha-indriya	cpd. nt. sg. instr.	0017c26	樂根	对译	0177a20	樂根	
+U215-196	S0409	sukhe	sukha	n. 成分	0017c26	樂	对译	0177a20	樂	
+U215-197	S0409	ndriyeṇa	indriya	n. nt. sg. instr.	0017c26	根	对译	0177a20	根	
+U215-198	S0409	samanvāgataḥ	samanvāgata	ptc. m. sg. nom. (√sam-anu-ā-gam)	0017c26	成	对译	0177a20	相應	
+U215-199	S0409	'vaśyaṃ	avaśyam	ind.	0017c26	定	对译	0177a20	必	
+U215-200	S0409				0017c26	成就	增译	0177a21	相應	梵文省 samanvāgataḥ
+U215-201	S0409	caturbhir	catur	num. nt. pl. instr.	0017c26	四	对译	0177a21	四	
+U215-202	S0409	indriyais	indriya	n. nt. pl. instr.			省译	0177a21	根	
+U215-203	S0409				0017c26	謂	增译	0177a21	謂	
+U215-204	S0409	tribhir	tri	num. nt. pl. instr.			省译	0177a21	三	玄奘列出三根，不出"三"
+U215-205	S0409	upekṣādibhiḥ	upekṣā-ādi	cpd. nt. pl. instr.	0017c26	命、意、捨	意译	0177a21	捨等	
+U215-206	S0409	upekṣā	upekṣā	n. 成分	0017c26	捨	对译	0177a21	捨	
+U215-207	S0409	ādibhiḥ	ādi	n. nt. pl. instr.	0017c26	命、意	意译	0177a21	等	ādi（等）指命、意，玄奘列出
+U215-208	S0409				0017c26	此	增译			
+U215-209	S0409	sukhendriyeṇa	sukha-indriya	cpd. nt. sg. instr.	0017c26	樂根	对译	0177a21	樂根	
+U215-210	S0409	sukhe	sukha	n. 成分	0017c26	樂	对译	0177a21	樂	
+U215-211	S0409	ndriyeṇa	indriya	n. nt. sg. instr.	0017c26	根	对译	0177a21	根	
+U215-212	S0410	yaḥ kāyendriyeṇa so	yad … tad	gram. rel.-cor.	0017c26	若	语法	0177a21	若人…此人	
+U215-213	S0410				0017c27	成	增译			梵文省 samanvāgataḥ
+U215-214	S0410	kāyendriyeṇa	kāya-indriya	cpd. nt. sg. instr.	0017c27	身根	对译	0177a21	身根	
+U215-215	S0410	kāye	kāya	n. 成分	0017c27	身	对译	0177a21	身	
+U215-216	S0410	ndriyeṇa	indriya	n. nt. sg. instr.	0017c27	根	对译	0177a22	根	
+U215-218	S0410				0017c27	定成	增译			
+U215-219	S0410	caturbhis	catur	num. nt. pl. instr.	0017c27	四	对译	0177a22	四	
+U215-220	S0410				0017c27	謂	增译			
+U215-221	S0410	taiś	tad	pron. nt. pl. instr.	0017c27	命、意、捨	意译	0177a22	如前	taiḥ（彼等，指捨等三根）还原为"命、意、捨"
+U215-222	S0410	tribhiḥ	tri	num. nt. pl. instr.			省译	0177a22	三	
+U215-223	S0410				0017c27	此	增译			
+U215-224	S0410	kāyendriyeṇa	kāya-indriya	cpd. nt. sg. instr.	0017c27	身根	对译	0177a22	身根	
+U215-225	S0410	kāye	kāya	n. 成分	0017c27	身	对译	0177a22	身	
+U215-226	S0410	ndriyeṇa	indriya	n. nt. sg. instr.	0017c27	根	对译	0177a22	根	
+U215-227	S0411				0017c07	成	增译			
+U215-228	S0411	pañcabhiś	pañcan	num. pl. instr.	0017c07	五	对译	0177a23	五	
+U215-229	S0411	cakṣurādimān	cakṣus-ādimat	cpd. adj. m. sg. nom.	0017c07	眼等	对译	0177a23	眼等	本颂
+U215-230	S0411	cakṣur	cakṣus	n. 成分	0017c07	眼	对译	0177a23	眼	
+U215-231	S0411	ādimān	ādimat	adj. m. sg. nom.	0017c07	等	对译	0177a23	等	ādimat（以…为首者）
+U215-232	S0411	cakṣurādimān	-mat (possessive)	gram. suffix	0017c07	成	语法	0177a23	有	具有后缀 -mat 译"成"（成就）
+U215-233	S0411				0017c07	各定成…根	增译			
+U215-234	S0412				0017c28	成	增译			"若成眼根"之"成"；梵文省 samanvāgataḥ
+U215-235	S0412	cakṣurindriyeṇa	cakṣus-indriya	cpd. nt. sg. instr.	0017c28	眼根	对译	0177a23	眼根	
+U215-236	S0412	cakṣur	cakṣus	n. 成分	0017c28	眼	对译	0177a23	眼	
+U215-237	S0412	indriyeṇa	indriya	n. nt. sg. instr.	0017c28	根	对译	0177a23	根	
+U215-238	S0412	'vaśyaṃ	avaśyam	ind.	0017c28	定	对译	0177a24	必	
+U215-239	S0412				0017c28	成就	增译	0177a24	相應	
+U215-240	S0412	pañcabhir	pañcan	num. pl. instr.	0017c28	五	对译	0177a24	五	
+U215-241	S0412				0017c28	謂	增译	0177a24	謂	
+U215-242	S0412	upekṣājīvitamanaḥ kāyendriyais	upekṣā-jīvita-manas-kāya-indriya	cpd. nt. pl. instr.	0017c28	命、意、捨、身根	对译	0177a24	捨命意身	GRETIL 本 manaḥ 与 kāyendriyais 间有空格，当连读
+U215-243	S0412	upekṣā	upekṣā	n. 成分	0017c28	捨	对译	0177a24	捨	
+U215-244	S0412	jīvita	jīvita	n. 成分	0017c28	命	对译	0177a24	命	
+U215-245	S0412	manaḥ	manas	n. 成分	0017c28	意	对译	0177a24	意	
+U215-246	S0412	kāye	kāya	n. 成分	0017c28	身	对译	0177a24	身	
+U215-247	S0412	ndriyais	indriya	n. nt. pl. instr.	0017c28	根	对译			
+U215-248	S0412	tena	tad	pron. nt. sg. instr.	0017c28	眼根	意译	0177a24	眼根	tena（彼，指眼根）还原为"眼根"
+U215-249	S0413	śrotraghrāṇajihvendriyair	śrotra-ghrāṇa-jihvā-indriya	cpd. nt. pl. instr.	0017c28	耳鼻舌根	对译	0177a25	耳鼻舌	
+U215-250	S0413	śrotra	śrotra	n. 成分	0017c28	耳	对译	0177a25	耳	
+U215-251	S0413	ghrāṇa	ghrāṇa	n. 成分	0017c29	鼻	对译	0177a25	鼻	
+U215-252	S0413	jihve	jihvā	n. 成分	0017c29	舌	对译	0177a25	舌	
+U215-253	S0413	ndriyair	indriya	n. nt. pl. instr.	0017c29	根	对译			
+U215-254	S0413	veditavyam	veditavya	gdv. nt. sg. nom. (√vid)	0017c29	知	对译	0177a25	知	
+U215-256	S0413	evaṃ	evam	ind.	0017c29	亦	语法	0177a25	亦爾	evam（同样）译"亦"（亦五）
+U215-257	S0413				0017c29	五，前四如眼，第五自根	增译			玄奘补出说明
+U215-258	S0414	saumanasyī	saumanasyin	adj. m. sg. nom.	0017c07	喜	对译	0177a25	喜	saumanasyin（具喜者）；"成"与 cakṣurādimān 共用
+U215-259	S0415				0018a01	成	增译			"若成喜根"之"成"；梵文省 samanvāgataḥ
+U215-260	S0415	saumanasyendriyeṇa	saumanasya-indriya	cpd. nt. sg. instr.	0018a01	喜根	对译	0177a26	喜根	
+U215-261	S0415	saumanasye	saumanasya	n. 成分	0018a01	喜	对译	0177a26	喜	
+U215-262	S0415	ndriyeṇa	indriya	n. nt. sg. instr.	0018a01	根	对译	0177a26	根	
+U215-264	S0415	'vaśyaṃ	avaśyam	ind.	0018a01	定	对译	0177a26	必	
+U215-265	S0415				0018a01	成	增译	0177a26	相應	"定成五"之"成"
+U215-266	S0415	pañcabhir	pañcan	num. pl. instr.	0018a01	五	对译	0177a26	五	
+U215-267	S0415				0018a01	謂	增译	0177a26	謂	
+U215-268	S0415	upekṣājīvitamanaḥsukhasaumanasyaiḥ	upekṣā-jīvita-manas-sukha-saumanasya	cpd. nt. pl. instr.	0018a01	命、意、捨、樂…喜	对译	0177a26	捨…命意樂…喜	
+U215-269	S0415	upekṣā	upekṣā	n. 成分	0018a01	捨	对译	0177a26	捨	
+U215-270	S0415	jīvita	jīvita	n. 成分	0018a01	命	对译	0177a27	命	
+U215-271	S0415	manaḥ	manas	n. 成分	0018a01	意	对译	0177a27	意	
+U215-272	S0415	sukha	sukha	n. 成分	0018a01	樂	对译	0177a27	樂	
+U215-273	S0415	saumanasyaiḥ	saumanasya	n. nt. pl. instr.	0018a01	喜	对译	0177a27	喜	
+U215-274	S0415				0018a01	根	增译	0177a27	根	"樂根、喜根"之"根"为补出
+U215-275	S0416	dvitīyadhyānajas	dvitīya-dhyāna-ja	cpd. adj. m. sg. nom.	0018a02	第二靜慮…生	对译	0177a27	生第二定	"地"为增字
+U215-276	S0416	dvitīya	dvitīya	num. 成分	0018a02	第二	对译	0177a27	第二	
+U215-277	S0416	dhyāna	dhyāna	n. 成分	0018a02	靜慮	对译	0177a27	定	
+U215-278	S0416	jas	ja	adj. m. sg. nom.	0018a02	生	对译	0177a27	生	
+U215-279	S0416				0018a02	地	增译			
+U215-280	S0416	tṛtīyadhyānālābhī	tṛtīya-dhyāna-a-lābhin	cpd. adj. m. sg. nom.	0018a02	未得第三靜慮	对译	0177a27	未得第三定	
+U215-281	S0416	tṛtīya	tṛtīya	num. 成分	0018a02	第三	对译	0177a27	第三	
+U215-282	S0416	dhyānā	dhyāna	n. 成分	0018a02	靜慮	对译	0177a27	定	
+U215-283	S0416	ālābhī	a-lābhin	adj. m. sg. nom.	0018a02	未得	对译	0177a27	未得	
+U215-284	S0416				0018a02	捨下未得上	增译			补出说明：已舍下地而未得上地
+U215-285	S0416				0018a03	此	增译			
+U215-286	S0416	samanvāgato	samanvāgata	ptc. m. sg. nom. (√sam-anu-ā-gam)	0018a03	成	对译	0177a28	相應	
+U215-288	S0416	sukhendriyeṇa	sukha-indriya	cpd. nt. sg. instr.	0018a03	樂根	对译	0177a28	樂根	
+U215-289	S0416	sukhe	sukha	n. 成分	0018a03	樂	对译	0177a28	樂	
+U215-290	S0416	ndriyeṇa	indriya	n. nt. sg. instr.	0018a03	根	对译	0177a28	根	
+U215-291	S0416	bhavati	bhū	v. pres. 3sg.			省译			
+U215-292	S0417				0018a03	當言成就	增译			
+U215-293	S0417	tṛtīyadhyānabhūmikena	tṛtīya-dhyāna-bhūmika	cpd. adj. nt. sg. instr.	0018a03	第三靜慮	对译	0177a28	第三定	
+U215-294	S0417	tṛtīya	tṛtīya	num. 成分	0018a03	第三	对译	0177a28	第三	
+U215-295	S0417	dhyāna	dhyāna	n. 成分	0018a03	靜慮	对译	0177a28	定	
+U215-296	S0417	bhūmikena	bhūmika	adj. nt. sg. instr.			省译			
+U215-297	S0417	kliṣṭena	kliṣṭa	ptc. nt. sg. instr. (√kliś)	0018a03	染污	对译	0177a28	染污	
+U215-298	S0417				0018a04	樂根	增译	0177a28	樂根	梵文承上省 sukhendriyeṇa
+U215-299	S0417				0018a04	餘未得故	增译			补出理由
+U215-300	S0418				0017c08	若	增译			
+U215-301	S0418	duḥkhī	-in (possessive)	gram. suffix	0017c08	成就	语法	0177a29	有	具有后缀 -in 译"成就"
+U215-302	S0418	duḥkhī	duḥkhin	adj. m. sg. nom.	0017c08	苦	对译	0177a29	苦	duḥkhin（具苦者）
+U215-303	S0418				0017c08	根	增译			
+U215-304	S0418				0017c08	彼定成就	增译			
+U215-305	S0418	saptabhiḥ	saptan	num. pl. instr.	0017c08	七	对译	0177a29	七	
+U215-306	S0419				0018a04	若成	增译			
+U215-307	S0419	duḥkhendriyeṇa	duḥkha-indriya	cpd. nt. sg. instr.	0018a04	苦根	对译	0177a29	苦根	
+U215-308	S0419	duḥkhe	duḥkha	n. 成分	0018a04	苦	对译	0177a29	苦	
+U215-309	S0419	ndriyeṇa	indriya	n. nt. sg. instr.	0018a04	根	对译	0177a29	根	
+U215-310	S0419	'vaśyaṃ	avaśyam	ind.	0018a04	定	对译	0177b01	必	
+U215-311	S0419				0018a04	成就	增译	0177b01	相應	
+U215-312	S0419	saptabhiḥ	saptan	num. pl. instr.	0018a04	七	对译	0177b01	七	
+U215-313	S0419				0018a04	謂	增译	0177b01	謂	
+U215-314	S0419	kāyajīvitamanobhiś	kāya-jīvita-manas	cpd. nt. pl. instr.	0018a04	身、命、意	对译	0177b01	身命意	
+U215-315	S0419	kāya	kāya	n. 成分	0018a04	身	对译	0177b01	身	
+U215-316	S0419	jīvita	jīvita	n. 成分	0018a05	命	对译	0177b01	命	
+U215-317	S0419	manobhiś	manas	n. nt. pl. instr.	0018a05	意	对译	0177b01	意	
+U215-318	S0419	caturbhir	catur	num. nt. pl. instr.	0018a05	四	对译	0177b01	四	
+U215-319	S0419	vedanendriyaiḥ	vedanā-indriya	cpd. nt. pl. instr.	0018a05	受	对译	0177b01	受	不出"根"
+U215-320	S0419	vedane	vedanā	n. 成分	0018a05	受	对译	0177b01	受	
+U215-321	S0419	ndriyaiḥ	indriya	n. nt. pl. instr.			省译			
+U215-322	S0419				0018a05	除憂	增译			补出"除憂"（四受即乐、喜、捨、苦）
+U215-323	S0420				0017c09	若	增译			
+U215-324	S0420	strīndriyādimān	-mat (possessive)	gram. suffix	0017c09	成	语法	0177b02	有	
+U215-325	S0420	strīndriyādimān	strī-indriya-ādimat	cpd. adj. m. sg. nom.	0017c09	女男憂，信等	意译	0177b02	女等	本颂；ādi（等）玄奘列出"男、憂、信等"
+U215-326	S0420	strī	strī	n. 成分	0017c09	女	对译	0177b02	女	
+U215-327	S0420	ndriyā	indriya	n. 成分			省译			
+U215-328	S0420	ādimān	ādimat	adj. m. sg. nom.	0017c09	男憂，信等	意译	0177b02	等	ādimat（以…为首者，等）指男根、憂根、信等，玄奘列出
+U215-329	S0420				0017c09	各成	增译			
+U215-330	S0421	aṣṭābhiḥ	aṣṭan	num. pl. instr.	0017c09	八	对译	0177b02	八	本颂
+U215-331	S0422	strīndriyeṇa	strī-indriya	cpd. nt. sg. instr.	0018a05	女根	对译	0177b02	女根	
+U215-332	S0422	strī	strī	n. 成分	0018a05	女	对译	0177b02	女	
+U215-333	S0422	ndriyeṇa	indriya	n. nt. sg. instr.	0018a05	根	对译	0177b02	根	
+U215-334	S0422	samanvāgataḥ	samanvāgata	ptc. m. sg. nom. (√sam-anu-ā-gam)	0018a05	成	对译	0177b02	相應	
+U215-335	S0422	'vaśyam	avaśyam	ind.	0018a05	定	对译	0177b03	必	
+U215-336	S0422				0018a05	成就	增译	0177b03	相應	
+U215-337	S0422	aṣṭabhiḥ	aṣṭan	num. pl. instr.	0018a05	八	对译	0177b03	八	
+U215-338	S0422	taiś	tad	pron. nt. pl. instr.	0018a06	如苦說	意译	0177b03	如前	taiḥ（彼等，指苦根之七根）译"如苦說"
+U215-339	S0422	saptabhiḥ	saptan	num. pl. instr.	0018a05	七	对译	0177b03	七	
+U215-340	S0422				0018a06	第八	增译			
+U215-341	S0422	strīndriyeṇa	strī-indriya	cpd. nt. sg. instr.	0018a06	女根	对译	0177b03	女根	
+U215-342	S0422	strī	strī	n. 成分	0018a06	女	对译	0177b03	女	
+U215-343	S0422	ndriyeṇa	indriya	n. nt. sg. instr.	0018a06	根	对译	0177b03	根	
+U215-344	S0423	ādiśabdena	ādi-śabda	cpd. m. sg. instr.			省译	0177b03	等言	释颂中"ādi"所摄，玄奘未译
+U215-345	S0423	ādi	ādi	n. 成分			省译	0177b03	等	
+U215-346	S0423	śabdena	śabda	n. m. sg. instr.			省译	0177b03	言	
+U215-347	S0423	puruṣendriyadaurmanasyaśaraddhādīnāṃ	puruṣa-indriya-daurmanasya-śraddhā-ādi	cpd. nt. pl. gen.			省译	0177b04	男根。憂根及信等	GRETIL 本作 -śaraddhā-，当读 -śraddhā-
+U215-348	S0423	puruṣe	puruṣa	n. 成分			省译	0177b04	男	
+U215-349	S0423	ndriya	indriya	n. 成分			省译	0177b04	根	
+U215-350	S0423	daurmanasya	daurmanasya	n. 成分			省译	0177b04	憂	
+U215-351	S0423	śaraddhā	śraddhā	n. 成分			省译	0177b04	信	GRETIL 本作 śaraddhā
+U215-352	S0423	ādīnāṃ	ādi	n. nt. pl. gen.			省译	0177b04	等	
+U215-353	S0423	saṃgrahaḥ	saṃgraha	n. m. sg. nom.			省译	0177b04	攝	
+U215-354	S0424				0018a06	若	增译			
+U215-355	S0424	tadvān	-vat (possessive)	gram. suffix	0018a06	成	语法	0177b04	得	具有后缀 -vat 译"成"
+U215-356	S0424	tadvān	tadvat	adj. m. sg. nom.	0018a06	男根	意译	0177b04	如此根	tadvat（具彼者），tad 指 ādi 所摄之根，玄奘分别说为男根、憂根、信等，此处为男根
+U215-357	S0424	pratyekam	pratyekam	ind.			省译	0177b04	隨一一	玄奘分别逐一说出，不出"各"
+U215-358	S0424				0018a06	定	增译			
+U215-359	S0424	aṣṭābhiḥ	aṣṭan	num. pl. instr.	0018a06	八	对译	0177b05	八	
+U215-360	S0424	samanvāgato	samanvāgata	ptc. m. sg. nom. (√sam-anu-ā-gam)	0018a06	成	对译	0177b05	相應	
+U215-361	S0424	bhavati	bhū	v. pres. 3sg.			省译			
+U215-362	S0425	taiś	tad	pron. nt. pl. instr.	0018a07	如苦說	意译	0177b05	如前	
+U215-363	S0425	saptabhir	saptan	num. pl. instr.	0018a06	七	对译	0177b05	七	
+U215-364	S0425	aṣṭamena	aṣṭama	num. nt. sg. instr.	0018a07	第八	对译	0177b05	第八	
+U215-365	S0425	puruṣendriyeṇa	puruṣa-indriya	cpd. nt. sg. instr.	0018a07	男根	对译	0177b05	男根	
+U215-366	S0425	puruṣe	puruṣa	n. 成分	0018a07	男	对译	0177b05	男	
+U215-367	S0425	ndriyeṇa	indriya	n. nt. sg. instr.	0018a07	根	对译	0177b05	根	
+U215-368	S0425	evaṃ	evam	ind.	0018a07	亦	语法			evam（同样）译"亦"（亦定成八）
+U215-369	S0425				0018a07	若成	增译			
+U215-370	S0425	daurmanasyendriyeṇa	daurmanasya-indriya	cpd. nt. sg. instr.	0018a07	憂根	对译	0177b06	憂根	
+U215-371	S0425	daurmanasye	daurmanasya	n. 成分	0018a07	憂	对译	0177b06	憂	
+U215-372	S0425	ndriyeṇa	indriya	n. nt. sg. instr.	0018a07	根	对译	0177b06	根	
+U215-373	S0425				0018a07	定成八，七如苦說，第八憂根	增译	0177b06	七如前，憂根為第八	evam 所概括的内容，玄奘、真谛都逐一说出
+U215-374	S0426				0018a08	若	增译			
+U215-375	S0426	śraddhādimāṃs	śraddhā-ādimat	cpd. adj. m. sg. nom.	0018a08	信等	对译	0177b07	信等	"成"对 -mat，前已两例，不另记
+U215-376	S0426	śraddhā	śraddhā	n. 成分	0018a08	信	对译	0177b07	信	
+U215-377	S0426	ādimāṃs	ādimat	adj. m. sg. nom.	0018a08	等	对译	0177b07	等	
+U215-378	S0426				0018a08	亦各成八	增译			
+U215-379	S0426				0018a08	謂	增译			
+U215-380	S0426	taiś	tad	pron. nt. pl. instr.	0018a09	信等	意译	0177b07	信等	taiḥ（彼等，指信等）还原为"信等"
+U215-381	S0426	pañcabhir	pañcan	num. pl. instr.	0018a09	五	对译	0177b07	五	
+U215-382	S0426				0018a09	根	增译	0177b07	根	
+U215-383	S0426	upekṣājīvitamanobhiś	upekṣā-jīvita-manas	cpd. nt. pl. instr.	0018a09	命、意、捨	对译	0177b07	捨命意	
+U215-384	S0426	upekṣā	upekṣā	n. 成分	0018a09	捨	对译	0177b07	捨	
+U215-385	S0426	jīvita	jīvita	n. 成分	0018a09	命	对译	0177b08	命	
+U215-386	S0426	manobhiś	manas	n. nt. pl. instr.	0018a09	意	对译	0177b08	意	
+U215-387	S0427	ājñājñātendriyānvitaḥ	ājñā-ājñāta-indriya-anvita	cpd. adj. m. sg. nom.	0017c10	二無漏	意译	0177b08	有知知已根	本颂；以"二無漏"概括已知根、具知根
+U215-388	S0427	ājñā	ājñā	n. 成分			省译	0177b08	知	以"二無漏"概括
+U215-389	S0427	jñāte	ājñāta	ptc. 成分 (√ā-jñā)			省译	0177b08	知已	以"二無漏"概括；ājñāta 即 ājñātāvin
+U215-390	S0427	ndriyā	indriya	n. 成分			省译	0177b08	根	以"二無漏"概括
+U215-391	S0427	ānvitaḥ	anvita	ptc. m. sg. nom. (√anu-i)			省译	0177b08	有	
+U215-392	S0427	ekādaśabhis	ekādaśan	num. pl. instr.	0017c10	十一	对译	0177b08	十一	
+U215-393	S0428	ājñāta	ājñāta	ptc. nt. sg. loc. (?) (√ā-jñā)			省译			释颂中 ājñātendriya 之词，玄奘、真谛皆未译
+U215-394	S0428	indriyam	indriya	n. nt. sg. nom.			省译			
+U215-395	S0428	ājñātendriyam	ājñāta-indriya	cpd. nt. sg. nom.			省译			
+U215-396	S0428	ājñāte	ājñāta	ptc. 成分 (√ā-jñā)			省译			
+U215-397	S0428	ndriyam	indriya	n. nt. sg. nom.			省译			
+U215-398	S0429	ājñātendriyeṇa	ājñāta-indriya	cpd. nt. sg. instr.	0018a09	具知根	对译	0177b09	知根	待核：GRETIL 本句首作 ājñātendriyeṇa（=具知根），句末作 ājñendriyeṇa（已知根），下句作 ājñātāvīndriyeṇa；玄奘本句作"具知根"、下句作"已知根"，真谛本句作"知根"、下句作"知已根"
+U215-399	S0429	ājñāte	ājñāta	ptc. 成分 (√ā-jñā)	0018a09	具知	意译	0177b09	知	
+U215-400	S0429	ndriyeṇa	indriya	n. nt. sg. instr.	0018a09	根	对译	0177b09	根	
+U215-401	S0429	samanvāgataḥ	samanvāgata	ptc. m. sg. nom. (√sam-anu-ā-gam)	0018a09	成	对译	0177b09	相應	
+U215-402	S0429	'vaśyam	avaśyam	ind.	0018a09	定	对译	0177b09	必	
+U215-403	S0429				0018a09	成就	增译	0177b09	相應	
+U215-404	S0429	ekādaśabhiḥ	ekādaśan	num. pl. instr.	0018a09	十一	对译	0177b09	十一	
+U215-405	S0429				0018a10	謂	增译	0177b10	謂	
+U215-406	S0429	sukhasaumanasyopekṣājīvitamanaśraddhādibahir	sukha-saumanasya-upekṣā-jīvita-manas-śraddhā-ādi	cpd. nt. pl. instr.	0018a10	命…意、樂、喜、捨…信等	对译	0177b10	樂喜捨命意…信等	GRETIL 本作 -manaśraddhādibahir，当读 -manaḥśraddhādibhir
+U215-407	S0429	sukha	sukha	n. 成分	0018a10	樂	对译	0177b10	樂	
+U215-408	S0429	saumanasyo	saumanasya	n. 成分	0018a10	喜	对译	0177b10	喜	
+U215-409	S0429	opekṣā	upekṣā	n. 成分	0018a10	捨	对译	0177b10	捨	
+U215-410	S0429	jīvita	jīvita	n. 成分	0018a10	命	对译	0177b10	命	
+U215-411	S0429	mana	manas	n. 成分	0018a10	意	对译	0177b10	意	
+U215-412	S0429	śraddhā	śraddhā	n. 成分	0018a10	信	对译	0177b10	信	
+U215-413	S0429	ādibahir	ādi	n. nt. pl. instr.	0018a10	等	对译	0177b10	等	GRETIL 本作 ādibahir，当读 ādibhir
+U215-414	S0429	sukhasaumanasyopekṣājīvitamanaśraddhādibahir	dvandva	gram. cpd.	0018a10	與	语法			并列复合词以"與"连接（命與意）
+U215-415	S0429				0018a10	根	增译			"捨根"之"根"
+U215-416	S0429				0018a10	五根	增译	0177b10	五根	
+U215-417	S0429	ājñendriyeṇa	ājñā-indriya	cpd. nt. sg. instr.	0018a10	具知根	意译	0177b10	知根	待核：GRETIL 作 ājñendriya（已知根），玄奘作"具知根"，与句首一致
+U215-418	S0429	ājñe	ājñā	n. 成分	0018a10	具知	意译	0177b10	知	待核：同上
+U215-419	S0429	ndriyeṇa	indriya	n. nt. sg. instr.	0018a10	根	对译	0177b10	根	
+U215-420	S0430				0018a11	若成	增译			
+U215-421	S0430	ājñā tāvīndriyeṇā	ājñātāvin-indriya	cpd. nt. sg. instr.	0018a11	已知根	意译	0177b11	知已根	待核：GRETIL 作 ājñā tāvīndriyeṇa（具知根），玄奘作"已知根"，与上句互换；真谛作"知已根"
+U215-422	S0430	ājñā tāvī	ājñātāvin	adj. 成分	0018a11	已知	意译	0177b11	知已	待核：同上；GRETIL 本 ājñā 与 tāvī 间有空格
+U215-423	S0430	ndriyeṇā	indriya	n. nt. sg. instr.	0018a11	根	对译	0177b11	根	
+U215-424	S0430				0018a11	定成十一	增译	0177b11	亦爾	
+U215-425	S0430	taireva	tad	pron. nt. pl. instr.	0018a11	如上	意译	0177b11	如前	taiḥ（彼等，指前述十根）译"如上"
+U215-426	S0430	daśabhir	daśan	num. pl. instr.	0018a11	十	对译	0177b11	十	
+U215-427	S0430				0018a11	根	增译	0177b11	根	
+U215-428	S0430	ājñātāvīndriyeṇa	ājñātāvin-indriya	cpd. nt. sg. instr.	0018a11	已知根	意译	0177b11	知已根	待核：同上
+U215-429	S0430	ājñātāvī	ājñātāvin	adj. 成分	0018a11	已知	意译	0177b11	知已	待核：同上
+U215-430	S0430	ndriyeṇa	indriya	n. nt. sg. instr.	0018a12	根	对译	0177b12	根	
+U215-431	S0431	ājñāsyāmīndriyopetas	ājñāsyāmi-indriya-upeta	cpd. adj. m. sg. nom.	0017c10	初無漏	意译	0177b12	未知欲知根	本颂；以"初無漏"称未知當知根
+U215-432	S0431	ājñāsyāmī	ā-jñā	v. fut. 1sg.			省译	0177b12	欲知	以"初無漏"称之
+U215-433	S0431	ndriyo	indriya	n. 成分			省译	0177b12	根	以"初無漏"称之
+U215-434	S0431	opetas	upeta	ptc. m. sg. nom. (√upa-i)			省译			
+U215-435	S0431	trayodaśabhir	trayodaśan	num. pl. instr.	0017c10	十三	对译	0177b12	十三	
+U215-436	S0431	anvitaḥ	anvita	ptc. m. sg. nom. (√anu-i)			省译	0177b12	相應	
+U215-437	S0432				0018a12	若成未知根定成就	增译			玄奘复述颂文
+U215-438	S0432	trayodaśabhiḥ	trayodaśan	num. pl. instr.	0018a12	十三	对译	0177b13	十三	
+U215-439	S0432	katamais	katama	pron. nt. pl. instr.	0018a12	謂	意译	0177b13	何者	设问"katamais…"改为"謂"引出列举
+U215-440	S0433	manojīvitakāyendriyaiḥ	manas-jīvita-kāya-indriya	cpd. nt. pl. instr.	0018a12	身、命、意	对译	0177b13	意命身根	玄奘作"身、命、意"，次序倒换；不出"根"
+U215-441	S0433	mano	manas	n. 成分	0018a12	意	对译	0177b13	意	
+U215-442	S0433	jīvita	jīvita	n. 成分	0018a12	命	对译	0177b13	命	
+U215-443	S0433	kāye	kāya	n. 成分	0018a12	身	对译	0177b13	身	
+U215-444	S0433	ndriyaiḥ	indriya	n. nt. pl. instr.			省译	0177b13	根	
+U215-445	S0433	catasṛbhir	catur	num. f. pl. instr.			省译			玄奘列出四受，不出"四"；真谛作"三受根"，另加"女男根隨一"
+U215-446	S0433	vedanābhiḥ	vedanā	n. f. pl. instr.	0018a13	苦、樂、喜、捨	意译	0177b14	受	catasṛbhir vedanābhiḥ（四受）玄奘列出"苦、樂、喜、捨"
+U215-447	S0433	śraddhādibhir	śraddhā-ādi	cpd. nt. pl. instr.	0018a13	信等	对译	0177b14	信等	
+U215-448	S0433	śraddhā	śraddhā	n. 成分	0018a13	信	对译	0177b14	信	
+U215-449	S0433	ādibhir	ādi	n. nt. pl. instr.	0018a13	等	对译	0177b14	等	
+U215-450	S0433				0018a13	五根	增译	0177b14	五根	
+U215-451	S0433	ājñāsyāmīndriyeṇa	ājñāsyāmi-indriya	cpd. nt. sg. instr.	0018a13	未知根	意译	0177b14	未知欲知根	略称"未知根"
+U215-452	S0433	ājñāsyāmī	ā-jñā	v. fut. 1sg.	0018a13	未知	意译	0177b14	欲知	玄奘略称作"未知"
+U215-453	S0433	ndriyeṇa	indriya	n. nt. sg. instr.	0018a13	根	对译	0177b14	根	
+U215-454	S0434	yaḥ srvālpaiḥ samanvāgataḥ sa	yad … tad	gram. rel.-cor.	0018a13	者	语法	0177b15	若人	关系-相关句以"…者"表出
+U215-455	S0434				0018a13	諸	增译			
+U215-456	S0434	srvālpaiḥ	sarva-alpa	cpd. nt. pl. instr.	0018a13	極少	意译	0177b15	極少	GRETIL 本作 srvālpaiḥ，当读 sarvālpaiḥ；sarvālpa（最少）译"極少"
+U215-457	S0434	srv	sarva	adj. 成分	0018a13	極	意译	0177b15	極	sarva（一切）构成最高级，译"極"
+U215-458	S0434	ālpaiḥ	alpa	adj. nt. pl. instr.	0018a13	少	对译	0177b15	少	
+U215-459	S0434	samanvāgataḥ	samanvāgata	ptc. m. sg. nom. (√sam-anu-ā-gam)	0018a13	成就	对译	0177b15	相應	
+U215-460	S0434	kiyadbhir	kiyat	pron. nt. pl. instr.	0018a14	幾	对译	0177b15	幾	
+U215-461	S0434	indriyaiḥ	indriya	n. nt. pl. instr.	0018a14	根	对译	0177b15	根	

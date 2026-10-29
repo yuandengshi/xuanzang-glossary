@@ -1,0 +1,124 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U216-001	S0435	sarvālpair	sarva-alpa	cpd. nt. pl. instr.	0018a15	極少	意译	0177b16	極少	本颂；sarvālpa（最少）译"極少"
+U216-002	S0435	sarv	sarva	adj. 成分	0018a15	極	意译	0177b16	極	sarva（一切）构成最高级，译"極"
+U216-003	S0435	ālpair	alpa	adj. nt. pl. instr.	0018a15	少	对译	0177b16	少	
+U216-004	S0435	niḥśubho	niḥ-śubha	adj. m. sg. nom.	0018a15	無善	对译	0177b16	無善	
+U216-005	S0435	'ṣṭābhir	aṣṭan	num. pl. instr.	0018a15	八	对译	0177b16	八	
+U216-006	S0435	vinmanaḥkāyajīvitaiḥ	vid-manas-kāya-jīvita	cpd. nt. pl. instr.	0018a15	受身命意	对译	0177b16	受意身命	玄奘作"受身命意"，次序与梵本不同
+U216-007	S0435	vin	vid	n. 成分	0018a15	受	对译	0177b16	受	vid（受）；名词 vid（受），与动词 vid 同形
+U216-008	S0435	manaḥ	manas	n. 成分	0018a15	意	对译	0177b16	意	
+U216-009	S0435	kāya	kāya	n. 成分	0018a15	身	对译	0177b16	身	
+U216-010	S0435	jīvitaiḥ	jīvita	n. nt. pl. instr.	0018a15	命	对译	0177b16	命	
+U216-011	S0436	yuktaḥ	yukta	ptc. m. sg. nom. (√yuj)	0018a15	成	对译	0177b16	應	本颂
+U216-012	S0437	samucchinnakuśamūlo	samucchinna-kuśala-mūla	cpd. adj. m. sg. nom.	0018a17	斷善根	对译	0177b16	斷善根	GRETIL 本作 samucchinnakuśamūlo，当读 samucchinnakuśalamūlo；"已"为过去分词之译，前已两例，不另记
+U216-013	S0437	samucchinna	samucchinna	ptc. 成分 (√sam-ud-chid)	0018a17	斷	对译	0177b16	斷	
+U216-014	S0437	kuśa	kuśala	adj. 成分	0018a17	善	对译	0177b17	善	GRETIL 本作 kuśa-，当读 kuśala-
+U216-015	S0437	mūlo	mūla	n. m. sg. nom.	0018a17	根	对译	0177b17	根	多财释，随所修饰者作阳性
+U216-016	S0437				0018a17	名為	增译	0177b17	說名	释词句无 iti，二译皆补"名"
+U216-017	S0437	niḥśubhaḥ	niḥ-śubha	adj. m. sg. nom.	0018a17	無善	对译	0177b17	無善	
+U216-019	S0437				0018a17	若	增译			
+U216-020	S0437	sarvālpair	sarva-alpa	cpd. nt. pl. instr.	0018a17	極少	意译	0177b17	極少	
+U216-021	S0437	sarv	sarva	adj. 成分	0018a17	極	意译	0177b17	極	
+U216-022	S0437	ālpair	alpa	adj. nt. pl. instr.	0018a17	少	对译	0177b17	少	
+U216-023	S0437	aṣṭābhir	aṣṭan	num. pl. instr.	0018a18	八	对译	0177b17	八	
+U216-024	S0437	indriyaiḥ	indriya	n. nt. pl. instr.	0018a18	根	对译	0177b17	根	
+U216-025	S0437	samanvāgataḥ	samanvāgata	ptc. m. sg. nom. (√sam-anu-ā-gam)	0018a17	成就	对译	0177b17	相應	
+U216-026	S0438				0018a18	謂	增译	0177b17	謂	
+U216-027	S0438	pañcabhir	pañcan	num. pl. instr.	0018a18	五	对译	0177b17	五	
+U216-028	S0438	vedanādibhiḥ	vedanā-ādi	cpd. nt. pl. instr.	0018a18	受	意译	0177b17	受	vedanādi（受等，指五受根）玄奘作"五受根"
+U216-029	S0438	vedanā	vedanā	n. 成分	0018a18	受	对译	0177b17	受	
+U216-030	S0438	ādibhiḥ	ādi	n. nt. pl. instr.			省译			以"五受"概括
+U216-031	S0438				0018a18	根	增译	0177b18	根	
+U216-032	S0438	kāyamanojīvitaiś	kāya-manas-jīvita	cpd. nt. pl. instr.	0018a18	身、命、意	对译	0177b18	身意命	玄奘作"身、命、意"，次序与梵本不同
+U216-033	S0438	kāya	kāya	n. 成分	0018a18	身	对译	0177b18	身	
+U216-034	S0438	mano	manas	n. 成分	0018a18	意	对译	0177b18	意	
+U216-035	S0438	jīvitaiś	jīvita	n. nt. pl. instr.	0018a18	命	对译	0177b18	命	
+U216-036	S0439	vedanā	vedanā	n. f. sg. nom.	0018a18	能受	意译			vedanā（受）用以释颂文 vit，译"能受"；本句真谛未译
+U216-037	S0439	hi	hi	ind.	0018a18	謂	意译			释词的 hi 译"謂"
+U216-038	S0439	vit	vid	n. f. sg. nom.	0018a18	受	对译			颂文 vit（受）；名词 vid（受），与动词 vid 同形
+U216-039	S0439				0018a18	能	增译			
+U216-040	S0439	vedayata	vid (caus.)	v. pres. caus. 3sg.	0018a18	領納	对译			vedayate 连声作 vedayata
+U216-041	S0439	iti kṛtvā	iti kṛtvā	ind.	0018a19	故	语法			
+U216-043	S0439				0018a19	是	增译			
+U216-044	S0439	vedanaṃ	vedana	n. nt. sg. nom.	0018a19	受性	意译			vedana（受这一作用）译"受性"
+U216-045	S0439				0018a19	故名為	增译			
+U216-046	S0439	vit	vid	n. f. sg. nom.	0018a19	受	对译			名词 vid（受），与动词 vid 同形
+U216-047	S0440	saṃpadanaṃ	saṃpadana	n. nt. sg. nom.	0018a19	圓滿性	意译			saṃpadana（圆满这一作用）译"圓滿性"
+U216-048	S0440				0018a19	立…名	增译			
+U216-049	S0440	saṃpat	saṃpad	n. f. sg. nom.	0018a20	圓滿	对译			
+U216-050	S0440	niḥśāubhaḥ	niḥ-śubha	adj. m. sg. nom.	0018a20	斷善根	意译	0177b18	斷善根	GRETIL 本作 niḥśāubhaḥ，当读 niḥśubhaḥ；玄奘、真谛此处都作"斷善根"
+U216-051	S0440	sarvālpair	sarva-alpa	cpd. nt. pl. instr.	0018a20	極少	意译	0177b18	極少	
+U216-052	S0440	sarv	sarva	adj. 成分	0018a20	極	意译	0177b18	極	
+U216-053	S0440	ālpair	alpa	adj. nt. pl. instr.	0018a20	少	对译	0177b18	少	
+U216-054	S0440	aṣṭābhir	aṣṭan	num. pl. instr.	0018a20	八	对译			
+U216-055	S0440	indriyair	indriya	n. nt. pl. instr.			省译	0177b18	根	
+U216-056	S0440	yuktaḥ	yukta	ptc. m. sg. nom. (√yuj)	0018a20	成	对译	0177b18	相應	
+U216-057	S0441	bālas	bāla	adj. m. sg. nom.	0018a16	愚	对译	0177b19	凡夫	本颂
+U216-058	S0441				0018a16	生	增译			颂文补出"生"（生無色界）
+U216-059	S0441	ārūpye	ārūpya	n. nt. sg. loc.	0018a16	無色界	意译	0177b19	無色	ārūpya（无色〔界〕）
+U216-061	S0441	bālas	bāla	adj. m. sg. nom.	0018a20	愚	对译	0177b19	凡夫	长行释颂文（愚生無色亦成八根），接上句 yathā … 而成
+U216-062	S0441				0018a20	生	增译	0177b19	生	
+U216-063	S0441	ārūpye	ārūpya	n. nt. sg. loc.	0018a20	無色	对译	0177b19	無色界	长行
+U216-064	S0441	tathā	tathā	ind.	0018a21	亦	语法			与上句 yathā 相应的 tathā，译"亦"
+U216-065	S0441				0018a21	成八根	增译	0177b20	八根相應	长行补出
+U216-066	S0442	bāla	bāla	adj. m. sg. nom.	0018a21	愚	对译			
+U216-067	S0442	iti	iti	ind.	0018a21	謂	语法			释词：X iti Y → X謂Y
+U216-068	S0442	pṛthagjanasyā	pṛthagjana	n. m. sg. gen.	0018a21	異生	对译			
+U216-069	S0442	ākhyā	ākhyā	n. f. sg. nom.			省译			
+U216-070	S0442				0018a21	未見諦故	增译			玄奘补出理由
+U216-071	S0442	katamair	katama	pron. nt. pl. instr.	0018a21	何等	语法			
+U216-072	S0442				0018a21	為	增译			
+U216-073	S0442	aṣṭābhiḥ	aṣṭan	num. pl. instr.	0018a22	八	对译			
+U216-074	S0443				0018a16	成	增译			颂文"成"承上 yuktaḥ
+U216-075	S0443	upekṣāyurmanaḥśubhaiḥ	upekṣā-āyus-manas-śubha	cpd. nt. pl. instr.	0018a16	善命意捨	对译	0177b20	捨命意信等	本颂；玄奘作"善命意捨"，次序与梵本不同
+U216-076	S0443	upekṣā	upekṣā	n. 成分	0018a16	捨	对译	0177b20	捨	
+U216-077	S0443	āyur	āyus	n. 成分	0018a16	命	对译	0177b20	命	
+U216-078	S0443	manaḥ	manas	n. 成分	0018a16	意	对译	0177b20	意	
+U216-079	S0443	śubhaiḥ	śubha	adj. nt. pl. instr.	0018a16	善	对译	0177b20	信等	真谛作"信等"
+U216-080	S0444				0018a22	謂	增译			
+U216-081	S0444	upekṣājīvitamanobhiḥ	upekṣā-jīvita-manas	cpd. nt. pl. instr.	0018a22	命、意、捨	对译	0177b20	捨命意	
+U216-082	S0444	upekṣā	upekṣā	n. 成分	0018a22	捨	对译	0177b20	捨	
+U216-083	S0444	jīvita	jīvita	n. 成分	0018a22	命	对译	0177b21	命	
+U216-084	S0444	manobhiḥ	manas	n. nt. pl. instr.	0018a22	意	对译	0177b21	意	
+U216-085	S0444				0018a22	根	增译	0177b21	根	
+U216-086	S0444	śraddhādibhiś	śraddhā-ādi	cpd. nt. pl. instr.	0018a22	信等	对译	0177b21	信等	
+U216-087	S0444	śraddhā	śraddhā	n. 成分	0018a22	信	对译	0177b21	信	
+U216-088	S0444	ādibhiś	ādi	n. nt. pl. instr.	0018a22	等	对译	0177b21	等	
+U216-089	S0444				0018a22	五	增译	0177b21	五	
+U216-090	S0445	ekāntakuśalatvāt	ekānta-kuśala-tva	cpd. nt. sg. abl.	0018a22	一向善	对译	0177b21	一向善	"故"对第五格，前已两例，不另记
+U216-091	S0445	ekānta	ekānta	adj. 成分	0018a22	一向	对译	0177b21	一向	
+U216-092	S0445	kuśala	kuśala	adj. 成分	0018a22	善	对译	0177b21	善	
+U216-094	S0445	śraddhādīni	śraddhā-ādi	cpd. nt. pl. nom.	0018a22	信等	对译	0177b21	信等	
+U216-095	S0445	śraddhā	śraddhā	n. 成分	0018a22	信	对译	0177b21	信	
+U216-096	S0445	ādīni	ādi	n. nt. pl. nom.	0018a22	等	对译	0177b21	等	
+U216-097	S0445				0018a22	五根	增译			
+U216-098	S0445	śubhagrahaṇena	śubha-grahaṇa	cpd. nt. sg. instr.	0018a23	名為善	意译			
+U216-099	S0445	śubha	śubha	adj. 成分	0018a23	善	对译			
+U216-100	S0445	grahaṇena	grahaṇa	n. nt. sg. instr.	0018a23	名為	意译			grahaṇa（取、提及）此指以"善"之名摄取，译"名為"
+U216-101	S0445	gṛhyante	grah	v. pres. pass. 3pl.	0018a23	總	意译			gṛhyante（被摄取）译"總"（總名為善）
+U216-102	S0446				0018a23	若爾	增译	0177b22	若爾	二译皆补"若爾"引出问难
+U216-103	S0446	ājñāsyāmīndriyādīnām	ājñāsyāmi-indriya-ādi	cpd. nt. pl. gen.	0018a23	三無漏根	意译	0177b22	未知欲知等根	ājñāsyāmīndriyādi（未知當知根等）玄奘作"三無漏根"
+U216-104	S0446	ājñāsyāmī	ā-jñā	v. fut. 1sg.			省译	0177b22	欲知	以"三無漏"概括
+U216-105	S0446	ndriyā	indriya	n. 成分	0018a23	根	对译	0177b22	根	
+U216-106	S0446	ādīnām	ādi	n. nt. pl. gen.			省译	0177b22	等	以"三無漏"概括
+U216-107	S0446	grahaṇaprasaṅgaḥ	grahaṇa-prasaṅga	cpd. m. sg. nom.	0018a23	應攝	意译	0177b23	應立	
+U216-108	S0446	grahaṇa	grahaṇa	n. 成分	0018a23	攝	意译	0177b23	立	grahaṇa（取）此指摄入，译"攝"
+U216-109	S0446	prasaṅgaḥ	prasaṅga	n. m. sg. nom.	0018a23	應	意译	0177b23	應	prasaṅga（推论、过失）译"應"
+U216-110	S0446	na	na	ind.	0018a23	不爾	语法	0177b23	不然	否定答语 na 译"不爾"
+U216-111	S0447				0018a23	此中	增译			
+U216-112	S0447	aṣṭādhikārād	aṣṭa-adhikāra	cpd. m. sg. abl.	0018a24	依八	意译	0177b23	立八	"根"为增字；"故"对第五格，前已两例，不另记
+U216-113	S0447	aṣṭā	aṣṭan	num. 成分	0018a24	八	对译	0177b23	八	
+U216-114	S0447	dhikārād	adhikāra	n. m. sg. abl.	0018a24	依	意译	0177b23	立	adhikāra（论题、所论）译"依"
+U216-115	S0447				0018a24	根	增译	0177b23	根	
+U216-116	S0447	dvālādhikārāc	bāla-adhikāra	cpd. m. sg. abl.	0018a24	說愚	意译	0177b23	依凡夫	GRETIL 本作 dvālādhikārāc，当读 bālādhikārāc
+U216-117	S0447	dvālā	bāla	adj. 成分	0018a24	愚	对译	0177b23	凡夫	GRETIL 本作 dvāla
+U216-118	S0447	dhikārāc	adhikāra	n. m. sg. abl.	0018a24	說	意译	0177b23	依	adhikāra（论题）此处译"說"
+U216-120	S0447				0018a24	生無色界	增译			补出颂文"生無色界"
+U216-121	S0448	yaḥ sarvabahubhirindriyaiḥ samanvāgataḥ sa	yad … tad	gram. rel.-cor.	0018a24	者	语法	0177b24	若人	
+U216-122	S0448				0018a24	諸	增译			
+U216-123	S0448	sarvabahubhir	sarva-bahu	cpd. nt. pl. instr.	0018a24	極多	意译	0177b24	極多	sarvabahu（最多）译"極多"
+U216-124	S0448	sarva	sarva	adj. 成分	0018a24	極	意译	0177b24	極	
+U216-125	S0448	bahubhir	bahu	adj. nt. pl. instr.	0018a24	多	对译	0177b24	多	
+U216-126	S0448	indriyaiḥ	indriya	n. nt. pl. instr.	0018a25	根	对译	0177b24	根	玄奘置于"幾"后
+U216-127	S0448	samanvāgataḥ	samanvāgata	ptc. m. sg. nom. (√sam-anu-ā-gam)	0018a25	成就	对译	0177b24	相應	
+U216-128	S0448	kiyadbhiḥ	kiyat	pron. nt. pl. instr.	0018a25	幾	对译	0177b24	幾	

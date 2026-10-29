@@ -1,0 +1,11 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U208-022	S0251	bhinnakramaśca	ca	ind.			省译			
+U208-028	S0252	nahi	na	ind.	0016b06	非	语法	0175c07	無	
+U208-029	S0252	nahi	hi	ind.			省译			
+U208-032	S0252	avyākṛtamasti	as	v. pres. 3sg.			省译			
+U208-034	S0252	nāpy	na	ind.	0016b07	非	语法	0175c08	無	
+U208-035	S0252	nāpy	api	ind.	0016b07	亦	语法	0175c08	亦	
+U208-039	S0252	asamāhitatvāt	-tva (abstract)	gram. suffix			省译			抽象后缀未译
+U208-040	S0252	asamāhitatvāt	abl.	gram. abl. (-āt)	0016b07	故	语法	0175c08	故	第五格表原因
+U208-041	S0253	ato	atas	ind.	0016b07	由此	语法	0175c08	是故	
+U208-044	S0253	nāsty	as	v. pres. 3sg.	0016b08	有	对译			双重否定改作肯定，asti 译"有"

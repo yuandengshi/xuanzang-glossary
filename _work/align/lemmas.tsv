@@ -1,35 +1,45 @@
 lemma	class	count	renderings	variants	status	note
 1pl.	gram.	1	我 1		已登记	
-1sg.	gram.	2	我 1；（未译） 1		已登记	
+1sg.	gram.	5	（未译） 3；我 2		已登记	
+2sg.	gram.	1	汝 1		已登记	
 3pl.	gram.	2	者 2		已登记	
 a- (neg.)	gram.	2	非 1；不 1	a (neg.)	已登记	
-a-bhāva	n.	12	無 8；非有 2；滅 2	abhāva	已登记	
+a-bheda	n.	1	總 1	abheda	已登记	
+a-bhāva	n.	16	無 11；非有 2；滅 2；無有 1	abhāva	已登记	
 a-bhāva-prasaṅga	cpd.	2	應無 1；應非有 1	abhāva-prasaṅga	已登记	
 a-cittaka	adj.	2	無心 2	acittaka	已登记	
 a-codya	gdv.	1	非難 1	acodya	已登记	
 a-darśana	n.	1	無見 1	adarśana	已登记	
 a-deśa-stha	adj.	1	無方處 1	adeśa-stha	已登记	
 a-doṣa	n.	2	無失 1；斯有何失 1	adoṣa	已登记	
-a-duḥkha	adj.	1	不苦 1	aduḥkha	已登记	
-a-duḥkha-a-sukha	cpd.	1	不苦不樂 1	aduḥkha-a-sukha	已登记	
+a-duḥkha	adj.	3	不苦 3	aduḥkha	已登记	
+a-duḥkha-a-sukha	cpd.	3	不苦不樂 3	aduḥkha-a-sukha	已登记	
 a-dvaidhī-karaṇa	cpd.	1	非…令成二 1	advaidhī-karaṇa	已登记	
 a-dṛśya	gdv.	1	不可見 1	adṛśya	已登记	
 a-dṛśya-deśa	cpd.	1	不可見處 1	adṛśya-deśa	已登记	
 a-dṛśya-tva	n.	1	不可見 1	adṛśya-tva	已登记	
 a-dṛṣṭa	ptc.	1	非…見 1	adṛṣṭa	已登记	
+a-gati	n.	1	無逃難處 1	agati	已登记	
 a-grahaṇa	n.	2	不…取 1；不嗅 1	agrahaṇa	已登记	
-a-heya	gdv.	2	非所斷 2	aheya	已登记	
+a-heya	gdv.	4	非所斷 3；非 1	aheya	已登记	
 a-hīna	ptc.	2	不減 2	ahīna	已登记	
 a-hīna-indriya	cpd.	2	不減…根 1；不減 1	ahīna-indriya	已登记	
 a-jñāna	n.	2	無知 2	ajñāna	已登记	
 a-kliṣṭa	adj.	7	不染 4；無染 2；不染污 1	akliṣṭa	已登记	
-a-kliṣṭa-avyākṛta	cpd.	1	不染污…無記 1	akliṣṭa-avyākṛta	已登记	
-a-kuśala	adj.	10	不善 8；（未译） 2	akuśala	已登记	
+a-kliṣṭa-a-vyākṛta	cpd.	1	不染污…無記 1	akliṣṭa-a-vyākṛta；a-kliṣṭa-avyākṛta	已登记	
+a-kuśala	adj.	19	不善 13；（未译） 3；惡 2；不善法 1	akuśala	已登记	
+a-kuśala-a-bhāva	cpd.	1	無有不善法 1	akuśala-a-bhāva	已登记	
+a-kānta	ptc.	1	醜陋 1	akānta	已登记	
+a-kānta-rūpa-tva	cpd.	1	身醜陋 1	akānta-rūpa-tva	已登记	
 a-labdha	ptc.	1	未得 1	alabdha	已登记	
+a-labdha-vihīna-cakṣus	cpd.	1	未得眼根及得已失 1	a-labdha-vihīna-cakṣur；alabdha-vihīna-cakṣus	已登记	
 a-lobha	n.	3	無貪 3	alobha	已登记	
 a-lobha-svabhāva-tva	cpd.	1	無貪性 1	alobha-svabhāva-tva	已登记	
 a-lobha-ādi-saṃprayukta	cpd.	1	與無貪等相應 1	a-lobha-ādi-saṃ-pra-yukta；alobha-ādi-saṃprayukta	已登记	
 a-lobha-ādi-svabhāva-saṃprayukta-samuttha	cpd.	1	無貪等性相應等起 1	a-lobha-ādi-svabhāva-saṃ-pra-yukta-samuttha；alobha-ādi-svabhāva-saṃprayukta-samuttha	已登记	
+a-lābhin	adj.	1	未得 1	alābhin	已登记	
+a-mala	adj.	8	淨 4；無漏 3；後三 1	amala	已登记	
+a-mala-varjita	cpd.	1	除…淨 1	amala-varjita	已登记	
 a-manojña	adj.	1	不可意 1	amanojña	已登记	
 a-manāpa	adj.	1	非可意 1	amanāpa	已登记	
 a-megha	adj.	1	無雲 1	amegha	已登记	
@@ -42,39 +52,52 @@ a-niruddha	ptc.	1	未謝 1	aniruddha	已登记
 a-nitya	adj.	2	無常 2	anitya	已登记	
 a-nityatā	n.	2	無常 2	anityatā	已登记	
 a-nityatā-niruddha	cpd.	1	無常已滅 1	anityatā-niruddha	已登记	
-a-niyama	n.	1	不定 1	aniyama	已登记	
+a-niyama	n.	2	不定 2	aniyama	已登记	
 a-niyata	ptc.	4	不定 4	aniyata	已登记	
 a-niyata-viṣaya	cpd.	1	境不定 1	aniyata-viṣaya	已登记	
 a-pari-jñā	abs.	1	未知 1	apari-jñā	已登记	
 a-parimāṇa	adj.	1	無量 1	aparimāṇa	已登记	
 a-pra-hā	abs.	1	未斷 1	apra-hā	已登记	
+a-prahātavya	gdv.	1	非所斷 1	aprahātavya	已登记	
 a-pramāṇa	n.	1	無量 1	apramāṇa	已登记	
 a-prasaṅga	n.	1	無…過 1	aprasaṅga	已登记	
 a-pratibandha	n.	1	無隔 1	apratibandha	已登记	
 a-pratigha	adj.	6	無對 4；無礙 2	apratigha	已登记	
 a-pratigha-tva	n.	1	無對 1	apratigha-tva	已登记	
 a-pratighāta	n.	1	無礙 1	apratighāta	已登记	
+a-pratilabdha	ptc.	2	未得 2	apratilabdha	已登记	
+a-pratilabdha-vihīna	cpd.	2	未得已失 2	apratilabdha-vihīna	已登记	
 a-pratisaṃkhyā	n.	4	非擇 4	apratisaṃkhyā	已登记	
 a-pratisaṃkhyā-nirodha	cpd.	3	非擇滅 3	apratisaṃkhyā-nirodha	已登记	
+a-pratisaṃyukta	ptc.	1	不繫 1	apratisaṃyukta	已登记	
+a-pratiṣiddha	ptc.	1	非遮 1	apratiṣiddha	已登记	
 a-pratiṣṭhita	ptc.	1	住無 1	apratiṣṭhita	已登记	
+a-pravartita	ptc.	1	未轉 1	apravartita	已登记	
 a-pravṛtti	n.	1	不轉 1	apravṛtti	已登记	
 a-prāpta	ptc.	10	不至 7；非至 1；對…時 1；未至 1	aprāpta	已登记	
 a-prāpta-viṣaya	cpd.	3	境…不至 1；非至境 1；不至色 1	aprāpta-viṣaya	已登记	
 a-pādaka	adj.	1	無足 1	apādaka	已登记	
+a-pūrva	adj.	2	未曾 2	apūrva	已登记	
 a-rūpa-śabdaka	cpd.	2	除色聲 1；除色及聲 1	arūpa-śabdaka	已登记	
 a-rūpaṇa	n.	1	無變礙 1	arūpaṇa	已登记	
 a-rūpi-tva	n.	1	無色 1	arūpi-tva	已登记	
 a-rūpin	adj.	1	無色 1	arūpin	已登记	
 a-sabhāga	adj.	2	無同類 1；與此相違 1	asabhāga	已登记	
-a-samanvāgata	ptc.	1	不成就 1	asamanvāgata	已登记	
+a-samanvāgata	ptc.	3	不成就 3	asamanvāgata	已登记	
+a-samaya	n.	1	不時 1	asamaya	已登记	
+a-samaya-vimukta	cpd.	1	不時解脫 1	asamaya-vimukta	已登记	
+a-samucchinna	ptc.	1	不斷 1	asamucchinna	已登记	
+a-samucchinna-kuśala-mūla	cpd.	1	不斷善根 1	asamucchinna-kuśala-mūla	已登记	
+a-samudācāra	n.	1	無容有 1	asamudācāra	已登记	
 a-samāhita	ptc.	2	非定 1；散 1	asamāhita	已登记	
+a-samāhita-tva	n.	1	散地 1	asamāhita-tva	已登记	
 a-samāna	adj.	1	不齊 1	asamāna	已登记	
 a-samāyukta	ptc.	1	無…屬 1	asamāyukta	已登记	
 a-santīraka-tva	n.	1	不…決度 1	asantīraka-tva	已登记	
 a-sat	ptc.	1	無 1	asat	已登记	
 a-sattva	n.	2	非有情 2	asattva	已登记	
 a-sattva-ākhya	cpd.	1	非有情名 1	asattva-ākhya	已登记	
-a-saṃbhava	n.	1	無 1	asaṃbhava	已登记	
+a-saṃbhava	n.	2	無 2	asaṃbhava	已登记	
 a-saṃcita	ptc.	1	非積集 1	asaṃcita	已登记	
 a-saṃgraha	n.	1	非…攝 1	asaṃgraha	已登记	
 a-saṃjñi-sattva	cpd.	1	無想有情 1	asaṃjñi-sattva	已登记	
@@ -85,49 +108,71 @@ a-saṃprayukta	ptc.	2	非相應 2	a-saṃ-pra-yukta；asaṃprayukta	已登记
 a-saṃprayuktaka	adj.	1	不相應 1	asaṃprayuktaka	已登记	
 a-saṃskṛta	ptc.	15	無為 14；（未译） 1	asaṃskṛta	已登记	
 a-saṃskṛta-skandha	cpd.	1	無為蘊 1	asaṃskṛta-skandha	已登记	
+a-saṃvara	n.	1	不律儀 1	asaṃvara	已登记	
+a-saṃvara-ānantarya-kuśala-mūla-samuccheda	cpd.	1	不律儀無間斷善 1	asaṃvara-ānantarya-kuśala-mūla-samuccheda	已登记	
 a-siddha	ptc.	1	不成 1	asiddha	已登记	
 a-sphuṭa	adj.	1	非…遍 1	asphuṭa	已登记	
 a-spṛṣṭa	ptc.	6	非觸 5；不觸 1	aspṛṣṭa	已登记	
 a-spṛṣṭa-hetuka	cpd.	3	非觸為因 3	aspṛṣṭa-hetuka	已登记	
-a-sukha	adj.	1	不樂 1	asukha	已登记	
+a-sthāna	n.	1	無處 1	asthāna	已登记	
+a-sukha	adj.	3	不樂 3	asukha	已登记	
+a-sādhāraṇa	adj.	3	不共 3	asādhāraṇa	已登记	
+a-sādhāraṇa-kāraṇa-tva	cpd.	3	不共事 3	asādhāraṇa-kāraṇa-tva	已登记	
 a-sādhāraṇa-tva	n.	5	不共 5	asādhāraṇa-tva	已登记	
 a-trāṇa	adj.	1	無救 1	atrāṇa	已登记	
 a-tulya	adj.	1	不等量 1	atulya	已登记	
 a-tīraṇa	n.	2	不度 1；不…決度 1	atīraṇa	已登记	
 a-vaibhāṣikīya	adj.	1	非符順毘婆沙義 1	avaibhāṣikīya	已登记	
 a-vicāra	adj.	6	無伺 5；尋伺俱無 1	avicāra	已登记	
+a-vidyā	n.	4	無明 4	avidyā	已登记	
+a-vidyā-ādi	cpd.	3	無明等 3	avidyā-ādi	已登记	
 a-vihīna	ptc.	1	不失 1	avihīna	已登记	
 a-vijñapti	n.	19	無表 17；無表色 1；（未译） 1	avijñapti	已登记	
 a-vijñapti-a-saṃskṛta	cpd.	1	無表無為 1	avijñapti-a-saṃskṛta	已登记	
 a-vijñapti-nivṛtti	cpd.	1	無表…滅 1	avijñapti-nivṛtti	已登记	
+a-vijñapti-paryanta	cpd.	1	無表為後 1	avijñapti-paryanta	已登记	
+a-vijñapti-saṃjñaka	cpd.	1	無表 1	avijñapti-saṃjñaka	已登记	
 a-vijñapti-varjya	cpd.	2	除無表 2	avijñapti-varjya	已登记	
+a-vijñapti-āśraya	cpd.	1	所依 1	avijñapti-āśraya	已登记	
 a-vikala	adj.	2	無支缺 1；（未译） 1	avikala	已登记	
 a-vikalpaka	adj.	3	無分別 3	avikalpaka	已登记	
+a-vikalpana	n.	2	無別 1；無異 1	avikalpana	已登记	
+a-vikalpayat	ptc.	1	無分別 1	avikalpayat	已登记	
 a-vikāra	n.	1	無變礙 1	avikāra	已登记	
 a-vikṣipta	ptc.	1	不亂 1	avikṣipta	已登记	
 a-vikṣipta-sa-citta	cpd.	1	不亂有心 1	avikṣipta-sa-citta	已登记	
+a-vimukta	ptc.	1	未解脫 1	avimukta	已登记	
+a-vimukta-citta	cpd.	1	心未解脫 1	avimukta-citta	已登记	
 a-vinirbhāga	n.	1	不離 1	avinirbhāga	已登记	
 a-vinirbhāga-vartin	cpd.	1	不離 1	avinirbhāga-vartin	已登记	
 a-vinirbhāgin	adj.	1	不離 1	avinirbhāgin	已登记	
 a-viparīta	ptc.	1	無倒 1	aviparīta	已登记	
 a-vipratipatti	n.	1	非迷 1	avipratipatti	已登记	
+a-vipāka	adj./n.	11	無異熟 5；非異熟 3；異熟 1；二類 1；（未译） 1	avipāka	已登记	
 a-virodha	n.	1	無妨 1	avirodha	已登记	
 a-vitarka	adj.	8	無尋 7；尋伺俱無 1	avitarka	已登记	
 a-viyukta	ptc.	1	被縛 1	aviyukta	已登记	
 a-viṣaya-tva	n.	1	非…所緣境 1	aviṣaya-tva	已登记	
+a-vyañjana	adj.	3	無形 3	avyañjana	已登记	
 a-vyākaraṇa	n.	2	不可記 1；不能記 1	avyākaraṇa	已登记	
-a-vyākṛta	ptc.	9	無記 8；（未译） 1	avyākṛta	已登记	
+a-vyākṛta	ptc./adj.	17	無記 15；（未译） 2	avyākṛta	已登记	
+a-vīta	ptc.	1	未離 1	avīta	已登记	
+a-vīta-rāga	cpd.	1	未離欲貪 1	avīta-rāga	已登记	
 a-yoga	n.	4	不相應 4	ayoga	已登记	
-a-śaikṣa	adj./n.	4	無學 4	aśaikṣa	已登记	
+a-yukta	ptc.	1	不應 1	ayukta	已登记	
+a-śaikṣa	adj./n.	8	無學 8	aśaikṣa	已登记	
+a-śaikṣa-mārga	cpd.	2	無學道 2	aśaikṣa-mārga	已登记	
 a-śakta	ptc.	1	非能 1	aśakta	已登记	
-a-śobhā-kara	adj.	2	醜陋 2	aśobhā-kara	已登记	
-a-śobhā-kara-tva	cpd.	1	醜陋 1	aśobhā-kara-tva	已登记	
+a-śobhā-kara	adj.	3	醜陋 3	aśobhā-kara	已登记	
+a-śobhā-kara-tva	cpd.	2	醜陋 2	aśobhā-kara-tva	已登记	
 a-śravaṇa	n.	1	不聞 1	aśravaṇa	已登记	
 a-śubha	adj.	2	不淨 2	aśubha	已登记	
+a-śāta	adj.	4	不悅 4	aśāta	已登记	
 a-ṣaṣṭha	num.	4	非六 3；（未译） 1	aṣaṣṭha	已登记	
 a-ṣaṣṭha-ja	cpd.	4	非六生 3；（未译） 1	aṣaṣṭha-ja	已登记	
 abhi-dhāv	v.	1	固求 1		已登记	
 abhi-ni-viś	v.	1	堅執 1		已登记	
+abhi-sam-as	abs.	1	總 1		已登记	
 abhi-sam-kṛ	v.	1	造作 1		已登记	
 abhi-sam-kṣip	abs.	3	略為 2；略 1		已登记	
 abhi-svañj	v.	1	貪著 1		已登记	
@@ -135,7 +180,8 @@ abhi-upa-gam	v.	1	許 1		已登记
 abhi-upa-i	inf.	1	執 1		已登记	
 abhibhū	adj.	2	勝 2	abhibhu	已登记	
 abhibhū-āyatana	cpd.	2	勝處 2	abhibhu-āyatana	已登记	
-abhidharma	n.	17	對法 14；阿毘達磨 3		已登记	
+abhibhūta	ptc.	1	苦逼 1		已登记	
+abhidharma	n.	18	對法 14；阿毘達磨 4		已登记	
 abhidharma-kośa	cpd.	4	對法藏 3；對法俱舍 1		已登记	
 abhidharma-upadeśa	cpd.	3	說對法 2；說…阿毘達磨 1		已登记	
 abhidharma-śāstra	cpd.	1	論 1		已登记	
@@ -150,6 +196,7 @@ abhinirūpaṇā	n.	1	計度 1		已登记
 abhinirūpaṇā-vikalpa	cpd.	1	計度分別 1		已登记	
 abhiniveṣṭavya	gdv.	1	封著 1		已登记	
 abhiniṣpatti	n.	1	發 1		已登记	
+abhiprāya	n.	3	志樂 2；欲令 1		已登记	
 abhirāma	adj.	1	愛樂 1		已登记	
 abhisandhi	n.	1	（未译） 1		已登记	
 abhisaṃskaraṇa	n.	1	造作 1		已登记	
@@ -158,6 +205,8 @@ abhra	n.	1	雲 1		已登记
 abhrapaṭala	n.	1	雲母 1		已登记	
 abhyantara	n.	4	中 2；內 2		已登记	
 abhyatīta	ptc.	1	滅 1		已登记	
+abhyavaharaṇa	n.	1	吞 1		已登记	
+abhyavaharaṇa-carvaṇa-unmeṣa-nimeṣa-ākuñcana-vikāsana-kriyā	cpd.	1	吞嚼開閉屈申 1		已登记	
 abhyavahāra	n.	2	食 2		已登记	
 abhyavahāra-vīta-rāga	cpd.	1	離食欲 1		已登记	
 abhyuddhṛtavat	ptc.	1	拔濟…出 1		已登记	
@@ -166,24 +215,28 @@ abhyupagantavya	gdv.	1	許 1		已登记
 abhyupāya	n.	2	勝方便 2		已登记	
 abhyāhata	ptc.	1	擊…拊 1		已登记	
 abhyūhitavya	gdv.	1	思 1		已登记	
-abl.	gram.	57	故 18；由…故 8；以…故 7；由 4；從 3		已登记	
-abl. compar.	gram.	3	待 1；過 1；異前 1		已登记	
-abs.	gram.	4	由 1；若 1；（未译） 1；已 1		已登记	
+abl.	gram.	78	故 26；由…故 11；以…故 7；從 6；（未译） 5		已登记	
+abl. compar.	gram.	4	（未译） 1；待 1；過 1；異前 1		已登记	
+abs.	gram.	10	已 4；（未译） 2；因 1；方 1；由 1		已登记	
 accha	adj.	1	清澈 1		已登记	
 accha-carman-avacchādita	cpd.	1	清澈映覆 1		已登记	
-accha-tva	n.	3	淨妙 2；清澈 1		已登记	
+accha-tva	n.	4	淨妙 3；清澈 1		已登记	
 act.	gram.	3	能 3		已登记	
 ad	v.	1	吞食 1		已登记	
-adas	pron.	4	（未译） 2；聲 2		已登记	
+adas	pron.	6	（未译） 4；聲 2		已登记	
 adhara	adj.	9	下 7；欲界 1；屬欲界 1		已登记	
 adhara-bhūmika	cpd.	4	下 3；下地 1		已登记	
 adhara-sva-bhūmi	cpd.	1	自下地 1		已登记	
 adhas	ind.	5	下 3；次 2	adho	已登记	
 adhas-bhūmika	cpd.	1	下 1	adho-bhūmika	已登记	
 adhastāt	ind.	1	下 1		已登记	
-adhi-kṛ	abs.	1	所表 1		已登记	
-adhikāra	n.	1	（未译） 1		已登记	
-adhiṣṭhāna	n.	7	依處 5；所依 1；根處 1		已登记	
+adhi-jñā	v.	1	知 1		已登记	
+adhi-kṛ	abs.	4	依 3；所表 1		已登记	
+adhi-sthā	v./abs.	2	留 2		已登记	
+adhika	adj.	3	加 1；勝 1；最勝 1		已登记	
+adhikāra	n.	4	（未译） 2；依 1；說 1		已登记	
+adhiṣṭhita	ptc.	2	留 2		已登记	
+adhiṣṭhāna	n.	9	依處 5；留 2；所依 1；根處 1		已登记	
 adhiṣṭhāna-bhāva	cpd.	1	為依處 1		已登记	
 adhvan	n.	5	世路 2；世 1；（未译） 1；三世 1		已登记	
 adhyavasāna	n.	2	著 2		已登记	
@@ -193,23 +246,24 @@ agha	n.	3	阿伽 3		已登记
 agha-sāmantaka	cpd.	1	隣阿伽 1		已登记	
 agni	n.	2	火 2		已登记	
 agra	n./adj.	5	增上 2；端 2；第一 1		已登记	
-ah	v.	28	說 7；頌曰 6；（未译） 5；言 3；謂 2		已登记	
-aham	pron.	3	我 2；（未译） 1		已登记	
+ah	v.	37	說 12；頌曰 6；（未译） 5；言 3；作如是說 2		已登记	
+aham	pron.	10	我 8；（未译） 2		已登记	
 ahaṅkāra	n.	1	我執 1		已登记	
 ahaṅkāra-sanniśraya-tva	cpd.	1	我執依止 1		已登记	
 aikadhya	n.	3	一聚 3		已登记	
+airyāpathika	adj.	1	威儀路 1		已登记	
+airyāpathika-śailpasthānika-nairmāṇika	cpd.	1	威儀路及工巧處并能變化 1		已登记	
+aiśvarya	n.	2	自在 2		已登记	
 ajājī	n.	1	香荾 1		已登记	
 ajājī-puṣpa	cpd.	1	香荾花 1		已登记	
 -aka (agent)	gram.	2	能 2		已登记	
-akṣi	n.	2	眼 2		已登记	
+akṣi	n.	3	眼 3		已登记	
 akṣi-stha	cpd.	1	眼中 1		已登记	
 akṣi-tārakā	cpd.	1	眼星 1		已登记	
-alabdha-vihīna-cakṣus	cpd.	1	未得眼根及得已失 1	alabdha-vihīna-cakṣur	已登记	
-alpa	adj.	1	少 1		已登记	
+alpa	adj.	6	少 6		已登记	
 alpīyas	adj.	2	減 1；小 1		已登记	
 alāta	n.	1	旋火 1		已登记	
 alāta-cakra-ādi	cpd.	1	旋火輪 1		已登记	
-amala	adj.	2	淨 2		已登记	
 ambu	n.	1	水 1		已登记	
 amla	adj.	1	醋 1		已登记	
 amutra	ind.	2	在彼 1；彼 1		已登记	
@@ -217,16 +271,20 @@ an-abhi-jñā	abs.	1	未達 1	anabhi-jñā	已登记
 an-adhvan	adj.	1	無為 1	anadhvan	已登记	
 an-anta	adj.	2	無邊 2	ananta	已登记	
 an-anta-prabheda	cpd.	1	無邊差別 1	ananta-prabheda	已登记	
-an-antara	adj.	2	無間 1；（未译） 1	anantara	已登记	
+an-antara	adj.	4	次前 1；前 1；無間 1；（未译） 1	anantara	已登记	
 an-antara-atīta	cpd.	1	無間滅 1	anantara-atīta	已登记	
-an-antara-ukta	cpd.	1	（未译） 1	anantara-ukta	已登记	
+an-antara-ukta	cpd.	3	次前所說 1；前所諍 1；（未译） 1	anantara-ukta	已登记	
+an-anya-tva	n.	1	無異 1	ananya-tva	已登记	
+an-avakāśa	n.	1	無容 1	anavakāśa	已登记	
 an-eka	adj.	3	多 2；無量 1	aneka	已登记	
 an-eka-dravya-samūha-tva	cpd.	1	多實積集共所成 1	aneka-dravya-samūha-tva	已登记	
 an-eka-santāna-vaśa	cpd.	1	依多相續 1	aneka-santāna-vaśa	已登记	
+an-eka-varṇa-saṃsthāna	cpd.	1	無量顯形 1	aneka-varṇa-saṃsthāna	已登记	
 an-indriya	adj.	1	根無 1	anindriya	已登记	
 an-ukta	ptc.	1	未說 1	anukta	已登记	
 an-upaghāta	n.	1	無損 1	anupaghāta	已登记	
 an-upaghāta-mātra	cpd.	1	唯無損 1	anupaghāta-mātra	已登记	
+an-upastabdha	ptc.	1	無 1	anupastabdha	已登记	
 an-upātta	ptc.	10	無執受 10	anupātta	已登记	
 an-upātta-mahābhūta-hetuka	cpd.	1	無執受大種為因 1	anupātta-mahābhūta-hetuka	已登记	
 an-utpanna	ptc.	2	未…生 1；不生 1	anutpanna	已登记	
@@ -236,112 +294,141 @@ an-utpatti-dharmaka	cpd.	1	不生法 1	anutpatti-dharmaka	已登记
 an-utpatti-dharman	cpd.	2	不生法 1；不生…法 1	anutpatti-dharman	已登记	
 an-utpatti-dharmatva	cpd.	1	不生法 1	anutpatti-dharmatva	已登记	
 an-utpatti-dharmin	cpd.	3	不生法 3	anutpatti-dharmin	已登记	
+an-utpāda	n.	1	無生 1	anutpāda	已登记	
 an-ādimat	adj.	1	無始 1	anādimat	已登记	
 an-āgata	ptc.	10	未來 8；來 1；（未译） 1	anāgata	已登记	
 an-āgata-pratyutpanna	cpd.	2	現在未來 1；未來現在 1	anāgata-pratyutpanna	已登记	
-an-ājñāta	ptc.	1	未知 1	anājñāta	已登记	
+an-āgāmin	adj.	5	不還 4；（未译） 1	anāgāmin	已登记	
+an-āgāmin-phala	cpd.	3	不還果 3	anāgāmin-phala	已登记	
+an-ājñāta	ptc.	3	未知 2；未曾知 1	anājñāta	已登记	
 an-ālambana	adj.	2	無所緣 2	anālambana	已登记	
-an-āsrava	adj.	20	無漏 19；（未译） 1	anāsrava	已登记	
+an-āsrava	adj.	33	無漏 32；（未译） 1	anāsrava	已登记	
 an-āsrava-saṃskṛta	cpd.	1	無漏有為 1	anāsrava-saṃskṛta	已登记	
+an-āsrava-tva	n.	1	無漏 1	anāsrava-tva	已登记	
 an-ātman	adj.	1	無我 1	anātman	已登记	
 an-āvaraṇa	n.	1	無礙 1	anāvaraṇa	已登记	
 an-āvaraṇa-svabhāva	cpd.	1	以無礙為性 1	anāvaraṇa-svabhāva	已登记	
 an-āvṛti	n.	1	無礙 1	anāvṛti	已登记	
 anantaram	ind.	1	後 1		已登记	
+andha	adj.	1	盲 1		已登记	
+andha-badhira	cpd.	1	盲聾 1		已登记	
 andhakāra	n.	9	冥 5；闇 4		已登记	
-aneka-varṇa-saṃsthāna	cpd.	1	無量顯形 1		已登记	
 anta	n.	2	邊際 1；為後 1		已登记	
 anta-kriyā	cpd.	1	作…邊際 1		已登记	
 antar-bhū	v.	1	收 1		已登记	
 antar-nī	inf.	1	在…中 1		已登记	
-antara	n./adj.	6	中間 3；餘 2；別 1		已登记	
+antara	adj./n.	10	中間 3；餘 2；離 1；（未译） 1；暫 1		已登记	
 antarbhāva	n.	1	攝 1		已登记	
 antarbhūta	ptc.	2	所攝 1；入…攝 1		已登记	
 antareṇa	ind.	1	離 1		已登记	
 antarita	ptc.	3	障 2；所障 1		已登记	
 antika	adj.	4	近 4		已登记	
-antya	adj.	4	後 4		已登记	
-anu-grah	v.	1	攝益 1		已登记	
-anu-śī	v.	3	隨增 3		已登记	
+antya	adj.	9	後 6；邊 2；（未译） 1		已登记	
+antya-aṣṭaka	cpd.	1	後八 1		已登记	
+antya-phala	cpd.	2	邊…果 1；（未译） 1		已登记	
+anu-grah	v.	2	益 1；攝益 1		已登记	
+anu-śī	v.	4	隨增 4		已登记	
 anubandha	n.	2	隨流 2		已登记	
 anubhava	n.	2	領納 2		已登记	
 anubhūta	ptc.	2	所識 1；所受 1		已登记	
 anugraha	n.	2	增 1；益 1		已登记	
 anugraha-upaghāta	cpd.	1	損益 1		已登记	
 anugraha-upaghāta-paṭu-mandatā-anuvidhāna	cpd.	1	隨…增損…明昧 1		已登记	
-anugrāhaka	adj.	1	益 1		已登记	
+anugrāhaka	adj.	2	攝益 1；益 1		已登记	
 anukampamāna	ptc.	1	哀愍 1		已登记	
-anukrama	n.	3	次第 2；（未译） 1		已登记	
+anukrama	n.	4	次第 3；（未译） 1		已登记	
+anukūla	adj.	1	順 1		已登记	
+anunaya	n.	1	愛 1		已登记	
+anunaya-sahagata	cpd.	1	愛俱 1		已登记	
 anusmaraṇa	n.	3	隨念 3		已登记	
 anusmaraṇa-vikalpa	cpd.	1	隨念分別 1		已登记	
+anuvartana	n.	2	隨行 2		已登记	
 anuvarṇita	ptc.	1	如實 1		已登记	
-anuvidhāna	n.	2	隨 2		已登记	
+anuvidhāna	n.	3	隨 3		已登记	
 anuvṛtta	ptc.	1	順 1		已登记	
-anuśaya	n.	3	隨眠 3		已登记	
+anuśaya	n.	4	隨眠 4		已登记	
 anuśaya-nirdeśa	cpd.	2	隨眠品 2		已登记	
 anuśayana	n.	1	隨增眠 1		已登记	
 anuśayita	ptc.	1	隨增 1		已登记	
+anuśāyin	adj.	1	隨眠…隨增 1		已登记	
 anvartha	adj.	1	隨義 1		已登记	
 anvartha-paryāya	cpd.	1	隨義別名 1		已登记	
 anvaya	n.	1	（未译） 1		已登记	
-anya	pron.	52	餘 26；所餘 4；（未译） 4；離 2；異 2		已登记	
+anvita	ptc.	3	（未译） 2；成就 1		已登记	
+anya	pron.	70	餘 30；（未译） 8；異 5；所餘 5；別 3		已登记	
 anya-bhūmika	cpd.	1	（未译） 1		已登记	
 anya-cakṣus-vijñāna	cpd.	1	他…眼識 1	anya-cakṣur-vijñāna；anya-cakṣurvijñāna	已登记	
 anya-kāraṇa-vaikalya	cpd.	1	闕餘緣 1		已登记	
+anya-paryāya-dyotana-artha	cpd.	1	為顯…異門 1		已登记	
 anya-vijñāna-samaṅgin	cpd.	1	餘識行時 1		已登记	
+anya-vitti-grahaṇa	cpd.	1	（未译） 1		已登记	
+anya-vitti-śraddhā-ādi	cpd.	1	餘受信等 1		已登记	
 anyadā	ind.	1	餘 1		已登记	
-anyathā	ind.	8	若不爾者 3；相違 2；若異此者 2；若 1		已登记	
+anyatama	pron./adj.	4	隨…一 2；隨一 1；等物 1		已登记	
+anyatara	pron.	1	已知根…未知根 1		已登记	
+anyatara-anyatara	pron.	1	隨一 1		已登记	
+anyatara-anyatara-citta	cpd.	1	隨一 1		已登记	
+anyathā	ind.	15	各異 4；若不爾者 3；相違 2；若異此者 2；異相 1		已登记	
 anyathībhāva	n.	1	閉…觸 1		已登记	
-anyatra	ind.	3	除 1；異 1；餘處 1		已登记	
-anyonya	pron.	5	相 2；更相 2；展轉更相 1		已登记	
+anyatra	ind.	6	餘處 2；除 2；異處 1；異 1		已登记	
+anyonya	pron.	6	相 2；更相 2；隨 1；展轉更相 1		已登记	
 anyonya-anuvidhāna	cpd.	1	展轉更相隨 1		已登记	
 anyonya-bhajana	cpd.	1	更相交涉 1		已登记	
 anyonya-āvaraṇa	cpd.	1	更相障 1		已登记	
 anyonyam	ind.	1	更相 1		已登记	
-anājñātam-ājñāsyāmi-indriya	cpd.	1	未知當知根 1		已登记	
+anājñātam-ājñāsyāmi-indriya	cpd.	2	未知當知根 2		已登记	
 ap	n.	6	水 5；（未译） 1		已登记	
 ap-dhātu	cpd.	2	水界 1；水…界 1		已登记	
 ap-tejas-vāyu-dhātu	cpd.	1	界…水火風 1		已登记	
 apa-īkṣ	abs./v.	4	觀 2；待 1；（未译） 1		已登记	
-apara	pron.	14	有 8；有說 2；有餘師 2；有餘 1；或 1		已登记	
+apa-ūh	abs.	1	除 1		已登记	
+apagama	n.	1	捨 1		已登记	
+apara	pron.	21	有 10；有餘師 6；有說 2；更 1；有餘 1		已登记	
 apavāda	n.	1	別 1		已登记	
+apekṣa	adj.	1	待 1		已登记	
 apekṣā	n.	1	所待 1		已登记	
 apekṣā-bheda	cpd.	1	所待異 1		已登记	
-api	ind.	50	亦 14；（未译） 9；雖 6；又 4；及 2		已登记	
+api	ind.	69	亦 22；（未译） 13；雖 6；又 5；或 4		已登记	
 api tu	ind.	2	唯 1；雖…而 1		已登记	
 api-śabda	cpd.	1	等，言 1		已登记	
+apāya	n.	1	惡趣 1		已登记	
 araṇā	n.	1	無諍 1		已登记	
 ardha	n.	6	半 2；一分 2；全 1；（未译） 1		已登记	
 ardha-candra	cpd.	1	半月 1		已登记	
 ardha-nimīlita	cpd.	1	觸 1		已登记	
 arh	v.	2	應 2		已登记	
-arhat	n.	1	無學 1		已登记	
-artha	n.	58	義 38；境 10；（未译） 6；義類 1；勝義 1		已登记	
+arha	adj.	1	（未译） 1		已登记	
+arhat	n.	5	阿羅漢 4；無學 1		已登记	
+arhat-tva	n.	5	阿羅漢 5		已登记	
+artha	n.	75	義 45；境 13；（未译） 7；為 2；事 2		已登记	
 artha-a-yoga	cpd.	4	義不相應 4		已登记	
+artha-antara-bhūta	cpd.	1	體…離 1		已登记	
 artha-vargīya	cpd.	1	義品 1		已登记	
--artham	gram.	6	為 2；為…故 2；故 1；以…故 1		已登记	
+-artham	gram.	13	為…故 4；為 4；（未译） 3；故 1；以…故 1		已登记	
 artham	ind.	2	為 1；為…故 1		已登记	
 arṇava	n.	2	海 2		已登记	
-as	v.	49	有 23；（未译） 9；應 6；除 2；或有 2		已登记	
+as	v.	73	有 29；（未译） 20；應 6；是 2；非無 2		已登记	
 asaṃjñi-nirodha-samāpatti-samāpanna	cpd.	1	入無想…滅盡定 1		已登记	
-atas	ind.	27	故 10；是故 4；（未译） 3；由此 2；由此故 1		已登记	
-atha	ind.	5	（未译） 3；若 2		已登记	
+astagama	n.	1	沒 1		已登记	
+atas	ind.	38	故 13；由此 5；是故 5；（未译） 4；約此 1		已登记	
+atha	ind.	13	（未译） 5；者 2；若 2；今次 1；若如是者 1		已登记	
 athavā	ind.	5	或 4；又 1		已登记	
 atho	ind.	1	轉為 1		已登记	
 ati-bahu	adj.	1	繁 1		已登记	
 ati-bahu-grantha-bhāra-parihāra-artham	cpd.	1	為捨繁文故 1		已登记	
 ati-i	v.	1	謝 1		已登记	
+ati-kram	abs.	1	過 1		已登记	
 ati-viprakṛṣṭa	ptc.	1	極遠 1		已登记	
 ati-viprakṛṣṭa-deśa-kāla	cpd.	1	極遠時處 1		已登记	
 ati-vṛt	v.	1	越 1		已登记	
 atideśa	n.	2	（未译） 1；說 1		已登记	
-atra	ind.	13	（未译） 4；此中 2；於此中 1；見 1；於中 1		已登记	
+atra	ind.	15	（未译） 4；此 2；此中 2；於能了識 1；於此中 1		已登记	
 atyanta	adj.	2	畢竟 2		已登记	
 atyantam	ind.	2	永 2		已登记	
 atyartham	ind.	1	極 1		已登记	
 atīta	ptc.	22	過去 16；滅 3；過 2；去 1		已登记	
-atīta-anāgata	cpd.	3	過去未來 2；去來 1		已登记	
-atīta-anāgata-pratyutpanna	cpd.	2	若過去若未來若現在 1；若過去等 1		已登记	
+atīta-an-āgata	cpd.	3	過去未來 2；去來 1	atīta-anāgata	已登记	
+atīta-an-āgata-pratyutpanna	cpd.	2	若過去若未來若現在 1；若過去等 1	atīta-anāgata-pratyutpanna	已登记	
 atīta-pratyutpanna-utpatti-dharman	cpd.	2	過現生法 2		已登记	
 atīta-tva	n.	1	過去 1		已登记	
 atīta-ādi	cpd.	2	過去等 1；過去…等 1		已登记	
@@ -351,23 +438,27 @@ audārika	adj.	13	麁 12；麁顯 1		已登记
 audārika-rūpa	cpd.	1	麁色 1		已登记	
 audārika-sūkṣma-tva	cpd.	1	麁細 1		已登记	
 audārika-tva	n.	1	寬廣 1		已登记	
-aupacayika	adj.	8	所長養 6；養 1；長養 1		已登记	
-avacara	adj.	5	界 3；屬…界 2		已登记	
+aupacayika	adj.	9	所長養 7；養 1；長養 1		已登记	
+av	inf.	1	習 1		已登记	
+ava-śiṣ	v.	1	餘 1		已登记	
+avacara	adj.	6	界 4；屬…界 2		已登记	
 avacchādita	ptc.	1	映覆 1		已登记	
 avadhāraṇa	n.	2	決定 1；說 1		已登记	
 avadhāraṇa-artha	cpd.	1	義決定 1		已登记	
 avadāta	adj.	2	白 2		已登记	
+avagama	n.	1	知 1		已登记	
 avakrānti	n.	1	入 1		已登记	
+avakāśa	n.	1	（未译） 1		已登记	
 avamagna	ptc.	1	淪沒 1		已登记	
 avanata	ptc.	1	下 1		已登记	
 avaruddha	ptc.	1	纏身 1		已登记	
-avasthita	ptc.	6	住 5；橫作行度 1	ava-sthita	已登记	
-avasthāna	n.	1	住至 1		已登记	
+avasthita	ptc.	8	住 7；橫作行度 1	ava-sthita	已登记	
+avasthā	n.	1	位 1		已登记	
+avasthāna	n.	2	住 1；住至 1		已登记	
+avaśeṣa	n.	1	餘 1		已登记	
 avaśiṣṭa	ptc.	1	所餘 1	ava-śiṣṭa	已登记	
-avaśyam	ind.	2	定 1；決定 1		已登记	
-avijñapti-paryanta	cpd.	1	無表為後 1		已登记	
-avijñapti-saṃjñaka	cpd.	1	無表 1		已登记	
-avijñapti-āśraya	cpd.	1	所依 1		已登记	
+avaśyam	ind.	13	定 11；必 1；決定 1		已登记	
+avaśyam-bhāva	cpd.	1	必…具有 1		已登记	
 ayas	n.	2	鐵 2		已登记	
 ayas-tāmra-rūpya-suvarṇa-ādi-gotra	cpd.	1	銅鐵金銀等族 1		已登记	
 ayaskānta	n.	1	磁石 1		已登记	
@@ -377,30 +468,38 @@ aśīti	num.	4	八萬 3；八十 1		已登记
 aṅga	n.	2	（未译） 1；支分 1		已登记	
 aṅguṣṭha	n.	1	指𩎽 1		已登记	
 aṅkura	n.	1	牙 1		已登记	
+aṇḍaja	adj.	1	卵 1		已登记	
+aṇḍaja-jarāyuja-saṃsvedaja	cpd.	1	胎、卵、濕生 1		已登记	
+aṣṭa-adhikāra	cpd.	1	依八 1		已登记	
 aṣṭa-prakāra	cpd.	1	八 1		已登记	
 aṣṭadhā	ind.	1	八種 1		已登记	
-aṣṭama	num.	1	法界 1		已登记	
-aṣṭan	num.	9	八 7；（未译） 2		已登记	
+aṣṭaka	n.	3	八 3		已登记	
+aṣṭama	num.	7	第八 2；八 2；（未译） 2；法界 1		已登记	
+aṣṭan	num.	31	八 29；（未译） 2		已登记	
 aṣṭavidha	adj.	3	八 2；八種 1		已登记	
 aṣṭādaśa-dharma	cpd.	1	十八法 1		已登记	
 aṣṭādaśa-dhātu	cpd.	2	十八界 2		已登记	
 aṣṭādaśan	num.	17	十八 17		已登记	
 aṣṭāśīti	num.	1	八十八 1		已登记	
 aṣṭāśīti-anuśaya	cpd.	1	八十八隨眠 1		已登记	
-bahu	adj.	7	多 6；眾多 1		已登记	
+badhira	adj.	1	聾 1		已登记	
+bahu	adj.	13	多 11；極多 1；眾多 1		已登记	
 bahu-dharma-agra-saṃgraha	cpd.	1	攝多增上法 1		已登记	
 bahu-dhātuka	cpd.	1	多界 1		已登记	
+bahu-vacana	cpd.	1	多言 1		已登记	
 bahu-vidha	adj.	1	多種 1		已登记	
-bahuvrīhi	gram.	1	此能破闇 1		已登记	
-bhadanta	n.	8	大德 6；尊者 2		已登记	
+bahuvrīhi	gram.	3	人 1；為 1；此能破闇 1		已登记	
+bala	n.	2	力 2		已登记	
+bhadanta	n.	9	大德 6；尊者 3		已登记	
 bhadanta-buddhadeva	cpd.	1	尊者覺天 1		已登记	
 bhadanta-dharmatrāta-udāna-vargīya-karaṇa-vat	cpd.	1	大德法救所集無常品等鄔拕南頌 1		已登记	
+bhadanta-ghoṣaka	cpd.	1	尊者妙音 1		已登记	
 bhadanta-kumāralāta	cpd.	1	大德鳩摩邏多 1		已登记	
 bhadanta-kātyāyanīputra	cpd.	1	大德迦多衍尼子 1		已登记	
 bhadanta-kātyāyanīputra-prabhṛti	cpd.	1	大德迦多衍尼子等 1		已登记	
 bhadanta-mata	cpd.	1	大德意 1		已登记	
 bhadanta-vasumitra	cpd.	1	尊者世友 1		已登记	
-bhagavat	n.	14	世尊 10；佛 2；薄伽梵 1；佛世尊 1		已登记	
+bhagavat	n.	17	世尊 13；佛 2；薄伽梵 1；佛世尊 1		已登记	
 bhajana	n.	2	交涉 1；（未译） 1		已登记	
 bhautika	adj.	10	所造 8；造色 1；所造性 1		已登记	
 bhautika-arthya	n.	1	境…所造 1		已登记	
@@ -408,14 +507,17 @@ bhautika-viṣaya-tva	cpd.	1	境…所造 1		已登记
 bhava	n.	5	有 2；三有 2；生 1		已登记	
 bhava-agra	n./cpd.	2	有頂 1；第一有 1	bhavāgra	已登记	
 bhava-arṇava	cpd.	1	有海 1		已登记	
-bhavitavya	gdv.	1	（未译） 1		已登记	
-bheda	n.	10	差別 2；別 2；異 1；（未译） 1；或異或同 1		已登记	
+bhavitavya	gdv.	2	說 1；（未译） 1		已登记	
+bheda	n.	15	差別 4；異 3；別 2；各別 1；（未译） 1		已登记	
 bherī	n.	2	鼓 2		已登记	
 bherī-kaṭāha	cpd.	1	鼓𣞙 1		已登记	
 bherī-śabda	cpd.	1	鼓聲 1		已登记	
 bhidyamāna	ptc.	2	分別 2		已登记	
-bhikṣu	n.	7	苾芻 4；（未译） 3		已登记	
-bhinna	ptc.	1	有 1		已登记	
+bhikṣu	n.	10	（未译） 5；苾芻 5		已登记	
+bhinna	ptc.	2	越 1；有 1		已登记	
+bhinna-krama	cpd.	1	越 1		已登记	
+bhoga	n.	3	富 3		已登记	
+bhoga-vipāka	cpd.	3	富異熟 3		已登记	
 bhojana	n.	3	食 2；飲食 1		已登记	
 bhojana-abhilāṣa-kṛt	cpd.	1	食欲 1		已登记	
 bhojana-vyañjana-bhūta	cpd.	1	類食同助 1		已登记	
@@ -425,22 +527,28 @@ bhoktṛ	n.	1	食者 1		已登记
 bhram	v.	1	漂 1		已登记	
 bhram (caus.)	v.	1	漂轉 1		已登记	
 bhuj	inf.	1	食飲 1		已登记	
-bhāga	n.	3	分 2；一分 1		已登记	
+bhāga	n.	4	分 3；一分 1		已登记	
 bhājana	n.	3	器 3		已登记	
 bhājana-bhojana-vyañjana-kartṛ-bhoktṛ-bhūta	cpd.	1	如器…類飲食…同助味…似厨人…喻食者 1		已登记	
 bhājana-ādi-artha	cpd.	1	器等 1		已登记	
 bhāra	n.	2	重擔 1；繁 1		已登记	
-bhāva	n.	29	性 10；（未译） 10；為 3；是 2；成 1		已登记	
-bhāvanā	n.	4	修 4		已登记	
-bhāvanā-heya	cpd.	2	修所斷 2		已登记	
+bhāva	n.	39	性 12；（未译） 10；身 7；為 3；是 2		已登记	
+bhāvanā	n.	14	修 13；所修 1		已登记	
+bhāvanā-bala	cpd.	1	所修…力 1		已登记	
+bhāvanā-heya	cpd.	5	修所斷 5		已登记	
+bhāvanā-heya-kleśa-prahāṇa	cpd.	1	修所斷煩惱滅 1		已登记	
 bhāvanā-maya	adj.	1	修 1		已登记	
-bhū	v./inf.	40	（未译） 19；有 3；是 3；成 3；應 2		已登记	
+bhāvanā-mārga	cpd.	2	修道 2		已登记	
+bhāvanā-prahātavya	cpd.	1	修所斷 1		已登记	
+bhāvita	ptc.	1	修行 1		已登记	
+bhāṣ	v.	1	言 1		已登记	
+bhū	v./inf.	63	（未译） 33；有 5；轉招 4；是 3；成 3		已登记	
 bhūmi	n.	9	（未译） 5；地 4		已登记	
 bhūmi-udaka-ādi	cpd.	1	地水等 1		已登记	
-bhūmika	adj.	45	（未译） 22；地 13；屬 8；屬…定 1；生地 1		已登记	
+bhūmika	adj.	46	（未译） 23；地 13；屬 8；屬…定 1；生地 1		已登记	
 bhūrja	n.	1	樺皮 1		已登记	
 bhūrja-abhyantara-avasthita	cpd.	1	耳穴內…住 1		已登记	
-bhūta	n./ptc.	50	大種 20；種 17；（未译） 5；如…類…同…似…喻 1；類…同 1		已登记	
+bhūta	n./ptc.	56	大種 20；種 19；（未译） 8；實 2；如…類…同…似…喻 1		已登记	
 bhūta-artha	cpd.	1	實義 1		已登记	
 bhūta-artha-darśana-pratibandha	cpd.	1	能覆實義及障真見 1		已登记	
 bhūta-bhautika-tva	cpd.	1	大種所造 1		已登记	
@@ -448,13 +556,17 @@ bhūta-catuṣka-dvaya	cpd.	1	二四大 1		已登记
 bhūta-mātra	cpd.	1	唯大種 1		已登记	
 bhūta-srotas	cpd.	1	大種…相續 1		已登记	
 bhūta-svabhāva	cpd.	1	大種性 1		已登记	
-bhūyas	adj.	2	增 1；大 1		已登记	
+bhūyas	adj.	3	倍 1；增 1；大 1		已登记	
+bhūyas-vīta-rāga	cpd.	1	倍離欲貪 1		已登记	
 bila	n.	1	穴 1		已登记	
 boddhavya	gdv.	1	知 1		已登记	
+bodhi	n.	1	菩提 1		已登记	
+bodhi-mūla	cpd.	1	菩提樹下 1		已登记	
 bodhipākṣika	adj.	1	覺品 1		已登记	
 brahma-loka	cpd.	1	梵世 1		已登记	
 brahma-svara-tā	n.	1	梵音聲 1		已登记	
-brahmacarya	n.	1	梵行 1		已登记	
+brahma-tva	n.	1	梵 1		已登记	
+brahmacarya	n.	2	梵行 2		已登记	
 brahman	n.	2	梵 2		已登记	
 brāhmaṇa	n.	1	梵志 1		已登记	
 brū	v.	2	說 1；言 1		已登记	
@@ -465,22 +577,26 @@ buddhadeva	n.	1	覺天 1		已登记
 bādh	v.	1	惱壞 1		已登记	
 bādhanā	n.	1	惱壞 1		已登记	
 bāhulya	n.	1	多 1		已登记	
-bāhya	adj.	11	外 11		已登记	
+bāhya	adj.	13	外 13		已登记	
 bāhya-tva	n.	1	外 1		已登记	
+bāhyaka	adj.	1	二外 1		已登记	
+bāla	adj.	4	愚 4		已登记	
+bāla-adhikāra	cpd.	1	說愚 1		已登记	
 bīja	n.	2	種 2		已登记	
-ca	ind.	59	及 12；（未译） 10；又 8；亦 5；或 3		已登记	
+ca	ind.	84	及 18；又 15；（未译） 14；亦 7；并 4		已登记	
 ca … ca	ind.	1	若…若 1		已登记	
 ca-śabda	cpd.	3	或言 1；言等 1；（未译） 1		已登记	
-caitasika	adj./n.	6	心所 5；心所法 1		已登记	
+caitasa	adj.	3	心 2；心相應 1		已登记	
+caitasika	adj./n.	12	心所 5；在心 3；心 2；心受 1；心所法 1		已登记	
 caitasika-svabhāva	cpd.	1	心所法 1		已登记	
-caitta	n.	11	心所 7；心所法 4		已登记	
-caitta-abhāva-prasaṅga	cpd.	1	心所應非有 1		已登记	
-cakra	n.	1	輪 1		已登记	
-cakṣus	n.	166	眼 151；（未译） 9；眼根 5；眼…眼 1	cakṣur	已登记	
+caitta	n.	12	心所 7；心所法 5		已登记	
+caitta-a-bhāva-prasaṅga	cpd.	1	心所應非有 1	caitta-abhāva-prasaṅga	已登记	
+cakra	n.	2	輪 2		已登记	
+cakṣus	n.	182	眼 163；（未译） 13；眼根 5；眼…眼 1	cakṣur	已登记	
 cakṣus-dhātu	cpd.	8	眼界 8	cakṣur-dhātu	已登记	
 cakṣus-dhātu-rūpa-dhātu	cpd.	1	眼界與色界 1	cakṣur-dhātu-rūpa-dhātu	已登记	
 cakṣus-dhātu-āyatana-ādi	cpd.	1	眼等…界 1	cakṣur-dhātu-āyatana-ādi	已登记	
-cakṣus-indriya	cpd.	3	眼根 3	cakṣur-indriya	已登记	
+cakṣus-indriya	cpd.	4	眼根 4	cakṣur-indriya	已登记	
 cakṣus-indriya-paramāṇu	cpd.	2	眼根極微 2	cakṣur-indriya-paramāṇu	已登记	
 cakṣus-rūpa	cpd.	2	眼色 2	cakṣur-rūpa	已登记	
 cakṣus-saṃprāpta	cpd.	1	眼所得 1	cakṣur-saṃprāpta	已登记	
@@ -494,19 +610,24 @@ cakṣus-vijñāna-rūpa-dhātu	cpd.	1	眼識與色界 1	cakṣur-vijñāna-rūp
 cakṣus-vijñāna-ādi	cpd.	4	眼識等 2；眼等…識 2	cakṣur-vijñāna-ādi；cakṣurvijñāna-ādi	已登记	
 cakṣus-vijñāna-ādi-āśraya	cpd.	1	眼等識所依止 1	cakṣur-vijñāna-ādi-āśraya；cakṣurvijñāna-ādi-āśraya	已登记	
 cakṣus-vijñāna-āśraya	cpd.	1	眼識所依 1	cakṣur-vijñāna-āśraya；cakṣurvijñāna-āśraya	已登记	
-cakṣus-ādi	cpd.	27	眼等 22；根 2；（未译） 2；眼等根 1	cakṣur-ādi	已登记	
+cakṣus-ādi	cpd.	34	眼等 26；（未译） 3；根 2；七色 1；有色根 1	cakṣur-ādi	已登记	
 cakṣus-ādi-indriya-paramāṇu	cpd.	1	眼等…根極微 1	cakṣur-ādi-indriya-paramāṇu	已登记	
 cakṣus-ādi-paramāṇu	cpd.	1	眼等極微 1	cakṣur-ādi-paramāṇu	已登记	
 cakṣus-ādi-saṃjñaka	cpd.	1	眼等…想名 1	cakṣur-ādi-saṃjñaka	已登记	
+cakṣus-ādimat	cpd.	1	眼等 1	cakṣur-ādimat	已登记	
 cakṣus-āyatana	cpd.	1	眼處 1	cakṣur-āyatana	已登记	
 cakṣus-āyatana-dhātu	cpd.	1	眼處眼界 1	cakṣur-āyatana-dhātu	已登记	
 cakṣus-āśrita	cpd.	1	能依 1	cakṣur-āśrita	已登记	
-cakṣus-śrotra	cpd.	3	眼耳 2；眼、耳根 1	cakṣur-śrotra	已登记	
+cakṣus-śrotra	cpd.	5	眼耳 2；眼耳根 1；眼等 1；眼、耳根 1	cakṣur-śrotra	已登记	
+cakṣus-śrotra-ghrāṇa-jihvā-indriya	cpd.	1	眼耳鼻舌…根 1	cakṣur-śrotra-ghrāṇa-jihvā-indriya	已登记	
 cakṣus-śrotra-ghrāṇa-jihvā-kāya	cpd.	2	眼等五根 2	cakṣur-śrotra-ghrāṇa-jihvā-kāya	已登记	
 cakṣus-śrotra-ghrāṇa-jihvā-kāya-indriya	cpd.	1	眼、耳、鼻、舌、身根 1	cakṣur-śrotra-ghrāṇa-jihvā-kāya-indriya	已登记	
+cakṣus-śrotra-ghrāṇa-jihvā-kāya-jīvita-indriya	cpd.	1	眼、耳、鼻、舌、身、命 1	cakṣur-śrotra-ghrāṇa-jihvā-kāya-jīvita-indriya	已登记	
 cakṣus-śrotra-ghrāṇa-jihvā-kāya-manas-vijñāna-dhātu	cpd.	1	六識 1	cakṣur-śrotra-ghrāṇa-jihvā-kāya-manas-vijñāna-dhātu；cakṣus-śrotra-ghrāṇa-jihvā-kāya-manaḥ-vijñāna-dhātu；cakṣus-śrotra-ghrāṇa-jihvā-kāya-mano-vijñāna-dhātu；cakṣus-śrotra-ghrāṇa-jihvā-kāya-manovijñāna-dhātu	已登记	
+cakṣus-śrotra-ghrāṇa-jihvā-kāya-strī-puruṣa-indriya	cpd.	1	眼…根及女男根 1	cakṣur-śrotra-ghrāṇa-jihvā-kāya-strī-puruṣa-indriya	已登记	
 cakṣus-śrotra-ghrāṇa-jihvā-kāya-vijñāna	cpd.	1	眼等五識 1	cakṣur-śrotra-ghrāṇa-jihvā-kāya-vijñāna	已登记	
 cakṣus-śrotra-manas	cpd.	2	眼耳意 1；眼耳意根 1	cakṣur-śrotra-manas；cakṣus-śrotra-manaḥ；cakṣus-śrotra-mano	已登记	
+cakṣus-śrotra-vijñāna	cpd.	1	二識 1	cakṣur-śrotra-vijñāna	已登记	
 candra	n.	4	月 4		已登记	
 candra-naṭa-malla-prekṣā	cpd.	1	觀月舞相撲 1		已登记	
 candra-tārakā-agni-oṣadhi-maṇi	cpd.	1	月星火藥寶珠 1		已登记	
@@ -515,25 +636,30 @@ carita	n.	3	行 2；（未译） 1		已登记
 carita-pratipakṣa	cpd.	1	行對治 1		已登记	
 carita-sahasra	cpd.	1	八萬行 1		已登记	
 carman	n.	1	（未译） 1		已登记	
-catur	num.	24	四 22；（未译） 2	catuḥ；catuṣ	已登记	
+carvaṇa	n.	1	嚼 1		已登记	
+catur	num.	36	四 32；（未译） 3；第四 1	catuḥ；catuṣ	已登记	
+catur-dhyāna-ārūpya-upapanna	cpd.	1	生第四定…無色界 1	catuḥ-dhyāna-ārūpya-upapanna；catuṣ-dhyāna-ārūpya-upapanna	已登记	
 catur-koṭika	cpd.	4	四句 4	catuḥ-koṭika；catuṣ-koṭika	已登记	
 catur-prakāra	cpd.	1	四品 1	catuḥ-prakāra；catuṣ-prakāra	已登记	
 catur-skandha	cpd.	1	四蘊 1	catuḥ-skandha；catuṣ-skandha	已登记	
 catur-skandha-svabhāva-tva	cpd.	1	四蘊性 1	catuḥ-skandha-svabhāva-tva；catuṣ-skandha-svabhāva-tva	已登记	
-caturdaśan	num.	3	十四 3		已登记	
-caturtha	num.	5	第四 3；四 2		已登记	
+caturdaśan	num.	5	十四 5		已登记	
+caturtha	num.	8	第四 5；四 3		已登记	
 caturtha-dhyāna-bhūmika	cpd.	1	四靜慮 1		已登记	
 caturvidha	adj.	5	四種 3；四 2		已登记	
 catuṣka	n.	2	四 2		已登记	
 catuṣṭaya	n./num.	4	四 4		已登记	
 catuṣṭva	n.	1	四 1		已登记	
 catuṣṭva-khakkhaṭa-ādi-lakṣaṇa-avadhāraṇa	cpd.	1	說堅等四相 1		已登记	
-caus.	gram.	5	令 4；（未译） 1		已登记	
+caus.	gram.	7	令 4；（未译） 3		已登记	
 caya	n.	2	和合 2		已登记	
 cayavat	adj.	1	和合物 1		已登记	
 cet	ind.	2	若 2		已登记	
 cetanā	n.	1	思 1		已登记	
 cetanā-kāya	cpd.	1	思身 1		已登记	
+cetas	n.	4	心 2；（未译） 2		已登记	
+cetas-vaśin-tva	cpd.	1	心自在 1		已登记	
+ceṣṭā	n.	2	作業 2		已登记	
 chanda	n.	1	希望 1		已登记	
 chanda-jāta	cpd.	1	起於希望 1		已登记	
 chandatas	ind.	1	（未译） 1		已登记	
@@ -542,54 +668,67 @@ chid	v.	8	斫 8		已登记
 chidra	n.	4	竅隙 4		已登记	
 chinna	ptc.	1	離身 1		已登记	
 chāyā	n.	9	影 9		已登记	
-chāyā-abhāva-vat	cpd.	1	影…滅 1		已登记	
+chāyā-a-bhāva-vat	cpd.	1	影…滅 1	chāyā-abhāva-vat	已登记	
 chāyā-prabhā	cpd.	1	影光 1		已登记	
 chāyā-pracalana-vat	cpd.	1	影…動 1		已登记	
 chāyā-ādi-varṇa-paramāṇu	cpd.	1	影等顯色極微 1		已登记	
 cintā	n.	1	思 1		已登记	
 cita	ptc.	1	聚色 1		已登记	
 cita-stha	adj.	1	積集 1		已登记	
-citta	n.	34	心 29；（未译） 4；識 1		已登记	
+citta	n.	43	心 37；（未译） 5；識 1		已登记	
 citta-anvaya	cpd.	1	（未译） 1		已登记	
 citta-caitta	cpd.	5	心心所 3；心心所法 2		已登记	
 citta-caitta-āya-dvāra-artha	cpd.	1	心心所法，生長門義 1		已登记	
 citta-dhātu	cpd.	7	心界 3；（未译） 2；心…界 1；心 1		已登记	
 citta-kṣaṇa	cpd.	2	（未译） 1；念心 1		已登记	
 citta-niśrita	cpd.	1	依止心 1		已登记	
+citta-āśraya	cpd.	2	心所依 2		已登记	
 cittaka	n.	1	心 1		已登记	
-compar.	gram.	2	（未译） 1；開一眼時不分明 1		已登记	
+compar.	gram.	3	（未译） 2；開一眼時不分明 1		已登记	
+cond.	gram.	1	應 1		已登记	
 cyuta	ptc.	2	沒 2		已登记	
 cyuti	n.	1	命終 1		已登记	
 cyuti-citta	cpd.	1	命終心 1		已登记	
+cīvara	n.	1	衣 1		已登记	
 dagdha	ptc.	2	燒 2		已登记	
 dagdhṛ	n.	3	能燒 3		已登记	
 dagdhṛ-tulya	cpd.	2	能燒所稱 2		已登记	
 dah	v.	4	燒 4		已登记	
 damana	n.	2	調伏 2		已登记	
-danta	n.	1	齒 1		已登记	
-darśana	n.	22	見 19；可見 1；覩 1；觀察 1		已登记	
-darśana-heya	cpd.	2	見所斷 2		已登记	
-darśana-prahātavya	cpd.	5	見斷 3；見所斷 2		已登记	
+danta	n.	2	齒 2		已登记	
+darśana	n.	30	見 27；可見 1；覩 1；觀察 1		已登记	
+darśana-bhāvanā	cpd.	1	見修 1		已登记	
+darśana-heya	cpd.	3	見所斷 3		已登记	
+darśana-heya-kleśa-prahāṇa	cpd.	1	見所斷煩惱滅 1		已登记	
+darśana-mārga	cpd.	2	見道 2		已登记	
+darśana-prahātavya	cpd.	6	見所斷 3；見斷 3		已登记	
 darśayat	ptc.	1	相示 1		已登记	
-dat.	gram.	2	為 2		已登记	
-daurmanasya	n.	1	憂 1		已登记	
-daurmanasya-indriya	cpd.	1	憂根 1		已登记	
+dat.	gram.	3	為 2；於 1		已登记	
+daurmanasya	n.	26	憂 18；憂根 5；（未译） 3		已登记	
+daurmanasya-a-saṃbhava	cpd.	1	無憂 1		已登记	
+daurmanasya-indriya	cpd.	4	憂根 4		已登记	
+daurmanasya-utpāda	cpd.	1	生憂 1		已登记	
+daurmanasya-vedanīya	cpd.	2	順憂受 2		已登记	
 daśa-dhātu	cpd.	1	十界 1		已登记	
 daśa-āyatana	cpd.	3	十處 2；十…處 1		已登记	
 daśa-āyatana-dhātu	cpd.	2	十處界 2		已登记	
-daśan	num.	22	十 22		已登记	
+daśan	num.	27	十 26；（未译） 1		已登记	
 dehin	n.	1	人 1		已登记	
 desid.	gram.	1	欲 1		已登记	
+deva	n.	1	天 1		已登记	
+deva-ādi	cpd.	1	天等 1		已登记	
+devaputra	n.	1	天 1		已登记	
 deya	gdv.	1	還 1		已登记	
 deśa	n.	11	處 4；分 4；方 2；（未译） 1		已登记	
+deśa-a-pratiṣṭhita-tva	cpd.	1	住無方 1	deśa-apratiṣṭhita-tva	已登记	
 deśa-antara	cpd.	1	餘方 1		已登记	
 deśa-antara-utpādana	cpd.	1	生至餘方 1		已登记	
-deśa-apratiṣṭhita-tva	cpd.	1	住無方 1		已登记	
 deśa-kāla	cpd.	1	時處 1		已登记	
 deśanā	n.	6	說 4；演說 1；教 1		已登记	
 deśita	ptc.	1	說 1		已登记	
-dharma	n.	117	法 107；（未译） 8；法界 1；境 1		已登记	
+dharma	n.	123	法 113；（未译） 8；法界 1；境 1		已登记	
 dharma-ardha	cpd.	2	法一分 2		已登记	
+dharma-cakra	cpd.	1	法輪 1		已登记	
 dharma-darśana	cpd.	1	觀察法 1		已登记	
 dharma-dhātu	cpd.	25	法界 21；法 3；（未译） 1		已登记	
 dharma-dhātu-eka-deśa	cpd.	3	法一分 2；法界一分 1		已登记	
@@ -614,16 +753,18 @@ dharma-śabda	cpd.	1	（未译） 1		已登记
 dharmaka	adj.	1	法 1		已登记	
 dharmatrāta	n.	1	法救 1		已登记	
 dharmin	adj.	5	法 5		已登记	
-dhyāna	n.	30	靜慮 20；定 9；（未译） 1		已登记	
+dhyāna	n.	45	靜慮 26；定 16；根本地 1；下三地 1；（未译） 1		已登记	
 dhyāna-antara	cpd.	2	靜慮中間 2		已登记	
+dhyāna-bala	cpd.	1	定力 1		已登记	
 dhyāna-samāpatti-saṃniśraya	cpd.	1	依…靜慮等至 1		已登记	
 dhyāna-upapatti	cpd.	1	生…靜慮 1		已登记	
 dhyāyin	n.	1	修定者 1		已登记	
 dhāraṇa	n.	2	持 2		已登记	
-dhātu	n.	240	界 188；（未译） 46；種 3；大種 1；境 1		已登记	
+dhātu	n.	260	界 205；（未译） 49；種 3；大種 1；境 1		已登记	
 dhātu-artha	cpd.	1	界義 1		已登记	
 dhātu-catuṣṭaya	cpd.	3	四界 3		已登记	
 dhātu-dvaya	cpd.	1	二界 1		已登记	
+dhātu-prabheda-prasaṅga	cpd.	1	分別界…乘茲 1		已登记	
 dhātu-vyavasthā	cpd.	2	於界門中立為 1；界門立為 1		已登记	
 dhātu-āyatana	cpd.	1	處界 1		已登记	
 dhātu-śabda	cpd.	1	界聲 1		已登记	
@@ -639,57 +780,74 @@ divya	adj.	2	天 2		已登记
 divā	ind.	3	晝 2；俱 1		已登记	
 diś	n.	1	方 1		已登记	
 diś-bhāga-bheda	cpd.	1	方分 1		已登记	
-dravya	n.	15	事 6；實 5；實物 1；法 1；（未译） 1		已登记	
+doṣa	n.	2	失 2		已登记	
+dravya	n.	19	事 6；實 5；（未译） 2；物 1；實體 1		已登记	
 dravya-paramāṇu	cpd.	1	實極微 1		已登记	
 dravya-sva-lakṣaṇa	cpd.	1	事自相 1		已登记	
 dravya-yukta	cpd.	2	有實 1；有實事 1		已登记	
 dravyavat	adj.	1	實 1		已登记	
 drākṣā	n.	1	蒲桃 1		已登记	
 drākṣā-phala	cpd.	1	蒲桃 1		已登记	
-du.	gram.	7	二 6；（未译） 1		已登记	
+du.	gram.	14	二 12；（未译） 2		已登记	
 dugdha	n.	1	乳 1		已登记	
 dugdha-indhana-vat	cpd.	1	乳…薪 1		已登记	
 dur-gandha	n.	2	惡香 2		已登记	
 dur-uttara-tva	n.	1	難可出 1		已登记	
-duḥkha	n./adj.	14	苦 13；（未译） 1		已登记	
+durgati	n.	1	惡趣 1		已登记	
+durmanaskatā	n.	1	憂 1		已登记	
+duḥkha	n./adj.	34	苦 28；（未译） 3；憂苦 2；憂、苦 1		已登记	
 duḥkha-darśana-heya	cpd.	1	見苦所斷 1		已登记	
 duḥkha-darśana-heya-kleśa-nirodha-sākṣātkaraṇa	cpd.	1	證見苦所斷煩惱滅 1		已登记	
-duḥkha-indriya	cpd.	1	苦根 1		已登记	
+duḥkha-daurmanasya	cpd.	1	憂、苦 1		已登记	
+duḥkha-daurmanasya-indriya	cpd.	1	憂苦 1		已登记	
+duḥkha-indriya	cpd.	8	苦根 6；苦 2		已登记	
 duḥkha-samudaya-satya	cpd.	1	苦集諦 1		已登记	
 duḥkha-samudaya-satya-tva	cpd.	1	苦集 1		已登记	
+duḥkha-upaniṣad	cpd.	1	苦為…依 1		已登记	
 duḥkha-ādi	cpd.	1	四 1		已登记	
+duḥkhin	adj.	1	苦 1		已登记	
 dvaidha	adj.	1	二 1		已登记	
 dvaidhī-karaṇa	cpd.	1	令成二 1		已登记	
-dvandva	gram.	4	及 2；與 2		已登记	
-dvaya	num./n.	5	二 5		已登记	
+dvandva	gram.	10	及 7；與 3		已登记	
+dvaya	num./n.	7	二 6；（未译） 1		已登记	
 dvaya-udbhava	cpd.	1	生二 1		已登记	
+dvedhā	ind.	1	通二 1		已登记	
 dveṣa	n.	1	瞋 1		已登记	
-dvi	num.	14	二 12；兩處 1；（未译） 1		已登记	
+dvi	num.	25	二 21；（未译） 2；見修 1；兩處 1		已登记	
 dvi-bhūmika	cpd.	1	（未译） 1		已登记	
 dvi-candra-ādi-grahaṇa	cpd.	1	見二月等 1		已登记	
+dvi-heya	cpd.	1	見修所斷 1		已登记	
+dvi-liṅga	cpd.	1	二形 1		已登记	
+dvi-mārga-prāpaṇa	cpd.	1	二道所得 1		已登记	
 dvi-tva	n.	2	二 1；有二 1		已登记	
 dvi-vijñeya	cpd.	1	二所識 1		已登记	
-dvidhā	ind.	5	二 3；二分 1；通二門 1		已登记	
-dvitīya	num.	18	二 10；第二 6；（未译） 1；一 1		已登记	
+dvi-vyañjana	cpd.	1	二形 1		已登记	
+dvidhā	ind.	8	二 3；通二 2；通善不善 1；二分 1；通二門 1		已登记	
+dvitīya	num.	20	二 10；第二 7；下三地 1；（未译） 1；一 1		已登记	
 dvitīya-dhyāna	cpd.	1	二靜慮 1		已登记	
 dvitīya-dhyāna-bhūmi	cpd.	2	二定 2		已登记	
 dvitīya-dhyāna-bhūmika	cpd.	1	屬二定 1		已登记	
 dvitīya-dhyāna-cakṣus	cpd.	2	二靜慮眼 2	dvitīya-dhyāna-cakṣur	已登记	
-dvitīya-vicāra-abhāva	cpd.	1	無第二伺 1		已登记	
-dvitīya-vitarka-abhāva	cpd.	1	無第二尋 1		已登记	
+dvitīya-dhyāna-ja	cpd.	1	第二靜慮…生 1		已登记	
+dvitīya-vicāra-a-bhāva	cpd.	1	無第二伺 1	dvitīya-vicāra-abhāva	已登记	
+dvitīya-vitarka-a-bhāva	cpd.	1	無第二尋 1	dvitīya-vitarka-abhāva	已登记	
 dvitīya-ādi	cpd.	5	二三四 4；上三 1		已登记	
 dvitīya-ādi-dhyāna-upapanna	cpd.	4	生二三四靜慮 3；生上三定 1		已登记	
-dvividha	adj.	2	二 1；通二 1		已登记	
+dvividha	adj.	4	二種 1；通二類 1；二 1；通二 1		已登记	
 dvādaśa-āyatana	cpd.	1	十二處 1		已登记	
-dvādaśan	num.	7	十二 6；（未译） 1		已登记	
+dvādaśan	num.	11	十二 7；（未译） 3；色意餘四受 1		已登记	
 dvāra	n.	7	門 7		已登记	
 dvāra-vātāyana-mukha-nāsikā-ādi	cpd.	1	門窓及口鼻等 1		已登记	
 dvāra-ākhyā	cpd.	1	門 1		已登记	
 dvāviṃśati	num.	1	二十二 1		已登记	
 dvāṣaṣṭi	num.	1	六十二 1		已登记	
+dvīpa	n.	1	洲 1		已登记	
 dvīpin	n.	1	豹 1		已登记	
-dā	v.	1	與 1		已登记	
+dyotana	n.	2	顯 1；遮 1		已登记	
+dyotana-artham	cpd.	1	為遮 1		已登记	
+dā	abs./v.	3	布施…施 1；施 1；與 1		已登记	
 dāhaka	adj.	1	能燒 1		已登记	
+dāna	n.	1	布施 1		已登记	
 dānta	ptc.	2	調伏 1；調 1		已登记	
 dāru	n.	1	薪 1		已登记	
 dīrgha	adj.	5	長 5		已登记	
@@ -699,18 +857,20 @@ dūra	adj./n.	14	遠 12；遠處 2		已登记
 dūra-antika-tva	cpd.	1	遠近 1		已登记	
 dūra-viṣaya	cpd.	1	遠境 1		已登记	
 dūra-āśutara-vṛtti	cpd.	2	用遠速明 2		已登记	
-dṛś	v./abs./inf.	55	見 49；觀 4；現見 2		已登记	
+dṛś	v./abs./n./inf.	60	見 51；觀 6；現見 2；觀知 1		已登记	
 dṛś (caus.)	v.	2	相示 1；顯 1		已登记	
+dṛś-bhāvanā-a-śaikṣa-patha	cpd.	1	見修無學道 1		已登记	
 dṛśi	n.	1	見 1		已登记	
 dṛśi-kriyā	cpd.	1	見用 1		已登记	
 dṛśya	gdv.	1	可見 1		已登记	
 dṛśya-deśa	cpd.	1	可見處 1		已登记	
-dṛṣṭa	ptc.	2	見 1；所見 1		已登记	
+dṛṣṭa	ptc.	3	現 1；見 1；所見 1		已登记	
+dṛṣṭa-dharma-sukha-vihāra	cpd.	1	現法樂住 1		已登记	
 dṛṣṭi	n.	26	見 26		已登记	
 dṛṣṭi-adhyavasāna	cpd.	1	著…見 1		已登记	
 dṛṣṭi-heya	cpd.	1	見斷 1		已登记	
 dṛṣṭi-sthāna	cpd.	2	見處 2		已登记	
-eka	num./pron.	62	一 44；有 3；唯…一 2；（未译） 2；唯 2		已登记	
+eka	num./pron.	81	一 56；有 5；（未译） 4；唯 4；有餘師 2		已登记	
 eka-bhūmika	cpd.	1	地…同 1		已登记	
 eka-cakṣus-vijñāna-āśraya-tva	cpd.	1	為眼識依 1	eka-cakṣur-vijñāna-āśraya-tva；eka-cakṣurvijñāna-āśraya-tva	已登记	
 eka-cakṣus-śrotra-adhiṣṭhāna	cpd.	1	眼耳根處…一 1	eka-cakṣur-śrotra-adhiṣṭhāna	已登记	
@@ -719,6 +879,7 @@ eka-deśa	cpd./n.	4	一分 3；少 1	ekadeśa	已登记
 eka-dharma	cpd.	1	一法 1		已登记	
 eka-dhātu-tva	cpd.	1	界體…一 1		已登记	
 eka-dhātu-tā	cpd.	1	界體一 1		已登记	
+eka-liṅga-dvaya-a-mala-varjita	cpd.	1	除二淨一形 1	eka-liṅga-dvaya-amala-varjita	已登记	
 eka-nāsikā-bila	cpd.	1	鼻無二穴 1		已登记	
 eka-pratyaya-janita	cpd.	1	一緣所生 1		已登记	
 eka-pādaka	cpd.	1	一足 1		已登记	
@@ -726,6 +887,8 @@ eka-rūpa-vyāsakta-cakṣus-manas	cpd.	1	眼與意專一色 1	eka-rūpa-vyāsak
 eka-santāna-vaśa	cpd.	1	依一相續 1		已登记	
 eka-varṇa	cpd.	1	一顯色 1		已登记	
 eka-viṣaya-pravṛtta-tva	cpd.	1	一境轉 1		已登记	
+eka-vyañjana	cpd.	2	一形 2		已登记	
+ekadhā	ind.	1	唯無記 1		已登记	
 ekatara	pron.	1	一 1		已登记	
 ekatara-anyathībhāva	cpd.	1	閉一觸一 1		已登记	
 ekatra	ind.	1	總 1		已登记	
@@ -734,53 +897,65 @@ ekaśas	ind.	4	一一…各各 1；一一 1；別 1；隨 1		已登记
 ekādaśa-dravya-svabhāva	cpd.	1	十一 1		已登记	
 ekādaśa-indriya	cpd.	1	十一 1		已登记	
 ekādaśa-ātmaka	cpd.	1	十一為性 1		已登记	
-ekādaśan	num.	4	十一 4		已登记	
-ekānta	adj./n.	2	唯 2		已登记	
+ekādaśan	num.	9	十一 9		已登记	
+ekānnaviṃśati	num.	3	十九 3		已登记	
+ekānta	n./adj.	7	一向 3；唯 2；定 1；（未译） 1		已登记	
+ekānta-an-āsrava	cpd.	1	無漏 1		已登记	
+ekānta-kuśala-tva	cpd.	1	一向善 1		已登记	
+ekānta-sa-āsrava	cpd.	1	一向有漏 1		已登记	
 ekānta-sāsrava	cpd.	1	唯…有漏 1		已登记	
-etad	pron.	46	此 11；（未译） 8；前 4；如是 3；五識身 2		已登记	
-etāvat	pron.	1	唯…此量 1		已登记	
-eva	ind.	45	唯 10；即 9；（未译） 9；亦 3；但 3		已登记	
-evam	ind.	43	如是 14；亦爾 8；亦然 3；然 3；若爾 3		已登记	
+etad	pron.	62	此 15；（未译） 12；如是 8；前 4；五識身 2		已登记	
+etāvat	pron.	2	量 1；唯…此量 1		已登记	
+eva	ind.	66	唯 15；（未译） 14；即 12；亦 5；但 5		已登记	
+eva-kāra-artha	cpd.	1	唯…義 1		已登记	
+evam	ind.	59	如是 16；亦爾 9；（未译） 6；然 4；亦 3		已登记	
+evam-bhāvita	cpd.	1	善修行 1		已登记	
+evam-ādi	cpd.	1	（未译） 1		已登记	
 evaṃ tarhi	ind.	7	若爾 7		已登记	
 eṣṭavya	gdv.	2	可愛樂 1；（未译） 1		已登记	
-fut.	gram.	16	當 13；（未译） 1；應 1；欲 1		已登记	
+fut.	gram.	22	當 16；（未译） 3；應 2；欲 1		已登记	
 gacchat	ptc.	1	行 1		已登记	
 gai	v.	1	說 1		已登记	
-gam	v.	3	和合 1；了知 1；知 1		已登记	
+gam	v.	4	（未译） 1；和合 1；了知 1；知 1		已登记	
 gamiṣyat	ptc.	1	行 1		已登记	
-gandha	n.	27	香 26；（未译） 1		已登记	
+gandha	n.	28	香 27；（未译） 1		已登记	
 gandha-a-grahaṇa	cpd.	1	不嗅香 1		已登记	
+gandha-ghrāṇa-rasa-āsvādana-spraṣṭavya-sparśana	cpd.	1	嗅甞覺香味觸 1		已登记	
 gandha-grahaṇa	cpd.	1	嗅香 1		已登记	
 gandha-rasa	cpd.	7	香味 7		已登记	
 gandha-rasa-ghrāṇa-jihvā-vijñāna-dhātu	cpd.	1	香味二識 1		已登记	
 gandha-rasa-spraṣṭavya	cpd.	1	香、味、觸 1		已登记	
-gandha-rasa-āyatana-abhāva	cpd.	1	無香味 1		已登记	
+gandha-rasa-āyatana-a-bhāva	cpd.	1	無香味 1	gandha-rasa-āyatana-abhāva	已登记	
 gandha-ādi	cpd.	2	香味觸 1；香等 1		已登记	
+gandharva	n.	1	健達縛 1		已登记	
 garbha	n.	2	胞胎 1；胎 1		已登记	
 garbha-avakrānti	cpd.	1	入胎 1		已登记	
 gardha	n.	2	耽著 1；耽 1		已登记	
-gata	ptc.	4	（未译） 2；行 1；類 1		已登记	
+gata	ptc.	5	（未译） 2；說 1；行 1；類 1		已登记	
 gata-gacchat-gamiṣyat-bhāva	cpd.	1	已行正行當行性 1		已登记	
 gati	n.	2	行 2		已登记	
-gdv.	gram.	24	應 17；當 4；（未译） 2；次 1		已登记	
-gen.	gram.	18	中 7；於 4；身中 2；於…中 1；彼中 1		已登记	
+gaṇanīya	gdv.	1	知 1		已登记	
+gdv.	gram.	36	應 25；當 6；（未译） 4；次 1		已登记	
+gen.	gram.	26	中 10；於 7；於…中 2；身中 2；所有 1		已登记	
 gen. abs.	gram.	2	若 2		已登记	
 ghaṇṭā	n.	1	鍾 1		已登记	
 ghaṭa	n.	3	瓶 2；鼻頞 1		已登记	
 ghaṭa-abhyantara	cpd.	1	鼻頞內 1		已登记	
 ghaṭa-uparama	cpd.	1	瓶破 1		已登记	
 ghoṣa	n.	1	（未译） 1		已登记	
+ghoṣaka	n.	1	妙音 1		已登记	
 ghrā	v.	1	嗅 1		已登记	
-ghrāṇa	n.	27	鼻 22；（未译） 5		已登记	
+ghrāṇa	n.	34	鼻 26；（未译） 7；嗅 1		已登记	
 ghrāṇa-indriya	cpd.	1	鼻根 1		已登记	
 ghrāṇa-indriya-paramāṇu	cpd.	1	鼻根極微 1		已登记	
 ghrāṇa-jihvā-adhiṣṭhāna	cpd.	1	鼻舌依處 1		已登记	
 ghrāṇa-jihvā-indriya	cpd.	3	鼻舌 2；鼻舌二根 1		已登记	
+ghrāṇa-jihvā-kāya	cpd.	1	鼻舌身根 1		已登记	
 ghrāṇa-jihvā-kāya-dhātu	cpd.	1	鼻舌身 1		已登记	
 ghrāṇa-jihvā-kāya-ākhya	cpd.	1	鼻等三 1		已登记	
 ghrāṇa-jihvā-vijñāna	cpd.	2	二識 1；鼻舌識 1		已登记	
 ghrāṇa-ādi	cpd.	3	鼻等 2；鼻…等 1		已登记	
-ghrāṇa-ādi-vijñāna	cpd.	1	鼻等識 1		已登记	
+ghrāṇa-ādi-vijñāna	cpd.	2	三識 1；鼻等識 1		已登记	
 ghāta	n.	1	礙 1		已登记	
 go	n.	2	牛 2		已登记	
 go-ratha	cpd.	2	牛車 2		已登记	
@@ -788,12 +963,15 @@ gocara	n.	3	境 3		已登记
 gocara-sāmānya	cpd.	1	境同 1		已登记	
 gotra	n.	5	種族 4；族 1		已登记	
 gotra-artha	cpd.	1	種族義 1		已登记	
-grah	v.	4	取 3；執 1		已登记	
-grahaṇa	n.	10	取 6；嗅 1；（未译） 1；執 1；見 1		已登记	
+grah	v.	6	取 3；總 1；（未译） 1；執 1		已登记	
+grahaṇa	n.	14	取 6；（未译） 2；名為 1；攝 1；言 1		已登记	
+grahaṇa-prasaṅga	cpd.	1	應攝 1		已登记	
 grantha	n.	5	論 2；文 2；文義 1		已登记	
 grantha-bhāra	cpd.	1	繁文 1		已登记	
 grāhya	gdv.	1	所取 1		已登记	
 guhya	n.	1	陰 1		已登记	
+guru	adj.	1	重 1		已登记	
+guru-dravya	cpd.	1	重物 1		已登记	
 guru-tva	n.	3	重 3		已登记	
 guṇa	n.	2	妙 1；德 1		已登记	
 guṇa-ākhyāna-pūrvaka	cpd.	1	先讚德 1		已登记	
@@ -809,42 +987,50 @@ hetu-phala-mātra	cpd.	1	因果 1		已登记
 hetu-upacāra	cpd.	1	假立因名 1		已登记	
 hetu-vacana	cpd.	1	因義 1		已登记	
 hetuka	adj.	10	為因 10		已登记	
-heya	gdv.	7	所斷 5；斷 2		已登记	
-hi	ind.	43	故 9；（未译） 9；謂 7；由 6；以 4		已登记	
+heya	gdv.	13	所斷 10；斷 2；（未译） 1		已登记	
+hi	ind.	62	故 15；（未译） 14；謂 8；以 6；由 6		已登记	
 hi-śabda	cpd.	2	唯言 1；言由 1		已登记	
-hita	n.	4	利 4		已登记	
+hita	n.	6	利 4；利益安樂 2		已登记	
 hrasva	adj.	2	短 2		已登记	
-hā	abs.	1	（未译） 1		已登记	
+hā	abs.	6	除 4；（未译） 2		已登记	
 hīna	adj.	3	劣 3		已登记	
-idam	pron.	44	（未译） 10；此 9；識 3；今 2；彼 2		已登记	
-idānīm	ind.	5	今 3；（未译） 1；若爾 1		已登记	
-iha	ind.	5	（未译） 1；在此 1；住此 1；此 1；此中 1		已登记	
+idam	pron.	58	（未译） 14；此 11；今 3；識 3；如是 2		已登记	
+idi	ind.	1	（未译） 1		已登记	
+idānīm	ind.	8	（未译） 3；今 3；若爾 2		已登记	
+iha	ind.	6	（未译） 2；在此 1；住此 1；此 1；此中 1		已登记	
 impf.	gram.	2	已 2		已登记	
-impv.	gram.	1	則應 1		已登记	
+impv.	gram.	3	願 2；則應 1		已登记	
+-in (possessive)	gram.	1	成就 1		已登记	
+ind	v.	1	（未译） 1		已登记	
 indhana	n.	2	薪 2		已登记	
-indriya	n.	99	根 92；（未译） 7		已登记	
+indriya	n.	292	根 231；（未译） 56；受 3；根…根 1；色根 1		已登记	
 indriya-a-vinirbhāgin	cpd.	1	不離…根 1		已登记	
 indriya-abhinirvṛtti	cpd.	1	根生 1		已登记	
-indriya-artha	cpd.	2	根與境 1；根境 1		已登记	
+indriya-artha	cpd.	4	根…義 2；根與境 1；根境 1		已登记	
+indriya-dharma	cpd.	1	根法 1		已登记	
 indriya-dvaya-āśraya	cpd.	1	所依…二 1		已登记	
+indriya-mahā-bhūta	cpd.	1	根大種 1		已登记	
 indriya-paramāṇu	cpd.	2	根微 1；根…極微 1		已登记	
+indriya-prakaraṇa	cpd.	1	分別根 1		已登记	
 indriya-sa-tṛṣṇa	cpd.	1	於根有愛 1		已登记	
+indriya-tva	n.	11	根 10；（未译） 1		已登记	
 indriya-utpatti	cpd.	1	根起 1		已登记	
 indriya-viṣaya-vijñāna	cpd.	1	根境識 1		已登记	
 indriya-āśraya-ādhāra-prāvaraṇa-bhāva	cpd.	1	持根衣等 1		已登记	
-instr.	gram.	43	由 7；隨 6；與 4；故 4；以 3		已登记	
+inf.	gram.	1	當 1		已登记	
+instr.	gram.	60	由 12；隨 7；故 5；與 5；（未译） 3		已登记	
 itara	pron.	2	餘 2		已登记	
 itarathā	ind.	1	若不許然 1		已登记	
 itaretara	pron.	1	更相 1		已登记	
 itaretara-antarbhāva	cpd.	1	更相攝 1		已登记	
-iti	ind.	90	故 11；說 9；名 9；（未译） 9；者 7		已登记	
+iti	ind.	117	（未译） 13；說 13；故 13；名 10；者 8		已登记	
 iti cet	ind.	1	若言 1		已登记	
-iti kṛtvā	ind.	1	故 1		已登记	
-iti vistaraḥ	ind.	3	如是廣說 2；乃至廣說 1		已登记	
+iti kṛtvā	ind.	2	故 2		已登记	
+iti vistaraḥ	ind.	5	乃至廣說 2；如是廣說 2；（未译） 1		已登记	
 iva	ind.	3	如 2；猶如 1		已登记	
-iṣ	v.	5	許 5		已登记	
-iṣṭa	ptc.	5	許 3；可愛 1；所許 1		已登记	
-ja	adj.	20	生 13；所生 3；（未译） 3；從…所生 1		已登记	
+iṣ	v.	6	許 5；欲 1		已登记	
+iṣṭa	ptc.	8	許 4；所許 2；勸許 1；可愛 1		已登记	
+ja	adj.	23	生 14；所生 4；（未译） 3；所起 1；從…所生 1		已登记	
 jagat	n.	2	眾生 2		已登记	
 jagat-āsaṅga-sthāna-tva	cpd.	1	眾生沈溺處 1		已登记	
 jala	n.	2	水 2		已登记	
@@ -856,33 +1042,43 @@ janapada-nirukti	cpd.	1	方域言詞 1		已登记
 janita	ptc.	3	生 2；引生 1		已登记	
 janma-niśraya	cpd.	2	生所依 2	janman-niśraya	已登记	
 janman	n.	3	生 3		已登记	
+jarāyuja	adj.	1	胎 1		已登记	
 jighatsā	n.	3	飢 3		已登记	
 jighatsā-pipāsā	cpd.	1	飢渴 1		已登记	
-jihvā	n.	25	舌 19；（未译） 6		已登记	
+jihvā	n.	30	舌 23；（未译） 7		已登记	
 jihvā-indriya	cpd.	1	舌根 1		已登记	
 jihvā-indriya-paramāṇu	cpd.	3	舌根極微 3		已登记	
 jihvā-vijñāna	cpd.	1	舌識 1		已登记	
 jñeya	n./gdv.	2	境 1；知 1		已登记	
 jñā	v.	1	立名 1		已登记	
-jñāna	n.	6	（未译） 3；智 3		已登记	
+jñāna	n.	7	（未译） 3；智 3；智…智 1		已登记	
 jñāna-artha	cpd.	1	有智義 1		已登记	
 jñāna-darśana	cpd.	1	智見 1		已登记	
-jñāpana	n.	2	顯 1；所顯 1		已登记	
+jñāpaka	n.	1	誠證 1		已登记	
+jñāpana	n.	4	顯 3；所顯 1		已登记	
 jñāpana-artham	cpd.	1	為顯 1		已登记	
 jñāpaya (caus. jñā)	v.	1	顯說 1		已登记	
 jñātavya	gdv.	1	（未译） 1		已登记	
-jāta	ptc.	4	生 3；起 1		已登记	
-jāti	n.	6	種類 4；類 2		已登记	
+jāta	ptc.	5	生 4；起 1		已登记	
+jāti	n.	7	種類 4；類 2；生 1		已登记	
 jāti-gocara-vijñāna-sāmānya	cpd.	1	類境識同 1		已登记	
 jāti-sāmānya	cpd.	2	類同 1；種類 1		已登记	
 jāti-vācaka	cpd.	1	表種類 1		已登记	
 jātīya	adj.	2	類 2		已登记	
-jīvita	n.	3	命 3		已登记	
-jīvita-indriya	cpd.	2	命根 2		已登记	
-jīvita-indriya-anantara	cpd.	1	命根後 1		已登记	
+jīv	v.	1	住 1		已登记	
+jīvita	n.	44	命 37；（未译） 4；三 1；住世 1；活 1		已登记	
+jīvita-aṣṭama	cpd.	2	八 1；命 1		已登记	
+jīvita-indriya	cpd.	15	命根 10；（未译） 2；命 1；命…根 1；根…命 1		已登记	
+jīvita-indriya-an-antara	cpd.	1	命根後 1	jīvita-indriya-anantara	已登记	
+jīvita-indriya-aṣṭama	cpd.	1	八根 1		已登记	
 jīvita-indriya-ādi	cpd.	1	命等 1		已登记	
-kadācit	ind.	9	有時 6；或 2；（未译） 1		已登记	
+jīvita-pariṣkāra	cpd.	1	命緣 1		已登记	
+jīvita-saṃskāra	cpd.	3	命行 3		已登记	
+jīvita-vaśin-tva-jñāpana-artham	cpd.	1	為顯於活得自在故 1		已登记	
+kadācit	ind.	10	有時 6；（未译） 2；或 2		已登记	
 kaivarta	n.	1	捕魚人 1		已登记	
+kalpa	n.	2	劫 2		已登记	
+kalpa-avaśeṣa	cpd.	1	劫餘 1		已登记	
 kalāpa	n.	1	品 1		已登记	
 kara	adj.	1	作 1		已登记	
 karaṇa	n.	3	令成 1；立 1；所集 1		已登记	
@@ -891,21 +1087,27 @@ karma-ja	cpd.	1	從業所生 1		已登记
 karma-ja-bhūta-saṃbhūta-tva	cpd.	1	從業所生大種生 1		已登记	
 karma-svarūpa-tva	cpd.	1	業性 1		已登记	
 karma-viśeṣa	cpd.	1	殊勝業 1		已登记	
-karman	n.	17	業 16；業用 1		已登记	
+karman	n.	29	業 28；業用 1		已登记	
+kartavya	gdv.	2	釋 1；（未译） 1		已登记	
 kartṛ	n.	3	厨人 1；見者 1；了者 1		已登记	
 kartṛ-bhūta	cpd.	1	是見者 1		已登记	
 kartṛ-kriyā-bheda	cpd.	1	了者…了用不同 1		已登记	
 karṇa	n.	1	耳 1		已登记	
 karṇa-abhyantara	cpd.	1	耳中 1		已登记	
-katama	pron.	14	（未译） 4；云何 4；者何 2；何等 2；何謂 1		已登记	
+katama	pron.	27	（未译） 7；云何 6；何等 4；何 4；謂 2		已登记	
+katama-dhātu-āpta	cpd.	1	欲界繫…色界繫…無色界繫 1		已登记	
 katara	pron.	1	何 1		已登记	
-katham	ind.	13	如何 3；如何…耶 2；何故 2；（未译） 2；云何 2		已登记	
+katham	ind.	21	云何 7；（未译） 3；何故 3；如何 3；如何…耶 2		已登记	
+kathaṃ kṛtvā	ind.	1	所以者何 1		已登记	
 kathā	n.	6	言 5；教門 1		已登记	
 kathā-vastu	cpd.	3	言依 3		已登记	
-kati	pron.	9	幾 8；（未译） 1		已登记	
-kavaḍīkāra	adj.	2	段 2		已登记	
+kati	pron.	16	幾 14；（未译） 2		已登记	
+kavaḍīkāra	adj.	3	段 3		已登记	
+kavaḍīkāra-āhāra-paribhoga	cpd.	1	於段食…受用 1		已登记	
 kavaḍīkāra-āhāra-tva	cpd.	2	段食性 2		已登记	
-kaścit	pron.	21	或 5；或有 4；一 2；少分 2；有 1		已登记	
+kaścit	pron.	23	或 5；或有 4；一 3；少分 2；別 1		已登记	
+kaṇṭha	n.	1	喉 1		已登记	
+kaṇṭha-danta-akṣi-vartma-parvan	cpd.	1	喉齒眼瞼支節 1		已登记	
 kaṣāya	adj.	1	淡 1		已登记	
 kaṭuka	adj.	1	辛 1		已登记	
 kaṭāha	n.	1	𣞙 1		已登记	
@@ -913,86 +1115,108 @@ kevalam	ind.	1	唯 1		已登记
 keśa	n.	1	髮 1		已登记	
 keśa-roman-nakha-danta	cpd.	1	髮毛爪齒 1		已登记	
 khakkhaṭa	adj.	2	堅 1；堅性 1		已登记	
-khalu	ind.	3	（未译） 2；更 1		已登记	
+khalu	ind.	5	（未译） 4；更 1		已登记	
 khara	adj.	3	堅 3		已登记	
 khara-gata	cpd.	1	堅類 1		已登记	
 khara-sneha-uṣṇatā-īraṇa	cpd.	1	堅濕煖動 1		已登记	
 kheṭa	n.	1	唾 1		已登记	
 khād	v.	1	共聚楂掣 1		已登记	
-kila	ind.	12	傳說 6；傳 4；說 1；（未译） 1		已登记	
-kim	pron.	42	何 10；云何 7；誰 5；為 3；何故 3		已登记	
+kila	ind.	13	傳說 7；傳 4；說 1；（未译） 1		已登记	
+kim	pron.	55	何 14；誰 7；云何 7；為 3；何故 3		已登记	
 kim … āhosvit	gram.	4	為…為 2；為…不 1；為 1		已登记	
-kim-artham	ind.	2	何故 1；何因 1		已登记	
+kim-artham	ind.	5	何因緣 2；何故 2；何因 1		已登记	
 kim-svabhāva	cpd.	2	（未译） 1；自性云何 1		已登记	
-kiṃ kāraṇam	pron.	11	所以者何 7；何緣 2；何因 1；何緣…耶 1		已登记	
+kiyat	pron.	2	幾 2		已登记	
+kiṃ kāraṇam	pron.	13	所以者何 7；何因 2；何緣 2；因何 1；何緣…耶 1		已登记	
+kiṃ punar	ind.	1	豈 1		已登记	
 kiṃ tarhi	ind.	9	云何 3；（未译） 2；誰能現見 1；若爾…云何 1；何者能識 1		已登记	
-kiṃcit	pron.	3	或 2；（未译） 1		已登记	
-kleśa	n.	9	煩惱 5；惑 4		已登记	
+kiṃcit	pron.	4	（未译） 2；或 2		已登记	
+kleśa	n.	14	煩惱 10；惑 4		已登记	
+kleśa-devaputra-māra	cpd.	1	天魔煩惱魔 1		已登记	
 kleśa-upaśama-abhyupāya	cpd.	1	勝方便…滅…惑 1		已登记	
-kliṣṭa	ptc.	4	染 3；染污 1		已登记	
+kliṣṭa	ptc./adj.	7	染 4；染污 3		已登记	
 kliṣṭa-a-kliṣṭa	cpd.	1	有染無染 1		已登记	
 kliṣṭa-a-kliṣṭa-laukika-śaikṣa-a-śaikṣa	cpd.	1	世間…有染無染…學無學 1		已登记	
+kliṣṭa-a-vyākṛta-citta	cpd.	1	染無記心 1		已登记	
 kliṣṭa-saṃmoha-atyanta-vigama	cpd.	1	染無知畢竟斷 1		已登记	
+kliṣṭa-tva	n.	1	染污 1		已登记	
 kośa	n.	8	藏 6；俱舍 1；（未译） 1		已登记	
 kośa-gata	cpd.	1	藏 1		已登记	
 kośa-gata-vasti-guhya	cpd.	1	陰藏隱密 1		已登记	
 kośa-sthāna	cpd.	1	（未译） 1		已登记	
 kośa-sthānīya	cpd.	1	藏名 1		已登记	
 koṭi	n.	4	句 4		已登记	
-koṭika	adj.	4	句 4		已登记	
-krama	n.	11	次第 9；於六三中最後 1；漸 1		已登记	
+koṭika	adj.	7	句 4；際 3		已登记	
+krama	n.	14	次第 9；漸 3；（未译） 1；於六三中最後 1		已登记	
 krama-kāraṇa	cpd.	3	次第因 3		已登记	
-kriyā	n.	4	作 1；用 1；了用 1；業 1		已登记	
+krama-mṛtyu	cpd.	1	漸 1		已登记	
+kriyā	n.	6	（未译） 1；所作 1；作 1；用 1；了用 1		已登记	
 kruś	v.	1	言聲 1		已登记	
 kumāralāta	n.	1	鳩摩邏多 1		已登记	
 kutas	ind.	1	（未译） 1		已登记	
-kuśala	adj.	13	善 12；（未译） 1		已登记	
-kuśala-akuśala	cpd.	4	善不善 2；善…不善 1；（未译） 1		已登记	
-kuśala-akuśala-avyākṛta	cpd.	1	善等三 1		已登记	
-kuśala-akuśala-bhāva	cpd.	1	善不善性 1		已登记	
-kuśala-akuśala-citta-samuttha	cpd.	1	善不善心…等起 1		已登记	
+kuśala	adj.	32	善 27；（未译） 4；善業 1		已登记	
+kuśala-a-kuśala	cpd.	5	善不善 3；善…不善 1；（未译） 1	kuśala-akuśala	已登记	
+kuśala-a-kuśala-a-vyākṛta	cpd.	2	三 1；善等三 1	kuśala-akuśala-avyākṛta	已登记	
+kuśala-a-kuśala-bhāva	cpd.	1	善不善性 1	kuśala-akuśala-bhāva	已登记	
+kuśala-a-kuśala-citta-samuttha	cpd.	1	善不善心…等起 1	kuśala-akuśala-citta-samuttha	已登记	
+kuśala-kliṣṭa	cpd.	1	善染污 1		已登记	
 kuśala-mūla	cpd.	1	善根 1		已登记	
 kuśala-sa-āsrava	cpd.	1	善有漏 1		已登记	
 kuśala-ādi-bhāva	cpd.	1	善等 1		已登记	
+kuśala-ākṣepa	cpd.	1	善業引 1		已登记	
 kuḍya	n.	2	壁 2		已登记	
 kuḍya-ādi	cpd.	1	壁等 1		已登记	
 kuḍya-ādi-vyavahita	cpd.	1	壁等所障 1		已登记	
+kva	ind.	3	於誰 1；於何處 1；何處所 1		已登记	
 kāca	n.	1	瑠璃 1		已登记	
 kāca-abhrapaṭala-sphaṭika-ambu	cpd.	1	頗胝迦、瑠璃、雲母、水 1		已登记	
 kādācitka-tva	n.	1	（未译） 1		已登记	
-kāla	n.	5	時 4；世 1		已登记	
-kāma	n.	22	欲 21；（未译） 1		已登记	
+kāla	n.	10	時 8；暫 1；世 1		已登记	
+kāla-antara	cpd.	1	暫 1		已登记	
+kāla-antara-sthāvara	cpd.	1	多時住 1		已登记	
+kāma	n.	37	欲 35；（未译） 2		已登记	
 kāma-adhyavasāna	cpd.	1	著…欲 1		已登记	
 kāma-avacara	cpd.	5	欲界 3；屬欲界 2		已登记	
-kāma-dhātu	cpd.	12	欲界 11；（未译） 1		已登记	
+kāma-dhātu	cpd.	20	欲界 17；欲 1；下三地 1；（未译） 1		已登记	
 kāma-dhātu-prathama-dhyāna-upapanna	cpd.	1	生欲界初定 1		已登记	
 kāma-dhātu-pratisaṃyukta	cpd.	1	繫屬 1		已登记	
 kāma-dhātu-upapanna	cpd.	1	生欲界 1		已登记	
 kāma-dhātu-āpta	cpd.	2	欲界繫 2		已登记	
 kāma-guṇa	cpd.	1	妙欲 1		已登记	
 kāma-guṇa-rūpa-prabhāvita	cpd.	1	妙欲…色相顯了 1		已登记	
+kāma-pradhāna-tva	cpd.	1	欲勝 1		已登记	
+kāma-pratisaṃyukta	cpd.	1	欲界繫 1		已登记	
+kāma-vīta-rāga	cpd.	1	離欲貪 1		已登记	
+kāma-āpta	cpd.	1	欲 1		已登记	
 kāmam	ind.	2	雖 2		已登记	
 kāmatā	n.	1	（未译） 1		已登记	
 kāmayamāna	ptc.	1	趣求 1		已登记	
 kānta	ptc.	1	可樂 1		已登记	
-kāraṇa	n.	9	因 6；因用 1；理 1；緣 1		已登记	
+kāra	n.	1	（未译） 1		已登记	
+kāraṇa	n.	14	因 8；事 3；因用 1；理 1；緣 1		已登记	
 kāraṇa-bhāva	cpd.	1	有因用 1		已登记	
+kāraṇa-bhūta	cpd.	1	因 1		已登记	
 kāraṇa-vaśa	cpd.	1	有因力 1		已登记	
+kārin	adj.	2	造 2		已登记	
 kāritra	n.	4	用 2；功能 1；作用 1		已登记	
 kāritra-bhajana	cpd.	1	已作用 1		已登记	
-kārya	n./gdv.	3	（未译） 1；果 1；所生 1		已登记	
+kārya	n./gdv.	4	事 1；（未译） 1；果 1；所生 1		已登记	
 kārya-bhāra-udvahana-artha	cpd.	1	荷重擔義 1		已登记	
 kārya-upacāra	cpd.	1	立果名 1		已登记	
 kātyāyanīputra	n.	1	迦多衍尼子 1		已登记	
-kāya	n.	66	身 57；（未译） 9		已登记	
+kāya	n.	84	身 72；（未译） 11；身根 1		已登记	
 kāya-cakṣus-rūpa	cpd.	1	身眼色 1	kāya-cakṣur-rūpa	已登记	
 kāya-cakṣus-rūpa-vijñāna	cpd.	1	身眼色識 1	kāya-cakṣur-rūpa-vijñāna	已登记	
 kāya-dhātu	cpd.	2	身界 1；（未译） 1		已登记	
 kāya-dhātu-pradeśa	cpd.	1	身界一分 1		已登记	
-kāya-indriya	cpd.	3	身根 3		已登记	
+kāya-indriya	cpd.	8	身根 6；身 1；身…根 1		已登记	
+kāya-indriya-bhāga	cpd.	1	身…分 1		已登记	
 kāya-indriya-paramāṇu	cpd.	3	身根極微 3		已登记	
 kāya-indriya-ādi	cpd.	1	身等…根 1		已登记	
 kāya-jihvā-indriya	cpd.	1	身舌二根 1		已登记	
+kāya-jīvita-manas	cpd.	1	身、命、意 1	kāya-jīvita-manaḥ；kāya-jīvita-mano	已登记	
+kāya-jīvita-manas-upekṣā-indriya	cpd.	1	身、命、意、捨 1	kāya-jīvita-manaḥ-upekṣā-indriya；kāya-jīvita-mano-upekṣā-indriya	已登记	
+kāya-manas-jīvita	cpd.	1	身、命、意 1	kāya-manaḥ-jīvita；kāya-mano-jīvita	已登记	
 kāya-manas-vijñāna-dharma	cpd.	1	身識法 1	kāya-manaḥ-vijñāna-dharma；kāya-mano-vijñāna-dharma；kāya-manovijñāna-dharma	已登记	
 kāya-rūpa	cpd.	1	身色 1		已登记	
 kāya-vijñapti	cpd.	1	身表 1		已登记	
@@ -1002,82 +1226,105 @@ kāya-viṣaya-vijñāna	cpd.	1	總皆 1		已登记
 kāya-vāc-karman	cpd.	2	身語業 2		已登记	
 kāya-vāc-vijñapti-saṃgṛhīta	cpd.	1	身語表攝 1		已登记	
 kāya-āyatana	cpd.	1	身處 1		已登记	
+kāyika	adj.	8	身 4；在身 3；身受 1		已登记	
 kāśmīra	n.	2	迦濕彌羅 1；迦濕彌羅國 1		已登记	
 kāśmīra-vaibhāṣika	cpd.	1	迦濕彌羅國毘婆沙 1		已登记	
 kāśmīraka	n.	1	迦濕彌羅國 1		已登记	
 kāṭhinya	n.	1	堅 1		已登记	
 kāṭhinya-ādi	cpd.	1	堅…等 1		已登记	
+kīdṛśa	adj.	1	何相 1		已登记	
 kḷp (caus.)	v.	1	許 1		已登记	
-kṛ	abs./v./inf.	8	（未译） 3；許 1；立 1；作 1；興 1		已登记	
+kṛ	v./abs./inf.	16	（未译） 7；立 3；辯 2；許 1；作 1		已登记	
+kṛ (caus.)	v.	1	為 1		已登记	
 kṛt	adj.	4	（未译） 2；作 2		已登记	
-kṛta	ptc.	1	作 1		已登记	
+kṛta	ptc.	4	起 1；說 1；所受 1；作 1		已登记	
 kṛtsna	n.	3	遍 2；遍處 1		已登记	
 kṛtsna-āyatana	cpd.	2	遍處 2		已登记	
 kṛṣ	v.	1	吸 1		已登记	
-kṣaṇa	n.	5	念 3；剎那 1；（未译） 1		已登记	
+kṣaya	n.	2	盡 2		已登记	
+kṣaya-an-utpāda-jñāna-lābha	cpd.	1	得盡智、無生智 1		已登记	
+kṣaṇa	n.	7	念 4；剎那 2；（未译） 1		已登记	
 kṣaṇika	adj.	3	一剎那 2；剎那 1		已登记	
 kṣetra	n.	1	田 1		已登记	
 kṣetra-bīja-saṃdarśana-artha	cpd.	1	顯似…田種次第 1		已登记	
 kṣānti	n.	3	忍 3		已登记	
+kṣīṇa	ptc.	1	將盡 1		已登记	
 labdha	ptc.	1	得 1		已登记	
-labdha-avihīna-cakṣus	cpd.	1	得眼不失 1	labdha-avihīna-cakṣur	已登记	
-labh	v.	1	得 1		已登记	
+labdha-a-vihīna-cakṣus	cpd.	1	得眼不失 1	labdha-a-vihīna-cakṣur；labdha-avihīna-cakṣus	已登记	
+labh	v.	6	得 6		已登记	
 laghu	adj.	1	輕 1		已登记	
 laghu-samudīraṇa-tva	cpd.	1	輕等動性 1		已登记	
 laghu-tva	n.	3	輕 3		已登记	
 lakṣaṇa	n.	15	相 15		已登记	
-laukika	adj.	4	世間 4		已登记	
+laukika	adj.	7	世間 7		已登记	
 lavaṇa	adj.	1	醎 1		已登记	
+liṅga	n.	2	形 2		已登记	
 lobha	n.	2	貪 2		已登记	
 lobha-ādi-saṃprayukta	cpd.	1	貪等相應 1	lobha-ādi-saṃ-pra-yukta	已登记	
 lobha-ādi-svabhāva-saṃprayukta-samuttha	cpd.	1	貪等性相應等起 1	lobha-ādi-svabhāva-saṃ-pra-yukta-samuttha	已登记	
-loc.	gram.	43	中 12；於 12；於…中 5；在…中 2；於…上 2		已登记	
-loc. abs.	gram.	10	若 2；（未译） 2；時 2；既 1；設許…有 1		已登记	
+loc.	gram.	73	中 18；於 18；於…中 9；在 4；依 3		已登记	
+loc. abs.	gram.	11	時 3；若 2；（未译） 2；既 1；設許…有 1		已登记	
 lohita	adj.	2	赤 2		已登记	
-loka	n.	12	世間 7；世 3；世俗 1；（未译） 1		已登记	
+loka	n.	16	世間 10；世 3；（未译） 2；世俗 1		已登记	
 loka-saṃjñā	cpd.	3	世想 2；（未译） 1		已登记	
+lokottara	adj.	3	出世 3		已登记	
 lopa	n.	2	略去 2		已登记	
 luj	v.	1	毀壞 1		已登记	
-lābha	n.	2	得 2		已登记	
+lābha	n.	5	得 4；（未译） 1		已登记	
+lābhin	adj.	1	得 1		已登记	
 madhura	adj.	1	甘 1		已登记	
 madhura-amla-lavaṇa-kaṭuka-tiktaka-kaṣāya-bheda	cpd.	1	甘、醋、醎、辛、苦、淡別 1		已登记	
-madhya	adj./n.	7	中 6；中間 1		已登记	
+madhya	adj./n.	11	中 10；中間 1		已登记	
+madhya-indriya	cpd.	1	中…根 1		已登记	
 madhya-jihvā	cpd.	1	舌中 1		已登记	
 madhya-pada-lopa	cpd.	2	略去中言 2		已登记	
-mahat	adj.	24	大 22；（未译） 1；多 1	mahā	已登记	
+mahat	adj.	26	大 24；（未译） 1；多 1	mahā	已登记	
 mahat-tva	n.	1	（未译） 1		已登记	
 mahikā	n.	2	霧 2		已登记	
 mahā-arṇava	cpd.	1	大海 1		已登记	
-mahā-bhūta	cpd.	18	大種 17；大 1		已登记	
+mahā-bhūta	cpd.	19	大種 18；大 1		已登记	
 mahā-puruṣa	cpd.	1	大士 1		已登记	
 mahā-puruṣa-lakṣaṇa	cpd.	1	大士…相 1		已登记	
 mahā-saṃniveśa-tva	cpd.	1	形相大 1		已登记	
-maithuna	n.	1	婬 1		已登记	
+maithuna	n.	2	婬欲 1；婬 1		已登记	
+maithuna-dharma-vairāgya	cpd.	1	離婬欲法 1		已登记	
 maithuna-sparśa-mukha	cpd.	1	依婬觸 1		已登记	
+mala	n.	1	垢 1		已登记	
 malla	n.	1	相撲 1		已登记	
 man	v.	1	執 1		已登记	
-manas	n.	84	意 73；（未译） 7；意界 2；意根 1；心 1	manaḥ；mano	已登记	
+manas	n.	114	意 100；（未译） 7；意根 3；意界 2；三 1	manaḥ；mano	已登记	
 manas-bhāva	cpd.	1	意性 1	manaḥ-bhāva；mano-bhāva	已登记	
 manas-dharma-manas-vijñāna-dhātu	cpd.	3	後三 1；意、法…意識界 1；（未译） 1	manas-dharma-manaḥ-vijñāna-dhātu；manas-dharma-mano-vijñāna-dhātu；manas-dharma-manovijñāna-dhātu；manaḥ-dharma-manas-vijñāna-dhātu；mano-dharma-manas-vijñāna-dhātu	已登记	
 manas-dharma-āyatana	cpd.	3	意處法處 1；意處、法處 1；意法處 1	manaḥ-dharma-āyatana；mano-dharma-āyatana	已登记	
 manas-dhātu	cpd.	16	意界 12；意 4	manaḥ-dhātu；mano-dhātu	已登记	
 manas-dhātu-lakṣaṇa	cpd.	1	意界相 1	manaḥ-dhātu-lakṣaṇa；mano-dhātu-lakṣaṇa	已登记	
 manas-dhātu-tva	cpd.	1	意位 1	manaḥ-dhātu-tva；mano-dhātu-tva	已登记	
-manas-indriya	cpd.	3	意根 3	manaḥ-indriya；mano-indriya	已登记	
+manas-duḥkha-sukha-saumanasya-upekṣā-indriya	cpd.	1	意…四受 1	manaḥ-duḥkha-sukha-saumanasya-upekṣā-indriya；mano-duḥkha-sukha-saumanasya-upekṣā-indriya	已登记	
+manas-indriya	cpd.	6	意根 5；意 1	manaḥ-indriya；mano-indriya	已登记	
+manas-jīvita-kāya-indriya	cpd.	1	身、命、意 1	manaḥ-jīvita-kāya-indriya；mano-jīvita-kāya-indriya	已登记	
+manas-jīvita-upekṣā-indriya	cpd.	1	意、命、捨…根 1	manaḥ-jīvita-upekṣā-indriya；mano-jīvita-upekṣā-indriya	已登记	
 manas-saṃsparśa-ja	cpd.	1	意觸所生 1	manaḥ-saṃsparśa-ja；mano-saṃsparśa-ja	已登记	
+manas-sukha-saumanasya-upekṣā	cpd.	3	意樂喜捨 3	manaḥ-sukha-saumanasya-upekṣā；mano-sukha-saumanasya-upekṣā	已登记	
+manas-upekṣā-indriya	cpd.	2	意、捨…根 1；意…捨 1	manaḥ-upekṣā-indriya；mano-upekṣā-indriya	已登记	
 manas-vijñāna	cpd.	16	意識 13；（未译） 2；識 1	manaḥ-vijñāna；mano-vijñāna；manovijñāna	已登记	
 manas-vijñāna-dhātu	cpd.	8	意識 4；意識界 4	manaḥ-vijñāna-dhātu；mano-vijñāna-dhātu；manovijñāna-dhātu	已登记	
 manas-vijñāna-saṃprayukta	cpd.	3	意識相應 3	manas-vijñāna-saṃ-pra-yukta；manaḥ-vijñāna-saṃprayukta；mano-vijñāna-saṃprayukta；manovijñāna-saṃprayukta	已登记	
+manas-vitti-traya	cpd.	1	意三受 1	manaḥ-vitti-traya；mano-vitti-traya	已登记	
 manas-ādi	cpd.	1	三 1	manaḥ-ādi；mano-ādi	已登记	
 manas-āyatana	cpd.	3	意處 3	manaḥ-āyatana；mano-āyatana	已登记	
+manda	adj.	1	昧 1		已登记	
 mandatā	n.	1	昧 1		已登记	
 manojña	adj.	1	可意 1		已登记	
-manojña-amanojña-bheda	cpd.	1	可意…不可意差別 1		已登记	
-manuṣya	n.	2	人 2		已登记	
+manojña-a-manojña-bheda	cpd.	1	可意…不可意差別 1	manojña-amanojña-bheda	已登记	
+manuṣya	n.	3	人 3		已登记	
 manāpa	adj.	1	所餘 1		已登记	
-mata	ptc./n.	4	應知 3；意 1		已登记	
+maraṇa	n.	4	命終 2；死 2		已登记	
+maraṇa-vaśin-tva-jñāpana-artham	cpd.	1	為顯於死得自在故 1		已登记	
+-mat (possessive)	gram.	2	成 2		已登记	
+mata	ptc./n.	6	應知 4；意 2		已登记	
+mata-vikalpa-artha	cpd.	1	顯…餘師意 1		已登记	
 matsya	n.	1	魚 1		已登记	
-maula	adj.	1	本 1		已登记	
+maula	adj.	2	本 2		已登记	
 maula-sattva-dravya-saṃdarśana-artham	cpd.	1	為顯…士夫本事 1		已登记	
 mañca	n.	1	床座 1		已登记	
 maśaka	n.	1	蚊 1		已登记	
@@ -1092,6 +1339,7 @@ mitra	n.	1	親 1		已登记
 miśrī-bhū	v.	1	相雜 1		已登记	
 moha	n.	3	愚 2；（未译） 1		已登记	
 moha-indriya-ruci-traidha	cpd.	1	愚根樂三 1		已登记	
+mriyamāṇa	ptc.	5	命終 3；（未译） 1；死 1		已登记	
 mukha	n.	5	依 3；門 1；口 1		已登记	
 muni	n.	1	牟尼 1		已登记	
 mā	ind.	1	何用 1		已登记	
@@ -1100,54 +1348,68 @@ māhātmya-jñāpana-artham	cpd.	1	為顯…其體尊高超諸聖眾 1		已登�
 mālā	n.	1	花鬘 1		已登记	
 māna	n.	1	（未译） 1		已登记	
 mānasa	adj.	6	意地 2；意 1；（未译） 1；意識相應 1；依意根 1		已登记	
-mārga	n.	8	道 8		已登记	
+māra	n.	2	魔 1；魔…魔 1		已登记	
+mārga	n.	29	道 29		已登记	
 mārga-satya	cpd.	5	道諦 4；道聖諦 1		已登记	
-mārga-satya-asaṃskṛta-saṃgṛhīta	cpd.	2	道諦攝 1；是道諦無為 1		已登记	
+mārga-satya-a-saṃskṛta-saṃgṛhīta	cpd.	2	道諦攝 1；是道諦無為 1	mārga-satya-asaṃskṛta-saṃgṛhīta	已登记	
 mārga-varjita	cpd.	1	除道 1		已登记	
 mārjāra	n.	1	猫狸 1		已登记	
 mātra	n./adj.	9	唯 6；（未译） 1；暫 1；量 1		已登记	
 māṃsa	n.	3	肉 3		已登记	
 māṃsa-divya-ārya-prajñā-cakṣus-traya-gocara-tva	cpd.	1	肉、天、聖慧三眼境 1	māṃsa-divya-ārya-pra-jñā-cakṣus-traya-gocara-tva；māṃsa-divya-ārya-prajñā-cakṣur-traya-gocara-tva	已登记	
 māṃsa-piṇḍa	cpd.	2	肉團 2		已登记	
-mūla	n.	4	根 4		已登记	
+mūla	n.	10	根 8；（未译） 1；樹下 1		已登记	
 mūla-varja	cpd.	1	除與根合 1		已登记	
 mūtra	n.	1	小便利 1		已登记	
+mṛ	v.	2	死 2		已登记	
 mṛdaṅga	n.	1	鼓 1		已登记	
-mṛdu	adj.	1	鈍 1		已登记	
+mṛdu	adj.	2	下 1；鈍 1		已登记	
+mṛdu-indriya	cpd.	1	下…根 1		已登记	
 mṛdutā	n.	1	柔軟 1		已登记	
-mṛtyu	n.	1	死 1		已登记	
-na	ind.	66	不 16；非 15；無 15；不爾 5；（未译） 4		已登记	
+mṛtyu	n.	2	（未译） 1；死 1		已登记	
+na	ind.	99	不 23；非 23；無 22；不爾 6；（未译） 6		已登记	
 na bhavitavyam	ind.	1	此難非理 1		已登记	
 na jātu	ind.	1	未嘗 1		已登记	
-na tu	ind.	11	非 3；而非 2；不 2；然 1；但無 1		已登记	
+na tu	ind.	12	非 3；而非 2；不 2；然無 1；然 1		已登记	
 na śakyam	ind.	1	非理 1		已登记	
 na śakyam punar	ind.	1	畢竟不 1		已登记	
 nabhas	n.	1	空 1		已登记	
 nad	v.	1	鳴 1		已登记	
 nadī	n.	2	河 2		已登记	
+nairmāṇika	adj.	1	能變化 1		已登记	
 naivasaṃjñānāsaṃjñāyatana	n.	1	非想非非想處 1		已登记	
 naivasaṃjñānāsaṃjñāyatana-upaga	cpd.	1	非想非非想處 1		已登记	
 naiḥṣyandika	adj.	6	等流 4；等流性 2		已登记	
 naiḥṣyandika-vipākaja	cpd.	1	等流…異熟生 1		已登记	
+naiṣkramya	n.	1	出離 1		已登记	
+naiṣkramya-āśrita	cpd.	1	出離依 1		已登记	
 naiṣyandika	adj.	1	等流 1		已登记	
 nakha	n.	1	爪 1		已登记	
 namas-kṛ	abs.	2	敬禮 1；禮 1		已登记	
 namaskāra	n.	1	敬禮 1		已登记	
-nanu	ind.	5	豈不 2；（未译） 1；若爾 1；何緣…非 1		已登记	
+nanu	ind.	6	豈不 3；（未译） 1；若爾 1；何緣…非 1		已登记	
 naraka	n.	1	捺落迦 1		已登记	
-navan	num.	6	九 4；（未译） 2		已登记	
+nava-āpti	cpd.	1	九得 1		已登记	
+navama	num.	3	第九 2；（未译） 1		已登记	
+navan	num.	24	九 21；（未译） 3		已登记	
 naṭa	n.	1	舞 1		已登记	
 ni-dṛś (caus.)	inf.	1	示現 1		已登记	
 ni-rudh	v.	4	滅 4		已登记	
+ni-rudh (caus.)	v.	7	滅 4；（未译） 2；捨 1		已登记	
 ni-vṛt	v.	1	生 1		已登记	
+nikāya	n.	4	眾 3；同 1		已登记	
+nikāya-sabhāga-saṃbandha-saṃdhāraṇa	cpd.	1	眾同分…續…持 1		已登记	
+nikāya-sabhāga-sthiti	cpd.	2	眾同分住 2		已登记	
+nikāya-sthiti-saṃkleśa-vyavadāna-ādhipatya	cpd.	1	同住雜染，清淨增上 1		已登记	
 nikṣipta	ptc.	1	置 1		已登记	
-nimitta	n.	4	像 2；相 1；助…緣 1		已登记	
+nimeṣa	n.	1	閉 1		已登记	
+nimitta	n.	6	因 2；像 2；相 1；助…緣 1		已登记	
 nimitta-udgrahaṇa-ātmaka	cpd.	2	取像為體 2		已登记	
 nimīlita	ptc.	1	觸 1		已登记	
 nipāta	n.	1	和會 1		已登记	
 nir-avayava	adj.	1	無…分 1		已登记	
 nir-avaśeṣa	adj.	1	全 1		已登记	
-nir-diś	v.	2	辯釋 1；得名 1		已登记	
+nir-diś	v.	3	言 1；辯釋 1；得名 1		已登记	
 nir-hetuka	adj.	1	無因 1		已登记	
 nir-indriya	adj.	1	無根 1		已登记	
 nir-indriya-tva	cpd.	1	無根 1		已登记	
@@ -1160,37 +1422,46 @@ nirantara-prāpti	cpd.	1	無間生 1		已登记
 nirantara-tva	n.	1	無間 1		已登记	
 nirantara-utpatti	cpd.	1	無間生 1		已登记	
 niravaśeṣa-aṅga-cheda	cpd.	1	全斷 1		已登记	
-nirdeśa	n.	5	品 3；說 2		已登记	
+nirdeśa	n.	8	說 3；品 3；辯 1；釋 1		已登记	
 nirdeśya	gdv.	1	說 1		已登记	
 nirdiṣṭa	ptc.	3	說 2；言 1		已登记	
+nirdoṣa	adj.	1	無過法 1		已登记	
+nirjaya	n.	1	伏 1		已登记	
+nirjaya-artham	cpd.	1	伏 1		已登记	
+nirjita	ptc.	1	伏 1		已登记	
 nirmukta	ptc.	2	除 2		已登记	
-nirodha	n.	15	滅 14；滅盡 1		已登记	
+nirodha	n.	16	滅 15；滅盡 1		已登记	
 nirodha-mārga-satya-ālambana	cpd.	1	緣滅道諦 1		已登记	
 niruddha	ptc.	6	滅 6		已登记	
 nirukti	n.	1	言詞 1		已登记	
 nirvacana	n.	2	訓釋詞 1；釋…名 1		已登记	
-nirvāṇa	n.	3	涅槃 3		已登记	
+nirvāṇa	n.	4	涅槃 4		已登记	
 nirvāṇa-dharma	cpd.	1	法，所謂涅槃 1		已登记	
 nirākṛṣṭa	ptc.	1	引生 1		已登记	
 nirūpaṇa	n.	2	計度 1；可示 1		已登记	
 nirūpaṇa-anusmaraṇa-vikalpa	cpd.	1	計度隨念 1		已登记	
 nitya	adj.	4	常 4		已登记	
-nityam	ind.	5	恒 2；一切時 1；常 1；必 1		已登记	
+nityam	ind.	6	恒 2；（未译） 1；一切時 1；常 1；必 1		已登记	
 niveśita	ptc.	1	為 1		已登记	
 niviṣṭa	ptc.	1	居 1		已登记	
-nivṛtti	n.	2	滅 2		已登记	
+nivṛtti	n.	5	還滅 3；滅 2		已登记	
 niyama	n.	2	決定相 1；定准 1		已登记	
 niyata	ptc.	2	定 2		已登记	
 niyata-mṛtyu	cpd.	1	定…死 1		已登记	
 niyatam	ind.	1	定 1		已登记	
-niśraya	n.	2	所依 2		已登记	
+niśraya	n.	3	所依 2；依地 1		已登记	
+niśraya-viśeṣa	cpd.	1	依地…差別 1		已登记	
 niśrita	ptc.	2	依止 2		已登记	
-niḥsaraṇa	n.	1	永離 1		已登记	
+niḥ-śubha	adj.	3	無善 2；斷善根 1		已登记	
+niḥsaraṇa	n.	2	出離 1；永離 1		已登记	
 niḥsāra	n.	1	離 1		已登记	
 niṣ-prayojana	adj.	5	無用 5		已登记	
 niṣ-prayojana-tva	cpd.	2	無用 2		已登记	
 niṣyanda	n.	1	性 1		已登记	
+niṣṭhita	ptc.	1	竟 1		已登记	
 nom.	gram.	1	（未译） 1		已登记	
+nu	ind.	1	（未译） 1		已登记	
+nyāya	n.	2	所說 2		已登记	
 nyāyya	adj.	1	理應 1		已登记	
 nāda	n.	1	鳴 1		已登记	
 nāma	ind.	6	名 3；謂 1；雖 1；是…義 1		已登记	
@@ -1198,25 +1469,30 @@ nāma-antara	cpd.	1	別名 1		已登记
 nāma-svabhāva	cpd.	1	名為體 1	nāman-svabhāva	已登记	
 nāman	n.	6	名 6		已登记	
 nāsikā	n.	2	鼻 2		已登记	
+nī	v.	2	導 1；通 1		已登记	
 nīhāra	n.	1	地水氣騰 1		已登记	
 nīla	adj.	5	青 5		已登记	
-nīla-pīta-dīrgha-hrasva-strī-puruṣa-mitra-amitra-sukha-duḥkha-ādi-nimitta-udgrahaṇa	cpd.	1	執取青黃長短、男女怨親、苦樂等相 1		已登记	
+nīla-pīta-dīrgha-hrasva-strī-puruṣa-mitra-a-mitra-sukha-duḥkha-ādi-nimitta-udgrahaṇa	cpd.	1	執取青黃長短、男女怨親、苦樂等相 1	nīla-pīta-dīrgha-hrasva-strī-puruṣa-mitra-amitra-sukha-duḥkha-ādi-nimitta-udgrahaṇa	已登记	
 nīla-pīta-lohita-avadāta-chāyā-ātapa-āloka-andhakāra-ākhya	cpd.	1	青、黃、赤、白、影、光、明、闇 1		已登记	
 nīla-ādi	cpd.	2	青、黃、赤、白 1；青等 1		已登记	
 nīlikā	adj.	1	黑 1		已登记	
-opt.	gram.	9	應 4；可 2；或 1；容 1；能 1		已登记	
-oṃ namo buddhāya	formula	1	（未译） 1		已登记	
+opt.	gram.	15	應 6；或 3；可 3；能 2；容 1		已登记	
+oṃ namo buddhāya	formula	2	（未译） 2		已登记	
 oṣadhi	n.	1	藥 1		已登记	
 pada	n.	2	言 2		已登记	
 pakti	n.	1	熟 1		已登记	
-para	pron./adj.	13	他 11；餘 1；自 1		已登记	
+pakṣa	n.	2	品 2		已登记	
+para	pron./adj.	15	他 13；餘 1；自 1		已登记	
 para-bhāva	cpd.	4	他性 3；餘 1		已登记	
 para-bhāva-viyoga	cpd.	1	離他性 1		已登记	
-para-hita	cpd.	1	利他 1		已登记	
+para-hita	cpd.	2	他利益安樂 1；利他 1		已登记	
+para-hita-artham	cpd.	1	為利益安樂他故 1		已登记	
 para-hita-pratipatti-saṃpad	cpd.	1	利他德圓 1		已登记	
 para-hita-pratipatti-upāya	cpd.	1	利他德 1		已登记	
+para-tva	n.	1	勝 1		已登记	
 param	ind.	1	極多 1		已登记	
-parama	adj.	1	勝 1		已登记	
+parama	adj.	2	最勝 1；勝 1		已登记	
+parama-aiśvarya	cpd.	1	最勝自在 1		已登记	
 parama-artha	cpd.	1	勝義 1		已登记	
 parama-artha-dharma	cpd.	1	勝義法 1		已登记	
 paramāṇu	n.	34	極微 32；微 2		已登记	
@@ -1226,24 +1502,39 @@ paraśu	n.	1	斧 1		已登记
 paraśu-dāru-ādi-saṃjñaka	cpd.	1	成斧薪等 1		已登记	
 paraṃparā	n.	2	傳 2		已登记	
 pareṇa	ind.	1	越…於餘 1		已登记	
-paribhoga	n.	1	受用 1		已登记	
+pari-hā	abs./v.	2	退 1；還退 1		已登记	
+paribhoga	n.	2	受用 2		已登记	
 pariccheda	n.	2	差別 1；（未译） 1		已登记	
-parihāra	n.	3	釋難 1；釋 1；捨 1		已登记	
+parihāra	n.	4	避 1；釋難 1；釋 1；捨 1		已登记	
 parihāṇa	n.	1	斷 1		已登记	
+parihīṇa	ptc.	1	退 1		已登记	
 parijñā	n.	1	知 1		已登记	
 parijñā-parihāṇa	cpd.	1	應知應斷 1		已登记	
+parijñāta	ptc.	1	遍知 1		已登记	
+parijñātavya	gdv.	1	遍知 1		已登记	
+parikalpa	n.	1	分別 1		已登记	
+parikalpa-viśeṣa	cpd.	1	分別差別 1		已登记	
+parikarṣaṇa	n.	3	導養 3		已登记	
 parimaṇḍala	adj.	1	圓 1		已登记	
 parimāṇa	n.	2	量 1；形量 1		已登记	
 parimāṇa-pariccheda	cpd.	1	形量差別 1		已登记	
+parinirvāṇa	n.	2	涅槃 1；般涅槃 1		已登记	
+parivarjana	n.	1	避 1		已登记	
 pariśiṣṭa	ptc.	1	所餘 1		已登记	
 pariśuddha	ptc.	1	分明 1		已登记	
+pariṣkāra	n.	1	緣 1		已登记	
 paruṣatā	n.	1	麁強 1		已登记	
+parvan	n.	1	支節 1		已登记	
 parvata	n.	3	山 3		已登记	
 parvata-ādi	cpd.	1	山等 1		已登记	
-paryanta	n.	1	為後 1		已登记	
-paryāya	n.	2	差別…名 1；別名 1		已登记	
+paryanta	n.	2	乃至 1；為後 1		已登记	
+paryāya	n.	5	門 2；名異體同 1；差別…名 1；別名 1		已登记	
+parīkṣā	n.	1	觀察 1		已登记	
+parīkṣā-prakāra	cpd.	1	品類觀察 1		已登记	
 parṣad	n.	1	徒眾 1		已登记	
-pass.	gram.	13	所 5；可 4；得 2；令 1；（未译） 1		已登记	
+pass.	gram.	17	所 6；可 4；（未译） 3；得 2；應 1		已登记	
+patana	n.	1	墮落 1		已登记	
+patha	n.	1	道 1		已登记	
 paurāṇa	adj.	1	昔 1		已登记	
 pañca-bhūmika	cpd.	2	通五地 1；五地 1		已登记	
 pañca-indriya	cpd.	3	五根 3		已登记	
@@ -1255,11 +1546,13 @@ pañca-indriya-āśraya	cpd.	1	依五根 1		已登记
 pañca-skandha	cpd.	3	五蘊 2；五 1		已登记	
 pañca-skandha-svabhāva-tva	cpd.	1	五蘊性 1		已登记	
 pañca-skandhaka	cpd.	1	五蘊 1		已登记	
+pañca-vijñāna-kāya-a-bhāva	cpd.	1	五識無 1		已登记	
 pañca-vijñāna-sahaja	cpd.	3	五識俱生 2；五識俱 1		已登记	
 pañcadaśan	num.	1	十五 1		已登记	
-pañcaka	adj.	1	五 1		已登记	
+pañcaka	n./adj.	3	五 3		已登记	
+pañcaka-aṣṭan	cpd.	1	五八 1		已登记	
 pañcama	num.	2	第五 2		已登记	
-pañcan	num.	59	五 58；（未译） 1	pañca	已登记	
+pañcan	num.	83	五 81；（未译） 2	pañca	已登记	
 pañcavidha	adj.	1	五種 1		已登记	
 paścima	adj.	2	後 2		已登记	
 paścāt	ind.	5	後 4；當 1		已登记	
@@ -1267,14 +1560,15 @@ paścāt-pādaka	cpd.	1	順後句 1		已登记
 paśyat	ptc.	15	見 14；觀察 1		已登记	
 paṅka	n.	2	泥 2		已登记	
 paṅka-bhūta	cpd.	1	譬泥 1		已登记	
+paṇḍaka	n.	1	半擇 1		已登记	
 paṇḍita	n.	1	智者 1		已登记	
 paṭa	n.	2	衣 2		已登记	
 paṭa-ekadeśa	cpd.	1	少衣 1		已登记	
 paṭh	v.	1	說 1		已登记	
-paṭu	adj.	1	明 1		已登记	
+paṭu	adj.	2	明 2		已登记	
 paṭu-mandatā	cpd.	1	明昧 1		已登记	
 paṭīyas	adj.	1	強盛 1		已登记	
-phala	n.	9	果 7；（未译） 2		已登记	
+phala	n.	27	果 24；（未译） 3		已登记	
 phala-hetu	cpd.	1	因 1		已登记	
 phala-kāla-prāpta	cpd.	1	至得果時 1		已登记	
 phala-upacāra	cpd.	1	假立果名 1		已登记	
@@ -1285,75 +1579,88 @@ piśāca	n.	1	畢舍遮 1		已登记
 piṇḍa	n.	4	團 2；丸 1；總 1		已登记	
 piṇḍa-ātma-grahaṇa	cpd.	1	總執為我 1	piṇḍa-ātman-grahaṇa	已登记	
 piṇḍī-kṛ	abs.	1	結集 1		已登记	
-pl.	gram.	37	諸 34；眾 2；諸…中 1		已登记	
-ppp.	gram.	22	已 11；所 6；前 2；（未译） 1；曾 1		已登记	
+pl.	gram.	44	諸 39；多 2；眾 2；諸…中 1		已登记	
+ppp.	gram.	31	已 19；所 6；曾 2；前 2；（未译） 1		已登记	
+pra-ni-dhā	abs.	2	發願 2		已登记	
 pra-ni-pat	abs.	1	稽…接足 1		已登记	
 pra-nī	inf.	1	造 1		已登记	
-pra-sañj	v.	2	成…失 1；應 1		已登记	
+pra-sañj	v.	3	應 2；成…失 1		已登记	
 pra-vac	v.	1	說 1		已登记	
 pra-vi-ci	inf.	1	簡擇 1		已登记	
-pra-āp	v./inf.	13	應 8；應許 1；至 1；如是失 1；得生 1		已登记	
-prabheda	n.	1	差別 1		已登记	
+pra-viś	v.	2	入 1；（未译） 1		已登记	
+pra-āp	v./inf.	23	應 8；得 5；證 4；證得 2；應許 1		已登记	
+prabhava	n.	1	生 1		已登记	
+prabheda	n.	3	分別 1；辯 1；差別 1		已登记	
+prabhu-tva	n.	1	自在 1		已登记	
 prabhā	n.	7	光 5；焰 2		已登记	
-prabhāva	n.	1	威力 1		已登记	
+prabhāva	n.	2	力 1；威力 1		已登记	
 prabhāvita	ptc.	5	相顯了 4；強 1		已登记	
-prabhṛti	ind./n.	2	以上 1；等 1		已登记	
+prabhṛti	n./ind.	3	類 1；以上 1；等 1		已登记	
 pracalana	n.	2	動 2		已登记	
 praccheda	n.	1	可分段 1		已登记	
 praccheda-artha	cpd.	1	可分段義 1		已登记	
 pracyuta	ptc.	1	沒 1		已登记	
 pracāra	n.	1	行相 1		已登记	
 pracāra-audārika-tā	cpd.	1	麁…行相 1		已登记	
-pradeśa	n.	10	一分 6；（未译） 2；少分 1；分 1		已登记	
+pradeśa	n.	11	一分 6；（未译） 3；少分 1；分 1		已登记	
 pradeśin	adj.	1	有分 1		已登记	
-pradhāna	adj.	3	最勝 3		已登记	
+pradhāna	adj.	5	最勝 3；勝 2		已登记	
 pradhāna-hetu	cpd.	2	最勝因 2		已登记	
+pradhāna-tva	n.	1	勝 1		已登记	
 pradāna	n.	2	授 1；與 1		已登记	
 pradīpa	n.	1	燈光 1		已登记	
 pradīpa-īraṇa-vat	cpd.	1	吹燈光 1		已登记	
 pradīpta	ptc.	1	極熱 1		已登记	
 pradīpta-naraka-abhyantara-avaruddha	cpd.	1	極熱捺落迦中…纏身 1		已登记	
-prahātavya	gdv.	5	斷 3；所斷 2		已登记	
+praheya	gdv.	2	所斷 2		已登记	
+prahātavya	gdv.	7	所斷 4；斷 3		已登记	
+prahāṇa	n.	4	滅 2；斷除 1；斷 1		已登记	
+prahāṇa-arha	cpd.	1	所斷 1		已登记	
 prajñapti	n.	6	假 4；施設 2		已登记	
 prajñapti-sat	cpd.	3	假有 3		已登记	
 prajñapti-śāstra	cpd.	1	施設論 1		已登记	
-prajñā	n./v.	17	慧 16；簡擇 1	pra-jñā	已登记	
+prajñā	n./v.	18	慧 16；（未译） 1；簡擇 1	pra-jñā	已登记	
 prajñā-indriya	cpd.	1	慧根 1	pra-jñā-indriya	已登记	
 prajñā-svabhāva-tva	cpd.	1	慧為性 1	pra-jñā-svabhāva-tva	已登记	
 prajñā-viśeṣa	cpd.	1	慧差別 1	pra-jñā-viśeṣa	已登记	
 prajñāna	n.	1	可知 1		已登记	
-prakaraṇa	n.	4	品類足 2；品類足論 1；（未译） 1		已登记	
+prakaraṇa	n.	5	品類足 2；分別 1；品類足論 1；（未译） 1		已登记	
 prakaraṇa-grantha	cpd.	2	品類足論 2		已登记	
-prakāra	n.	12	品 5；種 3；（未译） 2；廢立 1；各別 1		已登记	
+prakāra	n.	16	品 5；種 3；義類 2；（未译） 2；類 1		已登记	
+prakāra-bheda	cpd.	2	義類差別 2		已登记	
 prakīrṇa	ptc.	1	散 1		已登记	
+prakṛta	ptc.	1	正論 1		已登记	
 pramāṇa	n.	3	量 3		已登记	
 prasarpaṇa	n.	1	流引 1		已登记	
-prasaṅga	n.	16	應 10；失 1；所難 1；（未译） 1；所未說義 1		已登记	
+prasaṅga	n.	19	應 11；乘茲 1；說 1；失 1；所難 1		已登记	
 prasiddhi	n.	2	成 2		已登记	
 prasrabdhi	n.	1	輕安 1		已登记	
 prasrabdhi-sahagata	cpd.	1	輕安俱起 1		已登记	
 prasāda	n.	6	淨 6		已登记	
-prathama	num./adj.	14	初 10；第一 3；（未译） 1		已登记	
+prathama	num./adj.	15	初 10；第一 3；下三地 1；（未译） 1		已登记	
 prathama-an-āsrava	cpd.	1	初無漏 1		已登记	
 prathama-bhūmika	cpd.	1	屬初定 1		已登记	
 prathama-dhyāna	cpd.	4	初定 2；初靜慮 1；梵世 1		已登记	
 prathama-dhyāna-bhūmi	cpd.	2	初定 2		已登记	
 prathama-dhyāna-bhūmika	cpd.	2	屬初定 1；初定 1		已登记	
 prathama-dhyāna-upapanna	cpd.	2	生初靜慮 1；生梵世 1		已登记	
-prathamatas	ind.	1	先 1		已登记	
+prathamatas	ind.	4	初 2；最初 1；先 1		已登记	
 prathamaṃ kośasthānaṃ samāptam	formula	1	（未译） 1		已登记	
-prati	ind.	5	（未译） 2；就 1；各各 1；約 1		已登记	
+prati	ind.	9	（未译） 3；於…中 2；中 1；就 1；各各 1		已登记	
 prati-abhimukha	adj.	1	對向 1		已登记	
 prati-bandh	v.	1	障 1		已登记	
 prati-han	v.	4	有礙 3；礙 1		已登记	
 prati-i	abs.	1	緣 1		已登记	
-prati-labh	v.	2	得 2		已登记	
+prati-labh	v.	3	得 2；立 1		已登记	
+prati-saṃ-vid (caus.)	v.	1	受用 1		已登记	
 pratibandha	n.	3	覆…障 1；有隔 1；被礙 1		已登记	
-pratigha	n.	2	對 2		已登记	
+pratigha	n.	4	對 2；瞋 1；恚 1		已登记	
+pratigha-sahagata	cpd.	1	恚俱 1		已登记	
 pratighāta	n.	19	有對 11；礙 4；（未译） 3；變礙 1		已登记	
+pratijñāta	ptc.	1	先自稱言 1		已登记	
 pratikūla-tva	n.	1	違 1		已登记	
 pratilabhamāna	ptc.	1	得 1		已登记	
-pratilambha	n.	1	得 1		已登记	
+pratilambha	n.	2	招 1；得 1		已登记	
 pratilambha-samanvāgama	cpd.	1	得成就 1		已登记	
 pratilambhika	adj.	1	得 1		已登记	
 pratipakṣa	n.	4	對治 4		已登记	
@@ -1363,21 +1670,25 @@ pratipatti-saṃpad	cpd.	1	德滿 1		已登记
 pratiprākāra	n.	1	外郭 1		已登记	
 pratipādita	ptc.	1	所攝 1		已登记	
 pratipādya	gdv.	2	攝在 2		已登记	
-pratisandhi	n.	1	續生 1		已登记	
+pratisandhi	n.	2	續生 2		已登记	
 pratisandhi-citta	cpd.	1	續生心 1		已登记	
+pratisandhi-kāla	cpd.	1	續生時 1		已登记	
 pratisaṃkhyā	n.	6	擇 6		已登记	
 pratisaṃkhyā-nirodha	cpd.	4	擇滅 3；擇…滅 1		已登记	
 pratisaṃkhyāna	n.	1	各別簡擇 1		已登记	
 pratisaṃvid	n.	1	無礙解 1		已登记	
-pratisaṃyukta	ptc.	1	繫屬 1	prati-saṃ-yukta	已登记	
+pratisaṃyukta	ptc.	3	繫 2；繫屬 1	prati-saṃ-yukta	已登记	
 prativijñapti	n.	1	各了別 1		已登记	
+pratiṣedha	n.	1	（未译） 1		已登记	
 pratiṣṭhita	ptc.	1	住 1		已登记	
 pratyaya	n.	7	緣 7		已登记	
 pratyaya-vaikalya	cpd.	2	闕緣 1；緣不具 1		已登记	
 pratyekabuddha	n.	1	獨覺 1		已登记	
 pratyekabuddha-śrāvaka	cpd.	1	聲聞獨覺 1		已登记	
-pratyekam	ind.	5	各 2；一一…各別 1；種種差別 1；一一 1		已登记	
-pratyutpanna	ptc.	10	現在 7；現 2；（未译） 1		已登记	
+pratyekam	ind.	12	各 6；一一各 2；（未译） 1；一一…各別 1；種種差別 1		已登记	
+pratyupabhoga	n.	1	受用 1		已登记	
+pratyutpanna	ptc.	11	現在 8；現 2；（未译） 1		已登记	
+pratyutpanna-karma-phala	cpd.	1	現在業果 1		已登记	
 pratyāhata	ptc.	1	相擊 1		已登记	
 pratyāsanna-tva	n.	1	親近 1		已登记	
 pratīta	ptc.	1	同說 1		已登记	
@@ -1386,62 +1697,96 @@ pravartamāna	ptc.	1	轉 1		已登记
 pravicaya	n.	4	擇 4		已登记	
 pravicaya-artham	cpd.	1	為…所簡擇 1		已登记	
 pravāha	n.	1	相似相續 1		已登记	
-pravṛtta	ptc.	3	能有 1；為先 1；轉 1		已登记	
-pravṛtti	n.	2	轉 2		已登记	
+pravṛtta	ptc.	4	行轉 1；能有 1；為先 1；轉 1		已登记	
+pravṛtti	n.	4	流轉 2；轉 2		已登记	
 prayojana	n.	4	用 4		已登记	
 prayojana-vaśa	cpd.	1	由有用 1		已登记	
+praśna	n.	2	論 2		已登记	
+praśna-antara	cpd.	1	論 1		已登记	
 praśnaya (denom.)	abs.	1	問 1		已登记	
 praṇetu-kāma	cpd.	1	欲造 1		已登记	
 praṇidhi	n.	1	願 1		已登记	
 praṇidhi-jñāna	cpd.	1	願智 1		已登记	
 praṇīta	ptc.	3	勝 3		已登记	
 prekṣā	n.	1	觀 1		已登记	
+preraṇa	n.	1	引令出 1		已登记	
 pres.	gram.	4	正 4		已登记	
-pres. ptc.	gram.	5	時 3；正 1；正…時 1		已登记	
+pres. ptc.	gram.	9	時 4；正 2；將…時 1；位 1；正…時 1		已登记	
 prādhānya	n.	3	最勝 3		已登记	
 prāk	ind.	2	前 2		已登记	
-prāpta	ptc.	15	至 11；（未译） 1；至得 1；合 1；至根 1		已登记	
-prāpta-aprāpta-viṣaya	cpd.	1	至境及不至境 1		已登记	
+prānta	n.	3	邊 3		已登记	
+prānta-koṭika	cpd.	2	邊際 2		已登记	
+prānta-koṭika-dhyāna-lābhin	cpd.	1	得邊際定 1		已登记	
+prāpaṇa	n.	1	所得 1		已登记	
+prāpta	ptc.	16	至 11；得 1；（未译） 1；至得 1；合 1		已登记	
+prāpta-a-prāpta-viṣaya	cpd.	1	至境及不至境 1	prāpta-aprāpta-viṣaya	已登记	
 prāpta-grahaṇa	cpd.	1	至根…取 1		已登记	
 prāpta-kāla	cpd.	1	時至 1		已登记	
 prāpta-viṣaya	cpd.	5	至境 3；取至香 1；境合 1		已登记	
 prāpta-viṣaya-tva	cpd.	2	至境 2		已登记	
-prāpti	n.	6	得 3；至 2；生 1		已登记	
+prāpti	n.	18	得 14；至 2；（未译） 1；生 1		已登记	
 prāpti-artham	cpd.	1	傳生 1		已登记	
 prāpti-vāha	cpd.	1	得相似相續 1		已登记	
 prāpya	gdv.	1	所得 1		已登记	
+prāthamakalpika	adj.	1	劫初時 1		已登记	
 prāvaraṇa	n.	1	衣 1		已登记	
-prāya	n.	2	從多分說 2		已登记	
-pudgala	n.	2	我 1；者 1		已登记	
-punar	ind.	24	復 8；（未译） 8；又 3；亦 2；復次 1		已登记	
-puruṣa	n.	12	男 9；士 1；臣 1；士夫 1		已登记	
-puruṣa-indriya	cpd.	5	男根 5		已登记	
+prāya	n.	3	從多分說 2；多 1		已登记	
+prīti	n.	3	喜 2；（未译） 1		已登记	
+prīti-vīta-rāga-tva	cpd.	1	離喜貪 1		已登记	
+pudgala	n.	5	位差別 1；補特伽羅 1；別人 1；我 1；者 1		已登记	
+punar	ind.	34	（未译） 12；復 11；又 4；亦 3；者 1		已登记	
+punarbhava	n.	2	後有 2		已登记	
+punarbhava-saṃbandha	cpd.	1	續後有 1		已登记	
+punarbhava-saṃbandha-vaśibhāva-anuvartana	cpd.	1	續後有及自在隨行 1		已登记	
+puruṣa	n.	36	男 27；（未译） 4；男身 2；士 1；臣 1		已登记	
+puruṣa-bhāva	cpd.	1	男相 1		已登记	
+puruṣa-indriya	cpd.	7	男根 6；男…根 1		已登记	
 puruṣa-indriya-adhiṣṭhāna-vat	cpd.	1	如…男根…依處 1		已登记	
+puruṣa-indriya-daurmanasya-śraddhā-ādi	cpd.	1	（未译） 1		已登记	
 puruṣa-indriya-paramāṇu	cpd.	1	男根極微 1		已登记	
+puruṣa-indriya-paryanta	cpd.	1	乃至男根 1		已登记	
+puruṣa-ākṛti-svara-ceṣṭā-abhiprāya	cpd.	1	男身形類音聲作業志樂 1		已登记	
 putra	n.	2	子 2		已登记	
+puṃs	n.	5	男 4；（未译） 1		已登记	
+puṃs-bhāva	cpd.	1	男性 1		已登记	
+puṃs-tva	n.	1	（未译） 1		已登记	
+puṇya	n.	1	勝福業 1		已登记	
+puṇya-kārin	cpd.	1	造勝福業 1		已登记	
 puṣpa	n.	2	花 2		已登记	
 puṣpa-phala-vṛkṣa-vat	cpd.	1	花果樹 1		已登记	
-pāda	n.	1	（未译） 1		已登记	
+pāda	n.	5	足 4；（未译） 1		已登记	
 pādaka	n./adj.	3	句 2；足 1		已登记	
 pāramārthika	adj.	1	勝義 1		已登记	
 pāruṣya	n.	1	麁惡語 1		已登记	
 pāruṣya-virati	cpd.	1	遠離麁惡語 1		已登记	
+pātra	n.	1	鉢 1		已登记	
+pāyu	n.	2	出大便處 1；大…便處 1		已登记	
 pāścāttya	n.	1	西方…師 1		已登记	
-pāṇi	n.	2	手 2		已登记	
+pāṇi	n.	5	手 5		已登记	
+pāṇi-pāda	cpd.	2	手足 2		已登记	
 pāṇi-sparśa	cpd.	1	手觸 1		已登记	
 pāṇi-ādi-saṃsparśa	cpd.	1	手等觸 1		已登记	
 pāṭha	n.	2	（未译） 1；說 1		已登记	
 pāṭha-krama	cpd.	1	於六三中最後說 1		已登记	
 pāṭha-ānupūrvī	cpd.	1	（未译） 1	pāṭha-anupūrvī	已登记	
 pīta	adj.	3	黃 3		已登记	
-pūrva	adj.	2	前 2		已登记	
+pūrva	adj.	6	前 3；眼耳說 1；宿 1；先世 1		已登记	
+pūrva-jāti-kṛta	cpd.	1	前生曾所受 1		已登记	
+pūrva-karma-ja	cpd.	1	宿業所生 1		已登记	
+pūrva-karma-phala	cpd.	1	先世業果 1		已登记	
 pūrva-pādaka	cpd.	1	順前句答 1		已登记	
 pūrva-vat	cpd.	1	同前 1		已登记	
 pūrvaka	adj.	1	先 1		已登记	
 pūrvam	ind.	9	先 8；次第 1		已登记	
+pūrvin	adj.	1	先 1		已登记	
+pṛthagjana	n.	9	異生 9		已登记	
+pṛthagjana-darśana-a-śaikṣa-mārga-stha	cpd.	1	異生見道無學 1		已登记	
+pṛthagjana-pakṣa-avasthita	cpd.	2	住…異生品 2		已登记	
+pṛthagjana-phala-stha	cpd.	1	異生…住果 1		已登记	
 pṛthagjana-tva	n.	3	異生 3		已登记	
 pṛthagjana-tva-prasaṅga	cpd.	1	應是異生 1		已登记	
-pṛthak	ind.	9	別 5；獨 2；各 1；各別 1		已登记	
+pṛthagjana-śaikṣa	cpd.	1	異生…有學 1		已登记	
+pṛthak	ind.	12	別 6；獨 2；前後 1；復 1；各 1		已登记	
 pṛthak-skandha	cpd.	1	別為蘊 1		已登记	
 pṛthak-skandhī-karaṇa	cpd.	1	別立…為蘊 1		已登记	
 pṛthivī	n.	11	地 10；（未译） 1		已登记	
@@ -1451,13 +1796,17 @@ pṛthivī-dhātu	cpd.	3	界…地 1；地界 1；地…界 1		已登记
 pṛthivī-dhātu-ādi	cpd.	1	地…等界 1		已登记	
 pṛthivī-ādi	cpd.	1	地等 1		已登记	
 rajas	n.	2	塵 2		已登记	
-rasa	n.	20	味 19；（未译） 1		已登记	
+rasa	n.	21	味 20；（未译） 1		已登记	
 ratha	n.	2	車 2		已登记	
 raṇa	n.	1	諍 1		已登记	
+roga	n.	2	病 2		已登记	
+roga-abhibhūta	cpd.	1	病等苦逼 1		已登记	
 roman	n.	1	毛 1		已登记	
 ruci	n.	3	樂 3		已登记	
-rāga	n.	6	欲 4；貪 2		已登记	
+rāga	n.	15	貪 6；欲 6；欲貪 3		已登记	
 rāga-dveṣa-moha-māna-ādi-carita-bheda	cpd.	1	貪瞋等…行別 1		已登记	
+rāga-ādi	cpd.	1	貪等 1		已登记	
+rāgin	adj.	2	未離欲 2		已登记	
 rāja-puruṣa-vat	cpd.	1	帝王臣 1		已登记	
 rājan	n.	1	帝王 1		已登记	
 rātri	n.	3	夜 2；俱 1		已登记	
@@ -1469,22 +1818,28 @@ rāśi-pudgala-vat	cpd.	1	如聚如我 1		已登记
 rāśi-vat	cpd.	1	如聚 1		已登记	
 rāśi-āya-dvāra-gotra-artha	cpd.	1	聚生門種族…義 1		已登记	
 rūp	v.	11	變壞 6；變礙 3；可變礙 1；惱壞 1		已登记	
-rūpa	n.	166	色 152；（未译） 9；色界 3；礙 1；色像 1		已登记	
+rūpa	n.	189	色 171；（未译） 12；色界 3；身 1；礙 1		已登记	
 rūpa-abhirāma	cpd.	1	於色…愛樂 1		已登记	
+rūpa-avacara	cpd.	1	色界 1		已登记	
 rūpa-citta	cpd.	1	色心 1		已登记	
-rūpa-dhātu	cpd.	7	色界 7		已登记	
+rūpa-darśana	cpd.	1	見色 1		已登记	
+rūpa-darśana-śabda-śravaṇa	cpd.	1	見色聞聲 1		已登记	
+rūpa-dhātu	cpd.	13	色界 11；色…界 1；（未译） 1		已登记	
 rūpa-dhātu-āpta	cpd.	2	色界 1；色界繫 1		已登记	
 rūpa-gandha-rasa-spraṣṭavya-dhātu	cpd.	1	色香味觸 1		已登记	
 rūpa-gandha-rasa-spraṣṭavya-ākhya	cpd.	1	色香味觸 1		已登记	
 rūpa-kriyā-svabhāva	cpd.	1	以色業為性 1		已登记	
+rūpa-pradhāna-tva	cpd.	1	色勝 1		已登记	
 rūpa-prasāda	cpd.	5	淨色 5		已登记	
 rūpa-rasa-gandha-spraṣṭavya-dhātu	cpd.	1	色、香、味、觸 1		已登记	
 rūpa-saṃskāra-saṃgraha	cpd.	1	色行…攝 1		已登记	
 rūpa-skandha	cpd.	14	色蘊 12；蘊 1；蘊…色 1		已登记	
+rūpa-skandha-saṃgraha	cpd.	1	色蘊攝 1		已登记	
 rūpa-skandha-saṃgṛhīta	cpd.	3	色蘊攝 3		已登记	
 rūpa-skandha-svabhāva	cpd.	1	色蘊性 1		已登记	
 rūpa-svabhāva	cpd.	1	色 1		已登记	
 rūpa-tva-prasaṅga	cpd.	1	應…色 1		已登记	
+rūpa-upalabdhi	cpd.	1	了色識 1		已登记	
 rūpa-upādāna-skandha	cpd.	1	色取蘊 1		已登记	
 rūpa-vedanā-saṃjñā-vijñāna	cpd.	1	色、受、想、識 1		已登记	
 rūpa-vijñāna	cpd.	2	色識 2		已登记	
@@ -1494,6 +1849,8 @@ rūpa-ādi	cpd.	13	色等 8；境 2；色…受…想…行…識 1；餘 1；�
 rūpa-ādi-skandha-pañcaka	cpd.	1	色等五蘊 1		已登记	
 rūpa-ādi-vat	cpd.	1	如色等 1		已登记	
 rūpa-ālocana-artha	cpd.	1	觀照…色 1		已登记	
+rūpa-āpta	cpd.	1	色 1		已登记	
+rūpa-ārūpya-upapanna	cpd.	2	生上二界 1；生色無色界 1		已登记	
 rūpa-ātmaka	adj.	1	色 1		已登记	
 rūpa-āyatana	cpd.	9	色處 7；色 2		已登记	
 rūpa-śabda-dhātu	cpd.	1	色界聲界 1		已登记	
@@ -1502,7 +1859,7 @@ rūpa-śabda-gandha-rasa-spraṣṭavya-vijñāna	cpd.	1	色、聲、香、味�
 rūpa-śabda-gandha-rasa-spraṣṭavya-ākhya	cpd.	1	色、聲、香、味、所觸 1		已登记	
 rūpayiṣyamāṇa	ptc.	1	變礙 1		已登记	
 rūpaṇa	n.	5	變礙 4；變壞 1		已登记	
-rūpin	adj.	11	有色 6；色 5		已登记	
+rūpin	adj.	15	有色 9；色 6		已登记	
 rūpita	ptc.	2	變礙 1；受色名 1		已登记	
 rūpya	n.	1	銀 1		已登记	
 rūḍha	ptc.	1	同許 1		已登记	
@@ -1514,6 +1871,7 @@ sa-avayava-tva	n.	2	有分 2		已登记
 sa-avayava-tva-prasaṅga	cpd.	1	應有分 1		已登记	
 sa-cetana	adj.	1	有覺觸 1		已登记	
 sa-citta	adj.	1	有心 1		已登记	
+sa-devaka	adj.	1	天 1		已登记	
 sa-hetuka-tva	cpd.	1	有因 1		已登记	
 sa-megha	adj.	1	有雲 1		已登记	
 sa-megha-a-megha	cpd.	1	有雲無雲 1	samegha-amegha	已登记	
@@ -1528,18 +1886,21 @@ sa-raṇa	adj.	2	有諍 2		已登记
 sa-rāga	adj.	1	有貪 1		已登记	
 sa-rāga-citta-ādi	cpd.	1	有貪心等 1		已登记	
 sa-rāga-citta-ādi-vacana	cpd.	1	說有貪心等 1		已登记	
+sa-saṃprayoga	adj.	2	及相應 2		已登记	
 sa-tṛṣṇa	adj.	1	有愛 1		已登记	
 sa-vastuka	adj.	2	有事 2		已登记	
 sa-vicāra	adj.	5	有伺 4；伺 1		已登记	
 sa-vijñānaka	adj.	1	與識合 1		已登记	
+sa-vipāka	adj.	7	有異熟 6；二類 1		已登记	
 sa-vitarka	adj.	7	有尋 6；尋 1		已登记	
 sa-vitarka-sa-vicāra	cpd.	1	有尋伺 1		已登记	
 sa-vitarka-vicāra	cpd.	2	尋伺 1；有尋有伺 1		已登记	
 sa-ālambana	adj.	5	有所緣 4；心界 1		已登记	
 sa-ālambana-tva	n.	1	有所緣 1		已登记	
-sa-āsrava	adj.	24	有漏 23；（未译） 1		已登记	
+sa-āsrava	adj.	32	有漏 31；（未译） 1		已登记	
 sa-āsrava-an-āsrava	cpd.	1	通 1		已登记	
-sabhāga	adj.	37	同分 32；同類 4；（未译） 1		已登记	
+sa-āsrava-an-āsrava-tva	cpd.	1	有漏及無漏 1		已登记	
+sabhāga	adj.	40	同分 35；同類 4；（未译） 1		已登记	
 sabhāga-hetu	cpd.	1	同類因 1		已登记	
 sabhāga-hetu-tva	cpd.	1	同類因 1		已登记	
 sabhāga-sarvatraga-hetu-janita	cpd.	1	同類遍行因所生 1		已登记	
@@ -1553,52 +1914,63 @@ saha-bhū	adj.	4	俱有 3；俱起 1	sahabhū	已登记
 saha-bhū-gandha-ādi	cpd.	1	俱有香等 1		已登记	
 saha-bhū-gandha-ādi-a-grahaṇa	cpd.	1	不…取…俱有香等 1		已登记	
 saha-ja	adj.	6	俱 3；俱生 3	sahaja	已登记	
-sahagata	ptc.	1	俱起 1		已登记	
+sahagata	ptc.	3	俱 2；俱起 1		已登记	
 sahakārin	adj.	1	相助 1		已登记	
 sahasra	num.	5	八萬 3；千 2		已登记	
 sakala	adj.	1	全 1		已登记	
+sakṛt	ind.	5	一 3；頓 1；（未译） 1		已登记	
+sakṛt-maraṇa	cpd.	1	頓命終 1		已登记	
+sakṛt-āgāmin-an-āgāmin-phala	cpd.	1	中間…果 1		已登记	
+sakṛt-āgāmin-phala	cpd.	3	一來果 2；一來…果 1		已登记	
 sam-anu-śī	v.	1	隨增 1		已登记	
 sam-anupraveśa	n.	1	攝 1		已登记	
 sam-i	abs.	2	合 1；聚集 1		已登记	
 sam-paṭh	v.	1	說 1		已登记	
 sam-sṛ	v.	1	生死輪迴 1		已登记	
 sam-ud-i	v.	1	招 1		已登记	
+sam-ā-dhā	v.	1	定 1		已登记	
+sam-ā-pad	v.	2	入 2		已登记	
 sam-ṛdh	v.	1	遂 1		已登记	
 sama	adj.	5	等 2；平等 2；均平 1		已登记	
 sama-gandha	cpd.	1	平等香 1		已登记	
 sama-prāpta	cpd.	1	均平 1		已登记	
 sama-saṃsthāna	cpd.	1	形平等 1		已登记	
 sama-viṣama-gandha-tva	cpd.	1	等不等香 1		已登记	
-samagra	adj.	2	多積聚 1；同 1		已登记	
+samagra	adj.	4	具 2；多積聚 1；同 1		已登记	
+samagra-indriya	cpd.	2	具…根 2		已登记	
 samanantara	adj.	9	無間 5；等無間 3；（未译） 1		已登记	
 samanantara-abhyatīta	cpd.	1	無間滅 1		已登记	
 samanantara-atīta	cpd.	3	無間滅 2；過去 1		已登记	
 samanantara-niruddha	cpd.	2	無間滅 2		已登记	
 samanantara-pratyaya	cpd.	1	等無間緣 1		已登记	
 samanantara-pratyaya-bhāva	cpd.	3	等無間緣 3		已登记	
-samanvāgama	n.	4	成就 4		已登记	
-samanvāgata	ptc.	1	成就 1		已登记	
+samanvāgama	n.	5	成就 5		已登记	
+samanvāgata	ptc.	21	成就 15；成 6		已登记	
 samasta	ptc./adj.	2	總為一 1；總 1		已登记	
 samasta-ālambana-tva	cpd.	1	總緣境 1		已登记	
+samaya	n.	1	時 1		已登记	
 samaṅgin	adj.	1	行時 1		已登记	
 samuccaya	n.	1	攝 1		已登记	
 samuccaya-artha	cpd.	1	為攝 1		已登记	
-samucchinna	ptc.	1	斷 1		已登记	
-samucchinna-kuśala-mūla	cpd.	1	斷善根 1		已登记	
+samuccheda	n.	1	斷 1		已登记	
+samucchinna	ptc.	4	斷 4		已登记	
+samucchinna-kuśala-mūla	cpd.	4	斷善根 2；善根已斷 1；善根斷 1		已登记	
 samucchinna-kuśalamūla-vītarāga	cpd.	1	已離欲者斷善根者 1		已登记	
-samudaya	n.	4	集 4		已登记	
+samudaya	n.	5	集 5		已登记	
 samudācāra	n.	1	生 1		已登记	
 samudīraṇa	n.	1	動 1		已登记	
 samuttha	adj.	3	等起 3		已登记	
 samyag-dṛṣṭi	cpd.	3	正見 3		已登记	
 samyak	adj.	3	正 3		已登记	
-samādhi	n.	4	定 3；等持 1		已登记	
+samādhi	n.	8	定 5；（未译） 1；三摩地 1；等持 1		已登记	
 samādhi-indriya	cpd.	1	定根 1		已登记	
+samādhi-ja	cpd.	1	定力所起 1		已登记	
+samādhi-prabhāva	cpd.	1	三摩地力 1		已登记	
 samāhita	ptc.	1	定 1		已登记	
 samāna	adj.	3	同 3		已登记	
 samāna-bhūmika	cpd.	1	同地 1		已登记	
 samāpanna	ptc.	1	入 1		已登记	
-samāpatti	n.	4	等至 2；定 2		已登记	
+samāpatti	n.	5	定 3；等至 2		已登记	
 samāpatti-nirdeśa	cpd.	1	定品 1		已登记	
 samāpatti-upapatti-kāla	cpd.	1	等至…生時 1		已登记	
 samāpta	ptc.	1	周 1		已登记	
@@ -1607,66 +1979,84 @@ samāsa-nirdeśa	cpd.	1	說…略 1		已登记
 samāsatas	ind.	2	總 1；略說 1		已登记	
 samāyukta	ptc.	1	有…屬 1		已登记	
 samūha	n.	2	積集 1；聚 1		已登记	
-sanniśraya	n.	1	依止 1		已登记	
+sanniśraya	n.	2	依因 1；依止 1		已登记	
+santati	n.	1	身中 1		已登记	
 santi … yeṣām	gram.	4	或於諸法 4		已登记	
-santāna	n.	5	相續 5		已登记	
+santāna	n.	6	相續 6		已登记	
 santīraka	adj.	1	決度 1		已登记	
 santīrika	adj.	1	決度 1		已登记	
+sapta-aṣṭa-navan	cpd.	1	七八九 1		已登记	
 sapta-vidha	cpd.	1	七 1		已登记	
 saptadaśan	num.	1	十七 1		已登记	
-saptan	num.	13	七 10；（未译） 3		已登记	
-sarva	adj./pron.	47	一切 30；諸 6；（未译） 2；四皆 2；諸蘊中 1		已登记	
+saptan	num.	25	七 22；（未译） 3		已登记	
+sarva	adj./pron.	59	一切 34；極 6；諸 6；（未译） 2；四皆 2		已登记	
+sarva-alpa	cpd.	4	極少 4		已登记	
 sarva-anya-rūpa-āśraya-tva	cpd.	1	一切餘色所依性 1		已登记	
+sarva-artha-upalabdhi	cpd.	1	了別一切境識 1		已登记	
 sarva-audārika	cpd.	1	諸蘊中麁 1		已登记	
+sarva-bahu	cpd.	2	極多 2		已登记	
 sarva-bhūmika	cpd.	1	通一切 1		已登记	
 sarva-dharma	cpd.	6	一切法 5；一切境 1		已登记	
 sarva-kleśa-nirodha-sākṣātkriyā	cpd.	1	證一切…煩惱滅 1		已登记	
+sarva-rūpa-upalabdhi	cpd.	1	了眾色 1		已登记	
 sarva-sa-āsrava	cpd.	1	一切有漏 1		已登记	
 sarva-saṃgraha	cpd.	1	攝一切 1		已登记	
 sarva-saṃskṛta-saṃgraha	cpd.	1	攝一切有為 1		已登记	
 sarva-ārya-pudgala	cpd.	1	諸聖者 1		已登记	
 sarvatas	ind.	4	一切 2；通 1；如色於識 1		已登记	
-sarvathā	ind.	4	一切種 4		已登记	
+sarvathā	ind.	5	一切種 5		已登记	
 sarvathā-sarva-hata-andhakāra	cpd.	2	一切種諸冥滅 2		已登记	
-sarvatra	ind.	2	於一切 1；諸 1		已登记	
+sarvatra	ind.	5	遍 1；（未译） 1；一切位 1；於一切 1；諸 1		已登记	
 sarvatraga	adj.	1	遍行 1		已登记	
+sarveṇa sarvam	phr.	1	全 1		已登记	
 sarvātman	n.	1	遍體 1		已登记	
-sat	ptc.	5	有 3；正 1；（未译） 1		已登记	
+sat	ptc.	6	有 4；正 1；（未译） 1		已登记	
 satkāya	n.	2	身 2		已登记	
 satkāya-dṛṣṭi	cpd.	1	身見 1		已登记	
 satkāya-dṛṣṭi-ādi	cpd.	1	身見等 1		已登记	
 satkāya-dṛṣṭi-ādika	cpd.	1	身見等 1		已登记	
-sattva	n.	6	有情 5；士夫 1		已登记	
-sattva-asattva-ākhya	cpd.	1	有情名、非有情名 1		已登记	
+sattva	n.	11	有情 9；（未译） 1；士夫 1		已登记	
+sattva-a-sattva-ākhya	cpd.	1	有情名、非有情名 1	sattva-asattva-ākhya	已登记	
+sattva-bheda	cpd.	1	有情異 1		已登记	
+sattva-bheda-vikalpa	cpd.	1	有情異…分別 1		已登记	
+sattva-dravya	cpd.	1	有情 1		已登记	
+sattva-vikalpa	cpd.	1	分別 1		已登记	
 sattva-ākhya	cpd.	1	有情名 1		已登记	
 sattā	n.	1	有境 1		已登记	
 sattā-artha	cpd.	1	有境義 1		已登记	
 satya	n.	11	諦 8；（未译） 1；諦理 1；聖諦 1		已登记	
-saumanasya	n.	1	喜 1		已登记	
-saumanasya-indriya	cpd.	1	喜根 1		已登记	
+saukhya	n.	1	樂 1		已登记	
+saumanasya	n.	28	喜 22；喜根 4；（未译） 2		已登记	
+saumanasya-indriya	cpd.	6	喜根 5；喜受 1		已登记	
+saumanasya-upekṣā-vedanīya	cpd.	1	順喜順捨受 1		已登记	
+saumanasya-utpāda	cpd.	1	生喜 1		已登记	
+saumanasya-vedanīya	cpd.	1	順喜受 1		已登记	
+saumanasya-ādi	cpd.	1	喜及憂、捨 1		已登记	
+saumanasyin	adj.	1	喜 1		已登记	
 sautrāntika	n.	1	經部…師 1		已登记	
 sañj	v.	1	相糅 1		已登记	
 saṃ-bhū	v./abs./inf.	5	（未译） 3；共 1；生 1		已登记	
 saṃ-dṛś	v.	1	見 1		已登记	
 saṃ-pra-dhṛ (caus.)	abs./v.	3	審觀 2；辯 1		已登记	
 saṃ-stu	abs./v.	2	讚 2		已登记	
-saṃbandha	n.	1	相逼 1		已登记	
+saṃbandha	n.	4	續 3；相逼 1		已登记	
 saṃbandha-utpādin	cpd.	1	相逼續生 1		已登记	
-saṃbhava	n.	8	生 2；是事 2；相隨逐 1；有 1；容 1		已登记	
-saṃbhāra	n.	1	資糧 1		已登记	
+saṃbharaṇa	n.	1	資糧 1		已登记	
+saṃbhava	n.	12	容 3；生 2；是事 2；容有 1；起 1		已登记	
+saṃbhāra	n.	2	資糧 2		已登记	
 saṃbhūta	ptc.	4	生 3；（未译） 1		已登记	
 saṃbhūti	n.	1	生 1		已登记	
 saṃcaya	n.	1	積集 1		已登记	
-saṃcaya-abhāva	cpd.	1	無積集 1		已登记	
+saṃcaya-a-bhāva	cpd.	1	無積集 1	saṃcaya-abhāva	已登记	
 saṃcita	ptc.	6	可積集 3；積集 2；聚 1		已登记	
 saṃcita-āśraya-ālambana-tva	cpd.	1	積集…所依所緣性 1		已登记	
 saṃdarśana	n.	2	顯似 1；顯 1		已登记	
-saṃdhāraṇa	n.	1	成攝 1		已登记	
+saṃdhāraṇa	n.	2	持 1；成攝 1		已登记	
 saṃdhārita	ptc.	1	攝持 1		已登记	
 saṃghāta	n.	6	和合 2；聚 2；和合色 1；聚集 1		已登记	
 saṃghāta-srotas	cpd.	1	聚 1		已登记	
 saṃghāta-stha	cpd.	1	聚集 1		已登记	
-saṃgraha	n.	16	攝 16		已登记	
+saṃgraha	n.	18	攝 17；（未译） 1		已登记	
 saṃgraha-vastu	cpd.	1	四攝事 1		已登记	
 saṃgṛhīta	ptc.	10	攝 9；是 1		已登记	
 saṃjñaka	adj.	7	（未译） 5；想名 1；成 1		已登记	
@@ -1675,55 +2065,70 @@ saṃjñā-prabhāvita	cpd.	1	想相顯了 1		已登记
 saṃjñā-skandha	cpd.	1	想蘊 1		已登记	
 saṃjñā-viparyāsa	cpd.	1	倒想 1		已登记	
 saṃkhyāṃ gam	v.	2	說名 1；名 1		已登记	
-saṃkleśa	n.	5	染 5		已登记	
+saṃkleśa	n.	12	染 8；雜染 4		已登记	
 saṃkleśa-anukrama-hetu	cpd.	1	生染 1		已登记	
 saṃkleśa-vastu-jñāpana-artham	cpd.	1	為顯染依 1		已登记	
+saṃkleśa-vyavadāna	cpd.	2	染淨 2		已登记	
 saṃkleśa-vyavadāna-vastu-jñāpana-artham	cpd.	1	染淨…依…所顯 1		已登记	
 saṃkliṣṭa	ptc.	1	染污 1		已登记	
 saṃkṣepa	n.	1	略說 1		已登记	
 saṃkṣipta	ptc.	1	略 1		已登记	
 saṃkṣipta-madhya-vistara-grantha-ruci-tva	cpd.	1	樂、略、中，及廣文 1		已登记	
 saṃmoha	n.	1	無知 1		已登记	
+saṃmukhī-kṛ	v.	1	引…現前 1		已登记	
+saṃmukhībhūta	ptc.	1	現前 1		已登记	
 saṃmukhīkurvāṇa	ptc.	1	現起 1		已登记	
 saṃmūḍha	ptc.	1	愚 1		已登记	
 saṃniveśa	n.	2	形相 1；安布 1		已登记	
 saṃniśraya	n.	1	依 1		已登记	
-saṃpad	n.	3	滿 1；圓 1；（未译） 1		已登记	
-saṃprayoga	n.	2	相應 2		已登记	
-saṃprayukta	ptc.	12	相應 11；共相應 1	saṃ-pra-yukta	已登记	
+saṃpad	n.	4	圓滿 1；滿 1；圓 1；（未译） 1		已登记	
+saṃpadana	n.	1	圓滿性 1		已登记	
+saṃprayoga	n.	4	相應 4		已登记	
+saṃprayoga-vedanīya-tā	cpd.	1	受相應…順 1		已登记	
+saṃprayukta	ptc./adj.	14	相應 13；共相應 1	saṃ-pra-yukta	已登记	
 saṃprayuktaka	adj.	1	相應 1		已登记	
 saṃprayuktaka-varjya	cpd.	1	非…相應 1		已登记	
 saṃprāpta	ptc.	1	所得 1	saṃ-prāpta	已登记	
+saṃprāpti	n.	1	得 1		已登记	
+saṃpādana	n.	1	成立 1		已登记	
+saṃpādana-artham	cpd.	1	為成立 1		已登记	
 saṃsiddha	ptc.	3	成 3		已登记	
-saṃskāra	n.	17	行 14；（未译） 2；資助 1		已登记	
+saṃskāra	n.	34	行 30；（未译） 2；行…行 1；資助 1		已登记	
+saṃskāra-grahaṇa	cpd.	1	言行 1		已登记	
 saṃskāra-mātra-prabhāvita	cpd.	1	行相顯了 1		已登记	
 saṃskāra-skandha	cpd.	7	行蘊 6；（未译） 1		已登记	
 saṃskāra-skandha-nikṣipta	cpd.	1	置行蘊 1		已登记	
 saṃskāra-skandha-saṃgraha	cpd.	1	行蘊攝 1		已登记	
+saṃskāra-ādi	cpd.	1	行等 1		已登记	
 saṃskṛta	ptc.	15	有為 14；（未译） 1		已登记	
 saṃskṛta-dharma	cpd.	1	有為法 1		已登记	
 saṃskṛta-dharma-paryāya	cpd.	1	有為法差別…名 1		已登记	
 saṃsparśa	n.	3	觸 3		已登记	
-saṃsthāna	n.	11	形 9；形色 1；（未译） 1		已登记	
+saṃsthāna	n.	12	形 9；形相 1；形色 1；（未译） 1		已登记	
+saṃsvedaja	adj.	1	濕生 1		已登记	
 saṃsāra	n.	6	生死 6		已登记	
 saṃsāra-mahā-arṇava	cpd.	1	生死大海 1		已登记	
 saṃsāra-paṅka	cpd.	1	生死泥 1		已登记	
 saṃtati	n.	1	相續 1		已登记	
+saṃvara	n.	1	律儀 1		已登记	
+saṃvara-phala-prāpti-vairāgya	cpd.	1	律儀得果離染 1		已登记	
 saṃvartanī	n.	1	劫壞時 1		已登记	
+saṃvedana	n.	1	領受 1		已登记	
 saṃyoga	n.	2	合 1；繫 1		已登记	
 saṃyoga-dravya	cpd.	1	繫事 1		已登记	
 saṃśabdita	ptc.	1	名想 1		已登记	
-saṅgha	n.	1	僧眾 1		已登记	
+saṅgha	n.	2	僧眾 2		已登记	
 senā	n.	1	軍 1		已登记	
 senā-vyūha	cpd.	1	軍眾 1		已登记	
-siddha	ptc.	6	成 2；義准 2；立 1；成立 1		已登记	
+siddha	ptc.	8	成 3；義准 2；義准…成 1；立 1；成立 1		已登记	
 siddhānta	n.	1	宗 1		已登记	
 siṃghāṇaka	n.	1	洟 1		已登记	
-skandha	n.	99	蘊 93；（未译） 5；聚 1		已登记	
+skandha	n.	101	蘊 95；（未译） 5；聚 1		已登记	
 skandha-a-saṃgraha	cpd.	1	非蘊攝 1		已登记	
 skandha-anukrama	cpd.	1	蘊次第 1		已登记	
 skandha-artha	cpd.	5	蘊義 4；蘊 1		已登记	
 skandha-krama	cpd.	1	次第 1		已登记	
+skandha-maraṇa-māra	cpd.	1	蘊死…魔 1		已登记	
 skandha-prajñapti	cpd.	1	假蘊 1		已登记	
 skandha-uparama	cpd.	1	蘊息 1		已登记	
 skandha-vacana	cpd.	1	蘊言 1		已登记	
@@ -1739,15 +2144,17 @@ skandhaka	n.	2	蘊 2		已登记
 skandhī-karaṇa	n.	1	立…為蘊 1		已登记	
 skandhīkṛta	ptc.	2	立…蘊 1；分…為…蘊 1		已登记	
 smṛta	ptc.	2	應知 1；（未译） 1		已登记	
-smṛti	n.	4	念 4		已登记	
+smṛti	n.	5	念 4；（未译） 1		已登记	
 smṛti-indriya	cpd.	1	念根 1		已登记	
 sneha	n.	2	濕 2		已登记	
-sparśa	n.	5	觸 5		已登记	
+snigdha	ptc.	1	潤 1		已登记	
+sparśa	n.	6	觸 6		已登记	
 sparśa-samāna-kārya-tva	cpd.	1	所生觸 1		已登记	
 sparśa-āyatana	cpd.	1	觸處 1		已登记	
+sparśana	n.	1	覺 1		已登记	
 spaṣṭa	adj.	1	分明 1		已登记	
 sphaṭika	n.	2	頗胝迦 2		已登记	
-spraṣṭavya	gdv.	25	觸 23；所觸 1；（未译） 1		已登记	
+spraṣṭavya	gdv.	26	觸 24；所觸 1；（未译） 1		已登记	
 spraṣṭavya-dhātu	cpd.	3	觸界 3		已登记	
 spraṣṭavya-tva	cpd.	1	觸攝 1		已登记	
 spraṣṭavya-viśeṣa	cpd.	1	殊勝觸 1		已登记	
@@ -1758,32 +2165,64 @@ spṛśya	gdv.	1	觸 1		已登记
 spṛṣṭa	ptc.	11	觸 7；是觸 3；（未译） 1		已登记	
 spṛṣṭa-hetuka	cpd.	3	是觸為因 3		已登记	
 spṛṣṭa-saṃjñā	cpd.	1	觸名 1		已登记	
-srotas	n.	2	相續 1；（未译） 1		已登记	
-stha	adj.	2	中 1；（未译） 1		已登记	
+srotas	n.	6	流 3；（未译） 2；相續 1		已登记	
+srotas-āpatti-phala	cpd.	4	預流果 2；預流…果 1；一來果 1		已登记	
+stana	n.	1	乳房 1		已登记	
+stana-ādi-saṃsthāna-svara-ācāra-anyathā-tva	cpd.	1	形相言音乳房等別 1		已登记	
+stha	adj.	4	（未译） 2；住 1；中 1		已登记	
 sthala	n.	2	陸 2		已登记	
-sthita	ptc.	1	住 1		已登记	
-sthiti	n.	1	住 1		已登记	
-sthā	v.	1	住 1		已登记	
-sthā (caus.)	abs.	2	除 2		已登记	
-sthāna	n.	5	處 4；（未译） 1		已登记	
+sthita	ptc.	2	（未译） 1；住 1		已登记	
+sthiti	n.	11	住 10；久住世 1		已登记	
+sthiti-kāla-āvedha	cpd.	1	住時勢分 1		已登记	
+sthā	v.	2	住…住 1；住 1		已登记	
+sthā (caus.)	v./abs.	5	留 3；除 2		已登记	
+sthāna	n.	8	處 5；（未译） 2；處所 1		已登记	
 sthānīya	adj.	1	名 1		已登记	
+sthāpana	n.	1	留 1		已登记	
+sthāpana-artham	cpd.	1	留 1		已登记	
 sthāpaya (caus. sthā)	abs.	2	除 2		已登记	
 sthāpita	ptc.	1	安置 1		已登记	
-strī	n.	5	女 5		已登记	
-strī-indriya	cpd.	1	女根 1		已登记	
+sthāvara	adj.	1	住 1		已登记	
+strī	n.	31	女 26；（未译） 4；女身 1		已登记	
+strī-bhāva	cpd.	1	女性 1		已登记	
+strī-indriya	cpd.	4	女根 3；女…根 1		已登记	
 strī-indriya-paramāṇu	cpd.	1	女根極微 1		已登记	
-strī-puruṣa	cpd.	1	男女 1		已登记	
-strī-puruṣa-indriya	cpd.	1	女根、男根 1		已登记	
+strī-indriya-ādimat	cpd.	1	女男憂，信等 1		已登记	
+strī-puruṣa	cpd.	2	女男 1；男女 1		已登记	
+strī-puruṣa-indriya	cpd.	9	女男根 3；女男 2；二根 1；女、男根 1；女、男 1		已登记	
+strī-puruṣa-indriya-kṛta	cpd.	1	女男根起 1		已登记	
+strī-puruṣa-indriya-ākhyā	cpd.	1	此名 1		已登记	
+strī-puruṣa-jīvita-manas-indriya	cpd.	1	女、男、命、意 1	strī-puruṣa-jīvita-manaḥ-indriya；strī-puruṣa-jīvita-mano-indriya	已登记	
+strī-puruṣa-vikalpa	cpd.	1	相差別 1		已登记	
+strī-puṃs-indriya	cpd.	1	女男 1		已登记	
+strī-tva	n.	1	（未译） 1		已登记	
+strī-tva-puṃs-tva	cpd.	1	女男性 1		已登记	
+strī-tva-puṃs-tva-ādhipatya	cpd.	1	女男性增上 1		已登记	
+strī-ākṛti-svara-ceṣṭā-abhiprāya	cpd.	1	女身形類音聲作業志樂 1		已登记	
 su-bhāvita-tva	n.	1	善修 1		已登记	
 su-dānta	cpd.	1	善調伏 1		已登记	
 su-gama-tva	n.	1	易了 1		已登记	
 su-gandha	n.	2	好香 2		已登记	
 su-gandha-dur-gandha	cpd.	1	好香、惡香 1		已登记	
-sukha	adj./n.	8	樂 8		已登记	
-sukha-indriya	cpd.	1	樂根 1		已登记	
+subhāvita	ptc.	1	善修 1		已登记	
+sucīrṇa	ptc.	1	妙成立 1		已登记	
+sugati	n.	2	善趣 2		已登记	
+sukha	n./adj.	44	樂 39；（未译） 4；喜樂 1		已登记	
+sukha-duḥkha	cpd.	1	苦樂 1		已登记	
+sukha-indriya	cpd.	10	樂根 8；樂 1；（未译） 1		已登记	
+sukha-kāya	cpd.	1	樂身 1		已登记	
+sukha-saumanasya-upekṣā	cpd.	2	樂、喜、捨 1；喜、樂、捨 1		已登记	
+sukha-saumanasya-upekṣā-indriya	cpd.	3	喜、樂、捨 1；樂、喜、捨 1；喜樂捨根 1		已登记	
+sukha-saumanasya-upekṣā-jīvita-manas-śraddhā-ādi	cpd.	1	命…意、樂、喜、捨…信等 1	sukha-saumanasya-upekṣā-jīvita-manaḥ-śraddhā-ādi；sukha-saumanasya-upekṣā-jīvita-mano-śraddhā-ādi	已登记	
+sukha-saṃprayukta	cpd.	1	與樂相應 1	sukha-saṃ-pra-yukta	已登记	
+sukha-vedanīya	cpd.	1	順樂受 1		已登记	
+sukha-ādi	cpd.	4	樂等 3；三受 1		已登记	
+sukha-ādi-indriya-pañcaka	cpd.	1	樂等五受 1		已登记	
 sukha-āvaha	cpd.	1	引樂 1		已登记	
+sukhita	adj.	1	樂 1		已登记	
 suvarṇa	n.	1	金 1		已登记	
-sva	pron.	44	自 30；初定 5；欲界 3；自地 1；同 1		已登记	
+sva	pron.	47	自 32；初定 5；欲界 3；各別 1；自地 1		已登记	
+sva-artha-upalabdhi-ādhipatya	cpd.	1	了自境增上 1		已登记	
 sva-bhāva-saha-bhū-nirmukta	cpd.	1	除自體及俱有法 1		已登记	
 sva-bhūmi	cpd.	1	等 1		已登记	
 sva-bhūmika	cpd.	11	自地 3；屬初定 2；初定 2；欲界 1；同地 1		已登记	
@@ -1805,13 +2244,16 @@ sva-para-cakṣus	cpd.	1	自他…眼 1	sva-para-cakṣur	已登记
 sva-sāṃtānika	cpd.	1	自身 1		已登记	
 sva-viṣaya	cpd.	1	自境界 1		已登记	
 sva-śabda	cpd.	1	自名 1		已登记	
-svabhāva	n.	34	性 14；自性 9；體 6；（未译） 3；法 1		已登记	
+svabhāva	n.	35	性 14；自性 9；體 7；（未译） 3；法 1		已登记	
 svabhāva-abhinirūpaṇa-anusmaraṇa-vikalpa	cpd.	1	自性分別…計度分別…隨念分別 1		已登记	
+svabhāva-nirdeśa	cpd.	1	釋…體 1		已登记	
 svabhāva-vikalpa	cpd.	2	自性 1；自性分別 1		已登记	
 svapna	n.	1	眠睡 1		已登记	
-svara	n.	1	音聲 1		已登记	
+svara	n.	4	音聲 3；言音 1		已登记	
+svarasa	n.	1	任運 1		已登记	
 svarga	n.	1	天 1		已登记	
 svarūpa	n.	1	性 1		已登记	
+svāda	n.	1	味 1		已登记	
 sādhu	adj.	1	應善 1		已登记	
 sādhāraṇa	adj.	1	恒持 1		已登记	
 sādhāraṇa-bhūta	cpd.	1	恒持 1		已登记	
@@ -1821,7 +2263,8 @@ sākṣātkaraṇa	n.	1	證 1		已登记
 sākṣātkriyā	n.	1	證 1		已登记	
 sāmagrī	n.	1	和合 1		已登记	
 sāmantaka	adj.	3	相隣 2；隣 1		已登记	
-sāmānya	n.	7	同 5；通 1；共相 1		已登记	
+sāmānya	n./adj.	8	同 5；通 2；共相 1		已登记	
+sāmānya-kāraṇa-tva	cpd.	1	通因 1		已登记	
 sāmānya-viṣaya	cpd.	1	取共相境 1		已登记	
 sānnidhya	n.	1	現前 1		已登记	
 sānnidhya-mātra	cpd.	1	唯…現前 1		已登记	
@@ -1834,12 +2277,13 @@ sāṃtānika	adj.	1	身 1		已登记
 sūkṣma	adj.	6	細 6		已登记	
 sūrya	n.	2	日 2		已登记	
 sūrya-prabhā	cpd.	1	日焰 1		已登记	
-sūtra	n.	15	契經 10；經 5		已登记	
+sūtra	n.	21	契經 14；經 7		已登记	
 sūtra-antara	cpd.	1	餘契經 1		已登记	
-tad	pron.	168	彼 34；（未译） 23；此 14；根 6；二定 5		已登记	
+tad	pron.	226	彼 40；（未译） 31；此 20；根 7；二定 5		已登记	
 tad-a-saṃbhava	cpd.	1	無男根依處 1		已登记	
 tad-adhīna-tva	cpd.	1	隨根 1		已登记	
 tad-anuśayita-tva	cpd.	1	諍隨增 1		已登记	
+tad-anuśāyin-tva	cpd.	1	隨眠所隨增 1		已登记	
 tad-anya	cpd.	1	餘 1		已登记	
 tad-anya-citta	cpd.	1	此餘心 1		已登记	
 tad-bheda	cpd.	1	此四色差別 1		已登记	
@@ -1850,48 +2294,59 @@ tad-gardha	cpd.	1	耽受 1		已登记
 tad-hetu	cpd.	2	因此 2		已登记	
 tad-jātīya	cpd.	1	彼類 1		已登记	
 tad-jātīya-tva	cpd.	1	彼類 1		已登记	
+tad-nimitta	cpd.	2	因 2		已登记	
 tad-nāma-karaṇa-vijñāpana-artha	cpd.	1	顯立名因 1		已登记	
+tad-paṭu-manda-tā-ādi-anuvidhāna	cpd.	1	隨眼根有明昧 1		已登记	
 tad-prabhāvita	cpd.	1	強 1		已登记	
 tad-pracyuta	cpd.	1	從彼沒 1		已登记	
 tad-prakāra-vyavaccheda	cpd.	1	各別了別 1		已登记	
+tad-preraṇa	cpd.	1	引令出 1		已登记	
 tad-prāpti	cpd.	2	得此 1；得 1		已登记	
 tad-sabhāga	cpd.	10	彼同分 9；二 1		已登记	
 tad-saha-bhū	cpd.	2	彼俱有 1；俱起 1		已登记	
 tad-samanvāgama	cpd.	1	成就 1		已登记	
 tad-saṃbhāra-bhāva	cpd.	1	彼資糧 1		已登记	
 tad-saṃbhūta-tva	cpd.	1	從取生 1		已登记	
+tad-sthāna-pratilambha	cpd.	1	根處所…招 1		已登记	
 tad-svabhāva-tva	cpd.	1	是彼性 1		已登记	
 tad-udbhūta-vṛtti	cpd.	1	增盛 1		已登记	
+tad-vairāgya	cpd.	1	此離欲 1		已登记	
 tad-vaśa	cpd.	1	由斯 1		已登记	
 tad-vidheya-tva	cpd.	1	屬取 1		已登记	
 tad-vijñāna	cpd.	3	識 2；眼識 1		已登记	
 tad-vijñāna-āśraya	cpd.	2	彼識依 1；彼識所依 1		已登记	
+tad-vikalpa	cpd.	1	此別 1		已登记	
 tad-vikāra	cpd.	1	識…異 1		已登记	
 tad-vikāra-vikāri-tva	cpd.	1	隨根變…異 1		已登记	
+tad-viparyaya	cpd.	1	二相違 1		已登记	
 tad-viparyāsa	cpd.	1	此倒想 1		已登记	
+tad-viprayukta-vikala	cpd.	1	本性損壞 1		已登记	
 tad-viśeṣaṇa-artham	cpd.	1	為簡 1		已登记	
 tad-viṣaya-vijñāna	cpd.	1	境識 1		已登记	
 tad-viṣaya-vīta-rāga	cpd.	1	彼離境貪 1		已登记	
-tad-vyatirikta-niṣyanda-abhāva	cpd.	1	離異熟生及所長養…無別性 1		已登记	
+tad-vyatirikta-niṣyanda-a-bhāva	cpd.	1	離異熟生及所長養…無別性 1	tad-vyatirikta-niṣyanda-abhāva	已登记	
 tad-vīta-rāga	cpd.	1	離段食欲 1		已登记	
 tad-ālambana	cpd.	1	緣彼境界 1		已登记	
 tad-āśraya-prasiddhi-artham	cpd.	1	為成此依故 1		已登记	
 tad-āśraya-ālambana	cpd.	1	依緣 1		已登记	
 tad-āśrita	cpd.	2	彼能依 1；眼 1		已登记	
 tad-āśrita-tva	cpd.	1	依止樹寶 1		已登记	
-tad-śabda-aśravaṇa	cpd.	1	不聞聲 1		已登记	
+tad-śabda-a-śravaṇa	cpd.	1	不聞聲 1	tad-śabda-aśravaṇa	已登记	
+tadvat	adj.	1	男根 1		已登记	
 tadyathā	ind.	10	如 4；謂 3；譬如 1；謂如 1；且如 1		已登记	
-tadā	ind.	1	（未译） 1		已登记	
+tadā	ind.	2	（未译） 2		已登记	
 tamas	n.	4	闇 4		已登记	
 tan	v.	1	長 1		已登记	
 tapas	n.	1	修勇進 1		已登记	
-tarhi	ind.	9	若爾 6；（未译） 2；然 1		已登记	
-tasmāt	ind.	15	是故 5；（未译） 4；故 3；由此 2；由 1		已登记	
+tarhi	ind.	13	若爾 8；（未译） 3；豈不 1；然 1		已登记	
+tasmāt	ind.	18	故 6；是故 5；（未译） 4；由此 2；由 1		已登记	
 tat-sabhāga	adj.	3	彼同分 3		已登记	
-tatas	ind.	3	（未译） 2；從彼 1		已登记	
-tathā	ind.	8	爾 2；亦爾 2；如是 1；（未译） 1；同彼 1		已登记	
-tathā hi	ind.	9	故 3；由 2；謂 1；所以者何…由 1；由…故 1		已登记	
-tatra	ind.	32	（未译） 9；此中 8；於彼 3；彼 2；於此經中 1		已登记	
+tatas	ind.	5	（未译） 3；從彼 2		已登记	
+tathā	ind.	18	亦爾 4；（未译） 4；亦然 2；爾 2；亦 1		已登记	
+tathā hi	ind.	14	故 3；所以者何…由 2；所以者何 2；由 2；云何知然 1		已登记	
+tathā-bhūta	cpd.	1	彼 1		已登记	
+tathā-śabda	cpd.	1	言亦爾 1		已登记	
+tatra	ind.	41	（未译） 13；此中 10；於彼 3；謂 2；彼 2		已登记	
 tejas	n.	7	火 6；（未译） 1		已登记	
 tejas-dhātu	cpd.	3	火界 2；火…界 1		已登记	
 tiktaka	adj.	1	苦 1		已登记	
@@ -1899,45 +2354,61 @@ tiraskṛta	ptc.	1	有障 1		已登记
 titīla	n.	1	蝙蝠 1		已登记	
 titīla-ulūka-ādi	cpd.	1	蝙蝠鵂鶹等 1		已登记	
 traidha	n.	2	三 1；（未译） 1		已登记	
+traidhātuka	adj.	1	三界 1		已登记	
+traimāsya	n.	1	三月 1		已登记	
 traiyadhvika	adj.	1	通三世 1		已登记	
-traya	num./n.	7	三 7		已登记	
-trayodaśan	num.	1	十三 1		已登记	
+traya	n./num.	14	三 13；（未译） 1		已登记	
+traya-anvita	cpd.	1	成就三 1		已登记	
+trayodaśan	num.	4	十三 3；（未译） 1		已登记	
 tredho	ind.	1	隣次 1		已登记	
-tri	num.	24	三 22；（未译） 2		已登记	
+tredhā	ind.	2	三種 1；通三 1		已登记	
+tri	num.	36	三 31；（未译） 5		已登记	
 tri-adhva-an-adhva-viṣaya	cpd.	1	三世無為 1	tri-adhvan-anadhvan-viṣaya	已登记	
 tri-adhvan	cpd.	1	三世 1		已登记	
 tri-kāla	cpd.	1	三世 1		已登记	
 tri-prakāra	cpd.	5	三品 2；三種 2；三 1		已登记	
 tridhā	ind.	3	通三 1；三 1；三種 1		已登记	
 trividha	adj.	10	三種 8；三 2		已登记	
-tu	ind.	22	（未译） 9；然 4；若 3；則 3；而 2		已登记	
+tu	ind.	32	（未译） 13；然 4；而 3；若 3；則 3		已登记	
+tu-śabda	cpd.	1	定聲 1		已登记	
 tul	v.	7	稱 7		已登记	
 tulya	adj.	8	所稱 4；等量 3；等 1		已登记	
 tulya-a-tulya	cpd.	1	等量不等量 1		已登记	
 tulya-viṣaya-grahaṇa	cpd.	2	取等量境 2		已登记	
 turaga	n.	1	馬 1		已登记	
 tuṣa	n.	1	穅 1		已登记	
--tva (abstract)	gram.	20	性 8；是 6；名 2；（未译） 2；義 1		已登记	
+tuṣṭa	ptc.	1	歡喜 1		已登记	
+-tva (abstract)	gram.	32	性 11；是 7；（未译） 5；為 2；果 2		已登记	
+tyāga	n.	1	（未译） 1		已登记	
+tādṛśa	adj.	2	此 1；此相亦然 1		已登记	
 tāmra	n.	1	銅 1		已登记	
 tārakā	n.	2	星 2		已登记	
-tāvat	ind.	11	（未译） 6；且 3；則 1；謂 1		已登记	
-tīkṣṇa	adj.	1	利 1		已登记	
+tāvat	ind.	17	（未译） 9；且 6；則 1；謂 1		已登记	
+tīkṣṇa	adj.	3	上 1；（未译） 1；利 1		已登记	
+tīkṣṇa-indriya	cpd.	1	上…根 1		已登记	
+tīkṣṇa-indriya-tva	cpd.	1	（未译） 1		已登记	
 tīkṣṇa-madhya-mṛdu-indriya-tva	cpd.	1	利、中、鈍 1		已登记	
 tīraṇa	n.	2	度 1；決度 1		已登记	
-tṛtīya	num.	6	第三 4；三 2		已登记	
+tṛtīya	num.	13	第三 9；三 4		已登记	
 tṛtīya-caturtha-dhyāna-bhūmika	cpd.	1	三四靜慮地 1		已登记	
+tṛtīya-caturtha-dhyāna-ārūpya-upapanna	cpd.	1	生三四定…無色界 1		已登记	
+tṛtīya-dhyāna-a-lābhin	cpd.	1	未得第三靜慮 1		已登记	
+tṛtīya-dhyāna-bhūmika	cpd.	1	第三靜慮 1		已登记	
 tṛtīya-dhyāna-cakṣus	cpd.	1	三…靜慮…眼 1	tṛtīya-dhyāna-cakṣur	已登记	
 tṛṇa	n.	1	草 1		已登记	
 tṛṇa-tuṣa-agni-vat	cpd.	1	草穅火 1		已登记	
 tṛṣṇā	n.	1	愛 1		已登记	
 tṛṣṇā-samudācāra	cpd.	1	愛…生 1		已登记	
-ubha	pron.	6	二 3；二…俱 2；（未译） 1		已登记	
-ubhaya	pron.	10	俱 3；二處 2；（未译） 1；俱…二 1；二俱 1		已登记	
+ubha	pron.	8	二 5；二…俱 2；（未译） 1		已登记	
+ubhaya	pron./adj.	18	二 6；俱 4；二處 2；善趣惡趣 1；（未译） 1		已登记	
 ubhaya-adhīna	cpd.	1	俱託二緣 1		已登记	
 ubhaya-varjita	cpd.	1	無 1		已登记	
+ubhaya-vyañjana	cpd.	3	二形 3		已登记	
+ubhaya-vyañjanin	cpd.	1	二形 1		已登记	
 ubhayathā	ind.	4	此二義 1；有顯有形 1；具…顯形 1；二種 1		已登记	
 ubhayatra	ind.	3	俱 3		已登记	
 ucchedi-tva	n.	1	不相續 1		已登记	
+uccheṣa	n.	2	殘 2		已登记	
 ucyamāna	ptc.	3	說 2；（未译） 1		已登记	
 ud-hṛ	v.	1	拔…出 1		已登记	
 ud-pad (desid.)	adj.	1	生 1		已登记	
@@ -1950,24 +2421,29 @@ udita	ptc.	1	說 1		已登记
 udvahana	n.	1	荷 1		已登记	
 udāna-vargīya	adj.	1	鄔拕南 1		已登记	
 udāna-vargīya-karaṇa-vat	cpd.	1	所集無常品等鄔拕南頌 1		已登记	
-ukta	ptc.	69	說 48；（未译） 5；言 5；所說 3；立 2		已登记	
+ukta	ptc.	92	說 59；言 11；所說 5；（未译） 5；立 2		已登记	
 ukta-nirmukta	cpd.	1	除所說 1		已登记	
 uktaṃ bhavati	ptc.	3	總說 1；由此義准…說 1；（未译） 1		已登记	
 ulūka	n.	1	鵂鶹 1		已登记	
+unmeṣa	n.	1	開 1		已登记	
 unmiṣita	ptc.	1	開目 1		已登记	
 unmiṣita-mātra	cpd.	1	暫開目 1		已登记	
 unmīlita	ptc.	1	開 1		已登记	
 unnata	ptc.	1	高 1		已登记	
 upa-car	v.	2	說 1；假說 1		已登记	
-upa-jan	v.	2	生 2		已登记	
+upa-han	v.	1	損 1		已登记	
+upa-jan	v.	3	生 3		已登记	
 upa-labh	v.	1	可得 1		已登记	
-upa-pad	v.	1	生 1		已登记	
+upa-pad	v.	2	生 2		已登记	
 upa-pad (caus.)	v.	1	辯 1		已登记	
 upa-ā-dā	abs.	12	所造 10；造 2		已登记	
+upabhoga	n.	2	受用 2		已登记	
 upacaya	n.	2	益 1；長養 1		已登记	
 upacaya-santāna	cpd.	1	長養相續 1		已登记	
 upacita	ptc.	1	益 1		已登记	
 upacāra	n.	5	假立…名 2；假謂 1；立…名 1；假…言說 1		已登记	
+upadarśana	n.	1	顯 1		已登记	
+upadarśana-artham	cpd.	1	顯 1		已登记	
 upadekṣyamāṇa	ptc.	1	說 1		已登记	
 upadeśa	n.	4	說 4		已登记	
 upadhyāna	n.	1	審慮 1		已登记	
@@ -1975,77 +2451,108 @@ upadhyāna-pravṛtta-tva	cpd.	1	審慮為先 1		已登记
 upadiṣṭa	ptc.	2	說 2		已登记	
 upaga	adj.	1	（未译） 1		已登记	
 upaghāta	n.	2	損 2		已登记	
-upaghātaka	adj.	1	損 1		已登记	
+upaghātaka	adj.	2	損惱 1；損 1		已登记	
 upagṛhīta	ptc.	1	執持攝 1		已登记	
 upala	n.	3	石 3		已登记	
-upalabdhi	n.	1	總取境相 1		已登记	
+upalabdhi	n.	7	了 2；了別…識 2；了…識 1；識 1；總取境相 1		已登记	
+upaniṣad	n.	1	依 1		已登记	
 upanyāsa	n.	1	難 1		已登记	
 upapadyamāna	ptc.	3	生 3		已登记	
-upapanna	ptc.	11	生 9；成立 1；成就 1		已登记	
-upapatti	n.	5	生 5		已登记	
+upapanna	ptc.	17	生 15；成立 1；成就 1		已登记	
+upapatti	n.	6	生 6		已登记	
 upapatti-pratilambhika	cpd.	1	生得 1		已登记	
+upapāduka	adj.	6	化生 4；胎卵濕生 1；（未译） 1		已登记	
+upapāduka-pratiṣedha	cpd.	1	（未译） 1		已登记	
 uparama	n.	2	破 1；息 1		已登记	
+uparamat	ptc.	1	死 1		已登记	
 upariṣṭāt	ind.	1	上 1		已登记	
+upasaṃkhyāna	n.	1	立 1		已登记	
+upasaṃkhyātavya	gdv.	3	立 2；（未译） 1		已登记	
+upastha	n.	3	出小便處 1；（未译） 1；小便處 1		已登记	
+upastha-pradeśa	cpd.	1	（未译） 1		已登记	
 upaśama	n.	1	滅 1		已登记	
 upaśānti	n.	1	滅 1		已登记	
-upekṣā	n.	1	捨 1		已登记	
-upekṣā-indriya	cpd.	1	捨根 1		已登记	
+upekṣaṇa	n.	1	非損非益 1		已登记	
+upekṣā	n.	32	捨 30；三 1；（未译） 1		已登记	
+upekṣā-indriya	cpd.	3	捨根 2；捨受 1		已登记	
+upekṣā-jīvita-manas	cpd.	2	命、意、捨 2	upekṣā-jīvita-manaḥ；upekṣā-jīvita-mano	已登记	
+upekṣā-jīvita-manas-kāya-indriya	cpd.	1	命、意、捨、身根 1	upekṣā-jīvita-manaḥ-kāya-indriya；upekṣā-jīvita-mano-kāya-indriya	已登记	
+upekṣā-jīvita-manas-sukha-saumanasya	cpd.	1	命、意、捨、樂…喜 1	upekṣā-jīvita-manaḥ-sukha-saumanasya；upekṣā-jīvita-mano-sukha-saumanasya	已登记	
+upekṣā-jīvita-manas-yukta	cpd.	1	成就命意捨 1	upekṣā-jīvita-manaḥ-yukta；upekṣā-jīvita-mano-yukta	已登记	
+upekṣā-manas-indriya	cpd.	1	意…捨 1	upekṣā-manaḥ-indriya；upekṣā-mano-indriya	已登记	
+upekṣā-vedanīya	cpd.	1	順捨受 1		已登记	
+upekṣā-ādi	cpd.	2	命、意、捨 2		已登记	
+upekṣā-āyus-manas-śubha	cpd.	1	善命意捨 1	upekṣā-āyus-manaḥ-śubha；upekṣā-āyus-mano-śubha	已登记	
+upeta	ptc.	1	（未译） 1		已登记	
 upādāna	n.	11	取 11		已登记	
 upādāna-skandha	cpd.	8	取蘊 8		已登记	
 upādāna-skandha-vacana	cpd.	1	言取蘊 1		已登记	
 upādāya-artha	cpd.	1	造 1		已登记	
 upādāya-rūpa	cpd.	2	所造色 2		已登记	
 upātta	ptc.	8	有執受 7；執受 1		已登记	
-upātta-anupātta-mahābhūta-hetuka	cpd.	2	有執受…無執受大種為因 2		已登记	
+upātta-an-upātta-mahābhūta-hetuka	cpd.	2	有執受…無執受大種為因 2	upātta-anupātta-mahābhūta-hetuka	已登记	
 upātta-mahābhūta-hetuka	cpd.	1	執受大種為因 1		已登记	
 upāya	n.	1	方便 1		已登记	
-ut-pad	v./inf.	13	生 10；起 3		已登记	
+uraga	n.	1	腹行 1		已登记	
+uraga-prabhṛti	cpd.	1	腹行類 1		已登记	
+ut-pad	v./inf.	15	生 12；起 3		已登记	
 ut-sah	v.	1	（未译） 1		已登记	
-utpanna	ptc.	4	生 4		已登记	
+ut-sṛj	v.	3	捨 3		已登记	
+utpanna	ptc.	5	生 5		已登记	
 utpanna-a-niruddha	cpd.	1	已生未謝 1		已登记	
-utpatti	n.	12	生 8；起 3；發 1		已登记	
-utpatti-anutpatti-dharmi-tva	cpd.	1	生不生法 1		已登记	
+utpatti	n.	18	生 12；發 3；起 3		已登记	
+utpatti-an-utpatti-dharmi-tva	cpd.	1	生不生法 1	utpatti-anutpatti-dharmi-tva	已登记	
 utpatti-dharman	cpd.	1	生法 1		已登记	
 utpatti-dharmin	cpd.	1	生法 1		已登记	
 utpatti-nimitta-mātra	cpd.	1	助生緣 1		已登记	
 utpatti-pratibandha	cpd.	1	被礙不生 1		已登记	
-utpāda	n.	3	生 2；出現 1		已登记	
+utpāda	n.	5	生 4；出現 1		已登记	
 utpāda-atyanta-vighna	cpd.	1	畢竟礙當生 1		已登记	
 utpādana	n.	3	生 2；起 1		已登记	
-utpādaya (caus. ut-pad)	v.	1	生 1		已登记	
+utpādaya (caus. ut-pad)	v.	3	念 1；所生 1；生 1		已登记	
 utpādin	adj.	1	續生 1		已登记	
-utsarga	n.	1	（未译） 1		已登记	
+utsarga	n.	3	棄 2；（未译） 1		已登记	
 utsarga-viśeṣa	cpd.	1	（未译） 1		已登记	
+utsarjana	n.	3	捨 3		已登记	
+utsarjana-adhiṣṭhāna	cpd.	1	留捨 1		已登记	
 utsūtra	adj.	1	越經 1		已登记	
-uttara	adj.	2	後 2		已登记	
+utsṛṣṭa	ptc.	2	捨 2		已登记	
+utsṛṣṭavat	ptc.	1	捨 1		已登记	
+uttara	adj.	4	上 2；後 2		已登记	
 uttara-kṣaṇa-avasthāna	cpd.	1	住至後念 1		已登记	
+uttara-uttara	adj.	1	後後 1		已登记	
+uttara-uttara-saṃprāpti-nirvāṇa-ādi-ādhipatya	cpd.	1	得後後道，涅槃等增上 1		已登记	
 uttara-vijñāna-saṃbhūti	cpd.	1	後識…生 1		已登记	
 uṣṇa	n.	1	煖 1		已登记	
 uṣṇa-abhilāṣa-kṛt	cpd.	1	煖欲 1		已登记	
 uṣṇatā	n.	2	煖 2		已登记	
-vac	v./inf.	57	說 19；名 18；（未译） 4；說名 3；謂 2		已登记	
-vacana	n.	11	言 6；說 3；教 1；義 1		已登记	
+vac	v./inf.	63	說 20；名 19；（未译） 4；言 3；謂 3		已登记	
+vacana	n.	15	言 7；說 3；語 2；說…言 1；教 1		已登记	
 vacana-artham	cpd.	1	起說 1		已登记	
-vad	v.	1	說 1		已登记	
+vacana-ādāna-viharaṇa-utsarga-ānanda	cpd.	1	語執行棄樂 1		已登记	
+vad	v.	3	說 3		已登记	
 vai	ind.	2	（未译） 2		已登记	
-vaibhāṣika	n.	5	毘婆沙師 3；毘婆沙 2		已登记	
+vaibhāṣika	n.	8	毘婆沙師 6；毘婆沙 2		已登记	
 vaikalya	n.	3	闕 2；不具 1		已登记	
+vairodhika	adj.	1	違 1		已登记	
+vairāgya	n.	3	離染 1；離欲 1；離 1		已登记	
 vairūpya	n.	1	不端嚴 1		已登记	
 vaiyarthya	n.	1	無用 1		已登记	
-vaktavya	gdv.	9	說 5；名 1；言 1；辨說 1；（未译） 1		已登记	
+vaktavya	gdv.	13	說 5；（未译） 4；辯 1；名 1；言 1		已登记	
 vaktṛ	n.	1	言 1		已登记	
 vanaspati	n.	1	林 1		已登记	
 vara	n.	1	願 1		已登记	
 vara-pradāna	cpd.	1	與願 1		已登记	
 vargīya	adj.	1	品 1		已登记	
 varja	adj.	1	除 1		已登记	
-varjaya (caus. vṛj)	abs.	1	除 1		已登记	
-varjita	ptc.	2	無 1；除 1		已登记	
-varjya	gdv.	4	除 3；非 1		已登记	
+varjaya (caus. vṛj)	abs.	4	除 4		已登记	
+varjita	ptc.	4	除 3；無 1		已登记	
+varjya	gdv.	6	除 3；（未译） 2；非 1		已登记	
 vartamāna	ptc./adj.	3	現 1；一 1；現在 1		已登记	
 vartamāna-viṣaya	cpd.	1	唯取一 1		已登记	
 vartamāna-viṣaya-tva	cpd.	1	取現境 1		已登记	
 vartin	adj.	1	（未译） 1		已登记	
+vartman	n.	1	瞼 1		已登记	
 varṇ	v.	1	說 1		已登记	
 varṇa	n.	14	顯 8；顯色 4；（未译） 1；色 1		已登记	
 varṇa-paramāṇu	cpd.	1	顯色極微 1		已登记	
@@ -2055,32 +2562,46 @@ varṇaya	v.	1	說 1		已登记
 vasti	n.	1	（未译） 1		已登记	
 vasti-guhya	cpd.	1	陰 1		已登记	
 vastra	n.	1	衣服 1		已登记	
-vastu	n.	9	依 5；所依 2；事 2		已登记	
+vastu	n.	10	依 5；事 3；所依 2		已登记	
 vastu-śabda	cpd.	1	事 1		已登记	
 vasumitra	n.	1	世友 1		已登记	
--vat	gram.	20	如 11；猶如 3；如…如 2；同 1；譬如…如是 1		已登记	
-vaśa	n.	8	力 3；由 2；依 2；隨…力 1		已登记	
-vedanā	n.	26	受 22；（未译） 2；痛 1；樂受 1		已登记	
+-vat	gram.	21	如 12；猶如 3；如…如 2；同 1；譬如…如是 1		已登记	
+-vat (possessive)	gram.	1	成 1		已登记	
+vaśa	n.	9	力 3；隨…力 2；由 2；依 2		已登记	
+vaśibhāva	n.	2	自在 2		已登记	
+vaśibhāva-anuvartana	cpd.	1	自在隨行 1		已登记	
+vaśin	adj.	3	自在 3		已登记	
+vaśin-tva	n.	1	自在 1		已登记	
+vedana	n.	1	受性 1		已登记	
+vedanā	n.	41	受 33；（未译） 4；能受 1；苦、樂、喜、捨 1；痛 1		已登记	
+vedanā-indriya	cpd.	1	受 1		已登记	
 vedanā-kāya	cpd.	1	受身 1		已登记	
 vedanā-prabhāvita	cpd.	1	受相顯了 1		已登记	
 vedanā-saṃjñā	cpd.	4	受想 4		已登记	
 vedanā-saṃjñā-saṃskāra-skandha	cpd.	1	受、想、行、蘊 1		已登记	
 vedanā-skandha	cpd.	2	受蘊 1；（未译） 1		已登记	
-vedanā-ādi	cpd.	4	受等 2；受想等 1；受想行 1		已登记	
+vedanā-ādi	cpd.	5	受等 2；受 1；受想等 1；受想行 1		已登记	
 vedanā-āsvāda-gardha	cpd.	1	耽著樂受味 1		已登记	
 vedanā-āsvāda-gṛddha	cpd.	1	耽著受 1		已登记	
 vedanā-āsvāda-vaśa	cpd.	1	味受力 1		已登记	
-veditavya	gdv.	19	知 14；（未译） 2；當知 1；謂 1；名為 1		已登记	
+vedanīya	gdv.	7	順…受 5；順 1；順…順…受 1		已登记	
+vedita	ptc.	1	受 1		已登记	
+veditavya	gdv.	27	知 19；（未译） 4；准知 1；當知 1；謂 1		已登记	
 vi-apa-diś	v.	1	說 1		已登记	
-vi-ava-sthā (caus.)	v.	1	立 1		已登记	
-vi-car (caus.)	v.	1	思擇 1		已登记	
-vi-jñā	v./inf./abs.	17	識 6；了別 3；了 3；所識 2；執 1		已登记	
+vi-ava-dai	v.	1	清淨法…生長 1		已登记	
+vi-ava-sthā (caus.)	v.	2	立 2		已登记	
+vi-car (caus.)	v.	3	思擇 3		已登记	
+vi-jñā	v./abs./inf.	18	識 6；了 4；了別 3；所識 2；執 1		已登记	
 vi-jñā (caus.)	v.	2	顯 1；表示…了知 1		已登记	
 vi-kṝ	v.	1	分散 1		已登记	
-vi-pac	v.	1	變而…熟 1		已登记	
+vi-pac	v.	2	引取 1；變而…熟 1		已登记	
 vi-rudh	v.	2	違 2		已登记	
+vi-skambh	v.	1	伏 1		已登记	
 vi-stṛ	v.	1	生長 1		已登记	
 vi-tṛṣṇa	adj.	1	離…愛 1		已登记	
+vi-upa-śam	v.	1	止息 1		已登记	
+vi-ut-sthā	abs.	1	起 1		已登记	
+vi-ā-vṛt (caus.)	v.	1	轉去 1		已登记	
 vi-śṝ	v.	3	散 1；離散 1；散壞 1		已登记	
 vibhakta	ptc.	1	分隔 1		已登记	
 vibhakta-utpādana	cpd.	1	分隔令各續起 1		已登记	
@@ -2093,7 +2614,9 @@ vicāra-saṃprayoga	cpd.	1	伺相應 1		已登记
 vicāra-vitarka	cpd.	1	尋伺 1		已登记	
 vicāra-vitarka-varjya	cpd.	1	除尋伺 1		已登记	
 vicāraya (caus. vi-car)	v.	2	思擇 2		已登记	
-vid	v.	3	有 3		已登记	
+vid	v./n.	8	有 4；受 3；（未译） 1		已登记	
+vid (caus.)	v.	1	領納 1		已登记	
+vid-manas-kāya-jīvita	cpd.	1	受身命意 1	vid-manaḥ-kāya-jīvita；vid-mano-kāya-jīvita	已登记	
 viddha	ptc.	1	中 1		已登记	
 vidha	n.	1	（未译） 1		已登记	
 vidheya	gdv.	1	屬 1		已登记	
@@ -2101,13 +2624,15 @@ vidi	n.	1	有 1		已登记
 vigama	n.	1	斷 1		已登记	
 vighna	n.	2	礙 2		已登记	
 vighna-bhūta	cpd.	1	礙 1		已登记	
-vihīna	ptc.	1	失 1		已登记	
+viharaṇa	n.	4	行 4		已登记	
+vihāra	n.	1	住 1		已登记	
+vihīna	ptc.	3	失 3		已登记	
 vijñapti	n.	9	表 7；了別 1；有表 1		已登记	
 vijñapti-nivṛtti	cpd.	1	表滅 1		已登记	
 vijñapti-rūpaṇa	cpd.	1	表…變礙 1		已登记	
 vijñapti-samādhi-saṃbhūta	cpd.	1	表…定所生 1		已登记	
 vijñeya	gdv.	5	所識 5		已登记	
-vijñāna	n.	165	識 157；（未译） 3；識身 2；識蘊 1；心 1		已登记	
+vijñāna	n.	170	識 162；（未译） 3；識身 2；識蘊 1；心 1		已登记	
 vijñāna-dhātu	cpd.	12	識界 6；識 4；心界 1；識…界 1		已登记	
 vijñāna-kāya	cpd.	8	識身 7；識 1		已登记	
 vijñāna-rūpa	cpd.	1	色識 1		已登记	
@@ -2118,45 +2643,59 @@ vijñāna-sāmānya	cpd.	1	識同 1		已登记
 vijñāna-utpatti	cpd.	2	識起 1；發識 1		已登记	
 vijñāpana	n.	1	顯 1		已登记	
 vijñāta	ptc.	1	識 1		已登记	
-vikalpa	n.	7	分別 5；（未译） 2		已登记	
+vikala	adj.	1	損壞 1		已登记	
+vikalpa	n.	13	分別 8；（未译） 2；餘師 1；別 1；差別 1		已登记	
+vikalpana	n.	1	分別 1		已登记	
 vikiraṇa	n.	1	壞散 1		已登记	
 vikāra	n.	5	變 2；轉變 1；轉異 1；異 1		已登记	
 vikārin	adj.	1	隨…異 1		已登记	
+vikāsana	n.	1	申 1		已登记	
 vikṣipta	ptc.	2	亂心 1；亂 1		已登记	
-vikṣipta-acittaka	cpd.	1	亂心無心 1		已登记	
+vikṣipta-a-cittaka	cpd.	1	亂心無心 1	vikṣipta-acittaka	已登记	
 vikṣipta-cittaka	cpd.	1	亂心 1		已登记	
-vimokṣa	n.	1	解脫 1		已登记	
-vimukti	n.	2	解脫…解脫 1；解脫 1		已登记	
+vimokṣa	n.	2	解脫 2		已登记	
+vimukta	ptc.	1	解脫 1		已登记	
+vimukti	n.	6	解脫 5；解脫…解脫 1		已登记	
+vimukti-mārga	cpd.	3	解脫道 3		已登记	
+vimukti-prīti-sukha-saṃvedana	cpd.	1	領受解脫喜樂 1		已登记	
 vimukti-āyatana	cpd.	1	解脫處 1		已登记	
-vineya	gdv.	1	所化有情 1		已登记	
-vinā	ind.	7	離 4；除 2；（未译） 1		已登记	
+vineya	gdv.	2	所化 1；所化有情 1		已登记	
+vineya-kārya-a-bhāva	cpd.	1	無所化事 1		已登记	
+vinā	ind.	9	離 5；除 2；有所闕 1；（未译） 1		已登记	
 vipakti	n.	1	與因別類…而是所熟 1		已登记	
+vipakva	ptc.	2	熟 2		已登记	
 vipariṇāma	n.	1	變壞 1		已登记	
 vipariṇāma-utpādana	cpd.	1	變壞生 1		已登记	
 viparyasta	ptc.	1	倒 1		已登记	
 viparyasta-saṃjña	cpd.	1	倒想 1		已登记	
-viparyaya	n.	3	翻此 2；相違 1		已登记	
+viparyaya	n.	4	相違 2；翻此 2		已登记	
 viparyāsa	n.	2	倒 1；倒想 1		已登记	
 viparīta	ptc.	1	倒 1		已登记	
 viparīta-saṃjñā-vaśa	cpd.	1	倒想力 1		已登记	
 vipañcita	ptc.	1	釋 1		已登记	
-viprayukta	ptc.	1	不相應 1		已登记	
-vipāka	n.	18	異熟 17；熟 1		已登记	
+viprayukta	ptc.	3	不相應 2；本性 1		已登记	
+viprayukta-tva	n.	1	不相應 1		已登记	
+vipāka	n./adj.	51	異熟 49；（未译） 1；熟 1		已登记	
+vipāka-avakāśa	cpd.	1	異熟 1		已登记	
 vipāka-hetu	cpd.	2	異熟因 2		已登记	
 vipāka-hetu-janita	cpd.	1	異熟因所引生 1		已登记	
 vipāka-ja	cpd.	11	異熟生 9；熟 1；異熟 1		已登记	
 vipāka-santāna	cpd.	1	異熟相續 1		已登记	
+vipāka-uccheṣa	cpd.	2	殘異熟 2		已登记	
 vipākaja-aupacayika	cpd.	1	熟養 1		已登记	
 virati	n.	1	遠離 1		已登记	
 virodha	n.	2	違 1；相違 1		已登记	
 virodhin	adj.	1	相違 1		已登记	
-visaṃyoga	n.	3	離繫 2；遠離繫縛 1		已登记	
+visaṃyoga	n.	4	離繫 3；遠離繫縛 1		已登记	
 visaṃyoga-dravya	cpd.	1	離繫事 1		已登记	
-vistara	n.	5	廣 4；廣說 1		已登记	
+visaṃyoga-prāpti	cpd.	1	離繫得 1		已登记	
+vistara	n.	7	廣 5；中間多少 1；廣說 1		已登记	
 vitarka	n.	8	尋 8		已登记	
 vitarka-mātra	cpd.	2	唯尋 2		已登记	
 vitarka-saṃprayoga	cpd.	1	尋相應 1		已登记	
 vitarka-vicāra	cpd.	2	尋伺 1；尋與伺 1		已登记	
+vitti	n.	5	受 3；（未译） 2		已登记	
+vitti-traya	cpd.	1	（未译） 1		已登记	
 vivartanī	n.	1	劫成時 1		已登记	
 vivāda	n.	4	諍 3；異諍論 1		已登记	
 vivāda-mūla	cpd.	2	諍根 2		已登记	
@@ -2164,7 +2703,7 @@ vivāda-mūla-saṃsāra-hetu-tva	cpd.	1	諍根生死因 1		已登记
 vivṛta	ptc.	1	開 1	vi-vṛta	已登记	
 viyoga	n.	1	離 1		已登记	
 viyukta	ptc.	3	離 2；相離 1		已登记	
-viśeṣa	n.	9	差別 2；別 2；殊勝 2；勝緣 1；異 1		已登记	
+viśeṣa	n.	14	差別 6；別 3；殊勝 2；勝緣 1；異 1		已登记	
 viśeṣaṇa	n.	2	差別 1；簡 1		已登记	
 viśeṣaṇa-artham	cpd.	4	為差別 3；（未译） 1		已登记	
 viśeṣita	ptc.	1	簡別 1		已登记	
@@ -2176,9 +2715,11 @@ viṃśatidhā	ind.	1	二十 1		已登记
 viṣ	n.	1	大…便利 1		已登记	
 viṣ-mūtra	cpd.	1	大小便利 1		已登记	
 viṣ-mūtra-kheṭa-siṃghāṇaka-śoṇita-ādi	cpd.	1	大小便利洟唾血等 1		已登记	
-viṣama	adj.	3	不平等 1；不等 1；不齊 1		已登记	
+viṣama	adj.	5	險難 2；不平等 1；不等 1；不齊 1		已登记	
+viṣama-parihāra	cpd.	1	避於險難 1		已登记	
+viṣama-parivarjana	cpd.	1	避險難 1		已登记	
 viṣama-saṃsthāna	cpd.	1	形不平等 1		已登记	
-viṣaya	n.	68	境 43；境界 14；（未译） 4；所緣境 2；色 1		已登记	
+viṣaya	n.	69	境 44；境界 14；（未译） 4；所緣境 2；色 1		已登记	
 viṣaya-bhāva	cpd.	1	為此所緣 1		已登记	
 viṣaya-dhātu	cpd.	1	境 1		已登记	
 viṣaya-grahaṇa	cpd.	1	取境 1		已登记	
@@ -2188,6 +2729,7 @@ viṣaya-paramāṇu	cpd.	2	境微 1；境…極微 1		已登记
 viṣaya-pratighāta	cpd.	6	境界有對 3；境界 3		已登记	
 viṣaya-prāpti	cpd.	1	兩境…至 1		已登记	
 viṣaya-sahakāri-tva	cpd.	1	境相助 1		已登记	
+viṣaya-vaśa	cpd.	1	隨境力 1		已登记	
 viṣaya-viṣayi-tva	cpd.	1	境有境性 1		已登记	
 viṣaya-ālambana	cpd.	1	境界、所緣 1		已登记	
 viṣayin	n.	2	有境 2		已登记	
@@ -2198,23 +2740,28 @@ vyakta-darśana	cpd.	1	見…分明 1		已登记
 vyatireka	n.	2	離 1；（未译） 1		已登记	
 vyatirikta	ptc.	1	離…別 1		已登记	
 vyavaccheda	n.	2	了別 1；別了別 1		已登记	
-vyavadāna	n.	1	淨 1		已登记	
+vyavadāna	n.	10	淨 7；清淨 3		已登记	
+vyavadāna-saṃbharaṇa	cpd.	1	淨資糧 1		已登记	
 vyavahita	ptc.	2	所障 1；障 1		已登记	
 vyavahāra	n.	2	順世情 1；言說 1		已登记	
 vyavahāra-artham	cpd.	1	為順世情 1		已登记	
 vyavasthā	n.	5	門中立為 3；門…立為 2		已登记	
-vyavasthāna	n.	5	建立 2；立 1；（未译） 1；次第 1		已登记	
+vyavasthāna	n.	6	建立 3；立 1；（未译） 1；次第 1		已登记	
 vyavasthāpaya (caus. vi-ava-sthā)	v.	1	立 1		已登记	
 vyavasthāpita	ptc.	1	立 1		已登记	
-vyañjana	n.	2	助味 1；助 1		已登记	
+vyañjana	n.	10	形 8；助味 1；助 1		已登记	
+vyañjanin	adj.	1	形 1		已登记	
 vyābādhana	n.	1	損害 1		已登记	
 vyāsakta	ptc.	1	專 1		已登记	
 vyūha	n.	1	眾 1		已登记	
 vyūhana	n.	2	長 2		已登记	
-vā	ind.	23	或 9；（未译） 5；或復 3；若…若 2；或有說者 1		已登记	
-vāc	n.	7	語 6；言 1		已登记	
+vā	ind.	34	或 15；（未译） 8；若…若 3；或復 3；有說 1		已登记	
+vā-śabda	cpd.	1	或言 1		已登记	
+vāc	n.	12	語 6；語具 4；口 1；言 1		已登记	
+vāc-pāṇi-pāda-pāyu-upastha	cpd.	1	語具手足大小便處 1		已登记	
 vāc-svabhāva	cpd.	1	語為體 1		已登记	
 vāc-vijñapti-śabda	cpd.	1	語表 1		已登记	
+vāc-ādi	cpd.	2	語具等 2		已登记	
 vācaka	adj.	1	表 1		已登记	
 vāha	n.	1	相續 1		已登记	
 vākya	n.	2	語言 1；說 1		已登记	
@@ -2226,143 +2773,196 @@ vārtamāna-arthya	n.	1	境…現 1		已登记
 vātyā	n.	2	風 2		已登记	
 vātāyana	n.	2	向 1；窓 1		已登记	
 vātāyana-rajas	cpd.	1	向遊塵 1		已登记	
-vāyu	n.	14	風 12；（未译） 1；風界 1		已登记	
+vāyu	n.	15	風 13；（未译） 1；風界 1		已登记	
 vāyu-dhātu	cpd.	6	風界 5；風…界 1		已登记	
 vāyu-dhātu-saṃdhārita-tva	cpd.	1	風界攝持 1		已登记	
 vāyu-vanaspati-nadī-śabda	cpd.	1	風林河…音聲 1		已登记	
-vīrya	n.	1	勤 1		已登记	
+vīrya	n.	2	精進 1；勤 1		已登记	
 vīrya-indriya	cpd.	1	勤根 1		已登记	
-vīta	ptc.	5	離 5		已登记	
-vīta-rāga	cpd.	5	離…欲 3；離欲 1；離…貪 1		已登记	
+vīta	ptc.	11	離 11		已登记	
+vīta-rāga	cpd.	7	離…欲 3；離欲 2；離欲貪 1；離…貪 1		已登记	
+vīta-rāga-pūrvin	cpd.	1	先離欲 1		已登记	
+vṛddha	ptc.	1	長 1		已登记	
 vṛddhi	n.	1	增盛 1		已登记	
 vṛkṣa	n.	5	樹 5		已登记	
-vṛkṣa-abhāva	cpd.	1	樹滅 1		已登记	
+vṛkṣa-a-bhāva	cpd.	1	樹滅 1	vṛkṣa-abhāva	已登记	
 vṛkṣa-pracalana	cpd.	1	樹動 1		已登记	
-vṛt	v.	4	（未译） 2；流至此 1；轉 1		已登记	
+vṛt	v.	6	如前 2；（未译） 2；流至此 1；轉 1		已登记	
 vṛtta	adj.	1	方 1		已登记	
 vṛtti	n.	8	用 4；轉 1；（未译） 1；增盛 1；功能 1		已登记	
-vṛtti-abhāva	cpd.	1	無…功能 1		已登记	
-yad	pron.	46	（未译） 9；謂 6；若 4；前 4；所 4		已登记	
+vṛtti-a-bhāva	cpd.	1	無…功能 1	vṛtti-abhāva	已登记	
+yad	pron.	63	（未译） 13；若 7；謂 7；諸 5；者 4		已登记	
 yad kiñcit	pron.	2	諸所有 2		已登记	
 yad yad	pron.	1	（未译） 1		已登记	
-yad … tad	gram.	20	名 3；（未译） 2；名為 2；若…耶 2；即是 1		已登记	
+yad … tad	gram.	25	若 3；名 3；者 2；（未译） 2；名為 2		已登记	
 yad-bhūmika	cpd.	2	生地 1；（未译） 1		已登记	
-yadi	ind.	13	若 7；若…者 3；（未译） 1；如 1；於…時 1		已登记	
+yadi	ind.	20	若 9；若…者 6；（未译） 2；者 1；如 1		已登记	
 yady api … tathāpi	ind.	1	（未译） 1		已登记	
 yadyapi	ind.	1	（未译） 1		已登记	
-yadā	ind.	8	謂…時 2；如 2；於爾時 2；謂 1；時 1		已登记	
-yadā … tadā	gram.	1	位 1		已登记	
-yasmāt	ind.	5	由…故 1；以 1；（未译） 1；故 1；所以者何 1		已登记	
+yadā	ind.	9	謂…時 2；如 2；於爾時 2；若 1；謂 1		已登记	
+yadā … tadā	gram.	2	若…時 1；位 1		已登记	
+yasmāt	ind.	7	故 2；由 1；由…故 1；以 1；（未译） 1		已登记	
 yat tarhi	ind.	1	若爾…何故 1		已登记	
-yatas	ind.	7	（未译） 3；故 2；謂…故 1；而今 1		已登记	
-yathā	ind.	29	如 16；謂 3；（未译） 2；前 2；隨 1		已登记	
+yatas	ind.	8	故 3；（未译） 3；謂…故 1；而今 1		已登记	
+yathā	ind.	43	如 27；前 3；謂 3；隨 2；（未译） 2		已登记	
 yathā-audārika-saṃkleśa-bhājana-ādi-artha-dhātu	cpd.	1	隨麁染器等…界 1		已登记	
 yathā-bhavya	ind.	1	隨…所應 1		已登记	
-yathā-bhūta	adj.	1	如理 1		已登记	
+yathā-bhūta	cpd./adj.	2	如實 1；如理 1		已登记	
 yathā-krama	ind.	1	如其次第 1		已登记	
 yathā-pradhāna	ind.	1	勝 1		已登记	
 yathā-saṃkhya	ind.	1	如其次第 1		已登记	
 yathā-saṃkleśa	ind.	1	隨染 1		已登记	
 yathā-sthāna	ind.	2	隨處 1；隨所依處 1		已登记	
-yathā-ukta	cpd.	3	前說 1；前所說 1；如…所說 1		已登记	
+yathā-ukta	cpd.	6	前說 2；如…言 2；前所說 1；如…所說 1		已登记	
+yathā-ukta-samanvāgata	cpd.	1	如…所說…成就 1		已登记	
 yathā-vihita	ind.	1	如…所說 1		已登记	
 yathā-yoga	ind.	2	如理 1；隨其所應 1		已登记	
 yathābhūta-śāsana	cpd.	1	如理正教 1		已登记	
-yathākramam	ind.	5	如其次第 5		已登记	
+yathākramam	ind.	8	如其次第 7；如次 1		已登记	
 yathārtha	adj.	3	如理 2；如實 1		已登记	
 yathārtha-śāstṛ	cpd.	2	如理師 2		已登记	
 yathāsvam	ind.	1	（未译） 1		已登记	
-yathāyogam	ind.	4	隨其所應 2；如其所應 1；如理 1		已登记	
+yathāyogam	ind.	5	隨其所應 3；如其所應 1；如理 1		已登记	
 yatra	ind.	7	於中 2；若於是處 2；隨…所 1；是處 1；於其中 1		已登记	
 yatra kvacit	ind.	1	於諸處 1		已登记	
 yava	n.	1	麥 1		已登记	
 yava-aṅkura	cpd.	1	麥牙 1		已登记	
 ye dharmā hetuprabhavā …	formula	1	（未译） 1		已登记	
 yojayitavya	gdv.	2	思 2		已登记	
-yojya	gdv.	3	思 1；安立 1；釋 1		已登记	
+yojya	gdv.	4	（未译） 1；思 1；安立 1；釋 1		已登记	
 yugapat	ind.	1	俱 1		已登记	
-yuj	v.	4	可言 1；容 1；（未译） 1；其理…然 1		已登记	
-yukta	ptc.	6	有 2；應 2；具 1；可 1		已登记	
-yukti	n.	1	正理 1		已登记	
+yuj	v.	5	立為 1；可言 1；容 1；（未译） 1；其理…然 1		已登记	
+yukta	ptc.	10	成 3；有 2；應 2；成就 1；具 1		已登记	
+yukti	n.	2	理 1；正理 1		已登记	
 yukti-virodha	cpd.	1	違正理 1		已登记	
+yādṛśa	adj.	1	隨彼有相 1		已登记	
 yāvad eva	ind.	1	唯 1		已登记	
-yāvat	ind.	16	乃至 9；至 3；（未译） 2；廣說乃至 2		已登记	
-yāvat … tāvat	pron.	2	如…量…亦然 1；隨…量…亦爾 1		已登记	
+yāvat	ind.	18	乃至 10；至 3；（未译） 2；廣說乃至 2；若 1		已登记	
+yāvat … tāvat	pron.	3	由此量 1；如…量…亦然 1；隨…量…亦爾 1		已登记	
 ā	ind.	1	乃至 1		已登记	
 ā-dṛ	v./abs.	2	恭敬 1；越 1		已登记	
-ā-jñā	v.	1	知 1		已登记	
+ā-jñā	v./inf.	19	（未译） 10；知 6；未知 2；了知 1		已登记	
 ā-khyā	v.	3	立為 1；分別 1；辯 1		已登记	
+ā-kṛṣ	abs.	1	引取 1		已登记	
+ā-kṣip	v.	1	引取 1		已登记	
 ā-lamb (caus.)	inf.	1	緣 1		已登记	
-ā-rabh	v.	3	作 1；申 1；（未译） 1		已登记	
+ā-rabh	v.	4	辯 1；作 1；申 1；（未译） 1		已登记	
 ā-svād (caus.)	v.	1	嘗 1		已登记	
+ā-vah (caus.)	v.	1	引 1		已登记	
 ā-vṛ	v.	1	障礙 1		已登记	
 ā-śri	abs.	4	依 3；依止 1		已登记	
 ābhidharmika	n.	1	對法…師 1		已登记	
 ābhidhārmika	n.	2	阿毘達磨…大論師 1；阿毘達磨…論師 1		已登记	
+ābhyantaraka	adj.	1	內 1		已登记	
+ācāra	n.	1	（未译） 1		已登记	
 ācārya	n.	2	（未译） 1；師宗 1		已登记	
 ācārya-vacana	cpd.	1	師宗言 1		已登记	
 ādarśita	ptc.	1	顯示 1		已登记	
 ādharottarya	n.	1	重累 1		已登记	
+ādhipatya	n.	25	增上 25		已登记	
+ādhipatya-artha	cpd.	1	增上義 1		已登记	
 ādhyātmika	adj.	11	內 11		已登记	
 ādhyātmika-bāhya	cpd.	1	若內若外 1		已登记	
 ādhyātmika-tva	n.	1	內 1		已登记	
 ādhāra	n.	1	持 1		已登记	
-ādi	n.	124	等 101；（未译） 12；三四 5；受…想…行…識 1；想行 1		已登记	
-ādika	adj.	1	等 1		已登记	
-ādya	adj.	1	初 1		已登记	
+ādi	n.	186	等 145；（未译） 26；三四 5；命、意 2；初 1		已登记	
+ādi-śabda	cpd.	2	等言 1；（未译） 1		已登记	
+ādika	adj./n.	3	最後三 1；（未译） 1；等 1		已登记	
+ādimat	adj.	3	等 2；男憂，信等 1		已登记	
+ādya	adj.	2	等 1；初 1		已登记	
+ādāna	n.	4	執 4		已登记	
+ādāna-viharaṇa	cpd.	2	執行 2		已登记	
+ādīnava	n.	1	過患 1		已登记	
+āgata	ptc.	1	（未译） 1		已登记	
+āghāta	n.	1	惱害 1		已登记	
+āghāta-vastu-a-bhāva	cpd.	1	無惱害事 1		已登记	
+āgāmin	adj.	4	來 3；（未译） 1		已登记	
 āhosvit	ind.	2	為…耶 1；不 1		已登记	
-āhāra	n.	5	食 3；飲食 1；段食 1		已登记	
+āhāra	n.	6	食 4；飲食 1；段食 1		已登记	
 āhāra-saṃskāra-svapna-samādhi-viśeṣa	cpd.	1	飲食資助眠睡等持勝緣 1		已登记	
 āhāra-svabhāva	cpd.	1	段食性 1		已登记	
-ājñā	n.	1	已知 1		已登记	
-ājñā-indriya	cpd.	1	已知根 1		已登记	
-ājñātāvin	adj.	1	具知 1		已登记	
-ājñātāvin-indriya	cpd.	1	具知根 1		已登记	
+ājñeya	gdv.	1	知 1		已登记	
+ājñā	n.	13	已知 9；（未译） 3；具知 1		已登记	
+ājñā-indriya	cpd.	11	已知根 7；次 1；次無漏根 1；具知根 1；已知 1		已登记	
+ājñā-ājñāta-indriya-anvita	cpd.	1	二無漏 1		已登记	
+ājñā-ākhya	cpd.	1	已知 1		已登记	
+ājñāsyāmi-indriya	cpd.	6	未知當知根 2；未知根 2；初 1；初無漏根 1		已登记	
+ājñāsyāmi-indriya-upeta	cpd.	1	初無漏 1		已登记	
+ājñāsyāmi-indriya-varjya	cpd.	1	已知、具知 1		已登记	
+ājñāsyāmi-indriya-ādi	cpd.	3	三無漏根 2；（未译） 1		已登记	
+ājñāsyāmi-indriya-ādi-traya	cpd.	1	後三…根 1		已登记	
+ājñāsyāmi-indriya-ādika	cpd.	2	最後三根 1；最後…根 1		已登记	
+ājñāsyāmi-ākhya	cpd.	1	未當知 1		已登记	
+ājñāta	ptc.	6	（未译） 3；知 2；具知 1		已登记	
+ājñāta-indriya	cpd.	2	（未译） 1；具知根 1		已登记	
+ājñātāva	n.	1	知 1		已登记	
+ājñātāvin	adj.	14	具知 8；（未译） 4；已知 2		已登记	
+ājñātāvin-indriya	cpd.	11	具知根 6；已知根 2；後 1；後無漏根 1；未知當知根等 1		已登记	
+ājñātāvin-indriya-prāpti	cpd.	1	得具知根 1		已登记	
+ājñātāvin-indriya-varjya	cpd.	1	未知當知、已知 1		已登记	
 ākara	n.	2	生本 2		已登记	
-ākhya	adj.	10	名 3；（未译） 2；名為 2；謂 2；所謂 1		已登记	
-ākhyā	n.	2	名 1；（未译） 1		已登记	
+ākhya	adj.	12	（未译） 4；名 3；名為 2；謂 2；所謂 1		已登记	
+ākhyā	n.	5	名 3；（未译） 2		已登记	
 ākhyāna	n.	1	讚 1		已登记	
 ākhyāta	ptc.	1	准知 1		已登记	
+ākuñcana	n.	1	屈 1		已登记	
 ākāra	n.	4	相 4		已登记	
-ākāśa	n.	12	空 8；虛空 4		已登记	
+ākāśa	n.	13	空 9；虛空 4		已登记	
 ākāśa-dhātu	cpd.	5	空界 4；空…界 1		已登记	
 ākāśa-dhātu-ākhya	cpd.	1	空界謂 1		已登记	
 ākāśa-vijñāna-ānantyāyatana-kṛtsna	cpd.	1	空、識遍處 1		已登记	
 ākāśa-ādi	cpd.	1	虛空等 1		已登记	
 ākāśa-ānantya-āyatana-ādi	cpd.	1	空無邊等…處 1		已登记	
+ākāṅkṣat	ptc.	1	欲 1		已登记	
+ākṛti	n.	2	形類 2		已登记	
+ākṣepa	n.	1	引 1		已登记	
 ālambana	n.	19	所緣 12；緣 3；緣境 1；境界 1；緣…境界 1		已登记	
-ālambana-abhāva	cpd.	1	無所緣 1		已登记	
+ālambana-a-bhāva	cpd.	1	無所緣 1	ālambana-abhāva	已登记	
 ālambana-pratighāta	cpd.	4	所緣有對 3；所緣 1		已登记	
 ālambanī-bhū	v.	1	所取 1		已登记	
 ālocana	n.	1	觀照 1		已登记	
 āloka	n.	9	明 8；光明 1		已登记	
 āloka-tamas	cpd.	4	明闇 4		已登记	
 āloka-tamas-svabhāva	cpd.	1	明闇為體 1		已登记	
-āmreḍita	gram.	1	彼彼 1		已登记	
+āmreḍita	gram.	2	數數 1；彼彼 1		已登记	
+ānanda	n.	2	樂 2		已登记	
+ānantarya	n.	4	無間 3；無間業 1		已登记	
+ānantarya-kārin	cpd.	1	造無間業 1		已登记	
+ānantarya-mārga	cpd.	2	無間道 2		已登记	
 ānantya	n.	2	（未译） 1；無邊 1		已登记	
+ānupūrvika	adj.	3	次第 3		已登记	
 ānupūrvī	n.	1	（未译） 1		已登记	
-ānuṣaṅgika	adj.	1	傍 1		已登记	
+ānuṣaṅgika	adj.	2	傍論 1；傍 1		已登记	
+āpatti	n.	4	預 3；（未译） 1		已登记	
 āpekṣika	adj.	1	相待 1		已登记	
 āpekṣika-tva	n.	1	相待 1		已登记	
-āpta	ptc.	7	繫 6；（未译） 1		已登记	
+āpta	ptc.	11	繫 7；（未译） 4		已登记	
+āpti	n.	1	得 1		已登记	
 āpāyika	adj.	1	招惡趣 1		已登记	
 ārakṣā	n.	1	護持 1		已登记	
-ārya	adj./n.	5	聖 5		已登记	
+ārya	adj./n.	8	聖 6；聖者 2		已登记	
 ārya-mārga	cpd.	1	聖道 1		已登记	
 ārya-mārga-virodhi-tva	cpd.	1	與聖道…相違 1		已登记	
 ārya-pudgala	cpd.	1	聖者 1		已登记	
+ārya-pudgala-vyavasthāna	cpd.	1	建立…聖位差別 1		已登记	
 ārya-satya	cpd.	1	聖諦 1		已登记	
-ārūpya	n.	6	無色 5；無色界 1		已登记	
-ārūpya-dhātu	cpd.	1	無色 1		已登记	
+ārūpya	n./adj.	21	無色 12；無色界 8；（未译） 1		已登记	
+ārūpya-dhātu	cpd.	3	無色界 2；無色 1		已登记	
 ārūpya-dhātu-cyuta	cpd.	2	無色沒 2		已登记	
-ārūpya-āpta	cpd.	2	無色繫 1；無色界繫 1		已登记	
+ārūpya-pratisaṃyukta	cpd.	1	無色界繫 1		已登记	
+ārūpya-upapanna	cpd.	2	生無色界 2		已登记	
+ārūpya-āpta	cpd.	3	無色 1；無色繫 1；無色界繫 1		已登记	
 āsaṅga	n.	1	沈溺 1		已登记	
-āsrava	n.	2	漏 2		已登记	
+āsrava	n.	3	漏 3		已登记	
+āsrava-paryāya-tva	cpd.	1	漏名異體同 1		已登记	
 āsvāda	n.	3	味 2；（未译） 1		已登记	
+āsvādana	n.	1	甞 1		已登记	
 ātapa	n.	4	光 4		已登记	
 ātapa-āloka	cpd.	1	光明 1		已登记	
-ātma-bhāva	cpd.	1	內身 1		已登记	
+ātma-bhāva	cpd.	7	身 5；自身 1；內身 1		已登记	
 ātma-bhāva-mukha	cpd.	1	依內身 1		已登记	
+ātma-bhāva-parikarṣaṇa	cpd.	3	導養身 3		已登记	
+ātma-bhāva-śobhā	cpd.	2	莊嚴身 2		已登记	
 ātma-bhūta	cpd.	1	假說為我 1		已登记	
 ātma-hita	cpd.	1	自利 1		已登记	
 ātma-hita-pratipatti-saṃpad	cpd.	1	自利德滿 1		已登记	
@@ -2370,35 +2970,46 @@ yāvat … tāvat	pron.	2	如…量…亦然 1；隨…量…亦爾 1		已登记
 ātma-para-vyābādhana	cpd.	1	損害自他 1		已登记	
 ātma-parimāṇa-tulya	cpd.	1	等量 1		已登记	
 ātmaka	adj.	3	為體 2；為性 1		已登记	
-ātman	n./pron.	10	自 4；我 4；我體 1；內 1		已登记	
+ātman	n./pron.	17	身 5；自 5；我 4；自身 1；我體 1		已登记	
 āvaha	adj.	1	引 1		已登记	
 āvaraṇa	n.	5	障礙 4；障 1		已登记	
 āvaraṇa-pratighāta	cpd.	3	障礙有對 2；障礙 1		已登记	
 āvaraṇa-viṣaya-ālambana-pratighāta	cpd.	1	障礙、境界、所緣 1		已登记	
 āvarjita	ptc.	1	引 1		已登记	
+āvedha	n.	2	勢分 2		已登记	
 āvis-kṛ	v.	1	顯 1		已登记	
+āvāhaka	adj.	1	引因 1		已登记	
+āvāhaka-sanniśraya-tva	cpd.	1	引因，依因 1		已登记	
 āvṛta	ptc.	6	障 3；被障 1；彼 1；（未译） 1	ā-vṛta	已登记	
 āya	n.	4	生 3；生長 1		已登记	
 āya-dvāra	cpd.	2	生門 2		已登记	
 āya-dvāra-bhāva	cpd.	1	成生門 1		已登记	
-āyatana	n.	82	處 73；（未译） 6；處…處 2；根 1		已登记	
+āyatana	n.	83	處 74；（未译） 6；處…處 2；根 1		已登记	
 āyatana-artha	cpd.	1	處義 1		已登记	
 āyatana-dhātu	cpd.	2	處界 2		已登记	
 āyatana-dhātu-vyavasthā	cpd.	1	於處門中立為…於界門中立為 1		已登记	
 āyatana-sva-lakṣaṇa	cpd.	1	處自相 1		已登记	
 āyatana-vyavasthā	cpd.	2	於處門中立為 1；處門立為 1		已登记	
 āyatana-vyavasthāna	cpd.	1	立處界 1		已登记	
-āśraya	n.	51	所依 27；依 16；身 3；所依止 1；所依身 1		已登记	
+āyus	n.	22	壽 17；命壽 3；命 1；壽…壽 1		已登记	
+āyus-dravya	cpd.	2	命壽實體 1；實命壽體 1		已登记	
+āyus-jīvita-saṃskāra-kṣaṇa	cpd.	1	念…命行壽行 1		已登记	
+āyus-kṣaya	cpd.	1	壽盡 1		已登记	
+āyus-saṃskāra	cpd.	10	壽行 10		已登记	
+āyus-vipāka	cpd.	3	壽異熟 3		已登记	
+āyus-ākhyā	cpd.	1	命壽…名 1		已登记	
+āśraya	n.	58	所依 32；依 16；身 5；所依止 1；所依身 1		已登记	
 āśraya-bhāva	cpd.	8	所依 4；所依性 3；為…所依 1		已登记	
 āśraya-bhūta	cpd.	2	所依 1；依 1		已登记	
 āśraya-bhūta-rūpaṇa	cpd.	1	所依大種變礙 1		已登记	
 āśraya-rūpaṇa	cpd.	2	所依…變礙 1；變礙 1		已登记	
+āśraya-utpatti-sthiti-pratyupabhoga	cpd.	1	所依，及生住受用 1		已登记	
 āśraya-vaśa	cpd.	1	隨所依力 1		已登记	
 āśraya-viccheda	cpd.	1	所依別 1		已登记	
 āśraya-āśrita-ālambana-ṣaṭka-vyavasthāna	cpd.	1	所依能依境界…各六 1		已登记	
 āśraya-śobhā	cpd.	1	莊嚴身 1		已登记	
 āśrayī-bhū	inf./v.	2	所依 1；依 1		已登记	
-āśrita	ptc.	8	能依 4；依止 2；（未译） 1；依 1		已登记	
+āśrita	ptc.	9	能依 4；依 2；依止 2；（未译） 1		已登记	
 āśrita-karman	cpd.	1	能依業 1		已登记	
 āśu	ind.	1	速疾 1		已登记	
 āśu-vṛtti	cpd.	1	速疾轉 1		已登记	
@@ -2410,24 +3021,30 @@ yāvat … tāvat	pron.	2	如…量…亦然 1；隨…量…亦爾 1		已登记
 īr	v.	1	引 1		已登记	
 īraṇa	n.	5	動 4；吹 1		已登记	
 īraṇa-svabhāva	cpd.	1	動為自性 1		已登记	
-śabda	n.	42	聲 26；言 5；（未译） 5；音聲 3；名 1		已登记	
+śabda	n.	49	聲 28；言 8；（未译） 7；音聲 3；名 1		已登记	
 śabda-abhiniṣpatti	cpd.	1	發聲 1		已登记	
 śabda-dhātu	cpd.	1	聲 1		已登记	
 śabda-gandha-rasa-spraṣṭavya	cpd.	1	聲香味觸 1		已登记	
 śabda-gandha-rasa-spraṣṭavya-dhātu	cpd.	1	聲香味觸 1		已登记	
 śabda-manas-dharma-āyatana	cpd.	1	聲意法處 1	śabda-manaḥ-dharma-āyatana；śabda-mano-dharma-āyatana	已登记	
-śabda-śravaṇa	cpd.	1	聲…聞 1		已登记	
+śabda-śravaṇa	cpd.	2	（未译） 1；聲…聞 1		已登记	
 śabdaka	adj.	2	聲 2		已登记	
-śaikṣa	adj./n.	4	有學 3；學 1		已登记	
+śaikṣa	adj./n.	6	有學 5；學 1		已登记	
+śailpasthānika	adj.	1	工巧處 1		已登记	
 śak	v.	5	可 3；（未译） 1；能 1		已登记	
-śakta	ptc.	2	能 2		已登记	
+śakta	ptc./adj.	3	能 2；堪能 1		已登记	
 śakya	gdv.	1	定 1		已登记	
 śalya	n.	1	箭 1		已登记	
 śalya-viddha	cpd.	1	箭中 1		已登记	
 śalākā	n.	2	籌 1；雙爪甲 1		已登记	
+śamatha	n.	1	奢摩他 1		已登记	
+śamatha-snigdha-santāna-tva	cpd.	1	奢摩他潤相續 1		已登记	
 śarīra	n.	1	身 1		已登记	
-śeṣa	adj.	26	餘 20；所餘 4；身識 1；法餘餘界 1		已登记	
+śeṣa	adj.	31	餘 23；所餘 5；（未译） 1；身識 1；法餘餘界 1		已登记	
+śeṣa-anuśaya-prahāṇa-artham	cpd.	1	為斷除餘隨眠故 1		已登记	
 śeṣa-pratipakṣa-bhāvanā-vaiyarthya	cpd.	1	修餘對治…無用 1		已登记	
+śikṣā	n.	1	學 1		已登记	
+śikṣā-viśeṣa-apekṣa-tva	cpd.	1	待學差別 1		已登记	
 śiras	n.	1	首 1		已登记	
 śiśumāra	n.	1	室獸摩羅 1		已登记	
 śiśumāra-maṇḍūka-piśāca-kaivarta-ādi	cpd.	1	畢舍遮、室獸摩羅及捕魚人、蝦蟇等 1		已登记	
@@ -2436,37 +3053,48 @@ yāvat … tāvat	pron.	2	如…量…亦然 1；隨…量…亦爾 1		已登记
 ślakṣṇa	adj.	1	滑 1		已登记	
 ślakṣṇa-tva	n.	3	滑 3		已登记	
 ślakṣṇa-tva-ādi	cpd.	2	滑等 1；滑性等 1		已登记	
-śobhā	n.	4	端嚴 2；莊嚴 1；嚴 1		已登记	
+śobhā	n.	6	莊嚴 3；端嚴 2；嚴 1		已登记	
 śobhā-artham	cpd.	3	為…端嚴 1；為…端嚴故 1；為嚴 1		已登记	
 śoṇita	n.	1	血 1		已登记	
-śraddhā	n.	1	信 1		已登记	
+śraddhā	n.	31	信 29；（未译） 2		已登记	
 śraddhā-indriya	cpd.	1	信根 1		已登记	
+śraddhā-vīrya-smṛti-samādhi-prajñā	cpd.	1	精進等 1	śraddhā-vīrya-smṛti-samādhi-pra-jñā	已登记	
+śraddhā-ādi	cpd.	23	信等 23		已登记	
+śraddhā-ādimat	cpd.	1	信等 1		已登记	
+śraddhā-ādya	cpd.	1	信等 1		已登记	
 śrama	n.	1	功 1		已登记	
-śravaṇa	n.	2	聞 1；聽 1		已登记	
-śrotra	n.	24	耳 16；（未译） 4；耳根 3；耳界 1		已登记	
+śravaṇa	n.	4	聞 2；（未译） 1；聽 1		已登记	
+śrotra	n.	31	耳 19；（未译） 7；耳根 4；耳界 1		已登记	
 śrotra-ghrāṇa	cpd.	2	耳鼻 2		已登记	
+śrotra-ghrāṇa-jihvā-indriya	cpd.	1	耳鼻舌根 1		已登记	
 śrotra-indriya	cpd.	1	耳根 1		已登记	
 śrotra-indriya-paramāṇu	cpd.	1	耳根極微 1		已登记	
 śrotra-ādi-vijñāna	cpd.	1	耳等…識 1		已登记	
-śru	v.	4	聞 4		已登记	
+śru	v./abs.	5	聞 5		已登记	
 śruta	n.	1	聞 1		已登记	
 śruta-cintā-bhāvanā-maya	cpd.	1	修…思聞 1		已登记	
 śruti	n.	1	耳 1		已登记	
+śrāmaṇaka	adj.	1	（未译） 1		已登记	
+śrāmaṇya	n.	1	沙門 1		已登记	
+śrāmaṇya-phala	cpd.	1	沙門果 1		已登记	
 śrāvaka	n.	1	聲聞 1		已登记	
 śubh	v.	1	醜陋 1		已登记	
-śubha	adj.	2	淨 2		已登记	
-śubha-aśubha	cpd.	2	淨不淨 2		已登记	
+śubha	adj.	5	善 3；淨 2		已登记	
+śubha-a-śubha	cpd.	2	淨不淨 2	śubha-aśubha	已登记	
+śubha-grahaṇa	cpd.	1	名為善 1		已登记	
 śvan	n.	1	狗 1		已登记	
 śvan-śṛgāla-turaga-dvīpin-mārjāra-ādi	cpd.	1	狗野干馬豹…猫狸等 1		已登记	
+śānta	ptc.	1	寂靜 1		已登记	
 śārīrika	adj.	1	身 1		已登记	
 śās	v.	1	教授誡勗 1		已登记	
-śāsana	n.	2	正教 1；教誡 1		已登记	
-śāstra	n.	14	論 13；本論 1		已登记	
+śāsana	n.	3	聖教 1；正教 1；教誡 1		已登记	
+śāsana-sthiti-artham	cpd.	1	為聖教久住世故 1		已登记	
+śāstra	n.	15	論 13；本論 2		已登记	
 śāstra-pramāṇa	cpd.	1	量如彼論 1		已登记	
 śāstra-saṃjñaka	cpd.	1	論 1		已登记	
 śāstṛ	n.	5	師 3；佛 1；（未译） 1		已登记	
-śāta	adj.	2	正 2		已登记	
-śīla	n.	2	戒 2		已登记	
+śāta	adj.	8	悅 4；能攝益 2；正 2		已登记	
+śīla	n.	3	戒 2；已成性 1		已登记	
 śīla-samādhi-prajñā-vimukti-jñānadarśana-skandha	cpd.	1	戒、定、慧、解脫、解脫智見…蘊 1	śīla-samādhi-pra-jñā-vimukti-jñānadarśana-skandha	已登记	
 śīla-skandha	cpd.	1	戒蘊 1		已登记	
 śīta	n.	3	冷 3		已登记	
@@ -2475,17 +3103,22 @@ yāvat … tāvat	pron.	2	如…量…亦然 1；隨…量…亦爾 1		已登记
 ūrdhva	adj.	6	上 6		已登记	
 ūrdhva-adhas-bhūmika	cpd.	1	上下 1	ūrdhva-adho-bhūmika	已登记	
 ūrdhva-bhūmika	cpd.	2	上 2		已登记	
-ūrdhvam	ind.	1	上 1		已登记	
-ṛddhi	n.	1	神通 1		已登记	
+ūrdhvam	ind.	2	增 1；上 1		已登记	
+ṛddhi	n.	2	神 1；神通 1		已登记	
+ṛddhi-pāda	cpd.	1	神足 1		已登记	
 ṛddhi-vara-pradāna-prabhāva	cpd.	1	威力與願神通 1		已登记	
-ṣaṣ	num.	25	六 25		已登记	
+ṛddhimat	adj.	1	成就神通 1		已登记	
+ṛte	ind.	1	非 1		已登记	
+ṣaṇḍha	n.	1	扇搋 1		已登记	
+ṣaṇḍha-paṇḍaka-ubhaya-vyañjana	cpd.	1	扇搋半擇及二形人 1		已登记	
+ṣaṣ	num.	35	六 34；（未译） 1		已登记	
 ṣaṣ-dhātu	cpd.	1	六界 1		已登记	
 ṣaṣ-sahasra	cpd.	1	六千 1	ṣaṭ-sahasra	已登记	
 ṣaṣ-saṃjñā-kāya	cpd.	1	六想身 1		已登记	
 ṣaṣ-sparśa-āyatana-vacana	cpd.	1	說六觸處 1		已登记	
 ṣaṣ-vijñāna-dhātu	cpd.	2	識有六種 1；六識 1		已登记	
 ṣaṣ-vijñāna-dhātu-manas-dhātu	cpd.	1	六識與意 1	ṣaṣ-vijñāna-dhātu-manaḥ-dhātu；ṣaṣ-vijñāna-dhātu-mano-dhātu	已登记	
-ṣaṣ-āyatana	cpd.	2	六處 1；六根 1	ṣaḍ-āyatana	已登记	
+ṣaṣ-āyatana	cpd.	3	六處 2；六根 1	ṣaḍ-āyatana	已登记	
 ṣaṣ-āyatana-vyavasthāna	cpd.	1	六處次第 1	ṣaḍ-āyatana-vyavasthāna	已登记	
 ṣaṣṭha	adj./num.	5	第六 4；六 1		已登记	
 ṣaṣṭha-āśraya-prasiddhi-artham	cpd.	1	成第六依故 1		已登记	
