@@ -2,9 +2,11 @@
 """akbh1_lint.py -- 按《体例草案》第五、六节检查对应实例的切分（核验出处之外的体例检查）。
 
 Usage: python3 -I akbh1_lint.py OCC_TSV [...]
+对照规范词目表（align/lemmas.tsv）：异写报 ERROR，未登记的新词目报 WARN。
 ERROR：必须改；WARN：逐条复查，确属该词本身的译法可以保留（如 vaiyarthya → 無用、heya → 所斷）。
 """
 import csv
+import os
 import re
 import sys
 from collections import defaultdict
@@ -15,13 +17,33 @@ NEGLEM = re.compile(r'^(a-|an-|na\b|nir|vi|dur|niḥ|a$)|^a[^ā]|^an|vaiyarthya|
 VERB = ('v.', 'ptc.', 'abs.', 'inf.')
 
 
+def lemma_table(f):
+    """读规范词目表（align/lemmas.tsv）：返回（已登记词目集合, 异写→标准写法）。"""
+    p = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(f)))), 'lemmas.tsv')
+    if not os.path.exists(p):
+        return None, {}
+    rows = list(csv.DictReader(open(p, encoding='utf-8'), delimiter='\t', quoting=csv.QUOTE_NONE))
+    known = {r['lemma'] for r in rows}
+    var = {}
+    for r in rows:
+        for v in filter(None, (x.strip() for x in r['variants'].split('；'))):
+            if v not in known:
+                var[v] = r['lemma']
+    return known, var
+
+
 def main(files):
     nerr = nwarn = 0
+    known, var = lemma_table(files[0]) if files else (None, {})
     seen = defaultdict(list)
     for f in files:
         for r in csv.DictReader(open(f, encoding='utf-8'), delimiter='\t', quoting=csv.QUOTE_NONE):
             o, x, l, p, t, sk = r['oid'], r['xz'], r['lemma'], r['pos'], r['type'], r['skt']
             msgs = []
+            if l and l in var:
+                msgs.append(('ERROR', '词目写法不合规范词目表：应作 %s' % var[l]))
+            elif l and known is not None and l not in known:
+                msgs.append(('WARN', '新词目，规范词目表未登记（确认写法后运行 akbh1_lemmas.py 登记）'))
             if (' + ' in p or ' + ' in l) and l not in IDIOM:
                 msgs.append(('ERROR', '两个以上的词并成一条（pos/lemma 含"+"）：应拆开'))
             if t in ('增译', '梵本缺文') or not x:

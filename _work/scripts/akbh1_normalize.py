@@ -7,8 +7,8 @@ Usage: python3 -I akbh1_normalize.py AKBH1_DIR [--dry]
     "-aiḥ (instr. pl.)" → lemma "instr."，pos "gram. instr. pl. (-aiḥ)"。
     复数词尾对作"諸""眾"的归"pl."；对作其他汉字的归各自的格。
  2. comp. → compar.
- 3. 实词词目：否定前缀加连字符（a-bhāva），复合词成分一律用词干（cakṣus-、manas-），
-    合写的 manovijñāna、cakṣurvijñāna 拆为 manas-vijñāna、cakṣus-vijñāna。
+ 3. 实词词目：否定前缀加连字符（a-bhāva、a-jñāna），复合词成分一律用词干（cakṣus-、manas-、catur-、adhas-），
+    合写的 manovijñāna、cakṣurvijñāna 拆为 manas-vijñāna、cakṣus-vijñāna；分词、形容词不拆前缀（saṃprayukta）。
 """
 import csv
 import glob
@@ -28,7 +28,12 @@ FIXED = {  # 原 lemma（括号内标签）→ 范畴
 KEEP = re.compile(r'^(-tva \(abstract\)|-vat|-artham|-arthena|-aka \(agent\)|a- \(neg\.\)|dvandva|\(āmreḍita\)|'
                   r'santi … yeṣām|yad … tad|yadā … tadā|kim … āhosvit)$')
 LEX = {'abhāva': 'a-bhāva', 'ananta': 'an-anta', 'anityatā': 'a-nityatā', 'avijñapti-varjya': 'a-vijñapti-varjya',
-       'bhavāgra': 'bhava-agra', 'ekadeśa': 'eka-deśa', 'pra-jñā': 'prajñā', 'sahabhū': 'saha-bhū', 'sahaja': 'saha-ja'}
+       'bhavāgra': 'bhava-agra', 'ekadeśa': 'eka-deśa', 'pra-jñā': 'prajñā', 'sahabhū': 'saha-bhū', 'sahaja': 'saha-ja',
+       # 2026-10-29 建规范词目表前补充
+       'ajñāna': 'a-jñāna', 'anantara': 'an-antara', 'apratisaṃkhyā': 'a-pratisaṃkhyā',
+       'saṃ-pra-yukta': 'saṃprayukta'}
+# 复合词成分：连声形式 → 词干
+MEMBER = {'cakṣur': 'cakṣus', 'mano': 'manas', 'manaḥ': 'manas', 'catuḥ': 'catur', 'catuṣ': 'catur', 'adho': 'adhas'}
 
 
 def gram_lemma(lemma, pos, xz):
@@ -67,15 +72,18 @@ def gram_lemma(lemma, pos, xz):
 def lex_lemma(l, pos):
     if l in LEX:
         l = LEX[l]
+    if l.startswith('anutpatti-'):
+        l = 'an-utpatti-' + l[len('anutpatti-'):]
     if l == 'ā-khyā' and pos.startswith('n'):
         l = 'ākhyā'
     parts = l.split('-')
+    # 否定前缀：apratisaṃkhyā-nirodha、anutpatti-dharman 等复合词的首成分
+    if parts[0] in LEX:
+        parts = LEX[parts[0]].split('-') + parts[1:]
     out = []
     for p in parts:
-        if p == 'cakṣur':
-            p = 'cakṣus'
-        elif p in ('mano', 'manaḥ'):
-            p = 'manas'
+        if p in MEMBER:
+            p = MEMBER[p]
         elif p == 'manovijñāna':
             p = 'manas-vijñāna'
         elif p == 'cakṣurvijñāna':
@@ -86,7 +94,7 @@ def lex_lemma(l, pos):
 
 def main(d, dry):
     stats = {'gram': 0, 'comp': 0, 'lex': 0}
-    for f in sorted(glob.glob(os.path.join(d, 'occ', 'U*.tsv'))):
+    for f in sorted(glob.glob(os.path.join(d, 'occ', 'U*.tsv')) + glob.glob(os.path.join(d, 'occ_extra', 'U*.tsv'))):
         hdr = open(f, encoding='utf-8').readline().rstrip('\n').split('\t')
         rows = list(csv.DictReader(open(f, encoding='utf-8'), delimiter='\t', quoting=csv.QUOTE_NONE))
         for r in rows:

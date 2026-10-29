@@ -38,7 +38,7 @@ U53-042	S1079	cakṣuṣaḥ	cakṣus	n. gen.	0012c21	眼	对译			真谛作"非
 U53-044	S1080	kadācid	kadācit	ind.			省译	0172b24	未曾	真谛以"未曾有"合译 na kadācit
 U53-045	S1080	ūrdhrvabhūmikaṃ	ūrdhva-bhūmika	cpd. adj.	0012c28	上	意译	0172b24	上地	GRETIL 本作 ūrdhrva-，当读 ūrdhva-；bhūmika 未译
 U53-046	S1080	rūpam	rūpa	n.	0012c28	色	对译	0172b25	色	
-U53-047	S1080	adhobhūmikena	adho-bhūmika	cpd. adj. instr.	0012c28	下	意译	0172b25	下地	bhūmika 未译
+U53-047	S1080	adhobhūmikena	adhas-bhūmika	cpd. adj. instr.	0012c28	下	意译	0172b25	下地	bhūmika 未译
 U53-048	S1080	cakṣuṣā	cakṣus	n. instr.	0012c28	眼	对译	0172b25	眼	
 U53-049	S1080	draṣṭuṃ	dṛś	inf.	0012c28	見	对译	0172b25	見	
 U53-050	S1080	śakyate	śak	v. pass. 3sg.	0012c28	能	对译	0172b25	能	
@@ -54,7 +54,7 @@ U53-060	S1083	sarvataḥ	sarvatas	ind.	0012c22	一切	意译	0172b26	遍…一�
 U53-061	S1083	kāyasyo	kāya	n. gen.	0012c22	身	对译	0172b26	身	
 U53-062	S1083	obhe	ubha	pron. du.	0012c22	二	对译	0172b26	二	
 U53-063	S1083	obhe ca	ca	ind.	0012c22	亦然	语法			ca 与承上省略的 sarvataḥ 合译"亦然"
-U53-066	S1084	anantaroktasya	anantara-ukta	cpd. ptc. gen.			省译	0172b27	前所說	
+U53-066	S1084	anantaroktasya	an-antara-ukta	cpd. ptc. gen.			省译	0172b27	前所說	
 U53-067	S1084	cakṣurvijñānasya	cakṣus-vijñāna	cpd. gen.	0012c29	識	意译	0172b27	眼識	玄奘只作"識"
 U53-068	S1084	rūpaṃ	rūpa	n.	0012c29	色	对译	0172b27	色	
 U53-069	S1084				0012c29	望	增译			"色望於識"
@@ -146,7 +146,7 @@ U53-163	S1097	manovijñāna	manas-vijñāna	cpd.	0013a07	識	意译	0172c08	意�
 U53-164	S1097	dharmaiḥ	dharma	n. instr. pl.	0013a07	法	对译	0172c09	法	
 U53-166	S1097				0013a07	四皆	增译			补出"四"（意、身、識、法）及"皆"
 U53-167	S1097	samānabhūmikaṃ	samāna-bhūmika	cpd. adj.	0013a07	同地	对译	0172c09	同在一地	
-U53-169	S1097	ūrdhvādhobhūmikam	ūrdhva-adho-bhūmika	cpd. adj.	0013a07	上下	意译	0172c09	上下為地	bhūmika 未译
+U53-169	S1097	ūrdhvādhobhūmikam	ūrdhva-adhas-bhūmika	cpd. adj.	0013a07	上下	意译	0172c09	上下為地	bhūmika 未译
 U53-170	S1098	pañcabhūmike	pañca-bhūmika	cpd. adj. loc.	0013a07	五地	对译	0172c09	五地	
 U53-172	S1098	kāye	kāya	n. loc.	0013a07	身	对译	0172c09	身	
 U53-173	S1098				0013a07	唯	增译			"身唯五地"

@@ -54,7 +54,7 @@ U05-043	S0057	nirodhau	nirodha	n.	0001c03	滅	对译	0162b08	滅
 U05-044	S0058	katamau	katama	pron.	0001c11	者何	语法	0162b08	何…者	
 U05-044b	S0058	katamau dvau	dvi	num.	0001c11	二	对译	0162b09	二	
 U05-045	S0058	pratisaṃkhyānirodho	pratisaṃkhyā-nirodha	cpd.	0001c12	擇…滅	对译	0162b09	擇滅	与下一词共用"滅"字
-U05-046	S0058	'pratisaṃkhyānirodhaś	apratisaṃkhyā-nirodha	cpd.	0001c12	非擇滅	对译	0162b09	非擇滅	
+U05-046	S0058	'pratisaṃkhyānirodhaś	a-pratisaṃkhyā-nirodha	cpd.	0001c12	非擇滅	对译	0162b09	非擇滅	
 U05-047	S0059	ākāśādi	ākāśa-ādi	cpd.	0001c12	虛空等	对译	0162b09	空等	
 U05-048	S0059	trividhamasaṃskṛtaṃ	trividha	adj.	0001c12	三種	对译	0162b09	三	
 U05-048b	S0059	asaṃskṛtaṃ	a-saṃskṛta	ptc. adj.	0001c12	無為	对译	0162b09	無為	
@@ -134,7 +134,7 @@ U05-108	S0078	utpādātyantavighno	utpāda-atyanta-vighna	cpd.	0001c05	畢竟礙
 U05-109	S0078	utpādā	utpāda	n.	0001c05	生	对译	0162b23	生	
 U05-110	S0078	vighno	vighna	n.	0001c05	礙	对译	0162b23	遮	
 U05-111	S0078	'nyo nirodho	anya	pron.	0001c05	別	对译	0162b23	別	
-U05-112	S0078	'pratisaṃkhyayā	apratisaṃkhyā	n. instr.	0001c05	非擇	对译	0162b23	非擇	nirodha 另记（U05-112b）
+U05-112	S0078	'pratisaṃkhyayā	a-pratisaṃkhyā	n. instr.	0001c05	非擇	对译	0162b23	非擇	nirodha 另记（U05-112b）
 U05-112b	S0078	nirodho 'pratisaṃkhyayā	nirodha	n.	0001c05	滅	对译	0162b23	滅	
 U05-113	S0078				0001c05	得	增译			本颂"別得非擇滅"的"得"取自长行 labhyate
 U05-114	S0079	dharmāṇām	dharma	n. gen.	0001c26	法	对译	0162b24	諸法	
@@ -143,7 +143,7 @@ U05-116	S0079	utpādasyā	utpāda	n. gen.	0001c26	生	对译	0162b24	生
 U05-116b	S0079	ātyantaṃ	atyantam	ind.	0001c26	永	对译	0162b24	永	
 U05-116c	S0079	vighnabhūto	vighna-bhūta	cpd. adj.	0001c26	礙	对译	0162b24	遮	
 U05-117	S0079	visaṃyogād yo 'nyo	abl. compar.	gram. abl. of comparison (-āt)	0001c26	異前	语法	0162b24	異於擇滅	表比较的第五格（visaṃyogād … anyaḥ），玄奘以"異前"表出
-U05-118	S0079	so 'pratisaṃkhyānirodhaḥ	apratisaṃkhyā-nirodha	cpd.	0001c26	非擇滅	对译	0162b25	非擇滅	
+U05-118	S0079	so 'pratisaṃkhyānirodhaḥ	a-pratisaṃkhyā-nirodha	cpd.	0001c26	非擇滅	对译	0162b25	非擇滅	
 U05-119	S0080	pratisaṃkhyayā labhyate	pratisaṃkhyā	n. instr.	0001c27	擇	对译	0162b25	簡擇	
 U05-120	S0080	pratisaṃkhyayā	instr.	gram. instr. (-ā)	0001c27	因	语法	0162b25	由	第三格 + na，玄奘作"不因"
 U05-121	S0080	labhyate	labh	v. pass. 3sg.	0001c27	得	对译	0162b25	得	
@@ -170,9 +170,9 @@ U05-138	S0082	atītaṃ	atīta	ptc.	0001c29	過去	对译	0162b29	過去
 U05-139	S0082	viṣayam	viṣaya	n.	0002a01	境	对译	0162b29	塵	真谛 viṣaya 译"塵"
 U05-140	S0082	ālambayi	ā-lamb (caus.)	inf.	0001c29	緣	对译	0162b28	緣	GRETIL 本作 ālambayi tulmiti，当读 ālambayitum iti
 U05-141	S0082	satyā	śakta	ptc. adj.	0001c29	能	对译	0162b28	功能	GRETIL 本作 satyā，当读 śaktā
-U05-142	S0083	apratisaṃkhyānirodhaḥ	apratisaṃkhyā-nirodha	cpd.	0002a01	非擇滅	对译	0162b29	非擇滅	
+U05-142	S0083	apratisaṃkhyānirodhaḥ	a-pratisaṃkhyā-nirodha	cpd.	0002a01	非擇滅	对译	0162b29	非擇滅	
 U05-143	S0083	prāpyate	pra-āp	v. pass. 3sg.	0002a01	得	对译			
-U05-144	S0084	catuṣkoṭikaṃ	catuṣ-koṭika	cpd. adj.	0002a02	四句	对译	0162c01	四句	
+U05-144	S0084	catuṣkoṭikaṃ	catur-koṭika	cpd. adj.	0002a02	四句	对译	0162c01	四句	
 U05-145	S0084	santi te dharmā yeṣāṃ	santi … yeṣām	gram.	0002a02	或於諸法	语法	0162c01	有諸法	四句句式：santi … yeṣāṃ → 或於諸法…
 U05-146	S0084	eva labhyate	eva	ind.	0002a02	唯	语法	0162c01	唯	
 U05-147	S0085	atitapratyutpannotpattidharmāṇāṃ	atīta-pratyutpanna-utpatti-dharman	cpd. gen.	0002a02	過現生法	对译	0162c02	過去現在定生為法	GRETIL 本作 atita-
@@ -180,11 +180,11 @@ U05-148	S0085	atita	atīta	ptc.	0002a02	過	对译	0162c02	過去
 U05-149	S0085	pratyutpanno	pratyutpanna	ptc.	0002a02	現	对译	0162c02	現在	
 U05-150	S0085	otpattidharmāṇāṃ	utpatti-dharman	cpd. adj.	0002a03	生法	对译	0162c02	定生為法	utpattidharman"有生起之性者"
 U05-151	S0085	sāsravāṇām	sa-āsrava	adj.	0002a02	有漏	对译	0162c02	有流	
-U05-152	S0087	'nutpattidharmāṇām	anutpatti-dharman	cpd. adj.	0002a03	不生法	对译	0162c03	不生為法	
+U05-152	S0087	'nutpattidharmāṇām	an-utpatti-dharman	cpd. adj.	0002a03	不生法	对译	0162c03	不生為法	
 U05-153	S0087	anāsravasaṃskṛtānām	an-āsrava-saṃskṛta	cpd.	0002a03	無漏有為	对译	0162c03	無流有為	
 U05-154	S0087	yesāmubhayam	ubhaya	pron.	0002a04	俱	对译	0162c03	具	
 U05-154b	S0087				0002a04	二滅	增译	0162c04	二滅	补出所指
-U05-155	S0088	anutpasttidharmāṇām	anutpatti-dharman	cpd. adj.	0002a04	不生…法	对译	0162c04	不生為法	GRETIL 本作 anutpastti-
+U05-155	S0088	anutpasttidharmāṇām	an-utpatti-dharman	cpd. adj.	0002a04	不生…法	对译	0162c04	不生為法	GRETIL 本作 anutpastti-
 U05-155b	S0088	sāsravāṇām	sa-āsrava	adj. gen.	0002a04	有漏	对译	0162c04	有流	
 U05-156	S0088	nobhayam	ubhaya	pron.	0002a05	二滅	意译	0162c04	二滅	ubhaya（两者）还原为所指"二滅"
 U05-157	S0089	atītapratyutpannotpattidharmāṇām	atīta-pratyutpanna-utpatti-dharman	cpd. gen.	0002a05	過現生法	对译	0162c05	過去現在定生為法	

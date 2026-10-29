@@ -57,6 +57,7 @@ ul{{font-family:var(--zh);font-size:15.5px;line-height:1.9;padding-left:1.3em;ma
 <li>用 Chrome、Edge、Safari、Firefox 打开都可以。大正藏出处链接到 CBETA 网站，只有这一项需要联网。</li>
 <li>审定：在词汇表的"审定"页（或任何例句下的"审定"按钮）选择"同意、改正、存疑"。结果自动保存在当前浏览器里；审完请点"导出审定结果"，把得到的 .json 文件交给编者。</li>
 <li>"表格"文件夹里有全部对应实例（CSV，可用 Excel、Numbers 打开）、译经清单（CSV）和待核清单（Markdown）。</li>
+<li>需要自己做统计或复杂查询的，可以用免费的 DB Browser for SQLite 打开"表格"里的 玄奘译语.sqlite（含词汇表未收的全部虚词例句），查询示例.sql 里有常用写法。</li>
 </ul>
 <p class="foot">生成于 {date}。字体：Noto Serif SC、Noto Serif TC、Noto Sans SC（按所用字抽取的子集）与 Gentium Book Plus，均依 SIL Open Font License 1.1 随包分发，许可证见 fonts 文件夹。梵本据 GRETIL 所收 Pradhan 本；汉文据 CBETA。</p>
 </main></body></html>
@@ -76,6 +77,8 @@ GUIDE = '''玄奘译语词汇表 · 离线资料包  使用说明
   词汇表.html    俱舍论·界品的玄奘译语词汇表（梵→汉、语法形式、汉→梵、增译省译、缩略语、审定）
   译经清单.html  《开元录》所载玄奘所出 76 部的清单
   表格\\          对应实例（CSV）、译经清单（CSV）、待核清单（Markdown）。CSV 可用 Excel、Numbers 打开。
+                 玄奘译语.sqlite：全部数据的数据库（含词汇表未收的全部虚词例句），
+                 可用免费的 DB Browser for SQLite（sqlitebrowser.org）打开；查询示例.sql 里有常用写法。
   data\\  fonts\\  页面用到的数据和字体，请勿删除
 
 三、审定
@@ -94,10 +97,41 @@ GUIDE = '''玄奘译语词汇表 · 离线资料包  使用说明
 '''
 
 
+QUERIES = '''-- 玄奘译语.sqlite 查询示例（可在 DB Browser for SQLite 的"执行 SQL"页运行）
+-- 各表、各字段的说明见表 _说明。
+
+-- 1. 某个梵文词目的全部译法及次数（含存档例句）
+SELECT xz, type, n, archived_n FROM v_renderings WHERE lemma = 'kleśa' ORDER BY n DESC;
+
+-- 2. 某个梵文词目的全部例句，连同梵文句和玄奘原行
+SELECT oid, pradhan, skt_sentence, xz, xz_line, xz_line_text FROM v_records WHERE lemma = 'pratisaṃkhyā-nirodha';
+
+-- 3. 汉→梵：玄奘用某个汉语译语对应了哪些梵文词
+SELECT lemma, type, COUNT(*) AS n FROM records WHERE xz = '相' GROUP BY lemma, type ORDER BY n DESC;
+
+-- 4. 语法形式：第五格（abl.）玄奘的各种处理
+SELECT xz, n, archived_n FROM v_renderings WHERE lemma = 'abl.' ORDER BY n DESC;
+
+-- 5. 玄奘与真谛对同一梵文词的译法对照
+SELECT lemma, xz AS 玄奘, pm AS 真谛, COUNT(*) AS n FROM records
+ WHERE pm != '' AND type NOT IN ('增译', '梵本缺文') GROUP BY lemma, xz, pm ORDER BY lemma;
+
+-- 6. 各单位的增译数
+SELECT unit, COUNT(*) AS n FROM records WHERE type = '增译' GROUP BY unit ORDER BY n DESC;
+
+-- 7. 待核与梵本缺文
+SELECT oid, lemma, skt, xz, type, note FROM records WHERE note LIKE '%待核%' OR type = '梵本缺文';
+
+-- 8. 词目表：出现最多的 50 个实词词目
+SELECT lemma, class, count, renderings FROM lemmas WHERE class NOT LIKE 'gram.%' ORDER BY count DESC LIMIT 50;
+'''
+
+
 def main():
     if os.path.exists(PKG):
         shutil.rmtree(PKG)
     os.makedirs(os.path.join(PKG, '表格'))
+    run('python3', 'scripts/akbh1_lemmas.py', 'align')
     run('python3', 'scripts/akbh1_glossary.py', 'align/akbh1', '../试点-俱舍界品', 'align/akbh1/tangnotes.tsv', '--pkg=' + PKG)
     run('python3', 'scripts/inv_build.py', 'align', '../清单', PKG)
     run('python3', 'scripts/akbh1_review.py', 'align/akbh1', '../试点-俱舍界品/待核清单.md')
@@ -106,6 +140,8 @@ def main():
                      ('试点-俱舍界品/待核清单.md', '俱舍论界品-待核清单.md'),
                      ('试点-俱舍界品/体例草案.md', '体例说明.md')]:
         shutil.copy(os.path.join(ROOT, src), os.path.join(PKG, '表格', dst))
+    run('python3', 'scripts/build_sqlite.py', 'align', '../清单/玄奘译经清单.csv', os.path.join(PKG, '表格', '玄奘译语.sqlite'))
+    open(os.path.join(PKG, '表格', '查询示例.sql'), 'w', encoding='utf-8').write(QUERIES)
     n_occ = sum(1 for _ in open(os.path.join(ROOT, '试点-俱舍界品/界品译语实例.csv'), encoding='utf-8-sig')) - 1
     import csv
     n_lem = len({r['lemma'] for r in csv.DictReader(open(os.path.join(ROOT, '试点-俱舍界品/界品译语实例.csv'), encoding='utf-8-sig'))

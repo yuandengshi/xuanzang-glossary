@@ -13,7 +13,7 @@ U36-011	S0639	vitarkavicārābhyāṃ	vitarka-vicāra	cpd. instr. du.	0008a12	�
 U36-012	S0639	vitarka	vitarka	n.	0008a12	尋	对译	0168a14	覺	
 U36-013	S0639	vicārābhyāṃ	vicāra	n.	0008a12	伺	对译	0168a14	觀	
 U36-014	S0639	vicārābhyāṃ	instr.	gram. instr. du. (-ābhyām)	0008a12	與	语法	0168a14	與	第三格（与…相应）以"與"表出
-U36-015	S0639	saṃprayuktāḥ	saṃ-pra-yukta	ptc.	0008a12	共相應	对译	0168a14	相應	
+U36-015	S0639	saṃprayuktāḥ	saṃprayukta	ptc.	0008a12	共相應	对译	0168a14	相應	
 U36-016	S0639				0008a13	以行相麁外門轉故	增译			玄奘补出另一理由
 U36-017	S0639				0008a13	顯	增译			"顯義決定"
 U36-018	S0639	avadhāraṇārtho	avadhāraṇa-artha	cpd.	0008a13	義決定	意译	0168a14	為簡異餘界	
@@ -39,7 +39,7 @@ U36-037+1	S0641				0008a15	通	增译			合并时从 U36-037（通三品）拆�
 U36-038	S0641	prakārāḥ	prakāra	n.	0008a15	品	对译	0168a16	品	
 U36-039	S0642	manodhātur	manas-dhātu	cpd.	0008a15	意界	对译	0168a16	意界	
 U36-040	S0642	manovijñānadhātuḥ	manas-vijñāna-dhātu	cpd.	0008a15	意識界	对译	0168a16	意識界	
-U36-041	S0642	saṃprayuktaś	saṃ-pra-yukta	ptc.	0008a15	相應	对译	0168a16	與心相應	真谛补"心"
+U36-041	S0642	saṃprayuktaś	saṃprayukta	ptc.	0008a15	相應	对译	0168a16	與心相應	真谛补"心"
 U36-042	S0642	dharamadhātur	dharma-dhātu	cpd.	0008a16	法界	对译	0168a17	法界	GRETIL 本作 dharamadhātur，当读 dharmadhātur
 U36-043	S0642	anyatra	anyatra	ind.	0008a16	除	对译	0168a17	除	
 U36-044	S0642	vitarkavicārābhyāṃ kāma	vitarka-vicāra	cpd. abl. du.	0008a16	尋與伺	对译	0168a17	覺觀	"與"表并列
@@ -111,7 +111,7 @@ U36-112	S0651	vicāravitarkavarjyāḥ	vicāra-vitarka-varjya	cpd. adj.	0008a23	
 U36-113	S0651	vicāravitarka	vicāra-vitarka	cpd.	0008a24	尋伺	对译	0168a24	覺觀	
 U36-114	S0651	varjyāḥ	varjya	gdv.	0008a23	除	对译	0168a24	除	
 U36-115	S0651				0008a24	餘…法	增译	0168a24	所餘…法	
-U36-116	S0651	saṃprayuktāḥ /	saṃ-pra-yukta	ptc.	0008a24	相應	对译	0168a24	心相應	
+U36-116	S0651	saṃprayuktāḥ /	saṃprayukta	ptc.	0008a24	相應	对译	0168a24	心相應	
 U36-117	S0652				0008a24	二	增译	0168a24	二	
 U36-118	S0652	avitarko	a-vitarka	adj.	0008a24	無尋	对译	0168a24	無覺	
 U36-119	S0652	vicāramātro	vicāra-mātra	cpd. adj.	0008a24	唯伺	对译	0168a25	有觀	

@@ -105,6 +105,8 @@ def context(xz, starts, stream, line, frag):
 
 
 def main(d, od, notes_path=None, only=None, pkg=None):
+    global D_DIR
+    D_DIR = d
     skt, xz, pm, occ, notes = load(d, notes_path, only)
     xl = list(xz)
     starts, stream = {}, ''
@@ -249,7 +251,10 @@ def write_html(entries, gram, add, omit, rev, occ, skt, pkg, used):
             ctx.append(c)
         recs.append([o['oid'], o['lemma'], o['pos'], o['skt'], sidx[sid], o['xz'], o['xz_line'], o['type'],
                      o['pm'], o['pm_line'], o['note'], cidx.get(c, -1) if c else -1, o['xz_hl']])
-    meta = {'part': 'akbh1', 'title': '俱舍论·界品', 'short': '界品', 'vol': 'T29', 'work': 'T29n1558'}
+    # 文本信息取自 _work/align/texts.tsv（各文本共用的登记表）
+    reg = {r['dir']: r for r in tsv(os.path.join(os.path.dirname(os.path.abspath(D_DIR)), 'texts.tsv'))}
+    t = reg[os.path.basename(os.path.abspath(D_DIR))]
+    meta = {'part': t['text_id'], 'title': t['short'], 'short': t['short'].split('·')[-1], 'vol': t['vol'], 'work': t['cbeta_work']}
     data = {'meta': meta, 'sents': sents, 'ctx': ctx, 'recs': recs, 'tang': tang}
     os.makedirs(os.path.join(pkg, 'data'), exist_ok=True)
     with open(os.path.join(pkg, 'data', 'akbh1.js'), 'w', encoding='utf-8') as f:

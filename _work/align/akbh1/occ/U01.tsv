@@ -48,7 +48,7 @@ U01-044	S0004	sarveṇa	sarva	adj. instr.	0001a13	一切	对译
 U01-045	S0004	prakāreṇa	prakāra	n. instr.	0001a13	品	对译			prakāra 此处译"品"；sarvathā 中的"種"也对应此义
 U01-046	S0004	sarvasmin	sarva	pron. loc.	0001a13	諸境	意译			玄奘补出"境"
 U01-047	S0004	sarvathāsarvahatāndhakāraḥ	sarvathā-sarva-hata-andhakāra	cpd.	0001a12	一切種諸冥滅	对译			长行引颂
-U01-048	S0005	ajñānaṃ	ajñāna	n.	0001a13	無知	对译	0161c12	無明	真谛译"無明"
+U01-048	S0005	ajñānaṃ	a-jñāna	n.	0001a13	無知	对译	0161c12	無明	真谛译"無明"
 U01-049	S0005	hi	hi	ind.	0001a13	以	语法			"以諸無知…故"
 U01-050	S0005	bhūtārthadarśanapratibandhād	bhūta-artha-darśana-pratibandha	cpd. abl.	0001a13	能覆實義及障真見	拆译	0161c12	能障見真實義	玄奘拆为两个动宾短语
 U01-051	S0005	bhūtārtha	bhūta-artha	cpd.	0001a14	實義	对译	0161c13	真實義	
@@ -64,7 +64,7 @@ U01-059	S0006	lābhenātyantaṃ	atyantam	ind.	0001a15	永	对译	0161c14	究竟
 U01-060	S0006	sarvathā	sarvathā	ind.	0001a15	一切種	对译	0161c14	一切種	
 U01-061	S0006	sarvatra	sarvatra	ind.	0001a15	於一切	对译	0161c14	於一切	
 U01-062	S0006	jñeye	jñeya	n. (gerundive) loc.	0001a15	境	对译	0161c14	法	
-U01-063	S0006	anutpattidharmatvād	anutpatti-dharmatva	cpd. abl.	0001a15	不生法	意译	0161c14	不生為法	-tva 未译；"證"为增字（U01-063b）；第五格"故"与 S0007 ataḥ 合用（U01-149）
+U01-063	S0006	anutpattidharmatvād	an-utpatti-dharmatva	cpd. abl.	0001a15	不生法	意译	0161c14	不生為法	-tva 未译；"證"为增字（U01-063b）；第五格"故"与 S0007 ataḥ 合用（U01-149）
 U01-063b	S0006				0001a15	證	增译			
 U01-064	S0006	anutpatti	an-utpatti	n.	0001a15	不生	对译	0161c14	不生	
 U01-065	S0006	dhatam	han	ptc. (hata)	0001a16	滅	对译	0161c15	滅	
@@ -88,11 +88,11 @@ U01-081	S0010	ativiprakṛṣṭadeśakāleṣu	ati-viprakṛṣṭa-deśa-kāla
 U01-082	S0010	ativiprakṛṣṭa	ati-viprakṛṣṭa	ptc.	0001a18	極遠	对译	0161c18	最久遠	
 U01-083	S0010	deśakāleṣu	deśa-kāla	cpd. loc.	0001a18	時處	对译	0161c18	時處	
 U01-084	S0010	artheṣu	artha	n. loc.	0001a18	義類	意译	0161c18	餘境	
-U01-085	S0010	cānantaprabhedeṣu	ananta-prabheda	cpd. loc.	0001a18	無邊差別	对译	0161c18	無邊差別	
+U01-085	S0010	cānantaprabhedeṣu	an-anta-prabheda	cpd. loc.	0001a18	無邊差別	对译	0161c18	無邊差別	
 U01-086	S0010	cānanta	an-anta	adj.	0001a18	無邊	对译	0161c18	無邊	
 U01-087	S0010	prabhedeṣu	prabheda	n. loc.	0001a18	差別	对译	0161c18	差別	
 U01-088	S0010	ākliṣṭam	a-kliṣṭa	adj.	0001a18	不染	对译	0161c18	無染污	
-U01-088b	S0010	ajñānam	ajñāna	n.	0001a18	無知	对译	0161c18	無明	
+U01-088b	S0010	ajñānam	a-jñāna	n.	0001a18	無知	对译	0161c18	無明	
 U01-089	S0010	bhavaty	bhū	v. pres.	0001a19	未斷	意译	0161c18	有	以否定式"未斷"表达"仍存在"；"猶"对应 eva（U01-153）
 U01-090	S0011	ātmahitapratipattisaṃpadā	ātma-hita-pratipatti-saṃpad	cpd. instr.	0001a19	自利德滿	意译	0161c19	自利行究竟	
 U01-091	S0011	ātmahita	ātma-hita	cpd.	0001a19	自利	对译	0161c19	自利	
