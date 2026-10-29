@@ -1,0 +1,149 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U28-001	S0469	viśeṣaṇārthaṃ	viśeṣaṇa-artham	cpd. ind.	0006a11	為差別	对译	0166b11	為簡別	
+U28-002	S0469	viśeṣaṇārthaṃ	viśeṣaṇa	n.	0006a11	差別	对译	0166b11	簡別	
+U28-003	S0469	prādhānyād	prādhānya	n. abl.	0006a11	最勝	意译	0166b12	勝	
+U28-005	S0469	bahudharmāgrasaṃgrahāt	bahu-dharma-agra-saṃgraha	cpd. abl.	0006a11	攝多增上法	对译	0166b12	攝多勝法	玄奘把 saṃgraha 前置
+U28-006	S0469	bahudharmā	bahu	adj.	0006a11	多	对译	0166b12	多	
+U28-007	S0469	bahudharmā	dharma	n.	0006a11	法	对译	0166b12	法	
+U28-008	S0469	āgrasaṃgrahāt	agra	adj.	0006a11	增上	意译	0166b12	勝	agra（最上）译"增上"
+U28-009	S0469	saṃgrahāt	saṃgraha	n. abl.	0006a11	攝	对译	0166b12	攝	
+U28-010	S0469	ekamāyatanaṃ	eka	num.	0006a12	一	对译	0166b12	唯一	
+U28-011	S0469	āyatanaṃ	āyatana	n.	0006a12	處	对译	0166b12	入	
+U28-012	S0469	rūpamekaṃ	rūpa	n.	0006a12	色	对译	0166b12	色	
+U28-013	S0469	rūpamekaṃ	eka	num.	0006a12	一	对译	0166b12	一	
+U28-014	S0469	dharmākhyam	dharma-ākhya	cpd. adj.	0006a12	名為法	意译	0166b12	名…法	
+U28-015	S0469	dharmākhyam	dharma	n.	0006a12	法	对译	0166b13	法	
+U28-016	S0469	ākhyam	ākhya	adj.	0006a12	名為	对译	0166b12	名	
+U28-017	S0469				0006a12	處	增译			"法處"之"處"承上 āyatanam 补出
+U28-018	S0469	mucyate	vac	v. pass. 3sg.	0006a12	名	对译	0166b12	名	
+U28-019	S0470	kathaṃ	katham	ind.			省译	0166b13	云何	玄奘以"為差別者"直接引起解释，未译疑问词
+U28-020	S0470	viśeṣaṇārtham	viśeṣaṇa-artham	cpd. ind.	0006a13	為差別	对译	0166b13	為簡別	
+U28-021	S0471	yathā	yathā	ind.	0006a13	為	语法	0166b13	欲	目的从句"以便…"，玄奘作"為令…"
+U28-022	S0471	gamyeta	gam	v. opt. pass. 3sg.	0006a13	了知	意译	0166b13	知	gam（被动）"被理解"
+U28-023	S0471	gamyeta	pass.	gram. pass. (-ya-)	0006a13	令	语法	0166b13	令	被动祈愿"使被了知"，玄奘、真谛都作"令…知"
+U28-024	S0471	pratyekam	pratyekam	ind.	0006a13	種種差別	意译	0166b13	各	待核：pratyekam（各别）玄奘作"種種差別"，或兼取上文 viśeṣaṇa 之义
+U28-025	S0471	daśānām	daśan	num. gen.	0006a14	十	对译	0166b13	十	
+U28-026	S0471	āyatanatvaṃ	āyatana	n.	0006a14	處	对译	0166b14	入	-tva 未译
+U28-027	S0471	viṣayaviṣayitvena	viṣaya-viṣayi-tva	cpd. instr.	0006a13	境有境性	对译	0166b14	根塵	真谛倒序作"根塵"
+U28-028	S0471	viṣaya	viṣaya	n.	0006a13	境	对译	0166b14	塵	
+U28-029	S0471	viṣayitvena	viṣayin	n.	0006a13	有境	对译	0166b14	根	
+U28-031	S0471	vyavasthānaṃ	vyavasthāna	n.	0006a14	建立	对译	0166b14	成立	
+U28-032	S0471				0006a14	於色蘊就差別相	增译			玄奘增释
+U28-034	S0471	samastānām	samasta	ptc. adj. gen.	0006a14	總為一	意译	0166b14	聚集	samasta（合并的）译"總為一"
+U28-035	S0472	cakṣurādibhiśca	cakṣus-ādi	cpd. instr. pl.	0006a16	眼等	对译	0166b14	眼等	
+U28-036	S0472	cakṣurādibhiśca	instr.	gram. instr. (-bhiḥ)	0006a16	為…所	语法	0166b14	由	第三格与 viśeṣita 构成被动，玄奘作"為…所簡別"
+U28-037	S0472	viśeṣitair	viśeṣita	ptc.	0006a16	簡別	对译	0166b15	差別	
+U28-038	S0472				0006a16	名	增译			"眼等名"之"名"
+U28-040	S0472	yanna	yad	pron. nom.	0006a15	若	语法			关系代词 yat 引出条件，译"若"
+U28-041	S0472	na cakṣurādisaṃjñakaṃ	cakṣus-ādi-saṃjñaka	cpd. adj.	0006a15	眼等…想名	意译	0166b15	眼等名	"差別"为增字
+U28-041+1	S0472				0006a15	差別	增译			合并时从 U28-041（眼等差別想名）拆出
+U28-042	S0472	na cakṣurādi	cakṣus-ādi	cpd.	0006a15	眼等	对译	0166b15	眼等	
+U28-043	S0472	saṃjñakaṃ	saṃjñaka	adj.	0006a15	想名	意译	0166b15	名	saṃjñaka（名为…的）译"想名"
+U28-044	S0472				0006a15	差別	增译			
+U28-045	S0472	rūpaṃ ca	rūpa	n.	0006a15	色	对译	0166b15	色	
+U28-046	S0472	rūpaṃ ca	ca	ind.	0006a15	而	语法			
+U28-047	S0472				0006a15	體是	增译			"而體是色"之"體是"
+U28-048	S0472	tadrūpakayātanaṃ	rūpa-āyatana	cpd.	0006a16	色處	对译	0166b16	色入	GRETIL 本作 tadrūpakayātanaṃ，当读 tad rūpāyatanaṃ
+U28-049	S0472	jñāsyata	jñā	v. fut. pass. 3sg.	0006a15	立名	意译	0166b15	應知	jñāsyate（将被认作）玄奘作"立名"
+U28-050	S0472	jñāsyata	fut.	gram. fut. (-sya-)			省译			未来时未译
+U28-051	S0472	nāmāntaraṃ	nāma-antara	cpd.	0006a17	別名	意译	0166b16	別名	待核：梵文"不另说别名"，玄奘作"雖標總稱而即別名"（色处虽用总名"色"，实即其别名）
+U28-052	S0472				0006a16	雖標總稱而即	增译			见上条
+U28-054	S0472	nocyate	vac	v. pass. 3sg.			省译	0166b16	立	
+U28-055	S0473	athavā	athavā	ind.	0006a17	又	语法	0166b16	復次	
+U28-056	S0473				0006a17	諸色中	增译			
+U28-057	S0473	rūpāyatanasya	rūpa-āyatana	cpd. gen.	0006a17	色處	对译	0166b16	色入	
+U28-058	S0473	prādhānyāt	prādhānya	n. abl.	0006a17	最勝	意译	0166b16	勝	
+U28-059	S0473				0006a17	立通名	增译			玄奘补出结语"故立通名"
+U28-061	S0474	sapratighatvācca	sa-pratigha	adj.	0006a17	有對	对译	0166b17	有礙	
+U28-062	S0474	pāṇyādisaṃsparśaiḥ	pāṇi-ādi-saṃsparśa	cpd. instr. pl.	0006a18	手等觸	对译	0166b17	手等物觸	
+U28-063	S0474	pāṇyādi	pāṇi	n.	0006a18	手	对译	0166b17	手	
+U28-064	S0474	ādisaṃsparśaiḥ	ādi	n.	0006a18	等	对译	0166b17	等	
+U28-065	S0474	saṃsparśaiḥ	saṃsparśa	n. instr. pl.	0006a18	觸	对译	0166b17	觸	
+U28-066	S0474	saṃsparśaiḥ	instr.	gram. instr. (-aiḥ)	0006a18	時	语法			第三格表条件，玄奘作"…時"
+U28-067	S0474	spṛṣṭaṃ	spṛś	ptc.	0006a18	觸	合译			与 saṃsparśa 合用"觸"
+U28-068	S0474				0006a18	即便	增译	0166b17	即便	
+U28-069	S0474	rūpyate	rūp	v. pass. 3sg.	0006a18	變壞	对译	0166b17	變壞	
+U28-071	S0475	sanidarśanatvācca	sa-nidarśana	adj.	0006a18	有見	对译			真谛作"體相顯現"，不逐词
+U28-072	S0476	ihāmutreti	iha	ind.	0006a19	在此	对译	0166b18	於此	
+U28-073	S0476	āmutreti	amutra	ind.	0006a19	在彼	对译	0166b18	彼處	
+U28-074	S0476	nirūpaṇāt	nirūpaṇa	n. abl.	0006a18	可示	意译	0166b18	易指示	nirūpaṇa（指明）
+U28-075	S0476				0006a19	差別	增译			"在此在彼差別"之"差別"
+U28-076	S0476	loke	loka	n. loc.	0006a19	世間	对译	0166b19	世間	
+U28-077	S0476				0006a19	諸	增译			
+U28-078	S0476	'pi ca	api	ind.	0006a19	又	语法			api ca 译"又"
+U28-079	S0476	tadrūpamiti	tad	pron.	0006a19	此處	意译	0166b19	此入	代词还原为所指（色处）
+U28-080	S0476				0006a19	唯	增译			"唯於此處"之"唯"
+U28-081	S0476	pratītaṃ	pratīta	ptc.	0006a19	同說	意译	0166b19	同知說	pratīta（公认的）
+U28-082	S0476	tadrūpamiti	rūpa	n.	0006a20	色	对译	0166b19	色	
+U28-083	S0476	rūpamiti	iti	ind.	0006a20	為	语法	0166b19	為	"說為色"
+U28-085	S0476	nānyāni	anya	pron.	0006a20	眼等	意译	0166b19	餘入	anyāni（其余）还原为"眼等"
+U28-086	S0477	viśeṣaṇārthameva	viśeṣaṇa-artham	cpd. ind.	0006a20	為差別	对译	0166b19	為簡別	
+U28-087	S0477	caikaṃ	eka	num.	0006a20	一	对译	0166b20	一	
+U28-088	S0477	dharmāyatanamuktaṃ	dharma-āyatana	cpd.	0006a20	法處	对译	0166b20	法入	
+U28-089	S0477	muktaṃ	vac	ptc.	0006a20	立	意译	0166b20	說	
+U28-090	S0477	sarvāṇi	sarva	adj. pl.	0006a21	一切	对译	0166b20	餘入	
+U28-091	S0477				0006a21	如色應知	增译			
+U28-093	S0478	cātrabahūnāṃ	atra	ind.	0006a21	於此中	语法	0166b20	於法入中	GRETIL 本作 cātrabahūnāṃ（ca atra bahūnāṃ）
+U28-094	S0478	saṃgraho	saṃgraha	n.	0006a21	攝	对译	0166b21	攝	
+U28-095	S0478	vedanādīnām	vedanā-ādi	cpd. gen. pl.	0006a21	受想等	意译	0166b21	受等	玄奘举出"受想"二例
+U28-096	S0478	vedanādīnām	vedanā	n.	0006a21	受	对译	0166b21	受	
+U28-097	S0478	ādīnām	ādi	n.	0006a21	等	对译	0166b21	等	
+U28-098	S0478	bahūnāṃ	bahu	adj. gen. pl.	0006a22	眾多	对译	0166b21	多	
+U28-099	S0478	dharmāṇāṃ	dharma	n. gen. pl.	0006a22	法	对译	0166b21	法	
+U28-101	S0479	sāmānyenā	sāmānya	n. instr.	0006a22	通	意译	0166b21	通	sāmānyena（以总的方式）
+U28-102	S0479	ābhidhānaṃ	abhidhāna	n.	0006a22	名	对译	0166b21	名	
+U28-103	S0479	kriyate	kṛ	v. pass. 3sg.	0006a22	立	意译	0166b21	立	
+U28-104	S0479				0006a22	應	增译			"應立通名"之"應"
+U28-105	S0479	dharmaśabdena	dharma-śabda	cpd. instr.			省译			"以'法'之名"未译
+U28-107	S0479	agrasya	agra	adj. gen.	0006a22	增上	意译	0166b22	最勝	
+U28-108	S0479	nirvāṇadharmasyātra	nirvāṇa-dharma	cpd. gen.	0006a22	法，所謂涅槃	意译	0166b21	涅槃…法	玄奘拆为同位语"增上法，所謂涅槃"
+U28-109	S0479	nirvāṇa	nirvāṇa	n.	0006a22	涅槃	音译	0166b21	涅槃	
+U28-110	S0479	dharmasyātra	dharma	n. gen.	0006a22	法	对译	0166b22	法	
+U28-111	S0479				0006a22	所謂	增译			
+U28-112	S0479	syātra	atra	ind.	0006a23	此中	语法	0166b22	此中	
+U28-113	S0479	saṃgraho nā	saṃgraha	n.	0006a23	攝	对译	0166b22	攝	
+U28-114	S0479	nānyeṣviti	anya	pron. loc. pl.	0006a23	獨	意译	0166b22	非於餘入	na anyeṣu（不在其余处）以"獨"表出，na 同此
+U28-116	S0479				0006a23	立為法	增译	0166b22	受法名	
+U28-117	S0480	ityapare	apara	pron. nom. pl.	0006a23	有餘師	意译	0166b23	有餘師	
+U28-119	S0480				0006a23	色處中有	增译			
+U28-120	S0480	viṃśatiprakāratvena	viṃśati-prakāra-tva	cpd. instr.	0006a24	二十種	对译	0166b23	二十種品類	
+U28-121	S0480	viṃśati	viṃśati	num.	0006a24	二十	对译	0166b23	二十	
+U28-122	S0480	prakāratvena	prakāra	n.	0006a24	種	对译	0166b23	種品類	
+U28-123	S0480				0006a24	色	增译			"二十種色"之"色"
+U28-124	S0480	audārikatvān	audārika	adj.	0006a24	麁顯	意译			"最"为增字；真谛作"多餘色"，不逐词
+U28-125	S0480				0006a24	最	增译			
+U28-126	S0480	māṃsa divyāryaprajñācakṣustrayagocaratvāc	māṃsa-divya-ārya-prajñā-cakṣus-traya-gocara-tva	cpd. abl.	0006a24	肉、天、聖慧三眼境	对译	0166b23	肉、天、聖…慧三眼境	GRETIL 本 māṃsa 与 divya 间有空格
+U28-127	S0480	māṃsa	māṃsa	n.	0006a24	肉	对译	0166b23	肉	
+U28-128	S0480	divyā	divya	adj.	0006a24	天	对译	0166b23	天	
+U28-129	S0480	āryaprajñā	ārya	adj.	0006a24	聖	对译	0166b23	聖	
+U28-130	S0480	prajñā	prajñā	n.	0006a24	慧	对译	0166b24	慧	
+U28-131	S0480	cakṣus	cakṣus	n.	0006a24	眼	对译	0166b24	眼	
+U28-132	S0480	traya	traya	num.	0006a24	三	对译	0166b24	三	
+U28-133	S0480	gocaratvāc	gocara	n.	0006a24	境	对译	0166b24	境	
+U28-134	S0480	caikaṃ	eka	num.	0006a24	獨	意译			ekam（唯一）译"獨"
+U28-135	S0480	rūpāyatanamityapare	rūpa-āyatana	cpd.	0006a25	色	意译			rūpāyatana 此处只作"色"（獨立色名）
+U28-136	S0480				0006a25	立…名	增译			"獨立色名"之"立…名"
+U28-137	S0480				0006a25	法處中有諸法名故、諸法智故，獨	增译			GRETIL 本、真谛都无法处一段
+U28-138	S0481	sūtreṣu	sūtra	n. loc. pl.	0006a26	契經	对译	0166b24	經	
+U28-139	S0481	sūtreṣu	pl.	gram. loc. pl. (-eṣu)	0006a26	諸…中	语法	0166b24	於…中	复数第七格译"諸…中"
+U28-140	S0481	anyānyapi	anya	pron. pl.	0006a26	餘	对译	0166b24	餘	"有""種種"为增字
+U28-141	S0481				0006a26	有	增译			
+U28-142	S0481				0006a26	種種	增译			
+U28-143	S0481	skandhāyatanadhātusaṃśabditāny	skandha-āyatana-dhātu-saṃśabdita	cpd. ptc. pl.	0006a26	蘊及處界，名想	意译	0166b24	陰入界同名	
+U28-144	S0481	skandhā	skandha	n.	0006a26	蘊	对译	0166b24	陰	
+U28-145	S0481	āyatana	āyatana	n.	0006a26	處	对译	0166b24	入	
+U28-146	S0481	dhātusaṃśabditāny	dhātu	n.	0006a26	界	对译	0166b24	界	
+U28-147	S0481	saṃśabditāny	saṃśabdita	ptc.	0006a26	名想	意译	0166b24	同名	saṃśabdita（被称作…的）译"名想"
+U28-148	S0481	upalabhyante	upa-labh	v. pass. 3pl.	0006a27	可得	对译	0166b25	已顯	
+U28-149	S0481	kiṃebhireva	kim	pron.	0006a27	為	语法			kim … āhosvit 选择问句，前一问译"為…"
+U28-151	S0481	saṃgraho	saṃgraha	n.	0006a27	攝	对译	0166b25	攝	
+U28-152	S0481	āhosvid	āhosvit	ind.	0006a27	為…耶	语法	0166b25	為	选择问句的后一问
+U28-153	S0481	vyatirekaḥ	vyatireka	n.	0006a27	離	意译	0166b25	不盡	vyatireka（在外、相离）
+U28-154	S0481	veditavya	vid	gdv.	0006a28	當知	意译			veditavya 移到答句作"如應當知"
+U28-156	S0481				0006a27	如	增译			"如應當知"之"如"
+U28-157	S0482				0006a27	彼	增译			"彼皆此攝"之"彼"
+U28-158	S0482	ebhireva	eva	ind.	0006a27	皆	语法			eva（唯此）译"皆"（彼皆此攝）
+U28-159	S0482	saṃgraho na	saṃgraha	n.	0006a27	攝	对译	0166b25	攝	
+U28-160	S0482	vyatirekaḥ	vyatireka	n.			省译	0166b26	盡無餘	"na vyatirekaḥ"玄奘未译
+U28-162	S0482	tāvat	tāvat	ind.	0006a28	且	语法			
+U28-163	S0482				0006a28	辯攝餘諸蘊名想	增译			玄奘补出下颂的话题

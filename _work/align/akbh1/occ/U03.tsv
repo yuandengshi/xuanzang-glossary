@@ -1,0 +1,39 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U03-001	S0032	tasyārthato	artha	n. (-tas)	0001b13	勝義	意译	0162a11	義	本颂 arthataḥ 译"勝義"
+U03-002	S0032	samanupraveśāt	sam-anupraveśa	n. abl.	0001b13	攝	意译	0162a12	入此攝	
+U03-003	S0032	cāśrayo	āśraya	n.	0001b13	依	对译	0162a14	依	
+U03-004	S0032	syetyabhidharmakośam	abhidharma-kośa	cpd.	0001b13	對法俱舍	音译	0162a14	俱舍	本颂中对译（對法）与音译（俱舍）合用；长行作"對法藏"
+U03-005	S0032	kośam	kośa	n.	0001b13	俱舍	音译	0162a14	俱舍	
+U03-006	S0033	śāstrasaṃjñako	śāstra-saṃjñaka	cpd. adj.	0001b14	論	意译	0162a12	彼文句名阿毘達磨	śāstrasaṃjñaka（名为论的）只译"論"
+U03-006b	S0033	'bhidharma etasminn	abhidharma	n.	0001b14	對法	对译	0162a12	阿毘達磨	
+U03-007	S0033	arthato	artha	n. (-tas)	0001b14	義	意译	0162a13	義	与 yathāpradhānam 合为"勝義"
+U03-008	S0033	yathāpradhānam	yathā-pradhāna	ind.	0001b14	勝	意译	0162a12	隨勝	与 arthataḥ 合为"勝義"
+U03-009	S0033	antarbhūta	antar-bhū	ptc.	0001b14	入…攝	对译	0162a13	入…攝	
+U03-010	S0033	kośasthānīyaṃ	kośa-sthānīya	cpd. adj.	0001b15	藏名	意译	0162a13	稱為藏	
+U03-010b	S0033	bhavati	bhū	v. pres. 3sg.	0001b14	得	意译	0162a13	得	
+U03-011	S0033	kośasthānīyaṃ	kośa	n.	0001b15	藏	对译	0162a13	藏	
+U03-012	S0034	athavā	athavā	ind.	0001b15	或	语法	0162a13	復次	
+U03-013	S0034	āśrayabhūtaḥ	āśraya-bhūta	cpd.	0001b15	依	意译	0162a15	依止	梵文"对法是此论之所依"，玄奘转为"此依彼"
+U03-014	S0035	nirākṛṣṭam	nir-ā-kṛṣ	ptc.	0001b15	引生	意译	0162a15	引生	
+U03-015	S0035	tato	tatas	ind.	0001b15	從彼	对译	0162a15	從彼	
+U03-016	S0035	kośa	kośa	n.	0001b16	藏	对译	0162a16	藏	
+U03-017	S0035	abhidharvarmakośam	abhidharma-kośa	cpd.	0001b16	對法藏	对译	0162a16	阿毘達磨俱舍	GRETIL 本误作 abhidharvarmakośam
+U03-018	S0035	chāstram	śāstra	n.	0001b16	論	对译	0162a16	論	
+U03-019	S0036	abhidharmopadeśaḥ	abhidharma-upadeśa	cpd.	0001b16	說…阿毘達磨	意译			
+U03-020	S0036	kimarthaṃ	kim-artham	ind.	0001b16	何因	语法	0162a17	其用云何	
+U03-021	S0036	upadiṣṭo	upa-diś	ptc.	0001b17	說	对译	0162a17	說	
+U03-022	S0036	prathamata	prathamatas	ind.	0001b17	先	对译	0162a17	先	
+U03-023	S0036	kena	kim	pron. instr.	0001b17	誰	语法	0162a17	何人	
+U03-024	S0036	ācāryo	ācārya	n.			省译	0162a18	法師	玄奘未译 ācārya，只作"今造論"；真谛作"法師"
+U03-026	S0036	ādriyata	ā-dṛ	v. impf. 3sg.	0001b17	恭敬	对译	0162a18	恭敬	
+U03-027	S0036	vaktum	vac	inf.	0001b17	解釋	意译	0162a18	解說	
+U03-028	S0032	tasyā	tad	pron. gen.	0001b13	彼	语法			"攝彼勝義"
+U03-029	S0032	sa cāśrayo	tad	pron. nom.	0001b13	彼	语法			"依彼"
+U03-031	S0032	etyabhidharmakośam	iti	ind.	0001b13	名	语法	0162a14	名	"此立對法俱舍名"
+U03-033	S0033	sa hi	hi	ind.	0001b14	由	语法	0162a12	由	
+U03-034	S0033	etasminn	etad	pron. loc.	0001b14	此	语法	0162a13	此	"入此攝"
+U03-035	S0033	ityetacchāstraṃ	iti	ind.	0001b14	故	语法	0162a13	是故	
+U03-036	S0035	tato hy	hi	ind.			省译			
+U03-037	S0035	ataḥ	atas	ind.	0001b16	是故	语法	0162a16	以是義故	
+U03-038	S0036	punarabhidharmopadeśaḥ	punar	ind.	0001b17	復	语法	0162a17	復	
+U03-039	S0036	yaṭa	yatas	ind.	0001b17	而今	意译	0162a18	而	GRETIL 本作 yaṭa，当读 yata

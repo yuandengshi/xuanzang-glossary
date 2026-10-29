@@ -1,0 +1,8 @@
+# 下载的原始语料（可重新下载，见 README）与字体原文件
+_work/src/
+# 项目内的 Python 环境
+_work/.venv/
+__pycache__/
+*.pyc
+# 由数据生成的离线资料包（用 _work/scripts/pkg_build.py 重建）
+成果/

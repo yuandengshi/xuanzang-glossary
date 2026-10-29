@@ -1,0 +1,26 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U26-002	S0430	punaḥ	punar	ind.			省译	0166a06	復	本颂 punaḥ 玄奘未译；真谛作"復"
+U26-011	S0431	dhātutaḥ	abl.	gram. abl. (-tas)			省译			本颂 -taḥ 与 yathā 共表"依…"，玄奘只作一"隨"
+U26-017	S0432	sapratighatvāt	abl.	gram. abl. (-āt)	0005c02	故	语法			第五格表原因
+U26-029	S0433	tathā hi	tathā hi	ind.	0005c03	故	语法			引世俗说法为证，玄奘作"故"
+U26-039	S0433	vedaneti	iti	ind.	0005c03	言	语法			引语标记 iti 译"言"
+U26-042	S0434	cau	ca	ind.			省译			cau = ca au(dārikatarā)
+U26-060	S0436	athavā	athavā	ind.	0005c06	或	语法	0166a11	復次	
+U26-071	S0436	rūpābhirāmāste	tad	pron. nom. pl.	0005c07	此	语法			"此由耽著樂受味故"
+U26-076	S0436	garddhāt	abl.	gram. abl. (-āt)	0005c07	由…故	语法	0166a11	由	第五格表原因
+U26-087	S0438	tadviparyāsaḥ	tad	pron.	0005c08	此	语法	0166a12	此	
+U26-102	S0439	vā	vā	ind.	0005c10	或	语法	0166a13	復次	玄奘把"或"置于譬喻之前
+U26-107	S0439	arthena	instr.	gram. instr. (-ena)	0005c11	隨	语法	0166a14	由	第三格表依据，玄奘作"隨"
+U26-116	S0440	bhūtā hi	hi	ind.	0005c11	故	语法			玄奘先列譬喻，再以"故"承接
+U26-120	S0440	dhātuto vā	vā	ind.	0005c12	或	语法	0166a15	或	
+U26-124	S0441	prabhāvito hi	hi	ind.	0005c12	謂	语法			解释性的 hi 译"謂"
+U26-151	S0444	etā eva	etad	pron. nom. pl.	0005c15	此	语法	0166a17	此	
+U26-152	S0444	etā eva	eva	ind.	0005c15	即	语法	0166a17	即是	
+U26-166	S0445	ata eva	eva	ind.			省译	0166a18	唯	真谛作"唯"
+U26-168	S0445	nālpīyāṃso	na	ind.	0005c17	無	语法	0166a19	不	
+U26-170	S0445	na bhūyāṃsaḥ	na	ind.	0005c17	無	合译	0166a19	不	两个 na 合用一"無"
+U26-174	S0446	ata eva ca	eva	ind.	0005c17	即	语法			
+U26-183	S0446	saṃjñe	du.	gram. du. (-e)	0005c18	二	语法			双数以"二"表出（受想二蘊）
+U26-201	S0447	tatprabhāvitaṃ	tad	pron.			省译			代词未译
+U26-216	S0448	vaktavyaḥ	gdv.	gram. gdv. (-tavya)	0005c20	應	语法	0166a22	應	义务分词表"应当"
+U26-221	S0449	naiva hi	hi	ind.			省译	0166a22	何以故	玄奘未译；真谛作设问"何以故"

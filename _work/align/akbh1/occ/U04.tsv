@@ -1,0 +1,76 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U04-001	S0038	dharmāṇāṃ	dharma	n. gen.	0001b19	法	对译	0162a18	法	
+U04-001b	S0038	pravicayam	pravicaya	n.	0001b19	擇	对译	0162a18	簡擇	
+U04-002	S0038	antareṇa	antareṇa	ind.	0001b19	離	对译	0162a18	離	
+U04-003	S0038	nāsti	na	ind.	0001b19	無	语法	0162a18	不有	na … asti 译"無"
+U04-003b	S0038				0001b19	定	增译			
+U04-003c	S0038				0001b19	餘	增译			补出"（其）餘（方便）"
+U04-004	S0038	kleśānāṃ	kleśa	n. gen.	0001b19	惑	对译	0162a19	惑	本颂作"惑"，长行亦作"煩惱"（U05）
+U04-005	S0038	upaśāntaye	upaśānti	n. dat.	0001b19	滅	意译	0162a19	寂靜	
+U04-006	S0038	'bhyupāyaḥ	abhyupāya	n.	0001b19	勝方便	对译	0162a19	別方便	abhi- 译"勝"
+U04-007	S0038	bhramati	bhram	v. pres. 3sg.	0001b20	漂	意译	0162a19	轉	
+U04-008	S0038	bhavārṇave	bhava-arṇava	cpd. loc.	0001b20	有海	对译	0162a19	有海	
+U04-009	S0038	lokas	loka	n.	0001b20	世間	对译	0162a19	世間	
+U04-010	S0038	taddhetor	tad-hetu	cpd. abl.	0001b20	因此	对译	0162a19	為此	
+U04-011	S0038	kilaiṣa	kila	ind.	0001b20	傳	语法	0162a20	傳	kila 表传闻，玄奘译"傳"（傳佛說）
+U04-012	S0038	śāstrā	śāstṛ	n.	0001b20	佛	意译	0162a20	佛	
+U04-013	S0038	uditaḥ	vad	ptc.	0001b20	說	对译	0162a20	說	
+U04-014	S0039	vinā	vinā	ind.	0001b21	離	对译	0162a20	離	
+U04-015	S0039	dharmapravicayenā	dharma-pravicaya	cpd. instr.	0001b21	擇法	对译	0162a20	擇法覺分	真谛增"覺分"
+U04-016	S0039	kleśopaśamābhyupāyaḥ	kleśa-upaśama-abhyupāya	cpd.	0001b21	勝方便…滅…惑	意译	0162a20	別方便…除滅…惑	
+U04-017	S0039	opaśamā	upaśama	n.	0001b21	滅	对译	0162a21	除滅	
+U04-018	S0040	kleśāś	kleśa	n.	0001b21	惑	对译	0162a21	惑	
+U04-019	S0040	bhramayanti	bhram (caus.)	v. caus. pres. 3pl.	0001b22	漂轉	对译	0162a21	輪轉	使役以"令"表出（U04-019b）；"能"为增字
+U04-019b	S0040	bhramayanti	caus.	gram. caus. (-aya-)	0001b22	令	语法			使役
+U04-020	S0040	saṃsāramahārṇeve	saṃsāra-mahā-arṇava	cpd. loc.	0001b22	生死大海	对译	0162a21	生死海	
+U04-021	S0040	mahārṇeve	mahā-arṇava	cpd. loc.	0001b22	大海	对译	0162a21	海	
+U04-022	S0041	buddhenā	buddha	n. instr.	0001b22	佛	对译	0162a22	佛世	
+U04-023	S0041	kila	kila	ind.	0001b22	傳	语法			
+U04-024	S0041	śāstrā kila	śāstṛ	n.			省译	0162a22	大師	śāstrā buddhena，玄奘只作"佛"；真谛作"大師佛世尊"
+U04-025	S0041	dharmapravicayasyā	dharma-pravicaya	cpd. gen.	0001b23	擇法	对译	0162a22	簡擇法	
+U04-025b	S0041	ārthe	artha	n. loc.	0001b23	欲令…故	意译	0162a22	欲令	"为了"之义；"得"为增字
+U04-025c	S0041				0001b23	世間	增译	0162a22	弟子	玄奘补出"世間"，真谛作"弟子"
+U04-026	S0041	bhidharma uktaḥ	abhidharma	n.	0001b23	對法	对译	0162a23	阿毘達磨	
+U04-027	S0042	'bhidharmopadeśena	abhidharma-upadeśa	cpd. instr.	0001b23	說對法	对译			
+U04-028	S0042	śiṣyaḥ	śiṣya	n.	0001b23	弟子	对译	0162a23	弟子	
+U04-029	S0042	śakto	śakta	ptc. adj.	0001b24	能	对译	0162a24	能	
+U04-030	S0042	dharmān	dharma	n. acc.	0001b24	法	对译	0162a24	法	"諸"表复数（U04-030c），"相"为增字（U04-030d）
+U04-030c	S0042	dharmān	pl.	gram. acc. pl. (-ān)	0001b24	諸	语法			复数以"諸"表出
+U04-030d	S0042				0001b24	相	增译			
+U04-030b	S0042				0001b24	如理	增译	0162a24	如理	
+U04-031	S0042	pravicetum	pra-vi-ci	inf.	0001b24	簡擇	对译	0162a24	簡擇	
+U04-032	S0043	prakīrṇa	pra-kṝ	ptc.	0001b25	散	对译	0162a24	散	"處處散說"
+U04-033	S0043	ukto bhagavatā	bhagavat	n. instr.	0001b24	佛世尊	对译	0162a24	佛世尊	
+U04-034	S0043	bhadantakātyāyanīputra	bhadanta-kātyāyanīputra	cpd.	0001b25	大德迦多衍尼子	音译	0162a25	大德迦旃延子	
+U04-035	S0043	bhadantakātyāyanīputra	bhadanta	n.	0001b25	大德	对译	0162a25	大德	
+U04-036	S0043	kātyāyanīputra	kātyāyanīputra	n. (人名)	0001b25	迦多衍尼子	音译	0162a25	迦旃延子	-putra 意译"子"
+U04-037	S0043	prabhṛtibhiḥ	prabhṛti	ind.	0001b25	等	对译	0162a25	等	
+U04-038	S0043				0001b25	諸大聲聞	增译	0162a25	諸弟子	玄奘补出主语"諸大聲聞"；真谛作"諸弟子"
+U04-039	S0043	piṇḍīkṛtya	piṇḍī-kṛ	abs.	0001b26	結集	意译	0162a25	撰集	
+U04-040	S0043	sthapito	sthāpita	ptc. (caus. sthā)	0001b26	安置	对译	0162a25	安置	
+U04-041	S0043	bhadanta dharmatrāto	bhadanta	n.	0001b26	大德	对译	0162a25	大德	
+U04-042	S0043	dharmatrāto	dharmatrāta	n. (人名)	0001b26	法救	对译	0162a26	達磨多羅多	玄奘意译人名，真谛音译
+U04-043	S0043	dānavargīyakaraṇavad	udāna-vargīya-karaṇa-vat	cpd.	0001b26	所集無常品等鄔拕南頌	意译	0162a26	撰集優陀那、伽他部類	玄奘以"無常品等"指明《法集要頌》（Udānavarga）；GRETIL 作 dānavargīya-
+U04-044	S0043	dānavargīya	udāna-vargīya	adj.	0001b27	鄔拕南	音译	0162a26	優陀那	udāna 音译"鄔拕南"，增"頌"
+U04-044+1	S0043				0001b27	頌	增译			合并时从 U04-044（鄔拕南頌）拆出
+U04-045	S0043	vaibhāṣikāḥ	vaibhāṣika	n.	0001b27	毘婆沙師	音译	0162a26	毘婆沙師	
+U04-046	S0043	ityāhur	ah	v. perf. 3pl.	0001b27	傳說	意译	0162a27	傳說	āhuḥ（他们说）译"傳說"
+U04-046b	S0043	ityāhur	iti	ind.	0001b27	如此	语法	0162a27	如此	
+U04-047	S0044	katame	katama	pron.	0001b27	何	语法	0162a27	何者	
+U04-047b	S0044	dharmā yeṣāṃ	dharma	n.	0001b27	法	对译	0162a27	諸法	
+U04-048	S0044	pravicayārtham	pravicaya-artham	cpd. ind.	0001b28	為…所簡擇	意译	0162a27	所簡擇	
+U04-049	S0044	abhidharmopadeśa	abhidharma-upadeśa	cpd.	0001b28	說對法	对译	0162a28	說阿毘達磨	
+U04-050	S0038	kleśaiśca	kleśa	n. instr.	0001b20	惑	对译	0162a19	惑	据校准补入
+U04-051	S0038	kleśaiśca	instr.	gram. instr. (-aiḥ)	0001b20	由	语法	0162a19	由	第三格表原因；据校准补入
+U04-052	S0041	uktaḥ	vac	ptc.	0001b22	說	对译	0162a23	說	
+U04-053	S0038	yata upaśāntaye	yatas	ind.			省译			
+U04-054	S0038	'tra lokas	atra	ind.			省译			
+U04-055	S0039	yato na	na	ind.	0001b21	無	语法	0162a20	無	na … asti 译"無"
+U04-056	S0041	atastaddhetos	tad-hetu	cpd. abl.	0001b22	因此	对译	0162a22	由此	
+U04-057	S0042	nahi vinā	na	ind.	0001b24	不	语法	0162a23	不	na hi
+U04-058	S0042	vinā 'bhidharmopadeśena	vinā	ind.	0001b23	離	对译	0162a23	離	
+U04-059	S0043	sa tu prakīrṇa	tu	ind.	0001b24	然	语法			转折
+U04-060	S0043	karaṇavad	-vat	gram. suffix	0001b26	猶如	语法	0162a25	猶如	比况后缀 -vat
+U04-061	S0044	yeṣāṃ	yad	pron. gen.	0001b28	彼	语法			关系代词 yeṣām 译"彼"
+U04-062	S0044	ityāha	ah	v. perf. 3sg.	0001b28	頌曰	语法	0162a28	偈曰	āha 引出本颂，译"頌曰"
+U04-063	S0044	punaste	punar	ind.			省译			

@@ -1,0 +1,62 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U47-001	S0949	ubhābhyām	ubha	pron. instr. du.	0011b10	二…俱	拆译	0171a28	二	颂文"或二眼俱時"，ubha（两者）分作"二""俱"；"時"为增字
+U47-002	S0949	ubhābhyāmapi	api	ind.	0011b10	或	语法	0171a28	或	api 玄奘、真谛都作"或"（或二眼俱時）
+U47-003	S0949	cakṣubhuyāṃ	cakṣus	n. instr. du.	0011b10	眼	对译	0171a28	眼	GRETIL 本作 cakṣubhuyāṃ，当读 cakṣurbhyāṃ
+U47-004	S0949	paśyati	dṛś	v. pres. 3sg.	0011b10	見	合译	0171a28	見	颂文"見色分明"之"見"兼摄 paśyati 与 darśana；长行作"二眼俱見"
+U47-005	S0949	vyaktadarśanāt	vyakta-darśana	cpd. abl.	0011b10	見…分明	意译	0171a29	分明見色	"色"为增字；第五格"故"
+U47-005+1	S0949				0011b10	色	增译			合并时从 U47-005（見色分明）拆出
+U47-006	S0949	vyakta	vyakta	ptc. adj.	0011b10	分明	对译	0171a29	分明	
+U47-007	S0949	darśanāt	darśana	n. abl.	0011b10	見	对译	0171a29	見	
+U47-008	S0950	ubhābhyām	ubha	pron. instr. du.	0011b11	二…俱	拆译	0171a29	二	"或時二眼俱見"
+U47-009	S0950	ubhābhyāmapi	api	ind.	0011b11	或時	语法	0171a29	亦	
+U47-010	S0950	cakṣurbhyāṃ	cakṣus	n. instr. du.	0011b11	眼	对译	0171a29	眼根	
+U47-011	S0950	paśyatītyā	dṛś	v. pres. 3sg.	0011b12	見	对译	0171a29	見	
+U47-013	S0950	ābhidhārmikāḥ	ābhidhārmika	n. nom. pl.	0011b11	阿毘達磨…論師	音译	0171a29	阿毘達磨師	abhidharma 音译"阿毘達磨"，-ika 作"論師"；"大"为增字
+U47-015	S0951	tathā hi	tathā hi	ind.	0011b12	以…故	语法	0171b01	何以故	
+U47-016	S0951	dvayor	dvi	num. loc. du.	0011b12	二	对译	0171b01	二	"開二眼"，"眼"为增字
+U47-017	S0951	vivṛtayoḥ	vi-vṛta	ptc. loc. du.	0011b12	開	对译	0171b01	開	
+U47-018	S0951	paraiśāuddhataraṃ	pariśuddha	ptc. adj.	0011b12	分明	意译	0171b01	明了	GRETIL 本作 paraiśāuddhataraṃ，当读 pariśuddhataraṃ
+U47-019	S0951	paraiśāuddhataraṃ	compar.	gram. compar. (-tara)	0011b12	開一眼時不分明	意译	0171b01	最	比较级玄奘以对比句"開一眼時不分明"表出；真谛作"最"
+U47-020	S0951	darāśanaṃ	darśana	n.	0011b12	見	对译	0171b01	見	GRETIL 本作 darāśanaṃ；"見色分明"，"色"为增字
+U47-021	S0951	bhavati	bhū	v. pres. 3sg.			省译			
+U47-022	S0952	ekasmiṃś	eka	num. loc.	0011b13	一	对译	0171b02	一	
+U47-023	S0952	cīnmīlite	ud-mīl	ptc. loc.	0011b13	開	对译	0171b02	開	GRETIL 本作 ekasmiṃścīnmīlite，当读 ekasmiṃś conmīlite
+U47-024	S0952	cakṣuṣi	cakṣus	n. loc.	0011b13	眼	对译	0171b02	眼	
+U47-025	S0952	cakṣuṣi	loc. abs.	gram. loc. abs. (-e)	0011b13	時	语法			第七格独立句译"…時"（開一眼觸一眼時）
+U47-026	S0952	dvitīye	dvitīya	num. loc.	0011b13	一	意译	0171b02	一	dvitīya（第二）玄奘、真谛都作"一"
+U47-027	S0952	ārdhanimīlite	ardha-nimīlita	cpd. ptc. loc.	0011b13	觸	意译	0171b02	半閉	ardhanimīlita（半闭）玄奘作"觸"（按触一眼），与真谛"半閉"不同
+U47-028	S0952				0011b13	便於現前	增译			
+U47-029	S0952	dvicandrādigrahaṇaṃ	dvi-candra-ādi-grahaṇa	cpd.	0011b13	見二月等	对译	0171b02	見二月	
+U47-030	S0952	dvicandrā	dvi	num.	0011b14	二	对译	0171b02	二	
+U47-031	S0952	candrā	candra	n.	0011b14	月	对译	0171b02	月	
+U47-032	S0952	ādigrahaṇaṃ	ādi	n.	0011b14	等	对译			
+U47-033	S0952	grahaṇaṃ	grahaṇa	n.	0011b13	見	意译	0171b02	見	grahaṇa（取、认取）此作"見"
+U47-034	S0952	grahaṇaṃ bhavati	bhū	v. pres. 3sg.			省译			
+U47-035	S0953	naikatarānyathībhāvāt	ekatara-anyathībhāva	cpd. abl.	0011b14	閉一觸一	意译	0171b02	隨一變異	待核：ekatara-anyathībhāva（其中一眼改变）玄奘作"閉一觸一此事則無"，na 译"此事則無"（na → 無 已足两例，不另立）；真谛作"由隨一變異見則不明"
+U47-036	S0953	aikatarā	ekatara	pron.	0011b14	一	意译	0171b02	隨一	
+U47-037	S0953				0011b14	是故或時二眼俱見	增译			玄奘补出结论
+U47-038	S0954	āśrayavicchedād	āśraya-viccheda	cpd. abl.	0011b15	所依別	对译	0171b03	依止處別	第五格未译
+U47-039	S0954	āśraya	āśraya	n.	0011b15	所依	对译	0171b03	依止	
+U47-040	S0954	vicchedād	viccheda	n. abl.	0011b15	別	对译	0171b03	別	
+U47-041	S0954	vicchedaparasaṅgo	viccheda-prasaṅga	cpd.	0011b15	成二分	意译	0171b03	分…為二	GRETIL 本作 parasaṅgo，当读 prasaṅgo
+U47-042	S0954	vicchedapa	viccheda	n.	0011b15	二分	意译	0171b03	分…為二	
+U47-043	S0954	parasaṅgo	prasaṅga	n.	0011b15	成	意译			prasaṅga（推得之过）玄奘作"成"
+U47-044	S0954	vijñānasya	vijñāna	n. gen.	0011b15	識	对译	0171b03	識	
+U47-045	S0954	deśāpratiṣṭhitatvād	deśa-apratiṣṭhita-tva	cpd. abl.	0011b15	住無方	意译	0171b03	無住處	第五格"故"
+U47-046	S0954	deśā	deśa	n.	0011b15	方	对译	0171b04	處	
+U47-047	S0954	āpratiṣṭhita	a-pratiṣṭhita	ptc.	0011b15	住無	意译	0171b03	無住	
+U47-048	S0954	raupavad	rūpa	n.	0011b16	色	对译	0171b04	色	GRETIL 本作 raupavad，当读 rūpavad；"礙"为增字（不同礙色）
+U47-049	S0954	raupavad	-vat	gram. suffix	0011b15	不同	语法	0171b04	不同於	rūpavat 承前 na，玄奘作"不同礙色"
+U47-050	S0955				0011b16	此宗說	增译			
+U47-051	S0955	cakṣuḥ	cakṣus	n.	0011b16	眼	对译	0171b04	眼	
+U47-052	S0955	cakṣuḥ paśyati	dṛś	v. pres. 3sg.	0011b16	見	对译	0171b04	見	
+U47-053	S0955	śrotraṃ	śrotra	n.	0011b16	耳	对译	0171b04	耳	
+U47-054	S0955	śṛṇoti	śru	v. pres. 3sg.	0011b16	聞	对译	0171b04	聞	
+U47-056	S0955	mano	manas	n.	0011b16	意	对译	0171b04	意	
+U47-057	S0955	vijānāti	vi-jñā	v. pres. 3sg.	0011b16	了	对译	0171b05	識	
+U47-058	S0955	kimeṣāṃ	idam	pron. gen. pl.	0011b16	彼	语法	0171b05	彼	
+U47-059	S0955				0011b16	所取…根正取時	增译			玄奘补出"所取""根正取時"
+U47-060	S0955	viṣaya	viṣaya	n.	0011b17	境	对译	0171b05	塵	
+U47-061	S0955	prāpto	prāpta	ptc.	0011b17	至	对译	0171b05	至	
+U47-062	S0955	aprāptaḥ	a-prāpta	ptc.	0011b17	不至	对译	0171b05	不至	
+U47-063	S0955	kimeṣāṃ prāpto viṣaya āhosvid	kim … āhosvit	gram.	0011b17	為	语法	0171b05	為…為	选择问句，玄奘只出一"為"（為至不至）

@@ -1,0 +1,310 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U48-001	S0956	cakṣuḥśrotramano	cakṣus-śrotra-manas	cpd.	0011b18	眼耳意	对译	0171b05	眼耳及意根	"根"为增字
+U48-001+1	S0956				0011b18	根	增译			合并时从 U48-001（眼耳意根）拆出
+U48-002	S0956	cakṣuḥ	cakṣus	n.	0011b18	眼	对译	0171b05	眼	
+U48-003	S0956	śrotra	śrotra	n.	0011b18	耳	对译	0171b05	耳	
+U48-004	S0956	mano	manas	n.	0011b18	意	对译	0171b05	意	
+U48-005	S0956	'prāptaviṣayaṃ	a-prāpta-viṣaya	cpd. adj.	0011b18	境…不至	对译	0171b06	不至塵	颂文"眼耳意根境，不至"
+U48-006	S0956	'prāpta	a-prāpta	ptc.	0011b18	不至	对译	0171b06	不至	
+U48-007	S0956	viṣayaṃ	viṣaya	n.	0011b18	境	对译	0171b06	塵	真谛 viṣaya 译"塵"
+U48-008	S0956	cakṣuḥśrotramano	cakṣus-śrotra-manas	cpd.	0011b19	眼耳意根	对译			长行"眼耳意根取非至境"复述颂文
+U48-009	S0956	'prāptaviṣayaṃ	a-prāpta-viṣaya	cpd. adj.	0011b19	非至境	意译			长行复述；"取"为增字
+U48-009+1	S0956				0011b19	取	增译			合并时从 U48-009（取非至境）拆出
+U48-010	S0956	'prāpta	a-prāpta	ptc.	0011b19	非至	对译			
+U48-011	S0957	tathā hi	tathā hi	ind.	0011b19	謂	语法	0171b06	云何如此	
+U48-012	S0957	dūrād	dūra	n. abl.	0011b19	遠處	对译	0171b06	遠	"謂眼能見遠處諸色"，主语"眼"承颂文补出，"能""諸"为增字
+U48-013	S0957	dūrādrūpaṃ	rūpa	n.	0011b20	色	对译	0171b06	色	
+U48-014	S0957	paśyatyakṣi	dṛś	v. pres. 3sg.	0011b19	見	对译	0171b06	見	
+U48-015	S0957	akṣistham	akṣi-stha	cpd. adj.	0011b20	眼中	对译	0171b07	塗眼	
+U48-016	S0957	akṣi	akṣi	n.	0011b20	眼	对译	0171b07	眼	
+U48-017	S0957	stham	stha	adj.	0011b20	中	意译			stha（处于）玄奘作"中"
+U48-018	S0957	añjanaṃ	añjana	n.	0011b20	藥	意译	0171b07	藥	añjana（眼药）；"等"为增字
+U48-019	S0957	na paśyati	dṛś	v. pres. 3sg.	0011b20	觀	对译	0171b07	見	"則不能觀"，"能"为增字
+U48-020	S0957	dūrāc	dūra	n. abl.	0011b20	遠處	对译	0171b07	遠	
+U48-021	S0957	chabdaṃ	śabda	n.	0011b20	聲響	对译	0171b07	聲	
+U48-022	S0957	śṛṇoti	śru	v. pres. 3sg.	0011b20	聞	对译	0171b07	聞	"耳亦能聞"，"耳""亦""能"为增字
+U48-023	S0957				0011b21	逼耳根者則不能聞	增译			玄奘仿眼例补出，梵文无
+U48-024	S0958	sati	loc. abs.	gram. loc. abs. (sati)	0011b21	若	语法	0171b07	若	第七格独立句译"若"
+U48-025	S0958	prāptaviṣayatve	prāpta-viṣaya-tva	cpd. loc.	0011b21	至境	意译	0171b07	緣至塵	主语"眼耳根"为补出，"唯""取"为增字；-tva 未译
+U48-025+1	S0958				0011b21	取	增译			合并时从 U48-025（取至境）拆出
+U48-026	S0958	prāpta	prāpta	ptc.	0011b21	至	对译	0171b08	至	
+U48-027	S0958	viṣayatve	viṣaya	n.	0011b22	境	对译	0171b08	塵	
+U48-028	S0958	divyaṃ	divya	adj.	0011b22	天	对译	0171b08	天	
+U48-029	S0958	cakṣuḥśrotram	cakṣus-śrotra	cpd.	0011b22	眼、耳根	对译			"天眼、耳根"；真谛作"天眼天耳"
+U48-030	S0958	iha	iha	ind.			省译			
+U48-031	S0958	dhyāyināṃ	dhyāyin	n. gen. pl.	0011b22	修定者	对译	0171b08	修觀行人	
+U48-032	S0958	nopajāyeta	upa-jan	v. opt. 3sg.	0011b22	生	意译	0171b08	得成	"應不修生"，"修"为增字；na、opt.（不、應）不另立
+U48-032+1	S0958				0011b22	修	增译			合并时从 U48-032（修生）拆出
+U48-033	S0959	ghrāṇādivat	ghrāṇa-ādi	cpd.	0011b22	鼻…等	对译	0171b09	鼻等	"根"为增字
+U48-033+1	S0959				0011b22	根	增译			合并时从 U48-033（鼻根等）拆出
+U48-035	S0960	yadyaprāptaviṣayaṃ	a-prāpta-viṣaya	cpd. adj.	0011b23	不至色	意译			viṣaya 就眼而作"色"
+U48-036	S0960	cakṣuḥ	cakṣus	n.	0011b23	眼	对译			
+U48-037	S0960	sarvam	sarva	adj.	0011b23	一切	对译	0171b09	一切	"普"为增字
+U48-038	S0960	sarvamaprāptaṃ	a-prāpta	ptc.	0011b24	不至	对译	0171b09	不至	
+U48-039	S0960	aprāptaṃ paśyati	dṛś	v. pres. 3sg.	0011b23	見	对译	0171b09	見	
+U48-040	S0960	dūraṃ	dūra	adj.	0011b24	遠	对译	0171b09	最遠	
+U48-041	S0960	tiraskṛtaṃ	tiraskṛta	ptc.	0011b24	有障	对译	0171b10	所障	"等""諸色"为增字
+U48-042	S0961	kathaṃ	katham	ind.	0011b24	如何…耶	语法	0171b10	云何	
+U48-044	S0961	ayskānto	ayaskānta	n.	0011b24	磁石	对译	0171b10	磁石	GRETIL 本作 ayskānto，当读 ayaskānto
+U48-045	S0961				0011b24	吸不至鐵	增译			玄奘先补出"磁石吸不至鐵"
+U48-046	S0961	sarvam	sarva	adj.	0011b25	一切	对译	0171b10	一切	
+U48-047	S0961	maprāptam	a-prāpta	ptc.	0011b25	不至	对译	0171b10	不至	
+U48-048	S0961	ayaḥ	ayas	n.	0011b25	鐵	对译	0171b11	鐵	
+U48-049	S0961	karṣati	kṛṣ	v. pres. 3sg.	0011b25	吸	意译	0171b10	吸	kṛṣ（牵引）
+U48-050	S0962	prāptaviṣayatve	prāpta-viṣaya-tva	cpd. loc.	0011b25	至境	对译	0171b11	至塵	
+U48-051	S0962				0011b25	執見	增译	0171b11	能緣	"執見至境"，以"執"表第七格所示的假设
+U48-052	S0962	caitat	etad	pron.	0011b25	此難	意译	0171b11	此難	代词还原为所指
+U48-053	S0962	samānam	samāna	adj.	0011b25	同	对译	0171b11	齊	"亦同"之"亦"对 api，api → 亦 已足两例，不另立
+U48-054	S0963	sarvaṃ	sarva	adj.	0011b26	一切	对译	0171b11	一切	"普"为增字
+U48-055	S0963	prāptaṃ	prāpta	ptc.	0011b26	至	对译	0171b12	至	"至眼諸色"，"眼諸色"为增字
+U48-056	S0963	prāptaṃ paśyaty	dṛś	v. pres. 3sg.	0011b26	見	对译	0171b11	見	
+U48-057	S0963	añjanaṃ	añjana	n.	0011b26	眼藥	对译	0171b12	眼藥	
+U48-058	S0963	śalākāṃ	śalākā	n.	0011b26	籌	对译	0171b12	籌	
+U48-059	S0964	ghrāṇādīnaṃ	ghrāṇa-ādi	cpd. gen. pl.	0011b27	鼻等	对译	0171b12	鼻等	GRETIL 本作 ghrāṇādīnaṃ，当读 ghrāṇādīnāṃ
+U48-060	S0964	prāpto	prāpta	ptc.	0011b27	至	对译	0171b12	至	"能取至境"，"能取"为增字
+U48-061	S0964	viṣayo	viṣaya	n.	0011b27	境	对译	0171b12	塵	
+U48-062	S0964	na tu	na tu	ind.	0011b27	然	语法	0171b12	不	"然不能取一切"，"不"与 S0965 agrahaṇa 的 a- 合用
+U48-063	S0964	sarvaḥ	sarva	adj.	0011b27	一切	对译	0171b13	一切	
+U48-064	S0965	sahabhūgandhādy	sahabhū-gandha-ādi	cpd.	0011b28	俱有香等	意译	0171b13	香等共有	"與根"为增字
+U48-064+1	S0965				0011b27	與根	增译			合并时从 U48-064（與根俱有香等）拆出
+U48-065	S0965	sahabhū	saha-bhū	adj.	0011b28	俱有	对译	0171b13	共有	
+U48-066	S0965	gandhādy	gandha	n.	0011b28	香	对译	0171b13	香	
+U48-067	S0965	ādyagrahaṇāt	ādi	n.	0011b28	等	对译	0171b13	等	
+U48-068	S0965	agrahaṇāt	a-grahaṇa	n. abl.	0011b27	不…取	对译	0171b13	不能取	"能"为增字；第五格未译
+U48-068+1	S0965				0011b27	能	增译			合并时从 U48-068（不能取）拆出
+U48-069	S0966	cakṣuṣo	cakṣus	n. gen.	0011b28	眼根	对译	0171b13	眼	
+U48-071	S0966	'pyaprāptaḥ	a-prāpta	ptc.	0011b28	不至	对译	0171b13	不至	"雖見不至"，"見"为增字
+U48-073	S0966	syānna tu	na tu	ind.	0011b28	而非	语法	0171b14	非	
+U48-074	S0966	sarvaḥ	sarva	adj.	0011b28	一切	对译	0171b14	一切	
+U48-075	S0966				0011b29	耳根亦爾	增译			玄奘补出耳根
+U48-076	S0967	manastv	manas	n.	0011b29	意	对译	0171b14	意	
+U48-077	S0967	arūpitvāt	a-rūpi-tva	n. abl.	0011b29	無色	对译	0171b14	無色	第五格"故"
+U48-078	S0967	prāptum	pra-āp	inf.	0011b29	至	对译	0171b14	至	"非能有至"，"有"为增字
+U48-079	S0967	evāśaktam	a-śakta	ptc. adj.	0011b29	非能	对译	0171b14	無有…能	
+U48-080	S0968	kecit	kaścit	pron. nom. pl.	0011b29	有	语法	0171b15	有餘師	"有執"
+U48-081	S0968	śrotraṃ	śrotra	n.	0011b29	耳根	对译	0171b15	耳	
+U48-082	S0968	praptāprāptaviṣayaṃ	prāpta-aprāpta-viṣaya	cpd. adj.	0011c01	至境及不至境	意译	0171b15	至不至塵	GRETIL 本作 praptā-；"通取"为增字，"境"重出
+U48-082+1	S0968				0011c01	通取	增译			合并时从 U48-082（通取至境及不至境）拆出
+U48-083	S0968	praptā	prāpta	ptc.	0011c01	至	对译	0171b15	至	
+U48-084	S0968	āprāpta	a-prāpta	ptc.	0011c01	不至	对译	0171b15	不至	
+U48-085	S0968	viṣayaṃ	viṣaya	n.	0011c01	境	对译	0171b15	塵	
+U48-086	S0968	manyayante	man	v. pres. 3pl.	0011b29	執	意译	0171b15	說	GRETIL 本作 manyayante，当读 manyante
+U48-087	S0969	karṇabhyantare	karṇa-abhyantara	cpd. loc.	0011c01	耳中	意译	0171b16	耳內	GRETIL 本作 karṇabhyantare，当读 karṇābhyantare；"自"为增字
+U48-087+1	S0969				0011c01	自	增译			合并时从 U48-087（自耳中）拆出
+U48-088	S0969	karṇa	karṇa	n.	0011c01	耳	对译	0171b16	耳	
+U48-089	S0969	abhyantare	abhyantara	n. loc.	0011c01	中	对译	0171b16	內	
+U48-090	S0969	śabdaśravaṇāt	śabda-śravaṇa	cpd. abl.	0011c01	聲…聞	对译	0171b16	聞…聲	"亦能聞故"，"能"为增字
+U48-091	S0969	śabda	śabda	n.	0011c01	聲	对译	0171b16	聲	
+U48-092	S0969	śravaṇāt	śravaṇa	n. abl.	0011c01	聞	对译	0171b16	聞	
+U48-093	S0969	śeṣaṃ	śeṣa	adj.	0011c02	所餘	对译	0171b16	所餘	
+U48-094	S0969	ghrāṇajihvākāyākhyam	ghrāṇa-jihvā-kāya-ākhya	cpd. adj.	0011c02	鼻等三	意译	0171b16	鼻舌身	玄奘以"鼻等三有色根"概括；jihvā、kāya 以"等三"包括，"有色根"为增字，ākhya（名为）未译
+U48-094+1	S0969				0011c02	有色根	增译			合并时从 U48-094（鼻等三有色根）拆出
+U48-095	S0969	ghrāṇa	ghrāṇa	n.	0011c02	鼻	对译	0171b16	鼻	
+U48-096	S0970	trayam	traya	n.	0011b18	三	对译	0171b16	三	
+U48-097	S0970	anyathā	anyathā	ind.	0011b18	相違	意译	0171b16	異	
+U48-098	S0970	anyathā	anyathā	ind.	0011c02	相違	意译			长行复述颂文，"與上"为增字
+U48-098+1	S0970				0011c02	與上	增译			合并时从 U48-098（與上相違）拆出
+U48-099	S0971	prāptaviṣayamityarthaḥ	prāpta-viṣaya	cpd. adj.	0011c02	至境	意译	0171b17	至到為塵	"唯""取"为增字
+U48-099+1	S0971				0011c02	取	增译			合并时从 U48-099（取至境）拆出
+U48-100	S0971	arthaḥ	artha	n.			省译			ity arthaḥ（意即）未译
+U48-101	S0971	ghrāṇaṃ	ghrāṇa	n.	0011c03	鼻	对译	0171b17	鼻	
+U48-102	S0971	kathaṃ	katham	ind.	0011c02	如何	语法	0171b17	云何知	"知"为增字；玄奘、真谛同
+U48-102+1	S0971				0011c03	知	增译			合并时从 U48-102（如何知）拆出
+U48-103	S0971	kathaṃ prāptaviṣayam	prāpta-viṣaya	cpd. adj.	0011c03	取至香	意译	0171b17	緣至塵	viṣaya 就鼻而作"香"；"唯"为增字
+U48-104	S0971	nirucchvāsasya	nir-ucchvāsa	adj. gen.	0011c03	斷息時	意译	0171b17	斷息	"時"表第六格所示的境况
+U48-105	S0971	gandhāgrahaṇāt	gandha-a-grahaṇa	cpd. abl.	0011c03	不嗅香	意译	0171b18	不聞香	
+U48-106	S0971	gandhā	gandha	n.	0011c03	香	对译	0171b18	香	
+U48-107	S0971	āgrahaṇāt	a-grahaṇa	n. abl.	0011c03	不嗅	意译	0171b18	不聞	
+U48-110	S0972	prāptir	prāpti	n.	0011c04	至	对译	0171b18	至	
+U48-112	S0972	nirantarotpattiḥ	nirantara-utpatti	cpd.	0011c04	無間生	对译	0171b18	生無間	"謂"为增字
+U48-113	S0972	nirantaro	nirantara	adj.	0011c04	無間	对译	0171b18	無間	
+U48-114	S0972	otpattiḥ	utpatti	n.	0011c04	生	对译	0171b18	生	
+U48-115	S0973	kiṃ punaḥ paramāṇavaḥ spṛśantyanyonyamāhosvin	kim … āhosvit	gram.	0011c04	為…不	语法	0171b18	為…為	是非问句
+U48-116	S0973	punaḥ	punar	ind.	0011c04	又	语法			
+U48-117	S0973	paramāṇavaḥ	paramāṇu	n. nom. pl.	0011c04	極微	对译	0171b18	隣虛	真谛 paramāṇu 译"隣虛"
+U48-119	S0973	spṛśanty	spṛś	v. pres. 3pl.	0011c04	觸	对译	0171b19	觸	
+U48-120	S0973	anyonyam	anyonya	pron.	0011c04	相	对译	0171b19	互相	
+U48-121	S0974	spṛśantīti	spṛś	v. pres. 3pl.	0011c05	觸	对译	0171b19	觸	"不相觸"
+U48-123	S0974	kāśmīrakāḥ	kāśmīraka	n. nom. pl.	0011c04	迦濕彌羅國	音译	0171b19	罽賓國	kāśmīraka（迦湿弥罗人）
+U48-124	S0974				0011c05	毘婆沙師	增译	0171b19	師	玄奘补出"毘婆沙師"
+U48-126	S0976	sarvānmanā	sarvātman	n. instr.	0011c06	遍體	意译	0171b20	一切體	GRETIL 本作 sarvānmanā，当读 sarvātmanā；主语"諸極微"为补出
+U48-127	S0976	spṛśeyur	spṛś	v. opt. 3pl.	0011c06	觸	对译	0171b20	觸	
+U48-128	S0976	miśrībhaveyur	miśrī-bhū	v. opt. 3pl.	0011c06	相雜	对译	0171b20	相雜	
+U48-129	S0976	dravyāṇi	dravya	n. nom. pl.	0011c06	實物	对译	0171b20	物	
+U48-130	S0976				0011c06	即有…過	增译			"即有實物體相雜過"，以"有…過"表祈愿式所示的推论；"體"为增字
+U48-131	S0977	athai	atha	ind.	0011c06	若	语法	0171b20	若	
+U48-132	S0977	aikadeśena	eka-deśa	cpd. instr.	0011c07	一分	对译	0171b21	一分	"若觸一分"，"觸"承上补出
+U48-133	S0977	sāvayavāḥ	sa-avayava	adj. nom. pl.	0011c07	有分	对译	0171b21	有方分	
+U48-134	S0977	prasajyeran	pra-sañj	v. opt. pass. 3pl.	0011c07	成…失	意译			prasajyeran（将陷于…之过）玄奘作"成…失"
+U48-135	S0978	niravayavāś	nir-avayava	adj. nom. pl.	0011c07	無…分	意译	0171b21	無方分	"更""細"为增字
+U48-135+1	S0978				0011c07	細	增译			合并时从 U48-135（無細分）拆出
+U48-136	S0978	paramāṇavaḥ	paramāṇu	n. nom. pl.	0011c07	極微	对译	0171b21	隣虛	
+U48-138	S0978				0011c07	若爾	增译	0171b22	若爾	
+U48-139	S0978	kathaṃ	katham	ind.	0011c08	何故	语法	0171b22	云何	
+U48-140	S0978				0011c08	相擊	增译			"何故相擊發聲"
+U48-141	S0978	śabdābhiniśpattir	śabda-abhiniṣpatti	cpd.	0011c08	發聲	对译	0171b22	發聲	GRETIL 本作 abhiniśpatti，当读 abhiniṣpatti
+U48-142	S0978	śabdā	śabda	n.	0011c08	聲	对译	0171b22	聲	
+U48-143	S0978	ābhiniśpattir	abhiniṣpatti	n.	0011c08	發	对译	0171b22	發	
+U48-144	S0978	bhavati	bhū	v. pres. 3sg.			省译			
+U48-145	S0979	ata eva	atas	ind.	0011c08	由…故	语法	0171b22	由…故	ata eva（正因此）玄奘作"但由…故"，并补出理由"極微無間生"
+U48-147	S0979				0011c08	極微無間生	梵本缺文	0171b22	無間	真谛亦作"由無間故"
+U48-148	S0979	spṛśeyur	spṛś	v. opt. 3pl.	0011c09	觸	对译	0171b22	觸	"若許相觸"，"許"为增字
+U48-149	S0979	hasto haste	hasta	n.	0011c09	手	对译	0171b22	二手	hasto haste（手于手）玄奘作"拊手"
+U48-150	S0979	'bhyāhataḥ	abhi-ā-han	ptc.	0011c09	擊…拊	拆译	0171b23	相榼	abhyāhata 兼摄手、石两事，玄奘分作"擊石""拊手"
+U48-151	S0979	sajyeto	sañj	v. opt. 3sg.	0011c09	相糅	意译	0171b23	相著	GRETIL 本作 sajyeto palaś，当读 sajjetopalaś（sajjeta upalaś）；"體應"为增字
+U48-152	S0979	palaścopale	upala	n.	0011c09	石	对译	0171b23	石	upalaś copale（石于石）玄奘作"擊石"
+U48-153	S0979				0011c09	不相觸者	增译			玄奘补出论主立场
+U48-154	S0979	citaṃ	cita	ptc.	0011c09	聚色	意译	0171b23	微聚	cita（积聚者）
+U48-155	S0979	pratyāhataṃ	prati-ā-han	ptc.	0011c10	相擊	对译	0171b24	相榼	
+U48-156	S0979	viśīryate	vi-śṝ	v. pass. 3sg.	0011c10	散	对译	0171b24	散	
+U48-157	S0980	vāyudhātusaṃdhāritatvāt	vāyu-dhātu-saṃdhārita-tva	cpd. abl.	0011c10	風界攝持	对译	0171b24	風界所持	第五格"故"
+U48-158	S0980	vāyudhātu	vāyu-dhātu	cpd.	0011c10	風界	对译	0171b24	風界	
+U48-159	S0980	saṃdhārita	saṃdhārita	ptc.	0011c10	攝持	对译	0171b24	所持	
+U48-160	S0980				0011c10	令不散	增译			
+U48-162	S0981	vāyudhātur	vāyu-dhātu	cpd.	0011c11	風界	对译	0171b24	風界	
+U48-163	S0981	vikiraṇāya	vikiraṇa	n. dat.	0011c11	壞散	对译	0171b25	破散	
+U48-164	S0981	pravṛtto	pravṛtta	ptc.	0011c11	能有	意译	0171b25	能	pravṛtta vikiraṇāya（致力于散）玄奘作"能有壞散"
+U48-165	S0981	saṃvarttanyāṃ	saṃvartanī	n. loc.	0011c11	劫壞時	意译	0171b25	劫末時	GRETIL 本作 saṃvarttanī；第七格译"時"
+U48-167	S0981	saṃdhāraṇāya	saṃdhāraṇa	n. dat.	0011c12	成攝	意译	0171b25	合持	
+U48-168	S0981	vivarttanyām	vivartanī	n. loc.	0011c12	劫成時	意译	0171b25	劫成時	GRETIL 本作 vivarttanī
+U48-169	S0982	kathamidānīṃ	idānīm	ind.			省译	0171b26	今	
+U48-170	S0982	nirantara prāptyā	nirantara-prāpti	cpd. instr.	0011c12	無間生	意译	0171b26	無間至	GRETIL 本分写作 nirantara prāptyā；prāpti 玄奘承上作"生"
+U48-172	S0982	prāptaviṣayaṃ	prāpta-viṣaya	cpd. adj.	0011c13	至境	意译	0171b26	至塵	"取"为增字
+U48-172+1	S0982				0011c13	取	增译			合并时从 U48-172（取至境）拆出
+U48-173	S0982	trayam	traya	n.	0011c12	三	意译	0171b26	三根	"根"为增字
+U48-173+1	S0982				0011c12	根	增译			合并时从 U48-173（三根）拆出
+U48-174	S0982	ucyate	vac	v. pass. 3sg.	0011c12	名	对译	0171b26	說	
+U48-175	S0983	tadevai	tad	pron.	0011c13	即	语法	0171b26	是	tad eva 译"即"
+U48-176	S0983	niruttaratvaṃ	nirantara-tva	n.	0011c13	無間	对译	0171b27	無間	GRETIL 本作 niruttaratvaṃ，当读 nirantaratvaṃ
+U48-177	S0983				0011c13	由…名取至境	增译	0171b27	說名為至	复述上问
+U48-179	S0983	madhye	madhya	n. loc.	0011c13	中間	对译	0171b27	中間	第七格"於"
+U48-180	S0983	kiñcit	kaścit	pron.	0011c14	片物	意译	0171b27	別物	"都"为增字
+U48-182	S0984	saṃghātāḥ	saṃghāta	n. nom. pl.	0011c14	和合	意译	0171b28	微聚物	"色"为增字
+U48-182+1	S0984				0011c14	色	增译			合并时从 U48-182（和合色）拆出
+U48-183	S0984	sāvayavatvāt	sa-avayava-tva	n. abl.	0011c14	有分	对译	0171b28	有方分	"許"为增字；第五格"故"
+U48-184	S0984	spṛśantīty	spṛś	v. pres. 3pl.	0011c14	觸	对译	0171b28	觸	"相觸"
+U48-185	S0984	advīṣaḥ	a-doṣa	n.	0011c14	無失	对译	0171b28	無失	GRETIL 本作 advīṣaḥ，当读 adoṣaḥ
+U48-186	S0985	evaṃ ca kṛtvā	evam	ind.	0011c15	此理	意译	0171b28	如此	evaṃ kṛtvā（如此设定）
+U48-187	S0985	kṛtvā	kṛ	abs.	0011c15	許	意译	0171b28	作	
+U48-188	S0985	kṛtvā	abs.	gram. abs. (-tvā)	0011c15	由	语法	0171b28	若	独立式（作此设定之后）玄奘作"由"
+U48-189	S0985	grantha	grantha	n.	0011c15	文義	意译	0171b29	文句	
+U48-190	S0985	upapanno	upapanna	ptc.	0011c15	成立	意译	0171b29	得成	"善"为增字
+U48-190+1	S0985				0011c15	善	增译			合并时从 U48-190（善成立）拆出
+U48-191	S0985	bhavati	bhū	v. pres. 3sg.			省译			
+U48-192	S0985	vibhāṣāyām	vibhāṣā	n. loc.	0011c15	毘婆沙	音译	0171b29	毘婆沙	
+U48-193	S0986	praśnayitvāha	praśnaya (denom.)	abs.	0011c15	問	对译	0171c01	問	"故彼問言"，"故彼"为增字
+U48-195	S0986	kiṃ nu spṛṣṭahetukaṃ spṛṣṭamutpadyate āhosvid	kim … āhosvit	gram.	0011c16	為…為	语法	0171b29	為…為	选择问句
+U48-196	S0986	spṛṣṭamutpadyate	spṛṣṭa	ptc.	0011c16	是觸	意译	0171b29	是觸	"諸""物"为增字
+U48-196+1	S0986				0011c16	物	增译			合并时从 U48-196（是觸物）拆出
+U48-197	S0986	nu spṛṣṭahetukaṃ	spṛṣṭa-hetuka	cpd. adj.	0011c16	是觸為因	对译	0171b29	以觸為因	
+U48-198	S0986	nu spṛṣṭa	spṛṣṭa	ptc.	0011c16	觸	对译	0171b29	觸	"是"为增字
+U48-199	S0986	hetukaṃ spṛṣṭam	hetuka	adj.	0011c16	為因	对译	0171c01	為因	"故"为增字
+U48-200	S0986	mutpadyate	ut-pad	v. pres. 3sg.	0011c16	生	对译	0171c01	生	
+U48-201	S0986	daspṛṣṭahetukam	a-spṛṣṭa-hetuka	cpd. adj.	0011c16	非觸為因	对译	0171c01	非觸為因	
+U48-202	S0986				0011c17	諸非觸物為問亦爾	增译			玄奘补出另一问
+U48-203	S0986	kāraṇaṃ	kāraṇa	n.	0011c17	理	意译	0171c01	因	"kāraṇaṃ prati"玄奘作"就此理"，真谛作"約因"
+U48-204	S0986	prati	prati	ind.	0011c17	就	语法	0171c01	約	
+U48-205	S0986	praśnayitvāha	ah	v. perf. 3sg.	0011c18	答	意译	0171c01	答	
+U48-206	S0986				0011c17	為不定	增译			以"為不定答"概括以下四种 kadācit
+U48-208	S0987	spṛṣṭahetukam	spṛṣṭa-hetuka	cpd. adj.	0011c18	是觸為因	对译	0171c02	以觸為因	
+U48-209	S0987	maspṛṣṭam	a-spṛṣṭa	ptc.	0011c18	非觸	对译	0171c02	非觸	
+U48-210	S0987	utpadhate	ut-pad	v. pres. 3sg.	0011c18	生	对译	0171c02	生	GRETIL 本作 utpadhate；"於"为增字
+U48-211	S0987	yadā	yadā	ind.	0011c18	謂…時	语法	0171c02	若	
+U48-212	S0987				0011c18	和合物正	增译			补出主语
+U48-213	S0987	viśīryate	vi-śṝ	v. pass. 3sg.	0011c19	離散	对译	0171c02	分散	
+U48-214	S0988	aspṛṣṭahetukaṃ	a-spṛṣṭa-hetuka	cpd. adj.	0011c19	非觸為因	对译	0171c03	非觸為因	
+U48-215	S0988	spṛṣṭaṃ yadā	spṛṣṭa	ptc.	0011c19	是觸	意译	0171c03	觸	"生於是觸"，"生"承上补出
+U48-216	S0988	yadā cayaṃ	yadā	ind.	0011c19	謂…時	语法	0171c03	若	
+U48-217	S0988	cayaṃ	caya	n.	0011c20	和合	意译	0171c03	增長	"離散物正"为增字
+U48-218	S0988	gacchati	gam	v. pres. 3sg.	0011c20	和合	合译			cayaṃ gacchati 合译"和合"
+U48-219	S0989	spṛṣṭahetukaṃ	spṛṣṭa-hetuka	cpd. adj.	0011c20	是觸為因	对译	0171c03	以觸為因	
+U48-220	S0989	spṛṣṭaṃ yadā	spṛṣṭa	ptc.	0011c20	是觸	意译	0171c04	觸	
+U48-221	S0989	cayavatāṃ	cayavat	adj. gen. pl.	0011c20	和合物	意译	0171c04	聚	
+U48-222	S0989	cayaḥ	caya	n.	0011c21	和合	意译	0171c04	共合	"復"为增字
+U48-222+1	S0989				0011c21	復	增译			合并时从 U48-222（復和合）拆出
+U48-223	S0990	aspṛṣṭahetukam	a-spṛṣṭa-hetuka	cpd. adj.	0011c21	非觸為因	对译	0171c04	非觸為因	
+U48-224	S0990	maspṛṣṭaṃ	a-spṛṣṭa	ptc.	0011c21	非觸	对译	0171c05	非觸	
+U48-225	S0990	yadā vātāyana	yadā	ind.	0011c21	謂	语法	0171c05	如	
+U48-226	S0990	vātāyanaraja	vātāyana-rajas	cpd.	0011c21	向遊塵	意译	0171c05	隙中微塵	
+U48-227	S0990	vātāyana	vātāyana	n.	0011c21	向	对译	0171c05	隙	vātāyana（窗牖）玄奘作"向"
+U48-228	S0990	raja	rajas	n.	0011c22	塵	意译	0171c05	微塵	"遊"为增字
+U48-228+1	S0990				0011c22	遊	增译			合并时从 U48-228（遊塵）拆出
+U48-229	S0990				0011c22	同類相續	增译			
+U48-230	S0991	yadi paramāṇavaḥ	yadi	ind.			省译	0171c06	若	
+U48-232	S0991	bhadantavasumitraḥ	bhadanta-vasumitra	cpd.	0011c22	尊者世友	意译	0171c05	大德婆須蜜多羅	真谛音译人名
+U48-233	S0991	bhadanta	bhadanta	n.	0011c22	尊者	对译	0171c05	大德	
+U48-234	S0991	vasumitraḥ	vasumitra	n. (人名)	0011c22	世友	意译	0171c05	婆須蜜多羅	
+U48-235	S0991	paramāṇavaḥ	paramāṇu	n. nom. pl.	0011c22	極微	对译	0171c06	隣虛	
+U48-236	S0991	spṛśeyur	spṛś	v. opt. 3pl.	0011c22	觸	对译	0171c06	觸	"相觸"
+U48-237	S0991	uttarakṣaṇāvasthānaṃ	uttara-kṣaṇa-avasthāna	cpd.	0011c23	住至後念	意译	0171c06	住至後剎那	
+U48-238	S0991	uttara	uttara	adj.	0011c23	後	对译	0171c06	後	
+U48-239	S0991	kṣaṇā	kṣaṇa	n.	0011c23	念	意译	0171c06	剎那	
+U48-240	S0991	āvasthānaṃ	avasthāna	n.	0011c23	住至	意译	0171c06	住至	
+U48-242	S0992	bhadantaḥ	bhadanta	n.	0011c23	大德	对译	0171c06	大德	"然"为增字
+U48-243	S0992				0011c23	一切極微實	增译			补出主语
+U48-244	S0992	na spṛśanti	spṛś	v. pres. 3pl.	0011c24	觸	对译	0171c07	觸	"實不相觸"
+U48-245	S0992	nirantare tu	tu	ind.	0011c24	但	语法			
+U48-246	S0992	nirantare	nirantara	adj. loc.	0011c24	無間	对译	0171c07	無間	
+U48-247	S0992	nirantare	loc.	gram. loc. (-e)	0011c24	由	语法	0171c07	於…中	第七格玄奘作"由"
+U48-248	S0992				0011c24	假立	梵本缺文	0171c07	假立	玄奘、真谛都有"假立"
+U48-249	S0992	spṛṣṭasaṃjñeti	spṛṣṭa-saṃjñā	cpd.	0011c24	觸名	对译	0171c07	觸名	
+U48-250	S0992	spṛṣṭa	spṛṣṭa	ptc.	0011c24	觸	对译	0171c07	觸	
+U48-251	S0992	saṃjñeti	saṃjñā	n.	0011c24	名	对译	0171c07	名	
+U48-252	S0992	bhadantamataṃ	bhadanta-mata	cpd.	0011c24	大德意	对译	0171c08	大德意	"此"为增字
+U48-253	S0992	mataṃ	mata	n.	0011c24	意	对译	0171c08	意	
+U48-254	S0992	caiṣṭavyam	iṣ	gdv.	0011c24	可愛樂	意译	0171c08	可受	eṣṭavya（应许、可取）
+U48-256	S0993	anyathā	anyathā	ind.	0011c25	若異此者	语法	0171c08	若不如此	
+U48-257	S0993	sāntarāṇāṃ	sa-antara	adj. gen. pl.	0011c25	有間隙	意译	0171c08	有間	定语转作谓语"應有間隙"，"應"为增字
+U48-258	S0993	paramāṇūnāṃ	paramāṇu	n. gen. pl.	0011c25	極微	对译	0171c08	隣虛	"是"为增字
+U48-260	S0993	śūnyeṣv	śūnya	adj. loc. pl.	0011c26	空	对译	0171c09	空	"既"为增字
+U48-261	S0993	antareṣu	antara	n. loc. pl.	0011c25	中間	对译	0171c08	中間	
+U48-262	S0993	gatiḥ	gati	n.	0011c26	行	对译	0171c09	行	"其"为增字
+U48-263	S0993	pratibadhyeta	prati-bandh	v. opt. pass. 3sg.	0011c26	障	对译	0171c09	斷	"誰"对 kena，kim → 誰 已足两例，不另立
+U48-264	S0994	sapratighā	sa-pratigha	adj. nom. pl.	0011c26	有對	对译	0171c09	有礙	
+U48-265	S0994	iṣyante	iṣ	v. pass. 3pl.	0011c26	許	对译	0171c09	說	"為"为增字
+U48-266	S0995	paramāṇubhyo	paramāṇu	n. abl. pl.	0011c26	極微	对译	0171c09	隣虛	
+U48-267	S0995	'nye	anya	pron.	0011c26	離	意译	0171c09	異	paramāṇubhyo 'nye（异于极微者）玄奘作"離極微"
+U48-268	S0995	saṃghātā	saṃghāta	n. nom. pl.	0011c26	和合色	意译	0171c09	聚	
+U48-269	S0996	ta eva	tad	pron. nom. pl.	0011c27	即	语法	0171c10	即是	ta eva te 译"即"
+U48-270	S0996	saṃghātāḥ	saṃghāta	n. nom. pl.	0011c27	和合	意译	0171c10	聚	
+U48-271	S0996	spṛśyante	spṛś	v. pass. 3pl.	0011c27	觸	对译	0171c10	觸	"和合相觸即觸極微"
+U48-272	S0996	paramāṇavaḥ spṛśyante	paramāṇu	n. nom. pl.	0011c27	極微	对译	0171c10	隣虛	
+U48-273	S0996	rūpyante	rūp	v. pass. 3pl.	0011c27	可變礙	意译	0171c10	可變壞	rūpyate（被变碍）为色之定义
+U48-274	S0996				0011c27	此亦應爾	增译			
+U48-275	S0997	paramāṇor	paramāṇu	n. gen.	0011c28	極微	对译	0171c11	隣虛	
+U48-276	S0997	digbhāgabhedaḥ	diś-bhāga-bheda	cpd.	0011c28	方分	意译	0171c11	方分	bheda 未译
+U48-277	S0997	dig	diś	n.	0011c28	方	对译	0171c11	方	
+U48-278	S0997	bhāga	bhāga	n.	0011c28	分	对译	0171c11	分	
+U48-279	S0997	kalpyate	kḷp (caus.)	v. pass. 3sg.	0011c28	許	意译	0171c11	言	"若有"之"有"为增字
+U48-280	S0997	spṛṣṭasyā	spṛṣṭa	ptc. gen.	0011c28	觸	对译	0171c11	觸	
+U48-281	S0997	āspṛṣṭasya	a-spṛṣṭa	ptc. gen.	0011c28	不觸	对译	0171c11	非觸	
+U48-282	S0997	āspṛṣṭasya vā	vā	ind.	0011c28	與	语法			"觸與不觸"
+U48-283	S0997	sāvayavatvaprasaṅgaḥ	sa-avayava-tva-prasaṅga	cpd.	0011c28	應有分	意译	0171c11	成有分過失	"皆"为增字
+U48-284	S0997	sāvayavatva	sa-avayava-tva	n.	0011c29	有分	对译	0171c11	有分	
+U48-285	S0997	prasaṅgaḥ	prasaṅga	n.	0011c28	應	意译	0171c11	過失	prasaṅga（推得之过）玄奘以"應"表出
+U48-286	S0998	no cet	cet	ind.	0011c29	若	语法	0171c12	若	"若無方分"，"方分"承上补出
+U48-287	S0998	spṛṣṭasyā	spṛṣṭa	ptc. gen.	0011c29	觸	对译	0171c12	觸	"設許相觸"，"設許"为增字
+U48-288	S0998	aprasaṅgaḥ	a-prasaṅga	n.	0011c29	無…過	意译			"斯"为增字；真谛此句读法不同
+U48-288+1	S0998				0011c29	斯	增译			合并时从 U48-288（無斯過）拆出
+U48-290	S0999	ebhiścakṣurādibhir	cakṣus-ādi	cpd. instr. pl.	0012a01	眼等	对译	0171c13	眼等諸根	"根"为增字
+U48-290+1	S0999				0012a01	根	增译			合并时从 U48-290（眼等根）拆出
+U48-291	S0999	ātmaparimāṇatulyasyā	ātma-parimāṇa-tulya	cpd. adj. gen.	0012a01	等量	意译	0171c13	稱其自量	ātman 玄奘移作"自境"之"自"
+U48-292	S0999	ātma	ātman	pron.	0012a01	自	意译	0171c13	自	
+U48-293	S0999	parimāṇa	parimāṇa	n.	0012a01	量	对译	0171c13	量	
+U48-294	S0999	tulyasyā	tulya	adj.	0012a01	等	对译	0171c13	稱	
+U48-295	S0999	ārthasya	artha	n. gen.	0012a01	境	对译	0171c13	塵	
+U48-296	S0999	grahaṇaṃ	grahaṇa	n.	0012a01	取	对译	0171c13	取	"唯"为增字
+U48-297	S0999	grahaṇaṃ bhavaty	bhū	v. pres. 3sg.			省译			
+U48-298	S0999	āśuvṛttyā	āśu-vṛtti	cpd. instr.	0012a01	速疾轉	对译	0171c13	事速疾	
+U48-299	S0999	āśu	āśu	ind.	0012a01	速疾	对译	0171c13	速疾	
+U48-300	S0999	vṛttyā	vṛtti	n.	0012a01	轉	对译	0171c13	事	
+U48-302	S0999	parvatādīnām	parvata-ādi	cpd. gen. pl.	0012a02	山等	意译	0171c14	大山等	"大""見"为增字
+U48-302+1	S0999				0012a02	大	增译			合并时从 U48-302（大山等）拆出
+U48-303	S0999	alātakrādivad	alāta-cakra-ādi	cpd.	0012a02	旋火輪	意译	0171c14	旋火	GRETIL 本作 alātakrādivad，当读 alātacakrādivad；ādi 未译
+U48-304	S0999	tulyātulyasya	tulya-a-tulya	cpd. adj. gen.	0012a02	等量不等量	意译	0171c14	等不等量	"通取"为增字，"量"承上补出
+U48-305	S0999	tulyā	tulya	adj.	0012a02	等量	意译	0171c14	等	
+U48-306	S0999	ātulyasya	a-tulya	adj. gen.	0012a02	不等量	意译	0171c15	不等量	
+U48-307	S1000	uktāny	vac	ptc.	0012a05	說	对译	0171c15	說	xz 在 U49 长行开头（前說至境鼻等三根）
+U48-308	S1000	uktāny	ppp.	gram. ppp. (-ta)	0012a05	前	语法	0171c15	前	过去被动分词以"前"表出（前說）
+U48-309	S1000	prāptaviṣayāṇy	prāpta-viṣaya	cpd. adj.	0012a05	至境	对译	0171c15	至到塵	
+U48-310	S1000	ebhiḥ	idam	pron. instr. pl.	0012a05	鼻等三根	意译			代词还原为所指（即下颂 tribhir ghrāṇādibhiḥ）

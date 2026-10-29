@@ -1,0 +1,43 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U29-001	S0483	muniḥ	muni	n.	0006a29	牟尼	音译	0166b26	如來	真谛意译作"如來"
+U29-002	S0483	jagau	gai	v. perf. 3sg.	0006a29	說	对译	0166b26	說	
+U29-003	S0483	dharmaskandhasahasrāṇi	dharma-skandha-sahasra	cpd. pl.	0006a29	法蘊…千	对译	0166b26	法陰…千	千与八十合为"八十千"
+U29-004	S0483	dharmaskandha	dharma-skandha	cpd.	0006a29	法蘊	对译	0166b26	法陰	
+U29-005	S0483	sahasrāṇi	sahasra	num.	0006a29	千	对译	0166b27	千	
+U29-007	S0483				0006a29	數有	增译	0166b26	其數	
+U29-008	S0483	aśītiṃ	aśīti	num.	0006a29	八十	对译	0166b26	八十	
+U29-010	S0483				0006b01	體	增译			"彼體語或名"之"體"
+U29-011	S0483	vāṅnāma	vāc	n.	0006b01	語	对译	0166b27	言	
+U29-012	S0483	vāṅnāma	nāman	n.	0006b01	名	对译	0166b27	名	
+U29-013	S0483				0006b01	此	增译			"此色行蘊攝"之"此"（此论所说的蕴）；eṣām 未译
+U29-014	S0483	rūpasaṃskārasaṃgrahaḥ	rūpa-saṃskāra-saṃgraha	cpd.	0006b01	色行…攝	对译	0166b27	色行陰所攝	"蘊"为增字
+U29-014+1	S0483				0006b01	蘊	增译			合并时从 U29-014（色行蘊攝）拆出
+U29-015	S0483	rūpa	rūpa	n.	0006b01	色	对译	0166b27	色	
+U29-016	S0483	saṃskāra	saṃskāra	n.	0006b01	行	对译	0166b27	行	
+U29-017	S0483	saṃgrahaḥ	saṃgraha	n.	0006b01	攝	对译	0166b27	所攝	
+U29-018	S0483				0006b01	蘊	增译	0166b27	陰	
+U29-019	S0484	yeṣāṃ vāk	yad	pron. gen. pl.	0006b02	諸…者	语法	0166b27	有諸師執	"…者之说"的第六格，玄奘作"諸說…者"
+U29-020	S0484				0006b02	說…說	增译			"諸說…者""彼說"的两个"說"，补出第六格所含"主张"之义
+U29-021	S0484	vāksvabhāvaṃ	vāc-svabhāva	cpd. adj.	0006b02	語為體	对译	0166b28	言音為性	
+U29-022	S0484	vāksvabhāvaṃ	vāc	n.	0006b02	語	对译	0166b28	言音	
+U29-023	S0484	svabhāvaṃ	svabhāva	n.	0006b02	體	意译	0166b28	性	
+U29-024	S0484	buddhavacanaṃ	buddha-vacana	cpd.	0006b02	佛教	对译	0166b28	佛正教	
+U29-025	S0484	buddhavacanaṃ	buddha	n.	0006b02	佛	对译	0166b28	佛	
+U29-026	S0484	vacanaṃ	vacana	n.	0006b02	教	意译	0166b28	正教	
+U29-028	S0484	teṣāṃ tāni	tad	pron. nom. pl.	0006b02	法蘊	意译			代词还原为所指（dharmaskandha）
+U29-029	S0484				0006b02	皆	增译			
+U29-030	S0484	rūpaskandhasaṃgṛhītāni	rūpa-skandha-saṃgṛhīta	cpd. ptc. pl.	0006b02	色蘊攝	对译	0166b28	色陰攝	
+U29-031	S0484	rūpaskandha	rūpa-skandha	cpd.	0006b02	色蘊	对译	0166b28	色陰	
+U29-032	S0484	saṃgṛhītāni	saṃ-grah	ptc.	0006b03	攝	对译	0166b28	攝	
+U29-033	S0485	yeṣāṃ nāma	yad	pron. gen. pl.	0006b03	諸…者	语法	0166b28	有諸師執	
+U29-034	S0485	nāmasvabhāvaṃ	nāman-svabhāva	cpd. adj.	0006b03	名為體	对译	0166b29	文句為性	
+U29-035	S0485	nāmasvabhāvaṃ	nāman	n.	0006b03	名	对译	0166b29	文句	
+U29-036	S0485	svabhāvaṃ	svabhāva	n.	0006b03	體	意译	0166b29	性	
+U29-037	S0485				0006b03	佛教	增译			承上补出 buddhavacanam
+U29-038	S0485				0006b03	法蘊皆	增译			承上补出 tāni（法蘊）及"皆"
+U29-039	S0485	saṃskāraskandhena	saṃskāra-skandha	cpd. instr.	0006b03	行蘊	对译	0166b29	行陰	
+U29-040	S0485				0006b03	攝	增译	0166b29	攝	承上补出 saṃgṛhītāni
+U29-042	S0486				0006b04	此諸	增译	0166b29	此	
+U29-043	S0486	dharmaskandhasya	dharma-skandha	cpd. gen.	0006b04	法蘊	对译	0166b29	法陰	
+U29-044	S0486				0006b04	其	增译			
+U29-045	S0486	pramāṇam	pramāṇa	n.	0006b04	量	对译	0166c01	數量	

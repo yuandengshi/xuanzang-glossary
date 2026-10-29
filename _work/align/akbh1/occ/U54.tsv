@@ -1,0 +1,157 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U54-001	S1104	pañca	pañca	num.	0013a13	五	对译	0172c15	五	
+U54-002	S1104	bāhyā	bāhya	adj.	0013a13	外	对译	0172c15	外	
+U54-003	S1104	dvivijñeyāḥ	dvi-vijñeya	cpd. gdv.	0013a13	二所識	对译	0172c15	二所知	
+U54-004	S1104	dvivijñeyāḥ	dvi	num.	0013a13	二	对译	0172c15	二	
+U54-005	S1104	vijñeyāḥ	vi-jñā	gdv.	0013a13	所識	对译	0172c15	所知	
+U54-006	S1105				0013a15	十八界中	增译			玄奘补出
+U54-007	S1105	rūpaśabagandharasaspraṣṭavyadhātavo	rūpa-śabda-gandha-rasa-spraṣṭavya-dhātu	cpd.	0013a15	色等五界	意译	0172c15	色聲香味觸界	GRETIL 本作 rūpaśaba-，当读 rūpaśabda-；玄奘约为"色等五界"
+U54-008	S1105	dhātavo	dhātu	n. nom. pl.	0013a15	界	对译	0172c15	界	
+U54-009	S1105	yathāsaṃkhyaṃ	yathā-saṃkhya	ind.	0013a15	如其次第	对译	0172c16	如其次第	
+U54-010	S1105	cakṣuḥśrotraghrāṇajihvākāyavijñānair	cakṣus-śrotra-ghrāṇa-jihvā-kāya-vijñāna	cpd. instr. pl.	0013a15	眼等五識	意译	0172c16	眼耳鼻舌身識	玄奘约为"眼等五識"
+U54-011	S1105				0013a16	各一	增译			表每界各为一识所识
+U54-012	S1105	anubhūtā	anu-bhū	ptc.	0013a16	所識	意译	0172c16	所識	anubhūta（所领受）译"所識"
+U54-013	S1105				0013a16	又總皆是	增译	0172c16	復為	
+U54-014	S1105	manovijñānena	manas-vijñāna	cpd. instr.	0013a16	意識	对译	0172c16	意識	
+U54-015	S1105	vijñāyante	vi-jñā	v. pass. 3pl.	0013a16	所識	对译	0172c16	所知	
+U54-017	S1106	ete	etad	pron. nom. pl.	0013a16	五界	意译	0172c17	此外塵	代词还原为所指"五界"
+U54-018	S1106	pratyekaṃ	pratyekam	ind.	0013a17	各	对译	0172c17	隨一	
+U54-019	S1106				0013a17	六識中	增译			
+U54-020	S1106	dvābhyāṃ	dvi	num. instr.	0013a17	二	对译	0172c17	二	
+U54-021	S1106	vijñānābhyāṃ	vijñāna	n. instr. du.	0013a17	識	对译	0172c17	識	
+U54-022	S1106	vijñeyā	vi-jñā	gdv.	0013a17	所識	对译	0172c17	所知	
+U54-023	S1106	bhavanti	bhū	v. pres. 3pl.			省译			
+U54-024	S1107	ityākhyātaṃ	iti	ind.	0013a17	由此	语法			"ity ākhyātaṃ bhavati"玄奘移前作"由此准知"
+U54-025	S1107	ākhyātaṃ	ā-khyā	ptc.	0013a17	准知	意译	0172c18	義至所顯	ākhyātaṃ bhavati（即已说明）译"准知"（据义推知）；真谛"此是義至所顯"
+U54-026	S1107	śeṣās	śeṣa	adj.	0013a17	餘	对译	0172c17	餘	
+U54-027	S1107	trayodaśa	trayodaśan	num.	0013a17	十三	对译	0172c17	十三	
+U54-028	S1107	dhātavaḥ	dhātu	n. nom. pl.	0013a17	界	对译	0172c17	界	
+U54-029	S1107				0013a17	一切	增译			
+U54-030	S1107	pañcānāṃ	pañca	num. gen.	0013a18	五	对译	0172c17	五	
+U54-031	S1107	vijñānakāyānām	vijñāna-kāya	cpd. gen. pl.	0013a18	識身	对译	0172c17	識	
+U54-032	S1107	aviṣayatvād	a-viṣaya-tva	n. abl.	0013a18	非…所緣境	意译	0172c17	非…境	viṣaya 译"所緣境"；第五格"故"另记
+U54-033	S1107	aviṣaya	viṣaya	n.	0013a18	所緣境	意译	0172c18	境	
+U54-035	S1107	ekena	eka	num. instr.	0013a18	唯	意译	0172c18	唯一	ekena（唯一）译"唯"
+U54-036	S1107	manovijñānena	manas-vijñāna	cpd. instr.	0013a18	意識	对译	0172c18	意識界	
+U54-037	S1107	vijñeyā	vi-jñā	gdv.	0013a18	所識	对译	0172c18	所知	
+U54-038	S1108	aṣṭādaśānāṃ	aṣṭādaśan	num. gen.	0013a11	十八	合译	0172c18	十八	玄奘把三问并作一句，"十八界中"为 S1102 与本句共用
+U54-039	S1108	dhātūnāṃ	dhātu	n. gen. pl.	0013a11	界	合译	0172c19	界	同上
+U54-040	S1108	madhye	madhya	n. loc.	0013a11	中	合译	0172c19	中	同上
+U54-043	S1108	nityāḥ	nitya	adj.	0013a12	常	对译	0172c19	常住	
+U54-044	S1108	anityāḥ	a-nitya	adj.	0013a12	無常	对译	0172c19	無常	
+U54-045	S1109				0013a18	十八界中	增译			玄奘补出
+U54-048	S1109	kaśct	kaścit	pron.	0013a19	一	意译	0172c19	一	GRETIL 本作 kaśct，当读 kaścit；na kaścit（无任何）译"無有一"
+U54-049	S1109	sakalo	sakala	adj.	0013a19	全	对译	0172c19	具足	
+U54-050	S1109	nityo	nitya	adj.	0013a19	常	对译	0172c19	常住	
+U54-051	S1109	dhātur	dhātu	n.	0013a19	界	对译	0172c19	界	
+U54-052	S1109	api tu	api tu	ind.	0013a19	唯	意译	0172c20	雖爾	api tu（然而）引出下颂，玄奘作"唯"
+U54-053	S1110	nityā	nitya	adj.	0013a13	常	对译	0172c20	常住	
+U54-054	S1110	dharmā	dharma	n. nom. pl.	0013a13	法	意译	0172c20	法	"界"为补出（法界）
+U54-054+1	S1110				0013a13	界	增译			合并时从 U54-054（法界）拆出
+U54-055	S1110	asaṃskṛtāḥ	a-saṃskṛta	ptc. adj.	0013a13	無為	对译	0172c20	無為	
+U54-056	S1111	dhārmadhātvekadeśo	dharma-dhātu-eka-deśa	cpd.	0013a19	法一分	意译	0172c20	法界一分	GRETIL 本作 dhārma-，当读 dharma-；dhātu 未译
+U54-057	S1111	ekadeśo	eka-deśa	cpd.	0013a19	一分	对译	0172c20	一分	
+U54-058	S1111				0013a19	無為	增译	0172c20	無為	取自本颂 asaṃskṛta
+U54-059	S1111	nityaḥ	nitya	adj.	0013a19	常	对译	0172c21	常住	
+U54-060	S1111	tena	tad	pron. instr.	0013a20	義准	意译			待核："義准"（据义可推）或即 tena（由此）的意译，亦可能为玄奘增出
+U54-061	S1111	śeṣā	śeṣa	adj.	0013a20	法餘餘界	意译	0172c21	餘界	śeṣāḥ（其余）具列为"法餘、餘界"（法界其余部分及其余诸界）
+U54-062	S1111	anityāḥ	a-nitya	adj.	0013a20	無常	对译	0172c21	無常	
+U54-064	S1112	katīndriyaṃ	indriya	n.	0013a12	根	对译	0172c21	根	
+U54-065	S1112	nendriyam	indriya	n.	0013a12	根	对译	0172c22	根	
+U54-066	S1113	dharmārdham	dharma-ardha	cpd.	0013a14	法一分	意译	0172c22	法界半	ardha（半）译"一分"
+U54-067	S1113	ārdham	ardha	n.	0013a14	一分	意译	0172c22	半	
+U54-068	S1113	indriyaṃ	indriya	n.	0013a14	根	对译	0172c22	根	
+U54-069	S1113				0013a14	是	增译	0172c22	名	
+U54-070	S1113	ye ca	ca	ind.	0013a14	并	语法	0172c22	及	
+U54-072	S1113	dvādaśā	dvādaśan	num.	0013a14	十二	对译	0172c22	十二	
+U54-073	S1113	ādhyātmikāḥ	ādhyātmika	adj.	0013a14	內	意译	0172c22	我依	"界"为补出
+U54-073+1	S1113				0013a14	界	增译			合并时从 U54-073（內界）拆出
+U54-074	S1113	smṛtāḥ	smṛ	ptc.			省译			smṛta（所传说）未译
+U54-075	S1114				0013a20	又	增译			
+U54-076	S1114	dvāviṃśatir	dvāviṃśati	num.	0013a20	二十二	对译	0172c23	二十二	
+U54-077	S1114	indriyāṇy	indriya	n. nom. pl.	0013a20	根	对译	0172c23	根	
+U54-078	S1114	uktāni	vac	ptc.	0013a20	說	对译	0172c23	說	
+U54-079	S1114	sūtre	sūtra	n. loc.	0013a20	經	对译	0172c23	經	
+U54-082	S1115	cakṣurindriyaṃ	cakṣus-indriya	cpd.	0013a21	眼根	对译	0172c23	眼根	
+U54-083	S1115	cakṣurindriyaṃ	indriya	n.	0013a21	根	对译	0172c23	根	二十二根的 indriya 皆译"根"
+U54-084	S1115	śrotrendriyaṃ	śrotra-indriya	cpd.	0013a21	耳根	对译	0172c24	耳根	
+U54-085	S1115	ghrāṇendriyaṃ	ghrāṇa-indriya	cpd.	0013a21	鼻根	对译	0172c24	鼻根	
+U54-086	S1115	jihvendriyaṃ	jihvā-indriya	cpd.	0013a21	舌根	对译	0172c24	舌根	
+U54-087	S1115	kāyendriyaṃ	kāya-indriya	cpd.	0013a21	身根	对译	0172c24	身根	
+U54-088	S1115	manaindriyaṃ	manas-indriya	cpd.	0013a21	意根	对译	0172c24	意根	梵本作 manaindriya
+U54-089	S1115	strīndriyaṃ	strī-indriya	cpd.	0013a21	女根	对译	0172c24	女根	
+U54-090	S1115	puruṣendriyaṃ	puruṣa-indriya	cpd.	0013a21	男根	对译	0172c24	男根	
+U54-091	S1115	jīvitendriyaṃ	jīvita-indriya	cpd.	0013a21	命根	对译	0172c24	命根	
+U54-092	S1115	sukhendriyaṃ	sukha-indriya	cpd.	0013a22	樂根	对译	0172c24	樂根	
+U54-093	S1115	duḥkhendriyaṃ	duḥkha-indriya	cpd.	0013a22	苦根	对译	0172c25	苦根	
+U54-094	S1115	saumanasyendriyaṃ	saumanasya-indriya	cpd.	0013a22	喜根	对译	0172c25	喜根	
+U54-095	S1115	daurmanasyendraiyaṃ	daurmanasya-indriya	cpd.	0013a22	憂根	对译	0172c25	憂根	GRETIL 本作 -endraiyaṃ
+U54-096	S1115	upekṣendriyaṃ	upekṣā-indriya	cpd.	0013a22	捨根	对译	0172c25	捨根	
+U54-097	S1115	śraddhendriyaṃ	śraddhā-indriya	cpd.	0013a22	信根	对译	0172c25	信根	
+U54-098	S1115	vīryendriyaṃ	vīrya-indriya	cpd.	0013a22	勤根	对译	0172c25	精進根	
+U54-099	S1115	smṛtīndriyaṃ	smṛti-indriya	cpd.	0013a22	念根	对译	0172c25	念根	
+U54-100	S1115	smādhīndriyaṃ	samādhi-indriya	cpd.	0013a22	定根	对译	0172c25	定根	GRETIL 本作 smādhī-，当读 samādhī-
+U54-101	S1115	prajñendariyaṃ	prajñā-indriya	cpd.	0013a23	慧根	对译	0172c26	慧根	GRETIL 本作 -endariyaṃ
+U54-102	S1115	anājñātamājñāsyāmīndariyam	anājñātam-ājñāsyāmi-indriya	cpd.	0013a23	未知當知根	对译	0172c26	未知欲知根	GRETIL 本作 -īndariyam
+U54-103	S1115	anājñātam	an-ājñāta	ptc.	0013a23	未知	对译	0172c26	未知	
+U54-104	S1115	ājñāsyāmī	ā-jñā	v. fut. 1sg.	0013a23	知	对译	0172c26	知	
+U54-106	S1115	ājñāsyāmī	1sg.	gram. 1sg. (-mi)			省译			第一人称未译
+U54-107	S1115	ājñendriyaṃ	ājñā-indriya	cpd.	0013a23	已知根	对译	0172c26	知根	
+U54-108	S1115	ājñātāvīndriyam	ājñātāvin-indriya	cpd.	0013a23	具知根	对译	0172c26	知已根	
+U54-109	S1116	ābhidhārmikās	ābhidhārmika	n. nom. pl.	0013a23	阿毘達磨…大論師	音译	0172c26	阿毘達磨師	音译"阿毘達磨"加意译"大論師"；复数"諸"另记
+U54-112	S1116				0013a24	皆	增译			
+U54-113	S1116				0013a24	經中	增译			
+U54-114	S1116	ṣaḍāyatanavyavasthānam	ṣaḍ-āyatana-vyavasthāna	cpd.	0013a24	六處次第	意译	0172c27	安立六內入次第	
+U54-115	S1116	ṣaḍāyatana	ṣaḍ-āyatana	cpd.	0013a24	六處	对译	0172c27	六內入	
+U54-116	S1116	vyavasthānam	vyavasthāna	n.	0013a24	次第	意译	0172c27	安立…次第	vyavasthāna（安立、排列）译"次第"
+U54-117	S1116	ādṛtya	ā-dṛ	abs.	0013a24	越	意译	0172c27	破	待核：GRETIL 作 ādṛtya（尊重、依从），二译作"越""破"，疑当读 anādṛtya（不顾）
+U54-118	S1116	jīvitendriyānantaraṃ	jīvita-indriya-anantara	cpd. ind.	0013a24	命根後	意译	0172c27	命根後	"於"为补出（另记）
+U54-119	S1116	jīvitendriyā	jīvita-indriya	cpd.	0013a24	命根	对译	0172c27	命根	
+U54-120	S1116	ānantaraṃ	anantaram	ind.	0013a24	後	意译	0172c27	次…後	anantaram（紧接其后）译"後"
+U54-121	S1116				0013a24	於	增译			
+U54-122	S1116	manaindriyaṃ	manas-indriya	cpd.	0013a25	意根	对译	0172c27	意根	
+U54-123	S1116	paṭhanti	paṭh	v. pres. 3pl.	0013a25	說	意译	0172c27	說	paṭhanti（诵列）译"說"
+U54-124	S1116				0013a25	方	增译			
+U54-125	S1117	sālambanatvāt	sa-ālambana-tva	n. abl.	0013a25	有所緣	对译	0172c28	能緣境	第五格译"故"
+U54-126	S1118				0013a25	如是所說二十二根，十八界中內十二界法一分攝	增译			玄奘增出总括语
+U54-128	S1118	dharmārdhaṃ	dharma-ardha	cpd.	0013a26	法一分	意译	0172c28	法界半	长行释本颂 dharmārdha
+U54-129	S1118	jīvitendriyādīny	jīvita-indriya-ādi	cpd.	0013a26	命等	意译	0172c28	命等	jīvitendriya 略作"命"
+U54-130	S1118	ekādaśendriyāṇi	ekādaśa-indriya	cpd.	0013a27	十一	意译	0172c28	十一根	indriya 未译
+U54-131	S1118	trayāṇāṃ	traya	num. gen.	0013a27	三	意译	0172c28	三根	"後"为补出（指最后三根）
+U54-131+1	S1118				0013a27	後	增译			合并时从 U54-131（後三）拆出
+U54-132	S1118	bhāgo	bhāga	n.	0013a27	一分	意译	0172c29	分	
+U54-133	S1118	dharmadhātupradeśatvāt	dharma-dhātu-pradeśa-tva	cpd. abl.	0013a27	法界攝	意译	0172c29	法界一分	pradeśa（部分）未译，以"攝"表归属；第五格译"故"
+U54-134	S1118	dharmadhātu	dharma-dhātu	cpd.	0013a27	法界	对译	0172c29	法界	
+U54-135	S1118	pradeśatvāt	pradeśa	n.			省译	0172c29	一分	
+U54-136	S1119	dvādaśānām	dvādaśan	num. gen.	0013a27	十二	对译	0172c29	十二	
+U54-137	S1119	ādhyātmikānāṃ	ādhyātmika	adj. gen. pl.	0013a27	內	对译	0172c29	我依	
+U54-138	S1119	cakṣurādayaḥ	cakṣus-ādi	cpd.	0013a27	眼等	对译	0172c29	眼等	
+U54-139	S1119	pañca	pañca	num.	0013a28	五	对译	0172c29	五	
+U54-140	S1119				0013a28	根	增译	0172c29	根	
+U54-141	S1119	svanāmoktāḥ	sva-nāma-ukta	cpd. ptc.	0013a28	自名攝	意译	0172c29	如自名所說	"如"为补出
+U54-141+1	S1119				0013a28	如	增译			合并时从 U54-141（如自名攝）拆出
+U54-142	S1119	svanām	sva-nāman	cpd.	0013a28	自名	对译	0173a01	自名	
+U54-143	S1119	oktāḥ	vac	ptc.	0013a28	攝	意译	0173a01	所說	ukta（所说）译"攝"（如自名攝）
+U54-144	S1120	sapta	saptan	num.	0013a28	七	对译	0173a01	七	
+U54-145	S1120	cittadhātavo	citta-dhātu	cpd. nom. pl.	0013a28	心界	对译	0173a01	心界	
+U54-146	S1120	manaindriyaṃ	manas-indriya	cpd.	0013a28	意根	对译	0173a01	意根	
+U54-147	S1120				0013a28	通是…攝	增译	0173a01	名	"意根通是七心界攝"，以"攝"表归属
+U54-148	S1120				0013a28	後三一分意意識攝	增译			玄奘增出；GRETIL、真谛皆无
+U54-149	S1120	stripuruṣendriye	strī-puruṣa-indriya	cpd. du.	0013a29	女根、男根	对译	0173a01	女根男根	GRETIL 本作 stri-，当读 strī-
+U54-150	S1120	kāyadhātupradeś	kāya-dhātu-pradeśa	cpd.	0013a29	身界一分	对译	0173a01	身界一分	GRETIL 本作 kāyadhātupradeś，当读 kāyadhātupradeśa
+U54-151	S1120	pradeś	pradeśa	n.	0013a29	一分	对译	0173a02	一分	
+U54-152	S1120				0013a29	即是…所攝	增译			
+U54-153	S1120	paścād	paścāt	ind.	0013b01	後	对译	0173a02	後	
+U54-154	S1120				0013b01	如	增译			"如後當辯"
+U54-155	S1120	vakṣyati	vac	v. fut. 3sg.	0013b01	辯	意译	0173a02	說	
+U54-156	S1121	nendriyamiti siddham	siddha	ptc.	0013b01	義准	意译	0173a02	成立	"iti siddham"（由此成立）玄奘移前作"義准"
+U54-157	S1121	śeṣāḥ	śeṣa	adj.	0013b01	所餘	对译	0173a02	所餘	
+U54-158	S1121				0013b01	色等	增译			
+U54-159	S1121	pañca	pañca	num.	0013b01	五	对译	0173a02	五	
+U54-160	S1121	dhātavo	dhātu	n. nom. pl.	0013b01	界	对译	0173a02	界	
+U54-161	S1121	dharmadhātupradeśaś	dharma-dhātu-pradeśa	cpd.	0013b01	法界一分	对译	0173a02	法界一分	
+U54-162	S1121				0013b02	皆體	增译			
+U54-163	S1121	nendriyam	indriya	n.	0013b02	根	对译	0173a03	根	
+U54-164	S1122	abhidharmakośabhāṣye dhātunirdeśo nāma	abhidharmakośabhāṣye dhātunirdeśo nāma	formula			省译			品末题名，玄奘无对应（0013b03 仅有卷末题"說一切有部俱舍論卷第二"）；真谛亦无
+U54-165	S1123	prathamaṃ kośasthānaṃ samāptam iti	prathamaṃ kośasthānaṃ samāptam	formula			省译			品末结束语，玄奘、真谛皆无对应
+U54-166	S1124	ye dharmā hetuprabhavā	ye dharmā hetuprabhavā …	formula			省译			抄本所附缘起偈（ye dharmā hetuprabhavā…），非论文，玄奘、真谛皆无

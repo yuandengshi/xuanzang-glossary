@@ -1,0 +1,17 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U32-009	S0515	chidramity	iti	ind.	0006c10	如是	语法	0166c29	若說	"chidram ity ucyamānam"（所谓竅隙）玄奘作"如是竅隙"
+U32-011	S0515	kiṃ veditavyam	kim	pron.	0006c10	云何	语法	0167a01	何法	
+U32-024	S0517	gṛhyate	pass.	gram. pass. (-ya-)	0006c11	可	语法	0167a02	可	被动式译"可取"
+U32-040	S0519	rūpamityucyate	iti	ind.	0006c12	名	语法	0167a03	名	"說名"
+U32-043	S0520	aghaṃ kila	kila	ind.	0006c13	傳說	语法	0167a03	彼說	
+U32-056	S0522	rūpasyetyapare	iti	ind.	0006c15	說	语法	0167a05	釋	
+U32-062	S0522	tatrāpratighātāt	tatra	ind.	0006c15	此中	语法	0167a06	於此	
+U32-078	S0524	nocyate	na	ind.	0006c17	不	语法	0167a07	不	
+U32-093	S0526	ete hi	pl.	gram. nom. pl. (-e)	0006c19	諸	语法			复数以"諸"表出（如是諸界）
+U32-094	S0526	ete hi	hi	ind.	0006c19	故	语法			表原因，句末作"故"
+U32-099	S0526	yāvat	yāvat	ind.	0006c19	至	语法	0167a09	乃至	
+U32-105	S0527	anāsravāstu	pl.	gram. nom. pl. (-āḥ)	0006c20	諸	语法			复数以"諸"表出
+U32-106	S0527	anāsravāstu	tu	ind.	0006c20	則	语法	0167a09	若	
+U32-108	S0527	naivamiti	evam	ind.	0006c20	如是	语法	0167a09	如此	
+U32-109	S0528	tadevaṃ satye	loc. abs.	gram. loc. abs. (sati)			省译	0167a10	如此	tad evaṃ sati（既然如此）玄奘未译
+U32-126	S0529	ye punarime	yad	pron. nom. pl.	0007a07	所	语法	0167a11	是…所	"所說"

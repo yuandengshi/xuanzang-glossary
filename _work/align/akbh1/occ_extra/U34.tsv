@@ -1,0 +1,60 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U34-036	S0592	tatra hi	tatra	ind.			省译	0167c03	於色界中	真谛还原为所指"色界"
+U34-037	S0592	hi	hi	ind.			省译			
+U34-042	S0593	tayoḥ	tad	pron. gen. du.			省译	0167c03	此二	
+U34-046	S0593	āhāratvāt	-tva (abstract)	gram. suffix	0007c01	性	语法	0167c03	類	抽象后缀 -tva 以"性"表出
+U34-047	S0593	āhāratvāt	abl.	gram. abl. (-āt)	0007c01	故	语法	0167c03	故	第五格表原因
+U34-051	S0593	ca	ca	ind.			省译			
+U34-056	S0594	tato	tatas	ind.			省译			
+U34-061	S0594	api	api	ind.			省译	0167c05	亦	
+U34-067	S0595	ābhāvāt	abl.	gram. abl. (-āt)	0007c02	故	语法	0167c05	故	
+U34-068	S0596	evaṃ tarhi	evaṃ tarhi	ind.	0007c02	若爾	语法	0167c05	若爾	设难之辞
+U34-080	S0597	nāhāra	na	ind.	0007c03	非	语法	0167c06	非	
+U34-085	S0597	tatrāsti	as	v. pres. 3sg.	0007c03	有	对译	0167c07	有	"彼所有觸"
+U34-088	S0597	gandharasayorapy	api	ind.	0007c04	亦	语法	0167c07	亦	
+U34-092	S0598	nāsti	na	ind.	0007c04	無	语法	0167c08	無	na … asti 译"無"
+U34-098	S0599	asti tu	as	v. pres. 3sg.	0007c05	有	对译	0167c08	有	
+U34-099	S0599	asti tu	tu	ind.			省译			
+U34-108	S0600	tasmād	tasmāt	ind.			省译	0167c10	是故	
+U34-120	S0601	punar	punar	ind.			省译			
+U34-121	S0601	āhuḥ	ah	v. perf. 3pl.	0007c06	說	对译	0167c10	說	
+U34-141	S0604	ata	atas	ind.	0007c08	是故	语法	0167c12	是故	
+U34-142	S0604	eṣāmeva	etad	pron. gen. pl.	0007c08	此	语法	0167c12	此	
+U34-151	S0604	na gandharasayor	na	ind.	0007c09	不爾	语法	0167c13	不爾	
+U34-153	S0604	gandharasayoriti	iti	ind.	0007c09	故	语法			引述他师之说的 iti，以"故…"作结
+U34-155	S0605	evaṃ tarhi	evaṃ tarhi	ind.	0007c09	若爾	语法	0167c13	若爾	
+U34-167	S0606	asti	as	v. pres. 3sg.	0007c11	有	对译	0167c14	有	
+U34-169	S0607	hi vinā	hi	ind.	0007c11	謂	语法			解释性的 hi 译"謂"
+U34-174	S0607	na syād	na	ind.			省译	0167c15	醜陋	梵文"离此二则身无庄严"，玄奘改为肯定说法
+U34-175	S0607	syād	as	v. opt. 3sg.			省译			
+U34-176	S0607	syāditi	iti	ind.			省译			
+U34-179	S0607	vyavahārśca	ca	ind.	0007c11	及	对译			"起言說及莊嚴身"，玄奘倒序
+U34-181	S0608	yadyetat	etad	pron. nom.			省译	0167c16	如此	玄奘把 etat prayojanam 与 śobhārtham vacanārtham 合为"若為嚴身及起說用"
+U34-190	S0608	vacanārthaṃ ca	ca	ind.	0007c11	及	对译	0167c16	及以	
+U34-195	S0609	nānindriyam	na	ind.	0007c13	無	语法	0167c17	無	"依處亦無"
+U34-204	S0609	puruṣendriyādhiṣṭhānavat	-vat	gram. suffix	0007c12	如	语法	0167c17	如	比况后缀 -vat
+U34-217	S0612	ato	atas	ind.	0007c14	故	语法	0167c19	是故	"鼻舌依處彼有用故，離根應有"
+U34-218	S0612	'sya	idam	pron. gen.			省译	0167c19	此	
+U34-230	S0614	yathā	yathā	ind.	0007c15	如	语法	0167c20	如	举例
+U34-236	S0614	syānnāma	as	v. opt. 3sg.	0007c16	有	意译	0167c21	可生	syāt nāma（容或有）以"有雖…"表出
+U34-241	S0615	kaśca	kim	pron. nom.	0007c16	何	语法	0167c21	何	
+U34-272	S0618	puruṣendraiyamapi	api	ind.	0007c19	亦	语法			
+U34-273	S0618	vā kiṃ	vā	ind.	0007c18	或	语法			
+U34-279	S0618	aśobhākaratvāt	abl.	gram. abl. (-āt)	0007c19	由	语法	0167c25	由…故	第五格表原因
+U34-283	S0619	kiṃ na	kim	pron.	0007c20	何	语法	0167c25	云何	
+U34-287	S0620	na ca	ca	ind.	0007c20	又	语法			
+U34-288	S0620	na ca	na	ind.	0007c20	非	语法	0167c25	不	
+U34-294	S0620	kiṃ tarhi	kiṃ tarhi	ind.			省译	0167c26	云何生	玄奘略去设问，径接"若有因力"
+U34-302	S0621	aśobhākarasyāpi	api	ind.	0007c21	雖	语法	0167c26	雖復	表让步
+U34-306	S0621	syādeva	as	v. opt. 3sg.	0007c22	應	语法	0167c27	必應	祈愿式 syāt 译"應"
+U34-311	S0622	tarhi	tarhi	ind.	0007c22	若爾	语法			
+U34-323	S0624	ndriyāṇi	pl.	gram. nom. pl. (-āṇi)	0007c24	諸	语法			复数以"諸"表出
+U34-329	S0624	'tra	atra	ind.			省译			
+U34-333	S0625	syāt	as	v. opt. 3sg.	0007c25	有	对译	0168a01	有	
+U34-335	S0626	evaṃ	evam	ind.	0007c25	如是	语法	0168a01	如此	
+U34-344	S0627	ndriye	du.	gram. du. (-e)	0007c25	二	语法	0168a02	二	双数以"二"表出
+U34-347	S0628	hi	hi	ind.	0007c26	以	语法			
+U34-394	S0631	rato 'tra	atas	ind.	0008a01	故	语法	0168a07	是故	
+U34-410	S0632	kati sāsravāḥ	kati	pron. interrog.	0008a03	幾	语法	0168a07	幾	
+U34-412	S0632	katyanāsravāḥ	kati	pron. interrog.	0008a04	幾	语法	0168a08	幾	
+U34-414	S0632	ya ete	yad	pron. nom.			省译			此句（"前所说意、法、意识界"）玄奘未译，真谛作"意法識三界，前所說"（0168a08）；此句实属下颂 1.31b 之引语

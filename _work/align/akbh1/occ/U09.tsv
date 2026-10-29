@@ -1,0 +1,89 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U09-001	S0130	tadvijñānāśrayā	tad-vijñāna-āśraya	cpd.	0002b12	彼識依	对译	0163a07	此識依	
+U09-003	S0130	vijñānāśrayā	vijñāna	n.	0002b12	識	对译	0163a07	識	
+U09-004	S0130	āśrayā	āśraya	n.	0002b12	依	对译	0163a07	依	
+U09-005	S0130	rūpaprasādāś	rūpa-prasāda	cpd.	0002b12	淨色	对译	0163a07	淨色	玄奘倒序作"淨色"
+U09-006	S0130	rūpaprasādāś	rūpa	n.	0002b12	色	对译	0163a07	色	
+U09-007	S0130	prasādāś	prasāda	n.	0002b12	淨	对译	0163a07	淨	
+U09-008	S0130	cakṣurādayaḥ	cakṣus-ādi	cpd.	0002b12	眼等	对译	0163a07	眼等	
+U09-009	S0130				0002b12	名	增译	0163a07	說名	
+U09-010	S0130				0002b12	五根	增译	0163a08	根	补出"五根"，承上颂
+U09-011	S0131				0002b13	彼謂	增译			复述颂文"彼"并以"謂"释之；释义"前說色等五境"取自 S0129
+U09-012	S0131				0002b13	識即	增译			复述颂文"識"，以"即"释之
+U09-013	S0131	rūpaśabdagandharasaspraṣṭavyavijñānānām	rūpa-śabda-gandha-rasa-spraṣṭavya-vijñāna	cpd. gen. pl.	0002b13	色、聲、香、味、觸識	对译	0163a08	色聲香味觸，識	
+U09-014	S0131	rūpaśabda	rūpa	n.	0002b13	色	对译	0163a08	色	
+U09-015	S0131	śabda	śabda	n.	0002b13	聲	对译	0163a08	聲	
+U09-016	S0131	gandha	gandha	n.	0002b13	香	对译	0163a08	香	
+U09-017	S0131	rasa	rasa	n.	0002b13	味	对译	0163a08	味	
+U09-018	S0131	spraṣṭavya	spraṣṭavya	gdv. n.	0002b13	觸	对译	0163a08	觸	
+U09-019	S0131	vijñānānām	vijñāna	n. gen. pl.	0002b14	識	对译	0163a08	識	
+U09-020	S0131				0002b14	彼識	增译			复述"彼識"
+U09-021	S0131	āśrayabhūtā	āśraya-bhūta	cpd. adj.	0002b14	所依	对译	0163a08	所依止	-bhūta 未译
+U09-022	S0131	ye pañca rūpātmakāḥ prasādāste	yad … tad	gram. rel.-cor.	0002b14	即是	语法	0163a09	是	关系-相关句 ye … te 以"…即是…"表出
+U09-023	S0131	pañca	pañca	num.	0002b14	五	对译	0163a08	五	"種"为量词，另记增译
+U09-024	S0131				0002b14	種	增译	0163a08	種	量词
+U09-025	S0131	rūpātmakāḥ	rūpa-ātmaka	adj.	0002b14	色	意译	0163a08	色	-ātmaka（以…为体）未译
+U09-026	S0131	prasādāste	prasāda	n.	0002b14	淨	对译	0163a08	淨	
+U09-027	S0131	yathākramaṃ	yathākramam	ind.	0002b14	如其次第	对译	0163a09	次第	
+U09-028	S0131	cakṣuḥśrotraghrāṇajihvākāyā	cakṣus-śrotra-ghrāṇa-jihvā-kāya	cpd.	0002b15	眼等五根	意译	0163a09	眼耳鼻舌身根	玄奘略作"眼等五根"
+U09-029	S0131	veditavyāḥ	vid	gdv.	0002b14	知	对译	0163a09	知	
+U09-030	S0131	veditavyāḥ	gdv.	gram. gdv. (-tavya)	0002b14	應	语法	0163a09	應	gerundive 表应当，译"應"
+U09-031	S0132	yathoktaṃ	yathā	ind.	0002b15	如	语法	0163a09	如	
+U09-032	S0132	yathoktaṃ	vac	ptc.	0002b15	說	对译	0163a09	言	
+U09-033	S0132	bhagavatā	bhagavat	n. instr.	0002b15	世尊	对译	0163a09	佛世尊	
+U09-034	S0132	bhikṣo	bhikṣu	n. voc.	0002b15	苾芻	音译	0163a09	比丘	真谛音译"比丘"
+U09-035	S0132				0002b15	當知	增译			补出呼告语"當知"
+U09-036	S0132	cakṣur	cakṣus	n.	0002b15	眼	对译	0163a10	眼	
+U09-037	S0132				0002b15	謂	增译	0163a10	是	
+U09-038	S0132	ādhyātmikam	ādhyātmika	adj.	0002b15	內	对译	0163a10	內	
+U09-039	S0132	āyatanaṃ	āyatana	n.	0002b16	處	对译	0163a10	入	真谛 āyatana 译"入"
+U09-040	S0132	catvāri	catur	num.	0002b16	四	对译	0163a10	四	
+U09-041	S0132	mahābhūtāny	mahā-bhūta	cpd.	0002b16	大	意译	0163a10	大	此处作"四大"，他处作"大種"
+U09-042	S0132	upādāya	upa-ā-dā	abs.	0002b16	所造	意译	0163a10	成	upādāya（依…而有）译"所造"
+U09-043	S0132	rūpa prasāda	rūpa-prasāda	cpd.	0002b16	淨色	对译	0163a10	淨色	GRETIL 本作 rūpa prasāda
+U09-044	S0132				0002b16	為性	增译	0163a10	性	
+U09-045	S0132	iti vistaraḥ	iti vistaraḥ	ind.	0002b16	如是廣說	语法	0163a10	如此廣	固定说法，表"以下从略"
+U09-046	S0133				0002b16	或復	增译	0163a11	復次	另一解释；GRETIL 本此处无 athavā 一类词
+U09-047	S0133				0002b16	彼者，謂	增译			复述颂文"彼"
+U09-049	S0133	cakṣurādīny	cakṣus-ādi	cpd.	0002b17	眼等	对译	0163a11	眼等	
+U09-050	S0133	uktani	vac	ptc.	0002b17	說	对译	0163a11	說	GRETIL 本作 uktani，当读 uktāni
+U09-051	S0133				0002b17	五根	增译	0163a11	五根	
+U09-052	S0133				0002b17	識即眼、耳、鼻、舌、身識	增译			玄奘仿前解补出
+U09-053	S0133	tadvijñānāśrayā	tad-vijñāna-āśraya	cpd.	0002b18	彼識所依	对译	0163a11	此識依	
+U09-054	S0133	vijñānāśrayā	vijñāna	n.	0002b18	識	对译	0163a11	識	
+U09-055	S0133	āśrayā	āśraya	n.	0002b18	所依	对译	0163a11	依	
+U09-056	S0133	rūpaprasādāś	rūpa-prasāda	cpd.	0002b18	淨色	对译	0163a11	淨色	"五種"为增字
+U09-057	S0133				0002b18	五種	增译			
+U09-058	S0133				0002b18	名	增译	0163a11	說名	
+U09-059	S0133	cakṣurādayaḥ	cakṣus-ādi	cpd.	0002b18	眼等根	意译	0163a12	眼等根	补"根"
+U09-060	S0134				0002b18	是	增译			
+U09-061	S0134	cakṣurvijñānādyāśrayā	cakṣus-vijñāna-ādi-āśraya	cpd.	0002b18	眼等識所依止	对译	0163a12	眼根等識依止	
+U09-062	S0134	cakṣur	cakṣus	n.	0002b18	眼	对译	0163a12	眼根	
+U09-063	S0134	vijñānādy	vijñāna	n.	0002b19	識	对译	0163a12	識	
+U09-064	S0134	ādyāśrayā	ādi	n.	0002b18	等	对译	0163a12	等	
+U09-065	S0134	āśrayā	āśraya	n.	0002b19	所依止	对译	0163a12	依止	
+U09-066	S0134	ityarthaḥ	artha	n.	0002b19	義	对译	0163a12	義	
+U09-068	S0135	kṛtvā	kṛ	abs.			省译	0163a12	立	evaṃ kṛtvā（如此解释）只译"如是"；真谛作"若立此義"
+U09-069	S0135	prakaraṇagraṇtho	prakaraṇa-grantha	cpd.	0002b19	品類足論	意译	0163a13	分別道理論	GRETIL 本作 graṇtho
+U09-070	S0135	prakaraṇa	prakaraṇa	n.	0002b19	品類足	意译	0163a13	分別道理	书名
+U09-071	S0135	graṇtho	grantha	n.	0002b19	論	对译	0163a13	論	
+U09-072	S0135	'pyanuvṛtto	api	ind.	0002b19	便	意译			api（也就）译"便"
+U09-073	S0135	anuvṛtto	anu-vṛt	ptc.	0002b19	順	对译	0163a13	順	
+U09-074	S0135	bhavati	bhū	v. pres. 3sg.			省译			分词谓语后的 bhavati 未译
+U09-075	S0135				0002b19	如彼論說	增译	0163a13	彼論云	引论文
+U09-076	S0135	cakṣuḥ katamat	cakṣus	n.	0002b20	眼	对译	0163a13	眼根	"根"为增字
+U09-077	S0135				0002b20	根	增译	0163a13	根	
+U09-079	S0136	cakṣurvijñānāśrayo	cakṣus-vijñāna-āśraya	cpd.	0002b20	眼識所依	对译	0163a14	眼識依止	
+U09-080	S0136	cakṣur	cakṣus	n.	0002b20	眼	对译	0163a14	眼	
+U09-081	S0136	vijñānāśrayo	vijñāna	n.	0002b20	識	对译	0163a14	識	
+U09-082	S0136	āśrayo	āśraya	n.	0002b20	所依	对译	0163a14	依止	
+U09-083	S0136	rūpaprasāda	rūpa-prasāda	cpd.	0002b20	淨色	对译	0163a14	清淨色	
+U09-084	S0136				0002b20	為性	增译			
+U09-085	S0136	iti vistaraḥ	iti vistaraḥ	ind.	0002b20	如是廣說	语法			
+U09-086	S0137	nirddiṣṭāni	nir-diś	ptc.	0002b21	說	对译	0163a14	說	GRETIL 本作 nirddiṣṭāni
+U09-088	S0137	pañcendriyāṇi	pañca-indriya	cpd.	0002b21	五根	对译	0163a14	五根	
+U09-089	S0138	arthāḥ	artha	n.	0002b21	境	意译	0163a14	塵	
+U09-090	S0138	pañcā	pañca	num.	0002b21	五	对译	0163a14	五	GRETIL 本作 pañcā
+U09-091	S0138	nirddeśyāḥ	nir-diś	gdv.	0002b21	說	对译	0163a14	說	
+U09-092	S0138	nirddeśyāḥ	gdv.	gram. gdv. (-ya)	0002b21	次	语法	0163a14	次應	gerundive（当说）以"次"表出
+U09-093	S0138	tāvat	tāvat	ind.			省译			

@@ -1,0 +1,120 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U42-001	S0776	cakṣurvijñānadhātvoḥ	cakṣus-vijñāna-dhātu	cpd. (dvandva) gen. du.	0009b28	眼與眼識界	对译	0169b26	眼根與識界	dvandva：眼界与眼识界，"與"表并列
+U42-002	S0776	cakṣur	cakṣus	n.	0009b28	眼	对译	0169b26	眼根	
+U42-003	S0776	vijñāna	vijñāna	n.	0009b28	識	对译	0169b26	識	玄奘作"眼識"，"眼"重出
+U42-004	S0776	dhātvoḥ	dhātu	n. gen. du.	0009b28	界	对译	0169b26	界	
+U42-005	S0776	pṛthak	pṛthak	ind.	0009b28	獨	对译	0169b26	獨	
+U42-006	S0776	lābhaḥ	lābha	n.	0009b28	得	对译	0169b26	得	
+U42-007	S0776	sahā	saha	ind.	0009b28	俱	对译	0169b26	俱	
+U42-008	S0776	sahāpi ca	ca	ind.	0009b28	等	意译	0169b26	復有	据长行（S0790），此 ca 表"摄余义"，玄奘颂作"等"，真谛作"復有"
+U42-009	S0776				0009b28	非	增译			颂中补出俱非句（长行 nobhayena）
+U42-010	S0777	pṛthak	pṛthak	ind.	0009b29	獨	对译	0169b26	獨	
+U42-011	S0777				0009b29	得	增译	0169b27	得	引颂文"獨得"
+U42-012	S0777	syāc	as	v. opt. 3sg.	0009b29	或有	意译	0169b27	有	syāt（可能有）译"或有"
+U42-013	S0777	cakṣurdhātunā	cakṣus-dhātu	cpd. instr.	0009b29	眼界	对译	0169b27	眼界	
+U42-014	S0777				0009b29	先不成就今得成就	增译			补出梵文所省的谓语（samanvāgamaṃ pratilabhate）
+U42-015	S0777	cakṣurvijñānadhātunā	cakṣus-vijñāna-dhātu	cpd. instr.	0009c01	眼識	对译	0169b27	眼識	"界"未译
+U42-016	S0778				0009c01	生	增译			"生欲界"补"生"
+U42-017	S0778	kāmadhātau	kāma-dhātu	cpd. loc.	0009c01	欲界	对译	0169b28	欲界	
+U42-018	S0778	krameṇa	krama	n. instr.	0009c01	漸	对译	0169b28	次第	
+U42-019	S0778	cakṣurindriyaṃ	cakṣus-indriya	cpd.	0009c01	眼根	对译	0169b28	眼根	
+U42-020	S0778	pratilabhamānaḥ	prati-labh	ptc. pres.	0009c01	得	对译	0169b28	至得	
+U42-021	S0779	ārupyadhātucyutaś	ārūpya-dhātu-cyuta	cpd.	0009c01	無色沒	对译	0169b28	從無色界墮	GRETIL 作 ārupya-，当读 ārūpya-
+U42-022	S0779	ārupyadhātu	ārūpya-dhātu	cpd.	0009c01	無色	对译	0169b28	無色界	"界"未译
+U42-023	S0779	cyutaś	cyu	ptc. (cyuta)	0009c02	沒	对译	0169b28	墮	
+U42-024	S0779	dvitīyādiṣu	dvitīya-ādi	cpd. loc. pl.	0009c02	二三四	意译	0169b29	第二…等	ādi 展开为"三四"
+U42-025	S0779	dvitīyā	dvitīya	num. ord.	0009c02	二	对译	0169b29	第二	
+U42-026	S0779	ādiṣu	ādi	n. loc. pl.	0009c02	三四	意译	0169b29	等	
+U42-027	S0779	dhyāneṣū	dhyāna	n. loc. pl.	0009c02	靜慮	对译	0169b29	定	
+U42-028	S0779				0009c02	地	增译			"靜慮地"补"地"；下文"下地"同
+U42-029	S0779	ūpapadyamānaḥ	upa-pad	ptc. pres.	0009c02	生	对译	0169b29	生	
+U42-030	S0779	ūpapadyamānaḥ	pres. ptc.	gram. pres. ptc. (-māna)	0009c02	時	语法			现在分词表同时，译"時"
+U42-031	S0780	syāc	as	v. opt. 3sg.	0009c02	或有	意译	0169b29	有	
+U42-032	S0780	cakṣurvijñānadhātunā	cakṣus-vijñāna-dhātu	cpd. instr.	0009c02	眼識	对译	0169b29	眼識	
+U42-033	S0780				0009c02	先不成就今得成就	增译			同上
+U42-034	S0780	cakṣurdhātunā	cakṣus-dhātu	cpd. instr.	0009c03	眼界	对译	0169b29	眼界	
+U42-035	S0781	dvitīyādidhyānopapannaś	dvitīya-ādi-dhyāna-upapanna	cpd.	0009c03	生二三四靜慮	意译	0169c01	已生第二定	
+U42-036	S0781	dvitīyādi	dvitīya-ādi	cpd.	0009c03	二三四	意译	0169c01	第二	
+U42-037	S0781	dhyāno	dhyāna	n.	0009c03	靜慮	对译	0169c01	定	
+U42-038	S0781	opapannaś	upa-pad	ptc. (upapanna)	0009c03	生	对译	0169c01	生	真谛作"已生"
+U42-039	S0781	cakṣurvijñāna	cakṣus-vijñāna	cpd.	0009c04	眼識	对译	0169c01	眼識	GRETIL 作 cakṣurvijñāna saṃmukhī-，当读 cakṣurvijñānaṃ
+U42-040	S0781	saṃmukhīkurvāṇas	saṃmukhī-kṛ	ptc. pres.	0009c04	現起	对译	0169c01	引…現前	
+U42-041	S0781	tatpracyutaś	tad-pracyuta	cpd.	0009c04	從彼沒	对译	0169c01	從彼退	
+U42-042	S0781	tat	tad	pron.	0009c04	從彼	语法	0169c01	從彼	复合词中的 tad，"從"表第五格义
+U42-043	S0781	pracyutaś	pra-cyu	ptc. (pracyuta)	0009c04	沒	对译	0169c02	退	
+U42-044	S0781	ādhastād	adhastāt	ind.	0009c04	下	对译	0169c02	下界	"地"为增字
+U42-045	S0781	upapadyamānaḥ	upa-pad	ptc. pres.	0009c04	生	对译	0169c02	生	
+U42-047	S0782	sahā	saha	ind.	0009c04	俱	对译	0169c02	俱	
+U42-048	S0782				0009c04	得	增译	0169c02	得	引颂文"俱得"
+U42-049	S0782	ubhayena	ubhaya	pron. instr.	0009c05	二界	意译	0169c02	眼界眼識界	ubhaya（两者）还原为"二界"
+U42-050	S0782				0009c05	先不成就今	增译			
+U42-051	S0782	samanvāgamaṃ	samanvāgama	n.	0009c05	成就	对译	0169c03	相應	"今得成就"之"成就"
+U42-052	S0782	pratilabhate	prati-labh	v. pres. 3sg.	0009c05	得	对译			
+U42-053	S0783	ārūpyadhātucyutaḥ	ārūpya-dhātu-cyuta	cpd.	0009c05	無色沒	对译	0169c03	從無色界墮	
+U42-054	S0783	kāmadhātau	kāma-dhātu	cpd. loc.	0009c06	欲界	对译	0169c03	欲界	
+U42-056	S0783	brahmaloke	brahma-loka	cpd. loc.	0009c06	梵世	对译	0169c04	初定	真谛作"初定"
+U42-057	S0783	opapadyamānaḥ	upa-pad	ptc. pres.	0009c06	生	对译	0169c03	生	
+U42-058	S0783				0009c06	非者	增译			引颂文"非"
+U42-059	S0783	nobhayena	ubhaya	pron. instr.	0009c06	俱	意译	0169c04	俱	"俱非"
+U42-061	S0784	ākārān	ākāra	n. acc. pl.	0009c06	相	对译	0169c04	三句	真谛作"三句"
+U42-062	S0784	sthāpayitvā	sthāpaya (caus. sthā)	abs.	0009c06	除	意译	0169c04	除	sthāpayitvā（置之不论）译"除"
+U42-063	S0784				0009c07	等謂	增译			玄奘以颂中"等"字统摄此下成就四句（参 S0790）
+U42-064	S0784	yaś	yad	pron. nom.	0009c07	若有	语法	0169c04	若人	
+U42-065	S0784	cakṣurdhātunā	cakṣus-dhātu	cpd. instr.	0009c07	眼界	对译	0169c04	眼界	
+U42-066	S0784	samanvāgataś	samanvāgata	ptc. adj.	0009c07	成就	对译	0169c05	相應	
+U42-067	S0784	cakṣurvijñānadhātunā	cakṣus-vijñāna-dhātu	cpd. instr.	0009c07	眼識	对译	0169c05	眼識界	
+U42-068	S0785				0009c07	應作	增译	0169c05	有	
+U42-069	S0785	catuṣkoṭikaḥ	catuṣ-koṭika	cpd. adj.	0009c07	四句	对译	0169c05	四句	
+U42-070	S0785	prathamā	prathama	adj.	0009c08	第一	对译	0169c05	第一	
+U42-071	S0785	koṭir	koṭi	n.	0009c08	句	对译	0169c05	句	
+U42-072	S0785	dvitīyādiṣu	dvitīya-ādi	cpd. loc. pl.	0009c08	二三四	意译	0169c06	第二…等	
+U42-073	S0785	dhyāneṣū	dhyāna	n. loc. pl.	0009c08	靜慮	对译	0169c06	定	
+U42-074	S0785	ūpapannaś	upa-pad	ptc. (upapanna)	0009c08	生	对译	0169c06	受生	
+U42-075	S0785	cakṣurvijñānā	cakṣus-vijñāna	cpd.	0009c08	眼識	对译	0169c06	眼識	
+U42-076	S0785	āsaṃmukhīkurvāṇaḥ	a-saṃmukhī-kṛ	ptc. pres.	0009c08	不起	对译	0169c06	不引…現前	
+U42-077	S0786	dvitīyā	dvitīya	num. ord.	0009c08	第二	对译	0169c07	第二	
+U42-078	S0786	kāmadhātāv	kāma-dhātu	cpd. loc.	0009c09	欲界	对译	0169c07	欲界	"生"为增字
+U42-079	S0786	alabdhavihīna cakṣuḥ	alabdha-vihīna-cakṣus	cpd. (bahuvrīhi)	0009c09	未得眼根及得已失	意译	0169c07	未得眼根…失	GRETIL 分写 alabdhavihīna cakṣuḥ；dvandva 成分以"及"连接
+U42-080	S0786	alabdha	a-labdha	ptc. adj.	0009c09	未得	对译	0169c07	未得	
+U42-081	S0786	vihīna	vi-hā	ptc. (vihīna)	0009c09	失	对译	0169c08	失	
+U42-083	S0786				0009c09	得	增译			"得已失"之"得"
+U42-084	S0786	cakṣuḥ	cakṣus	n.	0009c09	眼	对译	0169c07	眼根	"根"为增字
+U42-084+1	S0786				0009c09	根	增译			合并时从 U42-084（眼根）拆出
+U42-085	S0787	tṛtīyā	tṛtīya	num. ord.	0009c09	第三	对译	0169c08	第三	
+U42-086	S0787	kāmadhātau	kāma-dhātu	cpd. loc.	0009c10	欲界	对译	0169c08	欲界	
+U42-087	S0787	labdhāvihīnacakṣuḥ	labdha-avihīna-cakṣus	cpd. (bahuvrīhi)	0009c10	得眼不失	对译	0169c08	已得眼根…不失	
+U42-088	S0787	labdhā	labh	ptc. (labdha)	0009c10	得	对译	0169c08	得	
+U42-089	S0787	āvihīna	a-vihīna	ptc. adj.	0009c10	不失	对译	0169c09	不失	
+U42-090	S0787	cakṣuḥ	cakṣus	n.	0009c10	眼	对译	0169c08	眼根	
+U42-091	S0787	prathamadhyānopapanno	prathama-dhyāna-upapanna	cpd.	0009c10	生梵世	意译	0169c09	生初定	
+U42-092	S0787	prathamadhyāno	prathama-dhyāna	cpd.	0009c10	梵世	意译	0169c09	初定	初静虑玄奘作"梵世"
+U42-093	S0787	opapanno	upa-pad	ptc. (upapanna)	0009c10	生	对译	0169c09	生	
+U42-094	S0787	dvitīyādidhyānopapannaś	dvitīya-ādi-dhyāna-upapanna	cpd.	0009c11	生二三四靜慮	意译	0169c09	二定等	
+U42-095	S0787	śca paśyan	ca	ind.	0009c10	及…若	语法	0169c09	或	列举三项，玄奘以"及""若"连接
+U42-096	S0787	paśyan	dṛś	ptc. pres.	0009c11	見	对译	0169c09	見	
+U42-097	S0787	paśyan	pres. ptc.	gram. pres. ptc. (-ant)	0009c11	正…時	语法	0169c09	正	现在分词表正在进行，译"正…時"
+U42-098	S0787				0009c11	色	增译	0169c09	色	补出宾语
+U42-099	S0788	catuṛthy	caturtha	num. ord.	0009c11	第四	对译	0169c09	第四	GRETIL 作 catuṛthī，当读 caturthī
+U42-101	S0788	ākārān	ākāra	n. acc. pl.	0009c12	相	对译	0169c10	三句	
+U42-102	S0788	sthāpayitvā	sthāpaya (caus. sthā)	abs.	0009c12	除	意译	0169c10	除	
+U42-104	S0789	cakṣurdhāturūpadhātvoś	cakṣus-dhātu-rūpa-dhātu	cpd. (dvandva) gen. du.	0009c12	眼界與色界	对译	0169c10	眼界與色界	
+U42-105	S0789	cakṣurdhātu	cakṣus-dhātu	cpd.	0009c12	眼界	对译	0169c10	眼界	
+U42-106	S0789	rūpadhātvoś	rūpa-dhātu	cpd. gen. du.	0009c12	色界	对译	0169c10	色界	
+U42-107	S0789	cakṣurvijñānarūpadhātvoś	cakṣus-vijñāna-rūpa-dhātu	cpd. (dvandva) gen. du.	0009c12	眼識與色界	对译	0169c10	眼識界與色界	
+U42-108	S0789	pratilambhasamanvāgamau	pratilambha-samanvāgama	cpd. (dvandva)	0009c12	得成就	对译	0169c11	至得	
+U42-109	S0789	pratilambha	pratilambha	n.	0009c12	得	对译	0169c11	至得	
+U42-110	S0789	samanvāgamau	samanvāgama	n. du.	0009c13	成就	对译			
+U42-111	S0789				0009c13	等	增译			
+U42-112	S0789	yathāyogam	yathāyogam	ind.	0009c13	如理	意译			yathāyogam（随其所应）译"如理"
+U42-113	S0789	abhyūhitavyau	abhi-ūh	gdv.	0009c13	思	对译	0169c11	思量	
+U42-116	S0790	prasaṅgasya	prasaṅga	n. gen.	0009c13	所未說義	意译	0169c11	思量	prasaṅga（连带论及之事）意译为"所未說義"
+U42-117	S0790	samuccayārthaś	samuccaya-artha	cpd.	0009c13	為攝	意译	0169c11	為引	
+U42-118	S0790	samuccayā	samuccaya	n.	0009c13	攝	对译	0169c11	引	
+U42-119	S0790	ārthaś	artha	n.	0009c13	為	意译	0169c11	為	artha（为了）译"為"
+U42-120	S0790	caśabdaḥ	ca-śabda	cpd.	0009c14	言等	意译	0169c11	言復有	"ca 字"：玄奘颂中对应"等"，真谛对应"復有"
+U42-121	S0790				0009c14	是故頌中總復	增译			梵文以 sahāpi ca iti 引颂文，玄奘作"是故頌中總復言等"
+U42-122	S0790				0009c14	如是已說得成就等	增译			玄奘结上之语
+U42-123	S0791				0009c15	十八…中	增译			
+U42-125	S0791	ādhyātmikā	ādhyātmika	adj.	0009c15	內	对译	0169c12	我依	真谛作"我依"
+U42-126	S0791	dhātavaḥ	dhātu	n.	0009c15	界	对译	0169c12	界	
+U42-128	S0791	bāhyāḥ	bāhya	adj.	0009c15	外	对译	0169c12	我依外	

@@ -1,0 +1,33 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U53-001	S1074	na kāyasyā	na	ind.	0012c21	不	语法	0172b20	無	
+U53-003	S1074	kāyasyā	gen.	gram. gen. (-sya)	0012c21	於	语法			比较的第六格（低于身）以"於"表出
+U53-013	S1075	yāvac	yāvat	ind.			省译	0172b21	乃至	玄奘径列"欲界四靜慮"
+U53-020	S1076	bhūmikaṃ ca	ca	ind.			省译	0172b22	及	
+U53-021	S1077	tatra	tatra	ind.	0012c26	此中	语法	0172b22	此中	
+U53-036	S1078	vā rūpaṃ	vā	ind.			省译	0172b23	或	
+U53-041	S1079	na	na	ind.	0012c21	非	语法	0172b24	非	
+U53-043	S1080	na hi	hi	ind.	0012c28	故	语法			"下眼不能見上色故"，表理由
+U53-058	S1083	asya	gen.	gram. gen. (-sya)	0012c22	於	语法	0172b26	於	"色於識"
+U53-064	S1084	asyety	idam	pron. gen.			省译	0172b27	此	释词"asya iti…"玄奘未译
+U53-065	S1084	asyety	iti	ind.			省译	0172b27	謂	
+U53-080	S1085	yathā	yathā	ind.	0013a01	如	语法	0172b29	如	"應知如眼"
+U53-081	S1085	cecaṃ	evam	ind.			省译			GRETIL 本作 cecaṃ，当读 caivaṃ
+U53-090	S1087	sarvataḥ //"iti	iti	ind.	0013a01	謂	语法			引颂末的 iti，玄奘移前作"謂"
+U53-098	S1087	cāsya	idam	pron. gen.	0013a02	識	意译	0172c01	此	代词 asya 还原为所指"識"（聲於識一切）
+U53-106	S1088	yojyam	gdv.	gram. gdv. (-ya)			省译			
+U53-137	S1094	keṣāñcit	kaścit	pron. gen. pl.	0013a05	或	意译	0172c06	有處	keṣāñcit … keṣāñcit（有些人…有些人）译"或…或"
+U53-139	S1094	yathākāma	yathā	ind.	0013a05	謂	语法	0172c06	如	举例
+U53-145	S1095	keṣāñcid	kaścit	pron. gen. pl.	0013a05	或	意译	0172c07	有處	
+U53-147	S1095	yathā	yathā	ind.			省译	0172c07	如	
+U53-159	S1097	kadācit kāya	kadācit	ind.	0013a06	有時	对译	0172c08	有時	
+U53-165	S1097	dharmaiḥ	instr.	gram. instr. (-aiḥ)	0013a06	與	语法	0172c08	與	第三格（与…一起）译"與"
+U53-168	S1097	kadācidūrdhvā	kadācit	ind.	0013a07	有時	对译	0172c09	有時	
+U53-171	S1098	'pi hi	api	ind.			省译			api（即使）未译；"唯"为增字（另记）
+U53-180	S1098	kāle	loc.	gram. loc. (-e)	0013a08	於	语法			第七格以"於"表出
+U53-188	S1098	etadākhyāyiṣyate	etad	pron. nom.			省译			
+U53-191	S1098	ākhyāyiṣyate	fut.	gram. fut. (-sya-)	0013a09	當	语法	0172c11	當	未来时
+U53-205	S1100	samāpta	ppp.	gram. ppp. (-ta)	0013a10	已	语法			过去被动分词译"已"
+U53-214	S1102	cdātūnāṃ	gen.	gram. gen. pl. (-ānām)	0013a11	中	语法	0172c14	於	表部分的第六格以"中"表出
+U53-218	S1102	kaḥ kena	kim	pron. nom.	0013a11	誰	语法	0172c14	何界	
+U53-219	S1102	kena	kim	pron. instr.	0013a11	幾	语法	0172c14	何識	疑问代词 kena（以何者）译"幾"（幾識）
+U53-221	S1103	āha	ah	v. perf. 3sg.	0013a12	頌曰	语法	0172c15	偈曰	āha 引出本颂

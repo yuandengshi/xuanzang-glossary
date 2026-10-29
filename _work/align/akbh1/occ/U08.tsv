@@ -1,0 +1,50 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U08-001	S0125	rūpaṃ	rūpa	n.	0002b07	色	对译	0163a04	色陰	真谛补"陰"
+U08-003	S0125	pañcendriyāṇy	pañca-indriya	cpd.	0002b07	五根	对译	0163a04	五根	
+U08-004	S0125	pañce	pañca	num.	0002b07	五	对译	0163a04	五	
+U08-005	S0125	endriyāṇy	indriya	n.	0002b07	根	对译	0163a04	根	
+U08-006	S0125	arthāḥ	artha	n.	0002b07	境	意译	0163a04	塵	artha（对象）译"境"；真谛作"塵"
+U08-007	S0125	pañcā	pañca	num.	0002b07	五	对译	0163a04	五	
+U08-008	S0125	āvijñaptir	a-vijñapti	n.	0002b07	無表	对译	0163a04	無教	
+U08-010	S0126				0002b08	言…者	增译			长行标举颂文，以"言…者"引出
+U08-011	S0126	pañcendriyāṇi	pañca-indriya	cpd.	0002b08	五根	对译	0163a05	五根	
+U08-012	S0126				0002b08	所謂	增译	0163a05	謂	
+U08-013	S0126	cakṣuḥśtrotragrhāṇajihvākāyendariyā ṇa	cakṣus-śrotra-ghrāṇa-jihvā-kāya-indriya	cpd.	0002b08	眼、耳、鼻、舌、身根	对译	0163a05	眼耳鼻舌身	GRETIL 本作 cakṣuḥśtrotragrhāṇajihvākāyendariyā ṇa，当读 cakṣuḥśrotraghrāṇajihvākāyendriyāṇi
+U08-014	S0126	cakṣuḥ	cakṣus	n.	0002b08	眼	对译	0163a05	眼	
+U08-015	S0126	śtrotra	śrotra	n.	0002b08	耳	对译	0163a05	耳	GRETIL 本作 śtrotra
+U08-016	S0126	grhāṇa	ghrāṇa	n.	0002b08	鼻	对译	0163a05	鼻	GRETIL 本作 grhāṇa
+U08-017	S0126	jihvā	jihvā	n.	0002b08	舌	对译	0163a05	舌	
+U08-018	S0126	kāye	kāya	n.	0002b08	身	对译	0163a05	身	
+U08-019	S0126	endariyā ṇa	indriya	n.	0002b08	根	对译			GRETIL 本作 endariyā ṇa
+U08-020	S0127				0002b08	言…者	增译			
+U08-021	S0127	pañcā	pañca	num.	0002b08	五	对译	0163a05	五	
+U08-022	S0127	ārthās	artha	n.	0002b09	境	意译	0163a05	塵	
+U08-023	S0127	teṣāmeva	tad	pron. gen. pl.	0002b09	即是	合译	0163a05	是	teṣām eva（即彼）合译"即是"
+U08-024	S0127	teṣāmeva	eva	ind.	0002b09	即是	合译			teṣām eva（即彼）合译"即是"
+U08-025	S0127	cakṣurādīnām	cakṣus-ādi	cpd. gen. pl.	0002b09	眼等	对译	0163a05	眼等	
+U08-026	S0127	indriyāṇāṃ	indriya	n. gen. pl.	0002b09	根	对译	0163a05	根	
+U08-027	S0127	yathāsvaṃ	yathāsvam	ind.			省译			"各自的"未译
+U08-028	S0127	ye pañca	yad	pron. nom. pl.			省译			
+U08-029	S0127	ye pañca	pañca	num.	0002b09	五	对译	0163a05	五	"五"移至"眼等五根"中
+U08-030	S0127	viṣayāḥ	viṣaya	n.	0002b09	境界	对译	0163a05	境	
+U08-031	S0127	rūpaśabdagandharasaspraṣṭavyākhyāḥ	rūpa-śabda-gandha-rasa-spraṣṭavya-ākhya	cpd. adj.	0002b09	色、聲、香、味、所觸	对译	0163a06	色、聲、香、味、觸	
+U08-032	S0127	rūpaśabda	rūpa	n.	0002b09	色	对译	0163a06	色	
+U08-033	S0127	śabda	śabda	n.	0002b09	聲	对译	0163a06	聲	
+U08-034	S0127	gandha	gandha	n.	0002b09	香	对译	0163a06	香	
+U08-035	S0127	rasa	rasa	n.	0002b09	味	对译	0163a06	味	
+U08-036	S0127	spraṣṭavyā	spraṣṭavya	gdv. n.	0002b09	所觸	对译	0163a06	觸	
+U08-037	S0127	ākhyāḥ	ākhya	adj.	0002b09	所謂	意译	0163a05	謂	-ākhya（名为）译"所謂"，置于所列之前
+U08-038	S0128	avijñaptiś	a-vijñapti	n.	0002b10	無表	对译	0163a06	無教	
+U08-039	S0128	ceti	iti	ind.	0002b10	者	语法			引颂文加 iti，玄奘用"……者"标出
+U08-040	S0128				0002b10	謂無表色	增译			补出解释
+U08-041	S0128	etāvān	etāvat	pron.	0002b10	唯…此量	意译	0163a06	如此量	etāvat（仅此之量）
+U08-042	S0128				0002b10	依	增译			
+U08-043	S0128	rūpaskandhaḥ	rūpa-skandha	cpd.	0002b10	色蘊	对译	0163a06	色陰	
+U08-044	S0128				0002b10	立…名	增译	0163a06	名	
+U08-045	S0129	tatra	tatra	ind.	0002b11	此中	语法	0163a06	此中	
+U08-046	S0129				0002b11	先應說五根相	增译			玄奘补出过渡语；S0129 其余部分玄奘移到下颂长行（0002b13）
+U08-047	S0129	ya ete	yad	pron. nom. pl.	0002b13	前	语法	0163a07	前	关系代词（所说者）译"前"
+U08-049	S0129	uktāḥ	vac	ptc.	0002b13	說	对译	0163a07	說	
+U08-050	S0129	pañca	pañca	num.	0002b13	五	对译	0163a07	五	
+U08-051	S0129	rūpādayo	rūpa-ādi	cpd.	0002b13	色等	对译	0163a07	色等	
+U08-052	S0129	'rthā	artha	n.	0002b13	境	意译	0163a07	塵	

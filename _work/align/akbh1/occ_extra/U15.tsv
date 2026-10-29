@@ -1,0 +1,22 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U15-016	S0283	sa punar	tad	pron. nom.	0004a03	此	语法	0164b15	此	
+U15-017	S0283	punarbhidyamānaḥ	punar	ind.	0004a03	復	语法	0164b15	復次	
+U15-058	S0286	punarbhidyamānaḥ	punar	ind.	0004a05	復	语法	0164b18	復次	
+U15-065	S0286	vedanāvat	-vat	gram. suffix	0004a06	如	语法	0164b19	如	
+U15-069	S0287	'nye tu	tu	ind.			省译			
+U15-089	S0289	sūtre	loc.	gram. loc. (-e)	0004a07	於…中	语法	0164b20	中	第七格译"於…中"
+U15-095	S0289	ityuktaṃ	iti	ind.	0004a08	者	语法			引述经文后的 iti，玄奘以"……者"标出
+U15-098	S0289	prādhānyāt	abl.	gram. abl. (-āt)	0004a08	由…故	语法	0164b21	由…故	第五格表原因
+U15-105	S0290	svarūpatvād	-tva (abstract)	gram. suffix	0004a09	是	语法	0164b22	是	抽象后缀 -tva 以系词"是"表出
+U15-106	S0290	svarūpatvād	abl.	gram. abl. (-āt)	0004a09	故	语法	0164b22	故	
+U15-110	S0291	ata	atas	ind.	0004a10	是故	语法			
+U15-123	S0293	anyathā hi	hi	ind.			省译			
+U15-127	S0293	viprayuktānāṃ ca	ca	ind.	0004a11	及	对译	0164b24	及	
+U15-135	S0293	na syād	na	ind.	0004a12	非	语法	0164b24	不	
+U15-140	S0293	api na	api	ind.			省译	0164b25	亦	玄奘作"則"
+U15-141	S0293	api na	na	ind.	0004a12	不	语法	0164b25	不	
+U15-145	S0294	uktaṃ ca	ca	ind.			省译			
+U15-147	S0294	nāham	na	ind.	0004a13	不	语法	0164b26	不	玄奘把否定移到"能作"之前（我說不能作）
+U15-171	S0296	bhyupagantavyaḥ	gdv.	gram. gdv. (-tavya)	0004a14	應	语法	0164b28	應	
+U15-174	S0297	punas	punar	ind.			省译			
+U15-186	S0298	vyavasthāyāṃ	loc.	gram. loc. (-āyām)	0004a16	於	语法	0164b29	若	

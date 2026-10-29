@@ -1,0 +1,281 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U41-001	S0736	vipākajaupacayikāḥ	vipākaja-aupacayika	cpd. (dvandva)	0009a19	熟養	意译	0169a21	果報增長生	本颂缩略："熟"即異熟生，"養"即所長養
+U41-002	S0736	vipākajau	vipāka-ja	cpd. adj.	0009a19	熟	意译	0169a21	果報…生	颂中"異熟生"略作"熟"
+U41-003	S0736	aupacayikāḥ	aupacayika	adj.	0009a19	養	意译	0169a21	增長生	颂中"所長養"略作"養"
+U41-004	S0736	pañcā	pañca	num.	0009a19	五	对译	0169a21	五	
+U41-005	S0736	ādhyātmaṃ	adhyātmam	ind.	0009a19	內	对译	0169a21	內	
+U41-006	S0736				0009a19	有	增译			颂中补"有"（內五有熟養）
+U41-007	S0737	adhyātmaṃ	adhyātmam	ind.	0009a22	內	对译	0169a22	內	
+U41-009	S0737	pañca	pañca	num.	0009a22	五	对译	0169a22	五	玄奘"內五即是眼等五界"，"五"重出
+U41-010	S0737	dhātavaḥ	dhātu	n.	0009a22	界	对译	0169a22	界	
+U41-011	S0737	cakṣurādayo	cakṣus-ādi	cpd.	0009a22	眼等	对译	0169a22	眼等	
+U41-012	S0737	cakṣur	cakṣus	n.	0009a22	眼	对译	0169a22	眼	
+U41-013	S0737	ādayo	ādi	n.	0009a22	等	对译	0169a22	等	
+U41-014	S0737				0009a22	即是	增译			同位语以"即是"连接
+U41-015	S0737	vipākajāś	vipāka-ja	cpd. adj.	0009a22	異熟生	对译	0169a22	果報…生	
+U41-016	S0737	vipāka	vipāka	n.	0009a22	異熟	对译	0169a22	果報	复合词成分
+U41-017	S0737	jāś	ja	adj. (√jan)	0009a22	生	对译	0169a23	生	复合词成分 -ja
+U41-019	S0737	aupacayikāś	aupacayika	adj.	0009a22	所長養	对译	0169a22	增長…生	
+U41-021	S0737				0009a22	有	增译			长行亦增"有"（有異熟生及所長養）
+U41-022	S0738	naiḥṣyandikā	naiḥṣyandika	adj.	0009a23	等流	对译	0169a23	等流生	
+U41-024	S0738	tadvyatiriktaniṣyandābhāvāt	tad-vyatirikta-niṣyanda-abhāva	cpd. abl.	0009a23	離異熟生及所長養…無別性	意译	0169a23	離果報、增長無別等流	
+U41-025	S0738	tad	tad	pron.	0009a23	異熟生及所長養	意译	0169a23	果報、增長	代词还原为所指
+U41-026	S0738	vyatirikta	vyatirikta	ptc. adj.	0009a23	離…別	拆译	0169a23	離…別	"離""別"同表 vyatirikta
+U41-027	S0738	niṣyandā	niṣyanda	n.	0009a24	性	意译	0169a23	等流	玄奘以"別性"指等流，真谛作"別等流"
+U41-028	S0738	ābhāvāt	a-bhāva	n. abl.	0009a23	無	对译	0169a23	無	
+U41-031	S0739	vipākahetor	vipāka-hetu	cpd. abl.	0009a24	異熟因	对译	0169a24	果報因	
+U41-032	S0739	hetor	hetu	n. abl.	0009a24	因	对译	0169a24	因	
+U41-033	S0739	jātāḥ	jan	ptc. (jāta)	0009a24	生	对译	0169a24	生	
+U41-035	S0739	vipākajāḥ	vipāka-ja	cpd. adj.	0009a24	異熟生	对译	0169a24	果報生	
+U41-036	S0739				0009a24	名	增译			释名句补"名"
+U41-037	S0740	madhyapadalopāt	madhya-pada-lopa	cpd. abl.	0009a25	略去中言	对译	0169a24	除中間因名	
+U41-039	S0740				0009a25	作是說	增译			
+U41-040	S0740	gorathavat	go-ratha	cpd.	0009a25	牛車	对译	0169a25	牛車	
+U41-042	S0740				0009a24	牛所駕車名曰	增译			玄奘补出"牛車"一词的解释
+U41-044	S0741				0009a25	所造	增译			补出"所造（業）"
+U41-045	S0741	karma	karman	n.	0009a26	業	对译	0169a25	業	
+U41-046	S0741	phalakālaprāptaṃ	phala-kāla-prāpta	cpd. adj.	0009a26	至得果時	意译	0169a25	至果報熟時	
+U41-047	S0741	phala	phala	n.	0009a26	果	对译	0169a25	果報	
+U41-048	S0741	kāla	kāla	n.	0009a26	時	对译	0169a25	時	
+U41-049	S0741	prāptaṃ	pra-āp	ptc. (prāpta)	0009a26	至得	对译	0169a25	至	
+U41-050	S0741	vipāka ity	vipāka	n.	0009a26	異熟	对译	0169a25	果報	
+U41-052	S0741	ucyate	vac	v. pass. 3sg.	0009a26	名	对译	0169a25	說名	
+U41-053	S0742	vipacyata	vi-pac	v. pass. 3sg.	0009a26	變而…熟	意译	0169a26	熟	vi- 释作"變"；"能"为增字
+U41-054	S0742	iti kṛtvā	iti kṛtvā	ind.	0009a26	故	语法	0169a26	故	iti kṛtvā（以…为由）译"故"
+U41-055	S0742	tasmāj	tad	pron. abl.	0009a26	從彼	语法	0169a26	從此	
+U41-056	S0742				0009a26	果	增译			补出主语"果"
+U41-057	S0742	jātā	jan	ptc. (jāta)	0009a27	生	对译	0169a26	生	
+U41-058	S0742	vipākajāḥ	vipāka-ja	cpd. adj.	0009a27	異熟生	对译	0169a26	果報生	
+U41-059	S0743	phalaṃ	phala	n.	0009a27	果	对译	0169a26	果	
+U41-060	S0743				0009a27	彼所得	增译			
+U41-062	S0743	vipaktir	vipakti	n.	0009a27	與因別類…而是所熟	拆译			vi- 释作"與因別類"，pakti 释作"所熟"
+U41-065	S0743	vipākaḥ	vipāka	n.	0009a28	異熟	对译	0169a26	熟	真谛"果者名熟"
+U41-066	S0744	bhavatu	bhū	v. impv. 3sg.	0009a28	或	意译	0169a27	可	bhavatu（姑且容许）译"或"，真谛作"可"
+U41-067	S0744	phalahetau	phala-hetu	cpd. loc.	0009a28	因	意译	0169a27	因	phala 未译
+U41-068	S0744	phalahetau	loc.	gram. loc. (-au)	0009a28	於…上	语法	0169a27	於	
+U41-069	S0744	phalopacāro	phala-upacāra	cpd.	0009a28	假立果名	对译	0169a27	立果名	
+U41-070	S0744	phalo	phala	n.	0009a28	果	对译	0169a27	果	
+U41-071	S0744	opacāro	upacāra	n.	0009a28	假立…名	意译	0169a27	立…名	
+U41-073	S0744	phale	phala	n. loc.	0009a28	果	对译	0169a27	果	
+U41-074	S0744	phale	loc.	gram. loc. (-e)	0009a28	於…上	语法	0169a27	中	
+U41-075	S0744	hetūpacāraḥ	hetu-upacāra	cpd.	0009a29	假立因名	对译	0169a27	立因名	
+U41-076	S0745				0009a29	如契經說	增译			引经标记；梵文仅以引号及句末 iti 标出
+U41-077	S0745	ṣaḍ	ṣaṣ	num.	0009a29	六	对译	0169a27	六	
+U41-078	S0745	imāni	idam	pron. nom. pl.	0009a29	今	意译	0169a27	此	近指代词译"今"
+U41-079	S0745	sparśāyatanāni	sparśa-āyatana	cpd.	0009a29	觸處	对译	0169a28	觸入	
+U41-080	S0745	sparśā	sparśa	n.	0009a29	觸	对译	0169a28	觸	
+U41-081	S0745	āyatanāni	āyatana	n.	0009a29	處	对译	0169a28	入	
+U41-082	S0745	paurāṇaṃ	paurāṇa	adj.	0009b01	昔	对译	0169a28	宿	
+U41-083	S0745				0009b01	所造	增译			
+U41-084	S0745	karma	karman	n.	0009b01	業	对译	0169a28	業	
+U41-085	S0745	veditavyam	vid	gdv.	0009a29	知	对译	0169a28	知	
+U41-087	S0745				0009a29	即是	增译			
+U41-088	S0746	āhārasaṃskārasvapnasamādhiviśeṣair	āhāra-saṃskāra-svapna-samādhi-viśeṣa	cpd. instr.	0009b01	飲食資助眠睡等持勝緣	对译	0169a28	飲食將養寢臥…三摩提…勝緣	
+U41-089	S0746	āhāra	āhāra	n.	0009b01	飲食	对译	0169a28	飲食	
+U41-090	S0746	saṃskāra	saṃskāra	n.	0009b01	資助	意译	0169a28	將養	saṃskāra 此指调养
+U41-091	S0746	svapna	svapna	n.	0009b01	眠睡	对译	0169a28	寢臥	
+U41-092	S0746	samādhi	samādhi	n.	0009b01	等持	对译	0169a28	三摩提	真谛音译
+U41-093	S0746	viśeṣair	viśeṣa	n. instr.	0009b01	勝緣	意译	0169a29	勝緣	
+U41-094	S0746	upacitā	upa-ci	ptc.	0009b01	益	意译	0169a29	資益	
+U41-096	S0746	aupacayikāḥ	aupacayika	adj.	0009b02	所長養	对译	0169a29	增長生	
+U41-097	S0747	brahṃacaryeṇa	brahmacarya	n. instr.	0009b02	梵行	对译	0169a29	梵行	GRETIL 作 brahṃa-，当读 brahma-
+U41-100	S0747	eke	eka	pron. nom. pl.	0009b02	有	意译	0169a29	有餘師	eke（有些人）与 iti 合为"有說"
+U41-101	S0747				0009b02	能長養	增译	0169b01	增長	承上文 upacita 补出谓语
+U41-102	S0747	anupaghātamātraṃ	an-upaghāta-mātra	cpd.	0009b02	唯無損	对译	0169b01	但不為損	
+U41-103	S0747	anupaghāta	an-upaghāta	n.	0009b02	無損	对译	0169b01	不為損	
+U41-104	S0747	mātraṃ	mātra	n.	0009b02	唯	对译	0169b01	但	
+U41-108	S0747	opacayaḥ	upacaya	n.	0009b03	益	对译	0169b02	益	
+U41-109	S0747				0009b03	別有	增译			"非別有益"
+U41-110	S0748	vipākasantānasyo	vipāka-santāna	cpd. gen.	0009b03	異熟相續	对译	0169b02	果報相續	
+U41-111	S0748	santānasyo	santāna	n. gen.	0009b03	相續	对译	0169b02	相續	
+U41-112	S0748	opacayasantānaḥ	upacaya-santāna	cpd.	0009b03	長養相續	对译	0169b02	增長相續	
+U41-113	S0748	opacaya	upacaya	n.	0009b03	長養	对译	0169b02	增長	
+U41-114	S0748	ārakṣā	ārakṣā	n.	0009b03	護持	对译	0169b02	護持	比喻中又作"防援"（见增译）
+U41-115	S0748				0009b03	常	增译			"能"亦为增字
+U41-116	S0748	pratiprākāra	pratiprākāra	n.	0009b04	外郭	对译	0169b03	外城	
+U41-117	S0748	ivā	iva	ind.	0009b04	猶如	语法	0169b03	猶如	
+U41-118	S0748				0009b04	防援內城	增译	0169b03	防守內城	比喻中补出被护之"內城"，"防援"复述 ārakṣā
+U41-119	S0749	śabda	śabda	n.	0009b04	聲	对译	0169b03	聲	
+U41-120	S0749	aupacayiko	aupacayika	adj.	0009b04	所長養	对译	0169b03	增長生	玄奘先"等流"后"所長養"
+U41-121	S0749	naiḥṣyandikaś	naiḥṣyandika	adj.	0009b04	等流	对译	0169b03	等流	
+U41-124	S0750	vipākajaḥ	vipāka-ja	cpd. adj.	0009a19	異熟生	对译	0169b04	報	本颂"聲無異熟生"；真谛颂作"聲非報"
+U41-125	S0750	vipākajaḥ	vipāka-ja	cpd. adj.	0009b05	異熟生	对译	0169b04	果報生	长行复述颂文（無異熟生）
+U41-127	S0751	śabdaḥ	śabda	n.	0009a19	聲	对译	0169b04	聲	
+U41-129	S0752	īhātaḥ	īhā	n.	0009b05	欲	对译	0169b05	欲	
+U41-130	S0752	īhātaḥ	abl.	gram. abl. (-tas)	0009b05	隨	语法	0169b04	隨	"隨欲轉"
+U41-131	S0752	pravṛtteḥ	pravṛtti	n. abl.	0009b05	轉	对译	0169b05	生	
+U41-134	S0753				0009b05	不應	增译			反诘：梵文 yat … uktam（那么所说…又当如何），玄奘作"不應…說"
+U41-136	S0753	prajñaptiśāstre	prajñapti-śāstra	cpd. loc.	0009b06	施設論	对译	0169b05	假名論	
+U41-137	S0753	prajñapti	prajñapti	n.	0009b06	施設	对译	0169b05	假名	
+U41-138	S0753	śāstre	śāstra	n. loc.	0009b06	論	对译	0169b05	論	
+U41-139	S0753	uktaṃ	vac	ptc.	0009b06	說	对译	0169b05	說	
+U41-140	S0753	pāruṣyavirateḥ	pāruṣya-virati	cpd. gen.	0009b06	遠離麁惡語	对译	0169b05	永離惡口	
+U41-141	S0753	pāruṣya	pāruṣya	n.	0009b06	麁惡語	对译	0169b05	惡口	
+U41-142	S0753	virateḥ	virati	n. gen.	0009b06	遠離	对译	0169b05	永離	
+U41-143	S0753	subhāvitatvād	su-bhāvita-tva	n. abl.	0009b06	善修	对译	0169b06	善修	-tva 未译；第五格译"故"
+U41-144	S0753	brahmasvaratā	brahma-svara-tā	n.	0009b07	梵音聲	对译	0169b06	梵音	-tā 未译
+U41-145	S0753	brahma	brahman	n.	0009b07	梵	对译	0169b06	梵	
+U41-146	S0753	svara	svara	n.	0009b07	音聲	对译	0169b06	音	
+U41-147	S0753	mahāpuruṣalakṣaṇaṃ	mahā-puruṣa-lakṣaṇa	cpd.	0009b06	大士…相	对译	0169b06	大人相	
+U41-148	S0753	mahāpuruṣa	mahā-puruṣa	cpd.	0009b06	大士	对译	0169b06	大人	
+U41-149	S0753	lakṣaṇaṃ	lakṣaṇa	n.	0009b07	相	对译	0169b06	相	
+U41-150	S0753	nirvartta	nir-vṛt	v. pres. 3sg.	0009b06	感得	意译	0169b06	得…生	GRETIL 作 nirvartta，当读 nirvartata（= nirvartate iti）
+U41-151	S0754	tṛtīyā	tṛtīya	num. ord.	0009b07	第三	对译	0169b07	第三	
+U41-152	S0754	'sau	adas	pron.	0009b07	聲	意译	0169b07	聲	代词还原为所指"聲"
+U41-153	S0754	paraṃpare	paraṃparā	n.	0009b07	傳	对译	0169b07	傳	
+U41-154	S0754				0009b07	屬	增译			"聲屬第三傳"补出谓词
+U41-156	S0754	eke	eka	pron. nom. pl.	0009b07	有	意译	0169b06	餘師	
+U41-157	S0754				0009b07	故…雖由彼生…而非異熟	增译			玄奘补出结论（虽由业生而非异熟）
+U41-159	S0755				0009b08	彼	增译			"從彼業"补"彼"
+U41-160	S0755	karmabhyo	karman	n. abl. pl.	0009b08	業	对译	0169b07	業	
+U41-161	S0755	karmabhyo	abl.	gram. abl. pl. (-bhyaḥ)	0009b08	從	语法	0169b07	從	
+U41-162	S0755				0009b08	生	增译	0169b07	生	梵文省略动词，玄奘、真谛都补"生"
+U41-163	S0755	bhūtāni	bhūta	n.	0009b08	大種	对译	0169b07	四大	
+U41-165	S0755	bhūtebhyaḥ	bhūta	n. abl. pl.	0009b08	大種	对译	0169b07	四大	
+U41-167	S0755	śabdaḥ iti	śabda	n.	0009b09	聲	对译	0169b08	聲	
+U41-168	S0755				0009b09	緣擊發	增译			补出声的生起条件
+U41-169	S0755	pañcamy	pañcama	num. ord.	0009b09	第五	对译	0169b08	第五	
+U41-170	S0755	asau	adas	pron.	0009b09	聲	意译	0169b08	聲	代词还原为所指"聲"
+U41-171	S0755	paraṃparetyapare	paraṃparā	n.	0009b09	傳	对译	0169b08	傳	
+U41-172	S0755	apare	apara	pron. nom. pl.	0009b09	有	意译	0169b08	復有餘師	ity apare 亦译"有說"
+U41-173	S0755				0009b09	故…雖由彼生…而非異熟	增译			同上
+U41-175	S0756	karmabhyo	karman	n. abl. pl.	0009b10	業	对译	0169b08	業	"彼""生"为增字
+U41-176	S0756	vipākajāni	vipāka-ja	cpd. adj.	0009b10	異熟	意译	0169b09	果報	作定语只译"異熟"
+U41-177	S0756	mahābhūtāni	mahā-bhūta	cpd.	0009b10	大種	对译	0169b09	四大	
+U41-178	S0756	tebhyaś	tad	pron. abl. pl.	0009b10	從此	语法	0169b09	從果報四大	真谛还原为所指
+U41-179	S0756				0009b10	傳生	增译			"傳"呼应上文 paraṃparā；下文"此復傳生"同
+U41-180	S0756	aupacayikāni	aupacayika	adj.	0009b11	長養	意译	0169b09	增長	作定语只译"長養"
+U41-181	S0756				0009b11	大種	增译	0169b09	四大	补出梵文所省的 mahābhūta
+U41-183	S0756	naiḥṣyandikāni	naiḥṣyandika	adj.	0009b11	等流	对译	0169b10	等流	
+U41-184	S0756	tebhyaḥ śabda	śabda	n.	0009b11	聲	对译	0169b10	聲	
+U41-186	S0757	śāhī hikyapi	śārīrika	adj.	0009b12	身	对译	0169b10	身	GRETIL 作 śāhī hikyapi，当读 śārīrikyapi（śārīrikī api）
+U41-188	S0757	vedanā	vedanā	n.	0009b12	受	对译	0169b11	受	
+U41-189	S0757	karmajabhūtasaṃbhūtatvān	karma-ja-bhūta-saṃbhūta-tva	cpd. abl.	0009b12	從業所生大種生	对译	0169b11	從業所生四大生	-tva 未译；第五格译"故"
+U41-190	S0757	karmaja	karma-ja	cpd. adj.	0009b12	從業所生	对译	0169b11	從業所生	
+U41-191	S0757	bhūta	bhūta	n.	0009b12	大種	对译	0169b11	四大	
+U41-192	S0757	saṃbhūta	sam-bhū	ptc.	0009b12	生	对译	0169b11	生	
+U41-194	S0757	vipākaḥ	vipāka	n.	0009b12	異熟	对译	0169b11	果報	
+U41-195	S0757	prapnoti	pra-āp	v. pres. 3sg.	0009b12	應	意译	0169b11	應成	prāpnoti（推论"应成"）译"應"；GRETIL 作 prapnoti
+U41-197	S0758				0009b13	受	增译	0169b11	受	补出主语
+U41-198	S0758	śabdavad	śabda	n.	0009b13	聲	对译	0169b11	聲	
+U41-200	S0758	yuktivirodhaḥ	yukti-virodha	cpd.	0009b13	違正理	对译	0169b12	違道理	
+U41-201	S0758	yukti	yukti	n.	0009b13	正理	对译	0169b12	道理	
+U41-202	S0758	virodhaḥ	virodha	n.	0009b13	違	对译	0169b12	違	
+U41-203	S0758	syāt	as	v. opt. 3sg.	0009b13	便	语法	0169b12	則	
+U41-204	S0759	apratighā	a-pratigha	adj.	0009a20	無礙	对译	0169b12	無礙	
+U41-205	S0759	aṣṭau	aṣṭan	num.	0009a20	八	对译	0169b12	八種	
+U41-206	S0759	naiḥṣyandikavipoākajāḥ	naiḥṣyandika-vipākaja	cpd. (dvandva)	0009a20	等流…異熟生	对译	0169b12	流生果報生	GRETIL 作 vipoākajāḥ，当读 vipākajāḥ
+U41-207	S0759	naiḥṣyandika	naiḥṣyandika	adj.	0009a20	等流	对译	0169b12	流生	
+U41-208	S0759	vipoākajāḥ	vipāka-ja	cpd. adj.	0009a20	異熟生	对译	0169b12	果報生	GRETIL 误字
+U41-209	S0759				0009a20	亦…性	增译			颂中补"亦""性"
+U41-211	S0760	'ṣṭau	aṣṭan	num.	0009b13	八	对译	0169b13	八	
+U41-212	S0760				0009b13	無礙	增译			复述颂文 apratigha
+U41-213	S0760	sapta	saptan	num.	0009b13	七	对译	0169b13	七	
+U41-214	S0760	cittadhātavo	citta-dhātu	cpd.	0009b13	心…界	合译	0169b13	識界	与 dharmadhātu 合为"七心法界"，共用"界"
+U41-215	S0760	citta	citta	n.	0009b13	心	对译	0169b13	識	
+U41-216	S0760	dharmadhātuś	dharma-dhātu	cpd.	0009b13	法界	对译	0169b13	法界	
+U41-217	S0760				0009b14	此有等流異熟生性	增译			复述颂文
+U41-218	S0760	naiḥṣyandikāḥ	naiḥṣyandika	adj.	0009b15	等流性	意译	0169b13	等流所生	"性"表类属
+U41-219	S0760	sabhāgasarvatragahetujanitāḥ	sabhāga-sarvatraga-hetu-janita	cpd.	0009b14	同類遍行因所生	对译	0169b14	從同類因及遍行因所生	
+U41-220	S0760	sabhāga	sabhāga	adj.	0009b14	同類	对译	0169b14	同類	
+U41-221	S0760	sarvatraga	sarvatraga	adj.	0009b14	遍行	对译	0169b14	遍行	
+U41-222	S0760	hetu	hetu	n.	0009b14	因	对译	0169b14	因	
+U41-223	S0760	janitāḥ	janaya (caus. jan)	ptc. (janita)	0009b14	生	对译	0169b14	生	
+U41-224	S0761				0009b15	若	增译			
+U41-225	S0761	vipākajā	vipāka-ja	cpd. adj.	0009b15	異熟生	对译	0169b14	果報生	
+U41-226	S0761	vipākahetujanitāḥ	vipāka-hetu-janita	cpd.	0009b15	異熟因所引生	对译	0169b15	從果報因生	
+U41-227	S0761	vipākahetu	vipāka-hetu	cpd.	0009b15	異熟因	对译	0169b15	果報因	
+U41-228	S0761	janitāḥ	janaya (caus. jan)	ptc. (janita)	0009b15	引生	意译	0169b15	生	janita（使生）此作"引生"
+U41-229	S0761	aupacayikā	aupacayika	adj.	0009b16	所長養	对译	0169b15	增長生	
+U41-230	S0761	apratighānāṃ	a-pratigha	adj. gen. pl.	0009b16	無礙	对译	0169b15	無礙	
+U41-232	S0761				0009b16	法	增译	0169b15	法	"無礙法"补"法"
+U41-233	S0761	sañābhāvāt	saṃcaya-abhāva	cpd. abl.	0009b16	無積集	对译	0169b15	無增長	GRETIL 作 sañābhāvāt，当读 saṃcayābhāvāt
+U41-234	S0761	sañā	saṃcaya	n.	0009b16	積集	对译	0169b15	增長	GRETIL 脱字
+U41-235	S0761	ābhāvāt	a-bhāva	n. abl.	0009b16	無	对译	0169b15	無	
+U41-236	S0762	tridhā	tridhā	ind.	0009a21	三	对译	0169b16	三	
+U41-237	S0762	'nye	anya	pron.	0009a21	餘	对译	0169b16	餘	
+U41-238	S0763	anye	anya	pron.	0009b16	餘	对译	0169b16	餘	
+U41-239	S0763				0009b16	謂	增译			
+U41-240	S0763	catvāraḥ	catur	num.	0009b16	四	对译	0169b16	四	
+U41-241	S0763	śeṣā	śeṣa	adj.	0009b16	餘	对译			"餘謂餘四"的第二個"餘"
+U41-242	S0763	rūparasagandhaspraṣṭavyadhātavaḥ	rūpa-rasa-gandha-spraṣṭavya-dhātu	cpd.	0009b16	色、香、味、觸	对译	0169b16	色香味觸	梵文作色味香触，玄奘依常序；dhātu 未译
+U41-243	S0763	rūpa	rūpa	n.	0009b16	色	对译	0169b16	色	
+U41-244	S0763	rasa	rasa	n.	0009b17	味	对译	0169b16	味	
+U41-245	S0763	gandha	gandha	n.	0009b17	香	对译	0169b16	香	
+U41-246	S0763	spraṣṭavya	spraṣṭavya	gdv. n.	0009b17	觸	对译	0169b16	觸	
+U41-247	S0763	dhātavaḥ	dhātu	n.			省译	0169b16	界	
+U41-249	S0764				0009b17	皆通三種	增译			复述颂文 tridhā
+U41-250	S0764	vipākajā	vipāka-ja	cpd. adj.	0009b17	異熟生	对译	0169b17	果報生	
+U41-251	S0764	apy	api	ind.	0009b17	有…有…有	语法	0169b17	或…或…或	api … api … api（既…亦…亦）译"有…有…有"
+U41-252	S0764	aupacayikā	aupacayika	adj.	0009b17	所長養	对译	0169b17	增長生	
+U41-253	S0764	naiḥṣyandrikā	naiḥṣyandika	adj.	0009b18	等流性	意译	0169b17	等流生	GRETIL 作 naiḥṣyandrikā；"性"表类属
+U41-254	S0765	dravyavān	dravyavat	adj.	0009a21	實	对译	0169b17	有物	
+U41-255	S0765	ekaḥ	eka	num.	0009a21	唯	意译	0169b17	一	eka（唯一者）指法界，颂作"唯法"
+U41-256	S0765				0009a21	法	增译			补出所指法界
+U41-257	S0766				0009b18	實唯法者	增译			引颂文
+U41-258	S0766	asaṃskṛtaṃ	a-saṃskṛta	ptc. adj.	0009b18	無為	对译	0169b18	無為	
+U41-260	S0766	sāratvād	sāra-tva	n. abl.	0009b18	堅實	对译	0169b18	貞實	-tva 未译；第五格译"故"
+U41-261	S0766	dravyam	dravya	n.	0009b18	實	对译	0169b18	物	
+U41-262	S0766	dharmadhātāv	dharma-dhātu	cpd. loc.	0009b19	法界	对译	0169b18	法界	
+U41-263	S0766	asty	as	v. pres. 3sg.	0009b19	攝	意译	0169b19	有	"在法界中有"译"法界攝"
+U41-265	S0766	dharmadhātur	dharma-dhātu	cpd.	0009b19	法界	对译	0169b19	法界	
+U41-266	S0766	eko	eka	num.	0009b19	唯…獨	意译	0169b19	唯一	eka 以"唯…獨"表出
+U41-267	S0766	dravyayuktaḥ	dravya-yukta	cpd. adj.	0009b19	有實	对译	0169b19	有物	"名"为增字
+U41-268	S0767	kṣaṇikāḥ	kṣaṇika	adj.	0009a21	剎那	音译	0169b19	一剎那	
+U41-269	S0767	paścimās	paścima	adj.	0009a21	後	对译	0169b19	後	
+U41-270	S0767	trayaḥ	tri	num.	0009a21	三	对译	0169b19	三	
+U41-271	S0767				0009a21	唯	增译			颂"剎那唯後三"之"唯"
+U41-272	S0768	manodhātur	manas-dhātu	cpd.	0009b19	意	对译	0169b20	意界	"界"未译
+U41-273	S0768	dharmadhātur	dharma-dhātu	cpd.	0009b19	法	对译	0169b20	法界	"界"未译
+U41-274	S0768	manovijñānadhātuś	manas-vijñāna-dhātu	cpd.	0009b19	意識	对译	0169b20	意識界	"界"未译
+U41-275	S0768	pāṭhakrameṇa	pāṭha-krama	cpd. instr.	0009b20	於六三中最後說	意译	0169b20	文句次第	依诵读次第，玄奘释为"於六三中最後說"
+U41-277	S0768	paścimāḥ	paścima	adj.	0009b20	後	对译	0169b20	後	"名為""三"为增字
+U41-278	S0769	te	tad	pron.	0009b20	此三界	意译	0169b21	此三	代词补出所指"三界"
+U41-279	S0769				0009b20	唯	增译			
+U41-280	S0769	prathamā	prathama	adj.	0009b21	初	对译	0169b21	初	
+U41-281	S0769	ānāsrave	an-āsrava	adj. loc.	0009b21	無漏	对译	0169b21	無流	
+U41-282	S0769	duḥkhe	duḥkha	n. loc.	0009b21	苦	对译	0169b21	苦	
+U41-283	S0769	dharmajñānakṣāntikalāpe	dharma-jñāna-kṣānti-kalāpa	cpd. loc.	0009b21	法忍品	对译	0169b21	法忍	
+U41-284	S0769	dharmajñānakṣānti	dharma-jñāna-kṣānti	cpd.	0009b21	法忍	意译	0169b21	法忍	法智忍略作"法忍"
+U41-285	S0769	kalāpe	kalāpa	n. loc.	0009b21	品	意译			kalāpa（聚）译"品"
+U41-286	S0769	kṣaṇam	kṣaṇa	n.	0009b21	剎那	音译	0169b21	剎那	
+U41-287	S0769	ekam	eka	num.	0009b20	一	对译	0169b21	一	
+U41-288	S0769	bhavanty	bhū	v. pres. 3pl.	0009b20	有	意译			bhavanti 译"有"（有一剎那）
+U41-289	S0769	anaiḥṣyandikā	a-naiḥṣyandika	adj.	0009b21	非等流	对译	0169b21	非等流生	
+U41-291	S0769	kṣaṇikā	kṣaṇika	adj.	0009b21	一剎那	意译	0169b22	一剎那	
+U41-292	S0769	ucyante	vac	v. pass. 3pl.	0009b21	名	对译	0169b22	言	
+U41-293	S0770				0009b22	此說究竟非等流者	增译			玄奘补出限定语
+U41-294	S0770	anya	anya	pron.	0009b22	餘	对译			GRETIL 连写 anyasaṃbhūtasaṃskṛto，疑读 anyaḥ saṃbhūtaḥ saṃskṛto
+U41-295	S0770	saṃbhūta	sam-bhū	ptc.			省译			
+U41-296	S0770	saṃskṛto	saṃskṛta	ptc. adj.	0009b22	有為	对译			
+U41-297	S0770				0009b22	法	增译			"有為法"补"法"
+U41-298	S0770	kaścid	kaścit	pron.			省译			
+U41-299	S0770	anaiḥṣyandikaḥ	a-naiḥṣyandika	adj.	0009b22	非等流	对译			与 na … asti（無）合为"無非等流"
+U41-300	S0771	duḥkhe	duḥkha	n. loc.	0009b23	苦	对译	0169b22	苦	
+U41-301	S0771	dharmajñānakṣāntisaṃprayuktaṃ	dharma-jñāna-kṣānti-saṃprayukta	cpd.	0009b23	法忍相應	对译	0169b22	法忍相應	
+U41-302	S0771	dharmajñānakṣānti	dharma-jñāna-kṣānti	cpd.	0009b23	法忍	意译	0169b22	法忍	
+U41-303	S0771	saṃprayuktaṃ	saṃprayukta	ptc. adj.	0009b23	相應	对译	0169b22	相應	
+U41-304	S0771	cittaṃ	citta	n.	0009b23	心	对译	0169b22	心	"名"为增字
+U41-305	S0771	manodhātur	manas-dhātu	cpd.	0009b23	意界	对译	0169b22	意界	
+U41-306	S0771	manovijñānadhātuś	manas-vijñāna-dhātu	cpd.	0009b23	意識界	对译	0169b23	意識界	
+U41-307	S0772	śeṣās	śeṣa	adj.	0009b23	餘	对译			
+U41-308	S0772	tatsahabhuvo	tad-saha-bhū	cpd.	0009b23	俱起	意译	0169b23	與彼共生	tad 未译
+U41-309	S0772	sahabhuvo	saha-bhū	adj.	0009b23	俱起	对译	0169b23	共生	
+U41-310	S0772				0009b24	法	增译	0169b23	法	"俱起法"补"法"
+U41-311	S0772	dharmadhātuḥ	dharma-dhātu	cpd.	0009b24	法界	对译			"名為"为增字
+U41-312	S0772				0009b24	如是已說異熟生等	增译			玄奘结上之语
+U41-313	S0773	idaṃ	idam	pron.	0009b24	今	意译	0169b23	此義	待核："今"或为增字
+U41-314	S0773	vicāryate	vicāraya (caus. vi-car)	v. pass. 3sg.	0009b24	思擇	对译	0169b23	簡擇	
+U41-315	S0773				0009b24	應	增译	0169b23	應	被动现在时，玄奘、真谛都作"應"
+U41-316	S0774	yaś	yad	pron. nom.	0009b25	若有	语法	0169b23	若人	关系代词 yaḥ（凡…者）译"若有"
+U41-317	S0774	cakṣurdhātunā	cakṣus-dhātu	cpd. instr.	0009b25	眼界	对译	0169b24	眼界	
+U41-318	S0774	'samanvāgataḥ	a-samanvāgata	ptc. adj.	0009b25	不成就	对译	0169b24	不…相應	
+U41-319	S0774				0009b25	先…今	增译			补出时间对比
+U41-320	S0774	samanvāgamaṃ	samanvāgama	n.	0009b25	成就	对译	0169b24	相應	"今得成就"之"成就"
+U41-321	S0774	pratilabhate	prati-labh	v. pres. 3sg.	0009b25	得	对译	0169b24	至得	
+U41-322	S0774	cakṣurvijñānadhātunā	cakṣus-vijñāna-dhātu	cpd. instr.	0009b25	眼識	对译	0169b24	眼識界	"界"未译
+U41-324	S0774				0009b26	耶	增译			是非问句末加"耶"
+U41-327	S0775	cakṣurvijñānadhātunā	cakṣus-vijñāna-dhātu	cpd. instr.	0009b26	眼識界	对译	0169b25	眼識界	
+U41-328	S0775				0009b26	先不成就今得成就	增译			承上句补出
+U41-329	S0775	cakṣurdhātunā	cakṣus-dhātu	cpd. instr.	0009b26	眼界	对译	0169b25	眼界	
+U41-332	S0775				0009b27	如是等問…今應略答	增译			玄奘补出引起下颂之语

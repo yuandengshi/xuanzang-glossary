@@ -1,0 +1,195 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U53-002	S1074	kāyasyā	kāya	n. gen.	0012c21	身	对译	0172b20	身	
+U53-004	S1074	ādharaṃ	adhara	adj.	0012c21	下	对译	0172b20	下	
+U53-005	S1074	cakṣuḥ	cakṣus	n.	0012c21	眼	对译	0172b20	眼	
+U53-006	S1075	pañcabhūmikāni	pañca-bhūmika	cpd. adj.	0012c25	通五地	意译	0172b20	有五地	"通"表遍于；"三皆"为补出（另记）
+U53-007	S1075	pañca	pañca	num.	0012c25	五	对译	0172b20	五	
+U53-008	S1075	bhūmikāni	bhūmika	adj.	0012c25	地	对译	0172b20	地	
+U53-009	S1075	kāyacakṣūrūpāṇi	kāya-cakṣus-rūpa	cpd.	0012c25	身眼色	对译	0172b20	身眼色	
+U53-010	S1075				0012c25	三皆	增译			补出所指"三"及"皆"
+U53-011	S1075				0012c25	謂在…中	增译	0172b21	謂	"謂在欲界四靜慮中"
+U53-012	S1075	kāmāvacarāṇi	kāma-avacara	cpd. adj.	0012c25	欲界	意译	0172b21	欲界地	kāmāvacara（欲界系）作"欲界"
+U53-014	S1075	caturthadhyānabhūmikāni	caturtha-dhyāna-bhūmika	cpd. adj.	0012c25	四靜慮	意译	0172b21	第四定地	玄奘以"四靜慮"统指四静虑地（不言"第四"）；bhūmika 未译
+U53-015	S1076	dvibhūmikaṃ	dvi-bhūmika	cpd. adj.			省译	0172b21	有二地	玄奘不言"二地"，以"唯在欲界初定"表之（"唯在"另记）
+U53-016	S1076				0012c26	唯在	增译			
+U53-017	S1076	cakṣurvijñānaṃ	cakṣus-vijñāna	cpd.	0012c26	眼識	对译	0172b21	眼識	
+U53-018	S1076	kāmāvacaraṃ	kāma-avacara	cpd. adj.	0012c26	欲界	意译	0172b21	欲界	
+U53-019	S1076	prathamadhyānabhūmikaṃ	prathama-dhyāna-bhūmika	cpd. adj.	0012c26	初定	意译	0172b22	初定	bhūmika 未译
+U53-022	S1077	cakṣurūrdhva	cakṣus	n.	0012c26	眼根	对译	0172b22	眼根	梵文两出 cakṣuḥ，玄奘只作一"眼根"
+U53-023	S1077				0012c26	望	增译			以"望"表比较
+U53-024	S1077	kāyas	kāya	n.	0012c26	身	对译	0172b22	身	
+U53-025	S1077	yadbhūmikaḥ	yad-bhūmika	cpd. adj.	0012c26	生地	意译	0172b22	地	yadbhūmika（在某地者）译"生地"（身所生之地）
+U53-026	S1077	tadbhūmikaṃ	tad-bhūmika	cpd. adj.	0012c27	等	意译	0172b22	等地	与 yadbhūmika 相关（"身在何地，眼即在何地"），译"等"
+U53-027	S1077	ūrdhvabhūmikaṃ	ūrdhva-bhūmika	cpd. adj.	0012c27	上	意译	0172b22	上地	bhūmika 未译
+U53-028	S1077	vā	vā	ind.	0012c27	或…或	语法	0172b22	或…或	"或等或上"
+U53-029	S1077	vā cakṣur	cakṣus	n.			省译			第二个 cakṣuḥ 未重出
+U53-030	S1077	na tv	na tu	ind.	0012c27	終不	语法	0172b23	定無	"終"强调绝不
+U53-031	S1077	adharabhūmikam	adhara-bhūmika	cpd. adj.	0012c27	下	意译	0172b23	下地	"居"为补出
+U53-031+1	S1077				0012c27	居	增译			合并时从 U53-031（居下）拆出
+U53-032	S1078	yadbhūmikaṃ	yad-bhūmika	cpd. adj.			省译	0172b23	隨…地	"yadbhūmikaṃ cakṣuḥ tadbhūmikam"玄奘只作"望眼等"
+U53-033	S1078	cakṣustad	cakṣus	n.	0012c27	眼	对译	0172b23	眼根	
+U53-034	S1078	tadbhūmikam	tad-bhūmika	cpd. adj.	0012c27	等	意译	0172b23	等地	
+U53-035	S1078	adharabhūmikaṃ	adhara-bhūmika	cpd. adj.	0012c27	下	意译	0172b23	下地	
+U53-037	S1078	rūpaṃ	rūpa	n.	0012c27	色	对译	0172b23	色	
+U53-038	S1078	viṣayo	viṣaya	n.			省译	0172b24	境界	
+U53-039	S1079	ūdhrvaṃ	ūrdhva	adj.	0012c21	上	对译	0172b24	上	GRETIL 本作 ūdhrvaṃ，当读 ūrdhvaṃ
+U53-040	S1079	rūpaṃ	rūpa	n.	0012c21	色	对译	0172b24	色	
+U53-042	S1079	cakṣuṣaḥ	cakṣus	n. gen.	0012c21	眼	对译			真谛作"非下境"
+U53-044	S1080	kadācid	kadācit	ind.			省译	0172b24	未曾	真谛以"未曾有"合译 na kadācit
+U53-045	S1080	ūrdhrvabhūmikaṃ	ūrdhva-bhūmika	cpd. adj.	0012c28	上	意译	0172b24	上地	GRETIL 本作 ūrdhrva-，当读 ūrdhva-；bhūmika 未译
+U53-046	S1080	rūpam	rūpa	n.	0012c28	色	对译	0172b25	色	
+U53-047	S1080	adhobhūmikena	adho-bhūmika	cpd. adj. instr.	0012c28	下	意译	0172b25	下地	bhūmika 未译
+U53-048	S1080	cakṣuṣā	cakṣus	n. instr.	0012c28	眼	对译	0172b25	眼	
+U53-049	S1080	draṣṭuṃ	dṛś	inf.	0012c28	見	对译	0172b25	見	
+U53-050	S1080	śakyate	śak	v. pass. 3sg.	0012c28	能	对译	0172b25	能	
+U53-051	S1081	vijñānaṃ	vijñāna	n.	0012c21	識	对译	0172b25	識	本颂"色識非上眼"
+U53-052	S1081	vijñānaṃ	vijñāna	n.	0012c27	識	对译			长行"色識望眼等下非上"
+U53-053	S1082	ūrdhva	ūrdhva	adj.	0012c28	上	对译	0172b26	上	GRETIL 本作 ūrdhva（当读 ūrdhvaṃ）
+U53-054	S1082				0012c28	依下地	增译			"上識不依下地眼故"，"依""下地"为补出
+U53-055	S1082	cakṣuṣo	cakṣus	n. gen.	0012c28	眼	对译	0172b25	眼	
+U53-056	S1082	rūpavat	rūpa	n.	0012c27	色	意译	0172b26	色	rūpavat（如色）：玄奘以"色識望眼等下非上"把色、识合说；-vat 未译；真谛作"譬如色"
+U53-057	S1083	asya	idam	pron. gen.	0012c22	識	意译	0172b26	此	代词 asya 还原为所指"識"（长行释为 cakṣurvijñānasya）
+U53-059	S1083	rūpaṃ	rūpa	n.	0012c22	色	对译	0172b26	色	
+U53-060	S1083	sarvataḥ	sarvatas	ind.	0012c22	一切	意译	0172b26	遍…一切	sarvataḥ（于一切地）；玄奘置于前句"色於識一切"，后句以"亦然"承之；真谛两出
+U53-061	S1083	kāyasyo	kāya	n. gen.	0012c22	身	对译	0172b26	身	
+U53-062	S1083	obhe	ubha	pron. du.	0012c22	二	对译	0172b26	二	
+U53-063	S1083	obhe ca	ca	ind.	0012c22	亦然	语法			ca 与承上省略的 sarvataḥ 合译"亦然"
+U53-066	S1084	anantaroktasya	anantara-ukta	cpd. ptc. gen.			省译	0172b27	前所說	
+U53-067	S1084	cakṣurvijñānasya	cakṣus-vijñāna	cpd. gen.	0012c29	識	意译	0172b27	眼識	玄奘只作"識"
+U53-068	S1084	rūpaṃ	rūpa	n.	0012c29	色	对译	0172b27	色	
+U53-069	S1084				0012c29	望	增译			"色望於識"
+U53-070	S1084	sarvato	sarvatas	ind.	0012c29	通	意译	0172b27	一切	sarvataḥ（于一切处）译"通"（通等上下）
+U53-071	S1084	viṣayaḥ	viṣaya	n.			省译	0172b27	境界	
+U53-072	S1084	ūrdhvam	ūrdhvam	ind.	0012c29	上	对译	0172b28	上	
+U53-073	S1084	adhaḥ	adhas	ind.	0012c29	下	对译	0172b28	下	
+U53-074	S1084	svabhūmau	sva-bhūmi	cpd. loc.	0012c29	等	意译	0172b28	等	svabhūmi（自地）译"等"（同地）
+U53-075	S1085	kāyasya	kāya	n. gen.	0012c29	身	对译	0172b28	身	
+U53-076	S1085	cobhe	ubha	pron. du.			省译	0172b28	二	"ubhe rūpavijñāne"玄奘只作"色識"
+U53-077	S1085	rūpavijñāne	rūpa-vijñāna	cpd. du.	0012c29	色識	对译	0172b28	識及色	
+U53-078	S1085	sarvato	sarvatas	ind.	0012c29	如色於識	意译	0172b28	一切	sarvataḥ（遍一切地）以比况"如色於識"表出
+U53-079	S1085	bhavataḥ	bhū	v. pres. 3du.			省译	0172b29	有	
+U53-082	S1085	cakṣuruttaṃ	cakṣus	n.	0013a01	眼	对译	0172b29	眼根	
+U53-083	S1085	uttaṃ	vac	ptc.	0013a01	說	对译	0172b29	說	GRETIL 本作 uttaṃ，当读 uktaṃ
+U53-084	S1085	vistareṇa	vistara	n. instr.	0013a01	廣	对译	0172b29	廣	
+U53-085	S1085	veditavyam	vid	gdv.	0013a01	知	对译	0172b29	知	
+U53-086	S1086	tathā	tathā	ind.	0012c23	亦然	语法	0172b29	亦爾	"如眼耳亦然"
+U53-087	S1086				0012c23	如眼	增译			承上 cakṣuḥ 补出
+U53-088	S1086	śrotraṃ	śrotra	n.	0012c23	耳	对译	0172b29	耳	
+U53-089	S1086	śrotraṃ	śrotra	n.	0013a01	耳界	意译			长行"廣說耳界應知如眼"，补"界"
+U53-091	S1087	kāyasyā	kāya	n. gen.	0013a01	身	对译	0172c01	身	
+U53-092	S1087	ādharaṃ	adhara	adj.	0013a01	下	对译	0172c01	下	
+U53-093	S1087	śrotram	śrotra	n.	0013a01	耳	对译	0172c01	耳	
+U53-094	S1087	ūrdhvaṃ	ūrdhva	adj.	0013a02	上	对译	0172c01	上	
+U53-095	S1087	śabdo	śabda	n.	0013a02	聲	对译	0172c01	聲	
+U53-096	S1087	śruteḥ	śruti	n. gen.	0013a02	耳	对译			śruti（闻，指耳根）译"耳"
+U53-097	S1087	vijñānaṃ cāsya	vijñāna	n.	0013a02	識	对译	0172c01	識	
+U53-099	S1087	śabdastu	śabda	n.	0013a02	聲	对译	0172c01	聲	
+U53-100	S1087	kāyasyobhe	kāya	n. gen.	0013a02	身	对译	0172c02	身	
+U53-101	S1087	kāyasyobhe	ubha	pron. du.	0013a02	二	对译	0172c02	二	
+U53-102	S1087	obhe ca	ca	ind.	0013a02	亦然	语法			
+U53-103	S1087	sarvataḥ	sarvatas	ind.	0013a02	一切	意译	0172c01	遍…一切	
+U53-104	S1088	vistareṇa	vistara	n. instr.	0013a03	廣	对译	0172c02	廣	
+U53-105	S1088	yojyam	yuj	gdv.	0013a03	釋	意译	0172c02	說	yojya（应配合推演）译"釋"
+U53-107	S1088				0013a02	隨其所應…如眼	增译	0172c02	如理…如眼	真谛亦有"如理""如眼"
+U53-108	S1089	trayāṇāṃ	traya	num. gen.	0012c23	三	对译	0172c02	三	
+U53-109	S1089				0012c23	次	增译	0172c02	餘	表次第（鼻舌身），真谛作"餘"
+U53-110	S1089	sarvameva	sarva	adj.	0012c23	皆	对译	0172c03	一切	
+U53-111	S1089	svabhūmikam	sva-bhūmika	cpd. adj.	0012c23	自地	对译	0172c03	屬自地	
+U53-112	S1090	ghrāṇajihvākāyadhātūnāṃ	ghrāṇa-jihvā-kāya-dhātu	cpd. gen.	0013a03	鼻舌身	意译	0172c03	鼻、舌、身界	dhātu 未译，"三"为补出
+U53-112+1	S1090				0013a03	三	增译			合并时从 U53-112（鼻舌身三）拆出
+U53-113	S1090	ghrāṇa	ghrāṇa	n.	0013a03	鼻	对译	0172c03	鼻	
+U53-114	S1090	jihvā	jihvā	n.	0013a03	舌	对译	0172c03	舌	
+U53-115	S1090	jihvākāya	kāya	n.	0013a03	身	对译	0172c03	身	
+U53-116	S1090	kāyaviṣayavijñānāni	kāya-viṣaya-vijñāna	cpd.	0013a03	總皆	意译	0172c03	身自塵及識	身、境、识三者以"總皆"概括
+U53-117	S1090	svabhūmikāny	sva-bhūmika	cpd. adj.	0013a03	自地	对译	0172c04	屬自地	
+U53-118	S1091	utsargaviśeṣeṇa	utsarga-viśeṣa	cpd. instr.			省译	0172c04	通立無差別	玄奘略去"先作通则"之语
+U53-119	S1091	kṛtvā	kṛ	abs.			省译			
+U53-120	S1091				0013a03	於中	增译			玄奘以"於中別者"概括此句
+U53-121	S1091	viśeṣaṇārtham	viśeṣaṇa-artham	cpd. ind.			省译	0172c04	為簡別	
+U53-122	S1091	apavāda	apavāda	n.	0013a04	別	意译	0172c05	別言	apavāda（例外之规定）译"別"（別者）
+U53-123	S1091	ārabhyate	ā-rabh	v. pass. 3sg.			省译	0172c04	更立	
+U53-124	S1092	kāyavijñānam	kāya-vijñāna	cpd.	0012c24	身識	对译	0172c05	身識	
+U53-125	S1092	adharasvabhūmi	adhara-sva-bhūmi	cpd. adj.	0012c24	自下地	意译	0172c05	下自地	玄奘倒序作"自下地"
+U53-126	S1092	adhara	adhara	adj.	0012c24	下	对译	0172c05	下	
+U53-127	S1092	svabhūmi	sva	pron.	0012c24	自	对译	0172c05	自	
+U53-128	S1092	bhūmi	bhūmi	n.	0012c24	地	对译	0172c05	地	
+U53-129	S1093	kāyaḥ	kāya	n.	0013a04	身	对译	0172c05	身	
+U53-130	S1093	kāyadhātuḥ	kāya-dhātu	cpd.			省译			释语"kāyaḥ kāyadhātuḥ"玄奘未译
+U53-131	S1093	spraṣṭavyaṃ	spraṣṭavya	gdv. n.	0013a04	觸	对译	0172c06	觸	
+U53-132	S1093	spraṣṭavyaṃ ca	ca	ind.	0013a04	與	语法			并列 ca 译"與"
+U53-133	S1093	svabhūmikāny	sva-bhūmika	cpd. adj.	0013a04	其地…同	意译	0172c06	在自地	svabhūmika（各在自地）译"其地…同"
+U53-134	S1093	nityaṃ	nityam	ind.	0013a04	必	意译	0172c06	恒	nityam（恒常）译"必"
+U53-135	S1094	kāyavijñānaṃ tu	kāya-vijñāna	cpd.	0013a04	識	意译	0172c06	身識	玄奘只作"識"
+U53-136	S1094				0013a04	望觸身	增译			以"望觸身"表比较对象
+U53-138	S1094	svabhūmikaṃ	sva-bhūmika	cpd. adj.	0013a05	自	意译	0172c06	屬自地	
+U53-140	S1094				0013a05	若	增译			
+U53-141	S1094	kāmadhātuprathamadhyānopapannāṃ	kāma-dhātu-prathama-dhyāna-upapanna	cpd. gen. pl.	0013a05	生欲界初定	对译	0172c07	生欲界及初定	GRETIL 本作 -upapannāṃ，当读 -upapannānām
+U53-142	S1094	kāmadhātu	kāma-dhātu	cpd.	0013a05	欲界	对译	0172c07	欲界	
+U53-143	S1094	prathamadhyāno	prathama-dhyāna	cpd.	0013a05	初定	对译	0172c07	初定	
+U53-144	S1094	opapannāṃ	upa-pad	ptc. gen. pl.	0013a05	生	对译	0172c07	生	
+U53-146	S1095	adharabhūmikaṃ	adhara-bhūmika	cpd. adj.	0013a05	下	意译	0172c07	屬下地	
+U53-148	S1095	dvitīyādidhyānopapannānām	dvitīya-ādi-dhyāna-upapanna	cpd. gen. pl.	0013a05	生上三定	意译	0172c07	生二定	dvitīyādi（第二等）译"上三"
+U53-149	S1095	dvitīyādi	dvitīya-ādi	cpd.	0013a05	上三	意译	0172c07	二定	
+U53-150	S1095	dhyāno	dhyāna	n.	0013a05	定	意译	0172c07	定	
+U53-151	S1095	opapannānām	upa-pad	ptc. gen. pl.	0013a05	生	对译	0172c07	生	
+U53-152	S1095	nāmiti	iti	ind.	0013a05	謂之為	语法			句末 iti，玄奘以"謂之為下"重申"下"，待核
+U53-153	S1096	aniyataṃ	a-niyata	ptc. adj.	0012c24	不定	对译	0172c08	不定	
+U53-154	S1096	manaḥ	manas	n.	0012c24	意	对译	0172c08	意根	
+U53-155	S1096				0012c24	應知	增译			本颂补足字数
+U53-156	S1096	manaḥ	manas	n.	0013a06	意界	意译			长行复述本颂"應知意界四事不定"，补"界"
+U53-157	S1096	aniyataṃ	a-niyata	ptc. adj.	0013a06	不定	对译			长行复述本颂
+U53-158	S1096				0013a06	四事	增译			意、身、識、法四事
+U53-160	S1097	mano bhavati	manas	n.	0013a06	意	对译	0172c08	意根	
+U53-161	S1097	kāyamanovijñānadharmaiḥ	kāya-manas-vijñāna-dharma	cpd. instr. pl.	0013a07	身識法	意译	0172c08	身意識法	manovijñāna 作"識"
+U53-162	S1097	kāyamano	kāya	n.	0013a07	身	对译	0172c08	身	
+U53-163	S1097	manovijñāna	manas-vijñāna	cpd.	0013a07	識	意译	0172c08	意識	
+U53-164	S1097	dharmaiḥ	dharma	n. instr. pl.	0013a07	法	对译	0172c09	法	
+U53-166	S1097				0013a07	四皆	增译			补出"四"（意、身、識、法）及"皆"
+U53-167	S1097	samānabhūmikaṃ	samāna-bhūmika	cpd. adj.	0013a07	同地	对译	0172c09	同在一地	
+U53-169	S1097	ūrdhvādhobhūmikam	ūrdhva-adho-bhūmika	cpd. adj.	0013a07	上下	意译	0172c09	上下為地	bhūmika 未译
+U53-170	S1098	pañcabhūmike	pañca-bhūmika	cpd. adj. loc.	0013a07	五地	对译	0172c09	五地	
+U53-172	S1098	kāye	kāya	n. loc.	0013a07	身	对译	0172c09	身	
+U53-173	S1098				0013a07	唯	增译			"身唯五地"
+U53-174	S1098	sarvabhūmikāni	sarva-bhūmika	cpd. adj.	0013a08	通一切	意译	0172c10	一切地	bhūmika 未译，"通"表遍
+U53-175	S1098	mana ādīni	manas-ādi	cpd.	0013a07	三	意译	0172c10	意等	mana-ādi（意等，指意、识、法）以"三"概称
+U53-176	S1098	samāpattyupapattikāle	samāpatti-upapatti-kāla	cpd. loc.	0013a08	等至…生時	意译	0172c10	入觀時及受生時	"遊""及""受"为补出；"於"另记
+U53-176+1	S1098				0013a08	遊	增译			合并时从 U53-176（遊等至及受生時）拆出
+U53-176+2	S1098				0013a08	及	增译			合并时从 U53-176（遊等至及受生時）拆出
+U53-176+3	S1098				0013a08	受	增译			合并时从 U53-176（遊等至及受生時）拆出
+U53-177	S1098	samāpatty	samāpatti	n.	0013a08	等至	对译	0172c10	入觀	
+U53-178	S1098	upapatti	upapatti	n.	0013a08	生	对译	0172c10	生	
+U53-179	S1098	kāle	kāla	n. loc.	0013a08	時	对译	0172c10	時	
+U53-181	S1098	yathāyogam	yathā-yoga	ind.	0013a08	隨其所應	意译			yathāyogam（随其所宜）
+U53-182	S1098				0013a09	或同或異	增译			玄奘补出
+U53-183	S1098	vistareṇa	vistara	n. instr.	0013a09	廣	对译	0172c11	廣	
+U53-184	S1098	samāpattinirdeśe	samāpatti-nirdeśa	cpd. loc.	0013a09	定品	意译	0172c11	分別三摩跋提品	真谛 samāpatti 音译"三摩跋提"
+U53-185	S1098	samāpattinirdeśe	samāpatti	n.	0013a09	定	意译	0172c11	三摩跋提	samāpatti 此作"定"，上文作"等至"
+U53-186	S1098	nirdeśe	nirdeśa	n. loc.	0013a09	品	意译	0172c11	品	nirdeśa（章）译"品"
+U53-187	S1098	kośasthāna	kośa-sthāna	cpd. loc.			省译			kośasthāna（论之一章）未译
+U53-189	S1098				0013a09	如後	增译			"如後定品當廣分別"
+U53-190	S1098	ākhyāyiṣyate	ā-khyā	v. fut. pass. 3sg.	0013a09	分別	意译	0172c11	說	
+U53-192	S1099	atihahugranthabhāraparihārārthaṃ	ati-bahu-grantha-bhāra-parihāra-artham	cpd. ind.	0013a09	為捨繁文故	意译	0172c11	為離繁重言故	GRETIL 本作 atihahu-，当读 atibahu-
+U53-193	S1099	granthabhāra	grantha-bhāra	cpd.	0013a09	繁文	意译	0172c11	繁重言	ati-bahu（过多）并入"繁"字
+U53-194	S1099	parihār	parihāra	n.	0013a09	捨	对译	0172c11	離	
+U53-195	S1099	ārthaṃ	artham	ind.	0013a09	為…故	语法	0172c11	為…故	复合词末的 -artham（为了）译"為…故"
+U53-196	S1099	nedānīṃ	na	ind.	0013a10	未	语法	0172c12	不	
+U53-197	S1099	nedānīṃ	idānīm	ind.	0013a10	今	对译			
+U53-198	S1099	ākhyāyate	ā-khyā	v. pass. 3sg.	0013a10	辯	意译	0172c12	說	
+U53-199	S1100				0013a10	前後再述	增译	0172c13	前來往復	补出"若前后重述"之意
+U53-200	S1100	alpaṃ	alpa	adj.	0013a10	少	对译	0172c12	少	
+U53-201	S1100	prayojanaṃ	prayojana	n.	0013a10	用	对译	0172c12	用	
+U53-202	S1100	mahāṃś	mahat	adj.	0013a10	多	意译	0172c12	多	
+U53-203	S1100	śrama	śrama	n.	0013a10	功	意译	0172c12	功	śrama（劳苦）译"功"
+U53-204	S1100	samāpta	sam-āp	ptc.	0013a10	周	意译	0172c13	竟	
+U53-206	S1100	ānuṣaṅgikaḥ	ānuṣaṅgika	adj.	0013a10	傍	意译	0172c13	相關	ānuṣaṅgika（附带的）译"傍"
+U53-207	S1100	prasaṅgaḥ	prasaṅga	n.	0013a10	論	意译	0172c13	說	prasaṅga（附带论及）译"論"
+U53-208	S1100				0013a10	應辯正論	增译			玄奘补出
+U53-209	S1101	idānīṃ	idānīm	ind.	0013a11	今	对译	0172c13	今	
+U53-210	S1101				0013a11	當	增译	0172c13	應	梵文为现在时被动，玄奘补"當"
+U53-211	S1101	vicāryate	vicāraya (caus. vi-car)	v. pass. 3sg.	0013a11	思擇	意译	0172c13	思量	
+U53-212	S1102	aṣṭādaśānāṃ	aṣṭādaśan	num. gen.	0013a11	十八	对译	0172c14	十八	
+U53-213	S1102	cdātūnāṃ	dhātu	n. gen. pl.	0013a11	界	对译	0172c14	界	GRETIL 本作 cdātūnāṃ，当读 ca dhātūnāṃ
+U53-215	S1102	ṣaṇṇāṃ	ṣaṣ	num. gen.	0013a11	六	对译	0172c14	六	
+U53-216	S1102	vijñānānāṃ	vijñāna	n. gen. pl.	0013a11	識	对译	0172c14	識	
+U53-217	S1102	vijñānānāṃ	gen.	gram. gen. pl. (-ānām)	0013a11	內	语法			表部分的第六格以"內"表出（六識內）
+U53-220	S1102	vijñeyaḥ	vi-jñā	gdv.	0013a12	所識	对译	0172c14	所知	

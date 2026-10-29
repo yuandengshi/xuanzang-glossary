@@ -1,0 +1,47 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U21-002	S0351	śobhārthaṃ	śobhā-artham	cpd. ind.	0004c04	為…端嚴	意译	0165a14	為莊嚴	"令"为增字
+U21-002+1	S0351				0004c04	令	增译			合并时从 U21-002（為令端嚴）拆出
+U21-003	S0351	śobhārthaṃ	-artham	gram. purpose	0004c04	為	语法	0165a14	為	
+U21-004	S0351				0004c04	令	增译			
+U21-005	S0351	śobhā	śobhā	n.	0004c04	端嚴	对译	0165a14	莊嚴	
+U21-006	S0351				0004c04	各	增译			
+U21-007	S0351	dvayodbhavaḥ	dvaya-udbhava	cpd.	0004c04	生二	对译	0165a14	生二	
+U21-008	S0351	odbhavaḥ	udbhava	n.	0004c04	生	对译	0165a14	生	
+U21-009	S0351	dvayo	dvaya	n.	0004c04	二	对译	0165a14	二	
+U21-010	S0352	śobhārtham	-artham	gram. purpose	0004c05	為…故	语法	0165a15	為…故	
+U21-011	S0352	āśrayasya	āśraya	n. gen.	0004c05	所依身	意译	0165a16	依止	补出"身"
+U21-012	S0352	śobhārtham	śobhā-artham	cpd. ind.	0004c05	為…端嚴故	意译	0165a15	為莊嚴…故	"相"为增字
+U21-013	S0352	śobhārtham	śobhā	n.	0004c05	端嚴	对译	0165a15	莊嚴	
+U21-014	S0352	ekadhātutve	eka-dhātu-tva	cpd. loc.	0004c05	界體…一	意译	0165a15	一界	
+U21-015	S0352	ekadhātutve	dhātu	n.	0004c05	界	对译	0165a15	界	
+U21-017	S0352	ekadhātutve	eka	num.	0004c05	一	对译	0165a15	一	
+U21-018	S0352	dvayoḥ	dvaya	n. gen. du.	0004c05	兩處	意译	0165a15	二	
+U21-019	S0352	saṃbhava	saṃbhava	n.	0004c06	生	对译	0165a15	生	
+U21-020	S0352	cakṣurādīnaṃ	cakṣus-ādi	cpd. gen.			省译	0165a15	眼等	
+U21-021	S0353	anya thā	anyathā	ind.	0004c06	若	语法	0165a16	若不爾	GRETIL 本分写作 anya thā
+U21-022	S0353	ekacakṣuḥśrotrādhiṣṭhāna	eka-cakṣus-śrotra-adhiṣṭhāna	cpd.	0004c06	眼耳根處…一	意译	0165a16	一眼耳一依處	
+U21-023	S0353	cakṣuḥ	cakṣus	n.	0004c06	眼	对译	0165a16	眼	
+U21-024	S0353	śrotrā	śrotra	n.	0004c06	耳	对译	0165a16	耳	
+U21-025	S0353	ādhiṣṭhāna	adhiṣṭhāna	n.	0004c06	根處	意译	0165a16	依處	adhiṣṭhāna（所依处）
+U21-026	S0353				0004c06	唯	增译			
+U21-027	S0353	saṃbhavāt	saṃbhava	n. abl.	0004c06	生	对译	0165a16	生	
+U21-028	S0353	ekacakṣuḥ	eka	num.	0004c06	一	对译	0165a16	一	
+U21-029	S0353	aikanāsikāvilasaṃbhavāt	eka-nāsikā-bila-saṃbhava	cpd. abl.	0004c06	鼻無二穴	意译	0165a16	一鼻一孔生	以否定"無二穴"意译 eka-nāsikā-bila（只有一个鼻孔）；GRETIL 作 -vila-（即 bila）
+U21-030	S0353	nāsikā	nāsikā	n.	0004c06	鼻	对译	0165a16	鼻	
+U21-031	S0353	vila	bila	n.	0004c06	穴	对译	0165a16	孔	GRETIL 本作 vila
+U21-032	S0353				0004c06	身	增译	0165a17	此身	
+U21-033	S0353	vairupyaṃ	vairūpya	n.	0004c06	不端嚴	意译	0165a17	醜陋	以"不端嚴"译 vairūpya（丑陋）；GRETIL 本作 vairupyaṃ
+U21-034	S0353	mahad	mahat	adj.			省译	0165a17	大	
+U21-036	S0354	uktāḥ	vac	ptc.	0004c11	說	对译	0165a21	說	
+U21-038	S0354	skandhāyatanadhātavaḥ	skandha-āyatana-dhātu	cpd. nom. pl.	0004c11	蘊及處界	意译	0165a21	陰入界	复数"諸"、并列"及"另记
+U21-039	S0354	skandhā	skandha	n.	0004c11	蘊	对译	0165a21	陰	
+U21-040	S0354	skandhāyatanadhātavaḥ	dvandva	gram. cpd.	0004c11	及	语法			
+U21-041	S0354	āyatana	āyatana	n.	0004c11	處	对译	0165a21	入	
+U21-042	S0354	dhātavaḥ	dhātu	n.	0004c11	界	对译	0165a21	界	
+U21-043	S0354				0004c11	攝	增译			玄奘补"攝"，指上文诸蕴处界的相摄
+U21-045	S0355	vaktavyaṃ	vac	gdv.	0004c11	說	对译	0165a22	說	
+U21-046	S0355	idaṃ	idam	pron. nom.	0004c11	其義	意译	0165a22	此義	代词 idam 还原为"其義"
+U21-047	S0355	skandhāyatanadhātvartha	skandha-āyatana-dhātu-artha	cpd.	0004c11	蘊處界…義	意译	0165a22	陰入界其義	"此""別"为增字
+U21-047+1	S0355				0004c12	別	增译			合并时从 U21-047（蘊處界別義）拆出
+U21-048	S0355	artha	artha	n.	0004c12	義	对译	0165a22	義	
+U21-050	S0353				0004c07	此釋不然…誰言醜陋	梵本缺文	0165a17	是義不然…若本來如此	玄奘 0004c07–c11、真谛 0165a17–a21 都有驳"為端嚴"说、以"為所發識明了"释三根各生二处的一段（"此釋不然……是故三根各生二處"），GRETIL（Pradhan）无；合并时补入

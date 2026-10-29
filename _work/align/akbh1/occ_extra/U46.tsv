@@ -1,0 +1,86 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U46-002	S0877	cakṣuśca	ca	ind.			省译			"眼法界一分"不译 ca … ca
+U46-012	S0878	ityāha	ah	v. perf. 3sg.			省译	0170b27	偈曰	玄奘颂文已集中列于前（頌曰 0010c03），此处不再出
+U46-030	S0880	ityayam	idam	pron. nom.	0010c10	此	语法	0170b28	此	"此八是見"
+U46-037	S0880	na dṛṣṭiḥ	na	ind.	0010c11	非	语法	0170b29	非	
+U46-039	S0880	tatra	tatra	ind.			省译	0170b29	此中	
+U46-045	S0880	nirdeśe	loc.	gram. loc. (-e)	0010c11	中	语法	0170c01	中	第七格译"中"（隨眠品中）
+U46-051	S0880	bhaviṣyati	fut.	gram. fut. (-sya-)	0010c11	當	语法	0170c01	當	未来时
+U46-053	S0881	punaḥ	punar	ind.			省译			
+U46-090	S0883	dṛṣṭibhir	pl.	gram. instr. pl. (-bhiḥ)	0010c15	諸	语法			复数以"諸"表出（世間諸見）
+U46-096	S0884	atha	atha	ind.			省译			
+U46-101	S0884	prayuktaivocyate	eva	ind.	0010c17	唯	语法	0170c05	唯	
+U46-109	S0886	dhīrna	na	ind.	0010c05	非	语法	0170c06	非	
+U46-113	S0886	atīraṇāt	abl.	gram. abl. (-āt)	0010c05	故	语法	0170c06	故	第五格表原因
+U46-119	S0887	santīrikā hi	hi	ind.			省译			
+U46-125	S0887	na caivaṃ	na	ind.	0010c19	無	语法	0170c08	不	"無如是能"
+U46-126	S0887	caivaṃ	evam	ind.	0010c19	如是	语法	0170c08	爾	"能"为增字
+U46-130	S0888	tasmād	tasmāt	ind.	0010c19	是故	语法	0170c08	是故	
+U46-131	S0888	tasmādsau	adas	pron. nom.			省译			GRETIL 本作 tasmādsau，当读 tasmād asau
+U46-136	S0888	'pi kliṣṭā	api	ind.			省译			
+U46-139	S0888	'kliṣṭā vā	vā	ind.			省译			
+U46-168	S0891	'pi paśyet	api	ind.	0010c22	亦	语法			
+U46-169	S0891	'pi paśyet	opt.	gram. opt. (-et)	0010c22	應	语法	0170c11	應	祈愿式译"應"
+U46-183	S0893	neti	iti	ind.			省译			
+U46-184	S0894	evam tarhi	evaṃ tarhi	ind.	0010c24	若爾	语法	0170c14	若爾	
+U46-185	S0894	tadeva	tad	pron. nom.	0010c24	彼	语法			
+U46-201	S0897	kiṃ kāraṇam	kiṃ kāraṇam	pron. + n.	0010c25	所以者何	语法	0170c15	何以故	
+U46-204	S0898	rūpaṃ na	na	ind.	0010c07	不	语法	0170c16	非	
+U46-205	S0898	kilā	kila	ind.	0010c07	傳說	语法	0170c16	彼執爾	kila 表传闻，玄奘译"傳說"；真谛作"彼執爾"
+U46-208	S0898	kilā	kila	ind.	0010c25	傳說	语法			长行"傳說，不能觀障色故"复述颂文
+U46-221	S0900	yadi hi	yadi	ind.	0010c27	若…者	语法	0170c17	若	
+U46-229	S0900	nāsti	na	ind.	0010c27	不	语法	0170c18	不	na … asti，玄奘以"不礙"表出
+U46-232	S0900	rūpaṃ paśyet	opt.	gram. opt. (-et)	0010c27	應	语法	0170c18	應	
+U46-234	S0901	naiva	eva	ind.			省译			
+U46-236	S0901	hāvṛte	loc.	gram. loc. (-e)	0010c28	於	语法	0170c18	於	
+U46-243	S0901	drakṣyati	fut.	gram. fut. (-sya-)	0010c28	當	语法			未来时
+U46-245	S0902	kiṃ khalu	kim	pron.	0010c29	何故	语法	0170c19	云何	
+U46-246	S0902	khalu	khalu	ind.			省译			
+U46-250	S0903	yasya tu	tu	ind.			省译			
+U46-262	S0903	āśrayeṇa	instr.	gram. instr. (-eṇa)	0011a01	與	语法	0170c21	與	第三格表共同（識與所依）
+U46-276	S0904	kāyendriyavat	-vat	gram. suffix	0011a03	如	语法	0170c22	猶如	
+U46-277	S0904	yata	yatas	ind.			省译			
+U46-282	S0906	ścāntaritaṃ	ca	ind.	0011a04	又	语法			
+U46-294	S0907	sapratighatvāc	abl.	gram. abl. (-āt)	0011a05	由…故	语法	0170c24	由	
+U46-306	S0909	rupe	loc.	gram. loc. (-e)	0011a07	於	语法	0170c26	於	
+U46-311	S0910	tatra	tatra	ind.	0011a08	於彼	语法	0170c27	於中	"於彼障色"，"障色"承上补出
+U46-317	S0911	yattarhi	yad	pron.			省译			
+U46-324	S0911	dṛṣṭve"ti	iti	ind.	0011a09	者	语法			引经文加 iti，玄奘用"……者"标出
+U46-327	S0912	āśrayeṇety	iti	ind.	0011a10	故	语法			"故說能見"，"說能見"为承上补出
+U46-328	S0912	atrā	atra	ind.			省译	0170c28	此中	
+U46-330	S0912	yathā	yathā	ind.	0011a10	如	语法	0170c29	如	
+U46-331	S0912	tyāha	ah	v. perf. 3sg.	0011a10	言	语法	0170c29	說	"如彼經言"，"彼經"为补出的主语
+U46-339	S0914	atītatvāt	abl.	gram. abl. (-āt)	0011a11	以…故	语法	0171a01	以…故	
+U46-343	S0915	vā	vā	ind.	0011a12	或	语法	0171a02	復次	
+U46-350	S0916	yathā mañcāḥ	yathā	ind.	0011a13	如	语法	0171a03	譬如	
+U46-354	S0917	yathā ca	ca	ind.	0011a13	又	语法	0171a03	復次	
+U46-365	S0918	vijñāyante	pass.	gram. pass. (-ya-)	0011a14	所	语法	0171a04	所	被动以"所"表出（眼所識）
+U46-377	S0919	ityato	atas	ind.	0011a16	故	语法	0171a05	由此…故	
+U46-388	S0920	etad	etad	pron.			省译	0171a07	是義	
+U46-395	S0921	yadi vijñānaṃ	yadi	ind.	0011a17	若	语法	0171a08	若	
+U46-398	S0921	ko	kim	pron. nom.	0011a18	誰	语法	0171a08	何法	
+U46-400	S0921	kaś	kim	pron. nom.	0011a18	何	语法	0171a08	何	
+U46-404	S0922	yadeva	eva	ind.	0011a18	即	语法	0171a09	即	强调同一
+U46-405	S0922	yadeva hi rūpasya vijñānaṃ tadevā	yad … tad	gram. rel.-cor.	0011a19	名	语法	0171a09	即是	"以即見色名了色故"，玄奘把主谓倒置
+U46-415	S0923	tyapyucyate	api	ind.	0011a19	亦	语法	0171a09	或	"亦能簡擇"
+U46-417	S0923	apyevaṃ	evam	ind.	0011a20	如是	语法	0171a10	如此	
+U46-425	S0925	"yadi	yadi	ind.	0011a21	若	语法	0171a10	若	
+U46-431	S0925	kā	kim	pron. nom.	0011a21	誰	语法	0171a11	何法	
+U46-436	S0926	tadetad	tad	pron.			省译			
+U46-437	S0926	etad	etad	pron.	0011a21	此	语法	0171a12	此	"此言非難"，"言"为增字
+U46-451	S0929	punar	punar	ind.	0011a23	復	语法	0171a13	復	
+U46-457	S0930	āśrayabhāvāc	abl.	gram. abl. (-āt)	0011a23	故	语法	0171a14	故	
+U46-467	S0932	caīvaṃ	evam	ind.	0011a24	若爾	合译	0171a15	若爾	GRETIL 本作 caīvaṃ，当读 caivaṃ；与 nanu 合为"若爾"
+U46-480	S0935	tasmin	tad	pron. loc.	0011a26	彼	语法	0171a17	此識	
+U46-488	S0936	vibhāṣāyām	loc.	gram. loc. (-e)	0011a27	中	语法	0171a18	中	
+U46-497	S0937	tasmāc	tasmāt	ind.	0011a28	是故	语法	0171a19	故	
+U46-502	S0937	paśyatītyevocyate	iti	ind.	0011a29	名	语法			"但說眼名能見"
+U46-516	S0939	divasakara iti	iti	ind.	0011b01	名	语法			"說日名能作晝"
+U46-518	S0939	sautrāntikā	pl.	gram. nom. pl. (-āḥ)	0011b01	諸	语法			复数以"諸"表出（經部諸師）
+U46-519	S0939	āhuḥ	ah	v. perf. 3pl.	0011b01	說	对译	0171a20	說	"有作是說"，"有作是"为增字
+U46-521	S0939	kimidam	idam	pron. nom.			省译			
+U46-532	S0940	kaḥ paśyati	act.	gram. act. (-ti)	0011b03	能	语法	0171a22	能	主动（能见者）以"能"表出
+U46-534	S0940	dṛśyate	pass.	gram. pass. (-ya-)	0011b03	所	语法	0171a22	所	被动（所见者）以"所"表出
+U46-553	S0943	ābhiniveṣṭavyam	gdv.	gram. gdv. (-tavya)	0011b05	應	语法	0171a24	應	义务分词译"應"
+U46-565	S0945	eṣa tu	tu	ind.	0011b06	然	语法			
+U46-593	S0948	nātra	na	ind.	0011b09	無	语法	0171a28	無	

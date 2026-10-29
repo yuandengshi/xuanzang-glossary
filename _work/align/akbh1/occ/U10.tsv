@@ -1,0 +1,511 @@
+oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
+U10-001	S0139	rūpaṃ	rūpa	n.	0002b22	色	对译	0163a15	色	
+U10-002	S0139	dvidhā	dvidhā	ind.	0002b22	二	对译	0163a15	二	
+U10-003	S0140				0002b24	言色二者	增译			长行标举颂文
+U10-004	S0140				0002b24	一…二	增译	0163a15	一…二	玄奘、真谛都补出序数
+U10-005	S0140	varṇaḥ	varṇa	n.	0002b24	顯	对译	0163a15	顯色	
+U10-006	S0140	saṃsthānaṃ	saṃsthāna	n.	0002b24	形	对译	0163a15	形色	
+U10-007	S0140	varṇaś	varṇa	n.	0002b24	顯色	对译	0163a15	顯色	
+U10-008	S0140	caturvidho	caturvidha	adj.	0002b24	四	对译	0163a16	四種	
+U10-009	S0140	nīlādiḥ	nīla-ādi	cpd.	0002b24	青、黃、赤、白	意译	0163a16	青、黃、赤、白	玄奘、真谛都把"青等"展开为四色
+U10-010	S0140	nīlādiḥ	nīla	adj.	0002b24	青	对译	0163a16	青	
+U10-011	S0140	tadbhedā	tad-bheda	cpd.	0002b25	此四色差別	对译	0163a16	此四色未異	
+U10-012	S0140	tadbhedā	tad	pron.	0002b25	此四色	意译	0163a16	此四色	复合词前项 tad 还原为所指"此四色"
+U10-013	S0140	bhedā	bheda	n.	0002b25	差別	对译	0163a16	未異	
+U10-014	S0140	anye	anya	pron.	0002b25	餘	对译	0163a16	餘	
+U10-015	S0140				0002b25	顯	增译	0163a16	色	补出"顯"（餘顯）
+U10-016	S0141	samsthānam	saṃsthāna	n.	0002b25	形色	对译	0163a16	形…色	GRETIL 本作 samsthānam
+U10-017	S0141	aṣṭavidhaṃ	aṣṭavidha	adj.	0002b25	八	对译	0163a17	八種	
+U10-018	S0141	dīrghadi	dīrgha-ādi	cpd.	0002b26	長為初	意译	0163a17	長等	GRETIL 本作 dīrghadi，当读 dīrghādi
+U10-019	S0141	dīrghadi	dīrgha	adj.	0002b26	長	对译	0163a17	長	
+U10-020	S0141	dīrghadi	ādi	n.	0002b26	為初	意译	0163a17	等	
+U10-021	S0141	visātāntam	viśāta-anta	cpd.	0002b26	不正為後	意译			GRETIL 本作 visātāntam，当读 viśātāntam；真谛未译
+U10-022	S0141	visātā	viśāta	adj.	0002b26	不正	对译			
+U10-023	S0141	āntam	anta	n.	0002b26	為後	意译			
+U10-024	S0142				0002b26	或二十者	增译			长行标举颂文
+U10-025	S0142	tadeva	eva	ind.	0002b26	即	语法			
+U10-026	S0142	rūpāyatanaṃ	rūpa-āyatana	cpd.	0002b26	色處	对译	0163a17	色入	真谛 āyatana 译"入"
+U10-027	S0142	rūpāyatanaṃ	rūpa	n.	0002b26	色	对译	0163a17	色	
+U10-028	S0142	āyatanaṃ	āyatana	n.	0002b26	處	对译	0163a17	入	
+U10-029	S0142	punarucyate	punar	ind.	0002b26	復	语法	0163a17	重	
+U10-030	S0142	ucyate	vac	v. pass. 3sg.	0002b26	說	对译	0163a17	說	
+U10-031	S0142				0002b27	二十	增译			复述颂文"二十"
+U10-032	S0143	vimśatidhā	viṃśatidhā	ind.	0002b22	二十	对译	0163a18	二十	GRETIL 本作 vimśatidhā
+U10-033	S0143				0002b22	或	增译	0163a18	或	本颂补"或"
+U10-035	S0144	nīlaṃ	nīla	adj.	0002b27	青	对译	0163a18	青	
+U10-036	S0144	pītaṃ	pīta	adj.	0002b27	黃	对译	0163a18	黃	
+U10-037	S0144	lohitam	lohita	adj.	0002b27	赤	对译	0163a18	赤	
+U10-038	S0144	avadātaṃ	avadāta	adj.	0002b27	白	对译	0163a18	白	
+U10-039	S0144	dīrghaṃ	dīrgha	adj.	0002b27	長	对译	0163a18	長	
+U10-040	S0144	hrasvaṃ	hrasva	adj.	0002b27	短	对译	0163a18	短	
+U10-041	S0144	vṛttaṃ	vṛtta	adj.	0002b27	方	对译	0163a18	方	按次序对应；vṛtta 常义为"圆"，此处玄奘、真谛都作"方"（待核）
+U10-042	S0144	parimaṇḍalaṃ	parimaṇḍala	adj.	0002b27	圓	对译	0163a18	圓	
+U10-043	S0144	unnatam	unnata	ptc. adj.	0002b27	高	对译	0163a18	高	
+U10-044	S0144	avanataṃ	avanata	ptc. adj.	0002b27	下	对译	0163a18	下	
+U10-045	S0144	sātaṃ	śāta	adj.	0002b27	正	对译	0163a18	正	GRETIL 本作 sātaṃ，当读 śātaṃ
+U10-046	S0144	visātaṃ	viśāta	adj.	0002b27	不正	对译	0163a19	邪	GRETIL 本作 visātaṃ，当读 viśātaṃ
+U10-047	S0144	abhraṃ	abhra	n.	0002b27	雲	对译	0163a19	雲	
+U10-048	S0144	dhūmo	dhūma	n.	0002b28	煙	对译	0163a19	烟	
+U10-049	S0144	rajo	rajas	n.	0002b28	塵	对译	0163a19	塵	
+U10-050	S0144	mahikā	mahikā	n.	0002b28	霧	对译	0163a19	霧	
+U10-051	S0144	cchāyā	chāyā	n.	0002b28	影	对译	0163a19	影	
+U10-052	S0144	ātapaḥ	ātapa	n.	0002b28	光	对译	0163a19	光	
+U10-053	S0144	ālokaḥ	āloka	n.	0002b28	明	对译	0163a19	明	
+U10-054	S0144	andhakāramiti	andhakāra	n.	0002b28	闇	对译	0163a19	闇	
+U10-055	S0145	kecin	kaścit	pron. nom. pl.	0002b28	有餘師	意译	0163a19	有餘師	
+U10-056	S0145	saṃpaṭhanti	sam-paṭh	v. pres. 3pl.	0002b28	說	意译	0163a19	說	paṭh（诵读）译"說"
+U10-057	S0145	nabhaś	nabhas	n.	0002b28	空	对译	0163a19	空	
+U10-058	S0145	aikavarṇam	eka-varṇa	cpd.	0002b28	一顯色	对译	0163a19	一色	
+U10-059	S0145	caikavarṇam	eka	num.	0002b28	一	对译	0163a19	一	
+U10-060	S0145	varṇam	varṇa	n.	0002b28	顯色	对译	0163a19	色	
+U10-061	S0145	ekaviṃśatiṃ	ekaviṃśati	num.	0002b28	二十一	对译	0163a20	二十一	
+U10-062	S0145				0002b28	第	增译			第二十一
+U10-064	S0146	sātaṃ	śāta	adj.	0002b29	正	对译	0163a20	正	
+U10-065	S0146	samasthānam	sama-saṃsthāna	cpd.	0002b29	形平等	对译	0163a20	形平等	GRETIL 本作 samasthānam，当读 samasaṃsthānam；玄奘倒序
+U10-066	S0146	samasthānam	sama	adj.	0002b29	平等	对译	0163a20	平等	
+U10-067	S0146	sthānam	saṃsthāna	n.	0002b29	形	对译	0163a20	形	
+U10-068	S0146	visātaṃ	viśāta	adj.	0002b29	不正	对译	0163a21	邪	
+U10-069	S0146	viṣama sthānaml	viṣama-saṃsthāna	cpd.	0002b29	形不平等	对译	0163a20	不平等	GRETIL 本作 viṣama sthānaml，当读 viṣamasaṃsthānam
+U10-070	S0146	viṣama	viṣama	adj.	0002b29	不平等	对译	0163a20	不平等	
+U10-071	S0146	mahikā	mahikā	n.	0002c01	霧	对译	0163a21	霧	
+U10-072	S0146	nīhāraḥ	nīhāra	n.	0002c01	地水氣騰	意译	0163a21	地氣	nīhāra（雾气）释作"地水氣騰"
+U10-073	S0146	ātapaḥ	ātapa	n.	0002c01	光	对译	0163a21	光	
+U10-074	S0146	sūryaprabhā	sūrya-prabhā	cpd.	0002c01	日焰	对译	0163a21	日焰	
+U10-075	S0146	sūrya	sūrya	n.	0002c01	日	对译	0163a21	日	
+U10-076	S0146	prabhā	prabhā	n.	0002c01	焰	对译	0163a21	焰	
+U10-077	S0147	ālokaḥ	āloka	n.	0002c02	明	对译	0163a22	明	
+U10-078	S0147	candratārakāgnyoṣadhimaṇīnaṃ	candra-tārakā-agni-oṣadhi-maṇi	cpd. gen. pl.	0002c01	月星火藥寶珠	对译	0163a21	月星火藥寶珠	GRETIL 本作 -maṇīnaṃ
+U10-079	S0147	candra	candra	n.	0002c01	月	对译	0163a21	月	
+U10-080	S0147	tārakā	tārakā	n.	0002c01	星	对译	0163a21	星	
+U10-081	S0147	āgny	agni	n.	0002c01	火	对译	0163a21	火	
+U10-082	S0147	oṣadhi	oṣadhi	n.	0002c02	藥	对译	0163a21	藥	
+U10-083	S0147	maṇīnaṃ	maṇi	n. gen. pl.	0002c02	寶珠	对译	0163a21	寶珠	
+U10-084	S0147				0002c02	電等	梵本缺文	0163a21	電	玄奘、真谛都有"電"，GRETIL 本无
+U10-086	S0147	prabhā	prabhā	n.	0002c02	焰	对译	0163a22	焰	
+U10-087	S0148	chāyā	chāyā	n.	0002c03	影	对译	0163a22	影	
+U10-088	S0148				0002c02	障光明生	增译			梵文本无对应（或所据本有"障光"一类词），待核
+U10-089	S0148	yatra	yatra	ind.	0002c02	於中	语法	0163a22	於中	
+U10-090	S0148				0002c02	餘	增译			
+U10-091	S0148	rūpāṇāṃ	rūpa	n. gen. pl.	0002c03	色	对译	0163a22	色	
+U10-092	S0148	darśanam	darśana	n.	0002c03	可見	意译	0163a22	顯現	
+U10-093	S0148	viparyayād	viparyaya	n. abl.	0002c03	翻此	意译	0163a22	翻此	viparyaya（相反）译"翻此"
+U10-094	S0148	andhakāram	andhakāra	n.	0002c03	闇	对译	0163a22	闇	
+U10-095	S0149	śeṣaṃ	śeṣa	adj.	0002c03	餘	对译	0163a22	餘	
+U10-096	S0149				0002c03	色	增译	0163a23	色	
+U10-097	S0149	sugamatvān	su-gama-tva	n. abl.	0002c03	易了	对译	0163a23	易解	-tva 未译
+U10-099	S0149	vipañcitam	vi-pañcaya	ptc.	0002c04	釋	对译	0163a23	釋	
+U10-100	S0149				0002c03	今	增译	0163a23	今	
+U10-101	S0150				0002c04	或	增译			列举诸句，以"或有"引出
+U10-103	S0150	rūpāyatanaṃ	rūpa-āyatana	cpd.	0002c04	色處	对译	0163a23	色入	
+U10-104	S0150	varṇato	varṇa	n. (-tas)	0002c04	顯	对译	0163a23	顯	
+U10-105	S0150	vidyate	vid	v. pass. 3sg.	0002c04	有	对译	0163a23	有	vidyate（存在）译"有"
+U10-107	S0150	saṃsthānataḥ	saṃsthāna	n. (-tas)	0002c04	形	对译	0163a23	形	
+U10-108	S0151	nīlapītalohitavadātacchāyātapālokāndhakārākhyam	nīla-pīta-lohita-avadāta-chāyā-ātapa-āloka-andhakāra-ākhya	cpd. adj.	0002c04	青、黃、赤、白、影、光、明、闇	对译	0163a23	青、黃、赤、白、影、光、明、闇	
+U10-109	S0151	nīla	nīla	adj.	0002c04	青	对译	0163a23	青	
+U10-110	S0151	pīta	pīta	adj.	0002c04	黃	对译	0163a23	黃	
+U10-111	S0151	lohita	lohita	adj.	0002c04	赤	对译	0163a24	赤	
+U10-112	S0151	vadāta	avadāta	adj.	0002c04	白	对译	0163a24	白	GRETIL 本作 lohitavadāta，当读 lohitāvadāta
+U10-113	S0151	cchāyā	chāyā	n.	0002c04	影	对译	0163a24	影	
+U10-114	S0151	ātapā	ātapa	n.	0002c04	光	对译	0163a24	光	
+U10-115	S0151	ālokā	āloka	n.	0002c05	明	对译	0163a24	明	
+U10-116	S0151	āndhakārā	andhakāra	n.	0002c05	闇	对译	0163a24	闇	
+U10-117	S0151	ākhyam	ākhya	adj.	0002c04	謂	意译	0163a23	謂	-ākhya（名为）译"謂"，置于所列之前
+U10-118	S0152				0002c05	或	增译			
+U10-120	S0152				0002c05	色處	增译	0163a24	色入	补出主语
+U10-121	S0152	saṃsthānato	saṃsthāna	n. (-tas)	0002c05	形	对译	0163a24	形	
+U10-122	S0152	varṇataḥ	varṇa	n. (-tas)	0002c05	顯	对译	0163a24	顯	
+U10-123	S0153	ghādīnāṃ	dīrgha-ādi	cpd. gen. pl.	0002c05	長等	对译	0163a24	長等	GRETIL 本作 ghādīnāṃ，当读 dīrghādīnāṃ
+U10-124	S0153	pradeṣaḥ	pradeśa	n.	0002c05	一分	对译	0163a25	一分	GRETIL 本作 pradeṣaḥ
+U10-125	S0153	kāyavijñaptisvabhāvaḥ	kāya-vijñapti-svabhāva	cpd. adj.	0002c05	身表…性	对译	0163a25	有教身業為相	"業"为增字
+U10-125+1	S0153				0002c06	業	增译			合并时从 U10-125（身表業性）拆出
+U10-126	S0153	kāya	kāya	n.	0002c05	身	对译	0163a25	身	
+U10-127	S0153	vijñapti	vijñapti	n.	0002c06	表	对译	0163a25	有教	
+U10-128	S0153				0002c06	業	增译	0163a25	業	
+U10-129	S0153	svabhāvaḥ	svabhāva	n.	0002c06	性	对译	0163a25	相	
+U10-130	S0154				0002c06	或	增译			
+U10-132	S0154				0002c06	色處	增译	0163a25	色入	补出主语
+U10-133	S0154	ubhayathā	ubhayathā	ind.	0002c06	有顯有形	意译	0163a25	有顯有形	ubhayathā（两方面）展开为"有顯有形"
+U10-134	S0154	pariśiṣṭaṃ	pariśiṣṭa	ptc. adj.	0002c06	所餘	对译	0163a26	所餘	
+U10-135	S0154	rūpāyatanam	rūpa-āyatana	cpd.	0002c06	色	意译	0163a26	色	rūpāyatana 此处只作"色"
+U10-136	S0155	ityapare	apara	pron. nom. pl.	0002c06	有餘師	意译	0163a27	有餘師	
+U10-137	S0155	ityapare	iti	ind.	0002c07	說	语法	0163a27	說	引述他说的 iti 译"說"
+U10-138	S0155	ātapālokāv	ātapa-āloka	cpd. du.	0002c07	光明	对译	0163a27	光及明	
+U10-139	S0155	ātapā	ātapa	n.	0002c07	光	对译	0163a27	光	
+U10-140	S0155	ālokāv	āloka	n.	0002c07	明	对译	0163a27	明	
+U10-141	S0155				0002c07	色	增译			
+U10-142	S0155	varṇato	varṇa	n. (-tas)	0002c07	顯	对译	0163a27	顯	
+U10-143	S0155	vidyete	vid	v. pass. 3du.	0002c07	有	对译	0163a27	有	
+U10-144	S0155				0002c07	無形	增译	0163a27	無形	补出"無形"
+U10-145	S0156	dṛśyate	dṛś	v. pass. 3sg.	0002c07	現見	对译	0163a28	見	
+U10-146	S0156	dṛśyate hi	hi	ind.	0002c08	故	语法	0163a27	何以故	表理由的 hi 译句末"故"
+U10-147	S0156				0002c07	世間	增译			
+U10-148	S0156	nīlādīnaṃ	nīla-ādi	cpd. gen. pl.	0002c07	青等	对译	0163a28	青等	GRETIL 本作 nīlādīnaṃ
+U10-149	S0156				0002c08	色處	增译	0163a28	諸色	
+U10-150	S0156	dīrghādipariccheda	dīrgha-ādi	cpd.	0002c08	長等	对译	0163a28	長等	
+U10-151	S0156	pariccheda	pariccheda	n.			省译	0163a28	差別	pariccheda（界限、分别）未译，玄奘作"有長等"
+U10-152	S0157	kathaṃ	katham	ind.	0002c08	如何	语法	0163a28	云何	
+U10-153	S0157	ekaṃ	eka	num.	0002c08	一	对译	0163a28	一	
+U10-154	S0157	dravyam	dravya	n.	0002c08	事	意译	0163a28	物	dravya 此处译"事"
+U10-155	S0157	dravyamubhayathā	ubhayathā	ind.	0002c08	具…顯形	意译			ubhayathā（两方面）译"具…顯形"
+U10-156	S0157	vidyate	vid	v. pass. 3sg.	0002c08	有	对译			
+U10-157	S0157	astyubhayasya	as	v. pres. 3sg.			省译			
+U10-158	S0157	ubhayasya	ubhaya	pron. gen.	0002c09	俱	对译	0163a29	二色	
+U10-159	S0157	tatra	tatra	ind.	0002c09	於此中	语法	0163a29	於一塵中	
+U10-160	S0157	prajñānāt	prajñāna	n. abl.	0002c09	可知	意译	0163a29	現	
+U10-161	S0157	prajñānāt	abl.	gram. abl. (-āt)	0002c08	由…故	语法	0163a29	故	第五格表原因
+U10-163	S0158	vidir	vidi	n.	0002c09	有	意译			动词 √vid（vidyate）玄奘作"有"
+U10-164	S0158	jñānārtho	jñāna-artha	cpd.	0002c09	有智義	意译			"有智"（于智中有）释 jñānārtha
+U10-165	S0158	jñānā	jñāna	n.	0002c09	智	对译			
+U10-166	S0158	jñānārtho	artha	n.	0002c09	義	对译			
+U10-168	S0158	sattārthaḥ	sattā-artha	cpd.	0002c10	有境義	意译			
+U10-169	S0158	sattā	sattā	n.	0002c10	有境	意译			sattā（存在）释作"有境"
+U10-170	S0158	sattārthaḥ	artha	n.	0002c10	義	对译			
+U10-171	S0159	tarhi	tarhi	ind.	0002c10	若爾	语法			
+U10-172	S0159	kāyavijñaptāv	kāya-vijñapti	cpd. loc.	0002c10	身表	对译	0163b01	有教身業	
+U10-173	S0159	kāya	kāya	n.	0002c10	身	对译	0163b01	身	
+U10-174	S0159	vijñaptāv	vijñapti	n. loc.	0002c10	表	对译	0163b01	有教	
+U10-175	S0159	vijñaptāv	loc.	gram. loc. (-au)	0002c10	中	语法			第七格译"中"
+U10-176	S0159	prasaṅgaḥ	prasaṅga	n.	0002c10	應	意译	0163b01	反質難	prasaṅga（应成之过）译"應"
+U10-177	S0159				0002c10	有顯智	增译			具体补出过失的内容
+U10-178	S0159	uktaṃ	vac	ptc.	0002c10	說	对译	0163b01	說	
+U10-179	S0159	rūpāyatanaṃ	rūpa-āyatana	cpd.	0002c10	色處	对译	0163b01	色入	
+U10-180	S0160	śabdastv	śabda	n.	0002b22	聲	对译	0163b01	聲塵	
+U10-181	S0160				0002b22	唯	增译			本颂补"唯"；tu 未译
+U10-182	S0160	aṣṭavidhaḥ	aṣṭavidha	adj.	0002b22	八種	对译	0163b02	八種	
+U10-183	S0161				0002c11	當說聲處	增译			玄奘补出过渡语
+U10-184	S0161				0002c11	聲唯八種	增译			复述颂文
+U10-185	S0161	upāttānupāttamahābhūtahetukaḥ	upātta-anupātta-mahābhūta-hetuka	cpd. adj.	0002c11	有執受…無執受大種為因	对译	0163b02	有執依、非執依四大為因	"或"为增字（另记）
+U10-186	S0161	upātta	upātta	ptc. adj.	0002c11	有執受	对译	0163b02	有執依	
+U10-187	S0161	ānupātta	an-upātta	ptc. adj.	0002c11	無執受	对译	0163b02	非執依	
+U10-188	S0161	mahābhūta	mahā-bhūta	cpd.	0002c12	大種	对译	0163b02	四大	
+U10-189	S0161	hetukaḥ	hetuka	adj.	0002c12	為因	意译	0163b02	為因	
+U10-190	S0161				0002c11	或	增译			并列复合词以"或"连接
+U10-191	S0161	sattvāsattvākhyaś	sattva-asattva-ākhya	cpd. adj.	0002c12	有情名、非有情名	对译	0163b03	眾生名、非眾生名	
+U10-192	S0161	sattvā	sattva	n.	0002c12	有情	对译	0163b03	眾生	
+U10-193	S0161	āsattvā	a-sattva	n.	0002c12	非有情	对译	0163b03	非眾生	
+U10-194	S0161	ākhyaś	ākhya	adj.	0002c12	名	对译	0163b03	名	
+U10-195	S0161	caturvidhaḥ	caturvidha	adj.	0002c12	四	对译	0163b03	四	
+U10-196	S0161				0002c12	差別	增译			
+U10-197	S0162				0002c13	此	增译	0163b03	此聲	补出主语
+U10-199	S0162	manojñāmanojñabhedād	manojña-amanojña-bheda	cpd. abl.	0002c13	可意…不可意差別	对译	0163b03	可愛、非可愛差別	
+U10-200	S0162	manojñā	manojña	adj.	0002c13	可意	对译	0163b03	可愛	
+U10-201	S0162	āmanojña	a-manojña	adj.	0002c13	不可意	对译	0163b03	非可愛	
+U10-202	S0162	bhedād	bheda	n. abl.	0002c13	差別	对译	0163b04	差別	
+U10-203	S0162	bhedād	abl.	gram. abl. (-āt)			省译	0163b03	由…故	第五格未译
+U10-204	S0162	aṣṭavidho	aṣṭavidha	adj.	0002c13	八	对译	0163b04	八種	
+U10-205	S0162	bhavati	bhū	v. pres. 3sg.	0002c13	成	对译	0163b04	成	
+U10-206	S0163	opāttamahābhūtahetuko	upātta-mahābhūta-hetuka	cpd. adj.	0002c13	執受大種為因	对译	0163b04	有執依為因	
+U10-207	S0163	opātta	upātta	ptc. adj.	0002c13	執受	对译	0163b04	有執依	
+U10-208	S0163	mahābhūta	mahā-bhūta	cpd.	0002c13	大種	对译			
+U10-209	S0163	hetuko	hetuka	adj.	0002c13	為因	意译	0163b04	為因	
+U10-210	S0163				0002c14	聲	增译			补出主语"聲"
+U10-211	S0163	yathā hasta	yathā	ind.	0002c14	謂	语法	0163b04	謂	举例
+U10-212	S0163	hastavākchabdaḥ	hasta-vāc-śabda	cpd.	0002c14	言手…音聲	意译	0163b05	言手…聲	玄奘倒序，"等""所發"为增字（另记）
+U10-213	S0163	hasta	hasta	n.	0002c14	手	对译	0163b05	手	
+U10-214	S0163	vāk	vāc	n.	0002c14	言	对译	0163b05	言	
+U10-215	S0163	chabdaḥ	śabda	n.	0002c14	音聲	对译	0163b05	聲	
+U10-216	S0163				0002c14	等…所發	增译	0163b05	等	
+U10-217	S0164	anupāttamahābhutahetuko	an-upātta-mahābhūta-hetuka	cpd. adj.	0002c15	無執受大種為因	对译	0163b05	非執依為因	GRETIL 本作 mahābhuta
+U10-218	S0164	anupātta	an-upātta	ptc. adj.	0002c15	無執受	对译	0163b05	非執依	
+U10-219	S0164	mahābhuta	mahā-bhūta	cpd.	0002c15	大種	对译			
+U10-220	S0164	hetuko	hetuka	adj.	0002c15	為因	意译	0163b05	為因	
+U10-221	S0164	yathā vāyu	yathā	ind.			省译	0163b05	謂	玄奘移例子于前，不出"謂"
+U10-222	S0164	vāyuvanaspatinadīśabdaḥ	vāyu-vanaspati-nadī-śabda	cpd.	0002c14	風林河…音聲	意译	0163b05	風樹浪…聲	"等""所發"为增字（另记）
+U10-223	S0164	vāyu	vāyu	n.	0002c14	風	对译	0163b05	風	
+U10-224	S0164	vanaspati	vanaspati	n.	0002c14	林	意译	0163b05	樹	vanaspati（树木）译"林"
+U10-225	S0164	nadī	nadī	n.	0002c14	河	对译	0163b05	浪	
+U10-226	S0164	nadīśabdaḥ	śabda	n.	0002c15	音聲	对译	0163b05	聲	
+U10-227	S0164				0002c14	等所發	增译	0163b05	等	
+U10-228	S0165	sattvākhyo	sattva-ākhya	cpd. adj.	0002c15	有情名	对译	0163b06	眾生名	
+U10-229	S0165	sattvā	sattva	n.	0002c15	有情	对译	0163b06	眾生	
+U10-230	S0165	ākhyo	ākhya	adj.	0002c15	名	对译	0163b06	名	
+U10-231	S0165	vāgvijñaptiṣabdaḥ	vāc-vijñapti-śabda	cpd.	0002c15	語表	意译	0163b06	有義言聲	GRETIL 本作 -ṣabdaḥ；"業"为增字，śabda 未译
+U10-231+1	S0165				0002c16	業	增译			合并时从 U10-231（語表業）拆出
+U10-232	S0165	vāg	vāc	n.	0002c15	語	对译	0163b06	言	
+U10-233	S0165	vijñapti	vijñapti	n.	0002c16	表	对译			
+U10-234	S0165	ṣabdaḥ	śabda	n.			省译	0163b06	聲	
+U10-235	S0166	asattvākhyo	a-sattva-ākhya	cpd. adj.	0002c16	非有情名	对译	0163b06	非眾生名	
+U10-236	S0166	'nyaḥ	anya	pron.	0002c16	餘	对译	0163b06	異此	"聲"为增字
+U10-237	S0166				0002c16	聲	增译			
+U10-238	S0167	ityapare	apara	pron. nom. pl.	0002c16	有	意译	0163b07	有餘師	"有說"即"有人說"
+U10-239	S0167	ityapare	iti	ind.	0002c16	說	语法	0163b07	說	
+U10-241	S0167	śabda	śabda	n.	0002c16	聲	对译	0163b07	聲	
+U10-242	S0167	'pyasti	api	ind.	0002c16	通	意译			api 配合并列复合词表"兼通"，译"通"
+U10-243	S0167	upāttānupāttamahābhūtahetuko	upātta-anupātta-mahābhūta-hetuka	cpd. adj.	0002c16	有執受…無執受大種為因	对译	0163b07	有執依、非執依四大為因	"及"为增字
+U10-244	S0167	upātta	upātta	ptc. adj.	0002c16	有執受	对译	0163b07	有執依	
+U10-245	S0167	ānupātta	an-upātta	ptc. adj.	0002c17	無執受	对译	0163b07	非執依	
+U10-246	S0167	mahābhūta	mahā-bhūta	cpd.	0002c17	大種	对译	0163b07	四大	
+U10-247	S0167	hetuko	hetuka	adj.	0002c17	為因	意译	0163b07	為因	
+U10-248	S0168	tadyathā	tadyathā	ind.	0002c17	如	语法	0163b08	謂	
+U10-249	S0168	hastamṛdaṅgasaṃyogaja	hasta-mṛdaṅga-saṃyoga-ja	cpd. adj.	0002c17	手鼓…合所生	意译	0163b08	手鼓合生	"等"为增字（另记）
+U10-250	S0168	hasta	hasta	n.	0002c17	手	对译	0163b08	手	
+U10-251	S0168	mṛdaṅga	mṛdaṅga	n.	0002c17	鼓	对译	0163b08	鼓	
+U10-252	S0168	saṃyoga	saṃyoga	n.	0002c17	合	对译	0163b08	合	
+U10-253	S0168	saṃyogaja	ja	adj.	0002c17	所生	意译	0163b08	生	-ja（所生）
+U10-254	S0168				0002c17	等	增译			
+U10-255	S0168				0002c18	聲	增译			
+U10-256	S0169	sa tu	tad	pron. nom.	0002c18	聲	意译	0163b09	此聲	代词还原为所指（聲）
+U10-258	S0169	aikau	eka	num.	0002c18	一	对译	0163b08	一	GRETIL 本作 yathaikau，当读 yathaiko
+U10-259	S0169	varṇaparamāṇur	varṇa-paramāṇu	cpd.	0002c18	顯色極微	对译	0163b08	顯色隣虛	
+U10-260	S0169	varṇa	varṇa	n.	0002c18	顯色	对译	0163b08	顯色	
+U10-261	S0169	paramāṇur	paramāṇu	n.	0002c18	極微	对译	0163b08	隣虛	真谛 paramāṇu 译"隣虛"
+U10-263	S0169	bhūtacatuṣkadvayam	bhūta-catuṣka-dvaya	cpd.	0002c18	二四大	对译	0163b08	二四大	
+U10-264	S0169	bhūta	bhūta	n.	0002c18	大	对译	0163b09	大	
+U10-265	S0169	catuṣka	catuṣka	n.	0002c18	四	对译	0163b08	四	
+U10-266	S0169	dvayam	dvaya	n.	0002c18	二	对译	0163b08	二	
+U10-267	S0169	upādāyeṣyate	upa-ā-dā	abs.	0002c18	造	意译	0163b08	依…生	upādāya 译"造"
+U10-268	S0169	eṣyate	iṣ	v. pass. 3sg.	0002c18	許	对译	0163b08	許	
+U10-269	S0169	tathā	tathā	ind.	0002c19	爾	语法	0163b09	爾	"聲亦應爾"
+U10-270	S0169	naivaiṣṭavya	na	ind.			省译			"聲亦應爾"即亦不許，否定承上"不許"而不重出
+U10-271	S0169	aiṣṭavya	iṣ	gdv.			省译			承上"許"，不重出
+U10-272	S0169	aiṣṭavya	gdv.	gram. gdv. (-tavya)	0002c18	應	语法	0163b09	應	
+U10-273	S0170	uktaḥ	vac	ptc.	0002c19	說	对译	0163b09	說	
+U10-274	S0170	śabdaḥ	śabda	n.	0002c19	聲處	意译	0163b09	聲	补"處"
+U10-275	S0170				0002c19	當說味處	增译			玄奘补出过渡语
+U10-276	S0171	rasaḥ	rasa	n.	0002b23	味	对译	0163b09	味	
+U10-277	S0172	ṣoḍha	ṣoḍhā	ind.	0002b23	六	对译	0163b09	六	GRETIL 本作 ṣoḍha
+U10-278	S0173				0002c19	味有六種	增译			复述颂文
+U10-279	S0173	madhurāmlalavaṇakaṭukatittakaṣāyabhedāt	madhura-amla-lavaṇa-kaṭuka-tiktaka-kaṣāya-bheda	cpd. abl.	0002c19	甘、醋、醎、辛、苦、淡別	对译	0163b10	甜、酢、醎、辛、苦、淡差別	GRETIL 本作 tittaka-
+U10-280	S0173	madhurā	madhura	adj.	0002c19	甘	对译	0163b10	甜	
+U10-281	S0173	āmla	amla	adj.	0002c19	醋	对译	0163b10	酢	
+U10-282	S0173	lavaṇa	lavaṇa	adj.	0002c20	醎	对译	0163b10	醎	
+U10-283	S0173	kaṭuka	kaṭuka	adj.	0002c20	辛	对译	0163b10	辛	
+U10-284	S0173	tittaka	tiktaka	adj.	0002c20	苦	对译	0163b10	苦	GRETIL 本作 tittaka
+U10-285	S0173	kaṣāya	kaṣāya	adj.	0002c20	淡	意译	0163b10	淡	kaṣāya（涩）玄奘、真谛都作"淡"
+U10-286	S0173	bhedāt	bheda	n. abl.	0002c20	別	对译	0163b10	差別	
+U10-287	S0174	caturvidho	caturvidha	adj.	0002b23	四種	对译	0163b10	四	
+U10-288	S0174	gandhaḥ	gandha	n.	0002b23	香	对译	0163b10	香	
+U10-289	S0175				0002c20	已說味處，當說香處	增译			玄奘补出过渡语
+U10-290	S0175				0002c20	香有四種	增译			复述颂文
+U10-291	S0175	sugandhadurgandhayoḥ	su-gandha-dur-gandha	cpd. gen. du.	0002c21	好香、惡香	对译	0163b11	香、臭	
+U10-292	S0175	sugandha	su-gandha	n.	0002c21	好香	对译	0163b11	香	
+U10-293	S0175	durgandhayoḥ	dur-gandha	n.	0002c21	惡香	对译	0163b11	臭	
+U10-294	S0175	samaviṣamagandhatvāt	sama-viṣama-gandha-tva	cpd. abl.	0002c21	等不等香	对译	0163b11	平等、不平等	-tva 未译
+U10-295	S0175	sama	sama	adj.	0002c21	等	对译	0163b11	平等	
+U10-296	S0175	viṣama	viṣama	adj.	0002c21	不等	对译	0163b11	不平等	
+U10-297	S0175	gandhatvāt	gandha	n.	0002c21	香	对译			
+U10-298	S0175				0002c21	有差別	增译	0163b11	差別	
+U10-299	S0175	trividhastu	trividha	adj.	0002c22	三種	对译	0163b12	三種	
+U10-300	S0175	śāstre	śāstra	n. loc.	0002c21	本論	意译	0163b11	阿毘達磨	śāstra 指本论（《發智論》），玄奘作"本論"，真谛作"阿毘達磨"
+U10-301	S0175	śāstre	loc.	gram. loc. (-e)	0002c21	中	语法	0163b11	中	
+U10-302	S0176	sugandho	su-gandha	n.	0002c22	好香	对译	0163b12	香	
+U10-303	S0176	durgandhaḥ	dur-gandha	n.	0002c22	惡香	对译	0163b12	臭	
+U10-304	S0176	samagandha	sama-gandha	cpd.	0002c22	平等香	对译	0163b12	平等	
+U10-305	S0176	samagandha	sama	adj.	0002c22	平等	对译	0163b12	平等	
+U10-306	S0176	samagandha	gandha	n.	0002c22	香	对译			
+U10-307	S0177	spṛśyam	spṛśya	gdv. n.	0002b23	觸	对译	0163b12	觸塵	
+U10-308	S0177	ekādaśātmadkam	ekādaśa-ātmaka	cpd. adj.	0002b23	十一為性	对译	0163b12	十一種	GRETIL 本作 ekādaśātmadkam，当读 ekādaśātmakam
+U10-309	S0177	ekādaśā	ekādaśan	num.	0002b23	十一	对译	0163b12	十一	
+U10-310	S0177	ātmadkam	ātmaka	adj.	0002b23	為性	意译	0163b12	種	-ātmaka（以…为体）译"為性"
+U10-311	S0178				0002c22	已說香處，當說觸處	增译			玄奘补出过渡语
+U10-312	S0178	spraṣṭavyam	spraṣṭavya	gdv. n.	0002c23	觸	对译	0163b13	觸	
+U10-313	S0178	ekādaśadravyasvabhāvam	ekādaśa-dravya-svabhāva	cpd. adj.	0002c23	十一	意译	0163b13	十一種	dravya-svabhāva（以十一实体为自性）未译
+U10-314	S0178	ekādaśa	ekādaśan	num.	0002c23	十一	对译	0163b13	十一	
+U10-315	S0179	catvāri	catur	num.	0002c23	四	对译	0163b13	四	
+U10-316	S0179	mahābhūtāni	mahā-bhūta	cpd.	0002c23	大種	对译	0163b13	大	
+U10-317	S0179	ślakṣṇatvaṃ	ślakṣṇa-tva	n.	0002c23	滑	对译	0163b13	滑	
+U10-318	S0179	ślakṣṇatvaṃ	-tva (abstract)	gram. suffix	0002c23	性	语法			抽象后缀 -tva 译"性"
+U10-319	S0179	karkaśatvaṃ	karkaśa-tva	n.	0002c23	澁	对译	0163b13	澁	
+U10-320	S0179	karkaśatvaṃ	-tva (abstract)	gram. suffix	0002c23	性	语法			
+U10-321	S0179	gurutvaṃ	guru-tva	n.	0002c24	重	对译	0163b13	重	
+U10-322	S0179	laghutvaṃ	laghu-tva	n.	0002c24	輕	对译	0163b13	輕	
+U10-323	S0179	śītaṃ	śīta	n.	0002c24	冷	对译	0163b13	冷	
+U10-324	S0179	jighatsā	jighatsā	n.	0002c24	飢	对译	0163b14	飢	
+U10-325	S0179	pipāsā	pipāsā	n.	0002c24	渴	对译	0163b14	渴	
+U10-326	S0180	bhūtāni	bhūta	n.	0002c24	大種	意译	0163b14	四大	bhūta（大）译"大種"
+U10-327	S0180	paścād	paścāt	ind.	0002c24	後	对译	0163b14	後	
+U10-328	S0180	vakṣyāmḥ	vac	v. fut. 1pl.	0002c24	說	对译	0163b14	說	GRETIL 本作 vakṣyāmḥ
+U10-330	S0180				0002c24	廣	增译			
+U10-331	S0181	ślakṣṇatvaṃ	ślakṣṇa-tva	n.	0002c25	滑	对译	0163b14	滑	
+U10-332	S0181	mṛdutā	mṛdutā	n.	0002c25	柔軟	对译	0163b14	柔軟	
+U10-333	S0182	karkaśatvaṃ	karkaśa-tva	n.	0002c25	澁	对译	0163b15	澁	
+U10-334	S0182	paruṣatā	paruṣatā	n.	0002c25	麁強	对译	0163b14	麁燥	
+U10-335	S0182	gurutvaṃ	guru-tva	n.	0002c25	重	对译	0163b15	重	
+U10-336	S0182	bhāvās	bhāva	n. nom. pl.			省译			bhāvāḥ（物）未译
+U10-337	S0182	tulyante	tul	v. pass. 3pl.	0002c25	稱	对译	0163b15	稱	
+U10-338	S0182	tulyante	pass.	gram. pass. (-ya-)	0002c25	可	语法	0163b15	可	被动表可能，译"可"
+U10-339	S0182	laghutvaṃ	laghu-tva	n.	0002c26	輕	对译	0163b15	輕	
+U10-340	S0182	viparyayāt	viparyaya	n. abl.	0002c25	翻此	意译	0163b15	翻此	
+U10-341	S0183	śītam	śīta	n.	0002c26	冷	对译	0163b15	冷	
+U10-342	S0183	uṣṇābhilāṣakṛt	uṣṇa-abhilāṣa-kṛt	cpd. adj.	0002c26	煖欲	意译	0163b15	熱愛	-kṛt（引起）未译
+U10-343	S0183	uṣṇā	uṣṇa	n.	0002c26	煖	对译	0163b15	熱	
+U10-344	S0183	ābhilāṣa	abhilāṣa	n.	0002c26	欲	对译	0163b15	愛	
+U10-345	S0183	kṛt	kṛt	adj.			省译			-kṛt（引起）未译，玄奘以"於因立果名"释之
+U10-346	S0184	jighatsā	jighatsā	n.	0002c26	飢	对译	0163b16	飢	
+U10-347	S0184	bhojanābhilāṣakṛt	bhojana-abhilāṣa-kṛt	cpd. adj.	0002c26	食欲	意译	0163b15	食愛	
+U10-348	S0184	bhojanā	bhojana	n.	0002c26	食	对译	0163b15	食	
+U10-349	S0184	ābhilāṣa	abhilāṣa	n.	0002c26	欲	对译	0163b15	愛	
+U10-350	S0184				0002c26	飲欲名渴	梵本缺文	0163b16	飲愛為渴	GRETIL 本缺 pipāsā pānābhilāṣakṛt 一句；玄奘、真谛都有
+U10-351	S0184				0002c26	此三	增译			
+U10-352	S0184	kāraṇe	kāraṇa	n. loc.	0002c27	因	对译	0163b16	因	
+U10-353	S0184	kāraṇe	loc.	gram. loc. (-e)	0002c27	於	语法	0163b16	於	第七格译"於"
+U10-354	S0184	kāryopacārāt	kārya-upacāra	cpd. abl.	0002c27	立果名	意译	0163b16	立果名	
+U10-355	S0184	kāryo	kārya	n.	0002c27	果	对译	0163b16	果	
+U10-356	S0184	opacārāt	upacāra	n. abl.	0002c27	立…名	意译	0163b16	立…名	upacāra（假立、转用）译"立…名"
+U10-357	S0184				0002c27	作如是說	增译	0163b16	說如此	
+U10-358	S0184				0002c27	有頌言	增译	0163b16	佛伽陀中說	引颂
+U10-359	S0185	buddhānāṃ	buddha	n. gen. pl.	0002c28	佛	对译	0163b18	佛	
+U10-361	S0185	sukha utpādaḥ	sukha	adj.	0002c28	樂	对译	0163b18	樂	
+U10-362	S0185	utpādaḥ	utpāda	n.	0002c28	出現	意译	0163b18	生現	
+U10-363	S0185	sukhā dharmasya	sukha	adj.	0002c28	樂	对译	0163b18	樂	
+U10-364	S0185	dharmasya	dharma	n. gen.	0002c28	法	对译	0163b18	法	
+U10-365	S0185				0002c28	正	增译	0163b18	正	补"正"（正法）；真谛同
+U10-366	S0185	deśanā	deśanā	n.	0002c28	演說	对译	0163b18	說	
+U10-367	S0185	sukhā saṅghasya	sukha	adj.	0002c29	樂	对译	0163b19	樂	
+U10-368	S0185	saṅghasya	saṅgha	n. gen.	0002c29	僧眾	对译	0163b19	大眾	
+U10-369	S0185	sāmagrī	sāmagrī	n.	0002c29	和合	对译	0163b19	和合	
+U10-370	S0185	samagrāṇāṃ	samagra	adj. gen. pl.	0002c29	同	意译	0163b19	聚集	samagra（和合者）译"同"
+U10-371	S0185	tapaḥ	tapas	n.	0002c29	修勇進	意译	0163b19	出家	tapas（苦行）译"修勇進"
+U10-372	S0185	tapaḥ sukhaṃ	sukha	adj.	0002c29	樂	对译	0163b19	樂	
+U10-373	S0186	rūpadhātau	rūpa-dhātu	cpd. loc.	0003a01	色界	对译	0163b20	色界	
+U10-374	S0186	rūpadhātau	loc.	gram. loc. (-au)	0003a01	於…中	语法	0163b20	於…中	第七格译"於…中"
+U10-375	S0186	jighatsāpipāse	jighatsā-pipāsā	cpd. du.	0003a01	飢渴	对译	0163b20	飢渴	"觸"为增字
+U10-376	S0186				0003a01	觸	增译	0163b20	觸	
+U10-378	S0186	śeṣam	śeṣa	adj.	0003a01	所餘	对译	0163b20	所餘	"觸"为增字
+U10-380	S0187	yadyapi	yadyapi	ind.			省译			
+U10-381	S0187	tatra vastrāṇy	tatra	ind.	0003a01	彼界	意译	0163b20	彼	tatra（彼处）还原为"彼界"
+U10-382	S0187	vastrāṇy	vastra	n.	0003a01	衣服	对译	0163b20	衣	
+U10-383	S0187	ekaśo	ekaśas	ind.	0003a02	別	意译	0163b21	各	ekaśas（一一、单独）译"別"
+U10-384	S0187	na tulyante	tul	v. pass. 3pl.	0003a02	稱	对译	0163b21	稱	
+U10-385	S0187	sañcitāni	saṃ-ci	ptc.	0003a02	聚	对译	0163b21	聚集	
+U10-386	S0187	punastulyante	punar	ind.	0003a02	則	意译			punar（然而）译"則"
+U10-387	S0187	punastulyante	tul	v. pass. 3pl.	0003a02	稱	对译	0163b21	稱	
+U10-388	S0188	śītam	śīta	n.	0003a02	冷	对译	0163b22	冷	
+U10-389	S0188				0003a02	煖	增译			玄奘补"煖"
+U10-390	S0188				0003a02	於彼	增译	0163b22	於彼	
+U10-391	S0188	upaghātakaṃ	upaghātaka	adj.	0003a03	損	对译	0163b22	損	
+U10-392	S0188	upaghātakaṃ	-aka (agent)	gram. suffix	0003a02	能	语法	0163b22	能	施事后缀 -aka 译"能"
+U10-393	S0188				0003a02	雖…而	增译			玄奘以"雖…而"连接两句
+U10-394	S0189	anugrāhakaṃ	anugrāhaka	adj.	0003a03	益	对译	0163b22	益	
+U10-395	S0189	anugrāhakaṃ	-aka (agent)	gram. suffix	0003a03	能	语法	0163b22	能	
+U10-398	S0189				0003a03	說如此	增译	0163b22	如此	
+U10-399	S0190	bahuvidhaṃ	bahu-vidha	adj.	0003a03	多種	对译	0163b23	多種	
+U10-400	S0190	rūpamuktaṃ	rūpa	n.	0003a03	色	对译	0163b23	色	
+U10-401	S0190				0003a04	處	增译			
+U10-402	S0190	uktaṃ	vac	ptc.	0003a03	說	对译	0163b23	說	
+U10-403	S0190	kadācid	kadācit	ind.	0003a04	有時	对译	0163b23	有時	
+U10-404	S0190	ekena	eka	num. instr.	0003a04	一	对译	0163b23	一	
+U10-405	S0190	dravyeṇa	dravya	n. instr.	0003a04	事	意译	0163b23	物	
+U10-406	S0190	dravyeṇa	instr.	gram. instr. (-eṇa)	0003a04	緣	语法	0163b23	由	第三格（由一事）译"緣"
+U10-407	S0190	cakṣurvijñānam	cakṣus-vijñāna	cpd.	0003a04	眼識	对译	0163b23	眼識	
+U10-408	S0190	utpadyate	ut-pad	v. pres. 3sg.	0003a04	生	对译	0163b23	生	
+U10-409	S0190	yadā	yadā	ind.	0003a04	於爾時	语法	0163b24	若是時中	
+U10-410	S0190	tatprakāravyavacchedo	tad-prakāra-vyavaccheda	cpd.	0003a04	各別了別	意译	0163b24	分別一類	
+U10-411	S0190	prakāra	prakāra	n.	0003a04	各別	意译	0163b24	類	tatprakāra（其各类）译"各別"
+U10-412	S0190	vyavacchedo	vyavaccheda	n.	0003a04	了別	意译	0163b24	分別	vyavaccheda（区分）译"了別"
+U10-413	S0191	kadācid	kadācit	ind.	0003a05	有時	对译	0163b24	有時	
+U10-414	S0191	bahubhir	bahu	adj. instr. pl.	0003a05	多	对译	0163b24	多	
+U10-415	S0191				0003a05	眼識緣…事生	增译	0163b24	眼識得生	承上句补出
+U10-416	S0191	yadā	yadā	ind.	0003a05	於爾時	语法	0163b25	若是時中	
+U10-417	S0191	vyavacchedaḥ	vyavaccheda	n.	0003a05	別了別	意译	0163b25	分別	
+U10-418	S0192	tadyathā	tadyathā	ind.	0003a06	如	语法	0163b25	譬如	
+U10-419	S0192	senāvyūham	senā-vyūha	cpd.	0003a06	軍眾	对译	0163b25	軍眾	
+U10-420	S0192	senā	senā	n.	0003a06	軍	对译	0163b25	軍	
+U10-421	S0192	vyūham	vyūha	n.	0003a06	眾	意译	0163b25	眾	vyūha（阵列）译"眾"
+U10-422	S0192				0003a06	山林	增译			
+U10-423	S0192	anekavarṇasaṃsthānaṃ	aneka-varṇa-saṃsthāna	cpd. adj.	0003a06	無量顯形	对译	0163b25	無量顯形	玄奘以之修饰"珠寶聚"
+U10-424	S0192	aneka	an-eka	adj.	0003a06	無量	对译	0163b25	無量	
+U10-425	S0192	varṇa	varṇa	n.	0003a06	顯	对译	0163b25	顯	
+U10-426	S0192	saṃsthānaṃ	saṃsthāna	n.	0003a06	形	对译	0163b25	形	
+U10-427	S0192	maṇisamūhaṃ	maṇi-samūha	cpd.	0003a06	珠寶聚	对译	0163b26	眾寶	
+U10-428	S0192	maṇi	maṇi	n.	0003a06	珠寶	对译	0163b26	寶	
+U10-429	S0192	samūhaṃ	samūha	n.	0003a06	聚	对译	0163b26	眾	
+U10-430	S0192	dūrāt	dūra	n. abl.	0003a06	遠	对译	0163b26	遠	
+U10-431	S0192	paśyataḥ	dṛś (paś)	ptc. pres. gen.	0003a06	觀察	对译	0163b26	見	
+U10-432	S0192				0003a06	等	增译			
+U10-433	S0193	evaṃ	evam	ind.	0003a07	亦爾	语法	0163b26	亦爾	
+U10-434	S0193	śrotrādivijñānaṃ	śrotra-ādi-vijñāna	cpd.	0003a07	耳等…識	对译	0163b26	耳等識	"諸"为增字
+U10-435	S0193	śrotrā	śrotra	n.	0003a07	耳	对译	0163b26	耳	
+U10-436	S0193	ādi	ādi	n.	0003a07	等	对译	0163b26	等	
+U10-437	S0193	vijñānaṃ	vijñāna	n.	0003a07	識	对译	0163b26	識	
+U10-438	S0193				0003a07	諸	增译			
+U10-439	S0193	veditavyaṃ	vid	gdv.	0003a07	知	对译			
+U10-440	S0194	ityeke	eka	pron. nom. pl.	0003a07	有餘師	意译	0163b28	有師	eke（有些人）译"有餘師"
+U10-441	S0194	kāyavijñānaṃ	kāya-vijñāna	cpd.	0003a07	身識	对译	0163b26	身識	
+U10-442	S0194	paraṃ	param	ind.	0003a07	極多	意译	0163b26	極多	param（至多）译"極多"
+U10-443	S0194	pañcabhiḥ	pañca	num. instr.	0003a08	五	对译	0163b27	五	
+U10-444	S0194	spraṣṭavyair	spraṣṭavya	gdv. n. instr. pl.	0003a08	觸	对译	0163b27	觸	
+U10-445	S0194	spraṣṭavyair	instr.	gram. instr. pl. (-aiḥ)	0003a07	緣	语法	0163b27	由	第三格（由五触）译"緣"
+U10-446	S0194	utpadyata	ut-pad	v. pres. 3sg.	0003a08	起	对译	0163b27	生	
+U10-447	S0195	caturbhir	catur	num. instr.	0003a08	四	对译	0163b27	四	
+U10-448	S0195	mahābhūtair	mahā-bhūta	cpd. instr.	0003a08	大種	对译	0163b27	大	
+U10-449	S0195	ekena	eka	num. instr.	0003a08	隨一	意译	0163b27	隨一	eka（任一）译"隨一"
+U10-450	S0195	ślakṣṇatvādinā	ślakṣṇa-tva-ādi	cpd. instr.	0003a08	滑等	对译	0163b27	滑等	
+U10-451	S0195	ślakṣṇatvādinā	ślakṣṇa-tva	n.	0003a08	滑	对译	0163b27	滑	
+U10-452	S0195	ādinā	ādi	n.	0003a08	等	对译	0163b27	等	
+U10-453	S0196	ityapare	apara	pron. nom. pl.	0003a08	有	意译	0163b28	復有餘師	
+U10-454	S0196				0003a08	極多總緣	增译			承上补出
+U10-455	S0196	sarvair	sarva	adj. instr. pl.	0003a09	一切	对译	0163b28	具足	
+U10-456	S0196	ekādaśabhir	ekādaśan	num. instr.	0003a09	十一	对译	0163b28	十一	
+U10-457	S0196				0003a09	觸起	增译	0163b28	觸生	
+U10-458	S0197	nanu caivaṃ	evam	ind.	0003a09	若爾	语法	0163b29	若爾	nanu ca evam（若然）译"若爾"
+U10-459	S0197	nanu caivaṃ	nanu	ind.			省译			
+U10-460	S0197	samastālambanatvāt	samasta-ālambana-tva	cpd. abl.	0003a09	總緣境	意译	0163b29	總緣塵	
+U10-461	S0197	samastā	samasta	adj.	0003a09	總	对译	0163b29	總	
+U10-462	S0197	ālambana	ālambana	n.	0003a09	緣境	意译	0163b29	緣塵	
+U10-463	S0197	sāmānyaviṣayāḥ	sāmānya-viṣaya	cpd. adj.	0003a10	取共相境	意译	0163b29	通境為塵	多财释（以共相为境）以"取…境"表出
+U10-464	S0197	sāmānya	sāmānya	n.	0003a10	共相	意译	0163b29	通	sāmānya（共）译"共相"
+U10-465	S0197	viṣayāḥ	viṣaya	n.	0003a10	境	对译	0163b29	塵	
+U10-466	S0197	pañca	pañca	num.	0003a09	五	对译	0163b29	五	
+U10-467	S0197	vijñānakāyāḥ	vijñāna-kāya	cpd.	0003a10	識身	对译	0163b29	識	
+U10-468	S0197	prāpnuvanti	pra-āp	v. pres. 3pl.	0003a09	應	意译	0163b29	應成	prāpnuvanti（应成，表过失）译"應"
+U10-469	S0197	svalakṣaṇaviṣayāḥ	sva-lakṣaṇa-viṣaya	cpd. adj.	0003a10	自相境	对译	0163c01	別境	
+U10-470	S0197	svalakṣaṇa	sva-lakṣaṇa	cpd.	0003a10	自相	对译	0163c01	別	
+U10-471	S0198	āyatanasvalakṣaṇaṃ	āyatana-sva-lakṣaṇa	cpd.	0003a10	處自相	对译	0163c01	入別相	
+U10-472	S0198	āyatana	āyatana	n.	0003a10	處	对译	0163c01	入	
+U10-473	S0198	svalakṣaṇaṃ	sva-lakṣaṇa	cpd.	0003a10	自相	对译	0163c01	別相	
+U10-474	S0198	pratyete	prati	ind.	0003a10	約	意译	0163c01	對	prati（就…而言）译"約"
+U10-475	S0198	pratyete	etad	pron. nom. pl.	0003a10	五識身	意译	0163c01	五識	代词还原为所指（五識身）
+U10-476	S0198	svalakṣaṇaviṣayā	sva-lakṣaṇa-viṣaya	cpd. adj.	0003a11	取自相境	意译	0163c01	以別相為境	
+U10-477	S0198	iṣyante	iṣ	v. pass. 3pl.	0003a10	許	对译	0163c01	許	
+U10-478	S0198	dravyasvalakṣaṇam	dravya-sva-lakṣaṇa	cpd.	0003a11	事自相	对译	0163c02	物別相	
+U10-479	S0198	dravya	dravya	n.	0003a11	事	意译	0163c02	物	
+U10-480	S0198	adoṣaḥ	a-doṣa	n.	0003a11	斯有何失	意译	0163c02	斯有何失	以反问"斯有何失"表"無過"
+U10-481	S0199	vicāryate	vi-car (caus.)	v. pass. 3sg.	0003a12	思擇	对译	0163c02	思	
+U10-482	S0199				0003a11	今應	增译	0163c02	應	
+U10-483	S0200	kāyajihvendriyayor	kāya-jihvā-indriya	cpd. gen. du.	0003a12	身舌二根	对译	0163c03	身舌二根	
+U10-484	S0200	kāya	kāya	n.	0003a12	身	对译	0163c03	身	
+U10-485	S0200	jihve	jihvā	n.	0003a12	舌	对译	0163c03	舌	
+U10-486	S0200	endriyayor	indriya	n. gen. du.	0003a12	根	对译	0163c03	根	
+U10-487	S0200	endriyayor	du.	gram. du. (-ayoḥ)	0003a12	二	语法	0163c03	二	双数以"二"表出
+U10-488	S0200	yugapad	yugapat	ind.	0003a12	俱	对译	0163c03	一時	
+U10-489	S0200	viṣayaprāptau	viṣaya-prāpti	cpd. loc.	0003a12	兩境…至	意译	0163c03	塵至	"兩"表双方之境
+U10-490	S0200	viṣaya	viṣaya	n.	0003a12	境	对译	0163c03	塵	
+U10-491	S0200	prāptau	prāpti	n. loc.	0003a12	至	对译	0163c03	至	
+U10-492	S0200	satyāṃ	loc. abs.	gram. loc. abs. (sati)			省译			第七格独立句未单独译出
+U10-493	S0200	katarad	katara	pron.	0003a12	何	语法	0163c03	何	
+U10-494	S0200	vijñānaṃ	vijñāna	n.	0003a12	識	对译	0163c03	識	
+U10-495	S0200	pūrvam	pūrvam	ind.	0003a12	先	对译	0163c03	先	
+U10-496	S0200	utpadyate	ut-pad	v. pres. 3sg.	0003a12	起	对译	0163c03	生	
+U10-497	S0201	yasya	yad	pron. gen.	0003a12	隨…彼	语法	0163c03	隨	关系代词 yasya（其境强者）以"隨…彼"表出
+U10-498	S0201	viṣayaḥ	viṣaya	n.	0003a12	境	对译	0163c03	塵	
+U10-499	S0201	paṭīyān	paṭīyas	adj. compar.	0003a12	強盛	对译	0163c03	強	
+U10-500	S0201				0003a13	識先生	增译	0163c03	先發識	补出谓语
+U10-501	S0202	samaprāpte	sama-prāpta	cpd. loc.	0003a13	均平	意译	0163c04	平等…至	
+U10-502	S0202	samaprāpte	loc. abs.	gram. loc. abs. (sati)	0003a13	若	语法	0163c04	若	第七格独立句译"若"
+U10-503	S0202	viṣaye	viṣaya	n. loc.	0003a13	境	对译	0163c04	塵	
+U10-504	S0202	jihvāvijñānaṃ	jihvā-vijñāna	cpd.	0003a13	舌識	对译	0163c04	舌識	
+U10-505	S0202	pūrvam	pūrvam	ind.	0003a13	先	对译	0163c04	先	
+U10-506	S0202	utpadyate	ut-pad	v. pres. 3sg.	0003a13	起	对译	0163c04	生	
+U10-507	S0203	bhoktukāmatāvarjitatvāt	bhoktu-kāmatā-āvarjita-tva	cpd. abl.	0003a13	食飲引	意译	0163c04	食欲所引	
+U10-508	S0203	bhoktu	bhuj	inf.	0003a13	食飲	意译	0163c04	食	bhoktum（欲食）译"食飲"
+U10-509	S0203	kāmatā	kāmatā	n.			省译	0163c04	欲	kāmatā（欲）未译
+U10-510	S0203	āvarjita	ā-vṛj (caus.)	ptc.	0003a13	引	对译	0163c04	引	
+U10-511	S0203	āvarjita	caus.	gram. caus. (-aya-)	0003a14	令	语法			使役以"令"表出（引身令相續）
+U10-512	S0203				0003a14	身	增译			
+U10-513	S0203	sasntateḥ	saṃtati	n. gen.	0003a14	相續	对译	0163c04	相續	GRETIL 本作 sasntateḥ，当读 saṃtateḥ
+U10-514	S0204	uktāḥ	vac	ptc.	0003a14	說	对译	0163c05	說	
+U10-515	S0204	pañācendriyārthāḥ	pañca-indriya-artha	cpd.	0003a14	根境	对译	0163c05	五根、五塵	GRETIL 本作 pañāca-；pañca 未译
+U10-516	S0204	pañācendriyārthāḥ	pañca	num.			省译	0163c05	五	
+U10-517	S0204	endriyā	indriya	n.	0003a14	根	对译	0163c05	根	
+U10-518	S0204	ārthāḥ	artha	n.	0003a14	境	意译	0163c05	塵	
+U10-519	S0204	yathā ca	yathā	ind.	0003a14	相	意译	0163c05	如	yathā（如何）译"相"（取境相）
+U10-520	S0204	teṣāṃ	tad	pron. gen. pl.	0003a14	境	意译	0163c05	塵	代词还原为所指（境）
+U10-521	S0204	grahaṇaṃ	grahaṇa	n.	0003a14	取	对译	0163c05	取	
+U10-522	S0205	avijñaptir	a-vijñapti	n.	0003a14	無表	对译	0163c05	無教	
+U10-523	S0205				0003a14	色相	增译	0163c06	色	
+U10-524	S0205	idānīṃ	idānīm	ind.	0003a15	今	对译	0163c05	今	
+U10-525	S0205	vaktavyā	vac	gdv.	0003a15	說	对译	0163c05	說	
+U10-526	S0205	vaktavyā	gdv.	gram. gdv. (-tavya)	0003a15	當	语法	0163c05	當	gerundive 译"當"
+U10-527	S0205				0003a15	次	增译			
+U10-528	S0205	seyamucyate	vac	v. pass. 3sg.	0003a15	頌曰	语法			ucyate 引出本颂，译"頌曰"
