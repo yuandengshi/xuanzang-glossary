@@ -25,6 +25,7 @@ GROUPS = [
         ('abs.', 'absolutive', '独立式（-tvā、-ya），表先行动作，玄奘常以"已"表出'),
         ('inf.', 'infinitive', '不定式（-tum）'),
         ('cpd.', 'compound', '复合词，词目用连字符分出成分'),
+        ('成分', '', '复合词的成分（本身不变格）；"cpd. ind." 为不变格的复合词'),
         ('bahuvrīhi', 'bahuvrīhi', '多财释（"具有…者"的复合词，"具有…者"）'),
         ('formula', 'formula', '套语，如 oṃ namo buddhāya'),
         ('人名', '', '人名'),

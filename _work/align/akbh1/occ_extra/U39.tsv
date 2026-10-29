@@ -6,7 +6,7 @@ U39-104	S0702	uktaṃ ca	ca	ind.	0008c11	又	语法
 U39-121	S0702	yāvat	yāvat	ind.	0008c13	乃至	语法	0168c07	乃至	
 U39-144	S0705	evaṃ	evam	ind.	0008c16	亦爾	语法	0168c10	亦爾	
 U39-165	S0707	deśenaiva	eva	ind.	0008c17	唯	语法			
-U39-178	S0708	yaccakṣuṣi	yad	pron. nom.	0008c19	謂	语法			
+U39-178	S0708	yaccakṣuṣi	yad	pron. sg. nom.	0008c19	謂	语法			
 U39-183	S0708	piṇḍe	loc.	gram. loc. (-e)	0008c19	於…中	语法	0168c13	於中	
 U39-197	S0710	garbhavakrāntau	loc.	gram. loc. (-au)	0008c21	中	语法	0168c15	中	
 U39-205	S0710	iti garbha	iti	ind.	0008c22	者	语法			引语标记 iti 以"……者"标出
@@ -14,6 +14,6 @@ U39-214	S0711	punaḥ	punar	ind.	0008c23	復	语法	0168c16	復
 U39-225	S0712	na ca	ca	ind.	0008c24	亦	语法			
 U39-229	S0712	cittameva	eva	ind.	0008c24	即	语法	0168c18	即是	
 U39-233	S0713	vacanātsarāga	abl.	gram. abl. (-āt)	0008c24	以…故	语法	0168c19	由	
-U39-249	S0714	dhātūnaṃ	pl.	gram. gen. pl. (-ūnām)	0008c26	諸	语法	0168c20	諸	复数以"諸"表出
-U39-281	S0719	dhātūnāṃ	gen.	gram. gen. pl. (-ūnām)	0009a01	中	语法	0169a07	於…中	表部分的第六格以"…中"表出
+U39-249	S0714	dhātūnaṃ	pl.	gram. pl. gen. (-ūnām)	0008c26	諸	语法	0168c20	諸	复数以"諸"表出
+U39-281	S0719	dhātūnāṃ	gen.	gram. pl. gen. (-ūnām)	0009a01	中	语法	0169a07	於…中	表部分的第六格以"…中"表出
 U39-287	S0719	kaśiciādyate	pass.	gram. pass. (-ya-)	0009a01	所	语法	0169a07	所	被动态以"所"表出

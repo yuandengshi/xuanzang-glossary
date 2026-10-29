@@ -1,11 +1,11 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
 U42-046	S0781	upapadyamānaḥ	pres. ptc.	gram. pres. ptc. (-māna)	0009c04	時	语法			
 U42-055	S0783	kāmadhātau	loc.	gram. loc. (-au)	0009c06	於	语法			"生於欲界"
-U42-060	S0784	etān	etad	pron. acc. pl.	0009c06	前	语法	0169c04	前	
+U42-060	S0784	etān	etad	pron. pl. acc.	0009c06	前	语法	0169c04	前	
 U42-082	S0786	vihīna	ppp.	gram. ppp. (-ta)	0009c09	已	语法	0169c07	已	vihīna 为 -na 形过去分词
-U42-100	S0788	etān	etad	pron. acc. pl.	0009c12	前	语法	0169c10	前	
+U42-100	S0788	etān	etad	pron. pl. acc.	0009c12	前	语法	0169c10	前	
 U42-103	S0789	evaṃ	evam	ind.	0009c12	如是	语法	0169c11	如此	
 U42-114	S0789	abhyūhitavyau	gdv.	gram. gdv. (-tavya)	0009c13	應	语法	0169c11	應	
-U42-115	S0790	etasya	etad	pron. gen.	0009c13	如是	语法	0169c11	如此	
-U42-124	S0791	katy	kati	pron.	0009c15	幾	语法	0169c12	幾	
-U42-127	S0791	kati bāhyāḥ	kati	pron.	0009c15	幾	语法	0169c12	幾	
+U42-115	S0790	etasya	etad	pron. sg. gen.	0009c13	如是	语法	0169c11	如此	
+U42-124	S0791	katy	kati	pron. pl. nom.	0009c15	幾	语法	0169c12	幾	
+U42-127	S0791	kati bāhyāḥ	kati	pron. pl. nom.	0009c15	幾	语法	0169c12	幾	

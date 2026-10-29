@@ -81,3 +81,61 @@
 - **两汉译都有、梵本无**（合并时改为"梵本缺文"）：觸動善品故（S0118）、有對治故（S0121）、電（S0147）、或起種種大事用故（S0221）、生等五種因的"五"（S0212）。只有玄奘有：障光明生（S0148）。
 - GRETIL 误字若干，均在 note 注出正读；S0098 vāvāyam 当读 vākyam；lakṣyata 玄奘、真谛所据当为 lujyata（lemma 立 luj）。
 - 待核 7 条：U06-093、U06-099、U07-079、U10-041（vṛtta → 方）、U10-088、U12-115、U13-127（rūpeṇa，所据或为 rūpaṇam）。
+
+# 形态标注（2026-10-29，全部标注）
+
+## D：U34–U40
+
+- 标注 808 条（含 occ_extra），拒绝 0、找不到 0；自查无形态 ERROR。
+- 自定做法：复合词末一成分带词尾的（dhātubhiḥ、āptāḥ）标整个复合词的格数（如 n. instr. pl.），非末位成分标"成分"——与规则"成分一律标成分"不同，合并时统一。
+- -vat 复合词整体标 cpd. ind.；kati 标 pron. interrog. nom. pl.；作"何故"的 kiṃ 标 pron. acc. sg.。
+- (?) 4 条：U39-152/153（GRETIL 重复 catvāri mahābhūtāni）、U39-170 spaṣṭam、U40-094 dagdhṛtulyayoḥ。
+- 数据问题：U40-063 skt andhatvāt 与 lemma accha-tva 不符（GRETIL 讹，U40-084 作 acchatvān）；U34-073/074 tatrabhāva 当作 tatrābhāva；U40-005 dhātue 当作 dhātucatuṣṭayam；U39-080、U39-242 GRETIL 误分写；U38-029 isiddham = iti siddham；U39-117 arupy 拼写讹；U35-017 saṃgṛhīta → 是，对齐可疑。
+
+## E：U41–U45
+
+- 标注 659 条（U41 214、U42 77、U43 78、U44 201、U45 89），拒绝 0、找不到 0；自查无形态 ERROR。
+- 复合词末成分一律标"成分"（按规则）；与 D 批相反，合并时统一。原本合规、未在待标清单中的末成分带格记录：U42-004、U42-026、U42-106、U44-039、U44-213、U44-297。
+- -vat：cpd. 成分 (-vat)、n. 成分 (-vat)。kiṃ kāraṇam 标 pron. + n. nom. sg.；uktaṃ bhavati 标 ptc. nom. sg. + bhū (v. pres. 3sg.)。
+- (?) 3 条：U41-294/295（anyasaṃbhūtasaṃskṛto 拆读）、U42-075（cakṣurvijñānāsaṃmukhīkurvāṇaḥ）。
+- 数据问题：U41-280/281 prathamānāsrave 应为复合词 prathama-anāsrava（loc. sg.），缺复合词整体记录；U44-314 skt "te teṣā" 跨两词；U45-118 jaṃ 为 pañcendriyajaṃ 的 -ja 成分（提醒）。
+
+## F：U46–U49
+
+- 标注 673 条（U46 349、U47 34、U48 187、U49 103），拒绝 0、找不到 0；自查无形态 ERROR。
+- 自定做法：复合词末成分标整个复合词的格数（同 D，与 E 相反），合并时统一。-vat 前的词干标 n./cpd. 成分 (-vat)（17 条）。kim、anyonyam 作副词或疑问小品词时标 pron. acc. sg.。致使式被动 kalpyate、saṃpradhāryate 标 v. pres. pass. caus. 3sg.。
+- (?) 4 条：U46-490 cakṣuḥ（应为复合词 cakṣuḥ-saṃprāpta 的成分，GRETIL 分写）、U48-149/152（skt 含同一词目的两个形式）、U49-044 ghoṣam。
+- 数据问题：U46-490/491 应合为 cakṣus-saṃprāpta；U48-149、U48-152 一条记录涵盖两个词形，宜拆开；kiṃ kāraṇam 或宜标 phr.；U46-100 skt 缺连声前的 -ā。
+
+## G：U01–U05、U50–U54
+
+- 标注 894 条，拒绝 0、找不到 0；自查无形态 ERROR（含 occ_extra）。
+- 自定做法：复合词末成分标整个复合词的格数（同 D、F），合并时统一。kim 作疑问小品词标 pron. acc. sg.；uktaṃ bhavati 标 ptc. nom. sg. + bhū (v. pres. 3sg.)；-vat 前词干标"成分"，dānavargīyakaraṇavad 整词标 cpd. ind.；vicāryate 标 v. pres. pass. caus. 3sg.；sādhīyas 作副词标 adj. acc. sg. (compar.)。
+- 改了词类 1 条：U05-095 sākṣātk 由 v. 改为 n. abl. sg. (sākṣātkaraṇa)（样本中的记录；词目仍作 sākṣāt-kṛ，合并时改为名词词目）。
+- (?) 1 条：U52-097 rūpāṇi（GRETIL 讹脱）。
+- 数据问题：U05-160 vākyasyārtho 实为两个词（vākyasya + arthaḥ），不是复合词；U04-012、U04-024 śāstrā 为 instr. sg.；U04-041 bhadanta 标成分；xz 为空的 U03-024、U50-007、U50-055、U50-092、U53-015 均为省译（有意）。
+
+## C：U26–U33
+
+- 标注 867 条（含 occ_extra），拒绝 0、找不到 0；自查无形态 ERROR。
+- 自定做法：复合词末成分标整个复合词的格数（同 D、F、G）；-tva/-tā 前的词干标 adj. 成分；不变格复合词内的名词标成分；lemma 本身是大复合词中的小复合词（kāma-guṇa 等）标 cpd. 成分；kim 作疑问小词标 pron. acc. sg.（U28-149、U31-175），作谓语标 pron. nom. sg.；"A + B"式两边都补形态（U27-164、U33-015）；note 有校读的按校读标（U31-114）。
+- (?) 1 条：U27-128 jihvā——note 校读为 jihvām（acc.），但玄奘"舌後甞味"以舌为主语，似 nom.。
+- 改词类：无。
+- 数据问题：U32-100/U32-102 原文连写 cyuticittasādhāraṇabhūtāḥ，cyuti-citta 是成分还是另读 cyuticittam 待核；U26-094 tatsaṃkliṣṭam 的 tad 标 pron. nom. sg.（GRETIL 有讹"aca"）；U33-045/U33-048 sva→他、para→自，是玄奘换视角，不是错。
+- 并发：U31 套用时报过一次 KeyError: 'oid'（读到别组写到一半的文件），重跑后确认已写全。
+
+## A：U06–U13
+
+- 标注 977 条（含 occ_extra），拒绝 0、找不到 0；自查无形态 ERROR。
+- (?)：0。较可疑：U11-043 kuśalākuśale 取 loc. sg.（不取 du.）；U10-513 saṃtateḥ 取 gen.；U06-055 adhvā 形为 nom. sg.、义为复数。
+- 改词类：无。
+- 自定做法：复合词末成分一律标"成分"（与 D、F、G、C 不同）；原带格、被改成成分的 23 条：U06-074、093；U07-071；U10-174、202、286、356、491；U11-003、021、030、067；U12-015；U13-009、085、167、173、184、192、202、209、261、316。本来就合规、末成分带格未动的：U09-019、U10-083、U10-486、U12-009、U12-038、U12-063、U12-071、U13-254。-vat 复合词整体 cpd. ind.；子复合词 cpd. 成分；原 pos 附加信息保留（ptc. adj. nom. pl.、gdv. n. nom. sg. 等），原有的性也保留（U11-080、U13-164、U13-280）。U11-085、U11-092、U13-021 原作 v. caus. pres. 3sg.，次序与规则不同未动。
+- 数据问题：U12-087、096、109、110、127 lemma 作 īraṇa，句中为阴性 īraṇā；U13-123 utpādana 句中为 -utpādanā（阴性）。缺整个复合词记录的：U10-150（dīrghādi-pariccheda）、U13-256/261、U13-315/316（āśrayarūpaṇāt，GRETIL 分写）、U12-003/004（pṛthivīdhātur）、U12-006~009（aptejovāyudhātavaḥ）。U11-060 skt 片段"artha upādāyārtha"定位不清。
+
+## B：U14–U25
+
+- 标注 944 条，另改正 3 条已合规的；拒绝 0、找不到 0；自查无形态 ERROR。
+- (?)：0。U22-029/319、U25-040 tat sarvam … abhisaṃkṣipya 标 nom. sg.；U24-068 etac 是宾语，由 nom. 改 acc.。
+- 改词类：无。
+- 自定做法：复合词成分（含原带格的末成分）一律标成分（同 A、E）；-tva/-tā/-vat 前词干标成分；X-vat 整词 cpd. ind.；aikadhyam 标 n. acc. sg. (adv.)；saṃkhyāṃ gam 标 v. … (idiom)；kiṃ kāraṇam 标 pron. + n. nom. sg.；U15-148 pron. nom. 1sg. → pron. nom. sg.。改正：U19-052 → n. 成分；U22-228 → n. 成分；U24-070 → v. fut. caus. 1pl.。
+- 数据问题：U15-137/139 lemma parihāṇa 疑当作 prahāṇa（玄奘"斷"）；U24-069 lemma "tredho" 当作 tredhā，U24-070 skt "papādayiṣyāmaḥ" 为残片；U14-066 GRETIL vaktavyaḥ 疑当作 vaktavyāḥ；U22-226~228 aṣṭādaśdharmāṇāṃ 讹，疑为两词；缺整词记录：U22-340/341（āyadvāra bhāvāt 多一空格）、U18-017/018（pañcāśrayāḥ）；U21-022/027/029 长复合词分成两条重叠的 cpd 记录；U24-016 lemma "ni-veśaya (caus. viś)" 写法不规范。

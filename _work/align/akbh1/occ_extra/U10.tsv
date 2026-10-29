@@ -1,20 +1,20 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
 U10-034	S0144	tadyathā	tadyathā	ind.	0002b27	謂	语法	0163a18	謂	举例的 tadyathā 译"謂"
 U10-063	S0146	tatra sātaṃ	tatra	ind.	0002b29	此中	语法	0163a20	此中	
-U10-085	S0147	maṇīnaṃ	pl.	gram. gen. pl. (-īnām)	0002c02	諸	语法			第六格复数以"諸"表出于"焰"前
+U10-085	S0147	maṇīnaṃ	pl.	gram. pl. gen. (-īnām)	0002c02	諸	语法			第六格复数以"諸"表出于"焰"前
 U10-098	S0149	na vipañcitam	na	ind.	0002c03	不	语法	0163a23	不	
 U10-102	S0150	asti rūpāyatanaṃ	as	v. pres. 3sg.	0002c04	有	对译	0163a23	有	
 U10-106	S0150	na saṃsthānataḥ	na	ind.	0002c04	無	语法	0163a23	無	
 U10-119	S0152	asti saṃsthānato	as	v. pres. 3sg.	0002c05	有	对译	0163a24	有	
 U10-131	S0154	astyubhayathā	as	v. pres. 3sg.	0002c06	有	对译	0163a25	有	
-U10-162	S0158	hyeṣa	etad	pron. nom.	0002c09	此	语法			
+U10-162	S0158	hyeṣa	etad	pron. sg. nom.	0002c09	此	语法			
 U10-167	S0158	vidirna	na	ind.	0002c09	非	语法			
 U10-198	S0162	punar	punar	ind.	0002c13	復	语法			
 U10-240	S0167	'pyasti	as	v. pres. 3sg.	0002c16	有	对译	0163b07	有	
 U10-257	S0169	yathaikau	yathā	ind.	0002c18	如	语法	0163b08	譬如	
 U10-262	S0169	paramāṇurna	na	ind.	0002c18	不	语法	0163b08	不	
 U10-329	S0180	vakṣyāmḥ	fut.	gram. fut. (-sya-)	0002c24	當	语法	0163b14	當	未来时
-U10-360	S0185	buddhānāṃ	pl.	gram. gen. pl. (-ānām)	0002c28	諸	语法	0163b18	諸	复数以"諸"表出
+U10-360	S0185	buddhānāṃ	pl.	gram. pl. gen. (-ānām)	0002c28	諸	语法	0163b18	諸	复数以"諸"表出
 U10-377	S0186	staḥ	as	v. pres. 3du.			省译			na staḥ 译"無"，as 不单独出
 U10-379	S0186	śeṣamasti	as	v. pres. 3sg.	0003a01	有	对译	0163b20	有	
 U10-396	S0189	kilāsti	kila	ind.	0003a03	傳	语法	0163b22	他說	kila 表传闻

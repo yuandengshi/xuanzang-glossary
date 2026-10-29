@@ -1,124 +1,124 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
-U45-001	S0857	daśa	daśan	num.	0010b15	十	对译	0170b10	十	
-U45-002	S0857	bhāvanayā	bhāvanā	n. instr.	0010b15	修	对译	0170b11	修道	
-U45-003	S0857	heyāḥ	heya	gdv.	0010b15	斷	对译	0170b11	滅	颂中"所斷"略作"斷"
-U45-004	S0857	pañca	pañca	num.	0010b15	五	对译	0170b11	五	
+U45-001	S0857	daśa	daśan	num. pl. nom.	0010b15	十	对译	0170b10	十	
+U45-002	S0857	bhāvanayā	bhāvanā	n. sg. instr.	0010b15	修	对译	0170b11	修道	
+U45-003	S0857	heyāḥ	heya	gdv. pl. nom.	0010b15	斷	对译	0170b11	滅	颂中"所斷"略作"斷"
+U45-004	S0857	pañca	pañcan	num. pl. nom.	0010b15	五	对译	0170b11	五	
 U45-005	S0857				0010b15	唯	增译			颂中补"唯"
 U45-006	S0857				0010b17	十五界者	增译			引颂文
-U45-007	S0857	daśa	daśan	num.	0010b17	十	对译	0170b11	十	长行复述颂文"十色界"
-U45-008	S0857	pañca	pañca	num.	0010b17	五	对译	0170b11	五	长行复述颂文"五識界"
+U45-007	S0857	daśa	daśan	num. pl. nom.	0010b17	十	对译	0170b11	十	长行复述颂文"十色界"
+U45-008	S0857	pañca	pañcan	num. pl. nom.	0010b17	五	对译	0170b11	五	长行复述颂文"五識界"
 U45-009	S0857				0010b17	唯修斷…此十五界唯修所斷	增译	0170b12	一向修道所滅	引颂文并复述
-U45-010	S0858	vijñānadhātavaḥ	vijñāna-dhātu	cpd.	0010b17	識界	对译	0170b11	識界	颂中合入"十五"，长行作"五識界"
-U45-011	S0859	antyās	antya	adj.	0010b15	後	对译	0170b12	後	
-U45-012	S0859	trayas	tri	num.	0010b15	三	对译	0170b12	三	
+U45-010	S0858	vijñānadhātavaḥ	vijñāna-dhātu	cpd. pl. nom.	0010b17	識界	对译	0170b11	識界	颂中合入"十五"，长行作"五識界"
+U45-011	S0859	antyās	antya	adj. pl. nom.	0010b15	後	对译	0170b12	後	
+U45-012	S0859	trayas	tri	num. pl. nom.	0010b15	三	对译	0170b12	三	
 U45-013	S0859				0010b15	界	增译			"後三界"补"界"
 U45-014	S0859	tridhā	tridhā	ind.	0010b15	通三	意译	0170b12	三	"通"为补足
 U45-015	S0860				0010b18	後三界者	增译			引颂文
-U45-016	S0860	manodhātur	manas-dhātu	cpd.	0010b18	意界	对译	0170b12	意界	
-U45-017	S0860	dharmadhātur	dharma-dhātu	cpd.	0010b18	法界	对译	0170b12	法界	
-U45-018	S0860	manovijñānadhātuś	manas-vijñāna-dhātu	cpd.	0010b19	意識界	对译	0170b13	意識界	
+U45-016	S0860	manodhātur	manas-dhātu	cpd. sg. nom.	0010b18	意界	对译	0170b12	意界	
+U45-017	S0860	dharmadhātur	dharma-dhātu	cpd. sg. nom.	0010b18	法界	对译	0170b12	法界	
+U45-018	S0860	manovijñānadhātuś	manas-vijñāna-dhātu	cpd. sg. nom.	0010b19	意識界	对译	0170b13	意識界	
 U45-019	S0860				0010b19	通三者	增译			引颂文
-U45-021	S0860	trayo	tri	num.	0010b19	三	对译	0170b13	三	
-U45-022	S0860	dhātavaḥ	dhātu	n.	0010b19	界	对译			
-U45-023	S0860	pāṭhānupūrvyā	pāṭha-anupūrvī	cpd. instr.			省译			玄奘此处未译（上文 S0768 已释"於六三中最後說"）
-U45-024	S0860	'ntyās	antya	adj.	0010b19	後	对译			
-U45-025	S0860	triprakārāḥ	tri-prakāra	cpd. adj.	0010b19	三種	对译	0170b13	三種	
+U45-021	S0860	trayo	tri	num. pl. nom.	0010b19	三	对译	0170b13	三	
+U45-022	S0860	dhātavaḥ	dhātu	n. pl. nom.	0010b19	界	对译			
+U45-023	S0860	pāṭhānupūrvyā	pāṭha-anupūrvī	cpd. sg. instr.			省译			玄奘此处未译（上文 S0768 已释"於六三中最後說"）
+U45-024	S0860	'ntyās	antya	adj. pl. nom.	0010b19	後	对译			
+U45-025	S0860	triprakārāḥ	tri-prakāra	cpd. adj. pl. nom.	0010b19	三種	对译	0170b13	三種	
 U45-026	S0860				0010b19	各通	增译	0170b13	各有	
-U45-027	S0861	aṣṭāśītyanuśayāḥ	aṣṭāśīti-anuśaya	cpd.	0010b20	八十八隨眠	对译	0170b13	八十八隨眠	
-U45-028	S0861	aṣṭāśīty	aṣṭāśīti	num.	0010b20	八十八	对译	0170b13	八十八	
-U45-029	S0861	anuśayāḥ	anuśaya	n.	0010b20	隨眠	对译	0170b13	隨眠	
-U45-030	S0861	tatsahabhuvas	tad-saha-bhū	cpd.	0010b20	彼俱有	对译	0170b14	與彼共有	
-U45-031	S0861	sahabhuvas	saha-bhū	adj.	0010b20	俱有	对译	0170b14	共有	
+U45-027	S0861	aṣṭāśītyanuśayāḥ	aṣṭāśīti-anuśaya	cpd. pl. nom.	0010b20	八十八隨眠	对译	0170b13	八十八隨眠	
+U45-028	S0861	aṣṭāśīty	aṣṭāśīti	num. 成分	0010b20	八十八	对译	0170b13	八十八	
+U45-029	S0861	anuśayāḥ	anuśaya	n. pl. nom.	0010b20	隨眠	对译	0170b13	隨眠	
+U45-030	S0861	tatsahabhuvas	tad-saha-bhū	cpd. pl. nom.	0010b20	彼俱有	对译	0170b14	與彼共有	
+U45-031	S0861	sahabhuvas	saha-bhū	adj. pl. nom.	0010b20	俱有	对译	0170b14	共有	
 U45-032	S0861				0010b20	法	增译	0170b14	法	"俱有法"补"法"
 U45-033	S0861	śāca	ca	ind.	0010b20	及…并	语法	0170b13	或	列举之 ca 译"及…并"；GRETIL 作 tatpraptayaśāca，当读 tatprāptayaś ca
-U45-034	S0861	tatpraptaya	tad-prāpti	cpd.	0010b20	得	意译	0170b14	彼至得	tad 未译；GRETIL 作 tatpraptaya-，当读 tatprāptaya-
-U45-035	S0861	sānucarā	sa-anucara	adj.	0010b20	隨行	对译	0170b14	伴類	
-U45-036	S0861	daṛśanaheyāḥ	darśana-heya	cpd. gdv.	0010b20	見所斷	对译	0170b14	見諦滅	GRETIL 作 daṛśana-；"皆"为增字
-U45-037	S0862	śeṣāḥ	śeṣa	adj.	0010b21	餘	对译	0170b15	所餘	
-U45-039	S0862	sāsravā	sa-āsrava	adj.	0010b21	有漏	对译	0170b15	有流	
-U45-040	S0862	bhāvanāheyāḥ	bhāvanā-heya	cpd. gdv.	0010b21	修所斷	对译	0170b15	修道滅	"皆"为增字
+U45-034	S0861	tatpraptaya	tad-prāpti	cpd. pl. nom.	0010b20	得	意译	0170b14	彼至得	tad 未译；GRETIL 作 tatpraptaya-，当读 tatprāptaya-
+U45-035	S0861	sānucarā	sa-anucara	adj. pl. nom.	0010b20	隨行	对译	0170b14	伴類	
+U45-036	S0861	daṛśanaheyāḥ	darśana-heya	cpd. gdv. pl. nom.	0010b20	見所斷	对译	0170b14	見諦滅	GRETIL 作 daṛśana-；"皆"为增字
+U45-037	S0862	śeṣāḥ	śeṣa	adj. pl. nom.	0010b21	餘	对译	0170b15	所餘	
+U45-039	S0862	sāsravā	sa-āsrava	adj. pl. nom.	0010b21	有漏	对译	0170b15	有流	
+U45-040	S0862	bhāvanāheyāḥ	bhāvanā-heya	cpd. gdv. pl. nom.	0010b21	修所斷	对译	0170b15	修道滅	"皆"为增字
 U45-041	S0863				0010b21	一切	增译			
-U45-042	S0863	anāsravā	an-āsrava	adj.	0010b21	無漏	对译	0170b15	無流	
-U45-043	S0863	aheyāḥ	a-heya	gdv.	0010b21	非所斷	对译	0170b15	非所滅	"皆"为增字
+U45-042	S0863	anāsravā	an-āsrava	adj. pl. nom.	0010b21	無漏	对译	0170b15	無流	
+U45-043	S0863	aheyāḥ	a-heya	gdv. pl. nom.	0010b21	非所斷	对译	0170b15	非所滅	"皆"为增字
 U45-044	S0864	nanu	nanu	ind.	0010b22	豈不	语法	0170b16	為	反诘；真谛以句末"為"表疑问
-U45-045	S0864	ānyad	anya	pron.	0010b22	更	意译	0170b15	別	anyad api（另有）译"更"
-U45-046	S0864	darśanaprahātavyam	darśana-prahātavya	cpd. gdv.	0010b22	見所斷	对译	0170b16	見諦所滅	
-U45-047	S0864	prahātavyam	prahātavya	gdv.	0010b22	所斷	对译	0170b16	所滅	
+U45-045	S0864	ānyad	anya	pron. sg. nom.	0010b22	更	意译	0170b15	別	anyad api（另有）译"更"
+U45-046	S0864	darśanaprahātavyam	darśana-prahātavya	cpd. gdv. sg. nom.	0010b22	見所斷	对译	0170b16	見諦所滅	
+U45-047	S0864	prahātavyam	prahātavya	gdv. sg. nom.	0010b22	所斷	对译	0170b16	所滅	
 U45-048	S0864				0010b22	法	增译	0170b15	法	"見所斷法"补"法"
-U45-049	S0864	pṛthagjanatvam	pṛthagjana-tva	n.	0010b22	異生	对译	0170b16	凡夫	-tva 译"性"另记
-U45-051	S0864	āpāyikaṃ	āpāyika	adj.	0010b22	招惡趣	意译	0170b16	能感惡道	āpāyika（属恶趣的）译"招惡趣"
-U45-052	S0864	kāyavākkarma	kāya-vāc-karman	cpd.	0010b23	身語業	对译	0170b17	身口二業	"等"为增字
-U45-053	S0864	kāya	kāya	n.	0010b23	身	对译	0170b17	身	
-U45-054	S0864	vāk	vāc	n.	0010b23	語	对译	0170b17	口	
-U45-055	S0864	karma	karman	n.	0010b23	業	对译	0170b17	業	
-U45-056	S0865	āryamārgavirodhitvāt	ārya-mārga-virodhi-tva	cpd. abl.	0010b23	與聖道…相違	对译	0170b17	與聖道相違	"極"为增字；第五格译"故"
+U45-049	S0864	pṛthagjanatvam	pṛthagjana-tva	n. sg. nom.	0010b22	異生	对译	0170b16	凡夫	-tva 译"性"另记
+U45-051	S0864	āpāyikaṃ	āpāyika	adj. sg. nom.	0010b22	招惡趣	意译	0170b16	能感惡道	āpāyika（属恶趣的）译"招惡趣"
+U45-052	S0864	kāyavākkarma	kāya-vāc-karman	cpd. sg. nom.	0010b23	身語業	对译	0170b17	身口二業	"等"为增字
+U45-053	S0864	kāya	kāya	n. 成分	0010b23	身	对译	0170b17	身	
+U45-054	S0864	vāk	vāc	n. 成分	0010b23	語	对译	0170b17	口	
+U45-055	S0864	karma	karman	n. sg. nom.	0010b23	業	对译	0170b17	業	
+U45-056	S0865	āryamārgavirodhitvāt	ārya-mārga-virodhi-tva	cpd. sg. abl.	0010b23	與聖道…相違	对译	0170b17	與聖道相違	"極"为增字；第五格译"故"
 U45-056+1	S0865				0010b23	極	增译			合并时从 U45-056（與聖道極相違）拆出
-U45-057	S0865	āryamārga	ārya-mārga	cpd.	0010b23	聖道	对译	0170b17	聖道	
-U45-058	S0865	virodhi	virodhin	adj.	0010b23	相違	对译	0170b17	相違	
+U45-057	S0865	āryamārga	ārya-mārga	cpd. 成分	0010b23	聖道	对译	0170b17	聖道	
+U45-058	S0865	virodhi	virodhin	adj. 成分	0010b23	相違	对译	0170b17	相違	
 U45-059	S0865				0010b23	雖爾	增译			补出让步
-U45-060	S0865	tad	tad	pron.	0010b23	此法	意译	0170b17	此	代词补"法"
-U45-061	S0865	daṛśanaprahātavyam	darśana-prahātavya	cpd. gdv.	0010b24	見所斷	对译	0170b17	見諦滅	GRETIL 作 daṛśana-
-U45-062	S0866	saṃkṣepaḥ	saṃkṣepa	n.	0010b24	略說	意译	0170b18	略說	
+U45-060	S0865	tad	tad	pron. sg. nom.	0010b23	此法	意译	0170b17	此	代词补"法"
+U45-061	S0865	daṛśanaprahātavyam	darśana-prahātavya	cpd. gdv. sg. nom.	0010b24	見所斷	对译	0170b17	見諦滅	GRETIL 作 daṛśana-
+U45-062	S0866	saṃkṣepaḥ	saṃkṣepa	n. sg. nom.	0010b24	略說	意译	0170b18	略說	
 U45-063	S0866				0010b24	彼相	增译	0170b18	見諦滅相	
-U45-064	S0867	dṛṣṭiheyam	dṛṣṭi-heya	cpd. gdv.	0010b16	見斷	对译	0170b18	見滅	
-U45-065	S0867	dṛṣṭi	dṛṣṭi	n.	0010b16	見	对译	0170b18	見	
-U45-066	S0867	heyam	heya	gdv.	0010b16	斷	对译	0170b18	滅	
-U45-067	S0867	akliṣṭaṃ	a-kliṣṭa	adj.	0010b16	不染	对译	0170b18	非污	
-U45-068	S0867	rūpaṃ	rūpa	n.	0010b16	色	对译	0170b18	色	
+U45-064	S0867	dṛṣṭiheyam	dṛṣṭi-heya	cpd. gdv. sg. nom.	0010b16	見斷	对译	0170b18	見滅	
+U45-065	S0867	dṛṣṭi	dṛṣṭi	n. 成分	0010b16	見	对译	0170b18	見	
+U45-066	S0867	heyam	heya	gdv. sg. nom.	0010b16	斷	对译	0170b18	滅	
+U45-067	S0867	akliṣṭaṃ	a-kliṣṭa	adj. sg. nom.	0010b16	不染	对译	0170b18	非污	
+U45-068	S0867	rūpaṃ	rūpa	n. sg. nom.	0010b16	色	对译	0170b18	色	
 U45-069	S0867				0010b16	定	增译			
-U45-070	S0867	aḍaḍtḥajaṃ	a-ṣaṣṭha-ja	cpd. adj.	0010b16	非六生	对译	0170b19	非六生	GRETIL 作 nāpyaḍaḍtḥajaṃ，当读 nāpy aṣaṣṭhajam
-U45-071	S0867	aḍaḍtḥajaṃ	a-ṣaṣṭha-ja	cpd. adj.	0010b24	非六生	对译			长行引颂文（謂不染法非六生色）
-U45-072	S0868	kiñcid	kiṃcit	pron.			省译			
-U45-073	S0868	akliṣṭaṃ	a-kliṣṭa	adj.	0010b24	不染	对译	0170b19	非染污	"法"为增字
-U45-074	S0868	darśanaprahātavyaṃ	darśana-prahātavya	cpd. gdv.	0010b25	見斷	意译	0170b19	見諦所滅	略作"見斷"
-U45-075	S0868	rūpam	rūpa	n.	0010b24	色	对译	0170b20	色	
+U45-070	S0867	aḍaḍtḥajaṃ	a-ṣaṣṭha-ja	cpd. adj. sg. nom.	0010b16	非六生	对译	0170b19	非六生	GRETIL 作 nāpyaḍaḍtḥajaṃ，当读 nāpy aṣaṣṭhajam
+U45-071	S0867	aḍaḍtḥajaṃ	a-ṣaṣṭha-ja	cpd. adj. sg. nom.	0010b24	非六生	对译			长行引颂文（謂不染法非六生色）
+U45-072	S0868	kiñcid	kiṃcit	pron. sg. nom.			省译			
+U45-073	S0868	akliṣṭaṃ	a-kliṣṭa	adj. sg. nom.	0010b24	不染	对译	0170b19	非染污	"法"为增字
+U45-074	S0868	darśanaprahātavyaṃ	darśana-prahātavya	cpd. gdv. sg. nom.	0010b25	見斷	意译	0170b19	見諦所滅	略作"見斷"
+U45-075	S0868	rūpam	rūpa	n. sg. nom.	0010b24	色	对译	0170b20	色	
 U45-076	S0868				0010b25	定	增译			
-U45-077	S0869	pṛthagjanatvam	pṛthagjana-tva	n.	0010b25	異生	对译	0170b20	凡夫	"其"为增字
-U45-079	S0869	akliṣṭavyākṛtaṃ	a-kliṣṭa-avyākṛta	cpd. adj.	0010b25	不染污…無記	对译	0170b20	無記無染污	GRETIL 作 akliṣṭavyākṛtaṃ，当读 akliṣṭāvyākṛtaṃ；"是"为增字
-U45-080	S0869	akliṣṭa	a-kliṣṭa	adj.	0010b25	不染污	对译	0170b20	無染污	
-U45-081	S0869	avyākṛtaṃ	a-vyākṛta	ptc. adj.	0010b25	無記	对译	0170b20	無記	
+U45-077	S0869	pṛthagjanatvam	pṛthagjana-tva	n. sg. nom.	0010b25	異生	对译	0170b20	凡夫	"其"为增字
+U45-079	S0869	akliṣṭavyākṛtaṃ	a-kliṣṭa-avyākṛta	cpd. adj. sg. nom.	0010b25	不染污…無記	对译	0170b20	無記無染污	GRETIL 作 akliṣṭavyākṛtaṃ，当读 akliṣṭāvyākṛtaṃ；"是"为增字
+U45-080	S0869	akliṣṭa	a-kliṣṭa	adj. 成分	0010b25	不染污	对译	0170b20	無染污	
+U45-081	S0869	avyākṛtaṃ	a-vyākṛta	ptc. adj. sg. nom.	0010b25	無記	对译	0170b20	無記	
 U45-082	S0869				0010b25	性攝	增译			
-U45-083	S0870	samucchinnakuśalamūlavītarāgāṇām	samucchinna-kuśalamūla-vītarāga	cpd. (dvandva) gen. pl.	0010b26	已離欲者斷善根者	对译	0170b20	斷善根凡夫及離欲人	玄奘倒序
-U45-084	S0870	samucchinnakuśalamūla	samucchinna-kuśala-mūla	cpd.	0010b26	斷善根	对译	0170b20	斷善根	
-U45-085	S0870	samucchinna	sam-ud-chid	ptc. (samucchinna)	0010b26	斷	对译	0170b20	斷	
-U45-086	S0870	kuśalamūla	kuśala-mūla	cpd.	0010b26	善根	对译	0170b20	善根	
-U45-087	S0870	vītarāgāṇām	vīta-rāga	cpd. gen. pl.	0010b26	離欲	对译	0170b21	離欲	
+U45-083	S0870	samucchinnakuśalamūlavītarāgāṇām	samucchinna-kuśalamūla-vītarāga	cpd. (dvandva) pl. gen.	0010b26	已離欲者斷善根者	对译	0170b20	斷善根凡夫及離欲人	玄奘倒序
+U45-084	S0870	samucchinnakuśalamūla	samucchinna-kuśala-mūla	cpd. 成分	0010b26	斷善根	对译	0170b20	斷善根	
+U45-085	S0870	samucchinna	sam-ud-chid	ptc. 成分 (samucchinna)	0010b26	斷	对译	0170b20	斷	
+U45-086	S0870	kuśalamūla	kuśala-mūla	cpd. 成分	0010b26	善根	对译	0170b20	善根	
+U45-087	S0870	vītarāgāṇām	vīta-rāga	cpd. pl. gen.	0010b26	離欲	对译	0170b21	離欲	
 U45-088	S0870	vītarāgāṇāmapi	api	ind.	0010b26	猶	语法			api（即使…亦）译"猶"
-U45-089	S0870	tatsamanvāmat	tad-samanvāgama	cpd. abl.	0010b26	成就	对译	0170b21	與此相應	GRETIL 作 tatsamanvāmat，当读 tatsamanvāgamāt；第五格译"故"
-U45-090	S0870	rūpaṃ	rūpa	n.	0010b29	色	对译	0170b22	色	玄奘移后作"色謂一切身語業等"
-U45-091	S0870	kāyavākkarma	kāya-vāc-karman	cpd.	0010b29	身語業	对译	0170b21	身口二業	"一切…等"为增字
+U45-089	S0870	tatsamanvāmat	tad-samanvāgama	cpd. sg. abl.	0010b26	成就	对译	0170b21	與此相應	GRETIL 作 tatsamanvāmat，当读 tatsamanvāgamāt；第五格译"故"
+U45-090	S0870	rūpaṃ	rūpa	n. sg. nom.	0010b29	色	对译	0170b22	色	玄奘移后作"色謂一切身語業等"
+U45-091	S0870	kāyavākkarma	kāya-vāc-karman	cpd. sg. nom.	0010b29	身語業	对译	0170b21	身口二業	"一切…等"为增字
 U45-093	S0871				0010b29	此色…定	增译			补出主语"此色"与"定"
-U45-094	S0871	darśanaprahātavyam	darśana-prahātavya	cpd. gdv.	0010c01	見斷	意译	0170b22	見諦滅	略作"見斷"
+U45-094	S0871	darśanaprahātavyam	darśana-prahātavya	cpd. gdv. sg. nom.	0010c01	見斷	意译	0170b22	見諦滅	略作"見斷"
 U45-095	S0872				0010b26	此異生性若見所斷	增译			补出假设
-U45-096	S0872	duḥkhe	duḥkha	n. loc.	0010b27	苦	对译	0170b23	苦	
-U45-097	S0872	dharmajñānakṣāntau	dharma-jñāna-kṣānti	cpd. loc.	0010b27	法忍	意译	0170b23	法忍	法智忍略作"法忍"
+U45-096	S0872	duḥkhe	duḥkha	n. sg. loc.	0010b27	苦	对译	0170b23	苦	
+U45-097	S0872	dharmajñānakṣāntau	dharma-jñāna-kṣānti	cpd. sg. loc.	0010b27	法忍	意译	0170b23	法忍	法智忍略作"法忍"
 U45-098	S0872	dharmajñānakṣāntau	loc.	gram. loc. (-au)	0010b27	位	语法	0170b23	生時	第七格（于…之时位）译"位"
-U45-099	S0872	prthagjanatvaprasaṅgāc	pṛthagjana-tva-prasaṅga	cpd. abl.	0010b27	應是異生	意译	0170b23	凡夫性應在	GRETIL 作 prthag-
-U45-100	S0872	prthagjanatva	pṛthagjana-tva	n.	0010b27	異生	对译	0170b23	凡夫	"是"表 -tva
-U45-101	S0872	prasaṅgāc	prasaṅga	n. abl.	0010b27	應	意译	0170b23	應	prasaṅga（应成之过）译"應"
+U45-099	S0872	prthagjanatvaprasaṅgāc	pṛthagjana-tva-prasaṅga	cpd. sg. abl.	0010b27	應是異生	意译	0170b23	凡夫性應在	GRETIL 作 prthag-
+U45-100	S0872	prthagjanatva	pṛthagjana-tva	n. 成分	0010b27	異生	对译	0170b23	凡夫	"是"表 -tva
+U45-101	S0872	prasaṅgāc	prasaṅga	n. sg. abl.	0010b27	應	意译	0170b23	應	prasaṅga（应成之过）译"應"
 U45-102	S0872				0010c01	所以者何	增译	0170b22	何以故	以设问引出理由
-U45-103	S0872	satyeṣva	satya	n. loc. pl.	0010c01	諦理	意译	0170b22	四諦理	"理"为补足
-U45-104	S0872	a vipratipatter	a-vipratipatti	n. abl.	0010c01	非迷	意译	0170b22	不能違	GRETIL 分写 satyeṣva vipratipatter，当读 satyeṣv avipratipatter
+U45-103	S0872	satyeṣva	satya	n. pl. loc.	0010c01	諦理	意译	0170b22	四諦理	"理"为补足
+U45-104	S0872	a vipratipatter	a-vipratipatti	n. sg. abl.	0010c01	非迷	意译	0170b22	不能違	GRETIL 分写 satyeṣva vipratipatter，当读 satyeṣv avipratipatter
 U45-106	S0872				0010c01	親發起	增译			
-U45-107	S0873	aṣaṣṭajam	a-ṣaṣṭha-ja	cpd. adj.			省译			梵本于此重引颂文（标目），玄奘长行未另引，直接释"六謂意處"；GRETIL 作 aṣaṣṭajam
-U45-108	S0874	ṣaṣṭham	ṣaṣṭha	num. ord.	0010b27	六	意译	0170b24	六	序数"第六"译"六"
-U45-109	S0874	ucyate	vac	v. pass. 3sg.	0010b27	謂	对译	0170b24	謂	
-U45-110	S0874	mana	manas	n.	0010b27	意	对译	0170b24	意	
-U45-111	S0874	āyatanam	āyatana	n.	0010b27	處	对译	0170b24	入	
+U45-107	S0873	aṣaṣṭajam	a-ṣaṣṭha-ja	cpd. adj. sg. nom.			省译			梵本于此重引颂文（标目），玄奘长行未另引，直接释"六謂意處"；GRETIL 作 aṣaṣṭajam
+U45-108	S0874	ṣaṣṭham	ṣaṣṭha	num. sg. nom. (ord.)	0010b27	六	意译	0170b24	六	序数"第六"译"六"
+U45-109	S0874	ucyate	vac	v. pres. pass. 3sg.	0010b27	謂	对译	0170b24	謂	
+U45-110	S0874	mana	manas	n. sg. nom.	0010b27	意	对译	0170b24	意	
+U45-111	S0874	āyatanam	āyatana	n. sg. nom.	0010b27	處	对译	0170b24	入	
 U45-112	S0875	anyatra	anyatra	ind.	0010b27	異	意译	0170b24	離	tasmād anyatra（除此以外）译"異此"
-U45-113	S0875	jātam	jan	ptc. (jāta)	0010b28	生	对译	0170b24	生	"而"为增字
-U45-114	S0875	aṣaṣṭhajaṃ	a-ṣaṣṭha-ja	cpd. adj.	0010b28	非六生	对译	0170b24	非六生	"名"为增字
-U45-115	S0875	pañcendriyajaṃ	pañca-indriya-ja	cpd. adj.	0010b28	從…五根生	意译	0170b25	從五根生	"眼等"为增字；"是…義"为增字
+U45-113	S0875	jātam	jan	ptc. sg. nom. (jāta)	0010b28	生	对译	0170b24	生	"而"为增字
+U45-114	S0875	aṣaṣṭhajaṃ	a-ṣaṣṭha-ja	cpd. adj. sg. nom.	0010b28	非六生	对译	0170b24	非六生	"名"为增字
+U45-115	S0875	pañcendriyajaṃ	pañca-indriya-ja	cpd. adj. sg. nom.	0010b28	從…五根生	意译	0170b25	從五根生	"眼等"为增字；"是…義"为增字
 U45-115+1	S0875				0010b28	眼等	增译			合并时从 U45-115（從眼等五根生）拆出
-U45-116	S0875	pañce	pañca	num.	0010b28	五	对译	0170b25	五	
-U45-117	S0875	endriya	indriya	n.	0010b28	根	对译	0170b25	根	
-U45-118	S0875	jaṃ ca	ja	adj. (√jan)	0010b28	生	对译	0170b25	生	
+U45-116	S0875	pañce	pañcan	num. 成分	0010b28	五	对译	0170b25	五	
+U45-117	S0875	endriya	indriya	n. 成分	0010b28	根	对译	0170b25	根	
+U45-118	S0875	jaṃ ca	ja	adj. 成分 (√jan)	0010b28	生	对译	0170b25	生	
 U45-119	S0875				0010b28	即五識等	增译			玄奘补出所指
-U45-120	S0875	yattadapi	tad	pron.	0010b29	前	意译	0170b25	此法	"前"总指上文异生性、非六生等，与 S0871 之色合说"前及此色"
+U45-120	S0875	yattadapi	tad	pron. sg. nom.	0010b29	前	意译	0170b25	此法	"前"总指上文异生性、非六生等，与 S0871 之色合说"前及此色"
 U45-121	S0875	tadapi	api	ind.	0010b29	及	语法	0170b25	亦	tad api（彼亦）与"此色"合说为"前及此色"
-U45-122	S0875	darśnaprahātavyam	darśana-prahātavya	cpd. gdv.	0010c01	見斷	合译	0170b25	見諦滅	GRETIL 作 darśna-；与 S0871 合为"定非見斷"
+U45-122	S0875	darśnaprahātavyam	darśana-prahātavya	cpd. gdv. sg. nom.	0010c01	見斷	合译	0170b25	見諦滅	GRETIL 作 darśna-；与 S0871 合为"定非見斷"
 U45-123	S0875				0010c01	如是已說見所斷等	增译			玄奘结上之语
-U45-124	S0876	aṣṭādaśānāṃ	aṣṭādaśan	num. gen. pl.	0010c02	十八	对译	0170b25	十八	
-U45-125	S0876	dhātūnāṃ	dhātu	n. gen. pl.	0010c02	界	对译	0170b25	界	
-U45-127	S0876	dṛṣṭiḥ	dṛṣṭi	n.	0010c02	見	对译	0170b26	見	"是"为增字
-U45-128	S0876	na dṛṣṭiḥ	dṛṣṭi	n.	0010c02	見	对译	0170b26	見	
+U45-124	S0876	aṣṭādaśānāṃ	aṣṭādaśan	num. pl. gen.	0010c02	十八	对译	0170b25	十八	
+U45-125	S0876	dhātūnāṃ	dhātu	n. pl. gen.	0010c02	界	对译	0170b25	界	
+U45-127	S0876	dṛṣṭiḥ	dṛṣṭi	n. sg. nom.	0010c02	見	对译	0170b26	見	"是"为增字
+U45-128	S0876	na dṛṣṭiḥ	dṛṣṭi	n. sg. nom.	0010c02	見	对译	0170b26	見	

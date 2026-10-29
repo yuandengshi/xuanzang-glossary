@@ -1,42 +1,42 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
-U17-002	S0317	ṣaṇṇām	ṣaṣ	num. gen.	0004b03	六	对译	0164c13	六	
-U17-003	S0317	vijñānaṃ	vijñāna	n.	0004b03	識身	意译	0164c13	識	玄奘把 vijñānam 移前，与 ṣaṇṇām 合为"六識身"，补"身"
-U17-004	S0317	anantarātītaṃ	an-antara-atīta	cpd.	0004b03	無間滅	对译	0164c13	無間謝	
-U17-005	S0317	anantarā	an-antara	adj.	0004b03	無間	对译	0164c13	無間	
-U17-006	S0317	ātītaṃ	atīta	ptc.	0004b03	滅	意译	0164c13	謝	atīta（已过去）译"滅"
+U17-002	S0317	ṣaṇṇām	ṣaṣ	num. pl. gen.	0004b03	六	对译	0164c13	六	
+U17-003	S0317	vijñānaṃ	vijñāna	n. sg. nom.	0004b03	識身	意译	0164c13	識	玄奘把 vijñānam 移前，与 ṣaṇṇām 合为"六識身"，补"身"
+U17-004	S0317	anantarātītaṃ	an-antara-atīta	cpd. sg. nom.	0004b03	無間滅	对译	0164c13	無間謝	
+U17-005	S0317	anantarā	an-antara	adj. 成分	0004b03	無間	对译	0164c13	無間	
+U17-006	S0317	ātītaṃ	atīta	ptc. 成分	0004b03	滅	意译	0164c13	謝	atīta（已过去）译"滅"
 U17-007	S0317	yaddhi tanmanaḥ	yad … tad	gram. rel.-cor.	0004b03	即…為	语法	0164c14	名	关系-相关句 yad … tad 译"即…為"
-U17-008	S0317	tanmanaḥ	manas	n.	0004b03	意	对译	0164c14	意根	
-U17-009	S0318	yadyat	yad yad	pron. (distributive)			省译	0164c14	隨一	
-U17-010	S0318	vijñānaṃ	vijñāna	n.	0004b04	識身	意译	0164c14	識	长行复述颂文"六識身"
-U17-011	S0318	samanantaraniruddhaṃ	samanantara-niruddha	cpd.	0004b04	無間滅	对译	0164c14	無間滅	"已"为 -ta 的对应
-U17-012	S0318	samanantara	samanantara	adj.	0004b04	無間	对译	0164c14	無間	samanantara（紧接着的）的定译"無間"，否定字为译名本身所有
-U17-013	S0318	niruddhaṃ	ni-rudh	ptc.	0004b04	滅	对译	0164c14	滅	
+U17-008	S0317	tanmanaḥ	manas	n. sg. nom.	0004b03	意	对译	0164c14	意根	
+U17-009	S0318	yadyat	yad yad	pron. sg. nom. (distributive)			省译	0164c14	隨一	
+U17-010	S0318	vijñānaṃ	vijñāna	n. sg. nom.	0004b04	識身	意译	0164c14	識	长行复述颂文"六識身"
+U17-011	S0318	samanantaraniruddhaṃ	samanantara-niruddha	cpd. sg. nom.	0004b04	無間滅	对译	0164c14	無間滅	"已"为 -ta 的对应
+U17-012	S0318	samanantara	samanantara	adj. 成分	0004b04	無間	对译	0164c14	無間	samanantara（紧接着的）的定译"無間"，否定字为译名本身所有
+U17-013	S0318	niruddhaṃ	ni-rudh	ptc. 成分	0004b04	滅	对译	0164c14	滅	
 U17-015	S0318				0004b04	能生後識故	增译			玄奘补出"意界"得名之由
 U17-016	S0318	ityucyeta	vac	v. opt. pass. 3sg.	0004b04	名	对译	0164c14	說名	
-U17-017	S0318	manodhātur	manas-dhātu	cpd.	0004b05	意界	对译	0164c15	意界	
+U17-017	S0318	manodhātur	manas-dhātu	cpd. sg. nom.	0004b05	意界	对译	0164c15	意界	
 U17-018	S0319	tadyathā	tadyathā	ind.	0004b05	謂如	语法	0164c15	譬如	
-U17-021	S0319	putro	putra	n.	0004b05	子	对译	0164c15	子	
+U17-021	S0319	putro	putra	n. sg. nom.	0004b05	子	对译	0164c15	子	
 U17-022	S0319	bhavati	bhū	v. pres. 3sg.	0004b05	名	意译	0164c15	為	bhavati（成为）译"名"
-U17-023	S0319	pitā	pitṛ	n.	0004b05	父	对译	0164c15	父	
+U17-023	S0319	pitā	pitṛ	n. sg. nom.	0004b05	父	对译	0164c15	父	
 U17-024	S0319				0004b05	又如	增译	0164c15	又如	
-U17-025	S0319	phalam	phala	n.	0004b05	果	对译	0164c15	果	
-U17-026	S0319	bījam	bīja	n.	0004b06	種	对译	0164c16	種子	
+U17-025	S0319	phalam	phala	n. sg. nom.	0004b05	果	对译	0164c15	果	
+U17-026	S0319	bījam	bīja	n. sg. nom.	0004b06	種	对译	0164c16	種子	
 U17-027	S0320	evaṃ tarhi	evaṃ tarhi	ind.	0004b06	若爾	语法	0164c16	若爾	
-U17-028	S0320	dravyataḥ	dravya	n. (-tas)	0004b06	實	对译	0164c17	實物	
-U17-029	S0320	dhātavo	dhātu	n.	0004b06	界	对译	0164c17	界	
+U17-028	S0320	dravyataḥ	dravya	n. sg. abl. (-tas)	0004b06	實	对译	0164c17	實物	
+U17-029	S0320	dhātavo	dhātu	n. pl. nom.	0004b06	界	对译	0164c17	界	
 U17-030	S0320	bhavanti	bhū	v. pres. 3pl.	0004b06	應	意译			以"應"表推论
 U17-031	S0320				0004b06	唯…唯	增译	0164c17	唯	
-U17-032	S0320	saptadaśa	saptadaśan	num.	0004b06	十七	对译	0164c17	十七	
-U17-034	S0320	dvādaśa	dvādaśan	num.	0004b06	十二	对译	0164c17	十二	
-U17-035	S0320	ṣaḍvijñānadhātumanodhātūnām	ṣaṣ-vijñāna-dhātu-manas-dhātu	cpd. gen.	0004b06	六識與意	意译	0164c17	六識界及意界	玄奘省去两处"界"
-U17-036	S0320	ṣaḍvijñānadhātu	ṣaṣ-vijñāna-dhātu	cpd.	0004b06	六識	意译	0164c17	六識界	
-U17-037	S0320	manodhātūnām	manas-dhātu	cpd.	0004b07	意	意译	0164c18	意界	
+U17-032	S0320	saptadaśa	saptadaśan	num. pl. nom.	0004b06	十七	对译	0164c17	十七	
+U17-034	S0320	dvādaśa	dvādaśan	num. pl. nom.	0004b06	十二	对译	0164c17	十二	
+U17-035	S0320	ṣaḍvijñānadhātumanodhātūnām	ṣaṣ-vijñāna-dhātu-manas-dhātu	cpd. pl. gen.	0004b06	六識與意	意译	0164c17	六識界及意界	玄奘省去两处"界"
+U17-036	S0320	ṣaḍvijñānadhātu	ṣaṣ-vijñāna-dhātu	cpd. 成分	0004b06	六識	意译	0164c17	六識界	
+U17-037	S0320	manodhātūnām	manas-dhātu	cpd. pl. gen.	0004b07	意	意译	0164c18	意界	
 U17-038	S0320	manodhātūnām	dvandva	gram. cpd.	0004b07	與	语法	0164c18	及	
-U17-039	S0320	itaretarāntarbhāvād	itaretara-antarbhāva	cpd. abl.	0004b07	更相攝	对译	0164c18	互相攝	
-U17-040	S0320	itaretarā	itaretara	pron.	0004b07	更相	对译	0164c18	互相	
-U17-041	S0320	āntarbhāvād	antarbhāva	n. abl.	0004b07	攝	意译	0164c18	攝	antarbhāva（包含于内）译"攝"
-U17-042	S0320	kasmād	kim	pron. abl.	0004b07	何緣…耶	语法	0164c18	云何	
+U17-039	S0320	itaretarāntarbhāvād	itaretara-antarbhāva	cpd. sg. abl.	0004b07	更相攝	对译	0164c18	互相攝	
+U17-040	S0320	itaretarā	itaretara	pron. 成分	0004b07	更相	对译	0164c18	互相	
+U17-041	S0320	āntarbhāvād	antarbhāva	n. 成分	0004b07	攝	意译	0164c18	攝	antarbhāva（包含于内）译"攝"
+U17-042	S0320	kasmād	kim	pron. sg. abl.	0004b07	何緣…耶	语法	0164c18	云何	
 U17-043	S0320	vyavasthāpyante	pass.	gram. pass. (-ya-)	0004b07	得	语法			被动以"得"表出
-U17-044	S0320	vyavasthāpyante	vi-ava-sthā (caus.)	v. caus. pass. 3pl.	0004b07	立	对译	0164c18	安立為	"界"为增字（十八界）
-U17-045	S0320	aṣṭādāśa	aṣṭādaśan	num.	0004b07	十八	对译	0164c18	十八	GRETIL 本作 aṣṭādāśa
+U17-044	S0320	vyavasthāpyante	vi-ava-sthā (caus.)	v. pres. pass. caus. 3pl.	0004b07	立	对译	0164c18	安立為	"界"为增字（十八界）
+U17-045	S0320	aṣṭādāśa	aṣṭādaśan	num. pl. nom.	0004b07	十八	对译	0164c18	十八	GRETIL 本作 aṣṭādāśa
 U17-046	S0321	yadyapyevaṃ tathāpi	yady api … tathāpi	ind. (concessive)			省译	0164c19	雖然	

@@ -1,13 +1,13 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
 U49-011	S1002	hīndriya	hi	ind.	0012a07	故	语法			"相稱合生鼻等識故"
 U49-053	S1007	saṃpradhāryate	pass.	gram. pass. (-ya-)	0012a11	可	语法	0171c21	可	被动表可能，玄奘作"可"
-U49-055	S1008	cakṣurādīndriyaparamāṇūnāṃ	pl.	gram. gen. pl. (-ūnām)	0012a11	諸	语法			复数以"諸"表出（眼等諸根）
+U49-055	S1008	cakṣurādīndriyaparamāṇūnāṃ	pl.	gram. pl. gen. (-ūnām)	0012a11	諸	语法			复数以"諸"表出（眼等諸根）
 U49-117	S1020	kadācit sarve	kadācit	ind.	0012a21	有時	对译	0171c29	或時	
 U49-127	S1022	evam	evam	ind.	0012a23	亦爾	语法	0172a02	亦爾	
 U49-128	S1022	yāvaj	yāvat	ind.	0012a23	乃至	语法	0172a02	乃至	
 U49-162	S1027	ālambanatvāt	-tva (abstract)	gram. suffix	0012a28	性	语法			抽象后缀 -tva 译"性"
 U49-166	S1028	ata evā	eva	ind.	0012a28	即	语法			"亦說"为增字
-U49-170	S1029	ya ime	yad	pron. nom. pl.	0012a29	所	语法			"如前所說"
-U49-184	S1029	kimeṣāṃ	pl.	gram. gen. pl. (-ām)	0012b02	諸	语法			"諸識依"，复数以"諸"表出
+U49-170	S1029	ya ime	yad	pron. pl. nom.	0012a29	所	语法			"如前所說"
+U49-184	S1029	kimeṣāṃ	pl.	gram. pl. gen. (-ām)	0012b02	諸	语法			"諸識依"，复数以"諸"表出
 U49-187	S1030	netyāha	na	ind.	0012b03	不爾	语法	0172a09	不爾	
 U49-188	S1031	kiṃ tarhi	kiṃ tarhi	ind.	0012b03	云何	语法	0172a09	云何	

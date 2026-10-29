@@ -1,8 +1,8 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
 U22-057	S0360	āyatanato vā	vā	ind.	0004c20	或	语法	0165a28	或	
-U22-074	S0364	yadapekṣyau	yad	pron. acc.	0004c22	彼	语法	0165b02	彼	关系代词 yad（所待者）玄奘作"彼"
+U22-074	S0364	yadapekṣyau	yad	pron. sg. acc.	0004c22	彼	语法	0165b02	彼	关系代词 yad（所待者）玄奘作"彼"
 U22-080	S0364	pitāputravat	-vat	gram. suffix	0004c23	猶如	语法	0165b02	譬如	
-U22-101	S0367	ayaṃ	idam	pron. nom.			省译			
+U22-101	S0367	ayaṃ	idam	pron. sg. nom.			省译			
 U22-113	S0368	veti	iti	ind.	0004c26	如是	语法			ity … vaibhāṣikāḥ（毗婆沙师如是说）
 U22-144	S0372	'pi	api	ind.	0005a01	亦	语法	0165b08	亦	
 U22-176	S0377	yathai	yathā	ind.	0005a04	如	语法	0165b11	如	
@@ -13,11 +13,11 @@ U22-214	S0381	syāt	as	v. opt. 3sg.	0005a08	應	语法	0165b15	則
 U22-232	S0383	dhātava iti	iti	ind.	0005a10	名	语法	0165b17	說名	
 U22-263	S0387	ekasyāsti	as	v. pres. 3sg.	0005a14	有	对译			
 U22-285	S0389	dāsyāma	fut.	gram. fut. (-sya-)	0005a17	當	语法			
-U22-287	S0389	tadetad	etad	pron. nom.	0005a17	此	语法	0165b22	此	"釋"为增字
-U22-314	S0392	sarvametad	etad	pron.			省译			
-U22-319	S0394	tatsarvam	tad	pron. nom.	0005a21	如是	语法	0165b27	是	
+U22-287	S0389	tadetad	etad	pron. sg. nom.	0005a17	此	语法	0165b22	此	"釋"为增字
+U22-314	S0392	sarvametad	etad	pron. sg. nom.			省译			
+U22-319	S0394	tatsarvam	tad	pron. sg. nom.	0005a21	如是	语法	0165b27	是	
 U22-325	S0394	rāśivad	-vat	gram. suffix	0005a22	如	语法	0165b28	如	
-U22-331	S0395	rūpoīny	pl.	gram. nom. pl. (-āni)	0005a22	諸	语法	0165b28	諸	复数以"諸"表出
-U22-368	S0399	sa āha	tad	pron. nom.	0005a27	彼	语法	0165c03	則	
+U22-331	S0395	rūpoīny	pl.	gram. pl. nom. (-āni)	0005a22	諸	语法	0165b28	諸	复数以"諸"表出
+U22-368	S0399	sa āha	tad	pron. sg. nom.	0005a27	彼	语法	0165c03	則	
 U22-397	S0402	dagdha iti	iti	ind.	0005b01	說	语法	0165c06	說	引语标记 iti 译"說"；"亦"为增字
 U22-410	S0403	āha	ah	v. perf. 3sg.			省译			

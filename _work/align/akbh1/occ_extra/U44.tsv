@@ -1,29 +1,29 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
-U44-005	S0812	tat	tad	pron.	0010a02	彼	语法			复合词成分 tad
-U44-012	S0814	yo hi	yad	pron. nom.	0010a05	若	合译			与 yadi 合用一"若"
+U44-005	S0812	tat	tad	pron. 成分	0010a02	彼	语法			复合词成分 tad
+U44-012	S0814	yo hi	yad	pron. sg. nom.	0010a05	若	合译			与 yadi 合用一"若"
 U44-020	S0814	utpantaṃ	ppp.	gram. ppp. (-ta)	0010a06	已	语法	0170a02	已	过去分词译"已"
 U44-035	S0815	utpatsyate	fut.	gram. fut. (-sya-)	0010a07	當	语法	0170a03	應	未来时
-U44-040	S0816	idaṃ	idam	pron.			省译	0170a04	如此	
-U44-047	S0817	tasya	tad	pron. gen.	0010a09	彼	语法	0170a05	此心	
+U44-040	S0816	idaṃ	idam	pron. sg. nom.			省译	0170a04	如此	
+U44-047	S0817	tasya	tad	pron. sg. gen.	0010a09	彼	语法	0170a05	此心	
 U44-067	S0819	tasmād	tasmāt	ind.	0010a11	是故	语法	0170a07	是故	
-U44-080	S0821	ko	kim	pron.	0010a13	何	语法	0170a09	何	
+U44-080	S0821	ko	kim	pron. sg. nom.	0010a13	何	语法	0170a09	何	
 U44-092	S0823	sabhāga iti	iti	ind.	0010a14	名為	语法	0170a10	名	
 U44-094	S0824	tatra	tatra	ind.	0010a15	此中	语法			
 U44-103	S0824	drakṣyati	fut.	gram. fut. (-sya-)	0010a15	當	语法	0170a11	當	
 U44-107	S0825	evaṃ	evam	ind.	0010a16	如是	语法			
 U44-109	S0825	yāvan	yāvat	ind.	0010a16	乃至	语法	0170a12	乃至	
-U44-123	S0827	yad dṛṣṭvā	yad	pron.	0010a18	謂	语法	0170a13	若	关系代词引出列举，译"謂"
-U44-133	S0828	pāścāttyānāṃ	pl.	gram. gen. pl. (-ānām)	0010a19	諸	语法	0170a14	諸	复数以"諸"表出
+U44-123	S0827	yad dṛṣṭvā	yad	pron. sg. nom.	0010a18	謂	语法	0170a13	若	关系代词引出列举，译"謂"
+U44-133	S0828	pāścāttyānāṃ	pl.	gram. pl. gen. (-ānām)	0010a19	諸	语法	0170a14	諸	复数以"諸"表出
 U44-135	S0828	punaḥ	punar	ind.			省译			
 U44-145	S0830	yāvat	yāvat	ind.	0010a20	乃至	语法	0170a16	乃至	
 U44-148	S0830	evaṃ	evam	ind.	0010a20	亦然	语法	0170a16	亦爾	
 U44-151	S0830	eva	eva	ind.	0010a21	唯	语法	0170a16	但	
 U44-155	S0831	cakṣuṣā	instr.	gram. instr. (-ā)	0010a21	為	语法			施事第三格译"為"（為眼…見）
 U44-159	S0831	paśyati	pres.	gram. pres. (-ti)	0010a21	正	语法	0170a17	正	
-U44-164	S0833	yāny	yad	pron.	0010a22	謂	语法	0170a18	若	
+U44-164	S0833	yāny	yad	pron. pl. nom.	0010a22	謂	语法	0170a18	若	
 U44-168	S0833	nirudhyante	pres.	gram. pres. (-te)	0010a23	正	语法	0170a18	正	
 U44-172	S0834	evaṃ	evam	ind.	0010a23	亦爾	语法	0170a19	亦爾	
-U44-200	S0840	kiṃ kāraṇam	kiṃ kāraṇam	pron. + n.	0010a27	所以者何	语法	0170a23	何以故	
+U44-200	S0840	kiṃ kāraṇam	kiṃ kāraṇam	pron. + n. sg. nom.	0010a27	所以者何	语法	0170a23	何以故	
 U44-202	S0841	asti	as	v. pres. 3sg.	0010a28	有	对译	0170a23	有	
 U44-208	S0841	yathā	yathā	ind.	0010a28	如	语法	0170a24	如	
 U44-224	S0843	ato	atas	ind.			省译	0170a26	是故	
@@ -32,7 +32,7 @@ U44-240	S0845	evaṃ	evam	ind.	0010b03	亦爾	语法	0170a28	如此
 U44-254	S0847	asādhāraṇatvād	-tva (abstract)	gram. suffix	0010b04	是	语法			
 U44-282	S0850	evaṃ	evam	ind.	0010b07	然	语法	0170b05	爾	
 U44-283	S0850	tasmān	tasmāt	ind.	0010b07	故	语法	0170b05	是故	GRETIL 作 tasmāndeṣāṃ，当读 tasmād eṣāṃ
-U44-292	S0852	ko	kim	pron.	0010b09	云何	语法	0170b07	何	
+U44-292	S0852	ko	kim	pron. sg. nom.	0010b09	云何	语法	0170b07	何	
 U44-305	S0854	astīti	iti	ind.	0010b11	故	语法			
 U44-311	S0854	tvādvā	vā	ind.	0010b10	或復	语法	0170b08	又	
 U44-320	S0855	sabhāgatvāt	abl.	gram. abl. (-āt)	0010b12	由	语法			第五格表原因，译"由"

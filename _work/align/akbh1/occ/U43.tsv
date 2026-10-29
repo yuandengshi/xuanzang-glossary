@@ -1,113 +1,113 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
-U43-001	S0792	dvādaśā	dvādaśan	num.	0009c16	十二	对译	0169c12	十二	
-U43-002	S0792	ādhyātmikāḥ	ādhyātmika	adj.	0009c16	內	对译	0169c13	我依	真谛作"我依"
+U43-001	S0792	dvādaśā	dvādaśan	num. pl. nom.	0009c16	十二	对译	0169c12	十二	
+U43-002	S0792	ādhyātmikāḥ	ādhyātmika	adj. pl. nom.	0009c16	內	对译	0169c13	我依	真谛作"我依"
 U43-003	S0792				0009c16	眼等	增译			颂中正面举出"眼等"；梵颂以 hitvā rūpādīn 排除色等
-U43-004	S0793	dvādaśa	dvādaśan	num.			省译	0169c13	十二	玄奘未译此问句
+U43-004	S0793	dvādaśa	dvādaśan	num. pl. nom.			省译	0169c13	十二	玄奘未译此问句
 U43-005	S0794	hitvā	hā	abs.			省译	0169c13	除	颂中改为正说"色等六為外"
-U43-006	S0794	rūpādan	rūpa-ādi	cpd. acc. pl.	0009c16	色等	对译	0169c13	色等	GRETIL 作 rūpādan，当读 rūpādīn
+U43-006	S0794	rūpādan	rūpa-ādi	cpd. pl. acc.	0009c16	色等	对译	0169c13	色等	GRETIL 作 rūpādan，当读 rūpādīn
 U43-007	S0794				0009c16	六為外	增译			
-U43-008	S0795	ṣaḍ vijñānāni	ṣaṣ	num.	0009c17	六	对译	0169c14	六	
-U43-009	S0795	vijñānāni	vijñāna	n.	0009c17	識	对译	0169c14	識	玄奘倒序作"六根、六識"
-U43-010	S0795	ṣaḍāśrayā	ṣaṣ	num.	0009c17	六	对译	0169c14	六	
-U43-011	S0795	āśrayā	āśraya	n.	0009c17	根	意译	0169c14	根	āśraya（所依）此指六根
-U43-013	S0795	dvādaśa	dvādaśan	num.	0009c17	十二	对译	0169c14	十二	
-U43-014	S0795	dhātava	dhātu	n.			省译	0169c14	界	
-U43-015	S0795	ādhyātmakāḥ	ādhyātmika	adj.	0009c17	內	对译	0169c14	我依	GRETIL 作 ādhyātmakāḥ；"名"为增字
-U43-016	S0796	bāhyāḥ	bāhya	adj.	0009c17	外	对译	0169c15	外	
+U43-008	S0795	ṣaḍ vijñānāni	ṣaṣ	num. pl. nom.	0009c17	六	对译	0169c14	六	
+U43-009	S0795	vijñānāni	vijñāna	n. pl. nom.	0009c17	識	对译	0169c14	識	玄奘倒序作"六根、六識"
+U43-010	S0795	ṣaḍāśrayā	ṣaṣ	num. pl. nom.	0009c17	六	对译	0169c14	六	
+U43-011	S0795	āśrayā	āśraya	n. pl. nom.	0009c17	根	意译	0169c14	根	āśraya（所依）此指六根
+U43-013	S0795	dvādaśa	dvādaśan	num. pl. nom.	0009c17	十二	对译	0169c14	十二	
+U43-014	S0795	dhātava	dhātu	n. pl. nom.			省译	0169c14	界	
+U43-015	S0795	ādhyātmakāḥ	ādhyātmika	adj. pl. nom.	0009c17	內	对译	0169c14	我依	GRETIL 作 ādhyātmakāḥ；"名"为增字
+U43-016	S0796	bāhyāḥ	bāhya	adj. pl. nom.	0009c17	外	对译	0169c15	外	
 U43-017	S0796				0009c17	所餘	增译			
-U43-018	S0796	rūpādayas	rūpa-ādi	cpd.	0009c17	色等	对译	0169c14	色等	
-U43-019	S0796	ṣaḍ	ṣaṣ	num.	0009c17	六	对译	0169c14	六	
-U43-020	S0796	viṣayadhātavo	viṣaya-dhātu	cpd.	0009c18	境	对译	0169c14	塵界	"界"未译
+U43-018	S0796	rūpādayas	rūpa-ādi	cpd. pl. nom.	0009c17	色等	对译	0169c14	色等	
+U43-019	S0796	ṣaḍ	ṣaṣ	num. pl. nom.	0009c17	六	对译	0169c14	六	
+U43-020	S0796	viṣayadhātavo	viṣaya-dhātu	cpd. pl. nom.	0009c18	境	对译	0169c14	塵界	"界"未译
 U43-021	S0796				0009c18	我依名內…外謂此餘	增译			玄奘补释"內"为"我依"（真谛译 ādhyātmika 即作"我依"）
-U43-022	S0797	ātmany	ātman	n. loc.	0009c18	我體	意译	0169c15	我	"體"为补足
-U43-023	S0797	asati	a-sat	ptc. loc.	0009c18	無	对译	0169c15	無	
+U43-022	S0797	ātmany	ātman	n. sg. loc.	0009c18	我體	意译	0169c15	我	"體"为补足
+U43-023	S0797	asati	a-sat	ptc. sg. loc.	0009c18	無	对译	0169c15	無	
 U43-024	S0797	asati	loc. abs.	gram. loc. abs. (sati)	0009c18	既	语法	0169c15	既	第七格独立句译"既"
 U43-025	S0797	katham	katham	ind.	0009c18	何…有	语法	0169c15	云何	katham（如何〔成立〕）译"何有"
-U43-026	S0797	ādhyātmikaṃ	ādhyātmika	adj.	0009c18	內	对译	0169c15	我依	
-U43-027	S0797	bāhyaṃ	bāhya	adj.	0009c18	外	对译	0169c15	我依外	
-U43-028	S0798	ahaṅkārasanniśrayatvāc	ahaṅkāra-sanniśraya-tva	cpd. abl.	0009c19	我執依止	对译	0169c15	我慢依止	-tva 未译；第五格译"故"
-U43-029	S0798	ahaṅkāra	ahaṅkāra	n.	0009c19	我執	对译	0169c15	我慢	
-U43-030	S0798	sanniśraya	sanniśraya	n.	0009c19	依止	对译	0169c16	依止	
-U43-031	S0798	cittam	citta	n.	0009c19	心	对译	0169c16	心	
-U43-032	S0798	ātmety	ātman	n.	0009c19	我	对译	0169c16	我	
+U43-026	S0797	ādhyātmikaṃ	ādhyātmika	adj. sg. nom.	0009c18	內	对译	0169c15	我依	
+U43-027	S0797	bāhyaṃ	bāhya	adj. sg. nom.	0009c18	外	对译	0169c15	我依外	
+U43-028	S0798	ahaṅkārasanniśrayatvāc	ahaṅkāra-sanniśraya-tva	cpd. sg. abl.	0009c19	我執依止	对译	0169c15	我慢依止	-tva 未译；第五格译"故"
+U43-029	S0798	ahaṅkāra	ahaṅkāra	n. 成分	0009c19	我執	对译	0169c15	我慢	
+U43-030	S0798	sanniśraya	sanniśraya	n. 成分	0009c19	依止	对译	0169c16	依止	
+U43-031	S0798	cittam	citta	n. sg. nom.	0009c19	心	对译	0169c16	心	
+U43-032	S0798	ātmety	ātman	n. sg. nom.	0009c19	我	对译	0169c16	我	
 U43-033	S0798	ātmety	iti	ind.	0009c19	為	语法	0169c16	為	称谓的 iti 译"為"
-U43-034	S0798	upacaryate	upa-car	v. pass. 3sg.	0009c19	假說	对译	0169c16	假說	
+U43-034	S0798	upacaryate	upa-car	v. pres. pass. 3sg.	0009c19	假說	对译	0169c16	假說	
 U43-035	S0799				0009c19	故契經	增译			引经；梵文句末以 ity uktam 标出
-U43-036	S0799	ātmanā	ātman	n. instr.	0009c20	我	对译	0169c18	我	
-U43-039	S0799	sudāntena	su-dānta	cpd. ptc. instr.	0009c20	善調伏	对译	0169c18	好調伏	
-U43-040	S0799	dāntena	dam	ptc. (dānta)	0009c20	調伏	对译	0169c18	調伏	
-U43-041	S0799	svargaṃ	svarga	n.	0009c20	天	对译	0169c18	解脫	真谛作"得解脫"，所据或不同
+U43-036	S0799	ātmanā	ātman	n. sg. instr.	0009c20	我	对译	0169c18	我	
+U43-039	S0799	sudāntena	su-dānta	cpd. ptc. sg. instr.	0009c20	善調伏	对译	0169c18	好調伏	
+U43-040	S0799	dāntena	dam	ptc. 成分 (dānta)	0009c20	調伏	对译	0169c18	調伏	
+U43-041	S0799	svargaṃ	svarga	n. sg. acc.	0009c20	天	对译	0169c18	解脫	真谛作"得解脫"，所据或不同
 U43-042	S0799	prāpnoti	pra-āp	v. pres. 3sg.	0009c20	得生	意译	0169c18	得	"得生天"
-U43-043	S0799	paṇḍitaḥ	paṇḍita	n.	0009c20	智者	对译	0169c18	智人	
-U43-044	S0800	uktam	vac	ptc.	0009c19	說	对译	0169c16	言	
-U43-045	S0801	bhagavatā	bhagavat	n. instr.	0009c21	世尊	对译	0169c19	佛世尊	
+U43-043	S0799	paṇḍitaḥ	paṇḍita	n. sg. nom.	0009c20	智者	对译	0169c18	智人	
+U43-044	S0800	uktam	vac	ptc. sg. nom.	0009c19	說	对译	0169c16	言	
+U43-045	S0801	bhagavatā	bhagavat	n. sg. instr.	0009c21	世尊	对译	0169c19	佛世尊	
 U43-046	S0801	ānyatra	anyatra	ind.	0009c21	餘處	对译	0169c19	餘處	
-U43-047	S0801	uktaṃ	vac	ptc.	0009c21	說	对译	0169c19	說	
-U43-048	S0801	damanam	damana	n.	0009c21	調伏	对译	0169c19	調伏	
-U43-049	S0801	cittasya	citta	n. gen.	0009c21	心	对译	0169c19	心	
+U43-047	S0801	uktaṃ	vac	ptc. sg. nom.	0009c21	說	对译	0169c19	說	
+U43-048	S0801	damanam	damana	n. sg. nom.	0009c21	調伏	对译	0169c19	調伏	
+U43-049	S0801	cittasya	citta	n. sg. gen.	0009c21	心	对译	0169c19	心	
 U43-050	S0801				0009c21	如契經言	增译	0169c19	如偈言	引经标记
-U43-051	S0802	sādhu	sādhu	adj.	0009c22	應善	意译	0169c20	最勝	sādhu（宜、善）译"應善"
-U43-052	S0802	damanaṃ	damana	n.	0009c22	調伏	对译	0169c20	調伏	
-U43-053	S0802	cittasya	citta	n. gen.	0009c22	心	对译	0169c20	心	
-U43-054	S0802	cittaṃ	citta	n.	0009c22	心	对译	0169c20	心	"心調"之"心"
-U43-055	S0802	dāntaṃ	dam	ptc. (dānta)	0009c22	調	对译	0169c20	調	
-U43-056	S0802	sukhāvaham	sukha-āvaha	cpd. adj.	0009c22	引樂	对译	0169c20	引樂	"能"为增字
-U43-057	S0802	sukhā	sukha	n.	0009c22	樂	对译	0169c20	樂	
-U43-058	S0802	āvaham	āvaha	adj.	0009c22	引	对译	0169c20	引	
+U43-051	S0802	sādhu	sādhu	adj. sg. nom.	0009c22	應善	意译	0169c20	最勝	sādhu（宜、善）译"應善"
+U43-052	S0802	damanaṃ	damana	n. sg. nom.	0009c22	調伏	对译	0169c20	調伏	
+U43-053	S0802	cittasya	citta	n. sg. gen.	0009c22	心	对译	0169c20	心	
+U43-054	S0802	cittaṃ	citta	n. sg. nom.	0009c22	心	对译	0169c20	心	"心調"之"心"
+U43-055	S0802	dāntaṃ	dam	ptc. sg. nom. (dānta)	0009c22	調	对译	0169c20	調	
+U43-056	S0802	sukhāvaham	sukha-āvaha	cpd. adj. sg. nom.	0009c22	引樂	对译	0169c20	引樂	"能"为增字
+U43-057	S0802	sukhā	sukha	n. 成分	0009c22	樂	对译	0169c20	樂	
+U43-058	S0802	āvaham	āvaha	adj. sg. nom.	0009c22	引	对译	0169c20	引	
 U43-059	S0803				0009c23	但	增译			
-U43-060	S0803	cittasyā	citta	n. gen.	0009c23	心	对译	0169c21	心	
-U43-061	S0803	ātmabhūtasya	ātma-bhūta	cpd. adj. gen.	0009c23	假說為我	意译	0169c21	說為我	ātmabhūta（作为我者）译"假說為我"
-U43-062	S0803	āśrayabhāvena	āśraya-bhāva	cpd. instr.	0009c23	為…所依	意译	0169c21	依止	bhāva（为…之性）译"為"；"此"复指心
-U43-063	S0803	pratyāsannatvāt	pratyāsanna-tva	n. abl.	0009c23	親近	对译	0169c21	親近	-tva 未译；第五格译"故"
-U43-064	S0804	cakṣurādīnām	cakṣus-ādi	cpd. gen. pl.	0009c23	眼等	对译	0169c21	眼等	
-U43-065	S0804	ādhyātmikatvaṃ	ādhyātmika-tva	n.	0009c24	內	对译	0169c22	我	-tva 未译；真谛"名我，依"当连读为"名我依"
+U43-060	S0803	cittasyā	citta	n. sg. gen.	0009c23	心	对译	0169c21	心	
+U43-061	S0803	ātmabhūtasya	ātma-bhūta	cpd. adj. sg. gen.	0009c23	假說為我	意译	0169c21	說為我	ātmabhūta（作为我者）译"假說為我"
+U43-062	S0803	āśrayabhāvena	āśraya-bhāva	cpd. sg. instr.	0009c23	為…所依	意译	0169c21	依止	bhāva（为…之性）译"為"；"此"复指心
+U43-063	S0803	pratyāsannatvāt	pratyāsanna-tva	n. sg. abl.	0009c23	親近	对译	0169c21	親近	-tva 未译；第五格译"故"
+U43-064	S0804	cakṣurādīnām	cakṣus-ādi	cpd. pl. gen.	0009c23	眼等	对译	0169c21	眼等	
+U43-065	S0804	ādhyātmikatvaṃ	ādhyātmika-tva	n. sg. nom.	0009c24	內	对译	0169c22	我	-tva 未译；真谛"名我，依"当连读为"名我依"
 U43-066	S0804				0009c24	說名	增译	0169c22	說…名	
-U43-067	S0804	rūpādīnāṃ	rūpa-ādi	cpd. gen. pl.	0009c24	色等	对译	0169c22	色等	
-U43-068	S0804	viṣayabhāvād	viṣaya-bhāva	cpd. abl.	0009c24	為此所緣	意译	0169c22	為境界	
-U43-069	S0804	viṣaya	viṣaya	n.	0009c24	所緣	意译	0169c22	境界	
+U43-067	S0804	rūpādīnāṃ	rūpa-ādi	cpd. pl. gen.	0009c24	色等	对译	0169c22	色等	
+U43-068	S0804	viṣayabhāvād	viṣaya-bhāva	cpd. sg. abl.	0009c24	為此所緣	意译	0169c22	為境界	
+U43-069	S0804	viṣaya	viṣaya	n. 成分	0009c24	所緣	意译	0169c22	境界	
 U43-070	S0804				0009c24	踈遠	增译			与上文"親近"对举
-U43-071	S0804	bāhyatvam	bāhya-tva	n.	0009c25	外	对译	0169c22	外	-tva 未译
-U43-073	S0805	ṣaḍ	ṣaṣ	num.	0009c25	六	对译	0169c23	六	
-U43-074	S0805	vijñānadhātava	vijñāna-dhātu	cpd.	0009c25	識	对译	0169c23	識界	"界"未译
-U43-075	S0805	ādhyātmikā	ādhyātmika	adj.	0009c25	內	对译	0169c23	我依	
+U43-071	S0804	bāhyatvam	bāhya-tva	n. sg. nom.	0009c25	外	对译	0169c22	外	-tva 未译
+U43-073	S0805	ṣaḍ	ṣaṣ	num. pl. nom.	0009c25	六	对译	0169c23	六	
+U43-074	S0805	vijñānadhātava	vijñāna-dhātu	cpd. pl. nom.	0009c25	識	对译	0169c23	識界	"界"未译
+U43-075	S0805	ādhyātmikā	ādhyātmika	adj. pl. nom.	0009c25	內	对译	0169c23	我依	
 U43-077	S0805	prāpnuvanti	pra-āp	v. pres. 3pl.	0009c25	應	意译	0169c23	應…成	prāpnoti（推论"应成"）译"應"；"名"为增字
-U43-079	S0806	aprāptāś	a-prāpta	ptc. adj.	0009c25	未至	对译	0169c23	未至	
-U43-080	S0806	manodhātutvam	manas-dhātu-tva	cpd.	0009c25	意位	意译	0169c24	意界位	
-U43-081	S0806	manodhātu	manas-dhātu	cpd.	0009c25	意	对译	0169c24	意界	"界"未译
+U43-079	S0806	aprāptāś	a-prāpta	ptc. adj. pl. nom.	0009c25	未至	对译	0169c23	未至	
+U43-080	S0806	manodhātutvam	manas-dhātu-tva	cpd. sg. acc.	0009c25	意位	意译	0169c24	意界位	
+U43-081	S0806	manodhātu	manas-dhātu	cpd. 成分	0009c25	意	对译	0169c24	意界	"界"未译
 U43-082	S0806	tvam	-tva (abstract)	gram. suffix	0009c25	位	语法	0169c24	位	抽象后缀 -tva 译"位"（意位）
-U43-083	S0806	cittasyā	citta	n. gen.	0009c25	心	对译	0169c24	心	
+U43-083	S0806	cittasyā	citta	n. sg. gen.	0009c25	心	对译	0169c24	心	
 U43-084	S0806	āśrayībhavanti	āśrayī-bhū	v. pres. 3pl.	0009c26	依	对译	0169c24	為…依	
 U43-085	S0807	yadā	yadā	ind.	0009c26	時	语法	0169c24	是時	yadā（何时〔成为意界〕）译"至意位時"
 U43-086	S0807				0009c26	至意位	增译			补出 yadā 所省之事
 U43-087	S0807	tadā	tadā	ind.			省译			
-U43-088	S0807	ta eva	tad	pron.	0009c26	六識界	意译	0169c24	六識	代词还原为所指
+U43-088	S0807	ta eva	tad	pron. pl. nom.	0009c26	六識界	意译	0169c24	六識	代词还原为所指
 U43-089	S0807	bhavantīti	bhū	v. pres. 3pl.	0009c26	不失	意译	0169c25	作	ta eva te bhavanti（彼即是彼）意译为"不失六識界"
 U43-090	S0807				0009c26	未至意位亦	增译			承上句复说
-U43-091	S0807	lakṣaṇaṃ	lakṣaṇa	n.	0009c27	相	对译	0169c25	體	
+U43-091	S0807	lakṣaṇaṃ	lakṣaṇa	n. sg. acc.	0009c27	相	对译	0169c25	體	
 U43-092	S0807				0009c27	意	增译			"越意相"补"意"
 U43-093	S0807	ātibarttante	ati-vṛt	v. pres. 3pl.	0009c27	越	对译	0169c25	離	GRETIL 作 atibarttante，当读 ativartante；真谛作"不離"
 U43-094	S0808	anyathā	anyathā	ind.	0009c27	若異此者	语法	0169c25	若不爾	
-U43-095	S0808	manodhātur	manas-dhātu	cpd.	0009c27	意界	对译	0169c25	意界	
-U43-098	S0808	atīta	atīta	ptc.	0009c27	過去	对译	0169c26	過去	"在…世"为增字
+U43-095	S0808	manodhātur	manas-dhātu	cpd. sg. nom.	0009c27	意界	对译	0169c25	意界	
+U43-098	S0808	atīta	atīta	ptc. sg. nom.	0009c27	過去	对译	0169c26	過去	"在…世"为增字
 U43-100	S0808				0009c28	六識唯在	增译			
-U43-101	S0808	ānāgatapratyutpannaḥ	an-āgata-pratyutpanna	cpd.	0009c28	現在未來	对译	0169c26	未來現在	玄奘倒序
-U43-102	S0808	ānāgata	an-āgata	ptc.	0009c28	未來	对译	0169c26	未來	
-U43-103	S0808	pratyutpannaḥ	pratyutpanna	ptc.	0009c28	現在	对译	0169c26	現在	
+U43-101	S0808	ānāgatapratyutpannaḥ	an-āgata-pratyutpanna	cpd. sg. nom.	0009c28	現在未來	对译	0169c26	未來現在	玄奘倒序
+U43-102	S0808	ānāgata	an-āgata	ptc. 成分	0009c28	未來	对译	0169c26	未來	
+U43-103	S0808	pratyutpannaḥ	pratyutpanna	ptc. sg. nom.	0009c28	現在	对译	0169c26	現在	
 U43-104	S0809				0009c28	便違自宗	增译			补出"违背自宗"之意，"自宗"即 iṣyante 的施事
-U43-105	S0809	iṣyante	iṣ	v. pass. 3pl.	0009c28	許	对译	0169c26	許	
-U43-106	S0809	āṣṭādaśa	aṣṭādaśan	num.	0009c28	十八	对译	0169c26	十八	
-U43-107	S0809	dhātavas	dhātu	n.	0009c28	界	对译	0169c26	界	
-U43-108	S0809	traiyadhvikāḥ	traiyadhvika	adj.	0009c29	通三世	意译	0169c26	有三世	"皆"为增字
-U43-111	S0810	ānāgatapratyutpannasya	an-āgata-pratyutpanna	cpd. gen.	0009c29	未來現在	对译	0169c27	未來現在	
-U43-112	S0810	vijñānasya	vijñāna	n. gen.	0009c29	識	对译	0169c27	識	"六"为增字
-U43-113	S0810	manodhātulakṣaṇaṃ	manas-dhātu-lakṣaṇa	cpd.	0009c29	意界相	对译	0169c27	意界體相	
-U43-114	S0810	lakṣaṇaṃ	lakṣaṇa	n.	0009c29	相	对译	0169c27	體相	
-U43-115	S0810	atīte	atīta	ptc. loc.	0009c29	過去	对译	0169c27	過去	
-U43-116	S0810	adhvani	adhvan	n. loc.			省译			
-U43-117	S0810	manodhātur	manas-dhātu	cpd.	0010a01	意界	对译	0169c28	意界	
+U43-105	S0809	iṣyante	iṣ	v. pres. pass. 3pl.	0009c28	許	对译	0169c26	許	
+U43-106	S0809	āṣṭādaśa	aṣṭādaśan	num. pl. nom.	0009c28	十八	对译	0169c26	十八	
+U43-107	S0809	dhātavas	dhātu	n. pl. nom.	0009c28	界	对译	0169c26	界	
+U43-108	S0809	traiyadhvikāḥ	traiyadhvika	adj. pl. nom.	0009c29	通三世	意译	0169c26	有三世	"皆"为增字
+U43-111	S0810	ānāgatapratyutpannasya	an-āgata-pratyutpanna	cpd. sg. gen.	0009c29	未來現在	对译	0169c27	未來現在	
+U43-112	S0810	vijñānasya	vijñāna	n. sg. gen.	0009c29	識	对译	0169c27	識	"六"为增字
+U43-113	S0810	manodhātulakṣaṇaṃ	manas-dhātu-lakṣaṇa	cpd. sg. nom.	0009c29	意界相	对译	0169c27	意界體相	
+U43-114	S0810	lakṣaṇaṃ	lakṣaṇa	n. sg. nom.	0009c29	相	对译	0169c27	體相	
+U43-115	S0810	atīte	atīta	ptc. sg. loc.	0009c29	過去	对译	0169c27	過去	
+U43-116	S0810	adhvani	adhvan	n. sg. loc.			省译			
+U43-117	S0810	manodhātur	manas-dhātu	cpd. sg. nom.	0010a01	意界	对译	0169c28	意界	
 U43-119	S0810	vyavasthāpyeta	vyavasthāpaya (caus. vi-ava-sthā)	v. opt. pass. 3sg.	0010a01	立	对译	0169c28	立	
 U43-120	S0810	vyavasthāpyeta	opt.	gram. opt. (-eta)	0010a01	應	语法	0169c28	可	祈愿式译"應"
-U43-122	S0811	lakṣaṇasyā	lakṣaṇa	n. gen.	0010a01	相	对译	0169c28	相	
-U43-123	S0811	ādhvasu	adhvan	n. loc. pl.	0010a01	三世	意译	0169c28	三世	adhvasu（诸世）作"三世"
-U43-125	S0811	vyabhicāro	vyabhicāra	n.	0010a01	改易	对译	0169c28	不定	
+U43-122	S0811	lakṣaṇasyā	lakṣaṇa	n. sg. gen.	0010a01	相	对译	0169c28	相	
+U43-123	S0811	ādhvasu	adhvan	n. pl. loc.	0010a01	三世	意译	0169c28	三世	adhvasu（诸世）作"三世"
+U43-125	S0811	vyabhicāro	vyabhicāra	n. sg. nom.	0010a01	改易	对译	0169c28	不定	
 U43-126	S0811				0010a01	已說內外	增译			玄奘结上之语

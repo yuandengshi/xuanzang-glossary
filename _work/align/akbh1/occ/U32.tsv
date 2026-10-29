@@ -1,120 +1,120 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
-U32-001	S0514	chidram	chidra	n.	0006c07	竅隙	对译	0166c29	竅穴	
-U32-002	S0514	ākāśadhātvākhyam	ākāśa-dhātu-ākhya	cpd. adj.	0006c07	空界謂	意译	0166c29	名空界	
-U32-003	S0514	ākāśadhātvā	ākāśa-dhātu	cpd.	0006c07	空界	对译	0166c29	空界	
-U32-004	S0514	ākhyam	ākhya	adj.	0006c07	謂	意译	0166c29	名	ākhya（名为…的）本颂译"謂"
-U32-005	S0514	chidram	chidra	n.	0006c09	竅隙	对译			长行承接 S0513"門窓口鼻等"，复述颂文"竅隙名為空界"
-U32-006	S0514	ākhyam	ākhya	adj.	0006c09	名為	对译			长行复述颂文
-U32-007	S0514	ākāśadhātvā	ākāśa-dhātu	cpd.	0006c09	空界	对译			长行复述颂文
-U32-008	S0515	chidramity	chidra	n.	0006c10	竅隙	对译	0166c29	竅穴	
-U32-010	S0515	ucyamānaṃ	vac	ptc. pres. pass.			省译	0166c29	說	
-U32-012	S0515	veditavyam	vid	gdv.	0006c10	知	对译	0166c29	知	"應"归义务分词
+U32-001	S0514	chidram	chidra	n. sg. nom.	0006c07	竅隙	对译	0166c29	竅穴	
+U32-002	S0514	ākāśadhātvākhyam	ākāśa-dhātu-ākhya	cpd. adj. sg. nom.	0006c07	空界謂	意译	0166c29	名空界	
+U32-003	S0514	ākāśadhātvā	ākāśa-dhātu	cpd. 成分	0006c07	空界	对译	0166c29	空界	
+U32-004	S0514	ākhyam	ākhya	adj. sg. nom.	0006c07	謂	意译	0166c29	名	ākhya（名为…的）本颂译"謂"
+U32-005	S0514	chidram	chidra	n. sg. nom.	0006c09	竅隙	对译			长行承接 S0513"門窓口鼻等"，复述颂文"竅隙名為空界"
+U32-006	S0514	ākhyam	ākhya	adj. sg. nom.	0006c09	名為	对译			长行复述颂文
+U32-007	S0514	ākāśadhātvā	ākāśa-dhātu	cpd. 成分	0006c09	空界	对译			长行复述颂文
+U32-008	S0515	chidramity	chidra	n. sg. nom.	0006c10	竅隙	对译	0166c29	竅穴	
+U32-010	S0515	ucyamānaṃ	vac	ptc. pres. pass. nom. sg.			省译	0166c29	說	
+U32-012	S0515	veditavyam	vid	gdv. sg. nom.	0006c10	知	对译	0166c29	知	"應"归义务分词
 U32-013	S0516	kila	kila	ind.	0006c07	傳說	语法	0167a01	彼言	kila 表传闻
-U32-014	S0516	ālokatamasī	āloka-tamas	cpd. du.	0006c07	明闇	对译	0167a01	光闇	"是"为增字
-U32-015	S0516	āloka	āloka	n.	0006c07	明	对译	0167a01	光	
-U32-016	S0516	tamasī	tamas	n. du.	0006c07	闇	对译	0167a01	闇	
+U32-014	S0516	ālokatamasī	āloka-tamas	cpd. du. nom.	0006c07	明闇	对译	0167a01	光闇	"是"为增字
+U32-015	S0516	āloka	āloka	n. 成分	0006c07	明	对译	0167a01	光	
+U32-016	S0516	tamasī	tamas	n. du. nom.	0006c07	闇	对译	0167a01	闇	
 U32-017	S0516				0006c07	是	增译	0167a01	謂	
-U32-018	S0516	ālokatamasī	āloka-tamas	cpd. du.	0006c10	明闇	对译			长行复述颂文"傳說：竅隙即是明闇"
+U32-018	S0516	ālokatamasī	āloka-tamas	cpd. du. nom.	0006c10	明闇	对译			长行复述颂文"傳說：竅隙即是明闇"
 U32-019	S0516				0006c10	竅隙即是	增译			长行复述颂文时补出主语与系词
-U32-020	S0517	chidramāloka	chidra	n.	0006c11	竅隙	对译	0167a02	竅穴	
-U32-021	S0517	ālokatamobhyām	āloka-tamas	cpd. abl. du.	0006c11	明闇	对译	0167a02	光闇	
-U32-022	S0517	manyad	anya	pron.	0006c11	離	意译	0167a02	離	anya + 第五格（异于…）译"離"
-U32-023	S0517	gṛhyate	grah	v. pass. 3sg.	0006c11	取	对译	0167a02	見	
+U32-020	S0517	chidramāloka	chidra	n. sg. nom.	0006c11	竅隙	对译	0167a02	竅穴	
+U32-021	S0517	ālokatamobhyām	āloka-tamas	cpd. du. abl.	0006c11	明闇	对译	0167a02	光闇	
+U32-022	S0517	manyad	anya	pron. sg. nom.	0006c11	離	意译	0167a02	離	anya + 第五格（异于…）译"離"
+U32-023	S0517	gṛhyate	grah	v. pres. pass. 3sg.	0006c11	取	对译	0167a02	見	
 U32-025	S0518	tasmāt	tasmāt	ind.	0006c11	故	语法	0167a02	是故	
 U32-026	S0518	kilākāśa	kila	ind.	0006c11	說	语法	0167a02	彼言	kila（据说）此处译"說"（故說）
-U32-027	S0518	kilākāśadhātur	ākāśa-dhātu	cpd.	0006c11	空界	对译	0167a02	空界	
-U32-028	S0518	ālokatamaḥsvabhāvo	āloka-tamas-svabhāva	cpd. adj.	0006c11	明闇為體	对译	0167a02	光闇…為性	
-U32-029	S0518	ālokatamaḥ	āloka-tamas	cpd.	0006c11	明闇	对译	0167a02	光闇	
-U32-030	S0518	svabhāvo rātri	svabhāva	n.	0006c12	體	意译	0167a03	性	
-U32-031	S0518	rātrindivasvabhāvo	rātrindiva-svabhāva	cpd. adj.	0006c12	體…晝夜	意译	0167a03	晝夜為位	"此體不離晝夜"，"此""不離"为增字
-U32-032	S0518	rātrindiva	rātrindiva	n.	0006c12	晝夜	对译	0167a03	晝夜	玄奘、真谛都倒序作"晝夜"
-U32-033	S0518	vasvabhāvo	svabhāva	n.	0006c12	體	意译	0167a03	位	
+U32-027	S0518	kilākāśadhātur	ākāśa-dhātu	cpd. sg. nom.	0006c11	空界	对译	0167a02	空界	
+U32-028	S0518	ālokatamaḥsvabhāvo	āloka-tamas-svabhāva	cpd. adj. sg. nom.	0006c11	明闇為體	对译	0167a02	光闇…為性	
+U32-029	S0518	ālokatamaḥ	āloka-tamas	cpd. 成分	0006c11	明闇	对译	0167a02	光闇	
+U32-030	S0518	svabhāvo rātri	svabhāva	n. sg. nom.	0006c12	體	意译	0167a03	性	
+U32-031	S0518	rātrindivasvabhāvo	rātrindiva-svabhāva	cpd. adj. sg. nom.	0006c12	體…晝夜	意译	0167a03	晝夜為位	"此體不離晝夜"，"此""不離"为增字
+U32-032	S0518	rātrindiva	rātrindiva	n. 成分	0006c12	晝夜	对译	0167a03	晝夜	玄奘、真谛都倒序作"晝夜"
+U32-033	S0518	vasvabhāvo	svabhāva	n. sg. nom.	0006c12	體	意译	0167a03	位	
 U32-034	S0518				0006c12	此…不離	增译			"此體不離晝夜"之"此""不離"
-U32-035	S0518	veditavyaḥ	vid	gdv.	0006c12	知	对译			"應知"之"應"归义务分词
-U32-036	S0519	āghasāmantakaṃ	agha-sāmantaka	cpd. adj.	0006c12	隣阿伽	意译	0167a03	隣礙	玄奘倒序作"隣阿伽"
-U32-037	S0519	āghasāmantakaṃ	agha	n.	0006c12	阿伽	音译	0167a03	礙	真谛意译作"礙"
-U32-038	S0519	sāmantakaṃ	sāmantaka	adj.	0006c12	隣	对译	0167a03	隣	
-U32-039	S0519	rūpamityucyate	rūpa	n.	0006c13	色	对译	0167a03	色	
-U32-041	S0519	mityucyate	vac	v. pass. 3sg.	0006c12	說	对译	0167a03	說	
-U32-042	S0520	aghaṃ kila	agha	n.	0006c13	阿伽	音译	0167a03	礙	
+U32-035	S0518	veditavyaḥ	vid	gdv. sg. nom.	0006c12	知	对译			"應知"之"應"归义务分词
+U32-036	S0519	āghasāmantakaṃ	agha-sāmantaka	cpd. adj. sg. nom.	0006c12	隣阿伽	意译	0167a03	隣礙	玄奘倒序作"隣阿伽"
+U32-037	S0519	āghasāmantakaṃ	agha	n. 成分	0006c12	阿伽	音译	0167a03	礙	真谛意译作"礙"
+U32-038	S0519	sāmantakaṃ	sāmantaka	adj. sg. nom.	0006c12	隣	对译	0167a03	隣	
+U32-039	S0519	rūpamityucyate	rūpa	n. sg. nom.	0006c13	色	对译	0167a03	色	
+U32-041	S0519	mityucyate	vac	v. pres. pass. 3sg.	0006c12	說	对译	0167a03	說	
+U32-042	S0520	aghaṃ kila	agha	n. sg. nom.	0006c13	阿伽	音译	0167a03	礙	
 U32-044	S0520				0006c13	謂	增译	0167a04	謂	
-U32-045	S0520	cittasthaṃ	cita-stha	adj.	0006c13	積集	意译	0167a04	聚集中	GRETIL 本作 cittasthaṃ（心中的），当读 citasthaṃ（积聚的）；玄奘"積集"、真谛"聚集"可证
-U32-046	S0520	rūpam / atyarthaṃ	rūpa	n.	0006c13	色	对译	0167a04	色	
+U32-045	S0520	cittasthaṃ	cita-stha	adj. sg. nom.	0006c13	積集	意译	0167a04	聚集中	GRETIL 本作 cittasthaṃ（心中的），当读 citasthaṃ（积聚的）；玄奘"積集"、真谛"聚集"可证
+U32-046	S0520	rūpam / atyarthaṃ	rūpa	n. sg. nom.	0006c13	色	对译	0167a04	色	
 U32-047	S0520	atyarthaṃ	atyartham	ind.	0006c13	極	对译	0167a04	最	
-U32-048	S0520	ghātāt	ghāta	n. abl.	0006c13	礙	意译	0167a04	易變壞	ghāta（打击、损坏）玄奘译"礙"，真谛译"易變壞"
+U32-048	S0520	ghātāt	ghāta	n. sg. abl.	0006c13	礙	意译	0167a04	易變壞	ghāta（打击、损坏）玄奘译"礙"，真谛译"易變壞"
 U32-049	S0520				0006c13	能為	增译			"極能為礙"之"能為"
 U32-050	S0520				0006c13	名阿伽	增译			玄奘补出"故名阿伽"
-U32-051	S0521	tatsāmantakam	tad	pron.	0006c14	此空界色	意译	0167a04	光闇	代词还原为所指（空界色）
-U32-052	S0521	sāmantakam	sāmantaka	adj.	0006c14	相隣	意译	0167a05	相隣	
+U32-051	S0521	tatsāmantakam	tad	pron. 成分	0006c14	此空界色	意译	0167a04	光闇	代词还原为所指（空界色）
+U32-052	S0521	sāmantakam	sāmantaka	adj. sg. nom.	0006c14	相隣	意译	0167a05	相隣	
 U32-053	S0521	sāmantakamiti	iti	ind.	0006c14	是故	语法	0167a05	故	
 U32-054	S0521				0006c14	說名隣阿伽	增译	0167a05	名隣礙色	复述得名
-U32-055	S0522	rūpasyetyapare	apara	pron. nom. pl.	0006c15	有	意译	0167a05	有餘師	
-U32-057	S0522	aghaṃ ca	agha	n.	0006c15	阿伽	音译	0167a05	礙	
-U32-058	S0522	tadanyasya	tad	pron.	0006c15	空界色	意译	0167a05	此	代词还原为所指（空界色）；"即"为增字
+U32-055	S0522	rūpasyetyapare	apara	pron. pl. nom.	0006c15	有	意译	0167a05	有餘師	
+U32-057	S0522	aghaṃ ca	agha	n. sg. nom.	0006c15	阿伽	音译	0167a05	礙	
+U32-058	S0522	tadanyasya	tad	pron. 成分	0006c15	空界色	意译	0167a05	此	代词还原为所指（空界色）；"即"为增字
 U32-059	S0522				0006c15	即	增译	0167a05	亦是	
-U32-060	S0522	tadanyasya	anya	pron. gen.			省译	0167a06	他	"為他色之礙"未译
-U32-061	S0522	tadanyasya rūpasya	rūpa	n. gen.			省译			同上
-U32-063	S0522	āpratighātāt	a-pratighāta	n. abl.	0006c15	無礙	对译	0167a06	無礙	
+U32-060	S0522	tadanyasya	anya	pron. sg. gen.			省译	0167a06	他	"為他色之礙"未译
+U32-061	S0522	tadanyasya rūpasya	rūpa	n. sg. gen.			省译			同上
+U32-063	S0522	āpratighātāt	a-pratighāta	n. sg. abl.	0006c15	無礙	对译	0167a06	無礙	
 U32-064	S0522				0006c15	名阿	增译			"故名阿伽"
 U32-065	S0522				0006c16	即阿伽色	增译			
-U32-066	S0522	cānyasya	anya	pron. gen.	0006c16	餘	对译	0167a06	餘	
-U32-067	S0522	cānyasya rūpasye	rūpa	n. gen.	0006c16	礙	意译	0167a06	色	rūpa 此处指有碍之色，译"礙"
-U32-068	S0522	sāmantakaṃ	sāmantaka	adj.	0006c16	相隣	意译	0167a06	相隣	
+U32-066	S0522	cānyasya	anya	pron. sg. gen.	0006c16	餘	对译	0167a06	餘	
+U32-067	S0522	cānyasya rūpasye	rūpa	n. sg. gen.	0006c16	礙	意译	0167a06	色	rūpa 此处指有碍之色，译"礙"
+U32-068	S0522	sāmantakaṃ	sāmantaka	adj. sg. nom.	0006c16	相隣	意译	0167a06	相隣	
 U32-069	S0522				0006c16	是故說名隣阿伽色	增译			复述得名
-U32-070	S0523	vijñānadhātur	vijñāna-dhātu	cpd.	0006c08	識界	对译	0167a06	識界	
-U32-071	S0523	vijñānaṃ	vijñāna	n.	0006c08	識	对译	0167a07	識	
-U32-072	S0523	sāsravaṃ	sa-āsrava	adj.	0006c08	有漏	对译	0167a07	有流	
-U32-073	S0523	vijñānaṃ	vijñāna	n.	0006c17	識	对译			长行复述颂文"諸有漏識名為識界"
-U32-074	S0523	sāsravaṃ	sa-āsrava	adj.	0006c17	有漏	对译			长行复述
-U32-075	S0523	vijñānadhātur	vijñāna-dhātu	cpd.	0006c17	識界	对译			长行复述
+U32-070	S0523	vijñānadhātur	vijñāna-dhātu	cpd. sg. nom.	0006c08	識界	对译	0167a06	識界	
+U32-071	S0523	vijñānaṃ	vijñāna	n. sg. nom.	0006c08	識	对译	0167a07	識	
+U32-072	S0523	sāsravaṃ	sa-āsrava	adj. sg. nom.	0006c08	有漏	对译	0167a07	有流	
+U32-073	S0523	vijñānaṃ	vijñāna	n. sg. nom.	0006c17	識	对译			长行复述颂文"諸有漏識名為識界"
+U32-074	S0523	sāsravaṃ	sa-āsrava	adj. sg. nom.	0006c17	有漏	对译			长行复述
+U32-075	S0523	vijñānadhātur	vijñāna-dhātu	cpd. sg. nom.	0006c17	識界	对译			长行复述
 U32-076	S0523				0006c17	諸…名為	增译			长行复述颂文所加
-U32-077	S0524	kasmād	kim	pron. abl.	0006c17	云何…耶	语法	0167a07	云何	疑问 kasmāt（为何）译"云何…耶"
-U32-079	S0524	nocyate	vac	v. pass. 3sg.	0006c17	說	对译	0167a07	說	
-U32-080	S0524	kasmādanāsravaṃ	an-āsrava	adj.	0006c17	無漏	对译	0167a07	無流	
+U32-077	S0524	kasmād	kim	pron. sg. abl.	0006c17	云何…耶	语法	0167a07	云何	疑问 kasmāt（为何）译"云何…耶"
+U32-079	S0524	nocyate	vac	v. pres. pass. 3sg.	0006c17	說	对译	0167a07	說	
+U32-080	S0524	kasmādanāsravaṃ	an-āsrava	adj. sg. nom.	0006c17	無漏	对译	0167a07	無流	
 U32-081	S0524				0006c17	識為識界	增译			补出"（諸無漏）識為識界"，"諸"亦为增字
 U32-082	S0524	yasmādime	yasmāt	ind.	0006c18	由…故	语法	0167a07	由	
-U32-083	S0524	ṣaḍ	ṣaṣ	num.	0006c18	六	对译	0167a07	六	
-U32-084	S0524	dhātava	dhātu	n. pl.	0006c18	界	对译	0167a08	界	
-U32-085	S0524	iṣṭāḥ	iṣ	ptc.	0006c18	許	对译	0167a07	許	iṣṭa（所许、所承认）；真谛补出主语"佛"
-U32-086	S0525	janmaniśrayāḥ	janman-niśraya	cpd. adj.	0006c08	生所依	对译	0167a08	生所依	
-U32-087	S0525	janma	janman	n.	0006c08	生	对译	0167a08	生	
-U32-088	S0525	niśrayāḥ	niśraya	n.	0006c08	所依	对译	0167a08	所依	
+U32-083	S0524	ṣaḍ	ṣaṣ	num. pl. nom.	0006c18	六	对译	0167a07	六	
+U32-084	S0524	dhātava	dhātu	n. pl. nom.	0006c18	界	对译	0167a08	界	
+U32-085	S0524	iṣṭāḥ	iṣ	ptc. pl. nom.	0006c18	許	对译	0167a07	許	iṣṭa（所许、所承认）；真谛补出主语"佛"
+U32-086	S0525	janmaniśrayāḥ	janman-niśraya	cpd. adj. pl. nom.	0006c08	生所依	对译	0167a08	生所依	
+U32-087	S0525	janma	janman	n. 成分	0006c08	生	对译	0167a08	生	
+U32-088	S0525	niśrayāḥ	niśraya	n. pl. nom.	0006c08	所依	对译	0167a08	所依	
 U32-089	S0525				0006c08	有情	增译			本颂"有情生所依"之"有情"
-U32-090	S0525	janmaniśrayāḥ	janman-niśraya	cpd. adj.	0006c18	生所依	对译			长行把颂文 janmaniśrayāḥ 并入 S0524 理由句
+U32-090	S0525	janmaniśrayāḥ	janman-niśraya	cpd. adj. pl. nom.	0006c18	生所依	对译			长行把颂文 janmaniśrayāḥ 并入 S0524 理由句
 U32-091	S0525				0006c18	是諸有情	增译			
-U32-092	S0526	ete hi	etad	pron. nom. pl.	0006c19	如是…界	意译	0167a08	此六界	代词还原为所指（六界）
-U32-095	S0526	pratisandhicittād	pratisandhi-citta	cpd. abl.	0006c19	續生心	对译	0167a08	初託生心	
-U32-096	S0526	pratisandhi	pratisandhi	n.	0006c19	續生	对译	0167a08	託生	
-U32-097	S0526	cittād	citta	n. abl.	0006c19	心	对译	0167a08	心	
+U32-092	S0526	ete hi	etad	pron. pl. nom.	0006c19	如是…界	意译	0167a08	此六界	代词还原为所指（六界）
+U32-095	S0526	pratisandhicittād	pratisandhi-citta	cpd. sg. abl.	0006c19	續生心	对译	0167a08	初託生心	
+U32-096	S0526	pratisandhi	pratisandhi	n. 成分	0006c19	續生	对译	0167a08	託生	
+U32-097	S0526	cittād	citta	n. sg. abl.	0006c19	心	对译	0167a08	心	
 U32-098	S0526	cittād	abl.	gram. abl. (-āt)	0006c19	從	语法	0167a08	從	第五格表起点
-U32-100	S0526	cyuticitta	cyuti-citta	cpd.	0006c19	命終心	对译	0167a09	死墮心	
-U32-101	S0526	cyuti	cyuti	n.	0006c19	命終	对译	0167a09	死墮	
-U32-102	S0526	sādhāraṇabhūtāḥ	sādhāraṇa-bhūta	cpd. adj. pl.	0006c19	恒持	意译	0167a09	所依止	sādhāraṇabhūta（为…共同依持者）
-U32-103	S0526	janmanaḥ	janman	n. gen.	0006c19	生	对译	0167a09	生	
-U32-104	S0527	anāsravāstu	an-āsrava	adj. pl.	0006c20	無漏	对译	0167a09	無流	
-U32-107	S0527	dharmā	dharma	n. pl.	0006c20	法	对译	0167a09	法	
-U32-110	S0528	eṣāṃ	idam	pron. gen. pl.	0006c20	彼六界中	意译	0167a10	六界中	代词还原为所指（六界）
-U32-111	S0528	catvāro	catur	num.	0006c20	四	对译	0167a10	四	
+U32-100	S0526	cyuticitta	cyuti-citta	cpd. 成分	0006c19	命終心	对译	0167a09	死墮心	
+U32-101	S0526	cyuti	cyuti	n. 成分	0006c19	命終	对译	0167a09	死墮	
+U32-102	S0526	sādhāraṇabhūtāḥ	sādhāraṇa-bhūta	cpd. adj. pl. nom.	0006c19	恒持	意译	0167a09	所依止	sādhāraṇabhūta（为…共同依持者）
+U32-103	S0526	janmanaḥ	janman	n. sg. gen.	0006c19	生	对译	0167a09	生	
+U32-104	S0527	anāsravāstu	an-āsrava	adj. pl. nom.	0006c20	無漏	对译	0167a09	無流	
+U32-107	S0527	dharmā	dharma	n. pl. nom.	0006c20	法	对译	0167a09	法	
+U32-110	S0528	eṣāṃ	idam	pron. pl. gen.	0006c20	彼六界中	意译	0167a10	六界中	代词还原为所指（六界）
+U32-111	S0528	catvāro	catur	num. pl. nom.	0006c20	四	对译	0167a10	四	
 U32-112	S0528				0006c20	前	增译	0167a10	前	
-U32-113	S0528	dhātavaḥ spraṣṭavya	dhātu	n. pl.			省译			
-U32-114	S0528	spraṣṭavyadhātāv	spraṣṭavya-dhātu	cpd. loc.	0006c20	觸界	对译	0167a10	觸界	
-U32-115	S0528	antarbhūtāḥ	antar-bhū	ptc.	0006c21	所攝	意译	0167a10	攝	antarbhūta（包含于内）
+U32-113	S0528	dhātavaḥ spraṣṭavya	dhātu	n. pl. nom.			省译			
+U32-114	S0528	spraṣṭavyadhātāv	spraṣṭavya-dhātu	cpd. sg. loc.	0006c20	觸界	对译	0167a10	觸界	
+U32-115	S0528	antarbhūtāḥ	antar-bhū	ptc. pl. nom.	0006c21	所攝	意译	0167a10	攝	antarbhūta（包含于内）
 U32-116	S0528				0006c20	即此…即此…即此	增译			三个"即此"（本论的）为增字
-U32-117	S0528	pañcamo	pañcama	num.	0006c21	第五	对译	0167a10	第五	
-U32-118	S0528	rūpadhātau	rūpa-dhātu	cpd. loc.	0006c21	色界	对译	0167a10	色界	
+U32-117	S0528	pañcamo	pañcama	num. sg. nom.	0006c21	第五	对译	0167a10	第五	
+U32-118	S0528	rūpadhātau	rūpa-dhātu	cpd. sg. loc.	0006c21	色界	对译	0167a10	色界	
 U32-119	S0528				0006c21	所攝	增译	0167a10	攝	承上补出
-U32-120	S0528	ṣaṣṭhaḥ	ṣaṣṭha	num.	0006c21	第六	对译	0167a10	第六	
-U32-121	S0528	saptasu	saptan	num. loc.	0006c21	七	对译	0167a11	七	
-U32-122	S0528	vijñānadhātuṣviti	vijñāna-dhātu	cpd. loc. pl.	0006c21	心界	意译	0167a11	識界	vijñāna 此处译"心"
+U32-120	S0528	ṣaṣṭhaḥ	ṣaṣṭha	num. sg. nom.	0006c21	第六	对译	0167a10	第六	
+U32-121	S0528	saptasu	saptan	num. pl. loc.	0006c21	七	对译	0167a11	七	
+U32-122	S0528	vijñānadhātuṣviti	vijñāna-dhātu	cpd. pl. loc.	0006c21	心界	意译	0167a11	識界	vijñāna 此处译"心"
 U32-123	S0528				0006c22	攝	增译	0167a11	攝	承上补出
 U32-124	S0528				0006c22	彼經餘界如其所應，皆即此中十八界攝	增译			玄奘增出结语，GRETIL 本、真谛都无
 U32-125	S0529	ye punarime	punar	ind.	0007a07	復次	语法			
 U32-127	S0529				0007a07	前	增译	0167a11	前	
-U32-128	S0529	uktās	vac	ptc.	0007a07	說	对译	0167a11	說	
-U32-129	S0529	aṣṭādaśa	aṣṭādaśan	num.	0007a07	十八	对译	0167a11	十八	
-U32-130	S0529	dhātava uktās	dhātu	n. pl.	0007a07	界	对译	0167a11	界	
-U32-131	S0529	teṣāṃ	tad	pron. gen. pl.	0007a07	於…中	语法	0167a11	於中	表部分的第六格
-U32-132	S0529	kati sanidarśanāḥ	kati	pron.	0007a07	幾	语法	0167a12	幾	
-U32-133	S0529	sanidarśanāḥ	sa-nidarśana	adj. pl.	0007a07	有見	对译	0167a12	有顯	
-U32-134	S0529	katyanidarśanāḥ	kati	pron.	0007a07	幾	语法	0167a12	幾	
-U32-135	S0529	anidarśanāḥ	a-nidarśana	adj. pl.	0007a07	無見	对译	0167a12	無顯	
+U32-128	S0529	uktās	vac	ptc. pl. nom.	0007a07	說	对译	0167a11	說	
+U32-129	S0529	aṣṭādaśa	aṣṭādaśan	num. pl. nom.	0007a07	十八	对译	0167a11	十八	
+U32-130	S0529	dhātava uktās	dhātu	n. pl. nom.	0007a07	界	对译	0167a11	界	
+U32-131	S0529	teṣāṃ	tad	pron. pl. gen.	0007a07	於…中	语法	0167a11	於中	表部分的第六格
+U32-132	S0529	kati sanidarśanāḥ	kati	pron. pl. nom.	0007a07	幾	语法	0167a12	幾	
+U32-133	S0529	sanidarśanāḥ	sa-nidarśana	adj. pl. nom.	0007a07	有見	对译	0167a12	有顯	
+U32-134	S0529	katyanidarśanāḥ	kati	pron. pl. nom.	0007a07	幾	语法	0167a12	幾	
+U32-135	S0529	anidarśanāḥ	a-nidarśana	adj. pl. nom.	0007a07	無見	对译	0167a12	無顯	

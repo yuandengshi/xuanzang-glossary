@@ -1,22 +1,22 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
-U50-019	S1034	taiḥ	tad	pron. instr. pl.			省译			"与彼俱"的 taiḥ，玄奘、真谛皆未译
+U50-019	S1034	taiḥ	tad	pron. pl. instr.			省译			"与彼俱"的 taiḥ，玄奘、真谛皆未译
 U50-028	S1035	atītaśc	ca	ind.	0012b06	亦	语法	0172a11	亦	被释的 ca 本身译"亦"（此亦依過去）
 U50-031	S1036	tatra	tatra	ind.			省译	0172a11	此中	
 U50-037	S1036	yāvat	yāvat	ind.	0012b07	乃至	语法	0172a12	乃至	
 U50-044	S1037	punar	punar	ind.			省译			
-U50-045	S1037	eṣām	idam	pron. gen. pl.			省译	0172a12	彼	真谛作"彼"
+U50-045	S1037	eṣām	idam	pron. pl. gen.			省译	0172a12	彼	真谛作"彼"
 U50-049	S1037	ity	iti	ind.			省译	0172a13	如此	"ity apy ete…"（如此则…）的 iti 玄奘未译
 U50-050	S1037	apy	api	ind.			省译			
-U50-051	S1037	ete	etad	pron. nom. pl.	0012b08	此	语法			
+U50-051	S1037	ete	etad	pron. pl. nom.	0012b08	此	语法			
 U50-060	S1038	ata	atas	ind.	0012b09	故	语法	0172a13	故	"故如是說"
 U50-061	S1038	evocyate	eva	ind.			省译			ata eva（正因此）的 eva 未译
 U50-063	S1038	tasye"ti	iti	ind.	0012b09	如是	语法	0172a13	如此	引语末的 iti，玄奘移前作"如是說"
-U50-072	S1038	sa tasye	tad	pron. nom.	0012b10	即	语法			相关代词 saḥ（yaḥ…saḥ）以"即"承接
+U50-072	S1038	sa tasye	tad	pron. sg. nom.	0012b10	即	语法			相关代词 saḥ（yaḥ…saḥ）以"即"承接
 U50-101	S1041	evaṃ	evam	ind.	0012b14	亦爾	语法	0172a17	如此	evaṃ yāvat X … vaktavyam → 乃至X亦爾…應說
 U50-107	S1041	vaktavyam	gdv.	gram. gdv. (-tavya)	0012b14	應	语法	0172a17	應	义务分词后缀 -tavya 译"應"
 U50-113	S1043	tāvad	tāvat	ind.			省译			
-U50-115	S1043	yas	yad	pron. nom.	0012b16	者	语法	0172a18	若法	关系从句 yaḥ … saḥ 作"…者，定是…"；saḥ 未译（另记）
-U50-120	S1043	saḥ	tad	pron. nom.			省译			相关代词未译
+U50-115	S1043	yas	yad	pron. sg. nom.	0012b16	者	语法	0172a18	若法	关系从句 yaḥ … saḥ 作"…者，定是…"；saḥ 未译（另记）
+U50-120	S1043	saḥ	tad	pron. sg. nom.			省译			相关代词未译
 U50-121	S1044	syāt	as	v. opt. 3sg.	0012b16	有	意译	0172a18	若有	祈愿式 syāt（容或有）作"有"
 U50-124	S1044	nā	na	ind.	0012b17	非	语法	0172a19	非	
 U50-138	S1046	evāśrayā	eva	ind.			省译	0172a20	但	限定义由"在根非境"表出；真谛作"但"

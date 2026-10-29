@@ -17,6 +17,10 @@ NEGLEM = re.compile(r'^(a-|an-|na\b|nir|vi|dur|niḥ|a$)|^a[^ā]|^an|vaiyarthya|
 VERB = ('v.', 'ptc.', 'abs.', 'inf.')
 
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import morph  # noqa: E402
+
+
 def lemma_table(f):
     """读规范词目表（align/lemmas.tsv）：返回（已登记词目集合, 异写→标准写法）。"""
     p = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(f)))), 'lemmas.tsv')
@@ -37,13 +41,25 @@ def main(files):
     known, var = lemma_table(files[0]) if files else (None, {})
     seen = defaultdict(list)
     for f in files:
-        for r in csv.DictReader(open(f, encoding='utf-8'), delimiter='\t', quoting=csv.QUOTE_NONE):
+        rows = list(csv.DictReader(open(f, encoding='utf-8'), delimiter='\t', quoting=csv.QUOTE_NONE))
+        final = defaultdict(list)
+        for m, c in morph.final_members(rows):
+            final[m['oid']].append(c)
+        for r in rows:
             o, x, l, p, t, sk = r['oid'], r['xz'], r['lemma'], r['pos'], r['type'], r['skt']
             msgs = []
+            for c in final.get(o, ()):
+                if '成分' in p:
+                    msgs.append(('ERROR', '复合词末成分（%s %s）应照整个复合词标性数格，不标"成分"' % (c['oid'], c['skt'])))
+                elif morph.gnc(p) != morph.gnc(c['pos']):
+                    msgs.append(('ERROR', '末成分的性数格与复合词 %s（%s）不一致' % (c['oid'], c['pos'])))
             if l and l in var:
                 msgs.append(('ERROR', '词目写法不合规范词目表：应作 %s' % var[l]))
             elif l and known is not None and l not in known:
                 msgs.append(('WARN', '新词目，规范词目表未登记（确认写法后运行 akbh1_lemmas.py 登记）'))
+            mp = morph.problem(p, t, l)
+            if mp:
+                msgs.append(('ERROR', '形态标注：%s（见 morph.py 的格式）' % mp))
             if (' + ' in p or ' + ' in l) and l not in IDIOM:
                 msgs.append(('ERROR', '两个以上的词并成一条（pos/lemma 含"+"）：应拆开'))
             if t in ('增译', '梵本缺文') or not x:

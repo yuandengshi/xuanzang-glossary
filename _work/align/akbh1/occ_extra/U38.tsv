@@ -1,8 +1,8 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
-U38-038	S0677	katame	katama	pron.			省译	0168b14	何者為	
-U38-040	S0677	ye sapta	yad	pron. nom. pl.	0008b16	前	语法			ye … uktāḥ（前所说者）译"前"
-U38-051	S0679	ime	idam	pron. nom. pl.	0008b16	此	语法	0168b16	此	
+U38-038	S0677	katame	katama	pron. pl. nom.			省译	0168b14	何者為	
+U38-040	S0677	ye sapta	yad	pron. pl. nom.	0008b16	前	语法			ye … uktāḥ（前所说者）译"前"
+U38-051	S0679	ime	idam	pron. pl. nom.	0008b16	此	语法	0168b16	此	
 U38-090	S0685	tadyathā	tadyathā	ind.	0008b21	如	语法	0168b19	如	
-U38-110	S0685	bhūmyudakādiṣu	loc.	gram. loc. pl. (-iṣu)	0008b23	中	语法	0168b21	中	
+U38-110	S0685	bhūmyudakādiṣu	loc.	gram. pl. loc. (-iṣu)	0008b23	中	语法	0168b21	中	
 U38-113	S0686	upāttamiti	iti	ind.	0008b24	者	语法			
 U38-121	S0687	opiagṛhītam	ppp.	gram. ppp. (-ta)	0008b24	所	语法			过去被动分词以"所"表被动

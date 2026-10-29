@@ -1,122 +1,122 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
-U50-001	S1032	caramasyā	carama	adj. gen.	0012b04	後	对译	0172a09	後	指六识中最后的意识；真谛作"後界"
-U50-002	S1032	āśrayo	āśraya	n.	0012b04	依	对译	0172a10	依	
-U50-003	S1032	'tītaḥ	atīta	ptc.	0012b04	過去	对译	0172a10	過去	
+U50-001	S1032	caramasyā	carama	adj. sg. gen.	0012b04	後	对译	0172a09	後	指六识中最后的意识；真谛作"後界"
+U50-002	S1032	āśrayo	āśraya	n. sg. nom.	0012b04	依	对译	0172a10	依	
+U50-003	S1032	'tītaḥ	atīta	ptc. sg. nom.	0012b04	過去	对译	0172a10	過去	
 U50-004	S1032				0012b04	唯	增译			本颂增"唯"；长行亦作"意識唯依無間滅意"
-U50-005	S1033	manovijñānadhātoḥ	manas-vijñāna-dhātu	cpd. gen.	0012b05	意識	意译	0172a10	意識界	dhātu 未译（另记省译）；真谛作"意識界"
-U50-006	S1033	manovijñāna	manas-vijñāna	cpd.	0012b05	意識	对译	0172a10	意識	
-U50-007	S1033	dhātoḥ	dhātu	n. gen.			省译	0172a10	界	玄奘只作"意識"
+U50-005	S1033	manovijñānadhātoḥ	manas-vijñāna-dhātu	cpd. sg. gen.	0012b05	意識	意译	0172a10	意識界	dhātu 未译（另记省译）；真谛作"意識界"
+U50-006	S1033	manovijñāna	manas-vijñāna	cpd. 成分	0012b05	意識	对译	0172a10	意識	
+U50-007	S1033	dhātoḥ	dhātu	n. sg. gen.			省译	0172a10	界	玄奘只作"意識"
 U50-008	S1033				0012b05	唯	增译			长行增"唯"，与本颂同
-U50-009	S1033	samanantaraniruddhaṃ	samanantara-niruddha	cpd. ptc.	0012b05	無間滅	对译	0172a10	無間滅	
-U50-010	S1033	samanantara	samanantara	adj.	0012b05	無間	对译	0172a10	無間	samanantara（紧接、中无间隔）本身含"无间"义
-U50-011	S1033	niruddhaṃ	ni-rudh	ptc.	0012b05	滅	对译	0172a10	滅	
-U50-012	S1033	mana	manas	n.	0012b05	意	对译	0172a10	識	真谛作"識"
-U50-013	S1033	āśrayaḥ	āśraya	n.	0012b05	依	对译	0172a10	依	名词句"意识之所依是意"，玄奘转作动词句"意識唯依…意"
-U50-014	S1034	pañcānāṃ	pañca	num. gen.	0012b04	五	对译	0172a11	五	
+U50-009	S1033	samanantaraniruddhaṃ	samanantara-niruddha	cpd. ptc. sg. nom.	0012b05	無間滅	对译	0172a10	無間滅	
+U50-010	S1033	samanantara	samanantara	adj. 成分	0012b05	無間	对译	0172a10	無間	samanantara（紧接、中无间隔）本身含"无间"义
+U50-011	S1033	niruddhaṃ	ni-rudh	ptc. sg. nom.	0012b05	滅	对译	0172a10	滅	
+U50-012	S1033	mana	manas	n. sg. nom.	0012b05	意	对译	0172a10	識	真谛作"識"
+U50-013	S1033	āśrayaḥ	āśraya	n. sg. nom.	0012b05	依	对译	0172a10	依	名词句"意识之所依是意"，玄奘转作动词句"意識唯依…意"
+U50-014	S1034	pañcānāṃ	pañcan	num. pl. gen.	0012b04	五	对译	0172a11	五	
 U50-015	S1034				0012b04	識	增译	0172a11	界	补出所指"識"；真谛作"五界"
 U50-016	S1034				0012b04	依	增译	0172a11	依	承上句 āśraya 补出
-U50-017	S1034	sahajaś	saha-ja	adj.	0012b04	俱	对译	0172a11	共	长行作"俱生"
+U50-017	S1034	sahajaś	saha-ja	adj. sg. nom.	0012b04	俱	对译	0172a11	共	长行作"俱生"
 U50-018	S1034	sahajaśca	ca	ind.	0012b04	或	语法	0172a11	亦	长行自释"或言表此亦依過去"，以"或"译本颂的 ca
-U50-020	S1034	pañcānāṃ	pañca	num. gen.	0012b05	五	对译			长行复述本颂"眼等五識所依或俱"
+U50-020	S1034	pañcānāṃ	pañcan	num. pl. gen.	0012b05	五	对译			长行复述本颂"眼等五識所依或俱"
 U50-021	S1034				0012b05	眼等	增译			长行复述本颂时补出"眼等"
-U50-022	S1034	sahajaś	saha-ja	adj.	0012b06	俱	对译			长行复述本颂
+U50-022	S1034	sahajaś	saha-ja	adj. sg. nom.	0012b06	俱	对译			长行复述本颂
 U50-023	S1034	sahajaśca	ca	ind.	0012b05	或	语法			长行复述本颂
-U50-024	S1035	caśabdaḥ	ca-śabda	cpd.	0012b06	或言	对译	0172a11	亦言	引述本颂的 ca 字，玄奘以本颂所用"或"字称之
-U50-025	S1035	śabdaḥ	śabda	n.	0012b06	言	对译	0172a11	言	
+U50-024	S1035	caśabdaḥ	ca-śabda	cpd. sg. nom.	0012b06	或言	对译	0172a11	亦言	引述本颂的 ca 字，玄奘以本颂所用"或"字称之
+U50-025	S1035	śabdaḥ	śabda	n. sg. nom.	0012b06	言	对译	0172a11	言	
 U50-026	S1035	ceti	iti	ind.	0012b06	表	语法	0172a11	顯	释词句"X iti caśabdaḥ"（ca 字表 X），玄奘作"或言表…"
 U50-027	S1035				0012b06	此	增译			补出主语（五识）
 U50-029	S1035				0012b06	依	增译			承上补出 āśraya
-U50-030	S1035	atītaś	atīta	ptc.	0012b06	過去	对译	0172a11	過去	
-U50-032	S1036	cakṣurvijñānasya	cakṣus-vijñāna	cpd. gen.	0012b06	眼識	对译	0172a11	眼識	
-U50-033	S1036	cakṣuḥ	cakṣus	n.	0012b06	眼	对译			
+U50-030	S1035	atītaś	atīta	ptc. sg. nom.	0012b06	過去	对译	0172a11	過去	
+U50-032	S1036	cakṣurvijñānasya	cakṣus-vijñāna	cpd. sg. gen.	0012b06	眼識	对译	0172a11	眼識	
+U50-033	S1036	cakṣuḥ	cakṣus	n. sg. nom.	0012b06	眼	对译			
 U50-034	S1036				0012b06	是	增译			名词句补出系词"是"
-U50-035	S1036	sahaja	saha-ja	adj.	0012b06	俱生	对译	0172a12	共有	本颂作"俱"
-U50-036	S1036	āśārayo	āśraya	n.	0012b06	所依	对译	0172a12	依	GRETIL 本作 āśārayo，当读 āśrayo
+U50-035	S1036	sahaja	saha-ja	adj. sg. nom.	0012b06	俱生	对译	0172a12	共有	本颂作"俱"
+U50-036	S1036	āśārayo	āśraya	n. sg. nom.	0012b06	所依	对译	0172a12	依	GRETIL 本作 āśārayo，当读 āśrayo
 U50-038	S1036				0012b07	如是	增译			"如是乃至"的"如是"为增字
-U50-039	S1036	kāyavijñānasya	kāya-vijñāna	cpd. gen.	0012b07	身識	对译	0172a12	身識	
-U50-040	S1036	kāyaḥ	kāya	n.	0012b07	身	对译			
+U50-039	S1036	kāyavijñānasya	kāya-vijñāna	cpd. sg. gen.	0012b07	身識	对译	0172a12	身識	
+U50-040	S1036	kāyaḥ	kāya	n. sg. nom.	0012b07	身	对译			
 U50-041	S1036				0012b07	俱生所依	增译	0172a12	亦爾	梵文承上省略，玄奘重出"俱生所依"；真谛作"亦爾"
 U50-042	S1036				0012b07	同現世故	梵本缺文	0172a12	同一世故	二译皆有此释因，Pradhan 本无对应语，疑所据梵本有之，待核
-U50-043	S1037	atītaḥ	atīta	ptc.	0012b08	過去	对译	0172a12	過去	
-U50-046	S1037	āśrayo	āśraya	n.	0012b08	依	对译	0172a12	依	
-U50-047	S1037	mana	manas	n.	0012b08	意	对译	0172a13	意根	
+U50-043	S1037	atītaḥ	atīta	ptc. sg. nom.	0012b08	過去	对译	0172a12	過去	
+U50-046	S1037	āśrayo	āśraya	n. sg. nom.	0012b08	依	对译	0172a12	依	
+U50-047	S1037	mana	manas	n. sg. nom.	0012b08	意	对译	0172a13	意根	
 U50-048	S1037				0012b07	無間滅	增译			取自上文 samanantaraniruddha（S1033）
-U50-052	S1037	pañca	pañca	num.	0012b08	五	对译	0172a13	五	
-U50-053	S1037	vijñānakāyā	vijñāna-kāya	cpd. nom. pl.	0012b08	識身	对译	0172a13	識聚	kāya 译"身"，真谛作"聚"
-U50-054	S1037	indriyadvayāśrayāḥ	indriya-dvaya-āśraya	cpd. adj. (bahuvrīhi)	0012b08	所依…二	意译	0172a13	依二根生	"以二根为所依"；indriya 未译，"各"为增字，其后又增出释语（均另记）
+U50-052	S1037	pañca	pañcan	num. pl. nom.	0012b08	五	对译	0172a13	五	
+U50-053	S1037	vijñānakāyā	vijñāna-kāya	cpd. pl. nom.	0012b08	識身	对译	0172a13	識聚	kāya 译"身"，真谛作"聚"
+U50-054	S1037	indriyadvayāśrayāḥ	indriya-dvaya-āśraya	cpd. adj. pl. nom. (bahuvrīhi)	0012b08	所依…二	意译	0172a13	依二根生	"以二根为所依"；indriya 未译，"各"为增字，其后又增出释语（均另记）
 U50-054+1	S1037				0012b08	各	增译			合并时从 U50-054（所依各二）拆出
-U50-055	S1037	indriya	indriya	n.			省译	0172a13	根	
-U50-056	S1037	dvayā	dvaya	num.	0012b08	二	对译	0172a13	二	
-U50-057	S1037	āśrayāḥ	āśraya	n.	0012b08	所依	对译	0172a13	依	
+U50-055	S1037	indriya	indriya	n. 成分			省译	0172a13	根	
+U50-056	S1037	dvayā	dvaya	num. 成分	0012b08	二	对译	0172a13	二	
+U50-057	S1037	āśrayāḥ	āśraya	n. pl. nom.	0012b08	所依	对译	0172a13	依	
 U50-058	S1037				0012b08	各	增译			表分配（五识各有二依）
 U50-059	S1037				0012b08	謂眼等五是別所依，意根為五通所依性	增译			玄奘增出释语，说明二依即眼等五根（别依）与意根（通依）
-U50-062	S1038	ocyate	vac	v. pass. 3sg.	0012b10	說	对译	0172a13	說	
-U50-064	S1038	yaś	yad	pron. nom.	0012b10	若…者	语法	0172a14	若法	关系从句译"若是…者"；相关代词 sa 另记
-U50-065	S1038	cakṣurvijñānasyā	cakṣus-vijñāna	cpd. gen.	0012b10	眼識	对译	0172a14	眼識	
-U50-066	S1038	āśrayabhāvena	āśraya-bhāva	cpd. instr.	0012b10	所依性	对译	0172a14	依	
-U50-067	S1038	bhāvena	bhāva	n. instr.	0012b10	性	意译			bhāva（作为…之身分）译"性"；第三格未译
-U50-068	S1038	samanantarapratyayabhāvenā	samanantara-pratyaya-bhāva	cpd. instr.	0012b10	等無間緣	意译	0172a14	次第緣	bhāva 此处未译
-U50-069	S1038	samanantarapratyaya	samanantara-pratyaya	cpd.	0012b10	等無間緣	对译	0172a14	次第緣	
-U50-070	S1038	samanantara	samanantara	adj.	0012b10	等無間	对译	0172a14	次第	同一 samanantara，S1033 作"無間"，此作"等無間"
-U50-071	S1038	pratyaya	pratyaya	n.	0012b10	緣	对译	0172a14	緣	
-U50-073	S1038	tasye	tad	pron. gen.	0012b10	眼識	意译	0172a14	彼	代词 tasya 还原为所指"眼識"（即是眼識等無間緣）
+U50-062	S1038	ocyate	vac	v. pres. pass. 3sg.	0012b10	說	对译	0172a13	說	
+U50-064	S1038	yaś	yad	pron. sg. nom.	0012b10	若…者	语法	0172a14	若法	关系从句译"若是…者"；相关代词 sa 另记
+U50-065	S1038	cakṣurvijñānasyā	cakṣus-vijñāna	cpd. sg. gen.	0012b10	眼識	对译	0172a14	眼識	
+U50-066	S1038	āśrayabhāvena	āśraya-bhāva	cpd. sg. instr.	0012b10	所依性	对译	0172a14	依	
+U50-067	S1038	bhāvena	bhāva	n. sg. instr.	0012b10	性	意译			bhāva（作为…之身分）译"性"；第三格未译
+U50-068	S1038	samanantarapratyayabhāvenā	samanantara-pratyaya-bhāva	cpd. sg. instr.	0012b10	等無間緣	意译	0172a14	次第緣	bhāva 此处未译
+U50-069	S1038	samanantarapratyaya	samanantara-pratyaya	cpd. 成分	0012b10	等無間緣	对译	0172a14	次第緣	
+U50-070	S1038	samanantara	samanantara	adj. 成分	0012b10	等無間	对译	0172a14	次第	同一 samanantara，S1033 作"無間"，此作"等無間"
+U50-071	S1038	pratyaya	pratyaya	n. 成分	0012b10	緣	对译	0172a14	緣	
+U50-073	S1038	tasye	tad	pron. sg. gen.	0012b10	眼識	意译	0172a14	彼	代词 tasya 还原为所指"眼識"（即是眼識等無間緣）
 U50-074	S1038				0012b11	耶	增译	0172a14	不	是非问句末加"耶"
 U50-075	S1038				0012b11	設是眼識等無間緣者，復是眼識所依性耶	增译			玄奘补出反问，与上句合成四句之问；真谛无
-U50-076	S1039	catuṣkotikaḥ	catur-koṭika	cpd. adj.	0012b12	四句	对译	0172a15	四句	GRETIL 本作 catuṣkotikaḥ，当读 catuṣkoṭikaḥ
+U50-076	S1039	catuṣkotikaḥ	catur-koṭika	cpd. adj. sg. nom.	0012b12	四句	对译	0172a15	四句	GRETIL 本作 catuṣkotikaḥ，当读 catuṣkoṭikaḥ
 U50-077	S1039				0012b12	應作	增译			梵文无动词，玄奘补"應作"
-U50-078	S1039	prathamā	prathama	num. (ord.)	0012b12	第一	对译	0172a15	第一	
-U50-079	S1039	kotiś	koṭi	n.	0012b12	句	对译	0172a15	句	GRETIL 本作 kotiś，当读 koṭiś
+U50-078	S1039	prathamā	prathama	num. sg. nom. (ord.)	0012b12	第一	对译	0172a15	第一	
+U50-079	S1039	kotiś	koṭi	n. sg. nom.	0012b12	句	对译	0172a15	句	GRETIL 本作 kotiś，当读 koṭiś
 U50-080	S1039				0012b12	謂	增译	0172a15	謂	四句皆以"謂"引出所举
-U50-081	S1039	cakṣuḥ	cakṣus	n.	0012b12	眼根	对译	0172a15	眼根	"根"字表明指根；"俱生"为增字
+U50-081	S1039	cakṣuḥ	cakṣus	n. sg. nom.	0012b12	眼根	对译	0172a15	眼根	"根"字表明指根；"俱生"为增字
 U50-082	S1039				0012b12	俱生	增译			取自上文 sahaja
-U50-083	S1039	dvitīyā	dvitīya	num. (ord.)	0012b12	第二	对译	0172a15	第二	
+U50-083	S1039	dvitīyā	dvitīya	num. sg. nom. (ord.)	0012b12	第二	对译	0172a15	第二	
 U50-084	S1039				0012b12	句	增译	0172a15	句	梵文承上省 koṭi，"第二句""第三句"的"句"皆补出
-U50-085	S1039	samanantarātītaś	samanantara-atīta	cpd. ptc.	0012b13	無間滅	意译	0172a15	次第已滅	atīta 此处译"滅"
-U50-086	S1039	samanantarā	samanantara	adj.	0012b13	無間	对译	0172a15	次第	
-U50-087	S1039	ātītaś	atīta	ptc.	0012b13	滅	意译	0172a15	已滅	atīta（已过去）此处译"滅"，真谛作"已滅"
-U50-088	S1039	caitasiko	caitasika	adj.	0012b13	心所	对译	0172a16	心法	
-U50-089	S1039	dharmadhātuḥ	dharma-dhātu	cpd.	0012b13	法界	对译	0172a16	法界	
-U50-090	S1040	tṛtīyā	tṛtīya	num. (ord.)	0012b13	第三	对译	0172a16	第三	
-U50-091	S1040	samanantarātītaṃ	samanantara-atīta	cpd. ptc.	0012b13	過去	意译	0172a16	次第已滅	samanantara 未译；同一复合词上句作"無間滅"
-U50-092	S1040	samanantarātītaṃ	samanantara	adj.			省译	0172a16	次第	
-U50-093	S1040	ātītaṃ	atīta	ptc.	0012b13	過去	对译	0172a16	已滅	
-U50-094	S1040	manaḥ	manas	n.	0012b13	意根	对译	0172a16	心	真谛作"心"
-U50-095	S1040	caturthī	caturtha	num. (ord.)	0012b14	第四	对译	0172a16	第四	
-U50-096	S1040	koṭir	koṭi	n.	0012b14	句	对译	0172a16	句	
-U50-097	S1040	uktanirmuktā	ukta-nirmukta	cpd. ptc.	0012b14	除所說	对译	0172a17	除前三句	玄奘倒序作"除所說"；真谛作"除前三句"
-U50-098	S1040	ukta	vac	ptc.	0012b14	所說	对译			
-U50-099	S1040	nirmuktā	nir-muc	ptc.	0012b14	除	意译	0172a17	除	nirmukta（脱离于…者）译"除"
-U50-100	S1040	dharmāḥ	dharma	n.	0012b14	法	对译			
-U50-102	S1041	kāyavijñānasya	kāya-vijñāna	cpd. gen.	0012b14	身識	对译	0172a17	身識	
+U50-085	S1039	samanantarātītaś	samanantara-atīta	cpd. ptc. sg. nom.	0012b13	無間滅	意译	0172a15	次第已滅	atīta 此处译"滅"
+U50-086	S1039	samanantarā	samanantara	adj. 成分	0012b13	無間	对译	0172a15	次第	
+U50-087	S1039	ātītaś	atīta	ptc. sg. nom.	0012b13	滅	意译	0172a15	已滅	atīta（已过去）此处译"滅"，真谛作"已滅"
+U50-088	S1039	caitasiko	caitasika	adj. sg. nom.	0012b13	心所	对译	0172a16	心法	
+U50-089	S1039	dharmadhātuḥ	dharma-dhātu	cpd. sg. nom.	0012b13	法界	对译	0172a16	法界	
+U50-090	S1040	tṛtīyā	tṛtīya	num. sg. nom. (ord.)	0012b13	第三	对译	0172a16	第三	
+U50-091	S1040	samanantarātītaṃ	samanantara-atīta	cpd. ptc. sg. nom.	0012b13	過去	意译	0172a16	次第已滅	samanantara 未译；同一复合词上句作"無間滅"
+U50-092	S1040	samanantarātītaṃ	samanantara	adj. 成分			省译	0172a16	次第	
+U50-093	S1040	ātītaṃ	atīta	ptc. sg. nom.	0012b13	過去	对译	0172a16	已滅	
+U50-094	S1040	manaḥ	manas	n. sg. nom.	0012b13	意根	对译	0172a16	心	真谛作"心"
+U50-095	S1040	caturthī	caturtha	num. sg. nom. (ord.)	0012b14	第四	对译	0172a16	第四	
+U50-096	S1040	koṭir	koṭi	n. sg. nom.	0012b14	句	对译	0172a16	句	
+U50-097	S1040	uktanirmuktā	ukta-nirmukta	cpd. ptc. pl. nom.	0012b14	除所說	对译	0172a17	除前三句	玄奘倒序作"除所說"；真谛作"除前三句"
+U50-098	S1040	ukta	vac	ptc. 成分	0012b14	所說	对译			
+U50-099	S1040	nirmuktā	nir-muc	ptc. pl. nom.	0012b14	除	意译	0172a17	除	nirmukta（脱离于…者）译"除"
+U50-100	S1040	dharmāḥ	dharma	n. pl. nom.	0012b14	法	对译			
+U50-102	S1041	kāyavijñānasya	kāya-vijñāna	cpd. sg. gen.	0012b14	身識	对译	0172a17	身識	
 U50-103	S1041				0012b14	各各	增译			表分配
-U50-104	S1041	svam	sva	pron.	0012b15	自	对译	0172a17	自	
-U50-105	S1041	indriyaṃ	indriya	n.	0012b15	根	对译	0172a17	根	
-U50-106	S1041	vaktavyam	vac	gdv.	0012b15	說	对译	0172a17	說	
-U50-108	S1042	manovijñānasya	manas-vijñāna	cpd. gen.	0012b15	意識	对译	0172a17	意識	
+U50-104	S1041	svam	sva	pron. sg. nom.	0012b15	自	对译	0172a17	自	
+U50-105	S1041	indriyaṃ	indriya	n. sg. nom.	0012b15	根	对译	0172a17	根	
+U50-106	S1041	vaktavyam	vac	gdv. sg. nom.	0012b15	說	对译	0172a17	說	
+U50-108	S1042	manovijñānasya	manas-vijñāna	cpd. sg. gen.	0012b15	意識	对译	0172a17	意識	
 U50-109	S1042				0012b15	應作	增译			
-U50-110	S1042	pūrvapādakaḥ	pūrva-pādaka	cpd. adj.	0012b15	順前句答	意译			pūrvapādaka（以前一句作答者），玄奘作"順前句答"；真谛作"於意識但無初句"，理解不同
-U50-111	S1042	pūrva	pūrva	adj.	0012b15	前	对译	0172a18	初	
-U50-112	S1042	pādakaḥ	pādaka	n.	0012b15	句	意译	0172a18	句	pāda（足、分句）此处指四句中的一句
+U50-110	S1042	pūrvapādakaḥ	pūrva-pādaka	cpd. adj. sg. nom.	0012b15	順前句答	意译			pūrvapādaka（以前一句作答者），玄奘作"順前句答"；真谛作"於意識但無初句"，理解不同
+U50-111	S1042	pūrva	pūrva	adj. 成分	0012b15	前	对译	0172a18	初	
+U50-112	S1042	pādakaḥ	pādaka	n. sg. nom.	0012b15	句	意译	0172a18	句	pāda（足、分句）此处指四句中的一句
 U50-114	S1043				0012b15	謂	增译			引出"順前句答"的内容
 U50-116	S1043				0012b15	意識	增译			承上 manovijñānasya 补出；"定是意識"同
-U50-117	S1043	āśrayabhāvena	āśraya-bhāva	cpd. instr.	0012b15	所依性	对译	0172a18	依	
-U50-118	S1043	samanantarapratyayabhāvenā	samanantara-pratyaya-bhāva	cpd. instr.	0012b16	等無間緣	意译	0172a18	次第緣	bhāva 未译
+U50-117	S1043	āśrayabhāvena	āśraya-bhāva	cpd. sg. instr.	0012b15	所依性	对译	0172a18	依	
+U50-118	S1043	samanantarapratyayabhāvenā	samanantara-pratyaya-bhāva	cpd. sg. instr.	0012b16	等無間緣	意译	0172a18	次第緣	bhāva 未译
 U50-119	S1043				0012b16	定	增译	0172a18	必	二译皆有确定副词（真谛"必"），疑出自 api … saḥ 的周遍义，待核
 U50-122	S1044				0012b16	意識	增译			承上补出；"與意識"同
-U50-123	S1044	samanantarapratyayabhāvena	samanantara-pratyaya-bhāva	cpd. instr.	0012b16	等無間緣	意译	0172a19	次第緣	bhāva 未译
-U50-125	S1044	āśrayabhāvena	āśraya-bhāva	cpd. instr.	0012b17	所依性	对译	0172a19	依	"與意識為"为补出
-U50-126	S1045	samanantarābhyatītaś	samanantara-abhyatīta	cpd. ptc.	0012b17	無間滅	意译	0172a19	無間滅	
-U50-127	S1045	ābhyatītaś	abhyatīta	ptc.	0012b17	滅	意译	0172a19	滅	abhyatīta（已过去）译"滅"
-U50-128	S1045	cetasiko	caitasika	adj.	0012b17	心所	对译	0172a19	心法	GRETIL 本作 cetasiko（S1039 作 caitasiko）
-U50-129	S1045	dharmadhātur	dharma-dhātu	cpd.	0012b18	法界	对译	0172a19	法界	
-U50-130	S1046	kiṃ punaḥ kāraṇam	kiṃ kāraṇam	pron. + n.	0012b18	何因	语法	0172a20	何因	punar 未译，真谛作"復"
-U50-131	S1046	ubhayādhīnāyāṃ	ubhaya-adhīna	cpd. adj. loc.	0012b18	俱託二緣	意译	0172a20	隨屬二緣	
-U50-132	S1046	ubhayā	ubhaya	pron.	0012b18	俱…二	意译	0172a20	二	ubhaya（二者，指根与境）兼作"俱""二"
+U50-123	S1044	samanantarapratyayabhāvena	samanantara-pratyaya-bhāva	cpd. sg. instr.	0012b16	等無間緣	意译	0172a19	次第緣	bhāva 未译
+U50-125	S1044	āśrayabhāvena	āśraya-bhāva	cpd. sg. instr.	0012b17	所依性	对译	0172a19	依	"與意識為"为补出
+U50-126	S1045	samanantarābhyatītaś	samanantara-abhyatīta	cpd. ptc. sg. nom.	0012b17	無間滅	意译	0172a19	無間滅	
+U50-127	S1045	ābhyatītaś	abhyatīta	ptc. sg. nom.	0012b17	滅	意译	0172a19	滅	abhyatīta（已过去）译"滅"
+U50-128	S1045	cetasiko	caitasika	adj. sg. nom.	0012b17	心所	对译	0172a19	心法	GRETIL 本作 cetasiko（S1039 作 caitasiko）
+U50-129	S1045	dharmadhātur	dharma-dhātu	cpd. sg. nom.	0012b18	法界	对译	0172a19	法界	
+U50-130	S1046	kiṃ punaḥ kāraṇam	kiṃ kāraṇam	pron. + n. sg. nom.	0012b18	何因	语法	0172a20	何因	punar 未译，真谛作"復"
+U50-131	S1046	ubhayādhīnāyāṃ	ubhaya-adhīna	cpd. adj. sg. loc.	0012b18	俱託二緣	意译	0172a20	隨屬二緣	
+U50-132	S1046	ubhayā	ubhaya	pron. 成分	0012b18	俱…二	意译	0172a20	二	ubhaya（二者，指根与境）兼作"俱""二"
 U50-133	S1046				0012b18	緣	增译	0172a20	緣	"二緣"即根、境
-U50-134	S1046	ādhīnāyāṃ	adhīna	adj. loc.	0012b18	託	意译	0172a20	隨屬	
-U50-135	S1046	vijñānotpattau	vijñāna-utpatti	cpd. loc.	0012b18	識起	对译	0172a19	識生	
-U50-136	S1046	otpattau	utpatti	n. loc.	0012b18	起	对译	0172a19	生	
-U50-137	S1046	cakṣurādayaḥ	cakṣus-ādi	cpd.	0012b19	根	意译	0172a20	眼等	以"根"概称眼等；"在"为补出
-U50-139	S1046	āśrayā	āśraya	n.	0012b18	所依	对译	0172a20	依	
-U50-140	S1046	ucyante	vac	v. pass. 3pl.	0012b18	得…名	对译	0172a20	說	ucyate 译"得名"，中间插入"所依"
-U50-141	S1046	rūpādayaḥ	rūpa-ādi	cpd.	0012b19	境	意译	0172a21	色等	以"境"概称色等
+U50-134	S1046	ādhīnāyāṃ	adhīna	adj. sg. loc.	0012b18	託	意译	0172a20	隨屬	
+U50-135	S1046	vijñānotpattau	vijñāna-utpatti	cpd. sg. loc.	0012b18	識起	对译	0172a19	識生	
+U50-136	S1046	otpattau	utpatti	n. sg. loc.	0012b18	起	对译	0172a19	生	
+U50-137	S1046	cakṣurādayaḥ	cakṣus-ādi	cpd. pl. nom.	0012b19	根	意译	0172a20	眼等	以"根"概称眼等；"在"为补出
+U50-139	S1046	āśrayā	āśraya	n. pl. nom.	0012b18	所依	对译	0172a20	依	
+U50-140	S1046	ucyante	vac	v. pres. pass. 3pl.	0012b18	得…名	对译	0172a20	說	ucyate 译"得名"，中间插入"所依"
+U50-141	S1046	rūpādayaḥ	rūpa-ādi	cpd. pl. nom.	0012b19	境	意译	0172a21	色等	以"境"概称色等

@@ -1,42 +1,42 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
-U35-001	S0633	sāsravānāsravā	sa-āsrava-an-āsrava	cpd. adj.	0008a05	通	意译	0168a09	有流無流	本颂以"通"（通有漏无漏）表出
-U35-002	S0633	ete	etad	pron. nom. pl.	0008a05	意法意識	意译	0168a09	是	代词还原为所指
-U35-003	S0633	trayaḥ	tri	num.			省译	0168a09	三	玄奘本颂直举三界之名
+U35-001	S0633	sāsravānāsravā	sa-āsrava-an-āsrava	cpd. adj. pl. nom.	0008a05	通	意译	0168a09	有流無流	本颂以"通"（通有漏无漏）表出
+U35-002	S0633	ete	etad	pron. pl. nom.	0008a05	意法意識	意译	0168a09	是	代词还原为所指
+U35-003	S0633	trayaḥ	tri	num. pl. nom.			省译	0168a09	三	玄奘本颂直举三界之名
 U35-004	S0634	ye mārgasatyāsaṃskṛtasaṃghṛhītāste	yad … tad	gram. rel.-cor.	0008a06	者…名為	语法	0168a09	若…是	关系-相关句 ye…te 译"…者，名為…"
 U35-005	S0634				0008a06	意及意識	增译			玄奘把一句分为两句：先说意、意識，再说法界
-U35-006	S0634	mārgasatyāsaṃskṛtasaṃghṛhītā	mārga-satya-asaṃskṛta-saṃgṛhīta	cpd. adj.	0008a06	道諦攝	意译	0168a09	道諦無為所攝	就意、意識而言，asaṃskṛta 不译；GRETIL 本作 saṃghṛhīta，当读 saṃgṛhīta
-U35-007	S0634	mārgasatyā	mārga-satya	cpd.	0008a06	道諦	对译	0168a09	道諦	
-U35-008	S0634	saṃghṛhītā	saṃgṛhīta	ptc.	0008a06	攝	对译	0168a10	所攝	GRETIL 本作 saṃghṛhīta
-U35-009	S0634	'nāsravā	an-āsrava	adj.	0008a06	無漏	对译	0168a10	無流	
-U35-010	S0634	anye	anya	pron. nom. pl.	0008a06	餘	对译	0168a10	異此	
+U35-006	S0634	mārgasatyāsaṃskṛtasaṃghṛhītā	mārga-satya-asaṃskṛta-saṃgṛhīta	cpd. adj. pl. nom.	0008a06	道諦攝	意译	0168a09	道諦無為所攝	就意、意識而言，asaṃskṛta 不译；GRETIL 本作 saṃghṛhīta，当读 saṃgṛhīta
+U35-007	S0634	mārgasatyā	mārga-satya	cpd. 成分	0008a06	道諦	对译	0168a09	道諦	
+U35-008	S0634	saṃghṛhītā	saṃgṛhīta	ptc. pl. nom.	0008a06	攝	对译	0168a10	所攝	GRETIL 本作 saṃghṛhīta
+U35-009	S0634	'nāsravā	an-āsrava	adj. pl. nom.	0008a06	無漏	对译	0168a10	無流	
+U35-010	S0634	anye	anya	pron. pl. nom.	0008a06	餘	对译	0168a10	異此	
 U35-011	S0634				0008a06	名	增译			"餘名有漏"（两处同）
-U35-012	S0634	sāsravāḥ	sa-āsrava	adj.	0008a07	有漏	对译	0168a10	有流	
+U35-012	S0634	sāsravāḥ	sa-āsrava	adj. pl. nom.	0008a07	有漏	对译	0168a10	有流	
 U35-013	S0634				0008a07	法界若	增译			第二句专说法界
-U35-014	S0634	mārgasatyāsaṃskṛtasaṃghṛhītā	mārga-satya-asaṃskṛta-saṃgṛhīta	cpd. adj.	0008a07	是道諦無為	意译			就法界而言；saṃgṛhīta 以"是"表出
-U35-015	S0634	mārgasatyā	mārga-satya	cpd.	0008a07	道諦	对译			第二句
-U35-016	S0634	āsaṃskṛta	a-saṃskṛta	ptc. adj.	0008a07	無為	对译	0168a09	無為	
-U35-017	S0634	saṃghṛhītā	saṃgṛhīta	ptc.	0008a07	是	意译			"若是道諦無為"
-U35-018	S0634	'nāsravā	an-āsrava	adj.	0008a07	無漏	对译			第二句
-U35-019	S0634	anye	anya	pron. nom. pl.	0008a07	餘	对译			第二句
-U35-020	S0634	sāsravāḥ	sa-āsrava	adj.	0008a08	有漏	对译			第二句
-U35-021	S0635	śeṣās	śeṣa	adj.	0008a05	所餘	对译	0168a10	餘	
+U35-014	S0634	mārgasatyāsaṃskṛtasaṃghṛhītā	mārga-satya-asaṃskṛta-saṃgṛhīta	cpd. adj. pl. nom.	0008a07	是道諦無為	意译			就法界而言；saṃgṛhīta 以"是"表出
+U35-015	S0634	mārgasatyā	mārga-satya	cpd. 成分	0008a07	道諦	对译			第二句
+U35-016	S0634	āsaṃskṛta	a-saṃskṛta	ptc. adj. 成分	0008a07	無為	对译	0168a09	無為	
+U35-017	S0634	saṃghṛhītā	saṃgṛhīta	ptc. pl. nom.	0008a07	是	意译			"若是道諦無為"
+U35-018	S0634	'nāsravā	an-āsrava	adj. pl. nom.	0008a07	無漏	对译			第二句
+U35-019	S0634	anye	anya	pron. pl. nom.	0008a07	餘	对译			第二句
+U35-020	S0634	sāsravāḥ	sa-āsrava	adj. pl. nom.	0008a08	有漏	对译			第二句
+U35-021	S0635	śeṣās	śeṣa	adj. pl. nom.	0008a05	所餘	对译	0168a10	餘	
 U35-022	S0635				0008a05	唯	增译			本颂"唯"取长行 ekānta 之义
-U35-023	S0635	sāsravāḥ	sa-āsrava	adj.	0008a05	有漏	对译	0168a10	有流	
-U35-024	S0636	śeṣās	śeṣa	adj.	0008a08	餘	对译	0168a11	所餘	
-U35-025	S0636	pañcadaśa	pañcadaśan	num.	0008a08	十五	对译	0168a11	十五	
-U35-026	S0636	dhātavaḥ	dhātu	n. pl.	0008a08	界	对译	0168a11	界	
-U35-027	S0636	ekāntasāsravāḥ	ekānta-sāsrava	cpd. adj.	0008a08	唯…有漏	意译	0168a11	一向定有流	"名"为补出
+U35-023	S0635	sāsravāḥ	sa-āsrava	adj. pl. nom.	0008a05	有漏	对译	0168a10	有流	
+U35-024	S0636	śeṣās	śeṣa	adj. pl. nom.	0008a08	餘	对译	0168a11	所餘	
+U35-025	S0636	pañcadaśa	pañcadaśan	num. pl. nom.	0008a08	十五	对译	0168a11	十五	
+U35-026	S0636	dhātavaḥ	dhātu	n. pl. nom.	0008a08	界	对译	0168a11	界	
+U35-027	S0636	ekāntasāsravāḥ	ekānta-sāsrava	cpd. adj. pl. nom.	0008a08	唯…有漏	意译	0168a11	一向定有流	"名"为补出
 U35-027+1	S0636				0008a08	名	增译			合并时从 U35-027（唯名有漏）拆出
-U35-028	S0636	ekānta	ekānta	adj.	0008a08	唯	意译	0168a11	一向定	
-U35-029	S0636	sāsravāḥ	sa-āsrava	adj.	0008a08	有漏	对译	0168a11	有流	
+U35-028	S0636	ekānta	ekānta	adj. 成分	0008a08	唯	意译	0168a11	一向定	
+U35-029	S0636	sāsravāḥ	sa-āsrava	adj. pl. nom.	0008a08	有漏	对译	0168a11	有流	
 U35-030	S0636				0008a08	名	增译			
 U35-031	S0637				0008a08	如是已說有漏無漏	增译			玄奘过渡语
 U35-032	S0637				0008a09	十八界中	增译			
-U35-033	S0637	savitarkāḥ	sa-vitarka	adj.	0008a09	有尋	对译	0168a11	有覺	真谛 vitarka 译"覺"
-U35-034	S0637	savicārāḥ	sa-vicāra	adj.	0008a09	有伺	对译	0168a11	有觀	真谛 vicāra 译"觀"
-U35-035	S0637	avitarkā vicāra	a-vitarka	adj.	0008a09	無尋	对译	0168a12	無覺	
-U35-036	S0637	vicāramātrāḥ	vicāra-mātra	cpd. adj.	0008a09	唯伺	对译	0168a12	有觀	
-U35-037	S0637	vicāramātrāḥ	vicāra	n.	0008a09	伺	对译	0168a12	觀	
-U35-038	S0637	mātrāḥ	mātra	adj.	0008a09	唯	对译			
-U35-039	S0637	avitarkā avicārāḥ	a-vitarka	adj.	0008a10	無尋	对译	0168a12	無覺	
-U35-040	S0637	avicārāḥ	a-vicāra	adj.	0008a10	無伺	对译	0168a12	無觀	
+U35-033	S0637	savitarkāḥ	sa-vitarka	adj. pl. nom.	0008a09	有尋	对译	0168a11	有覺	真谛 vitarka 译"覺"
+U35-034	S0637	savicārāḥ	sa-vicāra	adj. pl. nom.	0008a09	有伺	对译	0168a11	有觀	真谛 vicāra 译"觀"
+U35-035	S0637	avitarkā vicāra	a-vitarka	adj. pl. nom.	0008a09	無尋	对译	0168a12	無覺	
+U35-036	S0637	vicāramātrāḥ	vicāra-mātra	cpd. adj. pl. nom.	0008a09	唯伺	对译	0168a12	有觀	
+U35-037	S0637	vicāramātrāḥ	vicāra	n. 成分	0008a09	伺	对译	0168a12	觀	
+U35-038	S0637	mātrāḥ	mātra	adj. pl. nom.	0008a09	唯	对译			
+U35-039	S0637	avitarkā avicārāḥ	a-vitarka	adj. pl. nom.	0008a10	無尋	对译	0168a12	無覺	
+U35-040	S0637	avicārāḥ	a-vicāra	adj. pl. nom.	0008a10	無伺	对译	0168a12	無觀	

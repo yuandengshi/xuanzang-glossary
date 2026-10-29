@@ -1,285 +1,285 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
-U39-001	S0690	spraṣṭavyaṃ	spraṣṭavya	gdv. n.	0008c01	觸	对译	0168b24	觸	
+U39-001	S0690	spraṣṭavyaṃ	spraṣṭavya	gdv. n. sg. nom.	0008c01	觸	对译	0168b24	觸	
 U39-002	S0690				0008c01	界中有	增译			"觸界中有二"
-U39-003	S0690	dvividhaṃ	dvividha	adj.	0008c01	二	意译	0168b24	有二種	
-U39-004	S0690	spraṣṭavyaṃ	spraṣṭavya	gdv. n.	0008c03	觸	对译			长行复述本颂
+U39-003	S0690	dvividhaṃ	dvividha	adj. sg. nom.	0008c01	二	意译	0168b24	有二種	
+U39-004	S0690	spraṣṭavyaṃ	spraṣṭavya	gdv. n. sg. nom.	0008c03	觸	对译			长行复述本颂
 U39-005	S0690				0008c03	界	增译			"觸界通二"
-U39-006	S0690	dvividhaṃ	dvividha	adj.	0008c03	通二	意译			长行复述本颂
-U39-007	S0691	bhūtāni bhautikaṃ	bhūta	n. pl.	0008c03	大種	对译	0168b25	四大	
+U39-006	S0690	dvividhaṃ	dvividha	adj. sg. nom.	0008c03	通二	意译			长行复述本颂
+U39-007	S0691	bhūtāni bhautikaṃ	bhūta	n. pl. nom.	0008c03	大種	对译	0168b25	四大	
 U39-008	S0691				0008c03	謂	增译			释词句式（本段"謂堅性等""謂滑性等"同）
-U39-009	S0691	bhautikaṃ ca	bhautika	adj.	0008c03	所造	对译	0168b25	四大所造	
-U39-010	S0691	tatra bhūtāni	bhūta	n. pl.	0008c03	大種	对译			
+U39-009	S0691	bhautikaṃ ca	bhautika	adj. sg. nom.	0008c03	所造	对译	0168b25	四大所造	
+U39-010	S0691	tatra bhūtāni	bhūta	n. pl. nom.	0008c03	大種	对译			
 U39-011	S0691				0008c03	有	增译			"大種有四""所造有七"
-U39-012	S0691	catvāri	catur	num.	0008c03	四	对译	0168b25	四	
+U39-012	S0691	catvāri	catur	num. pl. nom.	0008c03	四	对译	0168b25	四	
 U39-013	S0691				0008c04	謂堅性等	增译	0168b25	堅等	玄奘、真谛都补出，取自下文 khakkhaṭādi
-U39-014	S0691	bhautikaṃ ślakṣṇa	bhautika	adj.	0008c04	所造	对译	0168b26	四大所造	
-U39-015	S0691	ślakṣṇatvādi	ślakṣṇa-tva-ādi	cpd.	0008c04	滑性等	对译	0168b26	軟滑等	
-U39-016	S0691	ślakṣṇa	ślakṣṇa	adj.	0008c04	滑	对译	0168b26	軟滑	
-U39-018	S0691	tvādi	ādi	n.	0008c04	等	对译	0168b26	等	
-U39-019	S0691	saptavidham	sapta-vidha	cpd. adj.	0008c04	七	意译	0168b26	七	vidha 未译
-U39-020	S0692	bhūteṣu	bhūta	n. loc. pl.	0008c04	大種	对译	0168b26	四大	
-U39-021	S0692	bhūteṣu	loc.	gram. loc. pl. (-eṣu)	0008c04	依	语法	0168b26	依	第七格以"依"表出
-U39-022	S0692	bhavatvāt	bhava	n.	0008c04	生	对译	0168b26	生	第五格译"故"
+U39-014	S0691	bhautikaṃ ślakṣṇa	bhautika	adj. sg. nom.	0008c04	所造	对译	0168b26	四大所造	
+U39-015	S0691	ślakṣṇatvādi	ślakṣṇa-tva-ādi	cpd. sg. nom.	0008c04	滑性等	对译	0168b26	軟滑等	
+U39-016	S0691	ślakṣṇa	ślakṣṇa	adj. 成分	0008c04	滑	对译	0168b26	軟滑	
+U39-018	S0691	tvādi	ādi	n. sg. nom.	0008c04	等	对译	0168b26	等	
+U39-019	S0691	saptavidham	sapta-vidha	cpd. adj. sg. nom.	0008c04	七	意译	0168b26	七	vidha 未译
+U39-020	S0692	bhūteṣu	bhūta	n. pl. loc.	0008c04	大種	对译	0168b26	四大	
+U39-021	S0692	bhūteṣu	loc.	gram. pl. loc. (-eṣu)	0008c04	依	语法	0168b26	依	第七格以"依"表出
+U39-022	S0692	bhavatvāt	bhava	n. 成分	0008c04	生	对译	0168b26	生	第五格译"故"
 U39-023	S0692				0008c05	名所造	增译	0168b27	名所造	玄奘、真谛都补出
-U39-024	S0693	śeṣā	śeṣa	adj.	0008c01	餘	对译			
-U39-025	S0693	rūpiṇo	rūpin	adj.	0008c01	色	对译	0168b27	有色	
-U39-026	S0693	nava	navan	num.	0008c01	九	对译	0168b27	九	
-U39-027	S0693	bhautikāḥ	bhautika	adj.	0008c01	所造	对译	0168b27	所造	
+U39-024	S0693	śeṣā	śeṣa	adj. pl. nom.	0008c01	餘	对译			
+U39-025	S0693	rūpiṇo	rūpin	adj. pl. nom.	0008c01	色	对译	0168b27	有色	
+U39-026	S0693	nava	navan	num. pl. nom.	0008c01	九	对译	0168b27	九	
+U39-027	S0693	bhautikāḥ	bhautika	adj. pl. nom.	0008c01	所造	对译	0168b27	所造	
 U39-028	S0694				0008c05	餘…色	增译			"餘九色界唯是所造"复述本颂
-U39-029	S0694	nava dhātavo	navan	num.	0008c05	九	对译	0168b28	九	
-U39-030	S0694	nava dhātavo	dhātu	n. pl.	0008c05	界	对译			
+U39-029	S0694	nava dhātavo	navan	num. pl. nom.	0008c05	九	对译	0168b28	九	
+U39-030	S0694	nava dhātavo	dhātu	n. pl. nom.	0008c05	界	对译			
 U39-032	S0694				0008c05	是	增译	0168b28	是	
-U39-033	S0694	bhautikā eva	bhautika	adj.	0008c05	所造	对译	0168b28	所造	
-U39-034	S0694	pañcendriyadhātavaś	pañca-indriya-dhātu	cpd. pl.	0008c05	五…根	意译	0168b27	五根界	"色"为补出；dhātu 未译
+U39-033	S0694	bhautikā eva	bhautika	adj. pl. nom.	0008c05	所造	对译	0168b28	所造	
+U39-034	S0694	pañcendriyadhātavaś	pañca-indriya-dhātu	cpd. pl. nom.	0008c05	五…根	意译	0168b27	五根界	"色"为补出；dhātu 未译
 U39-034+1	S0694				0008c05	色	增译			合并时从 U39-034（五色根）拆出
-U39-035	S0694	pañce	pañcan	num.	0008c05	五	对译	0168b27	五	
-U39-036	S0694	ndriya	indriya	n.	0008c05	根	对译	0168b27	根	
-U39-037	S0694	catvāro	catur	num.	0008c06	四	对译	0168b28	四	
+U39-035	S0694	pañce	pañcan	num. 成分	0008c05	五	对译	0168b27	五	
+U39-036	S0694	ndriya	indriya	n. 成分	0008c05	根	对译	0168b27	根	
+U39-037	S0694	catvāro	catur	num. pl. nom.	0008c06	四	对译	0168b28	四	
 U39-038	S0694				0008c05	色等	增译			"色等四境"
-U39-039	S0694	viṣayāḥ	viṣaya	n. pl.	0008c06	境	对译	0168b28	塵界	
-U39-040	S0695	dharmadhātvekadeśaś	dharma-dhātu-eka-deśa	cpd.	0008c02	法一分	意译	0168b28	法界一分	本颂 dhātu 未译
-U39-041	S0695	dharmadhātv	dharma-dhātu	cpd.	0008c02	法	意译	0168b28	法界	
-U39-042	S0695	ekadeśaś	eka-deśa	cpd.	0008c02	一分	对译	0168b28	一分	
+U39-039	S0694	viṣayāḥ	viṣaya	n. pl. nom.	0008c06	境	对译	0168b28	塵界	
+U39-040	S0695	dharmadhātvekadeśaś	dharma-dhātu-eka-deśa	cpd. sg. nom.	0008c02	法一分	意译	0168b28	法界一分	本颂 dhātu 未译
+U39-041	S0695	dharmadhātv	dharma-dhātu	cpd. 成分	0008c02	法	意译	0168b28	法界	
+U39-042	S0695	ekadeśaś	eka-deśa	cpd. sg. nom.	0008c02	一分	对译	0168b28	一分	
 U39-043	S0695	ca	ca	ind.	0008c02	亦	语法	0168b28	及	"法一分亦然"
 U39-044	S0695				0008c02	然	增译			承上"所造"
-U39-045	S0696	avijñaptisaṃjñako	avijñapti-saṃjñaka	cpd. adj.	0008c06	無表	意译	0168b29	無教色	saṃjñaka（名为…的）未译，"業色"为补出
+U39-045	S0696	avijñaptisaṃjñako	avijñapti-saṃjñaka	cpd. adj. sg. nom.	0008c06	無表	意译	0168b29	無教色	saṃjñaka（名为…的）未译，"業色"为补出
 U39-045+1	S0696				0008c06	業色	增译			合并时从 U39-045（無表業色）拆出
-U39-046	S0696	avijñapti	a-vijñapti	n.	0008c06	無表	对译	0168b29	無教	
+U39-046	S0696	avijñapti	a-vijñapti	n. 成分	0008c06	無表	对译	0168b29	無教	
 U39-047	S0696				0008c06	亦唯	增译			
-U39-048	S0696	bhautikaḥ	bhautika	adj.	0008c06	所造	对译	0168b29	所造	
-U39-049	S0695	dharmadhātvekadeśaś	dharma-dhātu-eka-deśa	cpd.	0008c06	法界一分	对译			长行复述本颂
-U39-050	S0697	śeṣāḥ	śeṣa	adj.	0008c06	餘	对译	0168b29	所餘	
+U39-048	S0696	bhautikaḥ	bhautika	adj. sg. nom.	0008c06	所造	对译	0168b29	所造	
+U39-049	S0695	dharmadhātvekadeśaś	dharma-dhātu-eka-deśa	cpd. sg. nom.	0008c06	法界一分	对译			长行复述本颂
+U39-050	S0697	śeṣāḥ	śeṣa	adj. pl. nom.	0008c06	餘	对译	0168b29	所餘	
 U39-051	S0697				0008c06	七	增译	0168b29	七	
-U39-052	S0697	cittadhātavo	citta-dhātu	cpd. pl.	0008c07	心界	对译	0168c01	識界	
-U39-053	S0697	dharmadhātuś	dharma-dhātu	cpd.	0008c07	法界	对译	0168c01	法界中	
+U39-052	S0697	cittadhātavo	citta-dhātu	cpd. pl. nom.	0008c07	心界	对译	0168c01	識界	
+U39-053	S0697	dharmadhātuś	dharma-dhātu	cpd. sg. nom.	0008c07	法界	对译	0168c01	法界中	
 U39-054	S0697				0008c07	一分	增译			
-U39-055	S0697	cāvijñaptivarjyo	a-vijñapti-varjya	cpd. adj.	0008c07	除無表	意译	0168c01	除無教	"色"为补出
+U39-055	S0697	cāvijñaptivarjyo	a-vijñapti-varjya	cpd. adj. sg. nom.	0008c07	除無表	意译	0168c01	除無教	"色"为补出
 U39-055+1	S0697				0008c07	色	增译			合并时从 U39-055（除無表色）拆出
-U39-056	S0697	cāvijñapti	a-vijñapti	n.	0008c07	無表	对译	0168c01	無教	
-U39-057	S0697	varjyo	varjya	gdv.	0008c07	除	对译	0168c01	除	
+U39-056	S0697	cāvijñapti	a-vijñapti	n. 成分	0008c07	無表	对译	0168c01	無教	
+U39-057	S0697	varjyo	varjya	gdv. sg. nom.	0008c07	除	对译	0168c01	除	
 U39-058	S0697				0008c07	俱	增译			
 U39-059	S0697	nobhayathā	ubhayathā	ind.	0008c07	二種	意译	0168c01	二種	na 译"非"，不另立条
-U39-060	S0698	bhadantbduddhadevaḥ	bhadanta-buddhadeva	cpd.	0008c07	尊者覺天	意译	0168c01	佛陀提婆	GRETIL 本作 bhadantbduddhadevaḥ，当读 bhadantabuddhadevaḥ；玄奘意译人名，真谛音译
-U39-061	S0698	bhadant	bhadanta	n.	0008c07	尊者	对译			
-U39-062	S0698	duddhadevaḥ	buddhadeva	n. (人名)	0008c08	覺天	意译	0168c01	佛陀提婆	GRETIL 本作 bduddhadeva
+U39-060	S0698	bhadantbduddhadevaḥ	bhadanta-buddhadeva	cpd. sg. nom.	0008c07	尊者覺天	意译	0168c01	佛陀提婆	GRETIL 本作 bhadantbduddhadevaḥ，当读 bhadantabuddhadevaḥ；玄奘意译人名，真谛音译
+U39-061	S0698	bhadant	bhadanta	n. 成分	0008c07	尊者	对译			
+U39-062	S0698	duddhadevaḥ	buddhadeva	n. sg. nom. (人名)	0008c08	覺天	意译	0168c01	佛陀提婆	GRETIL 本作 bduddhadeva
 U39-063	S0698	ti bhadant	iti	ind.	0008c08	作如是說	语法	0168c01	說	引语标记 iti，玄奘前置为"作如是說"
-U39-064	S0698	daśāyatanānī	daśa-āyatana	cpd. pl.	0008c08	十…處	意译	0168c01	十入	"種色"为补出
+U39-064	S0698	daśāyatanānī	daśa-āyatana	cpd. pl. nom.	0008c08	十…處	意译	0168c01	十入	"種色"为补出
 U39-064+1	S0698				0008c08	種色	增译			合并时从 U39-064（十種色處）拆出
-U39-065	S0698	daśā	daśan	num.	0008c08	十	对译	0168c01	十	
-U39-066	S0698	āyatanānī	āyatana	n. pl.	0008c08	處	对译	0168c02	入	
-U39-067	S0698	bhūtamātraṃ	bhūta-mātra	cpd. adj.	0008c08	唯大種	意译	0168c02	唯四大	"性"为补出
+U39-065	S0698	daśā	daśan	num. 成分	0008c08	十	对译	0168c01	十	
+U39-066	S0698	āyatanānī	āyatana	n. pl. nom.	0008c08	處	对译	0168c02	入	
+U39-067	S0698	bhūtamātraṃ	bhūta-mātra	cpd. adj. sg. nom.	0008c08	唯大種	意译	0168c02	唯四大	"性"为补出
 U39-067+1	S0698				0008c08	性	增译			合并时从 U39-067（唯大種性）拆出
-U39-068	S0698	bhūtamātraṃ	bhūta	n.	0008c08	大種	对译	0168c02	四大	
-U39-069	S0698	mātraṃ	mātra	adj.	0008c08	唯	对译	0168c02	唯	
-U39-070	S0699	tacca	tad	pron. nom.	0008c08	彼說	意译	0168c02	此執	代词还原为所指（觉天之说）
+U39-068	S0698	bhūtamātraṃ	bhūta	n. 成分	0008c08	大種	对译	0168c02	四大	
+U39-069	S0698	mātraṃ	mātra	adj. sg. nom.	0008c08	唯	对译	0168c02	唯	
+U39-070	S0699	tacca	tad	pron. sg. nom.	0008c08	彼說	意译	0168c02	此執	代词还原为所指（觉天之说）
 U39-072	S0699	naivaṃ	evam	ind.	0008c09	然	语法	0168c02	然	
 U39-073	S0699				0008c09	唯	增译			"契經唯說"
-U39-074	S0699	sūtre	sūtra	n. loc.	0008c09	契經	对译	0168c02	經中	
-U39-075	S0699	khakkhaṭādilakṣaṇāvadhāraṇāt	khakkhaṭa-ādi-lakṣaṇa-avadhāraṇa	cpd. abl.	0008c09	說堅等…相	意译	0168c02	決了說…堅等四相	第五格译"故"
-U39-076	S0699	khakkhaṭā	khakkhaṭa	adj. n.	0008c09	堅	对译	0168c03	堅	
-U39-077	S0699	khakkhaṭādi	ādi	n.	0008c09	等	对译	0168c03	等	
-U39-078	S0699	lakṣaṇā	lakṣaṇa	n.	0008c09	相	对译	0168c03	相	
-U39-079	S0699	āvadhāraṇāt	avadhāraṇa	n. abl.	0008c09	說	意译	0168c02	決了說	avadhāraṇa（确定、决定）译"說"，"唯"或亦承此义
-U39-080	S0699	catuṣṭva	catuṣṭva	n.	0008c09	四	意译	0168c03	四	GRETIL 本作 catuṣṭva（缺词尾）
-U39-081	S0699	bhūtānāṃ	bhūta	n. gen. pl.	0008c09	大種	对译	0168c02	四大	
+U39-074	S0699	sūtre	sūtra	n. sg. loc.	0008c09	契經	对译	0168c02	經中	
+U39-075	S0699	khakkhaṭādilakṣaṇāvadhāraṇāt	khakkhaṭa-ādi-lakṣaṇa-avadhāraṇa	cpd. sg. abl.	0008c09	說堅等…相	意译	0168c02	決了說…堅等四相	第五格译"故"
+U39-076	S0699	khakkhaṭā	khakkhaṭa	adj. n. 成分	0008c09	堅	对译	0168c03	堅	
+U39-077	S0699	khakkhaṭādi	ādi	n. 成分	0008c09	等	对译	0168c03	等	
+U39-078	S0699	lakṣaṇā	lakṣaṇa	n. 成分	0008c09	相	对译	0168c03	相	
+U39-079	S0699	āvadhāraṇāt	avadhāraṇa	n. sg. abl.	0008c09	說	意译	0168c02	決了說	avadhāraṇa（确定、决定）译"說"，"唯"或亦承此义
+U39-080	S0699	catuṣṭva	catuṣṭva	n. 成分	0008c09	四	意译	0168c03	四	GRETIL 本作 catuṣṭva（缺词尾）
+U39-081	S0699	bhūtānāṃ	bhūta	n. pl. gen.	0008c09	大種	对译	0168c02	四大	
 U39-082	S0699				0008c09	為	增译			"為大種故"
-U39-083	S0700	teṣāṃ	tad	pron. gen. pl.	0008c09	此四大種	意译	0168c03	此四大	代词还原为所指
+U39-083	S0700	teṣāṃ	tad	pron. pl. gen.	0008c09	此四大種	意译	0168c03	此四大	代词还原为所指
 U39-084	S0700				0008c10	唯	增译	0168c03	唯	
-U39-085	S0700	spraṣṭavyatvāt	spraṣṭavya-tva	cpd. abl.	0008c10	觸攝	意译	0168c03	是觸	-tva 以"攝"表出，第五格译"故"
-U39-086	S0700	spraṣṭavya	spraṣṭavya	gdv. n.	0008c10	觸	对译	0168c03	觸	
-U39-087	S0701	kāṭhinyādīni	kāṭhinya-ādi	cpd. pl.	0008c10	堅…等	意译	0168c03	堅等四相	"濕"为补出
+U39-085	S0700	spraṣṭavyatvāt	spraṣṭavya-tva	cpd. sg. abl.	0008c10	觸攝	意译	0168c03	是觸	-tva 以"攝"表出，第五格译"故"
+U39-086	S0700	spraṣṭavya	spraṣṭavya	gdv. n. 成分	0008c10	觸	对译	0168c03	觸	
+U39-087	S0701	kāṭhinyādīni	kāṭhinya-ādi	cpd. pl. nom.	0008c10	堅…等	意译	0168c03	堅等四相	"濕"为补出
 U39-087+1	S0701				0008c10	濕	增译			合并时从 U39-087（堅濕等）拆出
-U39-088	S0701	kāṭhinyā	kāṭhinya	n.	0008c10	堅	对译	0168c03	堅	
-U39-089	S0701	kāṭhinyādīni	ādi	n.	0008c10	等	对译	0168c03	等	
+U39-088	S0701	kāṭhinyā	kāṭhinya	n. 成分	0008c10	堅	对译	0168c03	堅	
+U39-089	S0701	kāṭhinyādīni	ādi	n. pl. nom.	0008c10	等	对译	0168c03	等	
 U39-090	S0701				0008c10	濕	增译			
-U39-091	S0701	cakṣurādibhir	cakṣus-ādi	cpd. instr. pl.	0008c10	眼等	对译	0168c04	眼等	
-U39-092	S0701	cakṣur	cakṣus	n.	0008c10	眼	对译	0168c04	眼	
-U39-093	S0701	gṛhyante	grah	v. pass. 3pl.	0008c10	取	对译	0168c04	見	
+U39-091	S0701	cakṣurādibhir	cakṣus-ādi	cpd. pl. instr.	0008c10	眼等	对译	0168c04	眼等	
+U39-092	S0701	cakṣur	cakṣus	n. 成分	0008c10	眼	对译	0168c04	眼	
+U39-093	S0701	gṛhyante	grah	v. pres. pass. 3pl.	0008c10	取	对译	0168c04	見	
 U39-094	S0701	gṛhyante	pass.	gram. pass. (-ya-)	0008c10	所	语法	0168c04	所	被动态以"所"表出
-U39-095	S0701	varṇādayaḥ	varṇa-ādi	cpd. pl.	0008c10	色…等	意译	0168c04	色等四塵	"聲"为补出
+U39-095	S0701	varṇādayaḥ	varṇa-ādi	cpd. pl. nom.	0008c10	色…等	意译	0168c04	色等四塵	"聲"为补出
 U39-095+1	S0701				0008c10	聲	增译			合并时从 U39-095（色聲等）拆出
-U39-096	S0701	varṇā	varṇa	n.	0008c10	色	对译	0168c04	色	
+U39-096	S0701	varṇā	varṇa	n. 成分	0008c10	色	对译	0168c04	色	
 U39-097	S0701				0008c10	聲	增译			
-U39-098	S0701	kāyendriyeṇa	kāya-indriya	cpd. instr.	0008c11	身根	对译	0168c04	身根	
-U39-099	S0701	kāye	kāya	n.	0008c11	身	对译	0168c04	身	
-U39-100	S0701	ndriyeṇa	indriya	n. instr.	0008c11	根	对译	0168c04	根	
+U39-098	S0701	kāyendriyeṇa	kāya-indriya	cpd. sg. instr.	0008c11	身根	对译	0168c04	身根	
+U39-099	S0701	kāye	kāya	n. 成分	0008c11	身	对译	0168c04	身	
+U39-100	S0701	ndriyeṇa	indriya	n. sg. instr.	0008c11	根	对译	0168c04	根	
 U39-101	S0701				0008c11	所覺	增译	0168c04	所覺	补出省去的谓语
 U39-102	S0701				0008c11	是故彼說理定不然	增译	0168c04	是故此執不如	玄奘、真谛都补出结语
-U39-103	S0702	uktaṃ	vac	ptc.	0008c11	說	对译	0168c05	說	
-U39-105	S0702	sūtre	sūtra	n. loc.	0008c11	契經	对译	0168c05	經中	
-U39-106	S0702	bhikṣo	bhikṣu	n. voc.	0008c11	苾芻	音译	0168c05	比丘	
+U39-103	S0702	uktaṃ	vac	ptc. sg. nom.	0008c11	說	对译	0168c05	說	
+U39-105	S0702	sūtre	sūtra	n. sg. loc.	0008c11	契經	对译	0168c05	經中	
+U39-106	S0702	bhikṣo	bhikṣu	n. sg. voc.	0008c11	苾芻	音译	0168c05	比丘	
 U39-107	S0702				0008c12	當知	增译			呼告后补出"當知"（下同）
-U39-108	S0702	cakṣur	cakṣus	n.	0008c12	眼	对译	0168c05	眼根	
-U39-109	S0702	ādhyātmikam	ādhyātmika	adj.	0008c12	內	对译	0168c05	內	
-U39-110	S0702	āyatanaṃ	āyatana	n.	0008c12	處	对译	0168c06	入	
-U39-111	S0702	catvāri	catur	num.	0008c12	四	对译	0168c06	四	
-U39-112	S0702	mahābhūtāny	mahā-bhūta	cpd. pl.	0008c12	大種	对译	0168c06	大	
+U39-108	S0702	cakṣur	cakṣus	n. sg. nom.	0008c12	眼	对译	0168c05	眼根	
+U39-109	S0702	ādhyātmikam	ādhyātmika	adj. sg. nom.	0008c12	內	对译	0168c05	內	
+U39-110	S0702	āyatanaṃ	āyatana	n. sg. nom.	0008c12	處	对译	0168c06	入	
+U39-111	S0702	catvāri	catur	num. pl. acc.	0008c12	四	对译	0168c06	四	
+U39-112	S0702	mahābhūtāny	mahā-bhūta	cpd. pl. acc.	0008c12	大種	对译	0168c06	大	
 U39-113	S0702	upādāya	upa-ā-dā	abs.	0008c12	所造	意译	0168c06	所造	upādāya（依取…而成）译"所造"
-U39-114	S0702	rūpaprasādo	rūpa-prasāda	cpd.	0008c12	淨色	对译	0168c06	淨色	玄奘倒序
-U39-115	S0702	rūpa	rūpa	n.	0008c12	色	对译	0168c06	色	
-U39-116	S0702	prasādo	prasāda	n.	0008c12	淨	对译	0168c06	淨	
-U39-117	S0702	arupy	rūpin	adj.	0008c12	有色	对译	0168c06	有色	GRETIL 本作 arupyanidarśanaṃ，当读 rūpy anidarśanaṃ
-U39-118	S0702	anidarśanaṃ	a-nidarśana	adj.	0008c12	無見	对译	0168c06	無顯	
-U39-119	S0702	saprataighaṃ	sa-pratigha	adj.	0008c13	有對	对译	0168c06	有礙	GRETIL 本作 saprataighaṃ，当读 sapratighaṃ
+U39-114	S0702	rūpaprasādo	rūpa-prasāda	cpd. sg. nom.	0008c12	淨色	对译	0168c06	淨色	玄奘倒序
+U39-115	S0702	rūpa	rūpa	n. 成分	0008c12	色	对译	0168c06	色	
+U39-116	S0702	prasādo	prasāda	n. sg. nom.	0008c12	淨	对译	0168c06	淨	
+U39-117	S0702	arupy	rūpin	adj. sg. nom.	0008c12	有色	对译	0168c06	有色	GRETIL 本作 arupyanidarśanaṃ，当读 rūpy anidarśanaṃ
+U39-118	S0702	anidarśanaṃ	a-nidarśana	adj. sg. nom.	0008c12	無見	对译	0168c06	無顯	
+U39-119	S0702	saprataighaṃ	sa-pratigha	adj. sg. nom.	0008c13	有對	对译	0168c06	有礙	GRETIL 本作 saprataighaṃ，当读 sapratighaṃ
 U39-120	S0702	evaṃ	evam	ind.	0008c13	亦爾	语法	0168c07	亦爾	
-U39-122	S0702	kāyaḥ	kāya	n.	0008c13	身	对译	0168c07	身根	
+U39-122	S0702	kāyaḥ	kāya	n. sg. nom.	0008c13	身	对译	0168c07	身根	
 U39-123	S0702				0008c13	處廣說	增译			"乃至身處廣說亦爾"
-U39-124	S0703	bhikṣo	bhikṣu	n. voc.	0008c13	苾芻	音译	0168c07	比丘	
-U39-125	S0703	rūpāṇi	rūpa	n. pl.	0008c13	色	对译	0168c07	色	
-U39-126	S0703	bāhyam	bāhya	adj.	0008c14	外	对译	0168c07	外	
-U39-127	S0703	āyatanaṃ	āyatana	n.	0008c14	處	对译	0168c07	入	
-U39-128	S0703	catvāri	catur	num.	0008c14	四	对译	0168c07	四	
-U39-129	S0703	mahābhūtāny	mahā-bhūta	cpd. pl.	0008c14	大種	对译	0168c07	大	
+U39-124	S0703	bhikṣo	bhikṣu	n. sg. voc.	0008c13	苾芻	音译	0168c07	比丘	
+U39-125	S0703	rūpāṇi	rūpa	n. pl. nom.	0008c13	色	对译	0168c07	色	
+U39-126	S0703	bāhyam	bāhya	adj. sg. nom.	0008c14	外	对译	0168c07	外	
+U39-127	S0703	āyatanaṃ	āyatana	n. sg. nom.	0008c14	處	对译	0168c07	入	
+U39-128	S0703	catvāri	catur	num. pl. acc.	0008c14	四	对译	0168c07	四	
+U39-129	S0703	mahābhūtāny	mahā-bhūta	cpd. pl. acc.	0008c14	大種	对译	0168c07	大	
 U39-130	S0703	upādāya	upa-ā-dā	abs.	0008c14	所造	意译	0168c08	所造	
-U39-131	S0703	rupi	rūpin	adj.	0008c14	有色	对译	0168c08	有色	GRETIL 本作 rupi
-U39-132	S0703	sanidarśanaṃ	sa-nidarśana	adj.	0008c14	有見	对译	0168c08	有顯	
-U39-133	S0703	sapratigham	sa-pratigha	adj.	0008c14	有對	对译	0168c08	有礙	
-U39-134	S0704	śabdo	śabda	n.	0008c14	聲	对译	0168c08	聲	
-U39-135	S0704	bhikṣo	bhikṣu	n. voc.			省译	0168c08	比丘	
-U39-136	S0704	bāhyam	bāhya	adj.	0008c14	外	对译	0168c08	外	
-U39-137	S0704	āyatanaṃ	āyatana	n.	0008c14	處	对译	0168c08	入	
-U39-138	S0704	catvāri	catur	num.	0008c15	四	对译	0168c09	四	
-U39-139	S0704	mahābhūtāny	mahā-bhūta	cpd. pl.	0008c15	大種	对译	0168c09	大	
+U39-131	S0703	rupi	rūpin	adj. sg. nom.	0008c14	有色	对译	0168c08	有色	GRETIL 本作 rupi
+U39-132	S0703	sanidarśanaṃ	sa-nidarśana	adj. sg. nom.	0008c14	有見	对译	0168c08	有顯	
+U39-133	S0703	sapratigham	sa-pratigha	adj. sg. nom.	0008c14	有對	对译	0168c08	有礙	
+U39-134	S0704	śabdo	śabda	n. sg. nom.	0008c14	聲	对译	0168c08	聲	
+U39-135	S0704	bhikṣo	bhikṣu	n. sg. voc.			省译	0168c08	比丘	
+U39-136	S0704	bāhyam	bāhya	adj. sg. nom.	0008c14	外	对译	0168c08	外	
+U39-137	S0704	āyatanaṃ	āyatana	n. sg. nom.	0008c14	處	对译	0168c08	入	
+U39-138	S0704	catvāri	catur	num. pl. acc.	0008c15	四	对译	0168c09	四	
+U39-139	S0704	mahābhūtāny	mahā-bhūta	cpd. pl. acc.	0008c15	大種	对译	0168c09	大	
 U39-140	S0704	upādāya	upa-ā-dā	abs.	0008c15	所造	意译	0168c09	所造	
-U39-141	S0704	rupy	rūpin	adj.	0008c15	有色	对译	0168c09	有色	GRETIL 本作 rupy
-U39-142	S0704	anidarśanaṃ	a-nidarśana	adj.	0008c15	無見	对译	0168c09	無顯	
-U39-143	S0704	sapratigham	sa-pratigha	adj.	0008c15	有對	对译	0168c09	有礙	
-U39-145	S0705	gandharasāḥ	gandha-rasa	cpd. pl.	0008c15	香味	对译	0168c09	味	真谛只作"乃至味"
+U39-141	S0704	rupy	rūpin	adj. sg. nom.	0008c15	有色	对译	0168c09	有色	GRETIL 本作 rupy
+U39-142	S0704	anidarśanaṃ	a-nidarśana	adj. sg. nom.	0008c15	無見	对译	0168c09	無顯	
+U39-143	S0704	sapratigham	sa-pratigha	adj. sg. nom.	0008c15	有對	对译	0168c09	有礙	
+U39-145	S0705	gandharasāḥ	gandha-rasa	cpd. pl. nom.	0008c15	香味	对译	0168c09	味	真谛只作"乃至味"
 U39-146	S0705				0008c15	二處，廣說	增译			
-U39-147	S0706	spraṣṭavyāni	spraṣṭavya	gdv. n. pl.	0008c16	觸	对译	0168c10	觸	
-U39-148	S0706	bhikṣo	bhikṣu	n. voc.			省译	0168c10	比丘	
-U39-149	S0706	bāhyam	bāhya	adj.	0008c16	外	对译	0168c10	外	
-U39-150	S0706	āyatanaṃ	āyatana	n.	0008c16	處	对译	0168c10	入	
+U39-147	S0706	spraṣṭavyāni	spraṣṭavya	gdv. n. pl. nom.	0008c16	觸	对译	0168c10	觸	
+U39-148	S0706	bhikṣo	bhikṣu	n. sg. voc.			省译	0168c10	比丘	
+U39-149	S0706	bāhyam	bāhya	adj. sg. nom.	0008c16	外	对译	0168c10	外	
+U39-150	S0706	āyatanaṃ	āyatana	n. sg. nom.	0008c16	處	对译	0168c10	入	
 U39-151	S0706				0008c16	是	增译	0168c10	是	
-U39-152	S0706	āyatanaṃ catvāri	catur	num.	0008c16	四	对译	0168c10	四	
-U39-153	S0706	mahābhūtāni catvāri	mahā-bhūta	cpd. pl.	0008c16	大種	对译	0168c10	大	
+U39-152	S0706	āyatanaṃ catvāri	catur	num. pl. acc. (?)	0008c16	四	对译	0168c10	四	
+U39-153	S0706	mahābhūtāni catvāri	mahā-bhūta	cpd. pl. acc. (?)	0008c16	大種	对译	0168c10	大	
 U39-154	S0706				0008c16	及	增译	0168c10	或	
-U39-155	S0706	mahābhūtāni catvāri	catur	num.	0008c16	四	对译	0168c10	四	第二个 catvāri
-U39-156	S0706	mahābhūtānyupādāya	mahā-bhūta	cpd. pl.	0008c16	大種	对译	0168c10	大	第二个 mahābhūtāni
+U39-155	S0706	mahābhūtāni catvāri	catur	num. pl. acc.	0008c16	四	对译	0168c10	四	第二个 catvāri
+U39-156	S0706	mahābhūtānyupādāya	mahā-bhūta	cpd. pl. acc.	0008c16	大種	对译	0168c10	大	第二个 mahābhūtāni
 U39-157	S0706	upādāya	upa-ā-dā	abs.	0008c16	所造	意译	0168c11	所造	
-U39-158	S0706	rūpy	rūpin	adj.	0008c16	有色	对译	0168c11	有色	
-U39-159	S0706	anidarśanaṃ	a-nidarśana	adj.	0008c17	無見	对译	0168c11	無顯	
-U39-160	S0706	sapratighami	sa-pratigha	adj.	0008c17	有對	对译	0168c11	有礙	
+U39-158	S0706	rūpy	rūpin	adj. sg. nom.	0008c16	有色	对译	0168c11	有色	
+U39-159	S0706	anidarśanaṃ	a-nidarśana	adj. sg. nom.	0008c17	無見	对译	0168c11	無顯	
+U39-160	S0706	sapratighami	sa-pratigha	adj. sg. nom.	0008c17	有對	对译	0168c11	有礙	
 U39-161	S0707				0008c17	如是經中	增译	0168c11	如此經中	
-U39-162	S0707	spraṣṭrvyāyatanikadeśenaiva	spraṣṭavya-āyatana-eka-deśa	cpd. instr.	0008c17	觸處	意译	0168c11	觸一分	GRETIL 本作 spraṣṭrvyāyatanikadeśena，当读 spraṣṭavyāyatanaikadeśena；ekadeśa（一分）玄奘未译
-U39-163	S0707	spraṣṭrvyā	spraṣṭavya	gdv. n.	0008c17	觸	对译	0168c11	觸	GRETIL 本作 spraṣṭrvya
-U39-164	S0707	yatanikadeśe	āyatana	n.	0008c17	處	对译			
+U39-162	S0707	spraṣṭrvyāyatanikadeśenaiva	spraṣṭavya-āyatana-eka-deśa	cpd. sg. instr.	0008c17	觸處	意译	0168c11	觸一分	GRETIL 本作 spraṣṭrvyāyatanikadeśena，当读 spraṣṭavyāyatanaikadeśena；ekadeśa（一分）玄奘未译
+U39-163	S0707	spraṣṭrvyā	spraṣṭavya	gdv. n. 成分	0008c17	觸	对译	0168c11	觸	GRETIL 本作 spraṣṭrvya
+U39-164	S0707	yatanikadeśe	āyatana	n. 成分	0008c17	處	对译			
 U39-166	S0707				0008c17	說	增译			"唯說觸處攝"
-U39-167	S0707	saṃgrahāc	saṃgraha	n. abl.	0008c17	攝	对译	0168c12	攝	
+U39-167	S0707	saṃgrahāc	saṃgraha	n. sg. abl.	0008c17	攝	对译	0168c12	攝	
 U39-168	S0707				0008c17	四	增译	0168c12	四	
-U39-169	S0707	bhūtānāṃ saṃ	bhūta	n. gen. pl.	0008c17	大種	对译	0168c12	大	
-U39-170	S0707	spaṣṭam	spaṣṭa	adj.	0008c18	分明	对译	0168c12	明了	
-U39-171	S0707	ādarśitam	ā-darśaya (caus. dṛś)	ptc.	0008c18	顯示	对译	0168c12	可知	
-U39-172	S0707	cheṣaṃ	śeṣa	adj.	0008c18	餘	对译	0168c12	所餘	
+U39-169	S0707	bhūtānāṃ saṃ	bhūta	n. pl. gen.	0008c17	大種	对译	0168c12	大	
+U39-170	S0707	spaṣṭam	spaṣṭa	adj. sg. acc. (?)	0008c18	分明	对译	0168c12	明了	
+U39-171	S0707	ādarśitam	ā-darśaya (caus. dṛś)	ptc. sg. nom.	0008c18	顯示	对译	0168c12	可知	
+U39-172	S0707	cheṣaṃ	śeṣa	adj. sg. nom.	0008c18	餘	对译	0168c12	所餘	
 U39-173	S0707				0008c18	有色處皆	增译			"餘有色處皆非大種"
-U39-174	S0707	bhūtānīti	bhūta	n. pl.	0008c18	大種	对译	0168c12	四大	
+U39-174	S0707	bhūtānīti	bhūta	n. pl. nom.	0008c18	大種	对译	0168c12	四大	
 U39-175	S0708	yattarhi	yat tarhi	ind.	0008c18	若爾…何故	语法			设难句式 yat tarhi … uktam（然则何以说…）
-U39-176	S0708	sūtre	sūtra	n. loc.	0008c19	契經	对译	0168c13	經中	
-U39-177	S0708	uktaṃ	vac	ptc.	0008c19	言	对译	0168c13	說	
-U39-179	S0708	cakṣuṣi	cakṣus	n. loc.	0008c19	眼	对译	0168c13	眼	
-U39-180	S0708	maṃsapiṇḍe	māṃsa-piṇḍa	cpd. loc.	0008c19	肉團	对译	0168c13	肉丸	GRETIL 本作 maṃsa-，当读 māṃsa-
-U39-181	S0708	maṃsa	māṃsa	n.	0008c19	肉	对译	0168c13	肉	
-U39-182	S0708	piṇḍe	piṇḍa	n. loc.	0008c19	團	对译	0168c13	丸	
+U39-176	S0708	sūtre	sūtra	n. sg. loc.	0008c19	契經	对译	0168c13	經中	
+U39-177	S0708	uktaṃ	vac	ptc. sg. nom.	0008c19	言	对译	0168c13	說	
+U39-179	S0708	cakṣuṣi	cakṣus	n. sg. loc.	0008c19	眼	对译	0168c13	眼	
+U39-180	S0708	maṃsapiṇḍe	māṃsa-piṇḍa	cpd. sg. loc.	0008c19	肉團	对译	0168c13	肉丸	GRETIL 本作 maṃsa-，当读 māṃsa-
+U39-181	S0708	maṃsa	māṃsa	n. 成分	0008c19	肉	对译	0168c13	肉	
+U39-182	S0708	piṇḍe	piṇḍa	n. sg. loc.	0008c19	團	对译	0168c13	丸	
 U39-184	S0708				0008c19	若內各別	增译			玄奘依经文补出
-U39-185	S0708	khakkhaṭaṃ	khakkhaṭa	adj. n.	0008c19	堅性	对译	0168c13	是堅	
-U39-186	S0708	kharagatami	khara-gata	cpd.	0008c20	堅類	对译	0168c13	是堅類	
+U39-185	S0708	khakkhaṭaṃ	khakkhaṭa	adj. n. sg. nom.	0008c19	堅性	对译	0168c13	是堅	
+U39-186	S0708	kharagatami	khara-gata	cpd. sg. nom.	0008c20	堅類	对译	0168c13	是堅類	
 U39-187	S0708				0008c20	乃至廣說	增译			表引文从略
-U39-188	S0709	syaiṣa	etad	pron. nom.	0008c20	彼	语法			GRETIL 本作 maṃsapiṇḍsyaiṣa，当读 māṃsapiṇḍasyaiṣa
-U39-189	S0709	upadeśaḥ	upadeśa	n.	0008c20	說	对译	0168c14	說	
-U39-190	S0709	āvinirbhadivarttino	a-vinirbhāga-vartin	cpd. adj. gen.	0008c20	不離	意译	0168c14	與眼根不相離	GRETIL 本作 avinirbhadivarttino，当读 avinirbhāgavartino
+U39-188	S0709	syaiṣa	etad	pron. sg. nom.	0008c20	彼	语法			GRETIL 本作 maṃsapiṇḍsyaiṣa，当读 māṃsapiṇḍasyaiṣa
+U39-189	S0709	upadeśaḥ	upadeśa	n. sg. nom.	0008c20	說	对译	0168c14	說	
+U39-190	S0709	āvinirbhadivarttino	a-vinirbhāga-vartin	cpd. adj. sg. gen.	0008c20	不離	意译	0168c14	與眼根不相離	GRETIL 本作 avinirbhadivarttino，当读 avinirbhāgavartino
 U39-191	S0709				0008c20	眼根	增译	0168c14	眼根	
-U39-192	S0709	maṃsapiṇḍsyai	māṃsa-piṇḍa	cpd. gen.	0008c20	肉團	对译	0168c14	肉丸	
+U39-192	S0709	maṃsapiṇḍsyai	māṃsa-piṇḍa	cpd. sg. gen.	0008c20	肉團	对译	0168c14	肉丸	
 U39-193	S0709				0008c20	有堅性等，無相違過	增译			
-U39-194	S0710	garbhavakrāntau	garbha-avakrānti	cpd. loc.	0008c21	入胎	意译	0168c15	入胎經	经名，"經"为补出；GRETIL 本作 garbhavakrāntau，当读 garbhāvakrāntau
+U39-194	S0710	garbhavakrāntau	garbha-avakrānti	cpd. sg. loc.	0008c21	入胎	意译	0168c15	入胎經	经名，"經"为补出；GRETIL 本作 garbhavakrāntau，当读 garbhāvakrāntau
 U39-194+1	S0710				0008c21	經	增译			合并时从 U39-194（入胎經）拆出
-U39-195	S0710	garbha	garbha	n.	0008c21	胎	对译	0168c15	胎	
-U39-196	S0710	vakrāntau	avakrānti	n. loc.	0008c21	入	对译	0168c15	入	
+U39-195	S0710	garbha	garbha	n. 成分	0008c21	胎	对译	0168c15	胎	
+U39-196	S0710	vakrāntau	avakrānti	n. sg. loc.	0008c21	入	对译	0168c15	入	
 U39-198	S0710				0008c21	唯說	增译	0168c15	唯	
-U39-199	S0710	ṣaḍdhātur	ṣaṣ-dhātu	cpd.	0008c21	六界	对译	0168c15	六界	
-U39-200	S0710	ṣaḍ	ṣaṣ	num.	0008c21	六	对译	0168c15	六	
-U39-201	S0710	dhātur	dhātu	n.	0008c21	界	对译	0168c15	界	
-U39-202	S0710	bhikṣo puruṣa	bhikṣu	n. voc.			省译	0168c15	比丘	
+U39-199	S0710	ṣaḍdhātur	ṣaṣ-dhātu	cpd. sg. nom.	0008c21	六界	对译	0168c15	六界	
+U39-200	S0710	ṣaḍ	ṣaṣ	num. 成分	0008c21	六	对译	0168c15	六	
+U39-201	S0710	dhātur	dhātu	n. sg. nom.	0008c21	界	对译	0168c15	界	
+U39-202	S0710	bhikṣo puruṣa	bhikṣu	n. sg. voc.			省译	0168c15	比丘	
 U39-203	S0710				0008c22	為	增译			"為士夫"
-U39-204	S0710	puruṣa	puruṣa	n.	0008c22	士夫	对译			
+U39-204	S0710	puruṣa	puruṣa	n. sg. nom.	0008c22	士夫	对译			
 U39-206	S0710	maulasattvadravyasaṃdarśanārtham	maula-sattva-dravya-saṃdarśana-artham	cpd. ind.	0008c22	為顯…士夫本事	意译	0168c16	為顯成就眾生根本	"能成"为补出
-U39-207	S0710	maula	maula	adj.	0008c22	本	意译	0168c16	根本	
-U39-208	S0710	sattva	sattva	n.	0008c22	士夫	意译	0168c16	眾生	
-U39-209	S0710	dravya	dravya	n.	0008c22	事	意译			
-U39-210	S0710	saṃdarśanārtham	saṃdarśana	n.	0008c22	顯	对译	0168c16	顯	
+U39-207	S0710	maula	maula	adj. 成分	0008c22	本	意译	0168c16	根本	
+U39-208	S0710	sattva	sattva	n. 成分	0008c22	士夫	意译	0168c16	眾生	
+U39-209	S0710	dravya	dravya	n. 成分	0008c22	事	意译			
+U39-210	S0710	saṃdarśanārtham	saṃdarśana	n. 成分	0008c22	顯	对译	0168c16	顯	
 U39-211	S0710				0008c22	能成	增译			
 U39-212	S0711				0008c22	非唯爾所	增译			
 U39-213	S0711				0008c23	彼經	增译	0168c16	此經	
-U39-215	S0711	ṣaṭsparśyatanavacanāc	ṣaṣ-sparśa-āyatana-vacana	cpd. abl.	0008c23	說六觸處	对译	0168c16	說六種觸入	GRETIL 本作 ṣaṭsparśyatana，当读 ṣaṭsparśāyatana；第五格译"故"
-U39-216	S0711	ṣaṭ	ṣaṣ	num.	0008c23	六	对译	0168c17	六	
-U39-217	S0711	sparś	sparśa	n.	0008c23	觸	对译	0168c17	觸	
-U39-218	S0711	yatana	āyatana	n.	0008c23	處	对译	0168c17	入	GRETIL 本作 sparśyatana
-U39-219	S0711	vacanāc	vacana	n. abl.	0008c23	說	对译	0168c16	說	
-U39-220	S0711	caittābhāvaprasaṅgāc	caitta-abhāva-prasaṅga	cpd. abl.	0008c23	心所應非有	意译	0168c17	應無…心法	"諸"为补出
+U39-215	S0711	ṣaṭsparśyatanavacanāc	ṣaṣ-sparśa-āyatana-vacana	cpd. sg. abl.	0008c23	說六觸處	对译	0168c16	說六種觸入	GRETIL 本作 ṣaṭsparśyatana，当读 ṣaṭsparśāyatana；第五格译"故"
+U39-216	S0711	ṣaṭ	ṣaṣ	num. 成分	0008c23	六	对译	0168c17	六	
+U39-217	S0711	sparś	sparśa	n. 成分	0008c23	觸	对译	0168c17	觸	
+U39-218	S0711	yatana	āyatana	n. 成分	0008c23	處	对译	0168c17	入	GRETIL 本作 sparśyatana
+U39-219	S0711	vacanāc	vacana	n. sg. abl.	0008c23	說	对译	0168c16	說	
+U39-220	S0711	caittābhāvaprasaṅgāc	caitta-abhāva-prasaṅga	cpd. sg. abl.	0008c23	心所應非有	意译	0168c17	應無…心法	"諸"为补出
 U39-221	S0711				0008c23	諸	增译			"諸心所"
-U39-222	S0711	caittā	caitta	n.	0008c23	心所	对译	0168c17	心法	
-U39-223	S0711	bhāvaprasaṅgāc	a-bhāva	n.	0008c23	非有	意译	0168c17	無	
-U39-224	S0711	prasaṅgāc	prasaṅga	n. abl.	0008c23	應	意译	0168c17	應	
-U39-226	S0712	yuktaṃ	yukta	ptc. adj.	0008c24	應	意译			
+U39-222	S0711	caittā	caitta	n. 成分	0008c23	心所	对译	0168c17	心法	
+U39-223	S0711	bhāvaprasaṅgāc	a-bhāva	n. 成分	0008c23	非有	意译	0168c17	無	
+U39-224	S0711	prasaṅgāc	prasaṅga	n. sg. abl.	0008c23	應	意译	0168c17	應	
+U39-226	S0712	yuktaṃ	yukta	ptc. adj. sg. nom.	0008c24	應	意译			
 U39-227	S0712	abhyupetum	abhi-upa-i	inf.	0008c24	執	意译	0168c18	言	
-U39-228	S0712	caittā	caitta	n. pl.	0008c24	心所	对译	0168c18	心法	
-U39-230	S0712	cittameva	citta	n.	0008c24	心	对译	0168c18	心	
-U39-231	S0713	sūtre vacanāt	sūtra	n. loc.	0008c24	契經	对译	0168c19	經	
-U39-232	S0713	vacanātsarāga	vacana	n. abl.	0008c24	言	对译	0168c19	言	
-U39-234	S0713	saṃjñā	saṃjñā	n.	0008c24	想	对译	0168c18	想	
-U39-235	S0713	vedanā	vedanā	n.	0008c24	受	对译	0168c18	受	
+U39-228	S0712	caittā	caitta	n. pl. nom.	0008c24	心所	对译	0168c18	心法	
+U39-230	S0712	cittameva	citta	n. sg. nom.	0008c24	心	对译	0168c18	心	
+U39-231	S0713	sūtre vacanāt	sūtra	n. sg. loc.	0008c24	契經	对译	0168c19	經	
+U39-232	S0713	vacanātsarāga	vacana	n. sg. abl.	0008c24	言	对译	0168c19	言	
+U39-234	S0713	saṃjñā	saṃjñā	n. sg. nom.	0008c24	想	对译	0168c18	想	
+U39-235	S0713	vedanā	vedanā	n. sg. nom.	0008c24	受	对译	0168c18	受	
 U39-236	S0713				0008c24	等	增译			
-U39-237	S0713	caitasika	caitasika	adj. n.	0008c25	心所	对译	0168c18	心法	
-U39-238	S0713	dharmaś	dharma	n.	0008c25	法	对译	0168c18	法	
-U39-239	S0713	cittaniśrita	citta-niśrita	cpd. adj.	0008c25	依止心	对译	0168c19	依心	玄奘倒序
-U39-240	S0713	niśrita	niśrita	ptc.	0008c25	依止	对译	0168c19	依	
-U39-241	S0713	cittānvayāc	citta-anvaya	cpd. abl.			省译			cittānvaya（随心转）未译，玄奘只作"依止心"
-U39-242	S0713	sarāgacittādi	sa-rāga-citta-ādi	cpd.	0008c25	有貪心等	对译	0168c20	心與欲相應	
-U39-243	S0713	sarāga	sa-rāga	adj.	0008c25	有貪	对译	0168c20	與欲相應	
-U39-244	S0713	vacanācca	vacana	n. abl.	0008c25	說	对译	0168c20	說	
+U39-237	S0713	caitasika	caitasika	adj. n. sg. nom.	0008c25	心所	对译	0168c18	心法	
+U39-238	S0713	dharmaś	dharma	n. sg. nom.	0008c25	法	对译	0168c18	法	
+U39-239	S0713	cittaniśrita	citta-niśrita	cpd. adj. sg. nom.	0008c25	依止心	对译	0168c19	依心	玄奘倒序
+U39-240	S0713	niśrita	niśrita	ptc. sg. nom.	0008c25	依止	对译	0168c19	依	
+U39-241	S0713	cittānvayāc	citta-anvaya	cpd. sg. abl.			省译			cittānvaya（随心转）未译，玄奘只作"依止心"
+U39-242	S0713	sarāgacittādi	sa-rāga-citta-ādi	cpd. 成分	0008c25	有貪心等	对译	0168c20	心與欲相應	
+U39-243	S0713	sarāga	sa-rāga	adj. 成分	0008c25	有貪	对译	0168c20	與欲相應	
+U39-244	S0713	vacanācca	vacana	n. sg. abl.	0008c25	說	对译	0168c20	說	
 U39-245	S0713	vacanācca	ca	ind.	0008c25	又亦	语法			
 U39-246	S0714	tasmāc	tasmāt	ind.	0008c25	由此	语法	0168c20	是故	GRETIL 本作 tasmācyathoktaṃ，当读 tasmād yathoktaṃ
-U39-247	S0714	yathoktaṃ	yathā-ukta	cpd. adj.	0008c26	如…所說	意译	0168c20	如前說	"前"为补出
+U39-247	S0714	yathoktaṃ	yathā-ukta	cpd. adj. sg. nom.	0008c26	如…所說	意译	0168c20	如前說	"前"为补出
 U39-247+1	S0714				0008c26	前	增译			合并时从 U39-247（如前所說）拆出
-U39-248	S0714	dhātūnaṃ	dhātu	n. gen. pl.	0008c26	界	对译	0168c20	界	GRETIL 本作 dhātūnaṃ，当读 dhātūnāṃ
-U39-250	S0714	bhūtabhautikatvam	bhūta-bhautika-tva	cpd.	0008c26	大種所造	对译	0168c21	四大及四大所造	-tva 未译
-U39-251	S0714	bhūta	bhūta	n.	0008c26	大種	对译	0168c21	四大	
-U39-252	S0714	bhautika	bhautika	adj.	0008c26	所造	对译	0168c21	所造	
+U39-248	S0714	dhātūnaṃ	dhātu	n. pl. gen.	0008c26	界	对译	0168c20	界	GRETIL 本作 dhātūnaṃ，当读 dhātūnāṃ
+U39-250	S0714	bhūtabhautikatvam	bhūta-bhautika-tva	cpd. sg. nom.	0008c26	大種所造	对译	0168c21	四大及四大所造	-tva 未译
+U39-251	S0714	bhūta	bhūta	n. 成分	0008c26	大種	对译	0168c21	四大	
+U39-252	S0714	bhautika	bhautika	adj. 成分	0008c26	所造	对译	0168c21	所造	
 U39-253	S0714				0008c26	差別義成	增译	0168c21	是義得成	梵文无谓语，玄奘、真谛都补出
 U39-254	S0715				0008c26	如是已說大種性等	增译			玄奘过渡语
-U39-255	S0715	saṃcitāḥ katy	saṃcita	ptc. adj.	0008b28	積集	意译	0168c21	微聚成	玄奘把此问句提前到 0008b28（U38 末）；"可"为补出
+U39-255	S0715	saṃcitāḥ katy	saṃcita	ptc. adj. pl. nom.	0008b28	積集	意译	0168c21	微聚成	玄奘把此问句提前到 0008b28（U38 末）；"可"为补出
 U39-255+1	S0715				0008b28	可	增译			合并时从 U39-255（可積集）拆出
-U39-256	S0715	asaṃcitāḥ	a-saṃcita	ptc. adj.	0008b29	非積集	对译	0168c22	非微聚成	同上
-U39-257	S0716	saṃcitā	saṃcita	ptc. adj.	0008c02	可積集	意译	0168c22	微聚	本颂
-U39-258	S0716	daśa	daśan	num.	0008c02	十	对译	0168c22	十	
-U39-259	S0716	rūpiṇaḥ	rūpin	adj.	0008c02	色	对译	0168c22	有色	
+U39-256	S0715	asaṃcitāḥ	a-saṃcita	ptc. adj. pl. nom.	0008b29	非積集	对译	0168c22	非微聚成	同上
+U39-257	S0716	saṃcitā	saṃcita	ptc. adj. pl. nom.	0008c02	可積集	意译	0168c22	微聚	本颂
+U39-258	S0716	daśa	daśan	num. pl. nom.	0008c02	十	对译	0168c22	十	
+U39-259	S0716	rūpiṇaḥ	rūpin	adj. pl. nom.	0008c02	色	对译	0168c22	有色	
 U39-260	S0717				0008c27	十八界中	增译			
-U39-261	S0717	pañcendriyadhātavaḥ	pañca-indriya-dhātu	cpd. pl.	0008c27	五根	意译	0168c22	五根界	dhātu 未译
-U39-262	S0717	pañce	pañcan	num.	0008c27	五	对译	0168c22	五	
-U39-263	S0717	ndriya	indriya	n.	0008c27	根	对译	0168c23	根	
-U39-264	S0717	pañca viṣayāḥ	pañcan	num.	0008c27	五	对译	0168c23	五	
-U39-265	S0717	viṣayāḥ	viṣaya	n. pl.	0008c27	境	对译	0168c23	塵	
+U39-261	S0717	pañcendriyadhātavaḥ	pañca-indriya-dhātu	cpd. pl. nom.	0008c27	五根	意译	0168c22	五根界	dhātu 未译
+U39-262	S0717	pañce	pañcan	num. 成分	0008c27	五	对译	0168c22	五	
+U39-263	S0717	ndriya	indriya	n. 成分	0008c27	根	对译	0168c23	根	
+U39-264	S0717	pañca viṣayāḥ	pañcan	num. pl. nom.	0008c27	五	对译	0168c23	五	
+U39-265	S0717	viṣayāḥ	viṣaya	n. pl. nom.	0008c27	境	对译	0168c23	塵	
 U39-266	S0717				0008c27	十有色界	增译			补出总名
 U39-267	S0717				0008c28	是	增译			
-U39-268	S0717	saṃcitāḥ	saṃcita	ptc. adj.	0008c28	可積集	意译	0168c23	微聚所成	
-U39-269	S0718	paramāṇusaṃghātatvāt	paramāṇu-saṃghāta-tva	cpd. abl.	0008c28	極微聚	对译	0168c23	隣虛眾所成	-tva 未译；第五格译"故"
-U39-270	S0718	paramāṇu	paramāṇu	n.	0008c28	極微	对译	0168c23	隣虛	
-U39-271	S0718	saṃghātatvāt	saṃghāta	n.	0008c28	聚	对译	0168c23	眾	
-U39-272	S0718	siddhaṃ	siddha	ptc.	0008c28	義准	意译			iti siddhaṃ bhavati（由此可知）译"義准"，玄奘移至句首
+U39-268	S0717	saṃcitāḥ	saṃcita	ptc. adj. pl. nom.	0008c28	可積集	意译	0168c23	微聚所成	
+U39-269	S0718	paramāṇusaṃghātatvāt	paramāṇu-saṃghāta-tva	cpd. sg. abl.	0008c28	極微聚	对译	0168c23	隣虛眾所成	-tva 未译；第五格译"故"
+U39-270	S0718	paramāṇu	paramāṇu	n. 成分	0008c28	極微	对译	0168c23	隣虛	
+U39-271	S0718	saṃghātatvāt	saṃghāta	n. 成分	0008c28	聚	对译	0168c23	眾	
+U39-272	S0718	siddhaṃ	siddha	ptc. sg. nom.	0008c28	義准	意译			iti siddhaṃ bhavati（由此可知）译"義准"，玄奘移至句首
 U39-273	S0718	bhavati	bhū	v. pres. 3sg.			省译			
-U39-274	S0718	śeṣā	śeṣa	adj.	0008c28	餘	对译			
+U39-274	S0718	śeṣā	śeṣa	adj. pl. nom.	0008c28	餘	对译			
 U39-275	S0718				0008c28	八	增译			
-U39-276	S0718	saṃcitā iti	saṃcita	ptc. adj.	0008c28	可積集	意译			
+U39-276	S0718	saṃcitā iti	saṃcita	ptc. adj. pl. nom.	0008c28	可積集	意译			
 U39-277	S0718				0008c29	非極微故	增译			玄奘补出理由
 U39-278	S0719				0008c29	如是已說可積集等	增译			玄奘过渡语
-U39-279	S0719	aṣṭādaśānaṃ	aṣṭādaśan	num. gen.	0008c29	十八	对译	0169a07	十八	GRETIL 本作 aṣṭādaśānaṃ，当读 aṣṭādaśānāṃ
-U39-280	S0719	dhātūnāṃ	dhātu	n. gen. pl.	0009a01	界	对译	0169a07	界	
-U39-282	S0719	kaśchīnatti	kim	pron. nom.	0009a01	幾	意译	0169a07	何法	kaḥ（何者）译"幾"（几界）
-U39-283	S0719	kaśiciādyate	kim	pron. nom.	0009a01	幾	意译	0169a07	何法	GRETIL 本作 kaśiciādyate，当读 kaś chidyate
+U39-279	S0719	aṣṭādaśānaṃ	aṣṭādaśan	num. pl. gen.	0008c29	十八	对译	0169a07	十八	GRETIL 本作 aṣṭādaśānaṃ，当读 aṣṭādaśānāṃ
+U39-280	S0719	dhātūnāṃ	dhātu	n. pl. gen.	0009a01	界	对译	0169a07	界	
+U39-282	S0719	kaśchīnatti	kim	pron. sg. nom.	0009a01	幾	意译	0169a07	何法	kaḥ（何者）译"幾"（几界）
+U39-283	S0719	kaśiciādyate	kim	pron. sg. nom.	0009a01	幾	意译	0169a07	何法	GRETIL 本作 kaśiciādyate，当读 kaś chidyate
 U39-284	S0719	chīnatti	chid	v. pres. 3sg.	0009a01	斫	对译	0169a07	斫	GRETIL 本作 chīnatti，当读 chinatti
 U39-285	S0719	chīnatti	act.	gram. act. 3sg. (-ti)	0009a01	能	语法	0169a07	能	主动态以"能"表能作者
-U39-286	S0719	kaśiciādyate	chid	v. pass. 3sg.	0009a01	斫	对译	0169a07	斫	GRETIL 本作 kaśiciādyate，当读 kaś chidyate
+U39-286	S0719	kaśiciādyate	chid	v. pres. pass. 3sg.	0009a01	斫	对译	0169a07	斫	GRETIL 本作 kaśiciādyate，当读 kaś chidyate
 U39-288	S0719	dahati	dah	v. pres. 3sg.	0009a01	燒	对译	0169a07	燒	
 U39-289	S0719	dahati	act.	gram. act. 3sg. (-ti)	0009a01	能	语法	0169a07	能	
-U39-290	S0719	dahyate	dah	v. pass. 3sg.	0009a01	燒	对译	0169a08	燒	
+U39-290	S0719	dahyate	dah	v. pres. pass. 3sg.	0009a01	燒	对译	0169a08	燒	
 U39-291	S0719	tulayati	tul	v. pres. 3sg.	0009a01	稱	对译	0169a08	稱	
-U39-292	S0719	tulyate	tul	v. pass. 3sg.	0009a02	稱	对译	0169a08	稱	
+U39-292	S0719	tulyate	tul	v. pres. pass. 3sg.	0009a02	稱	对译	0169a08	稱	

@@ -1,8 +1,8 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
-U45-020	S0860	ete	etad	pron.	0010b19	此	语法	0170b13	此	
-U45-038	S0862	śeṣāḥ	pl.	gram. nom. pl. (-āḥ)	0010b21	諸	语法			复数以"諸"表出
+U45-020	S0860	ete	etad	pron. pl. nom.	0010b19	此	语法	0170b13	此	
+U45-038	S0862	śeṣāḥ	pl.	gram. pl. nom. (-āḥ)	0010b21	諸	语法			复数以"諸"表出
 U45-050	S0864	pṛthagjanatvam	-tva (abstract)	gram. suffix	0010b22	性	语法	0170b16	性	抽象后缀 -tva 译"性"
 U45-078	S0869	pṛthagjanatvam	-tva (abstract)	gram. suffix	0010b25	性	语法	0170b20	性	
 U45-092	S0871	tasmānna	tasmāt	ind.			省译	0170b22	是故	
 U45-105	S0872	vipratipatter	abl.	gram. abl. (-eḥ)	0010c01	故	语法	0170b23	故	
-U45-126	S0876	dhātūnāṃ	gen.	gram. gen. pl. (-ūnām)	0010c02	中	语法	0170b25	中	表部分的第六格译"…中"
+U45-126	S0876	dhātūnāṃ	gen.	gram. pl. gen. (-ūnām)	0010c02	中	语法	0170b25	中	表部分的第六格译"…中"

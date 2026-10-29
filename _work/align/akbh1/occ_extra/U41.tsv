@@ -18,36 +18,36 @@ U41-086	S0745	veditavyam	gdv.	gram. gdv. (-tavya)	0009a29	應	语法	0169a28	應
 U41-095	S0746	upacitā	ppp.	gram. ppp. (-ta)	0009b01	所	语法	0169a29	所	"勝緣所益"
 U41-098	S0747	brahṃacaryeṇa ce	ca	ind.	0009b02	亦	语法			ca 表"亦"
 U41-099	S0747	cetyeke	iti	ind.	0009b02	說	语法	0169a29	說	ity eke 译"有說"
-U41-105	S0747	tena	tad	pron. instr.	0009b02	此	语法	0169b01	梵行	真谛还原为"梵行"
+U41-105	S0747	tena	tad	pron. sg. instr.	0009b02	此	语法	0169b01	梵行	真谛还原为"梵行"
 U41-106	S0747	syān	as	v. opt. 3sg.			省译			
 U41-107	S0747	nopacayaḥ	na	ind.	0009b03	非	语法	0169b02	無	
 U41-122	S0749	naiḥṣyandikaścā	ca	ind.	0009b04	及	对译			
 U41-123	S0749	āsti	as	v. pres. 3sg.	0009b04	有	对译			
 U41-126	S0751	na	na	ind.	0009a19	無	语法	0169b04	非	颂中 na 译"無"
-U41-128	S0752	kiṃ kāraṇam	kiṃ kāraṇam	pron. + n.	0009b05	所以者何	语法	0169b04	云何	
+U41-128	S0752	kiṃ kāraṇam	kiṃ kāraṇam	pron. + n. sg. nom.	0009b05	所以者何	语法	0169b04	云何	
 U41-132	S0752	pravṛtteḥ	abl.	gram. abl. (-eḥ)	0009b05	故	语法	0169b05	故	第五格表原因
 U41-133	S0753	yattarhi	tarhi	ind.	0009b05	若爾	语法	0169b05	若爾	
-U41-135	S0753	yattarhi	yad	pron.			省译	0169b05	云何	
+U41-135	S0753	yattarhi	yad	pron. sg. nom.			省译	0169b05	云何	
 U41-155	S0754	tyeke	iti	ind.	0009b07	說	语法	0169b07	說	ity eke 译"有說"
 U41-158	S0755	karmabhyo hi	hi	ind.	0009b08	謂	语法			解释性的 hi 译"謂"
-U41-164	S0755	bhūtāni	pl.	gram. nom. pl. (-āni)	0009b08	諸	语法			复数以"諸"表出
-U41-166	S0755	bhūtebhyaḥ	abl.	gram. abl. pl. (-bhyaḥ)	0009b08	從	语法	0169b07	從	
+U41-164	S0755	bhūtāni	pl.	gram. pl. nom. (-āni)	0009b08	諸	语法			复数以"諸"表出
+U41-166	S0755	bhūtebhyaḥ	abl.	gram. pl. abl. (-bhyaḥ)	0009b08	從	语法	0169b07	從	
 U41-174	S0756	karmabhyo hi	hi	ind.	0009b10	謂	语法			
-U41-182	S0756	tebhyo	tad	pron. abl. pl.	0009b11	此	语法	0169b09	從增長四大	"此復傳生"
+U41-182	S0756	tebhyo	tad	pron. pl. abl.	0009b11	此	语法	0169b09	從增長四大	"此復傳生"
 U41-185	S0757	evam tarhi	evaṃ tarhi	ind.	0009b12	若爾	语法	0169b10	若爾	
 U41-187	S0757	hikyapi	api	ind.			省译			
 U41-193	S0757	tvānna	na	ind.	0009b12	非	语法	0169b11	不	
 U41-196	S0758	yadi	yadi	ind.	0009b13	若	语法	0169b11	若	
 U41-199	S0758	śabdavad	-vat	gram. suffix	0009b13	如	语法	0169b11	如	
-U41-210	S0760	katame	katama	pron.			省译	0169b13	何者	玄奘不设问，改作标举"八無礙者"
-U41-231	S0761	apratighānāṃ	pl.	gram. gen. pl. (-ānām)	0009b15	諸	语法			复数以"諸"表出
-U41-248	S0764	te	tad	pron.			省译			
+U41-210	S0760	katame	katama	pron. pl. nom.			省译	0169b13	何者	玄奘不设问，改作标举"八無礙者"
+U41-231	S0761	apratighānāṃ	pl.	gram. pl. gen. (-ānām)	0009b15	諸	语法			复数以"諸"表出
+U41-248	S0764	te	tad	pron. pl. nom.			省译			
 U41-259	S0766	hi	hi	ind.	0009b18	以	语法			"以堅實故"
 U41-264	S0766	ato	atas	ind.	0009b19	故	语法	0169b19	故	
 U41-276	S0768	pāṭhakrameṇa	instr.	gram. instr. (-ena)	0009b20	故	语法	0169b20	由…故	第三格表原因
 U41-290	S0769	ataḥ	atas	ind.	0009b21	故	语法	0169b22	故	
 U41-323	S0774	'pi	api	ind.	0009b25	亦	语法			
-U41-325	S0775	yo	yad	pron. nom.	0009b26	若	语法	0169b25	若人	
+U41-325	S0775	yo	yad	pron. sg. nom.	0009b26	若	语法	0169b25	若人	
 U41-326	S0775	yo vā	vā	ind.			省译			
 U41-330	S0775	'pi	api	ind.	0009b26	亦	语法			
 U41-331	S0775	āha	ah	v. perf. 3sg.	0009b27	頌曰	语法	0169b26	偈曰	āha 引出本颂

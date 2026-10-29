@@ -9,12 +9,17 @@ Usage: python3 -I akbh1_normalize.py AKBH1_DIR [--dry]
  2. comp. → compar.
  3. 实词词目：否定前缀加连字符（a-bhāva、a-jñāna），复合词成分一律用词干（cakṣus-、manas-、catur-、adhas-），
     合写的 manovijñāna、cakṣurvijñāna 拆为 manas-vijñāna、cakṣus-vijñāna；分词、形容词不拆前缀（saṃprayukta）。
+    单用的基数词用 -an 词干（pañca → pañcan）；复合词里仍作 pañca-、daśa-、ṣaṣ-。
+ 4. 形态标注排成规定次序（morph.canon）：词类、性、数、格；动词为时态/语气、pass.、caus.、人称数。
 """
 import csv
 import glob
 import os
 import re
 import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import morph  # noqa: E402
 
 CASE = {'abl': 'abl.', 'instr': 'instr.', 'gen': 'gen.', 'loc': 'loc.', 'dat': 'dat.', 'acc': 'acc.', 'nom': 'nom.'}
 FIXED = {  # 原 lemma（括号内标签）→ 范畴
@@ -76,6 +81,10 @@ def lex_lemma(l, pos):
         l = 'an-utpatti-' + l[len('anutpatti-'):]
     if l == 'ā-khyā' and pos.startswith('n'):
         l = 'ākhyā'
+    if l == 'pañca':
+        return 'pañcan'
+    if l.startswith('ṣaṭ-'):
+        l = 'ṣaṣ-' + l[len('ṣaṭ-'):]
     parts = l.split('-')
     # 否定前缀：apratisaṃkhyā-nirodha、anutpatti-dharman 等复合词的首成分
     if parts[0] in LEX:
@@ -93,7 +102,7 @@ def lex_lemma(l, pos):
 
 
 def main(d, dry):
-    stats = {'gram': 0, 'comp': 0, 'lex': 0}
+    stats = {'gram': 0, 'comp': 0, 'lex': 0, 'order': 0}
     for f in sorted(glob.glob(os.path.join(d, 'occ', 'U*.tsv')) + glob.glob(os.path.join(d, 'occ_extra', 'U*.tsv'))):
         hdr = open(f, encoding='utf-8').readline().rstrip('\n').split('\t')
         rows = list(csv.DictReader(open(f, encoding='utf-8'), delimiter='\t', quoting=csv.QUOTE_NONE))
@@ -109,12 +118,15 @@ def main(d, dry):
             # 放在并条之后：并条会用原标签重写 pos
             if re.search(r'\bcomp\.', r['pos']):
                 r['pos'] = re.sub(r'\bcomp\.', 'compar.', r['pos']); stats['comp'] += 1
+            c = morph.canon(r['pos'])
+            if c != r['pos']:
+                r['pos'] = c; stats['order'] += 1
         if not dry:
             with open(f, 'w', encoding='utf-8') as fo:
                 fo.write('\t'.join(hdr) + '\n')
                 for r in rows:
                     fo.write('\t'.join(r[h] for h in hdr) + '\n')
-    print(('（试算）' if dry else '') + '语法形式并条 %(gram)d，comp.→compar. %(comp)d，实词词目统一 %(lex)d' % stats)
+    print(('（试算）' if dry else '') + '语法形式并条 %(gram)d，comp.→compar. %(comp)d，实词词目统一 %(lex)d，形态次序 %(order)d' % stats)
 
 
 if __name__ == '__main__':
