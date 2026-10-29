@@ -44,7 +44,7 @@ U24-035	S0415	vaśād	vaśa	n. m. sg. abl.	0005b13	力	意译
 U24-036	S0415	abhiṣvajante	abhi-svañj	v. pres. 3pl.	0005b13	貪著	对译	0165c18	執著	玄奘在两句中都用"貪著"
 U24-038	S0415	kāmān	kāma	n. m. pl. acc.	0005b14	欲	对译	0165c18	欲塵	
 U24-039	S0415	viparītasaṃjñāvaśāc	viparīta-saṃjñā-vaśa	cpd. m. sg. abl.	0005b14	倒想力	对译	0165c18	隨顛倒想	
-U24-040	S0415	viparīta	viparīta	ptc. adj. 成分	0005b14	倒	对译	0165c18	顛倒	
+U24-040	S0415	viparīta	viparīta	ptc. adj. 成分 (√vi-pari-i)	0005b14	倒	对译	0165c18	顛倒	
 U24-041	S0415	saṃjñā	saṃjñā	n. 成分	0005b14	想	对译	0165c18	想	
 U24-042	S0415	vaśāc	vaśa	n. m. sg. abl.	0005b14	力	意译	0165c18	隨	
 U24-044	S0415	dṛṣṭīr	dṛṣṭi	n. f. pl. acc.	0005b14	見	对译	0165c19	見	
@@ -56,12 +56,12 @@ U24-080	S0416	pradhāna	pradhāna	adj. 成分	0005b15	最勝	对译	0165c19	勝	
 U24-081	S0416	hetū	hetu	n. m. du. nom.	0005b15	因	对译	0165c19	因	补成分记录
 U24-049	S0416	gṛddho hi	hi	ind.	0005b15	由…故	语法			
 U24-050	S0416	vedanāsvādagṛddho	vedanā-āsvāda-gṛddha	cpd. adj. m. sg. nom.	0005b15	耽著受	意译	0165c19	貪著受	āsvāda 未译
-U24-051	S0416	gṛddho	gṛddha	ptc. m. sg. nom. (gṛdh)	0005b15	耽著	对译	0165c19	貪著	
+U24-051	S0416	gṛddho	gṛddha	ptc. m. sg. nom. (√gṛdh)	0005b15	耽著	对译	0165c19	貪著	
 U24-052	S0416	vedanā	vedanā	n. 成分	0005b15	受	对译	0165c20	受	
 U24-082	S0416	āsvāda	āsvāda	n. 成分			省译			补成分记录；āsvāda 未译
 U24-053	S0416	viṣaryastasaṃjñaḥ	viparyasta-saṃjña	cpd. adj. m. sg. nom. (bahuvrīhi)	0005b15	倒想	意译	0165c20	起倒想	"起"为增字；GRETIL 本作 viṣaryasta-
 U24-053+1	S0416				0005b15	起	增译			合并时从 U24-053（起倒想）拆出
-U24-054	S0416	viṣaryasta	viparyasta	ptc. adj. 成分	0005b15	倒	对译	0165c20	倒	
+U24-054	S0416	viṣaryasta	viparyasta	ptc. adj. 成分 (√vi-pari-as)	0005b15	倒	对译	0165c20	倒	
 U24-055	S0416	saṃjñaḥ	saṃjñā	n. m. sg. nom.	0005b15	想	对译	0165c20	想	
 U24-056	S0416	saṃsarati	sam-sṛ	v. pres. 3sg.	0005b15	生死輪迴	意译	0165c20	輪轉生死	
 U24-057	S0417				0005b16	由此二因	增译			总括上述两种原因
@@ -74,7 +74,7 @@ U24-062	S0417	kramakāraṇād	krama-kāraṇa	cpd. nt. sg. abl.	0005b16	次第�
 U24-085	S0417	krama	krama	n. 成分	0005b16	次第	对译	0165c21	次第	补成分记录
 U24-086	S0417	kāraṇād	kāraṇa	n. nt. sg. abl.	0005b16	因	对译	0165c21	因	补成分记录
 U24-063	S0417	tato 'pi	tatas	ind.			省译			
-U24-064	S0417	veditavyam	vid	gdv. nt. sg. nom.	0005b16	知	对译	0165c22	知	"應"表 gdv.
+U24-064	S0417	veditavyam	veditavya	gdv. nt. sg. nom. (√vid)	0005b16	知	对译	0165c22	知	"應"表 gdv.
 U24-065	S0417	pṛthakskandhīkaraṇaṃ	pṛthak-skandhī-karaṇa	cpd. nt. sg. nom.	0005b17	別立…為蘊	对译	0165c21	分…別立為陰	
 U24-087	S0417	pṛthak	pṛthak	ind.	0005b17	別	对译	0165c21	分…別	补成分记录
 U24-066	S0417	skandhīkaraṇaṃ	skandhī-karaṇa	n. nt. sg. nom.	0005b17	立…為蘊	意译	0165c21	立為陰	

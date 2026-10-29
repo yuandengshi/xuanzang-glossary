@@ -61,11 +61,11 @@ U37-062	S0666	manovijñānasaṃprayuktā	manas-vijñāna-saṃprayukta	cpd. adj
 U37-063	S0666	manovijñāna	manas-vijñāna	cpd. 成分	0008b07	意識	对译	0168b06	意識	
 U37-095	S0666	mano	manas	n. 成分	0008b07	意	对译	0168b06	意	补成分记录
 U37-096	S0666	vijñāna	vijñāna	n. 成分	0008b07	識	对译	0168b06	識	补成分记录
-U37-064	S0666	saṃprayuktā	saṃprayukta	ptc. f. sg. nom.	0008b07	相應	对译	0168b06	相應	
+U37-064	S0666	saṃprayuktā	saṃprayukta	ptc. f. sg. nom. (√saṃ-pra-yuj)	0008b07	相應	对译	0168b06	相應	
 U37-065	S0666	prajñā	prajñā	n. f. sg. nom.	0008b07	慧	对译	0168b06	智	"意識相應散慧"
 U37-066	S0666	mānasītyucyate	mānasa	adj. f. sg. nom.			省译	0168b06	心	玄奘未重译"名意地"，径作"意識相應散慧"
 U37-067	S0666	mānasītyucyate	vac	v. pres. pass. 3sg.			省译	0168b06	名	
-U37-068	S0666	asamāhitā	a-samāhita	ptc. adj. f. sg. nom.	0008b07	非定	对译	0168b07	非寂定	
+U37-068	S0666	asamāhitā	a-samāhita	ptc. adj. f. sg. nom. (√sam-ā-dhā)	0008b07	非定	对译	0168b07	非寂定	
 U37-069	S0666	vyagre	vyagra	adj. f. sg. nom.	0008b07	散	对译	0168b07	散	
 U37-070	S0666	vyagretyucyate	iti	ind.	0008b07	謂	语法	0168b07	名	ity ucyate 合以"謂"表出（散謂非定）
 U37-071	S0666	vyagretyucyate	vac	v. pres. pass. 3sg.	0008b07	謂	合译			与 iti 合为"謂"
@@ -76,9 +76,9 @@ U37-075	S0667				0008b07	名為	增译	0168b07	即是	判断句补出系词
 U37-076	S0668	mānasyeva	mānasa	adj. f. sg. nom.	0008b08	意識相應	意译	0168b08	與意識相應	mānasa（属意的）此译"意識相應"
 U37-077	S0668	sarvā	sarva	adj. f. sg. nom.	0008b08	諸	对译	0168b07	一切	
 U37-078	S0668	smṛtiḥ	smṛti	n. f. sg. nom.	0008b08	念	对译	0168b08	憶念	
-U37-079	S0668	samāhitā cā	samāhita	ptc. adj. f. sg. nom.	0008b08	定	对译	0168b08	定	
+U37-079	S0668	samāhitā cā	samāhita	ptc. adj. f. sg. nom. (√sam-ā-dhā)	0008b08	定	对译	0168b08	定	
 U37-080	S0668	samāhitā cāsamāhitā cā	ca … ca	ind.	0008b08	若…若	语法	0168b08	若…若	
-U37-081	S0668	cāsamāhitā	a-samāhita	ptc. adj. f. sg. nom.	0008b08	散	意译	0168b08	散	
+U37-081	S0668	cāsamāhitā	a-samāhita	ptc. adj. f. sg. nom. (√sam-ā-dhā)	0008b08	散	意译	0168b08	散	
 U37-082	S0668	ānusmaraṇavikalpaḥ	anusmaraṇa-vikalpa	cpd. m. sg. nom.	0008b08	隨念分別	对译	0168b08	憶念分別	
 U37-083	S0668	ānusmaraṇa	anusmaraṇa	n. 成分	0008b08	隨念	对译	0168b08	憶念	
 U37-084	S0668	vikalpaḥ	vikalpa	n. m. sg. nom.	0008b08	分別	对译	0168b08	分別	

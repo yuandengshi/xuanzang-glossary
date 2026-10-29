@@ -1,7 +1,7 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
 U45-001	S0857	daśa	daśan	num. pl. nom.	0010b15	十	对译	0170b10	十	
 U45-002	S0857	bhāvanayā	bhāvanā	n. f. sg. instr.	0010b15	修	对译	0170b11	修道	
-U45-003	S0857	heyāḥ	heya	gdv. m. pl. nom.	0010b15	斷	对译	0170b11	滅	颂中"所斷"略作"斷"
+U45-003	S0857	heyāḥ	heya	gdv. m. pl. nom. (√hā)	0010b15	斷	对译	0170b11	滅	颂中"所斷"略作"斷"
 U45-004	S0857	pañca	pañcan	num. pl. nom.	0010b15	五	对译	0170b11	五	
 U45-005	S0857				0010b15	唯	增译			颂中补"唯"
 U45-006	S0857				0010b17	十五界者	增译			引颂文
@@ -51,20 +51,20 @@ U45-144	S0861	praptaya	prāpti	n. f. pl. nom.	0010b20	得	对译	0170b14	至得	
 U45-035	S0861	sānucarā	sa-anucara	adj. m. pl. nom.	0010b20	隨行	对译	0170b14	伴類	
 U45-036	S0861	daṛśanaheyāḥ	darśana-heya	cpd. gdv. m. pl. nom.	0010b20	見所斷	对译	0170b14	見諦滅	GRETIL 作 daṛśana-；"皆"为增字
 U45-145	S0861	daṛśana	darśana	n. 成分	0010b20	見	对译	0170b14	見諦	补成分记录；GRETIL 作 daṛśana-
-U45-146	S0861	heyāḥ	heya	gdv. m. pl. nom.	0010b20	所斷	对译	0170b14	滅	补成分记录
+U45-146	S0861	heyāḥ	heya	gdv. m. pl. nom. (√hā)	0010b20	所斷	对译	0170b14	滅	补成分记录
 U45-037	S0862	śeṣāḥ	śeṣa	adj. m. pl. nom.	0010b21	餘	对译	0170b15	所餘	
 U45-039	S0862	sāsravā	sa-āsrava	adj. m. pl. nom.	0010b21	有漏	对译	0170b15	有流	
 U45-040	S0862	bhāvanāheyāḥ	bhāvanā-heya	cpd. gdv. m. pl. nom.	0010b21	修所斷	对译	0170b15	修道滅	"皆"为增字
 U45-147	S0862	bhāvanā	bhāvanā	n. 成分	0010b21	修	对译	0170b15	修道	补成分记录
-U45-148	S0862	heyāḥ	heya	gdv. m. pl. nom.	0010b21	所斷	对译	0170b15	滅	补成分记录
+U45-148	S0862	heyāḥ	heya	gdv. m. pl. nom. (√hā)	0010b21	所斷	对译	0170b15	滅	补成分记录
 U45-041	S0863				0010b21	一切	增译			
 U45-042	S0863	anāsravā	an-āsrava	adj. m. pl. nom.	0010b21	無漏	对译	0170b15	無流	
-U45-043	S0863	aheyāḥ	a-heya	gdv. m. pl. nom.	0010b21	非所斷	对译	0170b15	非所滅	"皆"为增字
+U45-043	S0863	aheyāḥ	a-heya	gdv. m. pl. nom. (√hā)	0010b21	非所斷	对译	0170b15	非所滅	"皆"为增字
 U45-044	S0864	nanu	nanu	ind.	0010b22	豈不	语法	0170b16	為	反诘；真谛以句末"為"表疑问
 U45-045	S0864	ānyad	anya	pron. nt. sg. nom.	0010b22	更	意译	0170b15	別	anyad api（另有）译"更"
 U45-046	S0864	darśanaprahātavyam	darśana-prahātavya	cpd. gdv. nt. sg. nom.	0010b22	見所斷	对译	0170b16	見諦所滅	
 U45-149	S0864	darśana	darśana	n. 成分	0010b22	見	对译	0170b16	見諦	补成分记录
-U45-047	S0864	prahātavyam	prahātavya	gdv. nt. sg. nom.	0010b22	所斷	对译	0170b16	所滅	
+U45-047	S0864	prahātavyam	prahātavya	gdv. nt. sg. nom. (√pra-hā)	0010b22	所斷	对译	0170b16	所滅	
 U45-048	S0864				0010b22	法	增译	0170b15	法	"見所斷法"补"法"
 U45-049	S0864	pṛthagjanatvam	pṛthagjana-tva	n. nt. sg. nom.	0010b22	異生	对译	0170b16	凡夫	-tva 译"性"另记
 U45-051	S0864	āpāyikaṃ	āpāyika	adj. nt. sg. nom.	0010b22	招惡趣	意译	0170b16	能感惡道	āpāyika（属恶趣的）译"招惡趣"
@@ -82,12 +82,12 @@ U45-059	S0865				0010b23	雖爾	增译			补出让步
 U45-060	S0865	tad	tad	pron. nt. sg. nom.	0010b23	此法	意译	0170b17	此	代词补"法"
 U45-061	S0865	daṛśanaprahātavyam	darśana-prahātavya	cpd. gdv. nt. sg. nom.	0010b24	見所斷	对译	0170b17	見諦滅	GRETIL 作 daṛśana-
 U45-152	S0865	daṛśana	darśana	n. 成分	0010b24	見	对译	0170b17	見諦	补成分记录；GRETIL 作 daṛśana-
-U45-153	S0865	prahātavyam	prahātavya	gdv. nt. sg. nom.	0010b24	所斷	对译	0170b17	滅	补成分记录
+U45-153	S0865	prahātavyam	prahātavya	gdv. nt. sg. nom. (√pra-hā)	0010b24	所斷	对译	0170b17	滅	补成分记录
 U45-062	S0866	saṃkṣepaḥ	saṃkṣepa	n. m. sg. nom.	0010b24	略說	意译	0170b18	略說	
 U45-063	S0866				0010b24	彼相	增译	0170b18	見諦滅相	
 U45-064	S0867	dṛṣṭiheyam	dṛṣṭi-heya	cpd. gdv. nt. sg. nom.	0010b16	見斷	对译	0170b18	見滅	
 U45-065	S0867	dṛṣṭi	dṛṣṭi	n. 成分	0010b16	見	对译	0170b18	見	
-U45-066	S0867	heyam	heya	gdv. nt. sg. nom.	0010b16	斷	对译	0170b18	滅	
+U45-066	S0867	heyam	heya	gdv. nt. sg. nom. (√hā)	0010b16	斷	对译	0170b18	滅	
 U45-067	S0867	akliṣṭaṃ	a-kliṣṭa	adj. nt. sg. nom.	0010b16	不染	对译	0170b18	非污	
 U45-068	S0867	rūpaṃ	rūpa	n. nt. sg. nom.	0010b16	色	对译	0170b18	色	
 U45-069	S0867				0010b16	定	增译			
@@ -101,13 +101,13 @@ U45-072	S0868	kiñcid	kiṃcit	pron. nt. sg. nom.			省译
 U45-073	S0868	akliṣṭaṃ	a-kliṣṭa	adj. nt. sg. nom.	0010b24	不染	对译	0170b19	非染污	"法"为增字
 U45-074	S0868	darśanaprahātavyaṃ	darśana-prahātavya	cpd. gdv. nt. sg. nom.	0010b25	見斷	意译	0170b19	見諦所滅	略作"見斷"
 U45-158	S0868	darśana	darśana	n. 成分	0010b25	見	对译	0170b19	見諦	补成分记录
-U45-159	S0868	prahātavyaṃ	prahātavya	gdv. nt. sg. nom.	0010b25	斷	对译	0170b19	所滅	补成分记录；略作"斷"
+U45-159	S0868	prahātavyaṃ	prahātavya	gdv. nt. sg. nom. (√pra-hā)	0010b25	斷	对译	0170b19	所滅	补成分记录；略作"斷"
 U45-075	S0868	rūpam	rūpa	n. nt. sg. nom.	0010b24	色	对译	0170b20	色	
 U45-076	S0868				0010b25	定	增译			
 U45-077	S0869	pṛthagjanatvam	pṛthagjana-tva	n. nt. sg. nom.	0010b25	異生	对译	0170b20	凡夫	"其"为增字
 U45-079	S0869	akliṣṭavyākṛtaṃ	a-kliṣṭa-avyākṛta	cpd. adj. nt. sg. nom.	0010b25	不染污…無記	对译	0170b20	無記無染污	GRETIL 作 akliṣṭavyākṛtaṃ，当读 akliṣṭāvyākṛtaṃ；"是"为增字
 U45-080	S0869	akliṣṭa	a-kliṣṭa	adj. 成分	0010b25	不染污	对译	0170b20	無染污	
-U45-081	S0869	avyākṛtaṃ	a-vyākṛta	ptc. adj. nt. sg. nom.	0010b25	無記	对译	0170b20	無記	
+U45-081	S0869	avyākṛtaṃ	a-vyākṛta	ptc. adj. nt. sg. nom. (√vi-ā-kṛ)	0010b25	無記	对译	0170b20	無記	
 U45-082	S0869				0010b25	性攝	增译			
 U45-083	S0870	samucchinnakuśalamūlavītarāgāṇām	samucchinna-kuśalamūla-vītarāga	cpd. m. pl. gen. (dvandva)	0010b26	已離欲者斷善根者	对译	0170b20	斷善根凡夫及離欲人	玄奘倒序
 U45-084	S0870	samucchinnakuśalamūla	samucchinna-kuśala-mūla	cpd. 成分	0010b26	斷善根	对译	0170b20	斷善根	
@@ -130,7 +130,7 @@ U45-168	S0870	karma	karman	n. nt. sg. nom.	0010b29	業	对译	0170b21	業	补成
 U45-093	S0871				0010b29	此色…定	增译			补出主语"此色"与"定"
 U45-094	S0871	darśanaprahātavyam	darśana-prahātavya	cpd. gdv. nt. sg. nom.	0010c01	見斷	意译	0170b22	見諦滅	略作"見斷"
 U45-169	S0871	darśana	darśana	n. 成分	0010c01	見	对译	0170b22	見諦	补成分记录
-U45-170	S0871	prahātavyam	prahātavya	gdv. nt. sg. nom.	0010c01	斷	对译	0170b22	滅	补成分记录；略作"斷"
+U45-170	S0871	prahātavyam	prahātavya	gdv. nt. sg. nom. (√pra-hā)	0010c01	斷	对译	0170b22	滅	补成分记录；略作"斷"
 U45-095	S0872				0010b26	此異生性若見所斷	增译			补出假设
 U45-096	S0872	duḥkhe	duḥkha	n. nt. sg. loc.	0010b27	苦	对译	0170b23	苦	
 U45-097	S0872	dharmajñānakṣāntau	dharma-jñāna-kṣānti	cpd. f. sg. loc.	0010b27	法忍	意译	0170b23	法忍	法智忍略作"法忍"
@@ -167,7 +167,7 @@ U45-120	S0875	yattadapi	tad	pron. nt. sg. nom.	0010b29	前	意译	0170b25	此法
 U45-121	S0875	tadapi	api	ind.	0010b29	及	语法	0170b25	亦	tad api（彼亦）与"此色"合说为"前及此色"
 U45-122	S0875	darśnaprahātavyam	darśana-prahātavya	cpd. gdv. nt. sg. nom.	0010c01	見斷	合译	0170b25	見諦滅	GRETIL 作 darśna-；与 S0871 合为"定非見斷"
 U45-178	S0875	darśna	darśana	n. 成分	0010c01	見	合译	0170b25	見諦	补成分记录；GRETIL 作 darśna-；与 S0871 合为"見斷"
-U45-179	S0875	prahātavyam	prahātavya	gdv. nt. sg. nom.	0010c01	斷	合译	0170b25	滅	补成分记录；与 S0871 合为"見斷"
+U45-179	S0875	prahātavyam	prahātavya	gdv. nt. sg. nom. (√pra-hā)	0010c01	斷	合译	0170b25	滅	补成分记录；与 S0871 合为"見斷"
 U45-123	S0875				0010c01	如是已說見所斷等	增译			玄奘结上之语
 U45-124	S0876	aṣṭādaśānāṃ	aṣṭādaśan	num. pl. gen.	0010c02	十八	对译	0170b25	十八	
 U45-125	S0876	dhātūnāṃ	dhātu	n. m. pl. gen.	0010c02	界	对译	0170b25	界	

@@ -48,7 +48,7 @@ U04-027	S0042	'bhidharmopadeśena	abhidharma-upadeśa	cpd. m. sg. instr.	0001b23
 U04-079	S0042	'bhidharmo	abhidharma	n. 成分	0001b23	對法	对译			补成分记录
 U04-080	S0042	opadeśena	upadeśa	n. m. sg. instr.	0001b23	說	对译			补成分记录
 U04-028	S0042	śiṣyaḥ	śiṣya	n. m. sg. nom.	0001b23	弟子	对译	0162a23	弟子	
-U04-029	S0042	śakto	śakta	ptc. adj. m. sg. nom.	0001b24	能	对译	0162a24	能	
+U04-029	S0042	śakto	śakta	ptc. adj. m. sg. nom. (√śak)	0001b24	能	对译	0162a24	能	
 U04-030	S0042	dharmān	dharma	n. m. pl. acc.	0001b24	法	对译	0162a24	法	"諸"表复数（U04-030c），"相"为增字（U04-030d）
 U04-030c	S0042	dharmān	pl.	gram. pl. acc. (-ān)	0001b24	諸	语法			复数以"諸"表出
 U04-030d	S0042				0001b24	相	增译			
@@ -63,7 +63,7 @@ U04-036	S0043	kātyāyanīputra	kātyāyanīputra	n. 成分 (人名)	0001b25	迦
 U04-037	S0043	prabhṛtibhiḥ	prabhṛti	n. m. pl. instr.	0001b25	等	对译	0162a25	等	
 U04-038	S0043				0001b25	諸大聲聞	增译	0162a25	諸弟子	玄奘补出主语"諸大聲聞"；真谛作"諸弟子"
 U04-039	S0043	piṇḍīkṛtya	piṇḍī-kṛ	abs.	0001b26	結集	意译	0162a25	撰集	
-U04-040	S0043	sthapito	sthāpita	ptc. m. sg. nom. (caus. sthā)	0001b26	安置	对译	0162a25	安置	
+U04-040	S0043	sthapito	sthāpita	ptc. m. sg. nom. (caus. √sthā)	0001b26	安置	对译	0162a25	安置	
 U04-065	S0043	bhadanta dharmatrāto dānavargīyakaraṇavad	bhadanta-dharmatrāta-udāna-vargīya-karaṇa-vat	cpd. ind.	0001b26	大德法救所集無常品等鄔拕南頌	意译	0162a25	大德達磨多羅多撰集優陀那、伽他部類	补整词记录；GRETIL 分写，当连读为 bhadantadharmatrātodānavargīyakaraṇavat（dharmatrāto 是 dharmatrāta 与 udāna 的连声；EdUHK 亦作 bhadanta-dharmatrāta-udāna-）；-vat（猶如）另记
 U04-041	S0043	bhadanta dharmatrāto	bhadanta	n. 成分	0001b26	大德	对译	0162a25	大德	
 U04-042	S0043	dharmatrāto	dharmatrāta	n. 成分 (人名)	0001b26	法救	对译	0162a26	達磨多羅多	玄奘意译人名，真谛音译；dharmatrāto 是 dharmatrāta 与 udāna 的连声，为复合词成分（GRETIL 分写）

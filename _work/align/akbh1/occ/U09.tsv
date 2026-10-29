@@ -18,7 +18,7 @@ U09-014	S0131	rūpaśabda	rūpa	n. 成分	0002b13	色	对译	0163a08	色
 U09-015	S0131	śabda	śabda	n. 成分	0002b13	聲	对译	0163a08	聲	
 U09-016	S0131	gandha	gandha	n. 成分	0002b13	香	对译	0163a08	香	
 U09-017	S0131	rasa	rasa	n. 成分	0002b13	味	对译	0163a08	味	
-U09-018	S0131	spraṣṭavya	spraṣṭavya	gdv. n. 成分	0002b13	觸	对译	0163a08	觸	
+U09-018	S0131	spraṣṭavya	spraṣṭavya	gdv. n. 成分 (√spṛś)	0002b13	觸	对译	0163a08	觸	
 U09-019	S0131	vijñānānām	vijñāna	n. nt. pl. gen.	0002b14	識	对译	0163a08	識	
 U09-020	S0131				0002b14	彼識	增译			复述"彼識"
 U09-021	S0131	āśrayabhūtā	āśraya-bhūta	cpd. adj. m. pl. nom.	0002b14	所依	对译	0163a08	所依止	-bhūta 未译
@@ -36,7 +36,7 @@ U09-100	S0131	śrotra	śrotra	n. 成分			省译	0163a09	耳	补成分记录；�
 U09-101	S0131	ghrāṇa	ghrāṇa	n. 成分			省译	0163a09	鼻	补成分记录；玄奘略作"眼等五根"
 U09-102	S0131	jihvā	jihvā	n. 成分			省译	0163a09	舌	补成分记录；玄奘略作"眼等五根"
 U09-103	S0131	kāyā	kāya	n. m. pl. nom.			省译	0163a09	身	补成分记录；玄奘略作"眼等五根"
-U09-029	S0131	veditavyāḥ	vid	gdv. m. pl. nom.	0002b14	知	对译	0163a09	知	
+U09-029	S0131	veditavyāḥ	veditavya	gdv. m. pl. nom. (√vid)	0002b14	知	对译	0163a09	知	
 U09-030	S0131	veditavyāḥ	gdv.	gram. gdv. (-tavya)	0002b14	應	语法	0163a09	應	gerundive 表应当，译"應"
 U09-031	S0132	yathoktaṃ	yathā	ind.	0002b15	如	语法	0163a09	如	
 U09-032	S0132	yathoktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0002b15	說	对译	0163a09	言	
@@ -109,6 +109,6 @@ U09-117	S0137	pañce	pañcan	num. 成分	0002b21	五	对译	0163a14	五	补成�
 U09-118	S0137	endriyāṇi	indriya	n. nt. pl. nom.	0002b21	根	对译	0163a14	根	补成分记录
 U09-089	S0138	arthāḥ	artha	n. m. pl. nom.	0002b21	境	意译	0163a14	塵	
 U09-090	S0138	pañcā	pañcan	num. pl. nom.	0002b21	五	对译	0163a14	五	GRETIL 本作 pañcā
-U09-091	S0138	nirddeśyāḥ	nir-diś	gdv. m. pl. nom.	0002b21	說	对译	0163a14	說	
+U09-091	S0138	nirddeśyāḥ	nirdeśya	gdv. m. pl. nom. (√nir-diś)	0002b21	說	对译	0163a14	說	
 U09-092	S0138	nirddeśyāḥ	gdv.	gram. gdv. (-ya)	0002b21	次	语法	0163a14	次應	gerundive（当说）以"次"表出
 U09-093	S0138	tāvat	tāvat	ind.			省译			

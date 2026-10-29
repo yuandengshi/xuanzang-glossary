@@ -1,7 +1,7 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
 U06-001	S0093	te	tad	pron. m. pl. nom.			省译			te 未单独译出；"諸"记为复数词尾（下条）
 U06-003	S0093	punaḥ	punar	ind.	0002a08	又	语法	0162c07	又	
-U06-004	S0093	saṃskṛtā	saṃskṛta	ptc. adj. m. pl. nom.	0002a08	有為	对译	0162c07	有為	
+U06-004	S0093	saṃskṛtā	saṃskṛta	ptc. adj. m. pl. nom. (√saṃ-kṛ)	0002a08	有為	对译	0162c07	有為	
 U06-005	S0093	dhārmā	dharma	n. m. pl. nom.	0002a08	法	对译	0162c07	法	GRETIL 本作 dhārmā，当读 dharmāḥ
 U06-006	S0093				0002a08	謂	增译	0162c07	謂	以"謂"连接主语与所指
 U06-007	S0093	rūpādiskandhapañcakam	rūpa-ādi-skandha-pañcaka	cpd. nt. sg. nom.	0002a08	色等五蘊	对译	0162c07	色等五陰	
@@ -27,7 +27,7 @@ U06-160	S0094	skandhaś	skandha	n. m. sg. nom.	0002a10	蘊	对译	0162c08	陰	�
 U06-020	S0094	cetyete	iti	ind.	0002a10	如是	语法			ity ete 译"如是"（如是五法）
 U06-021	S0094	tyete	etad	pron. m. pl. nom.	0002a10	五法	意译	0162c08	此五陰	代词还原为所指（五蘊）
 U06-022	S0094				0002a11	具攝	增译	0162c08	攝	补出"具攝"（如是五法具攝有為）；真谛亦作"攝"
-U06-023	S0094	saṃskṛtā dharmāḥ	saṃskṛta	ptc. adj. m. pl. nom.	0002a11	有為	对译	0162c08	有為	
+U06-023	S0094	saṃskṛtā dharmāḥ	saṃskṛta	ptc. adj. m. pl. nom. (√saṃ-kṛ)	0002a11	有為	对译	0162c08	有為	
 U06-024	S0094	saṃskṛtā dharmāḥ	dharma	n. m. pl. nom.			省译			"有為"后不出"法"字
 U06-025	S0095	sametya	sam-i	abs.	0002a11	聚集	对译	0162c09	已至	
 U06-026	S0095	saṃbhūya	saṃ-bhū	abs.	0002a11	共	意译	0162c09	聚集	saṃbhūya（和合、共同）译"共"
@@ -35,7 +35,7 @@ U06-027	S0095	pratyayaiḥ	pratyaya	n. m. pl. instr.	0002a11	緣	对译	0162c09	
 U06-028	S0095	pratyayaiḥ	pl.	gram. pl. instr. (-aiḥ)	0002a11	眾	语法			复数以"眾"表出
 U06-029	S0095	kṛtāḥ	kṛta	ptc. m. pl. nom. (√kṛ)	0002a11	作	对译	0162c09	作	
 U06-030	S0095	kṛtāḥ	ppp.	gram. ppp. (-ta)	0002a11	所	语法	0162c09	所	过去被动分词以"所"表被动
-U06-032	S0095	iti saṃskṛtāḥ	saṃskṛta	ptc. adj. m. pl. nom.			省译	0162c09	有為	玄奘与上句"具攝有為"合并，不再出"有為"
+U06-032	S0095	iti saṃskṛtāḥ	saṃskṛta	ptc. adj. m. pl. nom. (√saṃ-kṛ)			省译	0162c09	有為	玄奘与上句"具攝有為"合并，不再出"有為"
 U06-035	S0095	astī	as	v. pres. 3sg.	0002a11	有	对译	0162c09	有	
 U06-036	S0095	kiñcid	kaścit	pron. nt. sg. nom.	0002a11	少法	意译	0162c10	法	kiñcid（任何一物）译"少法"
 U06-037	S0095	ekapratyayajanitaṃ	eka-pratyaya-janita	cpd. nt. sg. nom.	0002a12	一緣所生	对译	0162c10	一緣所生	
@@ -48,7 +48,7 @@ U06-161	S0096	taj	tad	pron. 成分	0002a12	彼	对译	0162c10	彼	补成分记�
 U06-045	S0096	jātīya	jātīya	adj. 成分	0002a12	類	对译	0162c10	種類	
 U06-046	S0096	tvād	-tva (abstract)	gram. suffix	0002a12	是	语法	0162c10	是	抽象后缀 -tva 以系词"是"表出
 U06-047	S0096	tvād	abl.	gram. abl. (-āt)	0002a12	故	语法	0162c10	故	第五格表原因
-U06-048	S0096	anāgateṣv	an-āgata	ptc. m. pl. loc.	0002a12	未來	对译	0162c10	未來	
+U06-048	S0096	anāgateṣv	an-āgata	ptc. m. pl. loc. (√ā-gam)	0002a12	未來	对译	0162c10	未來	
 U06-049	S0096	avirodho	a-virodha	n. m. sg. nom.	0002a12	無妨	对译	0162c11	無妨	
 U06-050	S0096	dugdhendhanavat	dugdha-indhana-vat	cpd. ind.	0002a12	乳…薪	对译	0162c11	獨陀	真谛只出 dugdha，音译"獨陀"；-vat 另记
 U06-051	S0096	dugdhe	dugdha	n. 成分	0002a12	乳	对译	0162c11	獨陀	真谛音译
@@ -64,7 +64,7 @@ U06-060	S0097	savastukāḥ	sa-vastuka	adj. m. pl. nom.	0002a09	有事	对译	01
 U06-061	S0097				0002a09	等	增译			颂末"等"字，概括其余异名（长行"如是等類"）
 U06-062	S0098	ta eva	tad	pron. m. pl. nom.	0002a13	此	语法	0162c12	是	
 U06-063	S0098	ta eva	eva	ind.	0002a13	亦	意译			ta eva 译"此…亦"
-U06-064	S0098	saṃskṛtā	saṃskṛta	ptc. adj. m. pl. nom.	0002a13	有為	对译	0162c12	有為	
+U06-064	S0098	saṃskṛtā	saṃskṛta	ptc. adj. m. pl. nom. (√saṃ-kṛ)	0002a13	有為	对译	0162c12	有為	
 U06-065	S0098				0002a13	法	增译	0162c12	法	补出"法"（此有為法）
 U06-066	S0098				0002a13	名	增译			名词谓语补"名"（亦名世路）
 U06-067	S0098	gatagacchadgamiṣyadbhāvād	gata-gacchat-gamiṣyat-bhāva	cpd. m. sg. abl.	0002a13	已行正行當行性	对译	0162c12	有已正當行	
@@ -90,7 +90,7 @@ U06-090	S0100	sārthakavastugrahaṇāt	sārthaka-vastu-grahaṇa	cpd. nt. sg. a
 U06-091	S0100	sārthaka	sa-arthaka	adj. 成分	0002a15	俱義	对译	0162c14	有義	
 U06-092	S0100	vastugrahaṇāt	vastu	n. 成分	0002a15	所依	合译			与 S0099 tasyā vastu 合为"此所依者"
 U06-093	S0100	grahaṇāt	grahaṇa	n. nt. sg. abl.			省译	0162c14	執	待核：玄奘或以下文"如是言依具攝一切"的"攝"意译 grahaṇa
-U06-095	S0100	saṃskṛntaṃ	saṃskṛta	ptc. adj. nt. sg. nom.	0002a15	有為	对译	0162c14	有為法	GRETIL 本作 saṃskṛntaṃ，当读 saṃskṛtam
+U06-095	S0100	saṃskṛntaṃ	saṃskṛta	ptc. adj. nt. sg. nom. (√saṃ-kṛ)	0002a15	有為	对译	0162c14	有為法	GRETIL 本作 saṃskṛntaṃ，当读 saṃskṛtam
 U06-096	S0100	kathāvastūcyate	kathā-vastu	cpd. nt. sg. nom.	0002a14	言依	对译	0162c15	言依	玄奘把"或名言依"提前，作此段标目
 U06-162	S0100	kathā	kathā	n. 成分	0002a14	言	对译	0162c15	言	补成分记录
 U06-163	S0100	vastū	vastu	n. nt. sg. nom.	0002a14	依	对译	0162c15	依	补成分记录；连声 vastu ucyate → vastūcyate
@@ -118,7 +118,7 @@ U06-115	S0103				0002a17	謂	增译			释词句补"謂"（離謂永離）
 U06-116	S0103				0002a17	即是	增译			
 U06-117	S0103	nirvāṇam	nirvāṇa	n. nt. sg. nom.	0002a18	涅槃	音译	0162c16	涅槃	
 U06-118	S0103	sarvasya	sarva	adj. nt. sg. gen.	0002a18	一切	对译	0162c16	一切	
-U06-119	S0103	saṃskṛtasya	saṃskṛta	ptc. adj. nt. sg. gen.	0002a18	有為	对译	0162c17	有為	
+U06-119	S0103	saṃskṛtasya	saṃskṛta	ptc. adj. nt. sg. gen. (√saṃ-kṛ)	0002a18	有為	对译	0162c17	有為	
 U06-120	S0104	tadeṣām	tad	pron. nt. sg. nom.	0002a18	彼離	意译			代词还原为所指（離）
 U06-121	S0104	eṣām	idam	pron. m. pl. gen.	0002a18	一切有為	合译			与 S0103 sarvasya saṃskṛtasya 合为"一切有為"
 U06-122	S0104	astī	as	v. pres. 3sg.	0002a18	有	对译	0162c17	有	
@@ -143,11 +143,11 @@ U06-141	S0107	ityete	etad	pron. m. pl. nom.	0002a20	等類	意译	0162c19	等	et
 U06-142	S0107				0002a20	是	增译	0162c19	是	系词
 U06-143	S0107	saṃskṛtadharmauaryāyāḥ	saṃskṛta-dharma-paryāya	cpd. m. pl. nom.	0002a20	有為法差別…名	对译	0162c19	有為別名	GRETIL 本作 -dharmauaryāyāḥ，当读 -dharmaparyāyāḥ
 U06-144	S0107	saṃskṛtadharma	saṃskṛta-dharma	cpd. 成分	0002a20	有為法	对译	0162c19	有為	
-U06-167	S0107	saṃskṛta	saṃskṛta	ptc. adj. 成分	0002a20	有為	对译	0162c19	有為	补成分记录
+U06-167	S0107	saṃskṛta	saṃskṛta	ptc. adj. 成分 (√saṃ-kṛ)	0002a20	有為	对译	0162c19	有為	补成分记录
 U06-168	S0107	dharma	dharma	n. 成分	0002a20	法	对译			补成分记录；真谛未译
 U06-145	S0107	uaryāyāḥ	paryāya	n. m. pl. nom.	0002a20	差別…名	意译	0162c19	別名	paryāya（异名）译"差別…名"
 U06-146	S0107	uaryāyāḥ	pl.	gram. pl. nom. (-āḥ)	0002a20	眾	语法			复数以"眾"表出
 U06-149	S0108				0002a20	所說	增译			
-U06-150	S0108	saṃskṛtā	saṃskṛta	ptc. adj. m. pl. nom.	0002a20	有為	对译	0162c20	有為	
+U06-150	S0108	saṃskṛtā	saṃskṛta	ptc. adj. m. pl. nom. (√saṃ-kṛ)	0002a20	有為	对译	0162c20	有為	
 U06-151	S0108	dharamāḥ	dharma	n. m. pl. nom.	0002a21	法	对译	0162c20	法	GRETIL 本作 dharamāḥ
 U06-152	S0108				0002a20	於…中	增译			以"於…中"引出下颂

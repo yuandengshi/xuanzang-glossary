@@ -1,7 +1,7 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
 U25-001	S0419	skandheṣva	skandha	n. m. pl. loc.	0005b19	蘊	对译	0165c23	陰	
 U25-002	S0419	noktam	ukta	ptc. nt. sg. nom. (√vac)	0005b19	攝	意译	0165c23	除	na uktam（不说［在蕴中］）玄奘作"不攝"，真谛作"除"
-U25-003	S0419	a saṃskṛtaṃ	a-saṃskṛta	ptc. adj. nt. sg. nom.	0005b19	無為	对译	0165c24	無為	GRETIL 本分写作 skandheṣva saṃskṛtaṃ，当读 skandheṣv asaṃskṛtaṃ
+U25-003	S0419	a saṃskṛtaṃ	a-saṃskṛta	ptc. adj. nt. sg. nom. (√saṃ-kṛ)	0005b19	無為	对译	0165c24	無為	GRETIL 本分写作 skandheṣva saṃskṛtaṃ，当读 skandheṣv asaṃskṛtaṃ
 U25-004	S0419	arthāyogāt	artha-a-yoga	cpd. m. sg. abl.	0005b19	義不相應	对译	0165c24	義不相應	第五格译"故"
 U25-005	S0419	arthā	artha	n. 成分	0005b19	義	对译	0165c24	義	
 U25-006	S0419	āyogāt	a-yoga	n. m. sg. abl.	0005b19	不相應	对译	0165c24	不相應	
@@ -36,12 +36,12 @@ U25-092	S0423	skandhā	skandha	n. 成分	0005b23	蘊	对译	0165c28	陰	补成�
 U25-093	S0423	ārtha	artha	n. m. sg. nom.			省译			补成分记录；artha 未译
 U25-029	S0423				0005b23	如前具	增译	0165c28	前已	
 U25-030	S0423	tyuktam	ukta	ptc. nt. sg. nom. (√vac)	0005b23	說	对译	0165c28	說	
-U25-031	S0424	āsaṃskṛtam	a-saṃskṛta	ptc. adj. nt. sg. nom.	0005b23	無為	对译	0165c28	無為	"法"为增字
+U25-031	S0424	āsaṃskṛtam	a-saṃskṛta	ptc. adj. nt. sg. nom. (√saṃ-kṛ)	0005b23	無為	对译	0165c28	無為	"法"为增字
 U25-032	S0424	rūpādivad	rūpa-ādi-vat	cpd. ind.	0005b23	如色等	对译	0165c29	如色等	
 U25-094	S0424	rūpā	rūpa	n. 成分	0005b23	色	对译	0165c29	色	补成分记录
 U25-095	S0424	ādi	ādi	n. 成分	0005b23	等	对译	0165c29	等	补成分记录
 U25-033	S0424	atītādibhedabhinnaṃ	atīta-ādi-bheda-bhinna	cpd. nt. sg. nom.	0005b23	有過去等品類差別	意译	0165c28	過去未來現在等異	
-U25-034	S0424	atītā	atīta	ptc. 成分	0005b24	過去	对译	0165c28	過去	
+U25-034	S0424	atītā	atīta	ptc. 成分 (√ati-i)	0005b24	過去	对译	0165c28	過去	
 U25-035	S0424	ādi	ādi	n. 成分	0005b24	等	对译	0165c28	等	
 U25-036	S0424	bheda	bheda	n. 成分	0005b24	品類差別	意译	0165c29	異	
 U25-096	S0424	bhinnaṃ	bhinna	ptc. nt. sg. nom. (√bhid)	0005b23	有	意译			补成分记录；bhinna（为…所区分）以"有"表出
@@ -51,7 +51,7 @@ U25-040	S0424	tatsarvam	sarva	adj. nt. sg. nom.			省译	0165c29	一切
 U25-041	S0424	aikadhyam	aikadhya	n. nt. sg. acc. (adv.)	0005b24	一聚	意译	0165c29	一處	
 U25-042	S0424	saṃkhyāṃ gacchet	saṃkhyāṃ gam	v. opt. 3sg. (idiom)	0005b24	名	意译	0165c29	立名	
 U25-043	S0424	āsaṃskṛtaskandha	a-saṃskṛta-skandha	cpd. m. sg. nom.	0005b24	無為蘊	对译	0165c29	無為陰	
-U25-097	S0424	āsaṃskṛta	a-saṃskṛta	ptc. adj. 成分	0005b24	無為	对译	0165c29	無為	补成分记录
+U25-097	S0424	āsaṃskṛta	a-saṃskṛta	ptc. adj. 成分 (√saṃ-kṛ)	0005b24	無為	对译	0165c29	無為	补成分记录
 U25-098	S0424	skandha	skandha	n. m. sg. nom.	0005b24	蘊	对译	0166a01	陰	补成分记录
 U25-044	S0425				0005b24	又	增译			
 U25-045	S0425	ūpādānaskandhavacanaṃ	upādāna-skandha-vacana	cpd. nt. sg. nom.	0005b25	言取蘊	对译	0166a01	說取陰	
@@ -73,7 +73,7 @@ U25-103	S0425	jñāpanā	jñāpana	n. 成分	0005b25	所顯	意译	0166a01	顯	�
 U25-055	S0425	skandhavacanaṃ	skandha-vacana	cpd. nt. sg. nom.	0005b25	蘊言	对译	0166a02	說陰	
 U25-104	S0425	skandha	skandha	n. 成分	0005b25	蘊	对译	0166a02	陰	补成分记录
 U25-105	S0425	vacanaṃ	vacana	n. nt. sg. nom.	0005b25	言	对译	0166a02	說	补成分记录
-U25-056	S0426	asaṃskṛtam	a-saṃskṛta	ptc. adj. nt. sg. nom.	0005b25	無為	对译	0166a02	無為	
+U25-056	S0426	asaṃskṛtam	a-saṃskṛta	ptc. adj. nt. sg. nom. (√saṃ-kṛ)	0005b25	無為	对译	0166a02	無為	
 U25-057	S0426	obhayathā	ubhayathā	ind.	0005b26	此二義	意译	0166a02	此二義	
 U25-058	S0426	"pyasaṃskṛtam	api	ind.	0005b26	都	语法			na … api（两方面都不），玄奘作"都無"
 U25-059	S0426	arthāyogān	artha-a-yoga	cpd. m. sg. abl.	0005b26	義不相應	对译	0166a02	不相應	第五格译"故"

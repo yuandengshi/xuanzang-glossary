@@ -90,7 +90,7 @@ U42-064	S0784	yaś	yad	pron. m. sg. nom.	0009c07	若有	语法	0169c04	若人
 U42-065	S0784	cakṣurdhātunā	cakṣus-dhātu	cpd. m. sg. instr.	0009c07	眼界	对译	0169c04	眼界	
 U42-156	S0784	cakṣur	cakṣus	n. 成分	0009c07	眼	对译	0169c04	眼	补成分记录
 U42-157	S0784	dhātunā	dhātu	n. m. sg. instr.	0009c07	界	对译	0169c05	界	补成分记录
-U42-066	S0784	samanvāgataś	samanvāgata	ptc. adj. m. sg. nom.	0009c07	成就	对译	0169c05	相應	
+U42-066	S0784	samanvāgataś	samanvāgata	ptc. adj. m. sg. nom. (√sam-anu-ā-gam)	0009c07	成就	对译	0169c05	相應	
 U42-067	S0784	cakṣurvijñānadhātunā	cakṣus-vijñāna-dhātu	cpd. m. sg. instr.	0009c07	眼識	对译	0169c05	眼識界	
 U42-158	S0784	cakṣur	cakṣus	n. 成分	0009c07	眼	对译	0169c05	眼	补成分记录
 U42-159	S0784	vijñāna	vijñāna	n. 成分	0009c07	識	对译	0169c05	識	补成分记录
@@ -115,7 +115,7 @@ U42-078	S0786	kāmadhātāv	kāma-dhātu	cpd. m. sg. loc.	0009c09	欲界	对译	
 U42-167	S0786	kāma	kāma	n. 成分	0009c09	欲	对译	0169c07	欲	补成分记录
 U42-168	S0786	dhātāv	dhātu	n. m. sg. loc.	0009c09	界	对译	0169c07	界	补成分记录
 U42-079	S0786	alabdhavihīna cakṣuḥ	alabdha-vihīna-cakṣus	cpd. m. sg. nom. (bahuvrīhi)	0009c09	未得眼根及得已失	意译	0169c07	未得眼根…失	GRETIL 分写 alabdhavihīna cakṣuḥ；dvandva 成分以"及"连接
-U42-080	S0786	alabdha	a-labdha	ptc. adj. 成分	0009c09	未得	对译	0169c07	未得	
+U42-080	S0786	alabdha	a-labdha	ptc. adj. 成分 (√labh)	0009c09	未得	对译	0169c07	未得	
 U42-081	S0786	vihīna	vihīna	ptc. 成分 (√vi-hā)	0009c09	失	对译	0169c08	失	
 U42-083	S0786				0009c09	得	增译			"得已失"之"得"
 U42-084	S0786	cakṣuḥ	cakṣus	n. m. sg. nom.	0009c09	眼	对译	0169c07	眼根	"根"为增字
@@ -126,7 +126,7 @@ U42-169	S0787	kāma	kāma	n. 成分	0009c10	欲	对译	0169c08	欲	补成分记�
 U42-170	S0787	dhātau	dhātu	n. m. sg. loc.	0009c10	界	对译	0169c08	界	补成分记录
 U42-087	S0787	labdhāvihīnacakṣuḥ	labdha-avihīna-cakṣus	cpd. m. sg. nom. (bahuvrīhi)	0009c10	得眼不失	对译	0169c08	已得眼根…不失	
 U42-088	S0787	labdhā	labdha	ptc. 成分 (√labh)	0009c10	得	对译	0169c08	得	
-U42-089	S0787	āvihīna	a-vihīna	ptc. adj. 成分	0009c10	不失	对译	0169c09	不失	
+U42-089	S0787	āvihīna	a-vihīna	ptc. adj. 成分 (√vi-hā)	0009c10	不失	对译	0169c09	不失	
 U42-090	S0787	cakṣuḥ	cakṣus	n. m. sg. nom.	0009c10	眼	对译	0169c08	眼根	
 U42-091	S0787	prathamadhyānopapanno	prathama-dhyāna-upapanna	cpd. m. sg. nom.	0009c10	生梵世	意译	0169c09	生初定	
 U42-092	S0787	prathamadhyāno	prathama-dhyāna	cpd. 成分	0009c10	梵世	意译	0169c09	初定	初静虑玄奘作"梵世"
@@ -162,7 +162,7 @@ U42-109	S0789	pratilambha	pratilambha	n. 成分	0009c12	得	对译	0169c11	至�
 U42-110	S0789	samanvāgamau	samanvāgama	n. m. du. nom.	0009c13	成就	对译			
 U42-111	S0789				0009c13	等	增译			
 U42-112	S0789	yathāyogam	yathāyogam	ind.	0009c13	如理	意译			yathāyogam（随其所应）译"如理"
-U42-113	S0789	abhyūhitavyau	abhi-ūh	gdv. m. du. nom.	0009c13	思	对译	0169c11	思量	
+U42-113	S0789	abhyūhitavyau	abhyūhitavya	gdv. m. du. nom. (√abhi-ūh)	0009c13	思	对译	0169c11	思量	
 U42-116	S0790	prasaṅgasya	prasaṅga	n. m. sg. gen.	0009c13	所未說義	意译	0169c11	思量	prasaṅga（连带论及之事）意译为"所未說義"
 U42-117	S0790	samuccayārthaś	samuccaya-artha	cpd. m. sg. nom.	0009c13	為攝	意译	0169c11	為引	
 U42-118	S0790	samuccayā	samuccaya	n. 成分	0009c13	攝	对译	0169c11	引	

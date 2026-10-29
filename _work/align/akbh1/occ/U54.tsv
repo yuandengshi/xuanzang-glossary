@@ -3,14 +3,14 @@ U54-001	S1104	pañca	pañcan	num. pl. nom.	0013a13	五	对译	0172c15	五
 U54-002	S1104	bāhyā	bāhya	adj. m. pl. nom.	0013a13	外	对译	0172c15	外	
 U54-003	S1104	dvivijñeyāḥ	dvi-vijñeya	cpd. gdv. m. pl. nom.	0013a13	二所識	对译	0172c15	二所知	
 U54-004	S1104	dvivijñeyāḥ	dvi	num. 成分	0013a13	二	对译	0172c15	二	
-U54-005	S1104	vijñeyāḥ	vi-jñā	gdv. m. pl. nom.	0013a13	所識	对译	0172c15	所知	
+U54-005	S1104	vijñeyāḥ	vijñeya	gdv. m. pl. nom. (√vi-jñā)	0013a13	所識	对译	0172c15	所知	
 U54-006	S1105				0013a15	十八界中	增译			玄奘补出
 U54-007	S1105	rūpaśabagandharasaspraṣṭavyadhātavo	rūpa-śabda-gandha-rasa-spraṣṭavya-dhātu	cpd. m. pl. nom.	0013a15	色等五界	意译	0172c15	色聲香味觸界	GRETIL 本作 rūpaśaba-，当读 rūpaśabda-；玄奘约为"色等五界"
 U54-167	S1105	rūpa	rūpa	n. 成分	0013a15	色	对译	0172c15	色	补成分记录
 U54-168	S1105	śaba	śabda	n. 成分			省译	0172c15	聲	补成分记录；GRETIL 本作 śaba，当读 śabda；玄奘约为"色等五界"
 U54-169	S1105	gandha	gandha	n. 成分			省译	0172c15	香	补成分记录；玄奘约为"色等五界"
 U54-170	S1105	rasa	rasa	n. 成分			省译	0172c15	味	补成分记录；玄奘约为"色等五界"
-U54-171	S1105	spraṣṭavya	spraṣṭavya	gdv. n. 成分			省译	0172c15	觸	补成分记录；玄奘约为"色等五界"
+U54-171	S1105	spraṣṭavya	spraṣṭavya	gdv. n. 成分 (√spṛś)			省译	0172c15	觸	补成分记录；玄奘约为"色等五界"
 U54-008	S1105	dhātavo	dhātu	n. m. pl. nom.	0013a15	界	对译	0172c15	界	
 U54-009	S1105	yathāsaṃkhyaṃ	yathā-saṃkhya	ind.	0013a15	如其次第	对译	0172c16	如其次第	
 U54-010	S1105	cakṣuḥśrotraghrāṇajihvākāyavijñānair	cakṣus-śrotra-ghrāṇa-jihvā-kāya-vijñāna	cpd. nt. pl. instr.	0013a15	眼等五識	意译	0172c16	眼耳鼻舌身識	玄奘约为"眼等五識"
@@ -32,7 +32,7 @@ U54-018	S1106	pratyekaṃ	pratyekam	ind.	0013a17	各	对译	0172c17	隨一
 U54-019	S1106				0013a17	六識中	增译			
 U54-020	S1106	dvābhyāṃ	dvi	num. nt. du. instr.	0013a17	二	对译	0172c17	二	
 U54-021	S1106	vijñānābhyāṃ	vijñāna	n. nt. du. instr.	0013a17	識	对译	0172c17	識	
-U54-022	S1106	vijñeyā	vi-jñā	gdv. m. pl. nom.	0013a17	所識	对译	0172c17	所知	
+U54-022	S1106	vijñeyā	vijñeya	gdv. m. pl. nom. (√vi-jñā)	0013a17	所識	对译	0172c17	所知	
 U54-023	S1106	bhavanti	bhū	v. pres. 3pl.			省译			
 U54-024	S1107	ityākhyātaṃ	iti	ind.	0013a17	由此	语法			"ity ākhyātaṃ bhavati"玄奘移前作"由此准知"
 U54-025	S1107	ākhyātaṃ	ākhyāta	ptc. nt. sg. nom. (√ā-khyā)	0013a17	准知	意译	0172c18	義至所顯	ākhyātaṃ bhavati（即已说明）译"准知"（据义推知）；真谛"此是義至所顯"
@@ -50,7 +50,7 @@ U54-035	S1107	ekena	eka	num. nt. sg. instr.	0013a18	唯	意译	0172c18	唯一	ek
 U54-036	S1107	manovijñānena	manas-vijñāna	cpd. nt. sg. instr.	0013a18	意識	对译	0172c18	意識界	
 U54-182	S1107	mano	manas	n. 成分	0013a18	意	对译	0172c18	意	补成分记录
 U54-183	S1107	vijñānena	vijñāna	n. nt. sg. instr.	0013a18	識	对译	0172c18	識	补成分记录
-U54-037	S1107	vijñeyā	vi-jñā	gdv. m. pl. nom.	0013a18	所識	对译	0172c18	所知	
+U54-037	S1107	vijñeyā	vijñeya	gdv. m. pl. nom. (√vi-jñā)	0013a18	所識	对译	0172c18	所知	
 U54-038	S1108	aṣṭādaśānāṃ	aṣṭādaśan	num. pl. gen.	0013a11	十八	合译	0172c18	十八	玄奘把三问并作一句，"十八界中"为 S1102 与本句共用
 U54-039	S1108	dhātūnāṃ	dhātu	n. m. pl. gen.	0013a11	界	合译	0172c19	界	同上
 U54-040	S1108	madhye	madhya	n. nt. sg. loc.	0013a11	中	合译	0172c19	中	同上
@@ -65,7 +65,7 @@ U54-052	S1109	api tu	api tu	ind.	0013a19	唯	意译	0172c20	雖爾	api tu（然�
 U54-053	S1110	nityā	nitya	adj. m. pl. nom.	0013a13	常	对译	0172c20	常住	
 U54-054	S1110	dharmā	dharma	n. m. pl. nom.	0013a13	法	意译	0172c20	法	"界"为补出（法界）
 U54-054+1	S1110				0013a13	界	增译			合并时从 U54-054（法界）拆出
-U54-055	S1110	asaṃskṛtāḥ	a-saṃskṛta	ptc. adj. m. pl. nom.	0013a13	無為	对译	0172c20	無為	
+U54-055	S1110	asaṃskṛtāḥ	a-saṃskṛta	ptc. adj. m. pl. nom. (√saṃ-kṛ)	0013a13	無為	对译	0172c20	無為	
 U54-056	S1111	dhārmadhātvekadeśo	dharma-dhātu-eka-deśa	cpd. m. sg. nom.	0013a19	法一分	意译	0172c20	法界一分	GRETIL 本作 dhārma-，当读 dharma-；dhātu 未译
 U54-184	S1111	dhārma	dharma	n. 成分	0013a19	法	对译	0172c20	法	补成分记录；GRETIL 本作 dhārma-
 U54-185	S1111	dhātv	dhātu	n. 成分			省译	0172c20	界	补成分记录；dhātu 未译
@@ -152,7 +152,7 @@ U54-101	S1115	prajñendariyaṃ	prajñā-indriya	cpd. nt. sg. nom.	0013a23	慧�
 U54-224	S1115	prajñe	prajñā	n. 成分	0013a23	慧	对译	0172c26	慧	补成分记录
 U54-225	S1115	endariyaṃ	indriya	n. nt. sg. nom.	0013a23	根	对译	0172c26	根	补成分记录；GRETIL 本作 -endariyaṃ
 U54-102	S1115	anājñātamājñāsyāmīndariyam	anājñātam-ājñāsyāmi-indriya	cpd. nt. sg. nom.	0013a23	未知當知根	对译	0172c26	未知欲知根	GRETIL 本作 -īndariyam
-U54-103	S1115	anājñātam	an-ājñāta	ptc. 成分	0013a23	未知	对译	0172c26	未知	
+U54-103	S1115	anājñātam	an-ājñāta	ptc. 成分 (√ā-jñā)	0013a23	未知	对译	0172c26	未知	
 U54-104	S1115	ājñāsyāmī	ā-jñā	v. fut. 1sg.	0013a23	知	对译	0172c26	知	
 U54-106	S1115	ājñāsyāmī	1sg.	gram. 1sg. (-mi)			省译			第一人称未译
 U54-226	S1115	īndariyam	indriya	n. nt. sg. nom.	0013a23	根	对译	0172c26	根	补成分记录；GRETIL 本作 -īndariyam
@@ -236,7 +236,7 @@ U54-152	S1120				0013a29	即是…所攝	增译
 U54-153	S1120	paścād	paścāt	ind.	0013b01	後	对译	0173a02	後	
 U54-154	S1120				0013b01	如	增译			"如後當辯"
 U54-155	S1120	vakṣyati	vac	v. fut. 3sg.	0013b01	辯	意译	0173a02	說	
-U54-156	S1121	nendriyamiti siddham	siddha	ptc. nt. sg. nom.	0013b01	義准	意译	0173a02	成立	"iti siddham"（由此成立）玄奘移前作"義准"
+U54-156	S1121	nendriyamiti siddham	siddha	ptc. nt. sg. nom. (√sidh)	0013b01	義准	意译	0173a02	成立	"iti siddham"（由此成立）玄奘移前作"義准"
 U54-157	S1121	śeṣāḥ	śeṣa	adj. m. pl. nom.	0013b01	所餘	对译	0173a02	所餘	
 U54-158	S1121				0013b01	色等	增译			
 U54-159	S1121	pañca	pañcan	num. pl. nom.	0013b01	五	对译	0173a02	五	

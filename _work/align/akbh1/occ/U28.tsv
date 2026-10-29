@@ -29,12 +29,12 @@ U28-028	S0471	viṣaya	viṣaya	n. 成分	0006a13	境	对译	0166b14	塵
 U28-029	S0471	viṣayitvena	viṣayin	n. 成分	0006a13	有境	对译	0166b14	根	
 U28-031	S0471	vyavasthānaṃ	vyavasthāna	n. nt. sg. nom.	0006a14	建立	对译	0166b14	成立	
 U28-032	S0471				0006a14	於色蘊就差別相	增译			玄奘增释
-U28-034	S0471	samastānām	samasta	ptc. adj. nt. pl. gen.	0006a14	總為一	意译	0166b14	聚集	samasta（合并的）译"總為一"
+U28-034	S0471	samastānām	samasta	ptc. adj. nt. pl. gen. (√sam-as)	0006a14	總為一	意译	0166b14	聚集	samasta（合并的）译"總為一"
 U28-035	S0472	cakṣurādibhiśca	cakṣus-ādi	cpd. nt. pl. instr.	0006a16	眼等	对译	0166b14	眼等	
 U28-164	S0472	cakṣur	cakṣus	n. 成分	0006a16	眼	对译	0166b14	眼	补成分记录
 U28-165	S0472	ādibhiś	ādi	n. nt. pl. instr.	0006a16	等	对译	0166b15	等	补成分记录
 U28-036	S0472	cakṣurādibhiśca	instr.	gram. instr. (-bhiḥ)	0006a16	為…所	语法	0166b14	由	第三格与 viśeṣita 构成被动，玄奘作"為…所簡別"
-U28-037	S0472	viśeṣitair	viśeṣita	ptc. nt. pl. instr.	0006a16	簡別	对译	0166b15	差別	
+U28-037	S0472	viśeṣitair	viśeṣita	ptc. nt. pl. instr. (caus. √vi-śiṣ)	0006a16	簡別	对译	0166b15	差別	
 U28-038	S0472				0006a16	名	增译			"眼等名"之"名"
 U28-040	S0472	yanna	yad	pron. nt. sg. nom.	0006a15	若	语法			关系代词 yat 引出条件，译"若"
 U28-041	S0472	na cakṣurādisaṃjñakaṃ	cakṣus-ādi-saṃjñaka	cpd. adj. nt. sg. nom.	0006a15	眼等…想名	意译	0166b15	眼等名	"差別"为增字
@@ -83,7 +83,7 @@ U28-077	S0476				0006a19	諸	增译
 U28-078	S0476	'pi ca	api	ind.	0006a19	又	语法			api ca 译"又"
 U28-079	S0476	tadrūpamiti	tad	pron. nt. sg. nom.	0006a19	此處	意译	0166b19	此入	代词还原为所指（色处）
 U28-080	S0476				0006a19	唯	增译			"唯於此處"之"唯"
-U28-081	S0476	pratītaṃ	pratīta	ptc. nt. sg. nom.	0006a19	同說	意译	0166b19	同知說	pratīta（公认的）
+U28-081	S0476	pratītaṃ	pratīta	ptc. nt. sg. nom. (√prati-i)	0006a19	同說	意译	0166b19	同知說	pratīta（公认的）
 U28-082	S0476	tadrūpamiti	rūpa	n. nt. sg. nom.	0006a20	色	对译	0166b19	色	
 U28-083	S0476	rūpamiti	iti	ind.	0006a20	為	语法	0166b19	為	"說為色"
 U28-085	S0476	nānyāni	anya	pron. nt. pl. nom.	0006a20	眼等	意译	0166b19	餘入	anyāni（其余）还原为"眼等"
@@ -149,13 +149,13 @@ U28-143	S0481	skandhāyatanadhātusaṃśabditāny	skandha-āyatana-dhātu-saṃ
 U28-144	S0481	skandhā	skandha	n. 成分	0006a26	蘊	对译	0166b24	陰	
 U28-145	S0481	āyatana	āyatana	n. 成分	0006a26	處	对译	0166b24	入	
 U28-146	S0481	dhātusaṃśabditāny	dhātu	n. 成分	0006a26	界	对译	0166b24	界	
-U28-147	S0481	saṃśabditāny	saṃśabdita	ptc. nt. pl. nom.	0006a26	名想	意译	0166b24	同名	saṃśabdita（被称作…的）译"名想"
+U28-147	S0481	saṃśabditāny	saṃśabdita	ptc. nt. pl. nom. (√saṃ-śabd)	0006a26	名想	意译	0166b24	同名	saṃśabdita（被称作…的）译"名想"
 U28-148	S0481	upalabhyante	upa-labh	v. pres. pass. 3pl.	0006a27	可得	对译	0166b25	已顯	
 U28-149	S0481	kiṃebhireva	kim	pron. nt. sg. acc.	0006a27	為	语法			kim … āhosvit 选择问句，前一问译"為…"
 U28-151	S0481	saṃgraho	saṃgraha	n. m. sg. nom.	0006a27	攝	对译	0166b25	攝	
 U28-152	S0481	āhosvid	āhosvit	ind.	0006a27	為…耶	语法	0166b25	為	选择问句的后一问
 U28-153	S0481	vyatirekaḥ	vyatireka	n. m. sg. nom.	0006a27	離	意译	0166b25	不盡	vyatireka（在外、相离）
-U28-154	S0481	veditavya	vid	gdv. m. sg. nom.	0006a28	當知	意译			veditavya 移到答句作"如應當知"
+U28-154	S0481	veditavya	veditavya	gdv. m. sg. nom. (√vid)	0006a28	當知	意译			veditavya 移到答句作"如應當知"
 U28-156	S0481				0006a27	如	增译			"如應當知"之"如"
 U28-157	S0482				0006a27	彼	增译			"彼皆此攝"之"彼"
 U28-158	S0482	ebhireva	eva	ind.	0006a27	皆	语法			eva（唯此）译"皆"（彼皆此攝）

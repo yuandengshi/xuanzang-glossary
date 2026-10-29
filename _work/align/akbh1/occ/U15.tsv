@@ -107,7 +107,7 @@ U15-108	S0290				0004a09	義強	增译			"造作義強"
 U15-109	S0290	pradhānā	pradhāna	adj. f. sg. nom.	0004a10	最勝	对译	0164b22	最勝	"為"为增字
 U15-111	S0291	evoktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0004a10	說	对译	0164b22	說	
 U15-112	S0291	bhagavatā	bhagavat	n. m. sg. instr.	0004a10	佛	对译	0164b22	佛世尊	
-U15-113	S0291	saṃskṛtam	saṃskṛta	ptc. adj. nt. sg. acc.	0004a10	有為	对译	0164b23	有為法	
+U15-113	S0291	saṃskṛtam	saṃskṛta	ptc. adj. nt. sg. acc. (√saṃ-kṛ)	0004a10	有為	对译	0164b23	有為法	
 U15-114	S0291				0004a10	有漏	增译			玄奘补出"有漏"（取蕴所摄为有漏）
 U15-115	S0291	abhisaṃskaroti	abhi-sam-kṛ	v. pres. 3sg.	0004a10	造作	对译	0164b23	作功用起	"若能"为增字
 U15-116	S0292	tasmāt	tasmāt	ind.			省译	0164b23	故	
@@ -119,7 +119,7 @@ U15-121	S0292	ucyata	vac	v. pres. pass. 3sg.	0004a10	名	对译	0164b23	說
 U15-122	S0293	anyathā	anyathā	ind.	0004a11	若不爾者	语法	0164b23	若不爾	
 U15-124	S0293	śeṣāṇāṃ	śeṣa	adj. m. pl. gen.	0004a11	餘	对译	0164b24	所餘	
 U15-125	S0293	caitasikānāṃ	caitasika	n. m. pl. gen.	0004a11	心所法	对译	0164b24	心法	
-U15-126	S0293	viprayuktānāṃ	viprayukta	ptc. adj. m. pl. gen.	0004a11	不相應	对译	0164b24	不相應法	即心不相应行
+U15-126	S0293	viprayuktānāṃ	viprayukta	ptc. adj. m. pl. gen. (√vi-pra-yuj)	0004a11	不相應	对译	0164b24	不相應法	即心不相应行
 U15-128	S0293	saṃskārāṇāṃ	saṃskāra	n. m. pl. gen.			省译			"餘心所法及不相應"未译 saṃskāra（行）
 U15-129	S0293	skandhāsaṃgrahād	skandha-a-saṃgraha	cpd. m. sg. abl.	0004a11	非蘊攝	对译	0164b24	非陰攝	
 U15-130	S0293	skandhā	skandha	n. 成分	0004a11	蘊	对译	0164b24	陰	
@@ -160,7 +160,7 @@ U15-168	S0296	saṃskāraskandha	saṃskāra-skandha	cpd. 成分	0004a15	行蘊	
 U15-209	S0296	saṃskāra	saṃskāra	n. 成分	0004a15	行	对译	0164b27	行	补成分记录
 U15-210	S0296	skandha	skandha	n. 成分	0004a15	蘊	对译	0164b27	陰	补成分记录
 U15-169	S0296	saṃgraho	saṃgraha	n. m. sg. nom.	0004a15	攝	对译	0164b28	攝	
-U15-170	S0296	bhyupagantavyaḥ	abhi-upa-gam	gdv. m. sg. nom.	0004a14	許	对译	0164b28	信	
+U15-170	S0296	bhyupagantavyaḥ	abhyupagantavya	gdv. m. sg. nom. (√abhi-upa-gam)	0004a14	許	对译	0164b28	信	
 U15-172	S0297	ete	etad	pron. m. pl. nom.	0003c29	如是	语法	0164b28	是	
 U15-173	S0297				0003c29	受等	增译	0164b28	受等	颂文"受等"取自长行（vedanāsaṃjñāsaṃskāra-）
 U15-175	S0297	trayaḥ	tri	num. m. pl. nom.	0003c29	三	对译	0164b28	三	
@@ -182,10 +182,10 @@ U15-191	S0299	ākhyāḥ	ākhyā	n. m. pl. nom.	0004a01	名	对译	0164b29	名
 U15-192	S0299	sahā	saha	ind.	0004a01	及	对译	0164c01	并	
 U15-193	S0299	āvijñaptyasaṃskṛtaiḥ	a-vijñapti-a-saṃskṛta	cpd. nt. pl. instr.	0004a01	無表無為	对译	0164c01	無教無為	
 U15-194	S0299	āvijñapty	a-vijñapti	n. 成分	0004a01	無表	对译	0164c01	無教	
-U15-195	S0299	asaṃskṛtaiḥ	a-saṃskṛta	ptc. adj. nt. pl. instr.	0004a01	無為	对译	0164c01	無為	
+U15-195	S0299	asaṃskṛtaiḥ	a-saṃskṛta	ptc. adj. nt. pl. instr. (√saṃ-kṛ)	0004a01	無為	对译	0164c01	無為	
 U15-196	S0299	sahā	saha	ind.	0004a16	及	对译			长行复述颂文
 U15-197	S0299	āvijñapty	a-vijñapti	n. 成分	0004a16	無表色	意译			长行复述颂文，补出"色"
-U15-198	S0299	asaṃskṛtaiḥ	a-saṃskṛta	ptc. adj. nt. pl. instr.	0004a16	無為	对译			长行复述颂文
+U15-198	S0299	asaṃskṛtaiḥ	a-saṃskṛta	ptc. adj. nt. pl. instr. (√saṃ-kṛ)	0004a16	無為	对译			长行复述颂文
 U15-199	S0299				0004a16	三種	增译			"三種無為"，补出无为之数
 U15-200	S0300	sapta	saptan	num. pl. nom.	0004a16	七	对译	0164c01	七	
 U15-201	S0300	dravyāṇi	dravya	n. nt. pl. nom.	0004a16	法	意译	0164c01	法	dravya（实体）此处译"法"

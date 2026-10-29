@@ -10,7 +10,7 @@ U40-007	S0721	rūpagandharasaspraṣṭavyākhyaṃ	rūpa-gandha-rasa-spraṣṭ
 U40-008	S0721	rūpa	rūpa	n. 成分	0009a05	色	对译	0169a09	色	
 U40-009	S0721	gandha	gandha	n. 成分	0009a05	香	对译	0169a09	香	
 U40-010	S0721	rasa	rasa	n. 成分	0009a05	味	对译	0169a09	味	
-U40-011	S0721	spraṣṭavyā	spraṣṭavya	gdv. n. 成分	0009a05	觸	对译	0169a09	觸	
+U40-011	S0721	spraṣṭavyā	spraṣṭavya	gdv. n. 成分 (√spṛś)	0009a05	觸	对译	0169a09	觸	
 U40-129	S0721	ākhyaṃ	ākhya	adj. nt. sg. nom.			省译			补成分记录：ākhya（名为…）未译
 U40-012	S0721	paraśudārvādisaṃjñakam	paraśu-dāru-ādi-saṃjñaka	cpd. adj. nt. sg. nom.	0009a05	成斧薪等	意译	0169a09	名斧名薪	
 U40-013	S0721	paraśu	paraśu	n. 成分	0009a05	斧	对译	0169a09	斧	
@@ -31,7 +31,7 @@ U40-026	S0722	saṃghāta	saṃghāta	n. 成分	0009a06	聚	对译	0169a10	聚
 U40-027	S0722	srotaso	srotas	n. nt. sg. gen.			省译	0169a10	流	srotas（相续之流）或以"續生"之"續"表出，待核
 U40-028	S0722				0009a06	斧等	增译			
 U40-029	S0722	vibhaktotpādanam	vibhakta-utpādana	cpd. nt. sg. nom.	0009a07	分隔令各續起	意译	0169a11	斷隔其生起	
-U40-030	S0722	vibhakto	vibhakta	ptc. 成分	0009a07	分隔	对译	0169a11	斷隔	
+U40-030	S0722	vibhakto	vibhakta	ptc. 成分 (√vi-bhaj)	0009a07	分隔	对译	0169a11	斷隔	
 U40-031	S0722	otpādanam	utpādana	n. nt. sg. nom.	0009a07	起	对译	0169a11	生起	
 U40-033	S0722				0009a07	各續	增译			
 U40-034	S0722				0009a07	此法名斫	增译	0169a11	名斫	答辞复述所问
@@ -97,14 +97,14 @@ U40-090	S0730	ucheditvāt	ucchedi-tva	n. nt. sg. abl.	0009a13	不相續	意译	0
 U40-091	S0731	vivādo	vivāda	n. m. sg. nom.	0009a04	諍	对译	0169a17	爭	
 U40-092	S0731	dagdhṛtulyayoḥ	dagdhṛ-tulya	cpd. nt. du. loc.	0009a04	能燒所稱	对译	0169a17	能燒所稱	
 U40-093	S0731	dagdhṛ	dagdhṛ	n. 成分	0009a04	能燒	对译	0169a17	能燒	
-U40-094	S0731	tulyayoḥ	tulya	gdv. nt. du. loc.	0009a04	所稱	对译	0169a17	所稱	
+U40-094	S0731	tulyayoḥ	tulya	adj. nt. du. loc.	0009a04	所稱	对译	0169a17	所稱	
 U40-095	S0731	dagdhṛtulyayoḥ	dagdhṛ-tulya	cpd. nt. du. loc.	0009a13	能燒所稱	对译			长行复述本颂
 U40-134	S0731	dagdhṛ	dagdhṛ	n. 成分	0009a13	能燒	对译			补成分记录：长行复述本颂（U40-095）
-U40-135	S0731	tulyayoḥ	tulya	gdv. nt. du. loc.	0009a13	所稱	对译			补成分记录：长行复述本颂（U40-095）
+U40-135	S0731	tulyayoḥ	tulya	adj. nt. du. loc.	0009a13	所稱	对译			补成分记录：长行复述本颂（U40-095）
 U40-096	S0731	vivādo	vivāda	n. m. sg. nom.	0009a14	異諍論	意译			长行复述本颂；"有"为补出
 U40-097	S0732	kecidāhuḥ	kaścit	pron. m. pl. nom.	0009a14	或有	意译	0169a17	有諸師	
 U40-099	S0732	dāhakaṃ	dāhaka	adj. nt. sg. nom.	0009a14	能燒	对译	0169a18	能燒	
-U40-100	S0732	tulyaṃ ca	tulya	gdv. nt. sg. nom.	0009a14	所稱	对译	0169a18	所稱	
+U40-100	S0732	tulyaṃ ca	tulya	adj. nt. sg. nom.	0009a14	所稱	对译	0169a18	所稱	
 U40-101	S0732				0009a14	體	增译			
 U40-102	S0732	tadeva dhātu	tad	pron. nt. sg. nom.	0009a14	如前	意译			tad（前述者）译"如前"
 U40-104	S0732				0009a15	唯外	增译	0169a18	外	
@@ -118,7 +118,7 @@ U40-110	S0733	dhātur	dhātu	n. m. sg. nom.	0009a15	界	对译	0169a19	大
 U40-111	S0733				0009a15	唯有…可名	增译			
 U40-112	S0733	dagdhā	dagdhṛ	n. m. sg. nom.	0009a15	能燒	对译	0169a19	能燒	
 U40-113	S0733	gurutvam	guru-tva	n. nt. sg. nom.	0009a16	重	对译	0169a19	重觸	-tva 未译
-U40-114	S0733	tulyamiti	tulya	gdv. nt. sg. nom.	0009a16	所稱	对译	0169a19	所稱	
+U40-114	S0733	tulyamiti	tulya	adj. nt. sg. nom.	0009a16	所稱	对译	0169a19	所稱	
 U40-115	S0734				0009a16	如是已說能所斫等	增译			玄奘过渡语
 U40-116	S0734				0009a16	十八界中	增译			
 U40-117	S0734	vipākajāḥ	vipāka-ja	cpd. adj. m. pl. nom.	0009a17	異熟生	对译	0169a19	從果報生	
@@ -130,5 +130,5 @@ U40-122	S0734	naihṣyandikāḥ	naiṣyandika	adj. m. pl. nom.	0009a17	等流	�
 U40-122+1	S0734				0009a17	性	增译			合并时从 U40-122（等流性）拆出
 U40-123	S0734	dravayuktāḥ	dravya-yukta	cpd. adj. m. pl. nom.	0009a17	有實事	意译	0169a20	有實物	GRETIL 本作 dravayukta，当读 dravyayukta
 U40-124	S0734	drava	dravya	n. 成分	0009a17	實事	意译	0169a20	實物	GRETIL 本作 drava
-U40-125	S0734	yuktāḥ	yukta	ptc. adj. m. pl. nom.	0009a17	有	意译	0169a20	有	
+U40-125	S0734	yuktāḥ	yukta	ptc. adj. m. pl. nom. (√yuj)	0009a17	有	意译	0169a20	有	
 U40-126	S0734	kṣaṇikāḥ	kṣaṇika	adj. m. pl. nom.	0009a18	一剎那	对译	0169a21	唯一剎那生	

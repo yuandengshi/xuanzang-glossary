@@ -20,11 +20,11 @@ U27-018	S0451	pūrvamuktāni	pūrvam	ind.	0005c25	先	对译	0166a24	先
 U27-019	S0451	muktāni	ukta	ptc. nt. pl. nom. (√vac)	0005c25	說	对译	0166a24	說	
 U27-020	S0451	manastvaniyata	manas	n. nt. sg. nom.	0005c25	意	对译	0166a24	意根	
 U27-022	S0451	aniyataviṣayam	a-niyata-viṣaya	cpd. adj. nt. sg. nom.	0005c25	境不定	对译	0166a24	境界…不定	玄奘倒序作"境不定"
-U27-023	S0451	aniyata	a-niyata	ptc. adj. 成分	0005c25	不定	对译	0166a25	不定	
+U27-023	S0451	aniyata	a-niyata	ptc. adj. 成分 (√ni-yam)	0005c25	不定	对译	0166a25	不定	
 U27-024	S0451	viṣayam	viṣaya	n. nt. sg. nom.	0005c25	境	对译	0166a24	境界	
 U27-025	S0452	kiñcidvarttamāna	kiṃcit	pron. nt. sg. nom.	0005c25	或	语法	0166a25	有	"kiñcit … kiñcit"（有的…有的）译"或…或"
 U27-026	S0452	kiñcidvarttamānaviṣayaṃ	vartamāna-viṣaya	cpd. adj. nt. sg. nom.	0005c25	唯取一	意译	0166a25	緣現在塵	待核：梵文"有的取现在境"，玄奘作"或唯取一或二三四"（于三世、无为中或取一、或取二三四），不专指现在
-U27-186	S0452	varttamāna	vartamāna	ptc. 成分	0005c25	一	意译	0166a25	現在	补成分记录；待核：玄奘概括为"唯取一"（三世、無為中只取其一），不专指现在
+U27-186	S0452	varttamāna	vartamāna	ptc. 成分 (√vṛt)	0005c25	一	意译	0166a25	現在	补成分记录；待核：玄奘概括为"唯取一"（三世、無為中只取其一），不专指现在
 U27-187	S0452	viṣayaṃ	viṣaya	n. nt. sg. nom.	0005c25	取	意译	0166a25	緣…塵	补成分记录；viṣaya（以…为境）作"取"
 U27-027	S0452				0005c25	二三四	增译			"或唯取一或二三四"之"二三四"
 U27-028	S0452	kiñcit vyadhvā	kiṃcit	pron. nt. sg. nom.	0005c25	或	语法	0166a25	有	
@@ -55,7 +55,7 @@ U27-049	S0454	viṣayatvāt	viṣaya	n. 成分	0005c27	境	对译	0166a27	塵
 U27-050	S0454	viṣayatvāt	abl.	gram. abl. (-āt)	0005c27	是故	语法	0166a27	故	玄奘先列理由，再以"是故"承接
 U27-051	S0454				0005c27	唯	增译			
 U27-052	S0455	kāyasya	kāya	n. m. sg. gen.	0005c27	身	对译	0166a27	身	
-U27-053	S0455	tvaniyato	a-niyata	ptc. adj. m. sg. nom.	0005c27	不定	对译	0166a27	不定	
+U27-053	S0455	tvaniyato	a-niyata	ptc. adj. m. sg. nom. (√ni-yam)	0005c27	不定	对译	0166a27	不定	
 U27-054	S0455	viṣayaḥ	viṣaya	n. m. sg. nom.	0005c27	境	对译	0166a27	塵	
 U27-055	S0456	kadācid bhūtāni	kadācit	ind.	0005c27	或	语法	0166a27	或	
 U27-056	S0456	bhūtāni	bhūta	n. nt. pl. nom.	0005c27	大種	对译	0166a28	四大	bhūta（元素）即大種
@@ -120,9 +120,9 @@ U27-117	S0462	ghrāṇaṃ	ghrāṇa	n. nt. sg. nom.	0006a03	鼻	对译	0166b04	
 U27-118	S0462	pūrvamuktam	pūrvam	ind.	0006a03	先	对译	0166b04	前	
 U27-119	S0462	muktamaprāptasya	ukta	ptc. nt. sg. nom. (√vac)	0006a03	說	对译	0166b04	說	
 U27-120	S0462				0006a04	如	增译	0166b04	如	举例
-U27-121	S0462	maprāptasyaiva	a-prāpta	ptc. nt. sg. gen.	0006a04	對…時	意译	0166b04	未到	aprāpta（未到[舌]）玄奘作"如對…時"，改从正面说
+U27-121	S0462	maprāptasyaiva	a-prāpta	ptc. nt. sg. gen. (√pra-āp)	0006a04	對…時	意译	0166b04	未到	aprāpta（未到[舌]）玄奘作"如對…時"，改从正面说
 U27-122	S0462				0006a04	香美諸	增译			"香美諸飲食"之"香美諸"
-U27-123	S0462	bhojyasya	bhojya	gdv. n. nt. sg. gen.	0006a04	飲食	对译	0166b04	飲食	
+U27-123	S0462	bhojyasya	bhojya	gdv. n. nt. sg. gen. (√bhuj)	0006a04	飲食	对译	0166b04	飲食	
 U27-124	S0462				0006a04	鼻先	增译	0166b05	鼻已	补出主语与"先"
 U27-125	S0462	gandhagrahaṇāt	gandha-grahaṇa	cpd. nt. sg. abl.	0006a05	嗅香	意译	0166b05	知香	玄奘倒序作"嗅香"
 U27-126	S0462	gandha	gandha	n. 成分	0006a05	香	对译	0166b05	香	

@@ -41,8 +41,8 @@ U10-039	S0144	dīrghaṃ	dīrgha	adj. nt. sg. nom.	0002b27	長	对译	0163a18	�
 U10-040	S0144	hrasvaṃ	hrasva	adj. nt. sg. nom.	0002b27	短	对译	0163a18	短	
 U10-041	S0144	vṛttaṃ	vṛtta	adj. nt. sg. nom.	0002b27	方	对译	0163a18	方	按次序对应；vṛtta 常义为"圆"，此处玄奘、真谛都作"方"（待核）
 U10-042	S0144	parimaṇḍalaṃ	parimaṇḍala	adj. nt. sg. nom.	0002b27	圓	对译	0163a18	圓	
-U10-043	S0144	unnatam	unnata	ptc. adj. nt. sg. nom.	0002b27	高	对译	0163a18	高	
-U10-044	S0144	avanataṃ	avanata	ptc. adj. nt. sg. nom.	0002b27	下	对译	0163a18	下	
+U10-043	S0144	unnatam	unnata	ptc. adj. nt. sg. nom. (√ud-nam)	0002b27	高	对译	0163a18	高	
+U10-044	S0144	avanataṃ	avanata	ptc. adj. nt. sg. nom. (√ava-nam)	0002b27	下	对译	0163a18	下	
 U10-045	S0144	sātaṃ	śāta	adj. nt. sg. nom.	0002b27	正	对译	0163a18	正	GRETIL 本作 sātaṃ，当读 śātaṃ
 U10-046	S0144	visātaṃ	viśāta	adj. nt. sg. nom.	0002b27	不正	对译	0163a19	邪	GRETIL 本作 visātaṃ，当读 viśātaṃ
 U10-047	S0144	abhraṃ	abhra	n. nt. sg. nom.	0002b27	雲	对译	0163a19	雲	
@@ -131,7 +131,7 @@ U10-129	S0153	svabhāvaḥ	svabhāva	n. m. sg. nom.	0002c06	性	对译	0163a25	�
 U10-130	S0154				0002c06	或	增译			
 U10-132	S0154				0002c06	色處	增译	0163a25	色入	补出主语
 U10-133	S0154	ubhayathā	ubhayathā	ind.	0002c06	有顯有形	意译	0163a25	有顯有形	ubhayathā（两方面）展开为"有顯有形"
-U10-134	S0154	pariśiṣṭaṃ	pariśiṣṭa	ptc. adj. nt. sg. nom.	0002c06	所餘	对译	0163a26	所餘	
+U10-134	S0154	pariśiṣṭaṃ	pariśiṣṭa	ptc. adj. nt. sg. nom. (√pari-śiṣ)	0002c06	所餘	对译	0163a26	所餘	
 U10-135	S0154	rūpāyatanam	rūpa-āyatana	cpd. nt. sg. nom.	0002c06	色	意译	0163a26	色	rūpāyatana 此处只作"色"
 U10-536	S0154	rūpā	rūpa	n. 成分	0002c06	色	对译	0163a26	色	补成分记录
 U10-537	S0154	āyatanam	āyatana	n. nt. sg. nom.			省译			补成分记录；rūpāyatana 此处只作"色"
@@ -190,8 +190,8 @@ U10-182	S0160	aṣṭavidhaḥ	aṣṭavidha	adj. m. sg. nom.	0002b22	八種	对
 U10-183	S0161				0002c11	當說聲處	增译			玄奘补出过渡语
 U10-184	S0161				0002c11	聲唯八種	增译			复述颂文
 U10-185	S0161	upāttānupāttamahābhūtahetukaḥ	upātta-anupātta-mahābhūta-hetuka	cpd. adj. m. sg. nom.	0002c11	有執受…無執受大種為因	对译	0163b02	有執依、非執依四大為因	"或"为增字（另记）
-U10-186	S0161	upātta	upātta	ptc. adj. 成分	0002c11	有執受	对译	0163b02	有執依	
-U10-187	S0161	ānupātta	an-upātta	ptc. adj. 成分	0002c11	無執受	对译	0163b02	非執依	
+U10-186	S0161	upātta	upātta	ptc. adj. 成分 (√upa-ā-dā)	0002c11	有執受	对译	0163b02	有執依	
+U10-187	S0161	ānupātta	an-upātta	ptc. adj. 成分 (√upa-ā-dā)	0002c11	無執受	对译	0163b02	非執依	
 U10-188	S0161	mahābhūta	mahā-bhūta	cpd. 成分	0002c12	大種	对译	0163b02	四大	
 U10-544	S0161	mahā	mahat	adj. 成分	0002c12	大	对译	0163b02	大	补成分记录；真谛作"四大"
 U10-545	S0161	bhūta	bhūta	n. 成分	0002c12	種	意译			补成分记录
@@ -212,7 +212,7 @@ U10-203	S0162	bhedād	abl.	gram. abl. (-āt)			省译	0163b03	由…故	第五�
 U10-204	S0162	aṣṭavidho	aṣṭavidha	adj. m. sg. nom.	0002c13	八	对译	0163b04	八種	
 U10-205	S0162	bhavati	bhū	v. pres. 3sg.	0002c13	成	对译	0163b04	成	
 U10-206	S0163	opāttamahābhūtahetuko	upātta-mahābhūta-hetuka	cpd. adj. m. sg. nom.	0002c13	執受大種為因	对译	0163b04	有執依為因	
-U10-207	S0163	opātta	upātta	ptc. adj. 成分	0002c13	執受	对译	0163b04	有執依	
+U10-207	S0163	opātta	upātta	ptc. adj. 成分 (√upa-ā-dā)	0002c13	執受	对译	0163b04	有執依	
 U10-208	S0163	mahābhūta	mahā-bhūta	cpd. 成分	0002c13	大種	对译			
 U10-546	S0163	mahā	mahat	adj. 成分	0002c13	大	对译			补成分记录
 U10-547	S0163	bhūta	bhūta	n. 成分	0002c13	種	意译			补成分记录
@@ -225,7 +225,7 @@ U10-214	S0163	vāk	vāc	n. 成分	0002c14	言	对译	0163b05	言
 U10-215	S0163	chabdaḥ	śabda	n. m. sg. nom.	0002c14	音聲	对译	0163b05	聲	
 U10-216	S0163				0002c14	等…所發	增译	0163b05	等	
 U10-217	S0164	anupāttamahābhutahetuko	an-upātta-mahābhūta-hetuka	cpd. adj. m. sg. nom.	0002c15	無執受大種為因	对译	0163b05	非執依為因	GRETIL 本作 mahābhuta
-U10-218	S0164	anupātta	an-upātta	ptc. adj. 成分	0002c15	無執受	对译	0163b05	非執依	
+U10-218	S0164	anupātta	an-upātta	ptc. adj. 成分 (√upa-ā-dā)	0002c15	無執受	对译	0163b05	非執依	
 U10-219	S0164	mahābhuta	mahā-bhūta	cpd. 成分	0002c15	大種	对译			
 U10-548	S0164	mahā	mahat	adj. 成分	0002c15	大	对译			补成分记录
 U10-549	S0164	bhuta	bhūta	n. 成分	0002c15	種	意译			补成分记录；GRETIL 本作 bhuta
@@ -255,8 +255,8 @@ U10-239	S0167	ityapare	iti	ind.	0002c16	說	语法	0163b07	說
 U10-241	S0167	śabda	śabda	n. m. sg. nom.	0002c16	聲	对译	0163b07	聲	
 U10-242	S0167	'pyasti	api	ind.	0002c16	通	意译			api 配合并列复合词表"兼通"，译"通"
 U10-243	S0167	upāttānupāttamahābhūtahetuko	upātta-anupātta-mahābhūta-hetuka	cpd. adj. m. sg. nom.	0002c16	有執受…無執受大種為因	对译	0163b07	有執依、非執依四大為因	"及"为增字
-U10-244	S0167	upātta	upātta	ptc. adj. 成分	0002c16	有執受	对译	0163b07	有執依	
-U10-245	S0167	ānupātta	an-upātta	ptc. adj. 成分	0002c17	無執受	对译	0163b07	非執依	
+U10-244	S0167	upātta	upātta	ptc. adj. 成分 (√upa-ā-dā)	0002c16	有執受	对译	0163b07	有執依	
+U10-245	S0167	ānupātta	an-upātta	ptc. adj. 成分 (√upa-ā-dā)	0002c17	無執受	对译	0163b07	非執依	
 U10-246	S0167	mahābhūta	mahā-bhūta	cpd. 成分	0002c17	大種	对译	0163b07	四大	
 U10-552	S0167	mahā	mahat	adj. 成分	0002c17	大	对译	0163b07	大	补成分记录；真谛作"四大"
 U10-553	S0167	bhūta	bhūta	n. 成分	0002c17	種	意译			补成分记录
@@ -282,7 +282,7 @@ U10-267	S0169	upādāyeṣyate	upa-ā-dā	abs.	0002c18	造	意译	0163b08	依…
 U10-268	S0169	eṣyate	iṣ	v. pres. pass. 3sg.	0002c18	許	对译	0163b08	許	
 U10-269	S0169	tathā	tathā	ind.	0002c19	爾	语法	0163b09	爾	"聲亦應爾"
 U10-270	S0169	naivaiṣṭavya	na	ind.			省译			"聲亦應爾"即亦不許，否定承上"不許"而不重出
-U10-271	S0169	aiṣṭavya	iṣ	gdv. m. sg. nom.			省译			承上"許"，不重出
+U10-271	S0169	aiṣṭavya	eṣṭavya	gdv. m. sg. nom. (√iṣ)			省译			承上"許"，不重出
 U10-272	S0169	aiṣṭavya	gdv.	gram. gdv. (-tavya)	0002c18	應	语法	0163b09	應	
 U10-273	S0170	uktaḥ	ukta	ptc. m. sg. nom. (√vac)	0002c19	說	对译	0163b09	說	
 U10-274	S0170	śabdaḥ	śabda	n. m. sg. nom.	0002c19	聲處	意译	0163b09	聲	补"處"
@@ -318,12 +318,12 @@ U10-303	S0176	durgandhaḥ	dur-gandha	n. m. sg. nom.	0002c22	惡香	对译	0163b
 U10-304	S0176	samagandha	sama-gandha	cpd. m. sg. nom.	0002c22	平等香	对译	0163b12	平等	
 U10-305	S0176	sama	sama	adj. 成分	0002c22	平等	对译	0163b12	平等	
 U10-306	S0176	gandha	gandha	n. m. sg. nom.	0002c22	香	对译			
-U10-307	S0177	spṛśyam	spṛśya	gdv. n. nt. sg. nom.	0002b23	觸	对译	0163b12	觸塵	
+U10-307	S0177	spṛśyam	spṛśya	gdv. n. nt. sg. nom. (√spṛś)	0002b23	觸	对译	0163b12	觸塵	
 U10-308	S0177	ekādaśātmadkam	ekādaśa-ātmaka	cpd. adj. nt. sg. nom.	0002b23	十一為性	对译	0163b12	十一種	GRETIL 本作 ekādaśātmadkam，当读 ekādaśātmakam
 U10-309	S0177	ekādaśā	ekādaśan	num. 成分	0002b23	十一	对译	0163b12	十一	
 U10-310	S0177	ātmadkam	ātmaka	adj. nt. sg. nom.	0002b23	為性	意译	0163b12	種	-ātmaka（以…为体）译"為性"
 U10-311	S0178				0002c22	已說香處，當說觸處	增译			玄奘补出过渡语
-U10-312	S0178	spraṣṭavyam	spraṣṭavya	gdv. n. nt. sg. nom.	0002c23	觸	对译	0163b13	觸	
+U10-312	S0178	spraṣṭavyam	spraṣṭavya	gdv. n. nt. sg. nom. (√spṛś)	0002c23	觸	对译	0163b13	觸	
 U10-313	S0178	ekādaśadravyasvabhāvam	ekādaśa-dravya-svabhāva	cpd. adj. nt. sg. nom.	0002c23	十一	意译	0163b13	十一種	dravya-svabhāva（以十一实体为自性）未译
 U10-314	S0178	ekādaśa	ekādaśan	num. 成分	0002c23	十一	对译	0163b13	十一	
 U10-554	S0178	dravya	dravya	n. 成分			省译			补成分记录
@@ -456,14 +456,14 @@ U10-435	S0193	śrotrā	śrotra	n. 成分	0003a07	耳	对译	0163b26	耳
 U10-436	S0193	ādi	ādi	n. 成分	0003a07	等	对译	0163b26	等	
 U10-437	S0193	vijñānaṃ	vijñāna	n. nt. sg. nom.	0003a07	識	对译	0163b26	識	
 U10-438	S0193				0003a07	諸	增译			
-U10-439	S0193	veditavyaṃ	vid	gdv. nt. sg. nom.	0003a07	知	对译			
+U10-439	S0193	veditavyaṃ	veditavya	gdv. nt. sg. nom. (√vid)	0003a07	知	对译			
 U10-440	S0194	ityeke	eka	pron. m. pl. nom.	0003a07	有餘師	意译	0163b28	有師	eke（有些人）译"有餘師"
 U10-441	S0194	kāyavijñānaṃ	kāya-vijñāna	cpd. nt. sg. nom.	0003a07	身識	对译	0163b26	身識	
 U10-566	S0194	kāya	kāya	n. 成分	0003a07	身	对译	0163b26	身	补成分记录
 U10-567	S0194	vijñānaṃ	vijñāna	n. nt. sg. nom.	0003a07	識	对译	0163b26	識	补成分记录
 U10-442	S0194	paraṃ	param	ind.	0003a07	極多	意译	0163b26	極多	param（至多）译"極多"
 U10-443	S0194	pañcabhiḥ	pañcan	num. pl. instr.	0003a08	五	对译	0163b27	五	
-U10-444	S0194	spraṣṭavyair	spraṣṭavya	gdv. n. nt. pl. instr.	0003a08	觸	对译	0163b27	觸	
+U10-444	S0194	spraṣṭavyair	spraṣṭavya	gdv. n. nt. pl. instr. (√spṛś)	0003a08	觸	对译	0163b27	觸	
 U10-445	S0194	spraṣṭavyair	instr.	gram. pl. instr. (-aiḥ)	0003a07	緣	语法	0163b27	由	第三格（由五触）译"緣"
 U10-446	S0194	utpadyata	ut-pad	v. pres. 3sg.	0003a08	起	对译	0163b27	生	
 U10-447	S0195	caturbhir	catur	num. nt. pl. instr.	0003a08	四	对译	0163b27	四	
@@ -536,7 +536,7 @@ U10-499	S0201	paṭīyān	paṭīyas	adj. compar. m. sg. nom.	0003a12	強盛	对
 U10-500	S0201				0003a13	識先生	增译	0163c03	先發識	补出谓语
 U10-501	S0202	samaprāpte	sama-prāpta	cpd. m. sg. loc.	0003a13	均平	意译	0163c04	平等…至	
 U10-582	S0202	sama	sama	adj. 成分	0003a13	均平	意译	0163c04	平等	补成分记录
-U10-583	S0202	prāpte	prāpta	ptc. m. sg. loc.			省译	0163c04	至	补成分记录
+U10-583	S0202	prāpte	prāpta	ptc. m. sg. loc. (√pra-āp)			省译	0163c04	至	补成分记录
 U10-502	S0202	samaprāpte	loc. abs.	gram. loc. abs. (sati)	0003a13	若	语法	0163c04	若	第七格独立句译"若"
 U10-503	S0202	viṣaye	viṣaya	n. m. sg. loc.	0003a13	境	对译	0163c04	塵	
 U10-504	S0202	jihvāvijñānaṃ	jihvā-vijñāna	cpd. nt. sg. nom.	0003a13	舌識	对译	0163c04	舌識	
@@ -562,7 +562,7 @@ U10-521	S0204	grahaṇaṃ	grahaṇa	n. nt. sg. nom.	0003a14	取	对译	0163c05	
 U10-522	S0205	avijñaptir	a-vijñapti	n. f. sg. nom.	0003a14	無表	对译	0163c05	無教	
 U10-523	S0205				0003a14	色相	增译	0163c06	色	
 U10-524	S0205	idānīṃ	idānīm	ind.	0003a15	今	对译	0163c05	今	
-U10-525	S0205	vaktavyā	vac	gdv. f. sg. nom.	0003a15	說	对译	0163c05	說	
+U10-525	S0205	vaktavyā	vaktavya	gdv. f. sg. nom. (√vac)	0003a15	說	对译	0163c05	說	
 U10-526	S0205	vaktavyā	gdv.	gram. gdv. (-tavya)	0003a15	當	语法	0163c05	當	gerundive 译"當"
 U10-527	S0205				0003a15	次	增译			
 U10-528	S0205	seyamucyate	vac	v. pres. pass. 3sg.	0003a15	頌曰	语法			ucyate 引出本颂，译"頌曰"

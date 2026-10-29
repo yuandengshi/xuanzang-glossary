@@ -26,7 +26,7 @@ U43-131	S0796	viṣaya	viṣaya	n. 成分	0009c18	境	对译	0169c14	塵	补成�
 U43-132	S0796	dhātavo	dhātu	n. m. pl. nom.			省译	0169c14	界	补成分记录；"界"未译
 U43-021	S0796				0009c18	我依名內…外謂此餘	增译			玄奘补释"內"为"我依"（真谛译 ādhyātmika 即作"我依"）
 U43-022	S0797	ātmany	ātman	n. m. sg. loc.	0009c18	我體	意译	0169c15	我	"體"为补足
-U43-023	S0797	asati	a-sat	ptc. m. sg. loc.	0009c18	無	对译	0169c15	無	
+U43-023	S0797	asati	a-sat	ptc. m. sg. loc. (√as)	0009c18	無	对译	0169c15	無	
 U43-024	S0797	asati	loc. abs.	gram. loc. abs. (sati)	0009c18	既	语法	0169c15	既	第七格独立句译"既"
 U43-025	S0797	katham	katham	ind.	0009c18	何…有	语法	0169c15	云何	katham（如何〔成立〕）译"何有"
 U43-026	S0797	ādhyātmikaṃ	ādhyātmika	adj. nt. sg. nom.	0009c18	內	对译	0169c15	我依	
@@ -88,7 +88,7 @@ U43-142	S0805	vijñāna	vijñāna	n. 成分	0009c25	識	对译	0169c23	識	补�
 U43-143	S0805	dhātava	dhātu	n. m. pl. nom.			省译	0169c23	界	补成分记录；"界"未译
 U43-075	S0805	ādhyātmikā	ādhyātmika	adj. m. pl. nom.	0009c25	內	对译	0169c23	我依	
 U43-077	S0805	prāpnuvanti	pra-āp	v. pres. 3pl.	0009c25	應	意译	0169c23	應…成	prāpnoti（推论"应成"）译"應"；"名"为增字
-U43-079	S0806	aprāptāś	a-prāpta	ptc. adj. m. pl. nom.	0009c25	未至	对译	0169c23	未至	
+U43-079	S0806	aprāptāś	a-prāpta	ptc. adj. m. pl. nom. (√pra-āp)	0009c25	未至	对译	0169c23	未至	
 U43-080	S0806	manodhātutvam	manas-dhātu-tva	cpd. nt. sg. acc.	0009c25	意位	意译	0169c24	意界位	
 U43-081	S0806	manodhātu	manas-dhātu	cpd. 成分	0009c25	意	对译	0169c24	意界	"界"未译
 U43-144	S0806	mano	manas	n. 成分	0009c25	意	对译	0169c24	意	补成分记录
@@ -109,25 +109,25 @@ U43-094	S0808	anyathā	anyathā	ind.	0009c27	若異此者	语法	0169c25	若不�
 U43-095	S0808	manodhātur	manas-dhātu	cpd. m. sg. nom.	0009c27	意界	对译	0169c25	意界	
 U43-146	S0808	mano	manas	n. 成分	0009c27	意	对译	0169c25	意	补成分记录
 U43-147	S0808	dhātur	dhātu	n. m. sg. nom.	0009c27	界	对译	0169c25	界	补成分记录
-U43-098	S0808	atīta	atīta	ptc. m. sg. nom.	0009c27	過去	对译	0169c26	過去	"在…世"为增字
+U43-098	S0808	atīta	atīta	ptc. m. sg. nom. (√ati-i)	0009c27	過去	对译	0169c26	過去	"在…世"为增字
 U43-100	S0808				0009c28	六識唯在	增译			
 U43-101	S0808	ānāgatapratyutpannaḥ	an-āgata-pratyutpanna	cpd. m. sg. nom.	0009c28	現在未來	对译	0169c26	未來現在	玄奘倒序
-U43-102	S0808	ānāgata	an-āgata	ptc. 成分	0009c28	未來	对译	0169c26	未來	
-U43-103	S0808	pratyutpannaḥ	pratyutpanna	ptc. m. sg. nom.	0009c28	現在	对译	0169c26	現在	
+U43-102	S0808	ānāgata	an-āgata	ptc. 成分 (√ā-gam)	0009c28	未來	对译	0169c26	未來	
+U43-103	S0808	pratyutpannaḥ	pratyutpanna	ptc. m. sg. nom. (√prati-ut-pad)	0009c28	現在	对译	0169c26	現在	
 U43-104	S0809				0009c28	便違自宗	增译			补出"违背自宗"之意，"自宗"即 iṣyante 的施事
 U43-105	S0809	iṣyante	iṣ	v. pres. pass. 3pl.	0009c28	許	对译	0169c26	許	
 U43-106	S0809	āṣṭādaśa	aṣṭādaśan	num. pl. nom.	0009c28	十八	对译	0169c26	十八	
 U43-107	S0809	dhātavas	dhātu	n. m. pl. nom.	0009c28	界	对译	0169c26	界	
 U43-108	S0809	traiyadhvikāḥ	traiyadhvika	adj. m. pl. nom.	0009c29	通三世	意译	0169c26	有三世	"皆"为增字
 U43-111	S0810	ānāgatapratyutpannasya	an-āgata-pratyutpanna	cpd. nt. sg. gen.	0009c29	未來現在	对译	0169c27	未來現在	
-U43-148	S0810	ānāgata	an-āgata	ptc. 成分	0009c29	未來	对译	0169c27	未來	补成分记录
-U43-149	S0810	pratyutpannasya	pratyutpanna	ptc. nt. sg. gen.	0009c29	現在	对译	0169c27	現在	补成分记录
+U43-148	S0810	ānāgata	an-āgata	ptc. 成分 (√ā-gam)	0009c29	未來	对译	0169c27	未來	补成分记录
+U43-149	S0810	pratyutpannasya	pratyutpanna	ptc. nt. sg. gen. (√prati-ut-pad)	0009c29	現在	对译	0169c27	現在	补成分记录
 U43-112	S0810	vijñānasya	vijñāna	n. nt. sg. gen.	0009c29	識	对译	0169c27	識	"六"为增字
 U43-113	S0810	manodhātulakṣaṇaṃ	manas-dhātu-lakṣaṇa	cpd. nt. sg. nom.	0009c29	意界相	对译	0169c27	意界體相	
 U43-150	S0810	mano	manas	n. 成分	0009c29	意	对译	0169c27	意	补成分记录
 U43-151	S0810	dhātu	dhātu	n. 成分	0009c29	界	对译	0169c27	界	补成分记录
 U43-114	S0810	lakṣaṇaṃ	lakṣaṇa	n. nt. sg. nom.	0009c29	相	对译	0169c27	體相	
-U43-115	S0810	atīte	atīta	ptc. m. sg. loc.	0009c29	過去	对译	0169c27	過去	
+U43-115	S0810	atīte	atīta	ptc. m. sg. loc. (√ati-i)	0009c29	過去	对译	0169c27	過去	
 U43-116	S0810	adhvani	adhvan	n. m. sg. loc.			省译			
 U43-117	S0810	manodhātur	manas-dhātu	cpd. m. sg. nom.	0010a01	意界	对译	0169c28	意界	
 U43-152	S0810	mano	manas	n. 成分	0010a01	意	对译	0169c28	意	补成分记录

@@ -44,15 +44,15 @@ U38-025	S0674	pradeśaś	pradeśa	n. m. sg. nom.			省译	0168b13	一分
 U38-026	S0674	cāsaṃprayuktako	a-saṃprayuktaka	adj. m. sg. nom.	0008b14	不相應	对译	0168b13	與心不相應	
 U38-027	S0674				0008b14	攝…法	增译			
 U38-028	S0674	'nālambanā	an-ālambana	adj. m. pl. nom.	0008b15	無所緣	对译	0168b13	無緣緣	
-U38-029	S0674	isiddham	siddha	ptc. nt. sg. nom.	0008b15	成	对译	0168b13	應知	GRETIL 本作 it isiddham，当读 iti siddham
+U38-029	S0674	isiddham	siddha	ptc. nt. sg. nom. (√sidh)	0008b15	成	对译	0168b13	應知	GRETIL 本作 it isiddham，当读 iti siddham
 U38-030	S0674				0008b15	義准…故	增译			"義准成故"
 U38-031	S0675	katyupāttāḥ	kati	pron. interrog. pl. nom.			省译			
-U38-032	S0675	katyupāttāḥ	upātta	ptc. adj. m. pl. nom.	0008b10	有執受	对译	0168b13	有執	玄奘把此问句提前到 0008b10（U37 末）
-U38-033	S0675	anupāttāḥ	an-upātta	ptc. adj. m. pl. nom.	0008b10	無執受	对译	0168b14	無執	同上
+U38-032	S0675	katyupāttāḥ	upātta	ptc. adj. m. pl. nom. (√upa-ā-dā)	0008b10	有執受	对译	0168b13	有執	玄奘把此问句提前到 0008b10（U37 末）
+U38-033	S0675	anupāttāḥ	an-upātta	ptc. adj. m. pl. nom. (√upa-ā-dā)	0008b10	無執受	对译	0168b14	無執	同上
 U38-034	S0676	navā	navan	num. pl. nom.	0008b16	九	对译	0168b14	九	长行复述本颂；本颂作"前八界及聲"
 U38-035	S0676				0008b16	十八界中	增译			
-U38-036	S0676	ānupāttāḥ	an-upātta	ptc. adj. m. pl. nom.	0008b12	無執受	对译	0168b14	非所執	本颂
-U38-037	S0676	ānupāttāḥ	an-upātta	ptc. adj. m. pl. nom.	0008b16	無執受	对译			长行复述本颂
+U38-036	S0676	ānupāttāḥ	an-upātta	ptc. adj. m. pl. nom. (√upa-ā-dā)	0008b12	無執受	对译	0168b14	非所執	本颂
+U38-037	S0676	ānupāttāḥ	an-upātta	ptc. adj. m. pl. nom. (√upa-ā-dā)	0008b16	無執受	对译			长行复述本颂
 U38-039	S0677	katame nava	navan	num. pl. nom.			省译	0168b15	九	
 U38-041	S0677	uktāḥ	ukta	ptc. m. pl. nom. (√vac)	0008b16	前	合译			与 yad 合为"前"
 U38-042	S0677	ye sapta	saptan	num. pl. nom.	0008b16	七	对译	0168b15	七	
@@ -66,7 +66,7 @@ U38-049	S0678				0008b12	界	增译
 U38-050	S0678	śabdaś	śabda	n. m. sg. nom.	0008b12	聲	对译	0168b15	聲	
 U38-052	S0679				0008b17	八	增译			"此八及聲"复述本颂
 U38-053	S0679	navānupāttāḥ	navan	num. pl. nom.			省译	0168b16	九	
-U38-054	S0679	navānupāttāḥ	an-upātta	ptc. adj. m. pl. nom.	0008b17	無執受	对译	0168b16	非所執	
+U38-054	S0679	navānupāttāḥ	an-upātta	ptc. adj. m. pl. nom. (√upa-ā-dā)	0008b17	無執受	对译	0168b16	非所執	
 U38-055	S0679				0008b17	皆	增译			
 U38-056	S0679	sapta cittadhātavo	saptan	num. pl. nom.			省译	0168b16	七	玄奘已于上句"前七心界及法界全"列出
 U38-057	S0679	cittadhātavo	citta-dhātu	cpd. m. pl. nom.			省译	0168b16	識界	同上
@@ -84,8 +84,8 @@ U38-062	S0680	anye	anya	pron. m. pl. nom.	0008b17	所餘	对译			长行复述�
 U38-063	S0680	nava	navan	num. pl. nom.	0008b17	九	对译			长行复述本颂
 U38-064	S0680				0008b17	界…各	增译			"所餘九界各通二門"
 U38-065	S0680	dvidhā	dvidhā	ind.	0008b17	通二門	意译			长行复述本颂
-U38-066	S0681	upāttā	upātta	ptc. adj. m. pl. nom.	0008b17	有執受	对译	0168b17	有執	
-U38-067	S0681	anupāttāś	an-upātta	ptc. adj. m. pl. nom.	0008b18	無執受	对译	0168b17	無執	
+U38-066	S0681	upāttā	upātta	ptc. adj. m. pl. nom. (√upa-ā-dā)	0008b17	有執受	对译	0168b17	有執	
+U38-067	S0681	anupāttāś	an-upātta	ptc. adj. m. pl. nom. (√upa-ā-dā)	0008b18	無執受	对译	0168b17	無執	
 U38-068	S0681				0008b18	故	增译			
 U38-069	S0682	cakṣuḥśrotraghrāṇajihvākāyāḥ	cakṣus-śrotra-ghrāṇa-jihvā-kāya	cpd. m. pl. nom.	0008b18	眼等五根	意译	0168b18	眼耳鼻舌身	
 U38-070	S0682	cakṣuḥ	cakṣus	n. 成分	0008b18	眼	对译	0168b18	眼	
@@ -93,27 +93,27 @@ U38-168	S0682	śrotra	śrotra	n. 成分			省译	0168b18	耳	补成分记录：�
 U38-169	S0682	ghrāṇa	ghrāṇa	n. 成分			省译	0168b18	鼻	补成分记录：合为"等"（眼等五根）；玄奘以"等"概括，此成分不单译，记省译（原作合译）
 U38-170	S0682	jihvā	jihvā	n. 成分			省译	0168b18	舌	补成分记录：合为"等"（眼等五根）；玄奘以"等"概括，此成分不单译，记省译（原作合译）
 U38-171	S0682	kāyāḥ	kāya	n. m. pl. nom.			省译	0168b18	身	补成分记录：合为"等"（眼等五根）；玄奘以"等"概括，此成分不单译，记省译（原作合译）
-U38-071	S0682	pratyutpannā upāttāḥ	pratyutpanna	ptc. adj. m. pl. nom.	0008b18	現在	对译	0168b18	現在	
+U38-071	S0682	pratyutpannā upāttāḥ	pratyutpanna	ptc. adj. m. pl. nom. (√prati-ut-pad)	0008b18	現在	对译	0168b18	現在	
 U38-072	S0682				0008b18	住…世	增译			"住現在世"
-U38-073	S0682	pratyutpannā upāttāḥ	upātta	ptc. adj. m. pl. nom.	0008b18	有執受	对译	0168b18	有執	"名"为补出
+U38-073	S0682	pratyutpannā upāttāḥ	upātta	ptc. adj. m. pl. nom. (√upa-ā-dā)	0008b18	有執受	对译	0168b18	有執	"名"为补出
 U38-074	S0683	atītānāgatā	atīta-anāgata	cpd. m. pl. nom.	0008b19	過去未來	对译			真谛作"所餘"（0168b19）
-U38-075	S0683	atītā	atīta	ptc. 成分	0008b19	過去	对译			
-U38-076	S0683	ānāgatā	an-āgata	ptc. m. pl. nom.	0008b19	未來	对译			
-U38-077	S0683	anupāttāḥ	an-upātta	ptc. adj. m. pl. nom.	0008b19	無執受	对译	0168b19	無執	
+U38-075	S0683	atītā	atīta	ptc. 成分 (√ati-i)	0008b19	過去	对译			
+U38-076	S0683	ānāgatā	an-āgata	ptc. m. pl. nom. (√ā-gam)	0008b19	未來	对译			
+U38-077	S0683	anupāttāḥ	an-upātta	ptc. adj. m. pl. nom. (√upa-ā-dā)	0008b19	無執受	对译	0168b19	無執	
 U38-078	S0684	rūpagandharasaspraṣṭavyadhātavaḥ	rūpa-gandha-rasa-spraṣṭavya-dhātu	cpd. m. pl. nom.	0008b19	色香味觸	对译	0168b18	色香味觸	dhātu 未译
 U38-079	S0684	rūpa	rūpa	n. 成分	0008b19	色	对译	0168b18	色	
 U38-080	S0684	gandha	gandha	n. 成分	0008b19	香	对译	0168b18	香	
 U38-081	S0684	rasa	rasa	n. 成分	0008b19	味	对译	0168b18	味	
-U38-082	S0684	spraṣṭavya	spraṣṭavya	gdv. n. 成分	0008b19	觸	对译	0168b18	觸	
+U38-082	S0684	spraṣṭavya	spraṣṭavya	gdv. n. 成分 (√spṛś)	0008b19	觸	对译	0168b18	觸	
 U38-172	S0684	dhātavaḥ	dhātu	n. m. pl. nom.			省译			补成分记录：dhātu 未译
-U38-083	S0684	pratyutpannā indriyā	pratyutpanna	ptc. adj. m. pl. nom.	0008b19	現在	对译	0168b19	現在	
+U38-083	S0684	pratyutpannā indriyā	pratyutpanna	ptc. adj. m. pl. nom. (√prati-ut-pad)	0008b19	現在	对译	0168b19	現在	
 U38-084	S0684	indriyāvinirbhāgiṇa	indriya-a-vinirbhāgin	cpd. adj. m. pl. nom.	0008b20	不離…根	意译	0168b19	與根不相離	"五"为补出；玄奘倒序
 U38-084+1	S0684				0008b20	五	增译			合并时从 U38-084（不離五根）拆出
 U38-085	S0684	indriyā	indriya	n. 成分	0008b20	根	对译	0168b19	根	
 U38-086	S0684	āvinirbhāgiṇa	a-vinirbhāgin	adj. m. pl. nom.	0008b20	不離	对译	0168b19	不相離	
-U38-087	S0684	bhāgiṇa upāttāḥ	upātta	ptc. adj. m. pl. nom.	0008b20	有執受	对译	0168b19	有執	
+U38-087	S0684	bhāgiṇa upāttāḥ	upātta	ptc. adj. m. pl. nom. (√upa-ā-dā)	0008b20	有執受	对译	0168b19	有執	
 U38-088	S0685	anye	anya	pron. m. pl. nom.	0008b20	若住現在非不離根過去未來	意译	0168b19	所餘	anye（其余者）展开为"若住現在非不離根、過去未來"
-U38-089	S0685	'nupāttās	an-upātta	ptc. adj. m. pl. nom.	0008b21	無執受	对译	0168b19	無執	
+U38-089	S0685	'nupāttās	an-upātta	ptc. adj. m. pl. nom. (√upa-ā-dā)	0008b21	無執受	对译	0168b19	無執	
 U38-091	S0685				0008b21	在身內	增译			玄奘补出"身內""身外"之分
 U38-092	S0685	mūlavarjeṣu	mūla-varja	cpd. adj. m. pl. loc.	0008b21	除與根合	意译	0168b20	除根	待核：mūla 指发毛等之根部，玄奘作"與根合"（与根相合者）
 U38-093	S0685	mūla	mūla	n. 成分	0008b22	根	意译	0168b20	根	同上
@@ -137,7 +137,7 @@ U38-108	S0685	bhūmy	bhūmi	n. 成分	0008b23	地	对译	0168b20	地
 U38-109	S0685	udakā	udaka	n. 成分	0008b23	水	对译	0168b20	水	
 U38-175	S0685	ādiṣu	ādi	n. m. pl. loc. (?)	0008b23	等	对译	0168b21	等	补成分记录
 U38-111	S0685				0008b23	色香味觸，雖在現世而無執受	增译			玄奘补出谓语
-U38-112	S0686	upāttamiti	upātta	ptc. adj. nt. sg. nom.	0008b24	有執受	对译	0168b21	有執	真谛作"有執無執"
+U38-112	S0686	upāttamiti	upātta	ptc. adj. nt. sg. nom. (√upa-ā-dā)	0008b24	有執受	对译	0168b21	有執	真谛作"有執無執"
 U38-114	S0686				0008b24	此言	增译	0168b21	此言	
 U38-115	S0686	'rthaḥ	artha	n. m. sg. nom.	0008b24	義	对译	0168b21	義	
 U38-116	S0687	cittacaittair	citta-caitta	cpd. m. pl. instr.	0008b24	心心所	意译	0168b21	心及心法	"法"为补出

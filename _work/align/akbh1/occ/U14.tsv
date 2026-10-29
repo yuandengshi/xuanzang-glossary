@@ -35,7 +35,7 @@ U14-031	S0276	kāyāyatanaṃ	kāya-āyatana	cpd. nt. sg. nom.	0003c25	身處	�
 U14-032	S0276	kāyā	kāya	n. 成分	0003c25	身	对译	0164b10	身	
 U14-070	S0276	āyatanaṃ	āyatana	n. nt. sg. nom.	0003c25	處	对译	0164b10	入	补成分记录
 U14-033	S0276	spraṣṭavyāyatanam	spraṣṭavya-āyatana	cpd. nt. sg. nom.	0003c25	觸處	对译	0164b10	觸入	
-U14-034	S0276	spraṣṭavyā	spraṣṭavya	gdv. n. 成分	0003c25	觸	对译	0164b10	觸	
+U14-034	S0276	spraṣṭavyā	spraṣṭavya	gdv. n. 成分 (√spṛś)	0003c25	觸	对译	0164b10	觸	
 U14-071	S0276	āyatanam	āyatana	n. nt. sg. nom.	0003c25	處	对译	0164b10	入	补成分记录
 U14-036	S0277	dhātuvyavasthāyāṃ	dhātu-vyavasthā	cpd. f. sg. loc.	0003c25	界門立為	意译	0164b11	安立界門	
 U14-037	S0277	dhātu	dhātu	n. 成分	0003c25	界	对译	0164b11	界	
@@ -55,7 +55,7 @@ U14-049	S0277	kāyadhātuḥ	kāya-dhātu	cpd. m. sg. nom.	0003c26	身界	对译
 U14-050	S0277	kāya	kāya	n. 成分	0003c26	身	对译	0164b11	身	
 U14-074	S0277	dhātuḥ	dhātu	n. m. sg. nom.	0003c26	界	对译	0164b11	界	补成分记录
 U14-051	S0277	spraṣṭavyadhātur	spraṣṭavya-dhātu	cpd. m. sg. nom.	0003c26	觸界	对译	0164b11	觸界	
-U14-052	S0277	spraṣṭavya	spraṣṭavya	gdv. n. 成分	0003c26	觸	对译	0164b11	觸	
+U14-052	S0277	spraṣṭavya	spraṣṭavya	gdv. n. 成分 (√spṛś)	0003c26	觸	对译	0164b11	觸	
 U14-075	S0277	dhātur	dhātu	n. m. sg. nom.	0003c26	界	对译	0164b12	界	补成分记录
 U14-053	S0278	ukto	ukta	ptc. m. sg. nom. (√vac)	0003c26	說	对译	0164b12	說	
 U14-055	S0278	rūpaskandhas	rūpa-skandha	cpd. m. sg. nom.	0003c26	色蘊	对译	0164b12	色陰	
@@ -69,6 +69,6 @@ U14-062	S0278				0003c27	界	增译	0164b12	界	玄奘、真谛都补出"界"（
 U14-063	S0279	vedanādayo	vedanā-ādi	cpd. m. pl. nom.	0003c27	受等	对译	0164b12	受等	GRETIL 本句首混入页行标记（[010-12=01012]）
 U14-064	S0279	vedanā	vedanā	n. 成分	0003c27	受	对译	0164b12	受	
 U14-065	S0279	ādayo	ādi	n. m. pl. nom.	0003c27	等	对译	0164b12	等	
-U14-066	S0279	vaktavyaḥ	vac	gdv. m. sg. nom.	0003c27	說	对译	0164b12	說	GRETIL 作 vaktavyaḥ（单数），主语 vedanādayaḥ 为复数，疑当读 vaktavyāḥ
+U14-066	S0279	vaktavyaḥ	vaktavya	gdv. m. sg. nom. (√vac)	0003c27	說	对译	0164b12	說	GRETIL 作 vaktavyaḥ（单数），主语 vedanādayaḥ 为复数，疑当读 vaktavyāḥ
 U14-067	S0279	vaktavyaḥ	gdv.	gram. gdv. (-tavya)	0003c27	當	语法	0164b12	當	义务分词表"将要（说）"，译"當"
 U14-068	S0279				0003c27	三蘊處界	增译	0164b12	諸陰	玄奘补出"三蘊處界"，真谛补"諸陰"

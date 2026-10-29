@@ -22,7 +22,7 @@ GROUPS = [
         ('√', 'root', '词根，如 (√han)、(caus. √jan)'),
         ('ppp.', 'past passive participle', '过去被动分词（-ta、-na），玄奘常以"已"表出'),
         ('tavat', 'past active participle', '过去主动分词（-tavat），如 abhyuddhṛtavān'),
-        ('gdv.', 'gerundive', '动形容词（-ya、-tavya、-anīya），表"应…、可…"，玄奘常译"所…"'),
+        ('gdv.', 'gerundive', '动形容词（-ya、-tavya、-anīya），表"应…、可…"，玄奘常译"所…"；词目写词形本身（如 vaktavya），词根注在括号里'),
         ('abs.', 'absolutive', '独立式（-tvā、-ya），表先行动作，玄奘常以"已"表出'),
         ('inf.', 'infinitive', '不定式（-tum）'),
         ('cpd.', 'compound', '复合词，词目用连字符分出成分'),

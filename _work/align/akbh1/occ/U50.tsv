@@ -1,7 +1,7 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
 U50-001	S1032	caramasyā	carama	adj. m. sg. gen.	0012b04	後	对译	0172a09	後	指六识中最后的意识；真谛作"後界"
 U50-002	S1032	āśrayo	āśraya	n. m. sg. nom.	0012b04	依	对译	0172a10	依	
-U50-003	S1032	'tītaḥ	atīta	ptc. m. sg. nom.	0012b04	過去	对译	0172a10	過去	
+U50-003	S1032	'tītaḥ	atīta	ptc. m. sg. nom. (√ati-i)	0012b04	過去	对译	0172a10	過去	
 U50-004	S1032				0012b04	唯	增译			本颂增"唯"；长行亦作"意識唯依無間滅意"
 U50-005	S1033	manovijñānadhātoḥ	manas-vijñāna-dhātu	cpd. m. sg. gen.	0012b05	意識	意译	0172a10	意識界	dhātu 未译（另记省译）；真谛作"意識界"
 U50-006	S1033	manovijñāna	manas-vijñāna	cpd. 成分	0012b05	意識	对译	0172a10	意識	
@@ -29,7 +29,7 @@ U50-025	S1035	śabdaḥ	śabda	n. m. sg. nom.	0012b06	言	对译	0172a11	言
 U50-026	S1035	ceti	iti	ind.	0012b06	表	语法	0172a11	顯	释词句"X iti caśabdaḥ"（ca 字表 X），玄奘作"或言表…"
 U50-027	S1035				0012b06	此	增译			补出主语（五识）
 U50-029	S1035				0012b06	依	增译			承上补出 āśraya
-U50-030	S1035	atītaś	atīta	ptc. m. sg. nom.	0012b06	過去	对译	0172a11	過去	
+U50-030	S1035	atītaś	atīta	ptc. m. sg. nom. (√ati-i)	0012b06	過去	对译	0172a11	過去	
 U50-032	S1036	cakṣurvijñānasya	cakṣus-vijñāna	cpd. nt. sg. gen.	0012b06	眼識	对译	0172a11	眼識	
 U50-145	S1036	cakṣur	cakṣus	n. 成分	0012b06	眼	对译	0172a11	眼	补成分记录
 U50-146	S1036	vijñānasya	vijñāna	n. nt. sg. gen.	0012b06	識	对译	0172a11	識	补成分记录
@@ -44,7 +44,7 @@ U50-148	S1036	vijñānasya	vijñāna	n. nt. sg. gen.	0012b07	識	对译	0172a12	
 U50-040	S1036	kāyaḥ	kāya	n. m. sg. nom.	0012b07	身	对译			
 U50-041	S1036				0012b07	俱生所依	增译	0172a12	亦爾	梵文承上省略，玄奘重出"俱生所依"；真谛作"亦爾"
 U50-042	S1036				0012b07	同現世故	梵本缺文	0172a12	同一世故	二译皆有此释因，Pradhan 本无对应语，疑所据梵本有之，待核
-U50-043	S1037	atītaḥ	atīta	ptc. m. sg. nom.	0012b08	過去	对译	0172a12	過去	
+U50-043	S1037	atītaḥ	atīta	ptc. m. sg. nom. (√ati-i)	0012b08	過去	对译	0172a12	過去	
 U50-046	S1037	āśrayo	āśraya	n. m. sg. nom.	0012b08	依	对译	0172a12	依	
 U50-047	S1037	mana	manas	n. nt. sg. nom.	0012b08	意	对译	0172a13	意根	
 U50-048	S1037				0012b07	無間滅	增译			取自上文 samanantaraniruddha（S1033）
@@ -88,7 +88,7 @@ U50-083	S1039	dvitīyā	dvitīya	num. f. sg. nom. (ord.)	0012b12	第二	对译	0
 U50-084	S1039				0012b12	句	增译	0172a15	句	梵文承上省 koṭi，"第二句""第三句"的"句"皆补出
 U50-085	S1039	samanantarātītaś	samanantara-atīta	cpd. ptc. m. sg. nom.	0012b13	無間滅	意译	0172a15	次第已滅	atīta 此处译"滅"
 U50-086	S1039	samanantarā	samanantara	adj. 成分	0012b13	無間	对译	0172a15	次第	
-U50-087	S1039	ātītaś	atīta	ptc. m. sg. nom.	0012b13	滅	意译	0172a15	已滅	atīta（已过去）此处译"滅"，真谛作"已滅"
+U50-087	S1039	ātītaś	atīta	ptc. m. sg. nom. (√ati-i)	0012b13	滅	意译	0172a15	已滅	atīta（已过去）此处译"滅"，真谛作"已滅"
 U50-088	S1039	caitasiko	caitasika	adj. m. sg. nom.	0012b13	心所	对译	0172a16	心法	
 U50-089	S1039	dharmadhātuḥ	dharma-dhātu	cpd. m. sg. nom.	0012b13	法界	对译	0172a16	法界	
 U50-157	S1039	dharma	dharma	n. 成分	0012b13	法	对译	0172a16	法	补成分记录
@@ -96,7 +96,7 @@ U50-158	S1039	dhātuḥ	dhātu	n. m. sg. nom.	0012b13	界	对译	0172a16	界	补
 U50-090	S1040	tṛtīyā	tṛtīya	num. f. sg. nom. (ord.)	0012b13	第三	对译	0172a16	第三	
 U50-091	S1040	samanantarātītaṃ	samanantara-atīta	cpd. ptc. nt. sg. nom.	0012b13	過去	意译	0172a16	次第已滅	samanantara 未译；同一复合词上句作"無間滅"
 U50-092	S1040	samanantarātītaṃ	samanantara	adj. 成分			省译	0172a16	次第	
-U50-093	S1040	ātītaṃ	atīta	ptc. nt. sg. nom.	0012b13	過去	对译	0172a16	已滅	
+U50-093	S1040	ātītaṃ	atīta	ptc. nt. sg. nom. (√ati-i)	0012b13	過去	对译	0172a16	已滅	
 U50-094	S1040	manaḥ	manas	n. nt. sg. nom.	0012b13	意根	对译	0172a16	心	真谛作"心"
 U50-095	S1040	caturthī	caturtha	num. f. sg. nom. (ord.)	0012b14	第四	对译	0172a16	第四	
 U50-096	S1040	koṭir	koṭi	n. f. sg. nom.	0012b14	句	对译	0172a16	句	
@@ -110,7 +110,7 @@ U50-160	S1041	vijñānasya	vijñāna	n. nt. sg. gen.	0012b14	識	对译	0172a17	
 U50-103	S1041				0012b14	各各	增译			表分配
 U50-104	S1041	svam	sva	pron. nt. sg. nom.	0012b15	自	对译	0172a17	自	
 U50-105	S1041	indriyaṃ	indriya	n. nt. sg. nom.	0012b15	根	对译	0172a17	根	
-U50-106	S1041	vaktavyam	vac	gdv. nt. sg. nom.	0012b15	說	对译	0172a17	說	
+U50-106	S1041	vaktavyam	vaktavya	gdv. nt. sg. nom. (√vac)	0012b15	說	对译	0172a17	說	
 U50-108	S1042	manovijñānasya	manas-vijñāna	cpd. nt. sg. gen.	0012b15	意識	对译	0172a17	意識	
 U50-161	S1042	mano	manas	n. 成分	0012b15	意	对译	0172a17	意	补成分记录
 U50-162	S1042	vijñānasya	vijñāna	n. nt. sg. gen.	0012b15	識	对译	0172a18	識	补成分记录
@@ -138,7 +138,7 @@ U50-171	S1044	āśraya	āśraya	n. 成分	0012b17	所依	对译	0172a19	依	补�
 U50-172	S1044	bhāvena	bhāva	n. m. sg. instr.	0012b17	性	意译			补成分记录
 U50-126	S1045	samanantarābhyatītaś	samanantara-abhyatīta	cpd. ptc. m. sg. nom.	0012b17	無間滅	意译	0172a19	無間滅	
 U50-173	S1045	samanantarā	samanantara	adj. 成分	0012b17	無間	对译	0172a19	無間	补成分记录
-U50-127	S1045	ābhyatītaś	abhyatīta	ptc. m. sg. nom.	0012b17	滅	意译	0172a19	滅	abhyatīta（已过去）译"滅"
+U50-127	S1045	ābhyatītaś	abhyatīta	ptc. m. sg. nom. (√abhi-ati-i)	0012b17	滅	意译	0172a19	滅	abhyatīta（已过去）译"滅"
 U50-128	S1045	cetasiko	caitasika	adj. m. sg. nom.	0012b17	心所	对译	0172a19	心法	GRETIL 本作 cetasiko（S1039 作 caitasiko）
 U50-129	S1045	dharmadhātur	dharma-dhātu	cpd. m. sg. nom.	0012b18	法界	对译	0172a19	法界	
 U50-174	S1045	dharma	dharma	n. 成分	0012b18	法	对译	0172a19	法	补成分记录

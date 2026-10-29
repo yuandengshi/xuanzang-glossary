@@ -26,12 +26,12 @@ U11-024	S0208	asaṃjñinirodhasamāpattisamāpannasyāpi	asaṃjñi-nirodha-sam
 U11-025	S0208	asaṃjñi	a-saṃjñin	adj. 成分	0003a18	無想	对译	0163c08	無想	
 U11-026	S0208	nirodha	nirodha	n. 成分	0003a19	滅盡	意译	0163c08	滅心	
 U11-027	S0208	samāpatti	samāpatti	n. 成分	0003a19	定	对译	0163c08	定	
-U11-028	S0208	samāpannasyā	samāpanna	ptc. m. sg. gen.	0003a18	入	对译	0163c07	入	
+U11-028	S0208	samāpannasyā	samāpanna	ptc. m. sg. gen. (√sam-ā-pad)	0003a18	入	对译	0163c07	入	
 U11-029	S0209	apiśabdenā	api-śabda	cpd. m. sg. instr.	0003a19	等，言	意译	0163c09	言耶	玄奘以颂中"等"字当 api
 U11-112	S0209	api	api	ind. 成分	0003a19	等	意译	0163c09	耶	补成分记录；玄奘以颂中"等"字当 api（同 U11-004）
 U11-030	S0209	śabdenā	śabda	n. m. sg. instr.	0003a19	言	对译	0163c09	言	
 U11-031	S0209	āvikṣiptasacittasyā	a-vikṣipta-sa-citta	cpd. m. sg. gen.	0003a19	不亂有心	对译	0163c08	非亂心及有心	
-U11-032	S0209	āvikṣipta	a-vikṣipta	ptc. 成分	0003a19	不亂	对译	0163c08	非亂心	
+U11-032	S0209	āvikṣipta	a-vikṣipta	ptc. 成分 (√vi-kṣip)	0003a19	不亂	对译	0163c08	非亂心	
 U11-033	S0209	sacittasyā	sa-citta	adj. m. sg. gen.	0003a19	有心	对译	0163c08	有心	
 U11-034	S0209	vijñāyate	vi-jñā	v. pres. pass. 3sg.	0003a19	顯示	意译	0163c08	顯	
 U11-035	S0210	'nu bandha	anubandha	n. m. sg. nom.	0003a20	隨流	对译	0163c09	隨流	GRETIL 本作 'nu bandha
@@ -90,7 +90,7 @@ U11-076	S0214	rūpa	rūpa	n. 成分	0003a23	色	对译	0163c13	色
 U11-077	S0214	kriyā	kriyā	n. 成分	0003a23	業	意译	0163c13	業	kriyā（作用）译"業"
 U11-078	S0214	svabhāvāpi	svabhāva	n. f. sg. nom.	0003a23	性	对译	0163c13	性	
 U11-079	S0214	svabhāvāpi satī	api	ind.	0003a23	雖	语法	0163c13	雖	api satī（虽是）译"雖"
-U11-080	S0214	satī	sat	ptc. f. sg. nom.			省译			api satī 只译"雖"
+U11-080	S0214	satī	sat	ptc. f. sg. nom. (√as)			省译			api satī 只译"雖"
 U11-081	S0214	vijñaptivat	vijñapti	n. 成分	0003a23	有表	对译	0163c13	有教色	与"無表"相对，作"有表"
 U11-082	S0214				0003a24	業	增译			
 U11-083	S0214	paraṃ	para	pron. m. sg. acc.	0003a24	他	对译	0163c14	他	

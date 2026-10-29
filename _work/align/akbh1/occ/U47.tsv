@@ -5,7 +5,7 @@ U47-003	S0949	cakṣubhuyāṃ	cakṣus	n. nt. du. instr.	0011b10	眼	对译	017
 U47-004	S0949	paśyati	dṛś	v. pres. 3sg.	0011b10	見	合译	0171a28	見	颂文"見色分明"之"見"兼摄 paśyati 与 darśana；长行作"二眼俱見"
 U47-005	S0949	vyaktadarśanāt	vyakta-darśana	cpd. nt. sg. abl.	0011b10	見…分明	意译	0171a29	分明見色	"色"为增字；第五格"故"
 U47-005+1	S0949				0011b10	色	增译			合并时从 U47-005（見色分明）拆出
-U47-006	S0949	vyakta	vyakta	ptc. adj. 成分	0011b10	分明	对译	0171a29	分明	
+U47-006	S0949	vyakta	vyakta	ptc. adj. 成分 (√vi-añj)	0011b10	分明	对译	0171a29	分明	
 U47-007	S0949	darśanāt	darśana	n. nt. sg. abl.	0011b10	見	对译	0171a29	見	
 U47-008	S0950	ubhābhyām	ubha	pron. nt. du. instr.	0011b11	二…俱	拆译	0171a29	二	"或時二眼俱見"
 U47-009	S0950	ubhābhyāmapi	api	ind.	0011b11	或時	语法	0171a29	亦	
@@ -15,7 +15,7 @@ U47-013	S0950	ābhidhārmikāḥ	ābhidhārmika	n. m. pl. nom.	0011b11	阿毘達
 U47-015	S0951	tathā hi	tathā hi	ind.	0011b12	以…故	语法	0171b01	何以故	
 U47-016	S0951	dvayor	dvi	num. nt. du. loc.	0011b12	二	对译	0171b01	二	"開二眼"，"眼"为增字
 U47-017	S0951	vivṛtayoḥ	vivṛta	ptc. nt. du. loc. (√vi-vṛ)	0011b12	開	对译	0171b01	開	
-U47-018	S0951	paraiśāuddhataraṃ	pariśuddha	ptc. adj. nt. sg. nom.	0011b12	分明	意译	0171b01	明了	GRETIL 本作 paraiśāuddhataraṃ，当读 pariśuddhataraṃ
+U47-018	S0951	paraiśāuddhataraṃ	pariśuddha	ptc. adj. nt. sg. nom. (√pari-śudh)	0011b12	分明	意译	0171b01	明了	GRETIL 本作 paraiśāuddhataraṃ，当读 pariśuddhataraṃ
 U47-019	S0951	paraiśāuddhataraṃ	compar.	gram. compar. (-tara)	0011b12	開一眼時不分明	意译	0171b01	最	比较级玄奘以对比句"開一眼時不分明"表出；真谛作"最"
 U47-020	S0951	darāśanaṃ	darśana	n. nt. sg. nom.	0011b12	見	对译	0171b01	見	GRETIL 本作 darāśanaṃ；"見色分明"，"色"为增字
 U47-021	S0951	bhavati	bhū	v. pres. 3sg.			省译			
@@ -47,7 +47,7 @@ U47-043	S0954	parasaṅgo	prasaṅga	n. m. sg. nom.	0011b15	成	意译			prasa�
 U47-044	S0954	vijñānasya	vijñāna	n. nt. sg. gen.	0011b15	識	对译	0171b03	識	
 U47-045	S0954	deśāpratiṣṭhitatvād	deśa-apratiṣṭhita-tva	cpd. nt. sg. abl.	0011b15	住無方	意译	0171b03	無住處	第五格"故"
 U47-046	S0954	deśā	deśa	n. 成分	0011b15	方	对译	0171b04	處	
-U47-047	S0954	āpratiṣṭhita	a-pratiṣṭhita	ptc. 成分	0011b15	住無	意译	0171b03	無住	
+U47-047	S0954	āpratiṣṭhita	a-pratiṣṭhita	ptc. 成分 (√prati-sthā)	0011b15	住無	意译	0171b03	無住	
 U47-048	S0954	raupavad	rūpa	n. 成分 (-vat)	0011b16	色	对译	0171b04	色	GRETIL 本作 raupavad，当读 rūpavad；"礙"为增字（不同礙色）
 U47-049	S0954	raupavad	-vat	gram. suffix	0011b15	不同	语法	0171b04	不同於	rūpavat 承前 na，玄奘作"不同礙色"
 U47-050	S0955				0011b16	此宗說	增译			
@@ -60,6 +60,6 @@ U47-057	S0955	vijānāti	vi-jñā	v. pres. 3sg.	0011b16	了	对译	0171b05	識
 U47-058	S0955	kimeṣāṃ	idam	pron. nt. pl. gen.	0011b16	彼	语法	0171b05	彼	
 U47-059	S0955				0011b16	所取…根正取時	增译			玄奘补出"所取""根正取時"
 U47-060	S0955	viṣaya	viṣaya	n. m. sg. nom.	0011b17	境	对译	0171b05	塵	
-U47-061	S0955	prāpto	prāpta	ptc. m. sg. nom.	0011b17	至	对译	0171b05	至	
-U47-062	S0955	aprāptaḥ	a-prāpta	ptc. m. sg. nom.	0011b17	不至	对译	0171b05	不至	
+U47-061	S0955	prāpto	prāpta	ptc. m. sg. nom. (√pra-āp)	0011b17	至	对译	0171b05	至	
+U47-062	S0955	aprāptaḥ	a-prāpta	ptc. m. sg. nom. (√pra-āp)	0011b17	不至	对译	0171b05	不至	
 U47-063	S0955	kimeṣāṃ prāpto viṣaya āhosvid	kim … āhosvit	gram.	0011b17	為	语法	0171b05	為…為	选择问句，玄奘只出一"為"（為至不至）

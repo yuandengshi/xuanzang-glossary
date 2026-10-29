@@ -37,7 +37,7 @@ U49-025	S1003	paśyati	dṛś	v. pres. 3sg.	0012a07	見	对译	0171c18	見
 U49-026	S1005	bhūyāṃso	bhūyas	adj. compar. m. pl. nom.	0012a08	大	对译	0171c19	最大	"取"为增字；玄奘次序为小、大、等，与梵文小、等、大不同
 U49-027	S1005	yadā mahāntaṃ	yadā	ind.	0012a08	如	语法	0171c19	若	
 U49-028	S1005	unmiṣitamātreṇa	unmiṣita-mātra	cpd. nt. sg. instr.	0012a08	暫開目	对译			
-U49-029	S1005	unmiṣita	unmiṣita	ptc. 成分	0012a08	開目	对译			
+U49-029	S1005	unmiṣita	unmiṣita	ptc. 成分 (√ud-miṣ)	0012a08	開目	对译			
 U49-030	S1005	mātreṇa	mātra	n. nt. sg. instr.	0012a08	暫	意译			mātra（仅仅）此作"暫"
 U49-031	S1005	paśyaty	dṛś	v. pres. 3sg.	0012a08	見	对译	0171c19	見	
 U49-032	S1005	mahāntaṃ	mahat	adj. m. sg. acc.	0012a08	大	对译	0171c19	大	
@@ -88,7 +88,7 @@ U49-067	S1009	puṣpavad	puṣpa	n. 成分 (-vat)	0012a13	花	对译	0171c22	花
 U49-068	S1010	acchacarmāvacchāditās	accha-carman-avacchādita	cpd. adj. m. pl. nom.	0012a13	清澈映覆	意译	0171c23	青色所覆	carman（膜）未译出
 U49-069	S1010	accha	accha	adj. 成分	0012a13	清澈	对译			
 U49-206	S1010	carmā	carman	n. 成分			省译			补成分记录；carman（皮、膜）玄奘、真谛都未译出
-U49-070	S1010	āvacchāditās	avacchādita	ptc. m. pl. nom.	0012a13	映覆	意译	0171c23	所覆	
+U49-070	S1010	āvacchāditās	avacchādita	ptc. m. pl. nom. (caus. √ava-chad)	0012a13	映覆	意译	0171c23	所覆	
 U49-071	S1010	vikīryante	vi-kṝ	v. pres. pass. 3pl.	0012a13	分散	对译	0171c23	散	"無"对 na（na → 無 已足两例，不另立）
 U49-072	S1010				0012a13	令	增译			"令無分散"
 U49-073	S1011	ityapare	apara	pron. m. pl. nom.	0012a13	有	意译	0171c23	有餘部	"有說"
@@ -192,10 +192,10 @@ U49-133	S1023	bhavanti	bhū	v. pres. 3pl.	0012a24	是	意译
 U49-134	S1024	api hy	api	ind.	0012a24	乃至…猶	语法			api（甚至）玄奘作"乃至…猶"
 U49-135	S1024	pradīptanarakābhyantarāvaruddhānām	pradīpta-naraka-abhyantara-avaruddha	cpd. m. pl. gen.	0012a24	極熱捺落迦中…纏身	意译	0172a03	然焰地獄中所執駐眾生	"猛焰"为增字
 U49-135+1	S1024				0012a25	猛焰	增译			合并时从 U49-135（極熱捺落迦中猛焰纏身）拆出
-U49-136	S1024	pradīpta	pradīpta	ptc. 成分	0012a24	極熱	意译	0172a03	然焰	
+U49-136	S1024	pradīpta	pradīpta	ptc. 成分 (√pra-dīp)	0012a24	極熱	意译	0172a03	然焰	
 U49-137	S1024	narakā	naraka	n. 成分	0012a24	捺落迦	音译	0172a03	地獄	真谛意译
 U49-138	S1024	ābhyantarā	abhyantara	n. 成分	0012a25	中	对译	0172a03	中	
-U49-139	S1024	āvaruddhānām	avaruddha	ptc. m. pl. gen.	0012a25	纏身	意译	0172a03	所執駐	
+U49-139	S1024	āvaruddhānām	avaruddha	ptc. m. pl. gen. (√ava-rudh)	0012a25	纏身	意译	0172a03	所執駐	
 U49-140	S1024	aparimāṇāḥ	a-parimāṇa	adj. m. pl. nom.	0012a25	無量	对译	0172a03	無量	"有"为增字
 U49-141	S1024	kāyendriyaparamāṇavas	kāya-indriya-paramāṇu	cpd. m. pl. nom.	0012a25	身根極微	对译	0172a04	身隣虛	
 U49-245	S1024	kāye	kāya	n. 成分	0012a25	身	对译	0172a04	身	补成分记录
@@ -222,7 +222,7 @@ U49-155	S1026				0012a27	為所依緣	增译
 U49-156	S1026	vijñānaṃ	vijñāna	n. nt. sg. acc.	0012a27	識	对译	0172a06	識	"身識"，"身"为增字
 U49-157	S1026	janayati	jan (caus.)	v. pres. caus. 3sg.	0012a27	發	意译	0172a06	生	"能"为增字
 U49-158	S1027	saṃcitāśrayālambanatvāt	saṃcita-āśraya-ālambana-tva	cpd. nt. sg. abl.	0012a28	積集…所依所緣性	意译	0172a06	以微聚為根塵	"決定""多微""方成"为增字；第五格"故"
-U49-159	S1027	saṃcitā	saṃcita	ptc. 成分	0012a28	積集	对译	0172a06	微聚	
+U49-159	S1027	saṃcitā	saṃcita	ptc. 成分 (√saṃ-ci)	0012a28	積集	对译	0172a06	微聚	
 U49-160	S1027	āśrayā	āśraya	n. 成分	0012a28	所依	对译	0172a06	根	
 U49-161	S1027	ālambana	ālambana	n. 成分	0012a28	所緣	对译	0172a06	塵	
 U49-163	S1027	pañcānāṃ	pañcan	num. pl. gen.	0012a27	五	对译	0172a06	五	
@@ -248,7 +248,7 @@ U49-259	S1029	vijñānaṃ	vijñāna	n. nt. sg. nom.	0012b01	識	对译	0172a08	
 U49-177	S1029	kimeṣāṃ	kim	pron. nt. sg. acc.	0012b01	為	语法	0172a09	為…不	是非问句，句末"耶"在 0012b03
 U49-178	S1029	pañcānāṃ	pañcan	num. pl. gen.	0012b01	五	对译	0172a08	五	"為如五識"，"識"承上补出；"如"对 yatha（yathā → 如 已足两例，不另立）
 U49-179	S1029	viṣayo	viṣaya	n. m. sg. nom.	0012b02	緣	意译	0172a08	塵	viṣaya（境）玄奘以动词"緣"表出；"唯"为增字
-U49-180	S1029	varttamānaḥ	vartamāna	ptc. m. sg. nom.	0012b02	現在	对译	0172a08	現世	GRETIL 本作 varttamāna
+U49-180	S1029	varttamānaḥ	vartamāna	ptc. m. sg. nom. (√vṛt)	0012b02	現在	对译	0172a08	現世	GRETIL 本作 varttamāna
 U49-181	S1029	caramasya	carama	adj. m. sg. gen.	0012b02	意識	意译	0172a08	最後識	carama（最后者）还原为"意識"
 U49-182	S1029	trikāla	tri-kāla	cpd. adj. m. sg. nom.	0012b02	三世	对译	0172a08	三世	"通緣"为增字
 U49-260	S1029	tri	tri	num. 成分	0012b02	三	对译	0172a08	三	补成分记录

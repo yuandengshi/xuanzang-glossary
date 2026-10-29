@@ -10,8 +10,8 @@ U35-006	S0634	mārgasatyāsaṃskṛtasaṃghṛhītā	mārga-satya-asaṃskṛt
 U35-007	S0634	mārgasatyā	mārga-satya	cpd. 成分	0008a06	道諦	对译	0168a09	道諦	
 U35-043	S0634	mārga	mārga	n. 成分	0008a06	道	对译	0168a09	道	补成分记录
 U35-044	S0634	satyā	satya	n. 成分	0008a06	諦	对译	0168a09	諦	补成分记录
-U35-045	S0634	āsaṃskṛta	a-saṃskṛta	ptc. adj. 成分			省译			补成分记录：U35-006（就意、意識而言）的 asaṃskṛta 不译；法界句见 U35-016
-U35-008	S0634	saṃghṛhītā	saṃgṛhīta	ptc. m. pl. nom.	0008a06	攝	对译	0168a10	所攝	GRETIL 本作 saṃghṛhīta
+U35-045	S0634	āsaṃskṛta	a-saṃskṛta	ptc. adj. 成分 (√saṃ-kṛ)			省译			补成分记录：U35-006（就意、意識而言）的 asaṃskṛta 不译；法界句见 U35-016
+U35-008	S0634	saṃghṛhītā	saṃgṛhīta	ptc. m. pl. nom. (√saṃ-grah)	0008a06	攝	对译	0168a10	所攝	GRETIL 本作 saṃghṛhīta
 U35-009	S0634	'nāsravā	an-āsrava	adj. m. pl. nom.	0008a06	無漏	对译	0168a10	無流	
 U35-010	S0634	anye	anya	pron. m. pl. nom.	0008a06	餘	对译	0168a10	異此	
 U35-011	S0634				0008a06	名	增译			"餘名有漏"（两处同）
@@ -21,8 +21,8 @@ U35-014	S0634	mārgasatyāsaṃskṛtasaṃghṛhītā	mārga-satya-asaṃskṛt
 U35-015	S0634	mārgasatyā	mārga-satya	cpd. 成分	0008a07	道諦	对译			第二句
 U35-046	S0634	mārga	mārga	n. 成分	0008a07	道	对译			补成分记录
 U35-047	S0634	satyā	satya	n. 成分	0008a07	諦	对译			补成分记录
-U35-016	S0634	āsaṃskṛta	a-saṃskṛta	ptc. adj. 成分	0008a07	無為	对译	0168a09	無為	
-U35-017	S0634	saṃghṛhītā	saṃgṛhīta	ptc. m. pl. nom.	0008a07	是	意译			"若是道諦無為"
+U35-016	S0634	āsaṃskṛta	a-saṃskṛta	ptc. adj. 成分 (√saṃ-kṛ)	0008a07	無為	对译	0168a09	無為	
+U35-017	S0634	saṃghṛhītā	saṃgṛhīta	ptc. m. pl. nom. (√saṃ-grah)	0008a07	是	意译			"若是道諦無為"
 U35-018	S0634	'nāsravā	an-āsrava	adj. m. pl. nom.	0008a07	無漏	对译			第二句
 U35-019	S0634	anye	anya	pron. m. pl. nom.	0008a07	餘	对译			第二句
 U35-020	S0634	sāsravāḥ	sa-āsrava	adj. m. pl. nom.	0008a08	有漏	对译			第二句

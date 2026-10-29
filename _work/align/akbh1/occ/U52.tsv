@@ -32,7 +32,7 @@ U52-208	S1056	vijñānasyā	vijñāna	n. nt. sg. gen.	0012b29	識	对译	0172a29
 U52-033	S1056	ālambanībhavaty	ālambanī-bhū	v. pres. 3sg.	0012b29	所取	意译	0172a29	緣緣	ālambanībhavati（成为所缘）译"所取"
 U52-035	S1057	kāyo	kāya	n. m. sg. nom.	0012b29	身	对译	0172b01	身	
 U52-036	S1057				0012b29	觸	增译			补出与身相对的"觸"
-U52-037	S1057	veditavyaḥ	vid	gdv. m. sg. nom.	0012c01	知	对译			
+U52-037	S1057	veditavyaḥ	veditavya	gdv. m. sg. nom. (√vid)	0012c01	知	对译			
 U52-038	S1058	āśrayabhāvād	āśraya-bhāva	cpd. m. sg. abl.	0012c01	所依	意译	0172b01	依止	bhāva 未译
 U52-209	S1058	āśraya	āśraya	n. 成分	0012c01	所依	对译	0172b01	依止	补成分记录
 U52-210	S1058	bhāvād	bhāva	n. m. sg. abl.			省译			补成分记录；bhāva（作……的性质）未译
@@ -189,7 +189,7 @@ U52-262	S1066	bhumikāni	bhūmika	adj. nt. pl. acc.	0012c11	地	对译	0172b12	�
 U52-143	S1066				0012c11	或	增译			连接两种色
 U52-144	S1066	rūpāṇi paśyato	rūpa	n. nt. pl. acc.	0012c11	色	对译	0172b12	色	
 U52-145	S1066	paśyato yojayitavyam	paśyat	ptc. pres. m. sg. gen. (√dṛś)	0012c11	見	对译	0172b12	見	
-U52-146	S1066	yojayitavyam	yojaya (caus. yuj)	gdv. nt. sg. nom.	0012c11	思	意译	0172b12	推合	yojayitavya（应配合推求）译"如理應思"，"如理"为增字（另记）
+U52-146	S1066	yojayitavyam	yojayitavya	gdv. nt. sg. nom. (caus. √yuj)	0012c11	思	意译	0172b12	推合	yojayitavya（应配合推求）译"如理應思"，"如理"为增字（另记）
 U52-148	S1066	yojayitavyam	caus.	gram. caus. (-aya-)			省译			使役未译
 U52-149	S1066				0012c11	如理	增译	0172b12	如理	真谛亦有"如理"
 U52-150	S1067	prathmadhyānopapannasya	prathama-dhyāna-upapanna	cpd. ptc. m. sg. gen.	0012c12	生初靜慮	对译	0172b12	生在初定地	GRETIL 本作 prathma-，当读 prathama-
@@ -264,7 +264,7 @@ U52-295	S1071	cakṣuṣā	cakṣus	n. nt. sg. instr.	0012c17	眼	对译	0172b17
 U52-185+1	S1071				0012c16	四	增译			合并时从 U52-185（三四靜慮地眼）拆出
 U52-185+2	S1071				0012c17	地	增译			合并时从 U52-185（三四靜慮地眼）拆出
 U52-186	S1071				0012c17	自地色或下上色	增译			玄奘补出所见之色
-U52-187	S1071	yojyam	yuj	gdv. nt. sg. nom.	0012c17	思	意译	0172b18	推合	yojya（应配合推求）
+U52-187	S1071	yojyam	yojya	gdv. nt. sg. nom. (√yuj)	0012c17	思	意译	0172b18	推合	yojya（应配合推求）
 U52-189	S1071				0012c17	如理	增译	0172b18	如理	
 U52-190	S1072				0012c18	如是	增译			
 U52-191	S1072	dvitīyādidhyānopapannasya	dvitīya-ādi-dhyāna-upapanna	cpd. ptc. m. sg. gen.	0012c18	生二三四靜慮	意译	0172b18	生二定等地	
@@ -286,7 +286,7 @@ U52-304	S1072	bhūmikāni	bhūmika	adj. nt. pl. acc.	0012c19	地	对译	0172b19	
 U52-197	S1072	rūpāṇi paśyato	rūpa	n. nt. pl. acc.	0012c19	色	对译	0172b19	色	
 U52-198	S1072	paśyato yathā	paśyat	ptc. pres. m. sg. gen. (√dṛś)	0012c18	見	对译	0172b19	見	
 U52-199	S1072	yathāyogaṃ	yathā-yoga	ind.	0012c19	如理	意译	0172b19	如理	yathāyogam（随其所宜）
-U52-200	S1072	yojayitavyam	yojaya (caus. yuj)	gdv. nt. sg. nom.	0012c19	思	意译	0172b19	推合	
+U52-200	S1072	yojayitavyam	yojayitavya	gdv. nt. sg. nom. (caus. √yuj)	0012c19	思	意译	0172b19	推合	
 U52-201	S1072				0012c19	餘界亦應如是分別	增译			玄奘补出耳界等其余诸界亦依此类推；梵文、真谛无
 U52-203	S1073	niyamaḥ	niyama	n. m. sg. nom.	0012c20	決定相	意译	0172b19	決判	niyama（定则）译"決定相"
 U52-204	S1073				0012c19	今當略辯	增译			梵文无动词，玄奘补出"今當略辯"
