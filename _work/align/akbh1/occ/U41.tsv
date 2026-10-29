@@ -28,7 +28,7 @@ U41-028	S0738	ābhāvāt	a-bhāva	n. m. sg. abl.	0009a23	無	对译	0169a23	無
 U41-031	S0739	vipākahetor	vipāka-hetu	cpd. m. sg. abl.	0009a24	異熟因	对译	0169a24	果報因	
 U41-336	S0739	vipāka	vipāka	n. 成分	0009a24	異熟	对译	0169a24	果報	补成分记录
 U41-032	S0739	hetor	hetu	n. m. sg. abl.	0009a24	因	对译	0169a24	因	
-U41-033	S0739	jātāḥ	jan	ptc. m. pl. nom. (jāta)	0009a24	生	对译	0169a24	生	
+U41-033	S0739	jātāḥ	jāta	ptc. m. pl. nom. (√jan)	0009a24	生	对译	0169a24	生	
 U41-035	S0739	vipākajāḥ	vipāka-ja	cpd. adj. m. pl. nom.	0009a24	異熟生	对译	0169a24	果報生	
 U41-337	S0739	vipāka	vipāka	n. 成分	0009a24	異熟	对译	0169a24	果報	补成分记录
 U41-338	S0739	jāḥ	ja	adj. m. pl. nom.	0009a24	生	对译	0169a24	生	补成分记录
@@ -47,14 +47,14 @@ U41-045	S0741	karma	karman	n. nt. sg. nom.	0009a26	業	对译	0169a25	業
 U41-046	S0741	phalakālaprāptaṃ	phala-kāla-prāpta	cpd. adj. nt. sg. nom.	0009a26	至得果時	意译	0169a25	至果報熟時	
 U41-047	S0741	phala	phala	n. 成分	0009a26	果	对译	0169a25	果報	
 U41-048	S0741	kāla	kāla	n. 成分	0009a26	時	对译	0169a25	時	
-U41-049	S0741	prāptaṃ	pra-āp	ptc. nt. sg. nom. (prāpta)	0009a26	至得	对译	0169a25	至	
+U41-049	S0741	prāptaṃ	prāpta	ptc. nt. sg. nom. (√pra-āp)	0009a26	至得	对译	0169a25	至	
 U41-050	S0741	vipāka ity	vipāka	n. m. sg. nom.	0009a26	異熟	对译	0169a25	果報	
 U41-052	S0741	ucyate	vac	v. pres. pass. 3sg.	0009a26	名	对译	0169a25	說名	
 U41-053	S0742	vipacyata	vi-pac	v. pres. pass. 3sg.	0009a26	變而…熟	意译	0169a26	熟	vi- 释作"變"；"能"为增字
 U41-054	S0742	iti kṛtvā	iti kṛtvā	ind.	0009a26	故	语法	0169a26	故	iti kṛtvā（以…为由）译"故"
 U41-055	S0742	tasmāj	tad	pron. m. sg. abl.	0009a26	從彼	语法	0169a26	從此	
 U41-056	S0742				0009a26	果	增译			补出主语"果"
-U41-057	S0742	jātā	jan	ptc. m. pl. nom. (jāta)	0009a27	生	对译	0169a26	生	
+U41-057	S0742	jātā	jāta	ptc. m. pl. nom. (√jan)	0009a27	生	对译	0169a26	生	
 U41-058	S0742	vipākajāḥ	vipāka-ja	cpd. adj. m. pl. nom.	0009a27	異熟生	对译	0169a26	果報生	
 U41-344	S0742	vipāka	vipāka	n. 成分	0009a27	異熟	对译	0169a26	果報	补成分记录
 U41-345	S0742	jāḥ	ja	adj. m. pl. nom.	0009a27	生	对译	0169a26	生	补成分记录
@@ -92,7 +92,7 @@ U41-090	S0746	saṃskāra	saṃskāra	n. 成分	0009b01	資助	意译	0169a28	�
 U41-091	S0746	svapna	svapna	n. 成分	0009b01	眠睡	对译	0169a28	寢臥	
 U41-092	S0746	samādhi	samādhi	n. 成分	0009b01	等持	对译	0169a28	三摩提	真谛音译
 U41-093	S0746	viśeṣair	viśeṣa	n. m. pl. instr.	0009b01	勝緣	意译	0169a29	勝緣	
-U41-094	S0746	upacitā	upa-ci	ptc. m. pl. nom.	0009b01	益	意译	0169a29	資益	
+U41-094	S0746	upacitā	upacita	ptc. m. pl. nom. (√upa-ci)	0009b01	益	意译	0169a29	資益	
 U41-096	S0746	aupacayikāḥ	aupacayika	adj. m. pl. nom.	0009b02	所長養	对译	0169a29	增長生	
 U41-097	S0747	brahṃacaryeṇa	brahmacarya	n. nt. sg. instr.	0009b02	梵行	对译	0169a29	梵行	GRETIL 作 brahṃa-，当读 brahma-
 U41-100	S0747	eke	eka	pron. m. pl. nom.	0009b02	有	意译	0169a29	有餘師	eke（有些人）与 iti 合为"有說"
@@ -130,7 +130,7 @@ U41-134	S0753				0009b05	不應	增译			反诘：梵文 yat … uktam（那么�
 U41-136	S0753	prajñaptiśāstre	prajñapti-śāstra	cpd. nt. sg. loc.	0009b06	施設論	对译	0169b05	假名論	
 U41-137	S0753	prajñapti	prajñapti	n. 成分	0009b06	施設	对译	0169b05	假名	
 U41-138	S0753	śāstre	śāstra	n. nt. sg. loc.	0009b06	論	对译	0169b05	論	
-U41-139	S0753	uktaṃ	vac	ptc. nt. sg. nom.	0009b06	說	对译	0169b05	說	
+U41-139	S0753	uktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0009b06	說	对译	0169b05	說	
 U41-140	S0753	pāruṣyavirateḥ	pāruṣya-virati	cpd. f. sg. gen.	0009b06	遠離麁惡語	对译	0169b05	永離惡口	
 U41-141	S0753	pāruṣya	pāruṣya	n. 成分	0009b06	麁惡語	对译	0169b05	惡口	
 U41-142	S0753	virateḥ	virati	n. f. sg. gen.	0009b06	遠離	对译	0169b05	永離	
@@ -183,7 +183,7 @@ U41-190	S0757	karmaja	karma-ja	cpd. adj. 成分	0009b12	從業所生	对译	0169
 U41-362	S0757	karma	karman	n. 成分	0009b12	業	对译	0169b11	業	补成分记录
 U41-363	S0757	ja	ja	adj. 成分	0009b12	從…所生	对译	0169b11	從…所生	补成分记录："從"表 -ja 所含的来源义
 U41-191	S0757	bhūta	bhūta	n. 成分	0009b12	大種	对译	0169b11	四大	
-U41-192	S0757	saṃbhūta	sam-bhū	ptc. 成分	0009b12	生	对译	0169b11	生	
+U41-192	S0757	saṃbhūta	saṃbhūta	ptc. 成分 (√sam-bhū)	0009b12	生	对译	0169b11	生	
 U41-194	S0757	vipākaḥ	vipāka	n. m. sg. nom.	0009b12	異熟	对译	0169b11	果報	
 U41-195	S0757	prapnoti	pra-āp	v. pres. 3sg.	0009b12	應	意译	0169b11	應成	prāpnoti（推论"应成"）译"應"；GRETIL 作 prapnoti
 U41-197	S0758				0009b13	受	增译	0169b11	受	补出主语
@@ -306,7 +306,7 @@ U41-291	S0769	kṣaṇikā	kṣaṇika	adj. m. pl. nom.	0009b21	一剎那	意译
 U41-292	S0769	ucyante	vac	v. pres. pass. 3pl.	0009b21	名	对译	0169b22	言	
 U41-293	S0770				0009b22	此說究竟非等流者	增译			玄奘补出限定语
 U41-294	S0770	anya	anya	pron. m. sg. nom. (?)	0009b22	餘	对译			GRETIL 连写 anyasaṃbhūtasaṃskṛto，疑读 anyaḥ saṃbhūtaḥ saṃskṛto
-U41-295	S0770	saṃbhūta	sam-bhū	ptc. m. sg. nom. (?)			省译			
+U41-295	S0770	saṃbhūta	saṃbhūta	ptc. m. sg. nom. (√sam-bhū) (?)			省译			
 U41-296	S0770	saṃskṛto	saṃskṛta	ptc. adj. m. sg. nom.	0009b22	有為	对译			
 U41-297	S0770				0009b22	法	增译			"有為法"补"法"
 U41-298	S0770	kaścid	kaścit	pron. m. sg. nom.			省译			

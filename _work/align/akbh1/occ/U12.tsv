@@ -41,7 +41,7 @@ U12-030+1	S0220				0003b03	體	增译			合并时从 U12-030（體寬廣）拆�
 U12-031	S0221	atha vā	athavā	ind.	0003b03	或	语法	0163c19	復次	
 U12-032	S0221	tadudbhūtavṛttiṣu	tad-udbhūta-vṛtti	cpd. m. pl. loc.	0003b03	增盛	意译	0163c19	極遍滿起	udbhūtavṛtti（其作用显著者）译"增盛"
 U12-148	S0221	tad	tad	pron. 成分			省译			补成分记录
-U12-149	S0221	udbhūta	ud-bhū	ptc. 成分 (udbhūta)	0003b03	增盛	合译			补成分记录；与 vṛtti 合为"增盛"
+U12-149	S0221	udbhūta	udbhūta	ptc. 成分 (√ud-bhū)	0003b03	增盛	合译			补成分记录；与 vṛtti 合为"增盛"
 U12-150	S0221	vṛttiṣu	vṛtti	n. m. pl. loc.	0003b03	增盛	合译			补成分记录；与 udbhūta 合为"增盛"
 U12-033	S0221	pṛthivyaptejovāyuskandheṣv	pṛthivī-ap-tejas-vāyu-skandha	cpd. m. pl. loc.	0003b03	地等…聚	意译	0163c19	地水…火風聚	玄奘以"地等"概括
 U12-034	S0221	pṛthivy	pṛthivī	n. 成分	0003b03	地	对译	0163c19	地	
@@ -56,15 +56,15 @@ U12-042	S0221	sṇniveśa	saṃniveśa	n. 成分	0003b03	形相	意译	0163c20	�
 U12-043	S0221				0003b04	或起種種大事用故	梵本缺文	0163c21	及於世間能作大事	GRETIL 本无；真谛亦有此意
 U12-044	S0222	dhātavaḥ	dhātu	n. m. pl. nom.	0003b04	大種	意译	0163c22	界	dhātu 此处译"大種"；"四"为增字
 U12-046	S0222	karmaṇi	karman	n. nt. sg. loc.	0003b05	業	对译	0163c22	業	
-U12-047	S0222	saṃsidhāḥ	saṃ-sidh	ptc. m. pl. nom.	0003b04	成	对译	0163c22	成	GRETIL 本作 saṃsidhāḥ，当读 saṃsiddhāḥ；"能"为增字
+U12-047	S0222	saṃsidhāḥ	saṃsiddha	ptc. m. pl. nom. (√saṃ-sidh)	0003b04	成	对译	0163c22	成	GRETIL 本作 saṃsidhāḥ，当读 saṃsiddhāḥ；"能"为增字
 U12-048	S0222	kiṃsvabhāvāś	kim-svabhāva	cpd. adj. m. pl. nom.	0003b07	自性云何	意译	0163c22	何為自性	玄奘把此问移到答完"業"之后
 U12-049	S0222	kiṃsvabhāvāś	kim	pron. 成分	0003b07	云何	语法	0163c22	何	
 U12-050	S0222	svabhāvāś	svabhāva	n. m. pl. nom.	0003b07	自性	对译	0163c22	自性	
-U12-052	S0223	dhṛtyādikarmasaṃsiddhāḥ	dhṛti-ādi-karman-saṃsiddha	cpd. adj. m. pl. nom.	0003a29	成持等業	意译	0163c22	持等…業成	"能"为增字
+U12-052	S0223	dhṛtyādikarmasaṃsiddhāḥ	dhṛti-ādi-karma-saṃsiddha	cpd. adj. m. pl. nom.	0003a29	成持等業	意译	0163c22	持等…業成	"能"为增字
 U12-053	S0223	dhṛty	dhṛti	n. 成分	0003a29	持	对译	0163c22	持	
 U12-054	S0223	ādi	ādi	n. 成分	0003a29	等	对译	0163c22	等	
 U12-055	S0223	karma	karman	n. 成分	0003a29	業	对译	0163c23	業	
-U12-056	S0223	saṃsiddhāḥ	saṃ-sidh	ptc. m. pl. nom.	0003a29	成	对译	0163c23	成	
+U12-056	S0223	saṃsiddhāḥ	saṃsiddha	ptc. m. pl. nom. (√saṃ-sidh)	0003a29	成	对译	0163c23	成	
 U12-057	S0223				0003a29	能	增译			
 U12-058	S0224	dhṛtisaṃgrahapaktivyūhanakarmasv	dhṛti-saṃgraha-pakti-vyūhana-karman	cpd. nt. pl. loc.	0003b05	持、攝、熟、長…業	对译	0163c23	持和攝成熟引長，於四業	"四"为增字
 U12-059	S0224	dhṛti	dhṛti	n. 成分	0003b05	持	对译	0163c23	持	
@@ -73,7 +73,7 @@ U12-061	S0224	pakti	pakti	n. 成分	0003b05	熟	对译	0163c23	熟
 U12-062	S0224	vyūhana	vyūhana	n. 成分	0003b05	長	对译	0163c23	引長	
 U12-063	S0224	karmasv	karman	n. nt. pl. loc.	0003b05	業	对译	0163c23	業	
 U12-064	S0224	yathākramaṃ	yathākramam	ind.	0003b05	如其次第	对译	0163c23	次第	
-U12-065	S0224	saṃsiddhāḥ	saṃ-sidh	ptc. m. pl. nom.	0003b05	成	对译	0163c24	成就	"能"为增字
+U12-065	S0224	saṃsiddhāḥ	saṃsiddha	ptc. m. pl. nom. (√saṃ-sidh)	0003b05	成	对译	0163c24	成就	"能"为增字
 U12-066	S0224	pṛthivyaptejovāyudhātavaḥ	pṛthivī-ap-tejas-vāyu-dhātu	cpd. m. pl. nom.	0003b05	地界…水界…火界…風界	意译	0163c24	地水火風界	玄奘分配于四业，逐一说出
 U12-067	S0224	pṛthivy	pṛthivī	n. 成分	0003b05	地	对译	0163c24	地	
 U12-068	S0224	aptejo	ap	n. 成分	0003b06	水	对译	0163c24	水	
@@ -131,7 +131,7 @@ U12-109	S0229	eraṇavad	īraṇa	n. 成分	0003b10	吹	意译	0163c28	吹	īra�
 U12-110	S0229	ditīraṇā	īraṇa	n. f. sg. nom.	0003b11	動	对译	0163c28	動	"名為"为增字
 U12-111	S0230	prakāraṇeṣu	prakaraṇa	n. nt. pl. loc.	0003b11	品類足論	意译	0163c28	分別道理論	GRETIL 本作 prakāraṇeṣu；指《品類足論》
 U12-112	S0230	sūtre ca	sūtra	n. nt. sg. loc.	0003b11	契經	对译	0163c29	經	
-U12-113	S0230	nirdiṣṭaṃ	nir-diś	ptc. nt. sg. nom.	0003b11	言	意译	0163c28	云	
+U12-113	S0230	nirdiṣṭaṃ	nirdiṣṭa	ptc. nt. sg. nom. (√nir-diś)	0003b11	言	意译	0163c28	云	
 U12-114	S0230	vāyudhātuḥ	vāyu-dhātu	cpd. m. sg. nom.	0003b11	風界	对译	0163c28	風…界	
 U12-161	S0230	vāyu	vāyu	n. 成分	0003b11	風	对译	0163c28	風	补成分记录
 U12-162	S0230	dhātuḥ	dhātu	n. m. sg. nom.	0003b11	界	对译	0163c29	界	补成分记录
@@ -143,7 +143,7 @@ U12-119	S0231	upādāya rūpam	upādāya-rūpa	cpd. nt. sg. nom.	0003b12	所造�
 U12-163	S0231	upādāya	upa-ā-dā	abs. 成分	0003b12	所造	意译	0163c29	所造	补成分记录
 U12-164	S0231	rūpam	rūpa	n. nt. sg. nom.	0003b12	色	对译	0164a01	色	补成分记录
 U12-120	S0231	rūpamapy	api	ind.	0003b12	復	意译	0163c29	或	
-U12-121	S0231	uktaṃ	vac	ptc. nt. sg. nom.	0003b12	說	对译	0163c29	說	
+U12-121	S0231	uktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0003b12	說	对译	0163c29	說	
 U12-122	S0231	prakaraṇeṣu	prakaraṇa	n. nt. pl. loc.			省译			承上不重出书名
 U12-123	S0232	ato	atas	ind.	0003b12	故	语法			
 U12-124	S0232	ya īraṇāsvabhāvo dharmaḥ sa	yad … tad	gram. rel.-cor.			省译			关系-相关句未以虚词表出
@@ -156,7 +156,7 @@ U12-130	S0232	vāyuriti	vāyu	n. m. sg. nom.	0003b12	風界	意译	0164a01	風�
 U12-131	S0232	karṃaṇā	karman	n. nt. sg. instr.	0003b13	業	对译	0164a01	業	GRETIL 本作 karṃaṇā
 U12-132	S0232	karṃaṇā	instr.	gram. instr. (-aṇā)	0003b13	舉	语法	0164a01	以	第三格表手段，玄奘以"舉"表出
 U12-133	S0232	svabhāvo 'bhivyaktaḥ	svabhāva	n. m. sg. nom.	0003b13	體	意译	0164a02	自性	
-U12-134	S0232	'bhivyaktaḥ	abhi-vyañj	ptc. m. sg. nom.	0003b13	顯	对译	0164a02	顯	
+U12-134	S0232	'bhivyaktaḥ	abhivyakta	ptc. m. sg. nom. (√abhi-vyañj)	0003b13	顯	对译	0164a02	顯	
 U12-135	S0232				0003b13	故亦言輕	增译			玄奘补出：所以经论又说"輕"
 U12-136	S0233	kaḥ	kim	pron. m. sg. nom.	0003b13	云何	语法	0164a02	云何	
 U12-137	S0233	pṛthivyādināṃ	pṛthivī-ādi	cpd. m. pl. gen. (?)	0003b13	地等	对译	0164a02	地等	GRETIL 本作 pṛthivyādināṃ

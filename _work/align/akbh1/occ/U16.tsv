@@ -25,7 +25,7 @@ U16-113	S0303	vijñānam	vijñāna	n. nt. sg. nom.	0004a22	識	对译	0164c04	�
 U16-021	S0304				0004a23	應知	增译			
 U16-022	S0304	ya eṣa	yad	pron. m. sg. nom.	0004a23	所	语法			关系代词与分词 ukta 合为"所說"
 U16-023	S0304	eṣa	etad	pron. m. sg. nom.	0004a23	如是	语法	0164c04	是	
-U16-024	S0304	ukta	vac	ptc. m. sg. nom.	0004a23	說	对译	0164c04	說	
+U16-024	S0304	ukta	ukta	ptc. m. sg. nom. (√vac)	0004a23	說	对译	0164c04	說	
 U16-025	S0304	vijñānaskandha	vijñāna-skandha	cpd. m. sg. nom.	0004a23	識蘊	对译	0164c04	識陰	
 U16-114	S0304	vijñāna	vijñāna	n. 成分	0004a23	識	对译	0164c04	識	补成分记录
 U16-115	S0304	skandha	skandha	n. m. sg. nom.	0004a23	蘊	对译	0164c04	陰	补成分记录
@@ -40,7 +40,7 @@ U16-033	S0306	dhātu	dhātu	n. 成分	0004a24	界	对译	0164c05	界
 U16-034	S0306	vyavasthāyāṃ	vyavasthā	n. f. sg. loc.	0004a24	門中立為	意译	0164c05	安立	
 U16-035	S0307	dhātavaḥ	dhātu	n. m. pl. nom.	0004a20	界	对译	0164c06	界	
 U16-036	S0307	saspta	saptan	num. pl. nom.	0004a20	七	对译	0164c06	七	GRETIL 本作 saspta，当读 sapta
-U16-038	S0307	matāḥ	man	ptc. m. pl. nom. (mata)	0004a20	應知	意译	0164c06	說	mata（被认为）玄奘作"應知"
+U16-038	S0307	matāḥ	mata	ptc. m. pl. nom. (√man)	0004a20	應知	意译	0164c06	說	mata（被认为）玄奘作"應知"
 U16-039	S0308	katame	katama	pron. m. pl. nom.			省译	0164c06	何者	玄奘不设问，以"謂"直接列举
 U16-040	S0308	sapta	saptan	num. pl. nom.			省译	0164c06	七	
 U16-041	S0309	ṣaḍ	ṣaṣ	num. pl. nom.	0004a20	六	对译	0164c06	六	
@@ -61,7 +61,7 @@ U16-121	S0310	mano	manas	n. 成分	0004a25	意	对译	0164c07	意	补成分记�
 U16-122	S0310	dhātuś	dhātu	n. m. sg. nom.	0004a25	界	对译	0164c07	界	补成分记录
 U16-050	S0310				0004a25	即此六識轉為	增译			复述颂文 ṣaḍ vijñānāny atho manaḥ
 U16-052	S0311	atra	atra	ind.	0004a25	此中	语法	0164c07	此中	
-U16-053	S0311	nirddiṣṭā	nir-diś	ptc. m. pl. nom.	0004a25	說	对译	0164c08	說	GRETIL 本作 nirddiṣṭā
+U16-053	S0311	nirddiṣṭā	nirdiṣṭa	ptc. m. pl. nom. (√nir-diś)	0004a25	說	对译	0164c08	說	GRETIL 本作 nirddiṣṭā
 U16-055	S0311	pañca	pañcan	num. pl. nom.	0004a25	五	对译	0164c08	五	
 U16-056	S0311	skandhā	skandha	n. m. pl. nom.	0004a25	蘊	对译	0164c08	陰	
 U16-057	S0311				0004a26	即	增译			
@@ -126,7 +126,7 @@ U16-096	S0314	ṣaḍ	ṣaṣ	num. pl. nom.	0004a29	六	对译	0164c11	六
 U16-097	S0314	vijñānakāyā	vijñāna-kāya	cpd. m. pl. nom.	0004b01	識身	对译			
 U16-142	S0314	vijñāna	vijñāna	n. 成分	0004b01	識	对译			补成分记录
 U16-143	S0314	kāyā	kāya	n. m. pl. nom.	0004b01	身	对译			补成分记录
-U16-098	S0314	ityuktam	vac	ptc. nt. sg. nom.			省译	0164c11	說	玄奘改作反问，未译"說"；真谛作"前說"
+U16-098	S0314	ityuktam	ukta	ptc. nt. sg. nom. (√vac)			省译	0164c11	說	玄奘改作反问，未译"說"；真谛作"前說"
 U16-099	S0315	atha	atha	ind.			省译			
 U16-100	S0315	"nyo manodhātuḥ	anya	pron. m. sg. nom.	0004b01	異	对译	0164c12	異	
 U16-101	S0315				0004b01	說	增译			

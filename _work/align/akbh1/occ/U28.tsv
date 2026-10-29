@@ -70,7 +70,7 @@ U28-063	S0474	pāṇyādi	pāṇi	n. 成分	0006a18	手	对译	0166b17	手
 U28-064	S0474	ādisaṃsparśaiḥ	ādi	n. 成分	0006a18	等	对译	0166b17	等	
 U28-065	S0474	saṃsparśaiḥ	saṃsparśa	n. m. pl. instr.	0006a18	觸	对译	0166b17	觸	
 U28-066	S0474	saṃsparśaiḥ	instr.	gram. instr. (-aiḥ)	0006a18	時	语法			第三格表条件，玄奘作"…時"
-U28-067	S0474	spṛṣṭaṃ	spṛś	ptc. nt. sg. nom.	0006a18	觸	合译			与 saṃsparśa 合用"觸"
+U28-067	S0474	spṛṣṭaṃ	spṛṣṭa	ptc. nt. sg. nom. (√spṛś)	0006a18	觸	合译			与 saṃsparśa 合用"觸"
 U28-068	S0474				0006a18	即便	增译	0166b17	即便	
 U28-069	S0474	rūpyate	rūp	v. pres. pass. 3sg.	0006a18	變壞	对译	0166b17	變壞	
 U28-071	S0475	sanidarśanatvāc	sa-nidarśana	adj. 成分	0006a18	有見	对译			真谛作"體相顯現"，不逐词
@@ -92,7 +92,7 @@ U28-087	S0477	caikaṃ	eka	num. nt. sg. nom.	0006a20	一	对译	0166b20	一
 U28-088	S0477	dharmāyatanamuktaṃ	dharma-āyatana	cpd. nt. sg. nom.	0006a20	法處	对译	0166b20	法入	
 U28-174	S0477	dharmā	dharma	n. 成分	0006a20	法	对译	0166b20	法	补成分记录
 U28-175	S0477	āyatanam	āyatana	n. nt. sg. nom.	0006a20	處	对译	0166b20	入	补成分记录
-U28-089	S0477	muktaṃ	vac	ptc. nt. sg. nom.	0006a20	立	意译	0166b20	說	
+U28-089	S0477	muktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0006a20	立	意译	0166b20	說	
 U28-090	S0477	sarvāṇi	sarva	adj. nt. pl. nom.	0006a21	一切	对译	0166b20	餘入	
 U28-091	S0477				0006a21	如色應知	增译			
 U28-093	S0478	cātrabahūnāṃ	atra	ind.	0006a21	於此中	语法	0166b20	於法入中	GRETIL 本作 cātrabahūnāṃ（ca atra bahūnāṃ）

@@ -16,7 +16,7 @@ U24-072	S0412	vedanā	vedanā	n. 成分	0005b11	受	对译	0165c15	受	补成分
 U24-073	S0412	saṃjñe	saṃjñā	n. f. du. nom.	0005b11	想	对译	0165c15	想	补成分记录
 U24-015	S0412	pṛthakaskndhau	pṛthak-skandha	cpd. m. du. nom.	0005b11	別為蘊	意译	0165c15	別…陰	GRETIL 本作 pṛthakaskndhau
 U24-074	S0412	pṛthak	pṛthak	ind.	0005b11	別	对译	0165c15	別	补成分记录
-U24-016	S0412	niveśitau	ni-viś	ptc. m. du. nom. (caus.)	0005b11	為	意译	0165c15	立為	niveśita（安立）只作"為"
+U24-016	S0412	niveśitau	niveśita	ptc. m. du. nom. (caus. √ni-viś)	0005b11	為	意译	0165c15	立為	niveśita（安立）只作"為"
 U24-017	S0412	skndhau	skandha	n. m. du. nom.	0005b11	蘊	对译	0165c16	陰	
 U24-018	S0413	vivādamūle	vivāda-mūla	cpd. nt. du. nom.	0005b12	諍根	对译	0165c16	爭根	
 U24-075	S0413	vivāda	vivāda	n. 成分	0005b12	諍	对译	0165c16	爭	补成分记录
@@ -65,7 +65,7 @@ U24-054	S0416	viṣaryasta	viparyasta	ptc. adj. 成分	0005b15	倒	对译	0165c2
 U24-055	S0416	saṃjñaḥ	saṃjñā	n. m. sg. nom.	0005b15	想	对译	0165c20	想	
 U24-056	S0416	saṃsarati	sam-sṛ	v. pres. 3sg.	0005b15	生死輪迴	意译	0165c20	輪轉生死	
 U24-057	S0417				0005b16	由此二因	增译			总括上述两种原因
-U24-059	S0417	upadekṣyamāṇaṃ	upa-diś	ptc. fut. pass. nt. sg. nom.	0005b16	說	对译	0165c21	說	
+U24-059	S0417	upadekṣyamāṇaṃ	upadekṣyamāṇa	ptc. fut. pass. nt. sg. nom. (√upa-diś)	0005b16	說	对译	0165c21	說	
 U24-060	S0417	skandhakrame	skandha-krama	cpd. m. sg. loc.	0005b16	次第	合译	0165c20	次第	与 kramakāraṇāt 合用"次第因"
 U24-083	S0417	skandha	skandha	n. 成分			省译			补成分记录；skandha 未译
 U24-084	S0417	krame	krama	n. m. sg. loc.	0005b16	次第	合译	0165c20	次第	补成分记录；与 kramakāraṇāt 合用"次第因"

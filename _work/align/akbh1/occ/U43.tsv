@@ -41,14 +41,14 @@ U43-034	S0798	upacaryate	upa-car	v. pres. pass. 3sg.	0009c19	假說	对译	0169c
 U43-035	S0799				0009c19	故契經	增译			引经；梵文句末以 ity uktam 标出
 U43-036	S0799	ātmanā	ātman	n. m. sg. instr.	0009c20	我	对译	0169c18	我	
 U43-039	S0799	sudāntena	su-dānta	cpd. ptc. m. sg. instr.	0009c20	善調伏	对译	0169c18	好調伏	
-U43-040	S0799	dāntena	dam	ptc. 成分 (dānta)	0009c20	調伏	对译	0169c18	調伏	
+U43-040	S0799	dāntena	dānta	ptc. m. sg. instr. (√dam)	0009c20	調伏	对译	0169c18	調伏	
 U43-041	S0799	svargaṃ	svarga	n. m. sg. acc.	0009c20	天	对译	0169c18	解脫	真谛作"得解脫"，所据或不同
 U43-042	S0799	prāpnoti	pra-āp	v. pres. 3sg.	0009c20	得生	意译	0169c18	得	"得生天"
 U43-043	S0799	paṇḍitaḥ	paṇḍita	n. m. sg. nom.	0009c20	智者	对译	0169c18	智人	
-U43-044	S0800	uktam	vac	ptc. nt. sg. nom.	0009c19	說	对译	0169c16	言	
+U43-044	S0800	uktam	ukta	ptc. nt. sg. nom. (√vac)	0009c19	說	对译	0169c16	言	
 U43-045	S0801	bhagavatā	bhagavat	n. m. sg. instr.	0009c21	世尊	对译	0169c19	佛世尊	
 U43-046	S0801	ānyatra	anyatra	ind.	0009c21	餘處	对译	0169c19	餘處	
-U43-047	S0801	uktaṃ	vac	ptc. nt. sg. nom.	0009c21	說	对译	0169c19	說	
+U43-047	S0801	uktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0009c21	說	对译	0169c19	說	
 U43-048	S0801	damanam	damana	n. nt. sg. nom.	0009c21	調伏	对译	0169c19	調伏	
 U43-049	S0801	cittasya	citta	n. nt. sg. gen.	0009c21	心	对译	0169c19	心	
 U43-050	S0801				0009c21	如契經言	增译	0169c19	如偈言	引经标记
@@ -56,7 +56,7 @@ U43-051	S0802	sādhu	sādhu	adj. nt. sg. nom.	0009c22	應善	意译	0169c20	最�
 U43-052	S0802	damanaṃ	damana	n. nt. sg. nom.	0009c22	調伏	对译	0169c20	調伏	
 U43-053	S0802	cittasya	citta	n. nt. sg. gen.	0009c22	心	对译	0169c20	心	
 U43-054	S0802	cittaṃ	citta	n. nt. sg. nom.	0009c22	心	对译	0169c20	心	"心調"之"心"
-U43-055	S0802	dāntaṃ	dam	ptc. nt. sg. nom. (dānta)	0009c22	調	对译	0169c20	調	
+U43-055	S0802	dāntaṃ	dānta	ptc. nt. sg. nom. (√dam)	0009c22	調	对译	0169c20	調	
 U43-056	S0802	sukhāvaham	sukha-āvaha	cpd. adj. nt. sg. nom.	0009c22	引樂	对译	0169c20	引樂	"能"为增字
 U43-057	S0802	sukhā	sukha	n. 成分	0009c22	樂	对译	0169c20	樂	
 U43-058	S0802	āvaham	āvaha	adj. nt. sg. nom.	0009c22	引	对译	0169c20	引	
@@ -64,7 +64,7 @@ U43-059	S0803				0009c23	但	增译
 U43-060	S0803	cittasyā	citta	n. nt. sg. gen.	0009c23	心	对译	0169c21	心	
 U43-061	S0803	ātmabhūtasya	ātma-bhūta	cpd. adj. nt. sg. gen.	0009c23	假說為我	意译	0169c21	說為我	ātmabhūta（作为我者）译"假說為我"
 U43-133	S0803	ātma	ātman	n. 成分	0009c23	我	对译	0169c21	我	补成分记录
-U43-134	S0803	bhūtasya	bhū	ptc. nt. sg. gen. (bhūta)	0009c23	假說為	意译	0169c21	說為	补成分记录；bhūta（作为）意译为"假說為"
+U43-134	S0803	bhūtasya	bhūta	ptc. nt. sg. gen. (√bhū)	0009c23	假說為	意译	0169c21	說為	补成分记录；bhūta（作为）意译为"假說為"
 U43-062	S0803	āśrayabhāvena	āśraya-bhāva	cpd. m. sg. instr.	0009c23	為…所依	意译	0169c21	依止	bhāva（为…之性）译"為"；"此"复指心
 U43-135	S0803	āśraya	āśraya	n. 成分	0009c23	所依	对译	0169c21	依止	补成分记录
 U43-136	S0803	bhāvena	bhāva	n. m. sg. instr.	0009c23	為	意译			补成分记录；bhāva 译"為"

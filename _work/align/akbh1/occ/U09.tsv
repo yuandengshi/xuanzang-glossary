@@ -23,7 +23,7 @@ U09-019	S0131	vijñānānām	vijñāna	n. nt. pl. gen.	0002b14	識	对译	0163a0
 U09-020	S0131				0002b14	彼識	增译			复述"彼識"
 U09-021	S0131	āśrayabhūtā	āśraya-bhūta	cpd. adj. m. pl. nom.	0002b14	所依	对译	0163a08	所依止	-bhūta 未译
 U09-097	S0131	āśraya	āśraya	n. 成分	0002b14	所依	对译	0163a08	所依止	补成分记录
-U09-098	S0131	bhūtā	bhū	ptc. m. pl. nom. (bhūta)			省译			补成分记录
+U09-098	S0131	bhūtā	bhūta	ptc. m. pl. nom. (√bhū)			省译			补成分记录
 U09-022	S0131	ye pañca rūpātmakāḥ prasādāste	yad … tad	gram. rel.-cor.	0002b14	即是	语法	0163a09	是	关系-相关句 ye … te 以"…即是…"表出
 U09-023	S0131	pañca	pañcan	num. pl. nom.	0002b14	五	对译	0163a08	五	"種"为量词，另记增译
 U09-024	S0131				0002b14	種	增译	0163a08	種	量词
@@ -39,7 +39,7 @@ U09-103	S0131	kāyā	kāya	n. m. pl. nom.			省译	0163a09	身	补成分记录�
 U09-029	S0131	veditavyāḥ	vid	gdv. m. pl. nom.	0002b14	知	对译	0163a09	知	
 U09-030	S0131	veditavyāḥ	gdv.	gram. gdv. (-tavya)	0002b14	應	语法	0163a09	應	gerundive 表应当，译"應"
 U09-031	S0132	yathoktaṃ	yathā	ind.	0002b15	如	语法	0163a09	如	
-U09-032	S0132	yathoktaṃ	vac	ptc. nt. sg. nom.	0002b15	說	对译	0163a09	言	
+U09-032	S0132	yathoktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0002b15	說	对译	0163a09	言	
 U09-033	S0132	bhagavatā	bhagavat	n. m. sg. instr.	0002b15	世尊	对译	0163a09	佛世尊	
 U09-034	S0132	bhikṣo	bhikṣu	n. m. sg. voc.	0002b15	苾芻	音译	0163a09	比丘	真谛音译"比丘"
 U09-035	S0132				0002b15	當知	增译			补出呼告语"當知"
@@ -62,7 +62,7 @@ U09-047	S0133				0002b16	彼者，謂	增译			复述颂文"彼"
 U09-049	S0133	cakṣurādīny	cakṣus-ādi	cpd. nt. pl. nom.	0002b17	眼等	对译	0163a11	眼等	
 U09-108	S0133	cakṣur	cakṣus	n. 成分	0002b17	眼	对译	0163a11	眼	补成分记录
 U09-109	S0133	ādīny	ādi	n. nt. pl. nom.	0002b17	等	对译	0163a11	等	补成分记录
-U09-050	S0133	uktani	vac	ptc. nt. pl. nom.	0002b17	說	对译	0163a11	說	GRETIL 本作 uktani，当读 uktāni
+U09-050	S0133	uktani	ukta	ptc. nt. pl. nom. (√vac)	0002b17	說	对译	0163a11	說	GRETIL 本作 uktani，当读 uktāni
 U09-051	S0133				0002b17	五根	增译	0163a11	五根	
 U09-052	S0133				0002b17	識即眼、耳、鼻、舌、身識	增译			玄奘仿前解补出
 U09-053	S0133	tadvijñānāśrayā	tad-vijñāna-āśraya	cpd. m. pl. nom.	0002b18	彼識所依	对译	0163a11	此識依	
@@ -89,7 +89,7 @@ U09-069	S0135	prakaraṇagraṇtho	prakaraṇa-grantha	cpd. m. sg. nom.	0002b19	
 U09-070	S0135	prakaraṇa	prakaraṇa	n. 成分	0002b19	品類足	意译	0163a13	分別道理	书名
 U09-071	S0135	graṇtho	grantha	n. m. sg. nom.	0002b19	論	对译	0163a13	論	
 U09-072	S0135	'pyanuvṛtto	api	ind.	0002b19	便	意译			api（也就）译"便"
-U09-073	S0135	anuvṛtto	anu-vṛt	ptc. m. sg. nom.	0002b19	順	对译	0163a13	順	
+U09-073	S0135	anuvṛtto	anuvṛtta	ptc. m. sg. nom. (√anu-vṛt)	0002b19	順	对译	0163a13	順	
 U09-074	S0135	bhavati	bhū	v. pres. 3sg.			省译			分词谓语后的 bhavati 未译
 U09-075	S0135				0002b19	如彼論說	增译	0163a13	彼論云	引论文
 U09-076	S0135	cakṣuḥ katamat	cakṣus	n. nt. sg. nom.	0002b20	眼	对译	0163a13	眼根	"根"为增字
@@ -103,7 +103,7 @@ U09-115	S0136	rūpa	rūpa	n. 成分	0002b20	色	对译	0163a14	色	补成分记�
 U09-116	S0136	prasāda	prasāda	n. m. sg. nom.	0002b20	淨	对译	0163a14	清淨	补成分记录
 U09-084	S0136				0002b20	為性	增译			
 U09-085	S0136	iti vistaraḥ	iti vistaraḥ	ind.	0002b20	如是廣說	语法			
-U09-086	S0137	nirddiṣṭāni	nir-diś	ptc. nt. pl. nom.	0002b21	說	对译	0163a14	說	GRETIL 本作 nirddiṣṭāni
+U09-086	S0137	nirddiṣṭāni	nirdiṣṭa	ptc. nt. pl. nom. (√nir-diś)	0002b21	說	对译	0163a14	說	GRETIL 本作 nirddiṣṭāni
 U09-088	S0137	pañcendriyāṇi	pañca-indriya	cpd. nt. pl. nom.	0002b21	五根	对译	0163a14	五根	
 U09-117	S0137	pañce	pañcan	num. 成分	0002b21	五	对译	0163a14	五	补成分记录
 U09-118	S0137	endriyāṇi	indriya	n. nt. pl. nom.	0002b21	根	对译	0163a14	根	补成分记录

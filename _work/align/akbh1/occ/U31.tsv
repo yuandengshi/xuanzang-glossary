@@ -3,14 +3,14 @@ U31-001	S0497	tathā 'nye	tathā	ind.	0006b17	如是	语法	0166c10	如此
 U31-002	S0497	tathā 'nye	anya	pron. m. pl. nom.	0006b17	餘	对译	0166c10	餘	
 U31-003	S0497	skandhāyatanadhātavaḥ	skandha-āyatana-dhātu	cpd. m. pl. nom.	0006b17	蘊等	意译	0166c11	陰入及界等	āyatana、dhātu 以"等"概括
 U31-004	S0497	skandhā	skandha	n. 成分	0006b17	蘊	对译	0166c11	陰	
-U31-205	S0497	āyatana	āyatana	n. 成分	0006b17	等	合译	0166c11	入	补成分记录；与 dhātu 合用"等"
-U31-206	S0497	dhātavaḥ	dhātu	n. m. pl. nom.	0006b17	等	合译	0166c11	界	补成分记录；与 āyatana 合用"等"
+U31-205	S0497	āyatana	āyatana	n. 成分			省译	0166c11	入	补成分记录；与 dhātu 合用"等"；玄奘以"等"概括，此成分不单译，记省译（原作合译）
+U31-206	S0497	dhātavaḥ	dhātu	n. m. pl. nom.			省译	0166c11	界	补成分记录；与 āyatana 合用"等"；玄奘以"等"概括，此成分不单译，记省译（原作合译）
 U31-005	S0497	yathāyogaṃ	yathāyogam	ind.	0006b17	隨其所應	对译	0166c10	應理	"各"为增字
 U31-006	S0497				0006b17	各	增译			
 U31-007	S0497	pratipādyā	prati-pad (caus.)	gdv. m. pl. nom.	0006b18	攝在	意译	0166c11	攝	pratipādya（应归入）
 U31-009	S0497	yathokteṣu	yathā-ukta	cpd. m. pl. loc.	0006b18	前說	意译	0166c11	前說	
 U31-207	S0497	yatho	yathā	ind.	0006b18	前	意译	0166c11	前	补成分记录
-U31-208	S0497	okteṣu	vac	ptc. m. pl. loc. (ukta)	0006b18	說	对译	0166c11	說	补成分记录
+U31-208	S0497	okteṣu	ukta	ptc. m. pl. loc. (√vac)	0006b18	說	对译	0166c11	說	补成分记录
 U31-011	S0497	saṃpradhārya	saṃ-pra-dhṛ (caus.)	abs.	0006b18	審觀	对译	0166c11	熟思	
 U31-012	S0497	saṃpradhārya	abs.	gram. abs. (-ya)			省译			独立式未译出先行义
 U31-013	S0497	svalakṣaṇam	sva-lakṣaṇa	cpd. nt. sg. acc.	0006b18	自相	对译	0166c11	彼性類	
@@ -24,12 +24,12 @@ U31-019	S0498	skandhāyatanadhātavaḥ	skandha-āyatana-dhātu	cpd. m. pl. nom.
 U31-020	S0498	skandhā	skandha	n. 成分	0006b19	蘊	对译	0166c12	陰	
 U31-021	S0498	āyatana	āyatana	n. 成分	0006b19	處	对译	0166c12	入	
 U31-022	S0498	dhātavaḥ	dhātu	n. m. pl. nom.	0006b19	界	对译	0166c12	界	
-U31-024	S0498	ṣūktās	vac	ptc. m. pl. nom.			省译	0166c12	說	
+U31-024	S0498	ṣūktās	ukta	ptc. m. pl. nom. (√vac)			省译	0166c12	說	
 U31-025	S0498				0006b19	隨應	增译			取自本颂 yathāyogam
 U31-026	S0498	pratiopādyāḥ	prati-pad (caus.)	gdv. m. pl. nom.	0006b19	攝在	意译	0166c14	攝入	GRETIL 本作 pratiopādyāḥ，当读 pratipādyāḥ
 U31-028	S0498	yathokteṣu	yathā-ukta	cpd. m. pl. loc.	0006b19	前所說	意译	0166c12	如前所說	
 U31-211	S0498	yatho	yathā	ind.	0006b19	前	意译	0166c12	如前	补成分记录
-U31-212	S0498	okteṣu	vac	ptc. m. pl. loc. (ukta)	0006b19	所說	对译	0166c13	所說	补成分记录
+U31-212	S0498	okteṣu	ukta	ptc. m. pl. loc. (√vac)	0006b19	所說	对译	0166c13	所說	补成分记录
 U31-029	S0498	skandhādiṣu	skandha-ādi	cpd. m. pl. loc.	0006b20	蘊等	对译	0166c13	陰入界	玄奘把"如此論中所說蘊等"移到后半
 U31-213	S0498	skandhā	skandha	n. 成分	0006b20	蘊	对译	0166c13	陰	补成分记录
 U31-214	S0498	ādiṣu	ādi	n. m. pl. loc.	0006b20	等	对译	0166c13	入界	补成分记录
@@ -62,7 +62,7 @@ U31-052	S0499				0006b22	此	增译			"此色蘊"之"此"（本论所说）
 U31-053	S0499	rūpaskandhena	rūpa-skandha	cpd. m. sg. instr.	0006b22	色蘊	对译	0166c15	色陰	
 U31-219	S0499	rūpa	rūpa	n. 成分	0006b22	色	对译	0166c15	色	补成分记录
 U31-220	S0499	skandhena	skandha	n. m. sg. instr.	0006b22	蘊	对译	0166c15	陰	补成分记录
-U31-054	S0499	saṃgṛhītaḥ	saṃ-grah	ptc. m. sg. nom.	0006b22	攝	对译	0166c15	入…攝	
+U31-054	S0499	saṃgṛhītaḥ	saṃgṛhīta	ptc. m. sg. nom. (√saṃ-grah)	0006b22	攝	对译	0166c15	入…攝	
 U31-055	S0500	śeṣāḥ	śeṣa	adj. m. pl. nom.	0006b22	餘	对译	0166c15	餘四	
 U31-056	S0500				0006b22	彼…四蘊此	增译			"彼餘四蘊此"之"彼""四蘊""此"
 U31-057	S0500	saṃskāraskandhena	saṃskāra-skandha	cpd. m. sg. instr.	0006b23	行蘊	对译	0166c16	行陰	
@@ -191,7 +191,7 @@ U31-155	S0510	saṃgraho	saṃgraha	n. m. sg. nom.	0006c03	攝	对译	0166c25	�
 U31-156	S0511				0006c03	且	增译			
 U31-157	S0511	tatra ṣaḍ	tatra	ind.	0006c03	彼經中	意译	0166c25	彼中	tatra 指《多界經》
 U31-158	S0511	ya ime	yad	pron. m. pl. nom.	0006c03	所	语法	0166c25	所	关系从句 ye … uktāḥ 译"所說"
-U31-159	S0511	uktāḥ	vac	ptc. m. pl. nom.	0006c04	說	对译	0166c25	說	
+U31-159	S0511	uktāḥ	ukta	ptc. m. pl. nom. (√vac)	0006c04	說	对译	0166c25	說	
 U31-160	S0511	ṣaḍ	ṣaṣ	num. pl. nom.	0006c04	六	对译	0166c25	六	
 U31-161	S0511	ṣaḍ dhātavaḥ	dhātu	n. m. pl. nom.	0006c04	界	对译	0166c25	界	
 U31-195	S0511	pṛthivīdhātur	pṛthivī-dhātu	cpd. m. sg. nom.	0006c04	地…界	合译	0166c25	地界	补整词记录；四个 -dhātu 合为"地水火風四界"之"界"

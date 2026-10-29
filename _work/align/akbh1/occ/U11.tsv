@@ -1,6 +1,6 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
 U11-001	S0206	vikṣiptācittakasyāpi	vikṣipta-acittaka	cpd. m. sg. gen.	0003a16	亂心無心	对译	0163c06	亂心無心	
-U11-002	S0206	vikṣiptā	vi-kṣip	ptc. 成分	0003a16	亂心	意译	0163c06	亂心	颂中 vikṣipta 即 vikṣiptacittaka（亂心者），见长行
+U11-002	S0206	vikṣiptā	vikṣipta	ptc. 成分 (√vi-kṣip)	0003a16	亂心	意译	0163c06	亂心	颂中 vikṣipta 即 vikṣiptacittaka（亂心者），见长行
 U11-003	S0206	ācittakasyā	a-cittaka	adj. m. sg. gen.	0003a16	無心	对译	0163c06	無心	
 U11-004	S0206	kasyāpi	api	ind.	0003a16	等	意译	0163c06	耶	长行释"等"即 api（S0209）
 U11-005	S0206	'nubaṇdhaḥ	anubandha	n. m. sg. nom.	0003a16	隨流	对译	0163c06	隨流	GRETIL 本作 'nubaṇdhaḥ
@@ -15,7 +15,7 @@ U11-011	S0206				0003a17	性	增译
 U11-013	S0206	avijñaptir	a-vijñapti	n. f. sg. nom.	0003a17	無表	对译	0163c07	無教色	
 U11-014	S0206	ucyate	vac	v. pres. pass. 3sg.	0003a17	說	对译	0163c07	說	
 U11-015	S0207	vikṣiptacittakasyeti	vikṣipta-cittaka	cpd. m. sg. gen.	0003a18	亂心	对译	0163c07	亂心	
-U11-016	S0207	vikṣipta	vi-kṣip	ptc. 成分	0003a18	亂	对译			
+U11-016	S0207	vikṣipta	vikṣipta	ptc. 成分 (√vi-kṣip)	0003a18	亂	对译			
 U11-017	S0207	cittakasyeti	cittaka	n. m. sg. gen.	0003a18	心	对译	0163c07	心	
 U11-019	S0207	tadanyacittasyāpi	tad-anya-citta	cpd. m. sg. gen.	0003a18	此餘心	对译	0163c07	異緣	
 U11-111	S0207	tad	tad	pron. 成分	0003a18	此	对译			补成分记录
@@ -107,7 +107,7 @@ U11-094	S0216	samāsatastu	samāsatas	ind.	0003a25	略說	意译	0163c14	略說	
 U11-095	S0216	vijñaptisamādhisaṃbhūtaṃ	vijñapti-samādhi-saṃbhūta	cpd. adj. nt. sg. nom.	0003a25	表…定所生	对译	0163c15	有教色，三摩提所生	"業""及"为增字
 U11-096	S0216	vijñapti	vijñapti	n. 成分	0003a25	表	对译	0163c15	有教	
 U11-097	S0216	samādhi	samādhi	n. 成分	0003a25	定	对译	0163c15	三摩提	真谛音译
-U11-098	S0216	saṃbhūtaṃ	saṃ-bhū	ptc. nt. sg. nom.	0003a25	生	对译	0163c15	生	
+U11-098	S0216	saṃbhūtaṃ	saṃbhūta	ptc. nt. sg. nom. (√saṃ-bhū)	0003a25	生	对译	0163c15	生	
 U11-099	S0216	kuśalākuśalaṃ	kuśala-akuśala	cpd. nt. sg. nom.	0003a25	善不善	对译	0163c15	善惡	
 U11-126	S0216	kuśalā	kuśala	adj. 成分	0003a25	善	对译	0163c15	善	补成分记录
 U11-127	S0216	ākuśalaṃ	a-kuśala	adj. nt. sg. nom.	0003a25	不善	对译	0163c15	惡	补成分记录
@@ -118,6 +118,6 @@ U11-103	S0217	mahābhūtāny	mahā-bhūta	cpd. nt. pl. acc.	0003a26	大種	对�
 U11-128	S0217	mahā	mahat	adj. 成分	0003a26	大	对译	0163c16	大	补成分记录
 U11-129	S0217	bhūtāny	bhūta	n. nt. pl. acc.	0003a26	種	意译			补成分记录；bhūta 与 mahat 合为"大種"，此取"種"
 U11-104	S0217	upādāyetyuktāni	upa-ā-dā	abs.	0003a26	所造	意译	0163c16	依止	
-U11-105	S0217	uktāni	vac	ptc. nt. pl. nom.	0003a26	言	对译	0163c15	說	
+U11-105	S0217	uktāni	ukta	ptc. nt. pl. nom. (√vac)	0003a26	言	对译	0163c15	說	
 U11-106	S0217	uktāni	ppp.	gram. ppp. (-ta)	0003a26	既	语法	0163c15	前	过去被动分词表已然，译"既"
 U11-108	S0217	bhūtāni	bhūta	n. nt. pl. nom.	0003a26	大種	意译	0163c16	四大	

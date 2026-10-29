@@ -5,7 +5,7 @@ U07-003	S0109	upādānaskandhāste	upādāna-skandha	cpd. m. pl. nom.	0002a22	�
 U07-004	S0109	upādāna	upādāna	n. 成分	0002a22	取	对译	0162c20	取	复合词成分
 U07-005	S0109	skandhāste	skandha	n. m. pl. nom.	0002a22	蘊	对译	0162c20	陰	复合词成分
 U07-006	S0110	ataḥ	atas	ind.	0002a24	此	语法	0162c20	此	ataḥ（由此）译"此"
-U07-008	S0110	diddhaṃ	sidh	ptc. nt. sg. nom.	0002a24	立	意译	0162c21	顯	GRETIL 本作 diddhaṃ，当读 siddhaṃ
+U07-008	S0110	diddhaṃ	siddha	ptc. nt. sg. nom. (√sidh)	0002a24	立	意译	0162c21	顯	GRETIL 本作 diddhaṃ，当读 siddhaṃ
 U07-009	S0111				0002a24	謂立	增译			承上问"此何所立"作答
 U07-010	S0111	ya upādānaskandhāḥ skandhā api te	yad … tad	gram. rel.-cor.	0002a24	名為	语法	0162c21	名	
 U07-011	S0111	ya upādānaskandhāḥ	upādāna-skandha	cpd. m. pl. nom.	0002a24	取蘊	对译			
@@ -30,7 +30,7 @@ U07-027	S0112				0002a25	名	增译	0162c22	為	"X 即 Y"的等同句，以"名"
 U07-028	S0113				0002a25	蘊	增译	0162c22	陰	补出主语"蘊"
 U07-029	S0113	tatsaṃbhūtatvād	tad-saṃbhūta-tva	cpd. nt. sg. abl.	0002a25	從取生	意译	0162c22	從取生	-tva 未译；第五格译"故"
 U07-030	S0113	tatsaṃbhūtatvād	tad	pron. 成分	0002a26	取	意译	0162c22	取	复合词前项 tad（彼）还原为所指"取"；"從"表来源
-U07-031	S0113	saṃbhūta	saṃ-bhū	ptc. 成分	0002a26	生	对译	0162c22	生	
+U07-031	S0113	saṃbhūta	saṃbhūta	ptc. 成分 (√saṃ-bhū)	0002a26	生	对译	0162c22	生	
 U07-032	S0113				0002a26	名	增译	0162c22	名	
 U07-033	S0113	upādānaskandhāḥ	upādāna-skandha	cpd. m. pl. nom.	0002a26	取蘊	对译	0162c22	取陰	
 U07-129	S0113	upādāna	upādāna	n. 成分	0002a26	取	对译	0162c22	取	补成分记录
@@ -75,7 +75,7 @@ U07-070	S0118	pāra	para	adj. 成分	0002a29	他	对译	0162c26	他
 U07-071	S0118	vyāvādhanāt	vyābādhana	n. nt. sg. abl.	0002a29	損害	对译	0162c26	損害	
 U07-072	S0118	stadanuśayitatvāt	tad-anuśayita-tva	cpd. nt. sg. abl.	0002a29	諍隨增	意译	0162c26	鬪爭所隨眠	
 U07-073	S0118	stadanuśayitatvāt	tad	pron. 成分	0002a29	諍	意译	0162c26	鬪爭	复合词前项 tad 还原为所指"諍"
-U07-074	S0118	anuśayita	anu-śī	ptc. 成分	0002a29	隨增	对译	0162c27	隨眠	
+U07-074	S0118	anuśayita	anuśayita	ptc. 成分 (√anu-śī)	0002a29	隨增	对译	0162c27	隨眠	
 U07-075	S0118	saraṇāḥ	sa-raṇa	adj. m. pl. nom.	0002a29	有諍	对译	0162c27	有鬪爭	"名為"为增字
 U07-076	S0118				0002a29	名為	增译	0162c27	說	
 U07-077	S0118	sāsravavat	sa-āsrava	adj. 成分	0002b01	有漏	对译	0162c27	有流	
@@ -119,7 +119,7 @@ U07-114	S0123	dharmāṇām	dharma	n. m. pl. gen.	0002b05	法	对译	0163a03	法
 U07-115	S0123	ānvarthaparyāyāḥ	anvartha-paryāya	cpd. m. pl. nom.	0002b05	隨義別名	对译	0163a03	如義別名	GRETIL 本作 -māṇvartha-（dharmāṇām anvartha-）
 U07-116	S0123	ānvartha	anvartha	adj. 成分	0002b05	隨義	对译	0163a03	如義	
 U07-117	S0123	paryāyāḥ	paryāya	n. m. pl. nom.	0002b05	別名	对译	0163a03	別名	
-U07-118	S0124	ityuktam	vac	ptc. nt. sg. nom.	0002b05	言	对译	0163a03	說	
+U07-118	S0124	ityuktam	ukta	ptc. nt. sg. nom. (√vac)	0002b05	言	对译	0163a03	說	
 U07-119	S0124				0002b05	如上	增译	0163a03	前	真谛作"前已說"
 U07-120	S0124	pañca	pañcan	num. pl. nom.	0002b05	五	对译	0163a03	五	
 U07-121	S0124	rūpādayaḥ	rūpa-ādi	cpd. m. pl. nom.	0002b05	色等	对译	0163a03	色等	

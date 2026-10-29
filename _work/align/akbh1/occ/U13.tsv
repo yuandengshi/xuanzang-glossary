@@ -14,7 +14,7 @@ U13-012	S0234				0003b17	色處為體	增译			玄奘补出所指：以色處為
 U13-013	S0234				0003b17	隨世間想假立此名	增译	0164a05	依…世假名想	长行复述颂文，"假"为增字
 U13-014	S0234	tathā hi	tathā hi	ind.	0003b18	由…故	语法			tathā hi 引出理由，译"由…故"
 U13-015	S0234				0003b18	諸世間	增译	0164a04	世人	补出主语
-U13-016	S0234	darśayanto	dṛś (caus.)	ptc. pres. m. pl. nom.	0003b18	相示	意译	0164a04	示現	
+U13-016	S0234	darśayanto	darśayat	ptc. pres. m. pl. nom. (caus. √dṛś)	0003b18	相示	意译	0164a04	示現	
 U13-017	S0234	pṛthivīṃ	pṛthivī	n. f. sg. acc.	0003b18	地	对译	0164a04	地大	
 U13-018	S0234	varṇaṃ	varṇa	n. m. sg. acc.	0003b18	顯	对译	0164a04	顯	
 U13-019	S0234	saṃsthānaṃ ca	saṃsthāna	n. nt. sg. acc.	0003b18	形	对译	0164a04	形	
@@ -75,7 +75,7 @@ U13-064	S0242	ityucyate	vac	v. pres. pass. 3sg.	0003b22	說	对译	0164a09	說
 U13-065	S0242	raupaṇāt	rūpaṇa	n. nt. sg. abl.	0003b23	變壞	对译	0164a10	變壞	GRETIL 本作 raupaṇāt，当读 rūpaṇāt
 U13-066	S0242	raupaṇāt	abl.	gram. abl. (-āt)	0003b22	由…故	语法	0164a10	故	
 U13-067	S0243				0003b23	如	增译			
-U13-068	S0243	uktaṃ	vac	ptc. nt. sg. nom.	0003b23	說	对译	0164a10	說	
+U13-068	S0243	uktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0003b23	說	对译	0164a10	說	
 U13-069	S0243	bhagavatā	bhagavat	n. m. sg. instr.	0003b23	世尊	对译	0164a10	佛世尊	
 U13-070	S0243	bhikṣavas	bhikṣu	n. m. pl. voc.	0003b23	苾芻	音译	0164a10	比丘	
 U13-071	S0243				0003b23	當知	增译			
@@ -95,7 +95,7 @@ U13-084	S0245	pāṇi	pāṇi	n. 成分	0003b24	手	对译	0164a11	手
 U13-085	S0245	sparśenāpi	sparśa	n. m. sg. instr.	0003b24	觸	对译	0164a11	觸	
 U13-086	S0245	sparśenāpi	instr.	gram. instr. (-ena)	0003b24	故	语法	0164a11	由…故	第三格表原因，译"故"
 U13-087	S0245	sparśenāpi	api	ind.	0003b24	即便	意译			api（即使只是）译"即便"
-U13-088	S0245	spṛṣṭo	spṛś	ptc. m. sg. nom.			省译			spṛṣṭaḥ（被触）与 sparśa 合译"觸"
+U13-088	S0245	spṛṣṭo	spṛṣṭa	ptc. m. sg. nom. (√spṛś)			省译			spṛṣṭaḥ（被触）与 sparśa 合译"觸"
 U13-089	S0245	spṛṣṭo rūpyata	rūp	v. pres. pass. 3sg.	0003b24	變壞	对译	0164a11	變…壞	
 U13-090	S0245	iti vistaraḥ	iti vistaraḥ	ind.	0003b24	乃至廣說	语法	0164a12	廣說如經	固定说法
 U13-091	S0245	rūpyate bādhyata	rūp	v. pres. pass. 3sg.	0003b25	變壞	对译			
@@ -106,21 +106,21 @@ U13-095	S0246	tathā hyartha	tathā hi	ind.	0003b25	故	语法	0164a12	復次	ta
 U13-096	S0246	arthavargīyeṣū	artha-vargīya	cpd. nt. pl. loc.	0003b25	義品	对译	0164a12	義部經	
 U13-097	S0246	arthavargīyeṣū	artha	n. 成分	0003b25	義	对译	0164a12	義	
 U13-098	S0246	vargīyeṣū	vargīya	adj. nt. pl. loc.	0003b25	品	对译	0164a12	部經	
-U13-100	S0246	ūktam	vac	ptc. nt. sg. nom.	0003b26	說	对译	0164a13	說	
+U13-100	S0246	ūktam	ukta	ptc. nt. sg. nom. (√vac)	0003b26	說	对译	0164a13	說	
 U13-101	S0246				0003b25	作如是	增译			
-U13-102	S0247	kāmayānasya	kam (caus.)	ptc. pres. m. sg. gen.	0003b27	趣求	意译	0164a14	求得	kāmayāna（贪求者）
+U13-102	S0247	kāmayānasya	kāmayamāna	ptc. pres. m. sg. gen. (caus. √kam)	0003b27	趣求	意译	0164a14	求得	kāmayāna（贪求者）
 U13-103	S0247				0003b27	諸欲	增译	0164a14	欲塵	补出宾语（据下句 kāmāḥ）
 U13-104	S0247	dehinaḥ	dehin	n. m. sg. gen.	0003b27	人	意译	0164a14	人	dehin（有身者）译"人"
 U13-105	S0247	cchandajātasya	chanda-jāta	cpd. m. sg. gen.	0003b27	起於希望	意译	0164a14	愛渴所染著	"常"为增字
 U13-106	S0247	cchanda	chanda	n. 成分	0003b27	希望	意译	0164a14	愛渴	
-U13-107	S0247	jātasya	jan	ptc. m. sg. gen.	0003b27	起	意译			jāta（已生）译"起"
+U13-107	S0247	jātasya	jāta	ptc. m. sg. gen. (√jan)	0003b27	起	意译			jāta（已生）译"起"
 U13-108	S0247				0003b27	常	增译			
 U13-109	S0247	cet	cet	ind.	0003b28	若	语法	0164a15	若	
 U13-110	S0247	kāmā	kāma	n. m. pl. nom.	0003b28	欲	对译			
 U13-112	S0247	samṛdhyanti	sam-ṛdh	v. pres. 3pl.	0003b28	遂	对译	0164a15	遂	
 U13-113	S0247	śalyaviddha	śalya-viddha	cpd. m. sg. nom.	0003b28	箭中	对译	0164a15	被刺	
 U13-114	S0247	śalya	śalya	n. 成分	0003b28	箭	对译	0164a15	刺	
-U13-115	S0247	viddha	vyadh	ptc. m. sg. nom.	0003b28	中	对译	0164a15	被	viddha（被射中）译"中"
+U13-115	S0247	viddha	viddha	ptc. m. sg. nom. (√vyadh)	0003b28	中	对译	0164a15	被	viddha（被射中）译"中"
 U13-116	S0247	iva	iva	ind.	0003b28	如	语法	0164a15	如	
 U13-117	S0247	iva rūpyate	rūp	v. pres. pass. 3sg.	0003b28	惱壞	意译	0164a15	喜彼	此处 rūpyate 译"惱壞"
 U13-118	S0248	rūpasya	rūpa	n. nt. sg. gen.	0003b29	色	对译	0164a16	色	
@@ -147,7 +147,7 @@ U13-336	S0251	paramāṇu	paramāṇu	n. 成分	0003c02	極微	对译	0164a18	�
 U13-337	S0251	rūpam	rūpa	n. nt. sg. nom.			省译	0164a18	色	补成分记录；玄奘未译 rūpa
 U13-137	S0251	ekaṃ	eka	num. nt. sg. nom.	0003c02	一	对译			
 U13-138	S0251	pṛthag	pṛthak	ind.	0003c02	各	意译	0164a18	獨	
-U13-139	S0251	bhūtam	bhū	ptc. nt. sg. nom.	0003c02	處…住	意译	0164a18	住	pṛthag bhūtam（别别而有）译"各處而住"
+U13-139	S0251	bhūtam	bhūta	ptc. nt. sg. nom. (√bhū)	0003c02	處…住	意译	0164a18	住	pṛthag bhūtam（别别而有）译"各處而住"
 U13-141	S0252	sañghātasthaṃ	saṃghāta-stha	cpd. adj. nt. sg. nom.	0003c03	聚集	意译	0164a18	和合住	-stha 未译
 U13-142	S0252	sañghāta	saṃghāta	n. 成分	0003c03	聚集	对译	0164a18	和合	
 U13-338	S0252	sthaṃ	stha	adj. nt. sg. nom.			省译	0164a18	住	补成分记录；玄奘未译 -stha
@@ -160,9 +160,9 @@ U13-148	S0253	ānāgataṃ	an-āgata	ptc. nt. sg. nom.	0003c03	未來	对译	016
 U13-149	S0253	tarhi rūpaṃ	tarhi	ind.			省译	0164a19	若爾	
 U13-150	S0253	rūpaṃ na	rūpa	n. nt. sg. nom.	0003c04	色	对译	0164a19	色	
 U13-151	S0253	prāpnoti	pra-āp	v. pres. 3sg.	0003c03	應	意译	0164a19	應	
-U13-152	S0254	rūpitaṃ	rūp (caus.)	ptc. nt. sg. nom.	0003c04	變礙	对译	0164a19	變…壞	"有"为增字
+U13-152	S0254	rūpitaṃ	rūpita	ptc. nt. sg. nom. (caus. √rūp)	0003c04	變礙	对译	0164a19	變…壞	"有"为增字
 U13-153	S0254	rūpitaṃ	ppp.	gram. ppp. (-ta)	0003c04	曾	语法	0164a19	已	过去分词表已然，译"曾"
-U13-154	S0254	rūpayiṣyamāṇaṃ	rūp (caus.)	ptc. fut. pass. nt. sg. nom.	0003c04	變礙	合译	0164a20	應變壞	与 rūpita 共用"變礙"（曾當有變礙）
+U13-154	S0254	rūpayiṣyamāṇaṃ	rūpayiṣyamāṇa	ptc. fut. pass. nt. sg. nom. (caus. √rūp)	0003c04	變礙	合译	0164a20	應變壞	与 rūpita 共用"變礙"（曾當有變礙）
 U13-155	S0254	tajjātīyaṃ	tad-jātīya	cpd. nt. sg. nom.	0003c04	彼類	对译	0164a20	變壞性類	
 U13-339	S0254	taj	tad	pron. 成分	0003c04	彼	对译	0164a20	變壞性	补成分记录；真谛还原为所指"變壞性"
 U13-156	S0254	jātīyaṃ	jātīya	adj. nt. sg. nom.	0003c04	類	对译	0164a20	類	
@@ -177,7 +177,7 @@ U13-164	S0256	sāpi	tad	pron. f. sg. nom.	0003c06	無表	意译	0164a21	此	代�
 U13-165	S0256	vijñaptirūpaṇād	vijñapti-rūpaṇa	cpd. nt. sg. abl.	0003c05	表…變礙	对译	0164a21	有教變壞	"色""有"为增字
 U13-166	S0256	vijñapti	vijñapti	n. 成分	0003c05	表	对译	0164a21	有教	
 U13-167	S0256	rūpaṇād	rūpaṇa	n. nt. sg. abl.	0003c05	變礙	对译	0164a21	變壞	
-U13-168	S0256	rūpitā	rūp (caus.)	ptc. f. sg. nom.	0003c06	受色名	意译	0164a21	其同變壞	rūpita（被称为色）译"受色名"
+U13-168	S0256	rūpitā	rūpita	ptc. f. sg. nom. (caus. √rūp)	0003c06	受色名	意译	0164a21	其同變壞	rūpita（被称为色）译"受色名"
 U13-169	S0256	bhavati	bhū	v. pres. 3sg.			省译			
 U13-170	S0256				0003c06	隨彼	增译			
 U13-171	S0257	vṛkṣapracalane	vṛkṣa-pracalana	cpd. nt. sg. loc.	0003c06	樹動	对译	0164a22	樹動	
@@ -276,23 +276,23 @@ U13-256	S0265	svabhūtacatuṣkāśritatvā	sva-bhūta-catuṣka-āśrita-tva	cp
 U13-257	S0265	sva	sva	pron. 成分	0003c14	自	对译	0164b01	自	
 U13-258	S0265	bhūta	bhūta	n. 成分	0003c14	大種	意译	0164b01	大	
 U13-259	S0265	catuṣkā	catuṣka	n. 成分	0003c14	四	对译	0164b01	四	
-U13-260	S0265	āśrita	ā-śri	ptc. 成分	0003c14	依止	对译	0164b01	依止	
+U13-260	S0265	āśrita	āśrita	ptc. 成分 (√ā-śri)	0003c14	依止	对译	0164b01	依止	
 U13-261	S0265	ābhyupagamāt	abhyupagama	n. m. sg. abl.	0003c13	彼宗	意译	0164a29	彼…師說	abhyupagama（所许、主张）译"彼宗"
 U13-262	S0266	satyapi	loc. abs.	gram. loc. abs. (sati)	0003c14	設許	语法	0164b01	若	satyapi（纵然是）译"設許"
 U13-263	S0266	tadāśritatve	tad-āśrita-tva	cpd. nt. sg. loc.	0003c15	依止樹寶	意译	0164b02	依樹寶	
 U13-264	S0266	tadāśritatve	tad	pron. 成分	0003c15	樹寶	意译	0164b02	樹寶	代词还原为所指
-U13-265	S0266	āśritatve	ā-śri	ptc. 成分	0003c15	依止	对译	0164b02	依	
+U13-265	S0266	āśritatve	āśrita	ptc. 成分 (√ā-śri)	0003c15	依止	对译	0164b02	依	
 U13-266	S0266	cchāyāprabhayor	chāyā-prabhā	cpd. f. du. gen.	0003c15	影光	对译	0164b02	影光	
 U13-267	S0266	cchāyā	chāyā	n. 成分	0003c15	影	对译	0164b02	影	
 U13-268	S0266	prabhayor	prabhā	n. f. du. gen.	0003c15	光	对译	0164b02	光	
 U13-269	S0266	āvijñaptis	a-vijñapti	n. f. sg. nom.	0003c15	無表	对译	0164b02	無教	"色"为增字
 U13-270	S0266	tathaivā	tathā	ind.	0003c15	同彼	意译	0164b02	同此	tathā eva（同样地）译"同彼"
-U13-271	S0266	āśritā	ā-śri	ptc. f. sg. nom.	0003c15	依	对译	0164b02	依止	
+U13-271	S0266	āśritā	āśrita	ptc. f. sg. nom. (√ā-śri)	0003c15	依	对译	0164b02	依止	
 U13-272	S0266	yujyate	yuj	v. pres. pass. 3sg.			省译	0164b02	應	
 U13-273	S0266				0003c15	而	增译			
 U13-274	S0267				0003c15	彼	增译	0164b03	彼師	补出主语
 U13-275	S0267	'bhyupagamyate	abhi-upa-gam	v. pres. pass. 3sg.	0003c16	許	对译	0164b03	許	
-U13-276	S0267	niruddheṣvapi	ni-rudh	ptc. nt. pl. loc.	0003c16	滅	对译	0164b03	謝	
+U13-276	S0267	niruddheṣvapi	niruddha	ptc. nt. pl. loc. (√ni-rudh)	0003c16	滅	对译	0164b03	謝	
 U13-277	S0267	niruddheṣvapi	api	ind.	0003c16	雖	语法			第七格独立句 + api（纵使）译"雖"
 U13-278	S0267	avijña ptyāśayeṣu	avijñapti-āśraya	cpd. m. pl. loc. (?)	0003c16	所依	意译	0164b03	無教所依止	GRETIL 本作 avijña ptyāśayeṣu，当读 avijñaptyāśrayeṣu；avijñapti 未译
 U13-348	S0267	avijña pty	a-vijñapti	n. 成分			省译	0164b03	無教	补成分记录；玄奘未译 avijñapti
@@ -319,7 +319,7 @@ U13-354	S0269	ādīnām	ādi	n. nt. pl. gen.	0003c18	等	对译	0164b05	等	补�
 U13-293	S0269				0003c18	五	增译			
 U13-294	S0269	āśrayo	āśraya	n. m. sg. nom.	0003c18	所依	对译	0164b05	依止	
 U13-295	S0269	bhedaṃ gataḥ	bheda	n. m. sg. acc.	0003c18	不定	意译	0164b05	各有差別	bhedaṃ gataḥ（有差别、不一）译"不定"
-U13-296	S0269	gataḥ	gam	ptc. m. sg. nom.			省译			
+U13-296	S0269	gataḥ	gata	ptc. m. sg. nom. (√gam)			省译			
 U13-297	S0270	kaṣcid	kaścit	pron. m. sg. nom.	0003c18	或有	意译	0164b05	有	GRETIL 本作 kaṣcid
 U13-298	S0270	kaṣcidrūpyate	rūp	v. pres. pass. 3sg.	0003c18	變礙	对译	0164b05	變…壞	
 U13-299	S0270	cakṣurādiḥ	cakṣus-ādi	cpd. m. sg. nom.	0003c18	眼等	对译	0164b06	眼等	"根"为增字
@@ -340,7 +340,7 @@ U13-311	S0272	prasaṅgaḥ	prasaṅga	n. m. sg. nom.	0003c20	所難	意译	0164
 U13-311+1	S0272				0003c20	前	增译			合并时从 U13-311（前所難）拆出
 U13-312	S0272				0003c20	定為	增译			
 U13-313	S0272	ityata	atas	ind.			省译			
-U13-314	S0272	upapannam	upa-pad	ptc. nt. sg. nom.	0003c20	成就	意译	0164b07	應然	upapanna（合理、成立）译"成就"
+U13-314	S0272	upapannam	upapanna	ptc. nt. sg. nom. (√upa-pad)	0003c20	成就	意译	0164b07	應然	upapanna（合理、成立）译"成就"
 U13-324	S0272	āśraya rūpaṇād	āśraya-rūpaṇa	cpd. nt. sg. abl.	0003c20	變礙	意译	0164b07	可…變壞	补整词记录；GRETIL 分写作 āśraya rūpaṇād；āśraya 未译
 U13-315	S0272	āśraya	āśraya	n. 成分			省译			玄奘只作"變礙名色"
 U13-316	S0272	rūpaṇād	rūpaṇa	n. nt. sg. abl.	0003c20	變礙	对译	0164b07	可…變壞	
@@ -351,4 +351,4 @@ U13-320	S0273	rūpaskandha	rūpa-skandha	cpd. 成分	0003c23	色蘊	对译	0164b
 U13-357	S0273	rūpa	rūpa	n. 成分	0003c23	色	对译	0164b08	色	补成分记录
 U13-358	S0273	skandha	skandha	n. 成分	0003c23	蘊	对译	0164b08	陰	补成分记录
 U13-321	S0273	svabhāvā	svabhāva	n. m. pl. nom.	0003c23	性	对译	0164b08	性	
-U13-322	S0273	uktāḥ	vac	ptc. m. pl. nom.	0003c23	說	对译	0164b08	說	
+U13-322	S0273	uktāḥ	ukta	ptc. m. pl. nom. (√vac)	0003c23	說	对译	0164b08	說	

@@ -9,7 +9,7 @@ Usage: python3 -I akbh1_normalize.py AKBH1_DIR [--dry]
  2. comp. → compar.
  3. 实词词目：否定前缀加连字符（a-bhāva、a-jñāna），复合词成分一律用词干（cakṣus-、manas-、catur-、adhas-），
     合写的 manovijñāna、cakṣurvijñāna 拆为 manas-vijñāna、cakṣus-vijñāna；分词、形容词不拆前缀（saṃprayukta）。
-    单用的基数词用 -an 词干（pañca → pañcan）；复合词里仍作 pañca-、daśa-、ṣaṣ-。
+    单用的基数词用 -an 词干（pañca → pañcan）；复合词里 -an 词干去 n（pañca-、aṣṭādaśa-、ātma-、karma-、nāma-），ṣaṣ- 不变。
  4. 形态标注排成规定次序（morph.canon）：词类、性、数、格；动词为时态/语气、pass.、caus.、人称数。
 """
 import csv
@@ -38,6 +38,8 @@ LEX = {'abhāva': 'a-bhāva', 'ananta': 'an-anta', 'anityatā': 'a-nityatā', 'a
        'ajñāna': 'a-jñāna', 'anantara': 'an-antara', 'apratisaṃkhyā': 'a-pratisaṃkhyā',
        'saṃ-pra-yukta': 'saṃprayukta'}
 # 复合词成分：连声形式 → 词干
+AN_STEM = {'pañcan', 'saptan', 'aṣṭan', 'navan', 'daśan', 'ekādaśan', 'dvādaśan', 'trayodaśan', 'caturdaśan', 'pañcadaśan',
+           'ṣoḍaśan', 'saptadaśan', 'aṣṭādaśan', 'ātman', 'karman', 'nāman', 'rājan', 'brahman', 'janman', 'adhvan'}
 MEMBER = {'cakṣur': 'cakṣus', 'mano': 'manas', 'manaḥ': 'manas', 'catuḥ': 'catur', 'catuṣ': 'catur', 'adho': 'adhas'}
 
 
@@ -90,7 +92,9 @@ def lex_lemma(l, pos):
     if parts[0] in LEX:
         parts = LEX[parts[0]].split('-') + parts[1:]
     out = []
-    for p in parts:
+    for k, p in enumerate(parts):
+        if k < len(parts) - 1 and p in AN_STEM:   # 复合词非末成分的 -an 词干去 n
+            p = p[:-1]
         if p in MEMBER:
             p = MEMBER[p]
         elif p == 'manovijñāna':

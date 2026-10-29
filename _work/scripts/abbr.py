@@ -18,7 +18,8 @@ GROUPS = [
         ('interrog.', 'interrogative', '疑问词'),
         ('phr.', 'phrase', '短语、固定说法'),
         ('v.', 'verb', '动词的限定形式'),
-        ('ptc.', 'participle', '分词'),
+        ('ptc.', 'participle', '分词；词目写分词本身（如 hata、ukta、paśyat），所从出的词根注在 pos 末尾的括号里，如 (√han)'),
+        ('√', 'root', '词根，如 (√han)、(caus. √jan)'),
         ('ppp.', 'past passive participle', '过去被动分词（-ta、-na），玄奘常以"已"表出'),
         ('tavat', 'past active participle', '过去主动分词（-tavat），如 abhyuddhṛtavān'),
         ('gdv.', 'gerundive', '动形容词（-ya、-tavya、-anīya），表"应…、可…"，玄奘常译"所…"'),
@@ -124,7 +125,7 @@ def tokens(pos):
         if not t:
             continue
         t = 'loc. abs.' if t == 'loc.abs.' else ALIAS.get(t, t)
-        out.append(t)
+        out.append('√' if t.startswith('√') else t)
     return out
 
 

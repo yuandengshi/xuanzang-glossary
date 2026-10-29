@@ -23,7 +23,7 @@ U44-017	S0814	tatra	tatra	ind.	0010a06	於其中	语法	0170a02	於中
 U44-018	S0814	tadvijñānam	tad-vijñāna	cpd. nt. sg. nom.	0010a06	識	对译	0170a02	識	tad 未译
 U44-337	S0814	tad	tad	pron. 成分			省译			补成分记录
 U44-338	S0814	vijñānam	vijñāna	n. nt. sg. nom.	0010a06	識	对译	0170a02	識	补成分记录
-U44-019	S0814	utpantaṃ	ut-pad	ptc. nt. sg. nom. (utpanna)	0010a06	生	对译	0170a02	生	GRETIL 作 utpantaṃ，当读 utpannaṃ
+U44-019	S0814	utpantaṃ	utpanna	ptc. nt. sg. nom. (√ut-pad)	0010a06	生	对译	0170a02	生	GRETIL 作 utpantaṃ，当读 utpannaṃ
 U44-021	S0814	bhavaty	bhū	v. pres. 3sg.			省译			迂说式 utpannaṃ bhavati 只译"已生"
 U44-022	S0814	utpattidharmi	utpatti-dharmin	cpd. adj. nt. sg. nom.	0010a06	生法	对译	0170a02	定生為法	"已生生法"之"生法"
 U44-339	S0814	utpatti	utpatti	n. 成分	0010a06	生	对译	0170a02	生	补成分记录
@@ -41,7 +41,7 @@ U44-030	S0815	ānantaṃ	an-anta	adj. nt. sg. nom.	0010a08	無邊	对译	0170a03
 U44-031	S0815	manovijñānam	manas-vijñāna	cpd. nt. sg. nom.	0010a08	意識	对译	0170a03	意識	
 U44-343	S0815	mano	manas	n. 成分	0010a08	意	对译	0170a03	意	补成分记录
 U44-344	S0815	vijñānam	vijñāna	n. nt. sg. nom.	0010a08	識	对译	0170a03	識	补成分记录
-U44-032	S0815	utpannam	ut-pad	ptc. nt. sg. nom. (utpanna)	0010a08	生	对译	0170a03	生	三时共用"生"
+U44-032	S0815	utpannam	utpanna	ptc. nt. sg. nom. (√ut-pad)	0010a08	生	对译	0170a03	生	三时共用"生"
 U44-033	S0815				0010a07	正	增译			玄奘作"已正當生"，增现在时"正"；梵本只有 utpannam utpatsyate vā，真谛亦只作"已生…應生"
 U44-034	S0815	utpatsyate	ut-pad	v. fut. 3sg.	0010a08	生	合译	0170a03	生	与 utpanna 共用"生"
 U44-036	S0816	tathā hi	tathā hi	ind.	0010a08	由	语法	0170a03	何以故	此处只译"由"
@@ -61,7 +61,7 @@ U44-046	S0816	anātmāna	an-ātman	adj. m. pl. nom.	0010a09	無我	对译	0170a0
 U44-048	S0817	svabhāvasahabhūnirmuktāḥ	sva-bhāva-saha-bhū-nirmukta	cpd. m. pl. nom.	0010a09	除自體及俱有法	意译	0170a05	離自性及共有法	
 U44-049	S0817	svabhāva	svabhāva	n. 成分	0010a09	自體	对译	0170a05	自性	
 U44-050	S0817	sahabhū	saha-bhū	adj. 成分	0010a09	俱有	对译	0170a05	共有	"法"为增字
-U44-051	S0817	nirmuktāḥ	nir-muc	ptc. m. pl. nom. (nirmukta)	0010a09	除	意译	0170a05	離	
+U44-051	S0817	nirmuktāḥ	nirmukta	ptc. m. pl. nom. (√nir-muc)	0010a09	除	意译	0170a05	離	
 U44-052	S0817				0010a09	餘	增译	0170a05	餘	
 U44-053	S0817	sarvadharmā	sarva-dharma	cpd. m. pl. nom.	0010a09	一切法	对译	0170a05	一切法	
 U44-349	S0817	sarva	sarva	adj. 成分	0010a09	一切	对译	0170a05	一切	补成分记录
@@ -156,7 +156,7 @@ U44-122	S0826	caturvidham	caturvidha	adj. nt. sg. nom.	0010a18	四種	对译	017
 U44-124	S0827	yad dṛṣṭvā	a- (neg.)	gram. neg.	0010a18	不	语法	0170a13	不	GRETIL 作 yad dṛṣṭvā，据玄奘、真谛"不見"，当读 yad adṛṣṭvā
 U44-125	S0827	dṛṣṭvā	dṛś	abs.	0010a18	見	对译	0170a13	見	
 U44-126	S0827	rūpāṇi	rūpa	n. nt. pl. acc.	0010a18	色	对译	0170a14	色	
-U44-127	S0827	niaruddhaṃ	ni-rudh	ptc. nt. sg. nom. (niruddha)	0010a18	滅	对译	0170a14	滅	GRETIL 作 niaruddhaṃ；三时共用"滅"
+U44-127	S0827	niaruddhaṃ	niruddha	ptc. nt. sg. nom. (√ni-rudh)	0010a18	滅	对译	0170a14	滅	GRETIL 作 niaruddhaṃ；三时共用"滅"
 U44-128	S0827	nirudhyate	ni-rudh	v. pres. pass. 3sg.	0010a18	滅	合译	0170a14	滅	
 U44-129	S0827	nirudhyate	pres.	gram. pres. (-te)	0010a18	正	语法	0170a14	正	现在时译"正"
 U44-130	S0827	nirotsyate	ni-rudh	v. fut. 3sg.	0010a18	滅	合译	0170a14	滅	
@@ -198,7 +198,7 @@ U44-382	S0832	tat	tad	pron. 成分	0010a22	彼	对译			补成分记录
 U44-383	S0832	sabhāgāni	sabhāga	adj. nt. pl. nom.	0010a22	同分	对译	0170a18	等分	补成分记录
 U44-163	S0832	caturvidhāni	caturvidha	adj. nt. pl. nom.	0010a22	四種	对译	0170a18	四種	
 U44-165	S0833	adṛṣṭāny	a-dṛṣṭa	ptc. adj. nt. pl. nom.	0010a22	非…見	对译	0170a18	非所見	"眼"为增字（补出能见者）
-U44-166	S0833	niruddhāni	ni-rudh	ptc. nt. pl. nom. (niruddha)	0010a23	滅	对译	0170a18	滅	
+U44-166	S0833	niruddhāni	niruddha	ptc. nt. pl. nom. (√ni-rudh)	0010a23	滅	对译	0170a18	滅	
 U44-167	S0833	nirudhyante	ni-rudh	v. pres. pass. 3pl.	0010a23	滅	合译	0170a18	滅	
 U44-169	S0833	nirutsyante	ni-rudh	v. fut. 3pl.	0010a23	滅	合译	0170a18	滅	
 U44-170	S0833	ānutpattidharmīṇi	an-utpatti-dharmin	cpd. adj. nt. pl. nom.	0010a23	不生法	对译	0170a19	無生為法	

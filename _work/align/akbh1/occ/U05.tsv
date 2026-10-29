@@ -49,7 +49,7 @@ U05-032	S0052	nānuśerate	anu-śī	v. pres. 3pl.	0001c09	隨增	对译	0162b06	
 U05-033	S0052	jñāpayiṣyāmaḥ	jñāpaya (caus. jñā)	v. fut. 1pl.	0001c10	顯說	对译	0162b06	廣說	
 U05-033b	S0052	jñāpayiṣyāmaḥ	fut.	gram. fut. (-sya-)	0001c10	當	语法	0162b06	當	未来时
 U05-034	S0052	paścād	paścāt	ind.	0001c10	當	合译	0162b06	後	与未来时共用"當"（U05-033b）
-U05-035	S0053	uktāḥ	vac	ptc. m. pl. nom.	0001c10	辯	对译	0162b06	說	
+U05-035	S0053	uktāḥ	ukta	ptc. m. pl. nom. (√vac)	0001c10	辯	对译	0162b06	說	
 U05-035b	S0053	uktāḥ sāsravāḥ	sa-āsrava	adj. m. pl. nom.	0001c10	有漏	对译	0162b06	有流	
 U05-036	S0054	anasravāḥ	an-āsrava	adj. m. pl. nom.	0001c10	無漏	对译	0162b07	無流	GRETIL 本作 anasravāḥ
 U05-036b	S0054	katame	katama	pron. m. pl. nom.	0001c10	云何	语法	0162b06	何…者	
@@ -85,7 +85,7 @@ U05-051b	S0060	vāsravā	āsrava	n. m. pl. nom.	0001c13	漏	对译	0162b10	流	"
 U05-051d	S0060	vāsravā	pl.	gram. pl. nom. (-āḥ)	0001c13	諸	语法	0162b10	諸	复数以"諸"表出
 U05-051c	S0060	anuśerata	anu-śī	v. pres. 3pl.	0001c13	隨增	对译	0162b10	眠	
 U05-052	S0060	kiṃ kāraṇam	kiṃ kāraṇam	pron. nt. sg. nom. + n. nt. sg. nom.	0001c13	所以者何	语法	0162b10	何以故	
-U05-053	S0061	uddiṣṭam	ud-diś	ptc. nt. sg. nom.	0001c14	略所說	意译	0162b11	略說	
+U05-053	S0061	uddiṣṭam	uddiṣṭa	ptc. nt. sg. nom. (√ud-diś)	0001c14	略所說	意译	0162b11	略說	
 U05-054	S0062	tatrākāśam	tatra	ind.	0001c03	此中	语法	0162b11	此中	
 U05-055	S0062	tatrākāśam	ākāśa	n. nt. sg. nom.	0001c03	空	对译	0162b11	空	
 U05-056	S0062	anāvṛtiḥ	an-āvṛti	n. f. sg. nom.	0001c03	無礙	对译	0162b11	無礙	
@@ -114,8 +114,8 @@ U05-072	S0066	prajñāviśeṣas	prajñā-viśeṣa	cpd. m. sg. nom.	0001c17	慧
 U05-218	S0066	prajñā	prajñā	n. 成分	0001c17	慧	对译	0162b14	智	补成分记录
 U05-073	S0066	viśeṣas	viśeṣa	n. m. sg. nom.	0001c17	差別	对译	0162b14	勝	
 U05-074	S0066	duḥkhādīnām	duḥkha-ādi	cpd. nt. pl. gen.	0001c17	四	意译	0162b14	苦等	duḥkhādi（苦等）玄奘作"四"
-U05-219	S0066	duḥkhā	duḥkha	n. 成分	0001c17	四	合译	0162b14	苦	补成分记录；duḥkhādi（苦等）合作"四"
-U05-220	S0066	ādīnām	ādi	n. nt. pl. gen.	0001c17	四	合译	0162b14	等	补成分记录；duḥkhādi（苦等）合作"四"
+U05-219	S0066	duḥkhā	duḥkha	n. 成分			省译	0162b14	苦	补成分记录；duḥkhādi（苦等）合作"四"；玄奘以"四"概括，此成分不单译，记省译（原作合译）
+U05-220	S0066	ādīnām	ādi	n. nt. pl. gen.			省译	0162b14	等	补成分记录；duḥkhādi（苦等）合作"四"；玄奘以"四"概括，此成分不单译，记省译（原作合译）
 U05-075	S0066	āryasatyānāṃ	ārya-satya	cpd. nt. pl. gen.	0001c17	聖諦	对译	0162b14	聖諦	
 U05-221	S0066	ārya	ārya	adj. 成分	0001c17	聖	对译	0162b14	聖	补成分记录
 U05-222	S0066	satyānāṃ	satya	n. nt. pl. gen.	0001c17	諦	对译	0162b14	諦	补成分记录
@@ -171,7 +171,7 @@ U05-103	S0075	asabhāgo	a-sabhāga	adj. m. sg. nom.	0001c23	無同類	对译	016
 U05-103b	S0075	asabhāgonirodha	nirodha	n. m. sg. nom.	0001c23	滅	对译	0162b21	擇滅	
 U05-104	S0075	sabhāgo	sabhāga	adj. m. sg. nom.	0001c23	同類	对译	0162b21	同類	
 U05-105b	S0075	ko 'rthaḥ	artha	n. m. sg. nom.	0001c23	義	对译	0162b21	義	
-U05-105c	S0075	yattarhyuktam	vac	ptc. nt. sg. nom.	0001c23	說	对译	0162b21	言	
+U05-105c	S0075	yattarhyuktam	ukta	ptc. nt. sg. nom. (√vac)	0001c23	說	对译	0162b21	言	
 U05-106	S0076	sabhāgaheturasti	sabhāga-hetu	cpd. m. sg. nom.	0001c24	同類因	对译	0162b21	同類因	
 U05-239	S0076	sabhāga	sabhāga	adj. 成分	0001c24	同類	对译	0162b21	同類	补成分记录
 U05-240	S0076	hetur	hetu	n. m. sg. nom.	0001c24	因	对译	0162b22	因	补成分记录
@@ -190,7 +190,7 @@ U05-116	S0079	utpādasyā	utpāda	n. m. sg. gen.	0001c26	生	对译	0162b24	生
 U05-116b	S0079	ātyantaṃ	atyantam	ind.	0001c26	永	对译	0162b24	永	
 U05-116c	S0079	vighnabhūto	vighna-bhūta	cpd. adj. m. sg. nom.	0001c26	礙	对译	0162b24	遮	
 U05-242	S0079	vighna	vighna	n. 成分	0001c26	礙	对译	0162b24	遮	补成分记录
-U05-243	S0079	bhūto	bhū	ptc. m. sg. nom. (bhūta)			省译			补成分记录
+U05-243	S0079	bhūto	bhūta	ptc. m. sg. nom. (√bhū)			省译			补成分记录
 U05-117	S0079	visaṃyogād yo 'nyo	abl. compar.	gram. abl. of comparison (-āt)	0001c26	異前	语法	0162b24	異於擇滅	表比较的第五格（visaṃyogād … anyaḥ），玄奘以"異前"表出
 U05-118	S0079	so 'pratisaṃkhyānirodhaḥ	a-pratisaṃkhyā-nirodha	cpd. m. sg. nom.	0001c26	非擇滅	对译	0162b25	非擇滅	
 U05-244	S0079	'pratisaṃkhyā	a-pratisaṃkhyā	n. 成分	0001c26	非擇	对译	0162b25	非擇	补成分记录
@@ -205,7 +205,7 @@ U05-124	S0080	vaikalyāt	vaikalya	n. nt. sg. abl.	0001c27	闕	对译	0162b25	不
 U05-125	S0081	aikarūpavyāsaktacakṣurmanaso	eka-rūpa-vyāsakta-cakṣus-manas	cpd. m. sg. gen.	0001c27	眼與意專一色	对译	0162b26	意識及眼根，緣一色塵	
 U05-246	S0081	aika	eka	num. 成分	0001c27	一	对译	0162b26	一	补成分记录；玄奘作"專一色"
 U05-247	S0081	rūpa	rūpa	n. 成分	0001c28	色	对译	0162b26	色	补成分记录
-U05-126	S0081	vyāsakta	vi-ā-sañj	ptc. 成分	0001c27	專	意译	0162b26	緣	
+U05-126	S0081	vyāsakta	vyāsakta	ptc. 成分 (√vi-ā-sañj)	0001c27	專	意译	0162b26	緣	
 U05-127	S0081	cakṣur	cakṣus	n. 成分	0001c27	眼	对译	0162b26	眼根	
 U05-128	S0081	manaso	manas	n. m. sg. gen.	0001c27	意	对译	0162b26	意識	
 U05-129	S0081	śabdagandharasaspraṣṭavyāni	śabda-gandha-rasa-spraṣṭavya	cpd. nt. pl. nom.	0001c28	聲香味觸	对译	0162b27	聲香味觸	
@@ -265,7 +265,7 @@ U05-268	S0089	pratyutpanno	pratyutpanna	ptc. 成分	0002a05	現	对译	0162c05	�
 U05-269	S0089	otpatti	utpatti	n. 成分	0002a05	生	对译	0162c05	生	补成分记录；真谛作"定生"
 U05-270	S0089	dharmāṇām	dharma	n. m. pl. gen.	0002a06	法	对译	0162c05	法	补成分记录；多财释末的 -dharman 即 dharma
 U05-157b	S0089	maṇāsravāṇām	an-āsrava	adj. m. pl. gen.	0002a05	無漏	对译	0162c05	無流	GRETIL 本作 aṇāsrava-
-U05-158	S0090	uktaṃ	vac	ptc. nt. sg. nom.	0002a06	說	对译	0162c05	說	
+U05-158	S0090	uktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0002a06	說	对译	0162c05	說	
 U05-158d	S0090	uktaṃ	ppp.	gram. ppp. (-ta)	0002a06	已	语法	0162c06	已	过去被动分词译"已"
 U05-158b	S0090	trividhamasaṃskṛtam	trividha	adj. nt. sg. nom.	0002a06	三種	对译	0162c05	三	
 U05-158c	S0090	asaṃskṛtam	a-saṃskṛta	ptc. adj. nt. sg. nom.	0002a06	無為	对译	0162c05	無	
@@ -300,5 +300,5 @@ U05-188	S0079	yo 'nyo	yad … tad	gram. rel.-cor.	0001c26	名	语法	0162b24	說
 U05-189	S0080	kiṃ tarhi	kiṃ tarhi	ind.	0001c27	但	语法			"但由闕緣"
 U05-190	S0081	yathai	yathā	ind.	0001c27	如	语法	0162b26	譬如	举例
 U05-191	S0091	yattūktaṃ	yad	pron. nt. sg. nom.	0002a06	前	语法	0162c06	前	关系代词 yat（所说者）译"前"
-U05-192	S0091	tūktaṃ	vac	ptc. nt. sg. nom.	0002a06	說	对译	0162c06	說	
+U05-192	S0091	tūktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0002a06	說	对译	0162c06	說	
 U05-193	S0092	iti katame	iti	ind.	0002a07	是名	语法			引上文后以"是名有漏"复述

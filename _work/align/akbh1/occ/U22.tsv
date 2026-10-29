@@ -45,18 +45,18 @@ U22-419	S0357	arthaḥ	artha	n. m. sg. nom.	0004c17	義	对译	0165a26	義	补�
 U22-037	S0357	skandhārtha	skandha-artha	cpd. m. sg. nom.	0004c17	蘊義	对译	0165a26	陰	
 U22-420	S0357	skandhā	skandha	n. 成分	0004c17	蘊	对译	0165a26	陰	补成分记录
 U22-421	S0357	ārtha	artha	n. m. sg. nom.	0004c17	義	对译			补成分记录
-U22-038	S0357	siddham	sidh	ptc. nt. sg. nom. (siddha)	0004c17	成	对译	0165a26	成	"得"为增字
+U22-038	S0357	siddham	siddha	ptc. nt. sg. nom. (√sidh)	0004c17	成	对译	0165a26	成	"得"为增字
 U22-039	S0358	tatrātītaṃ	tatra	ind.	0004c18	於此經中	语法	0165a26	此中	tatra（其中）玄奘补"經"作"於此經中"
 U22-040	S0358	anityatāniruddham	a-nityatā-niruddha	cpd. nt. sg. nom.	0004c18	無常已滅	对译	0165a27	無常已滅	
 U22-041	S0358	anityatā	a-nityatā	n. 成分	0004c18	無常	对译	0165a27	無常	
-U22-042	S0358	niruddham	ni-rudh	ptc. nt. sg. nom.	0004c18	滅	对译	0165a27	滅	
+U22-042	S0358	niruddham	niruddha	ptc. nt. sg. nom. (√ni-rudh)	0004c18	滅	对译	0165a27	滅	
 U22-043	S0358				0004c18	名	增译			玄奘以"…名…"句式下定义（以下诸条同）
 U22-044	S0358	ātītaṃ	atīta	ptc. nt. sg. nom.	0004c18	過去	对译	0165a26	過去	
 U22-045	S0358	rūpam	rūpa	n. nt. sg. nom.			省译	0165a26	色	
 U22-046	S0359	anutpannam	an-utpanna	ptc. nt. sg. nom.	0004c18	未…生	对译	0165a27	未生	"已"表完成（-ta），"若"为增字
 U22-047	S0359	anāgatam	an-āgata	ptc. nt. sg. nom.	0004c19	未來	对译	0165a27	未來	
 U22-048	S0359	utpannāniruddham	utpanna-a-niruddha	cpd. nt. sg. nom.	0004c19	已生未謝	对译	0165a27	已生未滅	
-U22-049	S0359	utpannā	ut-pad	ptc. 成分 (utpanna)	0004c19	生	对译	0165a27	生	
+U22-049	S0359	utpannā	utpanna	ptc. 成分 (√ut-pad)	0004c19	生	对译	0165a27	生	
 U22-050	S0359	āniruddham	a-niruddha	ptc. nt. sg. nom.	0004c19	未謝	对译	0165a27	未滅	
 U22-051	S0359	pratyutpannam	pratyutpanna	ptc. nt. sg. nom.	0004c19	現在	对译	0165a27	現在	
 U22-052	S0360	svāsāntānikaṃ	sva-sāṃtānika	cpd. adj. nt. sg. nom.	0004c19	自身	意译	0165a27	自相續	GRETIL 本作 svāsāntānikaṃ，当读 svasāṃtānikam
@@ -150,7 +150,7 @@ U22-138	S0371	śabdenā	instr.	gram. instr. (-ena)	0005a01	如	语法			第三�
 U22-139	S0371	svaśabdenā	sva-śabda	cpd. m. sg. instr.	0005a01	自名	对译	0165b08	自名	
 U22-140	S0371	sva	sva	pron. 成分	0005a01	自	对译	0165b08	自	
 U22-141	S0371	śabdenā	śabda	n. m. sg. instr.	0005a01	名	意译	0165b08	名	śabda（词）译"名"
-U22-142	S0371	ābhi hitatvāt	abhi-dhā	ptc. 成分 (abhihita)	0005a01	顯	意译	0165b08	所顯	GRETIL 本分写作 abhi hitatvāt
+U22-142	S0371	ābhi hitatvāt	abhihita	ptc. 成分 (√abhi-dhā)	0005a01	顯	意译	0165b08	所顯	GRETIL 本分写作 abhi hitatvāt
 U22-143	S0372	vedanādayo	vedanā-ādi	cpd. m. pl. nom. (?)	0005a01	受等	对译	0165b08	受等	
 U22-427	S0372	vedanā	vedanā	n. 成分	0005a01	受	对译	0165b08	受	补成分记录
 U22-428	S0372	ādayo	ādi	n. m. pl. nom. (?)	0005a01	等	对译	0165b08	等	补成分记录
@@ -436,11 +436,11 @@ U22-389	S0402	bhavati	bhū	v. pres. 3sg.			省译			玄奘作"此應…"的说�
 U22-390	S0402	pradeśe	pradeśa	n. m. sg. loc.	0005a29	分	对译	0165c05	分	"於"表第七格
 U22-391	S0402	upacāro	upacāra	n. m. sg. nom.	0005a29	假謂	意译	0165c05	假說	
 U22-392	S0402	pradeśivad	pradeśin	adj. 成分	0005a29	有分	对译	0165c05	具分	
-U22-393	S0402	dagdhe	dah	ptc. m. sg. loc. (dagdha)	0005a29	燒	对译	0165c06	被燒	
+U22-393	S0402	dagdhe	dagdha	ptc. m. sg. loc. (√dah)	0005a29	燒	对译	0165c06	被燒	
 U22-394	S0402	paṭṭaiakadeśe	paṭa-ekadeśa	cpd. m. sg. loc.	0005a29	少衣	意译	0165c06	衣一分	GRETIL 本作 paṭṭaiakadeśe，当读 paṭaikadeśe
 U22-395	S0402	paṭṭa	paṭa	n. 成分	0005a29	衣	对译	0165c06	衣	
 U22-396	S0402	aiakadeśe	eka-deśa	n. m. sg. loc.	0005a29	少	意译	0165c06	一分	
-U22-398	S0402	dagdha iti	dah	ptc. m. sg. nom. (dagdha)	0005b01	燒	对译	0165c06	被燒	
+U22-398	S0402	dagdha iti	dagdha	ptc. m. sg. nom. (√dah)	0005b01	燒	对译	0165c06	被燒	
 U22-399	S0402	paṭo	paṭa	n. m. sg. nom.	0005b01	衣	对译	0165c06	衣	
 U22-400	S0403	kirthaṃ	kim-artham	ind.	0005b01	何故	语法	0165c06	云何	GRETIL 本作 kirthaṃ，当读 kimarthaṃ
 U22-401	S0403	bhagavān	bhagavat	n. m. sg. nom.	0005b01	世尊	对译	0165c06	世尊	

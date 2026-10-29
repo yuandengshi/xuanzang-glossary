@@ -3,7 +3,7 @@ U14-001	S0274	indriyārthas	indriya-artha	cpd. m. pl. nom. (dvandva)	0003c22	根
 U14-002	S0274	indriyā	indriya	n. 成分	0003c22	根	对译	0164b09	根	
 U14-003	S0274	ārthas	artha	n. m. pl. nom.	0003c22	境	对译	0164b09	塵	artha（根所对之境）译"境"，真谛作"塵"
 U14-004	S0274	indriyārthas	dvandva	gram. cpd.	0003c22	與	语法			相违释（并列复合词）以"與"连接
-U14-007	S0274	eveṣṭā	iṣ	ptc. m. pl. nom. (iṣṭa)	0003c22	許	对译	0164b09	說	iṣṭa（被承认的）译"許"；真谛作"說"
+U14-007	S0274	eveṣṭā	iṣṭa	ptc. m. pl. nom. (√iṣ)	0003c22	許	对译	0164b09	說	iṣṭa（被承认的）译"許"；真谛作"說"
 U14-008	S0274	aśāyatanadhātavaḥ	daśa-āyatana-dhātu	cpd. m. pl. nom.	0003c22	十處界	对译	0164b09	十入及十界	GRETIL 本作 eveṣṭā aśāyatanadhātavaḥ，当读 daśāyatanadhātavaḥ
 U14-009	S0274	aśā	daśan	num. 成分	0003c22	十	对译	0164b09	十	GRETIL 本脱 d-（aśā-），当读 daśa-
 U14-010	S0274	āyatana	āyatana	n. 成分	0003c22	處	对译	0164b09	入	
@@ -11,7 +11,7 @@ U14-011	S0274	dhātavaḥ	dhātu	n. m. pl. nom.	0003c22	界	对译	0164b09	界
 U14-012	S0274	indriyārthas	indriya-artha	cpd. m. pl. nom.	0003c23	根境	对译			长行承 S0273（此前所說色蘊性中）复述颂文
 U14-013	S0274	indriyā	indriya	n. 成分	0003c23	根	对译			长行复述颂文
 U14-014	S0274	ārthas	artha	n. m. pl. nom.	0003c23	境	对译			长行复述颂文
-U14-015	S0274	eveṣṭā	iṣ	ptc. m. pl. nom. (iṣṭa)	0003c23	許	对译			长行复述颂文
+U14-015	S0274	eveṣṭā	iṣṭa	ptc. m. pl. nom. (√iṣ)	0003c23	許	对译			长行复述颂文
 U14-016	S0274	aśāyatanadhātavaḥ	daśa-āyatana-dhātu	cpd. m. pl. nom.	0003c23	十處界	对译			长行复述颂文；"為"为增字
 U14-076	S0274	aśā	daśan	num. 成分	0003c23	十	对译			补成分记录；GRETIL 本脱 d-（aśā-），当读 daśa-；长行复述颂文
 U14-077	S0274	āyatana	āyatana	n. 成分	0003c23	處	对译			补成分记录；长行复述颂文
@@ -57,7 +57,7 @@ U14-074	S0277	dhātuḥ	dhātu	n. m. sg. nom.	0003c26	界	对译	0164b11	界	补
 U14-051	S0277	spraṣṭavyadhātur	spraṣṭavya-dhātu	cpd. m. sg. nom.	0003c26	觸界	对译	0164b11	觸界	
 U14-052	S0277	spraṣṭavya	spraṣṭavya	gdv. n. 成分	0003c26	觸	对译	0164b11	觸	
 U14-075	S0277	dhātur	dhātu	n. m. sg. nom.	0003c26	界	对译	0164b12	界	补成分记录
-U14-053	S0278	ukto	vac	ptc. m. sg. nom.	0003c26	說	对译	0164b12	說	
+U14-053	S0278	ukto	ukta	ptc. m. sg. nom. (√vac)	0003c26	說	对译	0164b12	說	
 U14-055	S0278	rūpaskandhas	rūpa-skandha	cpd. m. sg. nom.	0003c26	色蘊	对译	0164b12	色陰	
 U14-056	S0278	rūpa	rūpa	n. 成分	0003c26	色	对译	0164b12	色	
 U14-057	S0278	skandhas	skandha	n. m. sg. nom.	0003c26	蘊	对译	0164b12	陰	

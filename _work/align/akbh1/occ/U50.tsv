@@ -11,7 +11,7 @@ U50-007	S1033	dhātoḥ	dhātu	n. m. sg. gen.			省译	0172a10	界	玄奘只作"
 U50-008	S1033				0012b05	唯	增译			长行增"唯"，与本颂同
 U50-009	S1033	samanantaraniruddhaṃ	samanantara-niruddha	cpd. ptc. nt. sg. nom.	0012b05	無間滅	对译	0172a10	無間滅	
 U50-010	S1033	samanantara	samanantara	adj. 成分	0012b05	無間	对译	0172a10	無間	samanantara（紧接、中无间隔）本身含"无间"义
-U50-011	S1033	niruddhaṃ	ni-rudh	ptc. nt. sg. nom.	0012b05	滅	对译	0172a10	滅	
+U50-011	S1033	niruddhaṃ	niruddha	ptc. nt. sg. nom. (√ni-rudh)	0012b05	滅	对译	0172a10	滅	
 U50-012	S1033	mana	manas	n. nt. sg. nom.	0012b05	意	对译	0172a10	識	真谛作"識"
 U50-013	S1033	āśrayaḥ	āśraya	n. m. sg. nom.	0012b05	依	对译	0172a10	依	名词句"意识之所依是意"，玄奘转作动词句"意識唯依…意"
 U50-014	S1034	pañcānāṃ	pañcan	num. pl. gen.	0012b04	五	对译	0172a11	五	
@@ -101,8 +101,8 @@ U50-094	S1040	manaḥ	manas	n. nt. sg. nom.	0012b13	意根	对译	0172a16	心	�
 U50-095	S1040	caturthī	caturtha	num. f. sg. nom. (ord.)	0012b14	第四	对译	0172a16	第四	
 U50-096	S1040	koṭir	koṭi	n. f. sg. nom.	0012b14	句	对译	0172a16	句	
 U50-097	S1040	uktanirmuktā	ukta-nirmukta	cpd. ptc. m. pl. nom.	0012b14	除所說	对译	0172a17	除前三句	玄奘倒序作"除所說"；真谛作"除前三句"
-U50-098	S1040	ukta	vac	ptc. 成分	0012b14	所說	对译			
-U50-099	S1040	nirmuktā	nir-muc	ptc. m. pl. nom.	0012b14	除	意译	0172a17	除	nirmukta（脱离于…者）译"除"
+U50-098	S1040	ukta	ukta	ptc. 成分 (√vac)	0012b14	所說	对译			
+U50-099	S1040	nirmuktā	nirmukta	ptc. m. pl. nom. (√nir-muc)	0012b14	除	意译	0172a17	除	nirmukta（脱离于…者）译"除"
 U50-100	S1040	dharmāḥ	dharma	n. m. pl. nom.	0012b14	法	对译			
 U50-102	S1041	kāyavijñānasya	kāya-vijñāna	cpd. nt. sg. gen.	0012b14	身識	对译	0172a17	身識	
 U50-159	S1041	kāya	kāya	n. 成分	0012b14	身	对译	0172a17	身	补成分记录
@@ -152,10 +152,10 @@ U50-135	S1046	vijñānotpattau	vijñāna-utpatti	cpd. f. sg. loc.	0012b18	識起
 U50-176	S1046	vijñāno	vijñāna	n. 成分	0012b18	識	对译	0172a19	識	补成分记录
 U50-136	S1046	otpattau	utpatti	n. f. sg. loc.	0012b18	起	对译	0172a19	生	
 U50-137	S1046	cakṣurādayaḥ	cakṣus-ādi	cpd. m. pl. nom.	0012b19	根	意译	0172a20	眼等	以"根"概称眼等；"在"为补出
-U50-177	S1046	cakṣur	cakṣus	n. 成分	0012b19	根	合译	0172a20	眼	补成分记录；cakṣus、ādi（眼等）合为"根"
-U50-178	S1046	ādayaḥ	ādi	n. m. pl. nom.	0012b19	根	合译	0172a20	等	补成分记录；cakṣus、ādi（眼等）合为"根"
+U50-177	S1046	cakṣur	cakṣus	n. 成分			省译	0172a20	眼	补成分记录；cakṣus、ādi（眼等）合为"根"；玄奘以"根"概括，此成分不单译，记省译（原作合译）
+U50-178	S1046	ādayaḥ	ādi	n. m. pl. nom.			省译	0172a20	等	补成分记录；cakṣus、ādi（眼等）合为"根"；玄奘以"根"概括，此成分不单译，记省译（原作合译）
 U50-139	S1046	āśrayā	āśraya	n. m. pl. nom.	0012b18	所依	对译	0172a20	依	
 U50-140	S1046	ucyante	vac	v. pres. pass. 3pl.	0012b18	得…名	对译	0172a20	說	ucyate 译"得名"，中间插入"所依"
 U50-141	S1046	rūpādayaḥ	rūpa-ādi	cpd. m. pl. nom.	0012b19	境	意译	0172a21	色等	以"境"概称色等
-U50-179	S1046	rūpā	rūpa	n. 成分	0012b19	境	合译	0172a21	色	补成分记录；rūpa、ādi（色等）合为"境"
-U50-180	S1046	ādayaḥ	ādi	n. m. pl. nom.	0012b19	境	合译	0172a21	等	补成分记录；rūpa、ādi（色等）合为"境"
+U50-179	S1046	rūpā	rūpa	n. 成分			省译	0172a21	色	补成分记录；rūpa、ādi（色等）合为"境"；玄奘以"境"概括，此成分不单译，记省译（原作合译）
+U50-180	S1046	ādayaḥ	ādi	n. m. pl. nom.			省译	0172a21	等	补成分记录；rūpa、ādi（色等）合为"境"；玄奘以"境"概括，此成分不单译，记省译（原作合译）

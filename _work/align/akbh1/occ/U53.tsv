@@ -91,7 +91,7 @@ U53-062	S1083	obhe	ubha	pron. nt. du. nom.	0012c22	二	对译	0172b26	二
 U53-063	S1083	obhe ca	ca	ind.	0012c22	亦然	语法			ca 与承上省略的 sarvataḥ 合译"亦然"
 U53-066	S1084	anantaroktasya	an-antara-ukta	cpd. ptc. nt. sg. gen.			省译	0172b27	前所說	
 U53-257	S1084	anantaro	an-antara	adj. 成分			省译	0172b27	前	补成分记录
-U53-258	S1084	oktasya	vac	ptc. nt. sg. gen. (ukta)			省译	0172b27	所說	补成分记录
+U53-258	S1084	oktasya	ukta	ptc. nt. sg. gen. (√vac)			省译	0172b27	所說	补成分记录
 U53-067	S1084	cakṣurvijñānasya	cakṣus-vijñāna	cpd. nt. sg. gen.	0012c29	識	意译	0172b27	眼識	玄奘只作"識"
 U53-259	S1084	cakṣur	cakṣus	n. 成分			省译	0172b27	眼	补成分记录；玄奘只作"識"
 U53-260	S1084	vijñānasya	vijñāna	n. nt. sg. gen.	0012c29	識	对译	0172b27	識	补成分记录
@@ -112,7 +112,7 @@ U53-264	S1085	vijñāne	vijñāna	n. nt. du. nom.	0012c29	識	对译	0172b28	識
 U53-078	S1085	sarvato	sarvatas	ind.	0012c29	如色於識	意译	0172b28	一切	sarvataḥ（遍一切地）以比况"如色於識"表出
 U53-079	S1085	bhavataḥ	bhū	v. pres. 3du.			省译	0172b29	有	
 U53-082	S1085	cakṣuruttaṃ	cakṣus	n. nt. sg. nom.	0013a01	眼	对译	0172b29	眼根	
-U53-083	S1085	uttaṃ	vac	ptc. nt. sg. nom.	0013a01	說	对译	0172b29	說	GRETIL 本作 uttaṃ，当读 uktaṃ
+U53-083	S1085	uttaṃ	ukta	ptc. nt. sg. nom. (√vac)	0013a01	說	对译	0172b29	說	GRETIL 本作 uttaṃ，当读 uktaṃ
 U53-084	S1085	vistareṇa	vistara	n. m. sg. instr.	0013a01	廣	对译	0172b29	廣	
 U53-085	S1085	veditavyam	vid	gdv. nt. sg. nom.	0013a01	知	对译	0172b29	知	
 U53-086	S1086	tathā	tathā	ind.	0012c23	亦然	语法	0172b29	亦爾	"如眼耳亦然"
@@ -193,16 +193,16 @@ U53-286	S1094	dhātu	dhātu	n. 成分	0013a05	界	对译	0172c07	界	补成分�
 U53-143	S1094	prathamadhyāno	prathama-dhyāna	cpd. 成分	0013a05	初定	对译	0172c07	初定	
 U53-287	S1094	prathama	prathama	num. 成分 (ord.)	0013a05	初	对译	0172c07	初	补成分记录
 U53-288	S1094	dhyāno	dhyāna	n. 成分	0013a05	定	意译	0172c07	定	补成分记录
-U53-144	S1094	opapannāṃ	upa-pad	ptc. m. pl. gen.	0013a05	生	对译	0172c07	生	
+U53-144	S1094	opapannāṃ	upapanna	ptc. m. pl. gen. (√upa-pad)	0013a05	生	对译	0172c07	生	
 U53-146	S1095	adharabhūmikaṃ	adhara-bhūmika	cpd. adj. nt. sg. nom.	0013a05	下	意译	0172c07	屬下地	
 U53-289	S1095	adhara	adhara	adj. 成分	0013a05	下	对译	0172c07	下	补成分记录
 U53-290	S1095	bhūmikaṃ	bhūmika	adj. nt. sg. nom.			省译	0172c07	地	补成分记录
 U53-148	S1095	dvitīyādidhyānopapannānām	dvitīya-ādi-dhyāna-upapanna	cpd. m. pl. gen.	0013a05	生上三定	意译	0172c07	生二定	dvitīyādi（第二等）译"上三"
 U53-149	S1095	dvitīyādi	dvitīya-ādi	cpd. 成分	0013a05	上三	意译	0172c07	二定	
-U53-291	S1095	dvitīyā	dvitīya	num. 成分 (ord.)	0013a05	上三	合译	0172c07	二	补成分记录；与 ādi 合为"上三"（第二至第四定）
-U53-292	S1095	ādi	ādi	n. 成分	0013a05	上三	合译			补成分记录；与 dvitīya 合为"上三"
+U53-291	S1095	dvitīyā	dvitīya	num. 成分 (ord.)			省译	0172c07	二	补成分记录；与 ādi 合为"上三"（第二至第四定）；玄奘以"上三"概括，此成分不单译，记省译（原作合译）
+U53-292	S1095	ādi	ādi	n. 成分			省译			补成分记录；与 dvitīya 合为"上三"；玄奘以"上三"概括，此成分不单译，记省译（原作合译）
 U53-150	S1095	dhyāno	dhyāna	n. 成分	0013a05	定	意译	0172c07	定	
-U53-151	S1095	opapannānām	upa-pad	ptc. m. pl. gen.	0013a05	生	对译	0172c07	生	
+U53-151	S1095	opapannānām	upapanna	ptc. m. pl. gen. (√upa-pad)	0013a05	生	对译	0172c07	生	
 U53-152	S1095	nāmiti	iti	ind.	0013a05	謂之為	语法			句末 iti，玄奘以"謂之為下"重申"下"，待核
 U53-153	S1096	aniyataṃ	a-niyata	ptc. adj. nt. sg. nom.	0012c24	不定	对译	0172c08	不定	
 U53-154	S1096	manaḥ	manas	n. nt. sg. nom.	0012c24	意	对译	0172c08	意根	
@@ -235,7 +235,7 @@ U53-302	S1098	sarva	sarva	adj. 成分	0013a08	一切	对译	0172c10	一切	补�
 U53-303	S1098	bhūmikāni	bhūmika	adj. nt. pl. nom.			省译	0172c10	地	补成分记录；bhūmika 未译
 U53-175	S1098	mana ādīni	manas-ādi	cpd. nt. pl. nom.	0013a07	三	意译	0172c10	意等	mana-ādi（意等，指意、识、法）以"三"概称
 U53-304	S1098	mana	manas	n. 成分			省译	0172c10	意	补成分记录；mana-ādi（意等）玄奘以"三"概称
-U53-305	S1098	ādīni	ādi	n. nt. pl. nom.	0013a07	三	意译	0172c10	等	补成分记录；以"三"概称意、識、法
+U53-305	S1098	ādīni	ādi	n. nt. pl. nom.			省译	0172c10	等	补成分记录；以"三"概称意、識、法；玄奘以"三"概括，此成分不单译，记省译（原作意译）
 U53-176	S1098	samāpattyupapattikāle	samāpatti-upapatti-kāla	cpd. m. sg. loc.	0013a08	等至…生時	意译	0172c10	入觀時及受生時	"遊""及""受"为补出；"於"另记
 U53-176+1	S1098				0013a08	遊	增译			合并时从 U53-176（遊等至及受生時）拆出
 U53-176+2	S1098				0013a08	及	增译			合并时从 U53-176（遊等至及受生時）拆出
@@ -269,7 +269,7 @@ U53-200	S1100	alpaṃ	alpa	adj. nt. sg. nom.	0013a10	少	对译	0172c12	少
 U53-201	S1100	prayojanaṃ	prayojana	n. nt. sg. nom.	0013a10	用	对译	0172c12	用	
 U53-202	S1100	mahāṃś	mahat	adj. m. sg. nom.	0013a10	多	意译	0172c12	多	
 U53-203	S1100	śrama	śrama	n. m. sg. nom.	0013a10	功	意译	0172c12	功	śrama（劳苦）译"功"
-U53-204	S1100	samāpta	sam-āp	ptc. m. sg. nom.	0013a10	周	意译	0172c13	竟	
+U53-204	S1100	samāpta	samāpta	ptc. m. sg. nom. (√sam-āp)	0013a10	周	意译	0172c13	竟	
 U53-206	S1100	ānuṣaṅgikaḥ	ānuṣaṅgika	adj. m. sg. nom.	0013a10	傍	意译	0172c13	相關	ānuṣaṅgika（附带的）译"傍"
 U53-207	S1100	prasaṅgaḥ	prasaṅga	n. m. sg. nom.	0013a10	論	意译	0172c13	說	prasaṅga（附带论及）译"論"
 U53-208	S1100				0013a10	應辯正論	增译			玄奘补出

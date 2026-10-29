@@ -5,12 +5,12 @@ U38-003	S0670	cittadhātavaḥ	citta-dhātu	cpd. m. pl. nom.	0008b11	心	意译	
 U38-145	S0670	citta	citta	n. 成分	0008b11	心	对译	0168b09	識	补成分记录
 U38-146	S0670	dhātavaḥ	dhātu	n. m. pl. nom.			省译			补成分记录：本颂 dhātu 未译
 U38-004	S0671	cakṣuḥśrotraghrāṇajihvākāyamanovijñānadhātavo	cakṣus-śrotra-ghrāṇa-jihvā-kāya-manas-vijñāna-dhātu	cpd. m. pl. nom.	0008b13	六識	意译	0168b10	眼耳鼻舌身識…意識	玄奘以"六識"总括六识界
-U38-147	S0671	cakṣuḥ	cakṣus	n. 成分	0008b13	六	合译	0168b10	眼	补成分记录：眼、耳、鼻、舌、身、意六者合为"六"（六識）
-U38-148	S0671	śrotra	śrotra	n. 成分	0008b13	六	合译	0168b10	耳	补成分记录：合为"六"（六識）
-U38-149	S0671	ghrāṇa	ghrāṇa	n. 成分	0008b13	六	合译	0168b10	鼻	补成分记录：合为"六"（六識）
-U38-150	S0671	jihvā	jihvā	n. 成分	0008b13	六	合译	0168b10	舌	补成分记录：合为"六"（六識）
-U38-151	S0671	kāya	kāya	n. 成分	0008b13	六	合译	0168b10	身	补成分记录：合为"六"（六識）
-U38-152	S0671	mano	manas	n. 成分	0008b13	六	合译	0168b10	意	补成分记录：合为"六"（六識）
+U38-147	S0671	cakṣuḥ	cakṣus	n. 成分			省译	0168b10	眼	补成分记录：眼、耳、鼻、舌、身、意六者合为"六"（六識）；玄奘以"六"概括，此成分不单译，记省译（原作合译）
+U38-148	S0671	śrotra	śrotra	n. 成分			省译	0168b10	耳	补成分记录：合为"六"（六識）；玄奘以"六"概括，此成分不单译，记省译（原作合译）
+U38-149	S0671	ghrāṇa	ghrāṇa	n. 成分			省译	0168b10	鼻	补成分记录：合为"六"（六識）；玄奘以"六"概括，此成分不单译，记省译（原作合译）
+U38-150	S0671	jihvā	jihvā	n. 成分			省译	0168b10	舌	补成分记录：合为"六"（六識）；玄奘以"六"概括，此成分不单译，记省译（原作合译）
+U38-151	S0671	kāya	kāya	n. 成分			省译	0168b10	身	补成分记录：合为"六"（六識）；玄奘以"六"概括，此成分不单译，记省译（原作合译）
+U38-152	S0671	mano	manas	n. 成分			省译	0168b10	意	补成分记录：合为"六"（六識）；玄奘以"六"概括，此成分不单译，记省译（原作合译）
 U38-153	S0671	vijñāna	vijñāna	n. 成分	0008b13	識	对译	0168b10	識	补成分记录
 U38-154	S0671	dhātavo	dhātu	n. m. pl. nom.			省译			补成分记录：dhātu 未译
 U38-005	S0671	manodhātuś	manas-dhātu	cpd. m. sg. nom.	0008b13	意界	对译	0168b10	意根	
@@ -54,7 +54,7 @@ U38-035	S0676				0008b16	十八界中	增译
 U38-036	S0676	ānupāttāḥ	an-upātta	ptc. adj. m. pl. nom.	0008b12	無執受	对译	0168b14	非所執	本颂
 U38-037	S0676	ānupāttāḥ	an-upātta	ptc. adj. m. pl. nom.	0008b16	無執受	对译			长行复述本颂
 U38-039	S0677	katame nava	navan	num. pl. nom.			省译	0168b15	九	
-U38-041	S0677	uktāḥ	vac	ptc. m. pl. nom.	0008b16	前	合译			与 yad 合为"前"
+U38-041	S0677	uktāḥ	ukta	ptc. m. pl. nom. (√vac)	0008b16	前	合译			与 yad 合为"前"
 U38-042	S0677	ye sapta	saptan	num. pl. nom.	0008b16	七	对译	0168b15	七	
 U38-043	S0677	sālambanā uktāḥ	sa-ālambana	adj. m. pl. nom.	0008b16	心界	意译	0168b15	有緣緣界	以"心界"代称有所緣七界
 U38-044	S0677	aṣṭamaṣyārdhena	aṣṭama	num. m. sg. gen.	0008b16	法界	意译	0168b15	第八	"第八"指法界；GRETIL 本作 aṣṭamaṣya，当读 aṣṭamasya
@@ -89,10 +89,10 @@ U38-067	S0681	anupāttāś	an-upātta	ptc. adj. m. pl. nom.	0008b18	無執受	�
 U38-068	S0681				0008b18	故	增译			
 U38-069	S0682	cakṣuḥśrotraghrāṇajihvākāyāḥ	cakṣus-śrotra-ghrāṇa-jihvā-kāya	cpd. m. pl. nom.	0008b18	眼等五根	意译	0168b18	眼耳鼻舌身	
 U38-070	S0682	cakṣuḥ	cakṣus	n. 成分	0008b18	眼	对译	0168b18	眼	
-U38-168	S0682	śrotra	śrotra	n. 成分	0008b18	等	合译	0168b18	耳	补成分记录：耳、鼻、舌、身合为"等"（眼等五根）
-U38-169	S0682	ghrāṇa	ghrāṇa	n. 成分	0008b18	等	合译	0168b18	鼻	补成分记录：合为"等"（眼等五根）
-U38-170	S0682	jihvā	jihvā	n. 成分	0008b18	等	合译	0168b18	舌	补成分记录：合为"等"（眼等五根）
-U38-171	S0682	kāyāḥ	kāya	n. m. pl. nom.	0008b18	等	合译	0168b18	身	补成分记录：合为"等"（眼等五根）
+U38-168	S0682	śrotra	śrotra	n. 成分			省译	0168b18	耳	补成分记录：耳、鼻、舌、身合为"等"（眼等五根）；玄奘以"等"概括，此成分不单译，记省译（原作合译）
+U38-169	S0682	ghrāṇa	ghrāṇa	n. 成分			省译	0168b18	鼻	补成分记录：合为"等"（眼等五根）；玄奘以"等"概括，此成分不单译，记省译（原作合译）
+U38-170	S0682	jihvā	jihvā	n. 成分			省译	0168b18	舌	补成分记录：合为"等"（眼等五根）；玄奘以"等"概括，此成分不单译，记省译（原作合译）
+U38-171	S0682	kāyāḥ	kāya	n. m. pl. nom.			省译	0168b18	身	补成分记录：合为"等"（眼等五根）；玄奘以"等"概括，此成分不单译，记省译（原作合译）
 U38-071	S0682	pratyutpannā upāttāḥ	pratyutpanna	ptc. adj. m. pl. nom.	0008b18	現在	对译	0168b18	現在	
 U38-072	S0682				0008b18	住…世	增译			"住現在世"
 U38-073	S0682	pratyutpannā upāttāḥ	upātta	ptc. adj. m. pl. nom.	0008b18	有執受	对译	0168b18	有執	"名"为补出
@@ -145,7 +145,7 @@ U38-116+1	S0687				0008b24	法	增译			合并时从 U38-116（心心所法）�
 U38-117	S0687	citta	citta	n. 成分	0008b24	心	对译	0168b21	心	
 U38-118	S0687	caittair	caitta	n. m. pl. instr.	0008b24	心所	对译	0168b21	心法	
 U38-119	S0687				0008b24	共	增译			"共所執持"
-U38-120	S0687	opiagṛhītam	upa-grah	ptc. nt. sg. nom.	0008b24	執持攝	意译	0168b21	攝	GRETIL 本作 upiagṛhītam，当读 upagṛhītam
+U38-120	S0687	opiagṛhītam	upagṛhīta	ptc. nt. sg. nom. (√upa-grah)	0008b24	執持攝	意译	0168b21	攝	GRETIL 本作 upiagṛhītam，当读 upagṛhītam
 U38-122	S0687	adhiṣṭhānabhāvenopi	adhiṣṭhāna-bhāva	cpd. m. sg. instr.	0008b25	為依處	意译	0168b21	為自依止	
 U38-123	S0687	adhiṣṭhāna	adhiṣṭhāna	n. 成分	0008b25	依處	对译	0168b22	依止	
 U38-176	S0687	bhāveno	bhāva	n. m. sg. instr.	0008b25	為	意译	0168b21	為	补成分记录：adhiṣṭhāna-bhāvena（作为依处）之 bhāva 译"為"；GRETIL 本作 bhāvenopiagṛhītam，当读 bhāvenopagṛhītam

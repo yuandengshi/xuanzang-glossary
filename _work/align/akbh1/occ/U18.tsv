@@ -6,7 +6,7 @@ U18-004	S0322	prasiddhy	prasiddhi	n. 成分	0004b08	成	对译	0164c19	成
 U18-005	S0322	prasiddhyartha	-artham	gram. purpose	0004b08	故	语法	0164c19	為…故	-artham（为了）颂文只作"故"
 U18-006	S0322	dhātavo	dhātu	n. m. pl. nom.	0004b08	界	对译	0164c19	界	
 U18-007	S0322	"ṣādaś	aṣṭādaśan	num. pl. nom.	0004b08	十八	对译	0164c19	十八	GRETIL 本作 "ṣādaś，当读 'ṣṭādaśa
-U18-008	S0322	smṛtāḥ	smṛ	ptc. m. pl. nom. (smṛta)	0004b08	應知	意译			smṛta（被认为）玄奘作"應知"
+U18-008	S0322	smṛtāḥ	smṛta	ptc. m. pl. nom. (√smṛ)	0004b08	應知	意译			smṛta（被认为）玄奘作"應知"
 U18-009	S0323	pañcānāṃ	pañcan	num. pl. gen.	0004b09	五	对译	0164c20	五種	"如"为增字
 U18-010	S0323	vijñānadhātūnāṃ	vijñāna-dhātu	cpd. m. pl. gen.	0004b09	識界	对译	0164c20	識界	
 U18-084	S0323	vijñāna	vijñāna	n. 成分	0004b09	識	对译	0164c20	識	补成分记录
@@ -34,10 +34,10 @@ U18-028	S0325	prasiddhacyartha	-artham	gram. purpose	0004b10	為…故	语法	01
 U18-029	S0325	manodhātu	manas-dhātu	cpd. m. sg. nom.	0004b10	意界	对译	0164c21	意界	
 U18-090	S0325	mano	manas	n. 成分	0004b10	意	对译	0164c21	意	补成分记录
 U18-091	S0325	dhātu	dhātu	n. m. sg. nom.	0004b10	界	对译	0164c21	界	补成分记录
-U18-030	S0325	rūpadiṣṭaḥ	upa-diś	ptc. m. sg. nom.	0004b10	說	对译	0164c21	說	GRETIL 本作 manodhāturūpadiṣṭaḥ，当读 manodhātur upadiṣṭaḥ
+U18-030	S0325	rūpadiṣṭaḥ	upadiṣṭa	ptc. m. sg. nom. (√upa-diś)	0004b10	說	对译	0164c21	說	GRETIL 本作 manodhāturūpadiṣṭaḥ，当读 manodhātur upadiṣṭaḥ
 U18-032	S0326	āśrayāśritālambanaṣṭkavyavasathānād	āśraya-āśrita-ālambana-ṣaṭka-vyavasthāna	cpd. nt. sg. abl.	0004b11	所依能依境界…各六	意译	0164c21	安立依、能依、境界三六	GRETIL 本作 -ālambanaṣṭkavyavasathāna-，当读 -ālambanaṣaṭkavyavasthāna-；玄奘未译 vyavasthāna
 U18-033	S0326	āśrayā	āśraya	n. 成分	0004b11	所依	对译	0164c22	依	
-U18-034	S0326	āśritā	ā-śri	ptc. 成分 (āśrita)	0004b11	能依	对译	0164c22	能依	
+U18-034	S0326	āśritā	āśrita	ptc. 成分 (√ā-śri)	0004b11	能依	对译	0164c22	能依	
 U18-035	S0326	ālambana	ālambana	n. 成分	0004b11	境界	对译	0164c22	境界	
 U18-036	S0326	ṣṭka	ṣaṭka	n. 成分	0004b11	各六	意译	0164c22	三六	GRETIL 本作 ṣṭka；ṣaṭka（六个一组）玄奘作"各六"
 U18-037	S0326	vyavasathānād	vyavasthāna	n. nt. sg. abl.			省译	0164c21	安立	
@@ -62,7 +62,7 @@ U18-055	S0328	na /	na	ind.	0004b13	不爾	语法	0164c24	是義不然	答辞 na 
 U18-056	S0329	manobhāvenā	manas-bhāva	cpd. m. sg. instr.	0004b13	意性	对译	0164c24	意性	
 U18-057	S0329	mano	manas	n. 成分	0004b13	意	对译	0164c24	意	
 U18-058	S0329	bhāvenā	bhāva	n. m. sg. instr.	0004b13	性	对译	0164c24	性	
-U18-059	S0329	āvasthitatvāt	ava-sthā	ptc. 成分 (avasthita)	0004b13	住	对译	0164c24	住	
+U18-059	S0329	āvasthitatvāt	avasthita	ptc. 成分 (√ava-sthā)	0004b13	住	对译	0164c24	住	
 U18-060	S0330	anyakāraṇavaikalyāt	anya-kāraṇa-vaikalya	cpd. nt. sg. abl.	0004b13	闕餘緣	对译	0164c25	因緣不具	
 U18-094	S0330	anya	anya	pron. 成分	0004b13	餘	对译			补成分记录
 U18-061	S0330	vaikalyāt	vaikalya	n. nt. sg. abl.	0004b13	闕	对译	0164c25	不具	

@@ -123,7 +123,7 @@ U39-099	S0701	kāye	kāya	n. 成分	0008c11	身	对译	0168c04	身
 U39-100	S0701	ndriyeṇa	indriya	n. nt. sg. instr.	0008c11	根	对译	0168c04	根	
 U39-101	S0701				0008c11	所覺	增译	0168c04	所覺	补出省去的谓语
 U39-102	S0701				0008c11	是故彼說理定不然	增译	0168c04	是故此執不如	玄奘、真谛都补出结语
-U39-103	S0702	uktaṃ	vac	ptc. nt. sg. nom.	0008c11	說	对译	0168c05	說	
+U39-103	S0702	uktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0008c11	說	对译	0168c05	說	
 U39-105	S0702	sūtre	sūtra	n. nt. sg. loc.	0008c11	契經	对译	0168c05	經中	
 U39-106	S0702	bhikṣo	bhikṣu	n. m. sg. voc.	0008c11	苾芻	音译	0168c05	比丘	
 U39-107	S0702				0008c12	當知	增译			呼告后补出"當知"（下同）
@@ -201,13 +201,13 @@ U39-167	S0707	saṃgrahāc	saṃgraha	n. m. sg. abl.	0008c17	攝	对译	0168c12	
 U39-168	S0707				0008c17	四	增译	0168c12	四	
 U39-169	S0707	bhūtānāṃ saṃ	bhūta	n. nt. pl. gen.	0008c17	大種	对译	0168c12	大	
 U39-170	S0707	spaṣṭam	spaṣṭa	adj. nt. sg. acc. (?)	0008c18	分明	对译	0168c12	明了	
-U39-171	S0707	ādarśitam	ā-darśaya (caus. dṛś)	ptc. nt. sg. nom.	0008c18	顯示	对译	0168c12	可知	
+U39-171	S0707	ādarśitam	ādarśita	ptc. nt. sg. nom. (caus. √ā-dṛś)	0008c18	顯示	对译	0168c12	可知	
 U39-172	S0707	cheṣaṃ	śeṣa	adj. nt. sg. nom.	0008c18	餘	对译	0168c12	所餘	
 U39-173	S0707				0008c18	有色處皆	增译			"餘有色處皆非大種"
 U39-174	S0707	bhūtānīti	bhūta	n. nt. pl. nom.	0008c18	大種	对译	0168c12	四大	
 U39-175	S0708	yattarhi	yat tarhi	ind.	0008c18	若爾…何故	语法			设难句式 yat tarhi … uktam（然则何以说…）
 U39-176	S0708	sūtre	sūtra	n. nt. sg. loc.	0008c19	契經	对译	0168c13	經中	
-U39-177	S0708	uktaṃ	vac	ptc. nt. sg. nom.	0008c19	言	对译	0168c13	說	
+U39-177	S0708	uktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0008c19	言	对译	0168c13	說	
 U39-179	S0708	cakṣuṣi	cakṣus	n. nt. sg. loc.	0008c19	眼	对译	0168c13	眼	
 U39-180	S0708	maṃsapiṇḍe	māṃsa-piṇḍa	cpd. m. sg. loc.	0008c19	肉團	对译	0168c13	肉丸	GRETIL 本作 maṃsa-，当读 māṃsa-
 U39-181	S0708	maṃsa	māṃsa	n. 成分	0008c19	肉	对译	0168c13	肉	
@@ -216,7 +216,7 @@ U39-184	S0708				0008c19	若內各別	增译			玄奘依经文补出
 U39-185	S0708	khakkhaṭaṃ	khakkhaṭa	adj. n. nt. sg. nom.	0008c19	堅性	对译	0168c13	是堅	
 U39-186	S0708	kharagatami	khara-gata	cpd. nt. sg. nom.	0008c20	堅類	对译	0168c13	是堅類	
 U39-326	S0708	khara	khara	adj. 成分	0008c20	堅	对译	0168c13	堅	补成分记录
-U39-327	S0708	gatam	gam	ptc. nt. sg. nom. (gata)	0008c20	類	意译	0168c14	類	补成分记录：-gata（属于…的）译"類"
+U39-327	S0708	gatam	gata	ptc. nt. sg. nom. (√gam)	0008c20	類	意译	0168c14	類	补成分记录：-gata（属于…的）译"類"
 U39-187	S0708				0008c20	乃至廣說	增译			表引文从略
 U39-188	S0709	syaiṣa	etad	pron. m. sg. nom.	0008c20	彼	语法			GRETIL 本作 maṃsapiṇḍsyaiṣa，当读 māṃsapiṇḍasyaiṣa
 U39-189	S0709	upadeśaḥ	upadeśa	n. m. sg. nom.	0008c20	說	对译	0168c14	說	
@@ -284,7 +284,7 @@ U39-245	S0713	vacanācca	ca	ind.	0008c25	又亦	语法
 U39-246	S0714	tasmāc	tasmāt	ind.	0008c25	由此	语法	0168c20	是故	GRETIL 本作 tasmācyathoktaṃ，当读 tasmād yathoktaṃ
 U39-247	S0714	yathoktaṃ	yathā-ukta	cpd. adj. nt. sg. nom.	0008c26	如…所說	意译	0168c20	如前說	"前"为补出
 U39-337	S0714	yatho	yathā	ind. 成分	0008c26	如	对译	0168c20	如	补成分记录
-U39-338	S0714	oktaṃ	vac	ptc. nt. sg. nom. (ukta)	0008c26	所說	对译	0168c20	說	补成分记录
+U39-338	S0714	oktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0008c26	所說	对译	0168c20	說	补成分记录
 U39-247+1	S0714				0008c26	前	增译			合并时从 U39-247（如前所說）拆出
 U39-248	S0714	dhātūnaṃ	dhātu	n. m. pl. gen.	0008c26	界	对译	0168c20	界	GRETIL 本作 dhātūnaṃ，当读 dhātūnāṃ
 U39-250	S0714	bhūtabhautikatvam	bhūta-bhautika-tva	cpd. nt. sg. nom.	0008c26	大種所造	对译	0168c21	四大及四大所造	-tva 未译

@@ -174,12 +174,12 @@ U48-145	S0979	ata eva	atas	ind.	0011c08	由…故	语法	0171b22	由…故	ata e
 U48-147	S0979				0011c08	極微無間生	梵本缺文	0171b22	無間	真谛亦作"由無間故"
 U48-148	S0979	spṛśeyur	spṛś	v. opt. 3pl.	0011c09	觸	对译	0171b22	觸	"若許相觸"，"許"为增字
 U48-149	S0979	hasto haste	hasta	n. m. sg. nom. (?)	0011c09	手	对译	0171b22	二手	hasto haste（手于手）玄奘作"拊手"
-U48-150	S0979	'bhyāhataḥ	abhi-ā-han	ptc. m. sg. nom.	0011c09	擊…拊	拆译	0171b23	相榼	abhyāhata 兼摄手、石两事，玄奘分作"擊石""拊手"
+U48-150	S0979	'bhyāhataḥ	abhyāhata	ptc. m. sg. nom. (√abhi-ā-han)	0011c09	擊…拊	拆译	0171b23	相榼	abhyāhata 兼摄手、石两事，玄奘分作"擊石""拊手"
 U48-151	S0979	sajyeto	sañj	v. opt. 3sg.	0011c09	相糅	意译	0171b23	相著	GRETIL 本作 sajyeto palaś，当读 sajjetopalaś（sajjeta upalaś）；"體應"为增字
 U48-152	S0979	palaścopale	upala	n. m. sg. nom. (?)	0011c09	石	对译	0171b23	石	upalaś copale（石于石）玄奘作"擊石"
 U48-153	S0979				0011c09	不相觸者	增译			玄奘补出论主立场
 U48-154	S0979	citaṃ	cita	ptc. nt. sg. nom.	0011c09	聚色	意译	0171b23	微聚	cita（积聚者）
-U48-155	S0979	pratyāhataṃ	prati-ā-han	ptc. nt. sg. nom.	0011c10	相擊	对译	0171b24	相榼	
+U48-155	S0979	pratyāhataṃ	pratyāhata	ptc. nt. sg. nom. (√prati-ā-han)	0011c10	相擊	对译	0171b24	相榼	
 U48-156	S0979	viśīryate	vi-śṝ	v. pres. pass. 3sg.	0011c10	散	对译	0171b24	散	
 U48-157	S0980	vāyudhātusaṃdhāritatvāt	vāyu-dhātu-saṃdhārita-tva	cpd. nt. sg. abl.	0011c10	風界攝持	对译	0171b24	風界所持	第五格"故"
 U48-158	S0980	vāyudhātu	vāyu-dhātu	cpd. 成分	0011c10	風界	对译	0171b24	風界	
@@ -355,7 +355,7 @@ U48-357	S0999	ādivad	ādi	n. 成分			省译			补成分记录
 U48-304	S0999	tulyātulyasya	tulya-a-tulya	cpd. adj. m. sg. gen.	0012a02	等量不等量	意译	0171c14	等不等量	"通取"为增字，"量"承上补出
 U48-305	S0999	tulyā	tulya	adj. 成分	0012a02	等量	意译	0171c14	等	
 U48-306	S0999	ātulyasya	a-tulya	adj. m. sg. gen.	0012a02	不等量	意译	0171c15	不等量	
-U48-307	S1000	uktāny	vac	ptc. nt. pl. nom.	0012a05	說	对译	0171c15	說	xz 在 U49 长行开头（前說至境鼻等三根）
+U48-307	S1000	uktāny	ukta	ptc. nt. pl. nom. (√vac)	0012a05	說	对译	0171c15	說	xz 在 U49 长行开头（前說至境鼻等三根）
 U48-308	S1000	uktāny	ppp.	gram. ppp. (-ta)	0012a05	前	语法	0171c15	前	过去被动分词以"前"表出（前說）
 U48-309	S1000	prāptaviṣayāṇy	prāpta-viṣaya	cpd. adj. nt. pl. nom.	0012a05	至境	对译	0171c15	至到塵	
 U48-358	S1000	prāpta	prāpta	ptc. 成分	0012a05	至	对译	0171c15	至到	补成分记录

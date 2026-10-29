@@ -9,7 +9,7 @@ U34-005	S0588	āptā	āpta	ptc. adj. m. pl. nom.	0007b28	繫	对译	0167b29	有	
 U34-006	S0588				0007b28	謂	增译			释词句式"X謂Y"，梵文无对应词
 U34-007	S0588	aviyuktāḥ	a-viyukta	ptc. adj. m. pl. nom.	0007b28	被縛	意译	0167b29	不相離	待核：玄奘"繫屬""被縛"与梵文次序是否对应不能确定；此取 a-viyukta（不离）以肯定说法"被縛"表出
 U34-008	S0588	kāmadhātupratisaṃyuktā	kāma-dhātu-pratisaṃyukta	cpd. adj. m. pl. nom.	0007b28	繫屬	意译	0167b28	相應	kāma-dhātu 未译；待核同上
-U34-009	S0588	pratisaṃyuktā	prati-saṃ-yukta	ptc. adj. m. pl. nom.	0007b28	繫屬	对译	0167b28	相應	
+U34-009	S0588	pratisaṃyuktā	pratisaṃyukta	ptc. adj. m. pl. nom. (√prati-saṃ-yuj)	0007b28	繫屬	对译	0167b28	相應	
 U34-010	S0588	kāmadhātu	kāma-dhātu	cpd. 成分			省译			
 U34-480	S0588	kāma	kāma	n. 成分			省译			补成分记录；整词省译
 U34-481	S0588	dhātu	dhātu	n. 成分			省译			补成分记录；整词省译（子复合词，故末项仍作成分）
@@ -31,8 +31,8 @@ U34-023	S0591	gandharasaghrāṇajihvāvijñānadhātubhiḥ	gandha-rasa-ghrā�
 U34-024	S0591	gandha	gandha	n. 成分	0007b27	香	对译	0167c02	香	
 U34-025	S0591	rasa	rasa	n. 成分	0007b27	味	对译	0167c02	味	
 U34-026	S0591	ghrāṇajihvāvijñāna	ghrāṇa-jihvā-vijñāna	cpd. 成分	0007b27	二識	意译	0167c02	鼻舌識	
-U34-422	S0591	ghrāṇa	ghrāṇa	n. 成分	0007b27	二	合译	0167c02	鼻	补成分记录；与 jihvā 合以数词"二"表出
-U34-423	S0591	jihvā	jihvā	n. 成分	0007b27	二	合译	0167c02	舌	补成分记录；与 ghrāṇa 合以数词"二"表出
+U34-422	S0591	ghrāṇa	ghrāṇa	n. 成分			省译	0167c02	鼻	补成分记录；与 jihvā 合以数词"二"表出；玄奘以"二"概括，此成分不单译，记省译（原作合译）
+U34-423	S0591	jihvā	jihvā	n. 成分			省译	0167c02	舌	补成分记录；与 ghrāṇa 合以数词"二"表出；玄奘以"二"概括，此成分不单译，记省译（原作合译）
 U34-027	S0591	vijñāna	vijñāna	n. 成分	0007b27	識	对译	0167c02	識	
 U34-028	S0591	dhātubhiḥ	dhātu	n. m. pl. instr.			省译			
 U34-029	S0591	vinā	vinā	ind.	0007b29	除	对译			长行复述本颂（梵本长行无此句）
@@ -54,7 +54,7 @@ U34-045	S0593	āhāratvāt	āhāra	n. 成分	0007c01	食	对译	0167c03	食
 U34-048	S0593	taddvītarāgāṇāṃ	tad-vīta-rāga	cpd. m. pl. gen.	0007c01	離段食欲	意译	0167c03	由…離欲段食	tad 还原为所指"段食"；GRETIL 本作 taddvītarāga-，当读 tadvītarāga-
 U34-049	S0593	taddvītarāgāṇāṃ	tad	pron. 成分	0007c01	段食	意译	0167c04	段食	代词还原为所指（kavaḍīkāra-āhāra）
 U34-050	S0593	vītarāgāṇāṃ	vīta-rāga	cpd. adj. m. pl. gen.	0007c01	離…欲	对译	0167c04	離欲	
-U34-426	S0593	vīta	vi-i	ptc. 成分 (vīta)	0007c01	離	对译	0167c04	離	补成分记录
+U34-426	S0593	vīta	vīta	ptc. 成分 (√vi-i)	0007c01	離	对译	0167c04	離	补成分记录
 U34-427	S0593	rāgāṇāṃ	rāga	n. m. pl. gen.	0007c01	欲	对译	0167c04	欲	补成分记录
 U34-052	S0593				0007c01	方	增译			"方得生彼"
 U34-053	S0593	tatro	tatra	ind.	0007c02	彼	语法	0167c04	於彼	"得生彼"
@@ -113,7 +113,7 @@ U34-109	S0600				0007c05	彼	增译			补出"彼"（生色界者）
 U34-110	S0600	abhyavahāravītarāgāṇāṃ	abhyavahāra-vīta-rāga	cpd. m. pl. gen.	0007c05	離食欲	对译	0167c09	離欲段食	
 U34-111	S0600	abhyavahāra	abhyavahāra	n. 成分	0007c05	食	对译	0167c10	段食	
 U34-112	S0600	vītarāgāṇāṃ	vīta-rāga	cpd. adj. m. pl. gen.	0007c05	離…欲	对译	0167c09	離欲	
-U34-435	S0600	vīta	vi-i	ptc. 成分 (vīta)	0007c05	離	对译	0167c09	離	补成分记录
+U34-435	S0600	vīta	vīta	ptc. 成分 (√vi-i)	0007c05	離	对译	0167c09	離	补成分记录
 U34-436	S0600	rāgāṇāṃ	rāga	n. m. pl. gen.	0007c05	欲	对译	0167c10	欲	补成分记录
 U34-113	S0600	gandharasau	gandha-rasa	cpd. m. du. nom.	0007c05	香味	对译	0167c10	香味	
 U34-437	S0600	gandha	gandha	n. 成分	0007c05	香	对译	0167c10	香	补成分记录
@@ -262,7 +262,7 @@ U34-262	S0617	tadviṣayavītarāgāṇāṃ	tad-viṣaya-vīta-rāga	cpd. m. pl
 U34-263	S0617	tadviṣaya	tad	pron. 成分	0007c18	彼	语法	0167c23	香味	待核：梵文 tad 修饰 viṣaya（彼境，即香味），玄奘"彼"似指离贪之人；真谛还原为"香味"
 U34-264	S0617	viṣaya	viṣaya	n. 成分	0007c18	境	对译	0167c23	塵	
 U34-265	S0617	vītarāgāṇāṃ	vīta-rāga	cpd. adj. m. pl. gen.	0007c18	離…貪	对译	0167c23	離欲	
-U34-446	S0617	vīta	vi-i	ptc. 成分 (vīta)	0007c18	離	对译	0167c23	離	补成分记录
+U34-446	S0617	vīta	vīta	ptc. 成分 (√vi-i)	0007c18	離	对译	0167c23	離	补成分记录
 U34-447	S0617	rāgāṇāṃ	rāga	n. m. pl. gen.	0007c18	貪	对译	0167c23	欲	补成分记录
 U34-266	S0617	ghrāṇajihvendriye	ghrāṇa-jihvā-indriya	cpd. nt. du. nom.	0007c18	鼻舌	意译	0167c23	鼻舌二根	indriya 未译
 U34-267	S0617	ghrāṇa	ghrāṇa	n. 成分	0007c18	鼻	对译	0167c23	鼻	
@@ -282,7 +282,7 @@ U34-451	S0618	aśobhākara	a-śobhā-kara	adj. 成分	0007c19	醜陋	意译	0167
 U34-280	S0619	kośagatavastiguhyānāṃ	kośa-gata-vasti-guhya	cpd. adj. m. pl. gen.	0007c19	陰藏隱密	意译	0167c25	根藏如象王陰	kośagata-vastiguhya（阴藏如鞘者）；"隱密"为铺陈
 U34-281	S0619	kośagata	kośa-gata	cpd. adj. 成分	0007c19	藏	意译	0167c25	藏	
 U34-452	S0619	kośa	kośa	n. 成分	0007c19	藏	对译	0167c25	藏	补成分记录
-U34-453	S0619	gata	gam	ptc. 成分 (gata)			省译			补成分记录；gata 未译
+U34-453	S0619	gata	gata	ptc. 成分 (√gam)			省译			补成分记录；gata 未译
 U34-282	S0619	vastiguhyānāṃ	vasti-guhya	cpd. m. pl. gen.	0007c19	陰	意译	0167c25	陰	
 U34-454	S0619	vasti	vasti	n. 成分			省译			补成分记录；vasti（小腹）未译
 U34-455	S0619	guhyānāṃ	guhya	n. m. pl. gen.	0007c19	陰	对译	0167c25	陰	补成分记录；guhya（隐处）译"陰"
@@ -408,7 +408,7 @@ U34-389	S0631				0008a01	要	增译
 U34-390	S0631	rūpavītarāgāṇāṃ	rūpa-vīta-rāga	cpd. m. pl. gen.	0008a01	離色欲	对译	0168a06	離欲色界	
 U34-391	S0631	rūpa	rūpa	n. 成分	0008a01	色	对译	0168a06	色界	
 U34-392	S0631	vītarāgāṇāṃ	vīta-rāga	cpd. adj. m. pl. gen.	0008a01	離…欲	对译	0168a06	離欲	
-U34-473	S0631	vīta	vi-i	ptc. 成分 (vīta)	0008a01	離	对译	0168a06	離	补成分记录
+U34-473	S0631	vīta	vīta	ptc. 成分 (√vi-i)	0008a01	離	对译	0168a06	離	补成分记录
 U34-474	S0631	rāgāṇāṃ	rāga	n. m. pl. gen.	0008a01	欲	对译	0168a06	欲	补成分记录
 U34-393	S0631	opapattir	upapatti	n. f. sg. nom.	0008a01	生	对译	0168a06	受生	"得"为补出
 U34-395	S0631	'tra	atra	ind.	0008a01	無色中	意译	0168a07	於無色界	代词还原为所指"無色"
@@ -440,4 +440,4 @@ U34-490	S0632	manovijñāna	manas-vijñāna	cpd. 成分			省译	0168a08	識	补
 U34-491	S0632	mano	manas	n. 成分			省译			补成分记录（manovijñāna 之 manas，真谛未出）
 U34-492	S0632	vijñāna	vijñāna	n. 成分			省译	0168a08	識	补成分记录
 U34-493	S0632	dhātava	dhātu	n. m. pl. nom.			省译	0168a08	界	补成分记录；三界共用 dhātu
-U34-416	S0632	uktāḥ	vac	ptc. m. pl. nom.			省译	0168a08	所說	
+U34-416	S0632	uktāḥ	ukta	ptc. m. pl. nom. (√vac)			省译	0168a08	所說	

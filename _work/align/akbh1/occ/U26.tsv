@@ -50,7 +50,7 @@ U26-053	S0435	ityato	atas	ind.	0005c05	由此	语法	0166a10	是故
 U26-054	S0435	yadaudārikataraṃ tat	yad … tad	gram. rel.-cor.	0005c06	隨	语法			关系-相关句"凡较粗者即先说"，玄奘以"隨麁"表出
 U26-055	S0435	yadaudārikataraṃ	audārika	adj. compar. nt. sg. nom.	0005c06	麁	对译	0166a10	最麁	
 U26-056	S0435	pūrvam	pūrvam	ind.	0005c06	次第	意译	0166a11	前	pūrvam uktam（先说）玄奘作"立…次第"
-U26-057	S0435	pūrvamuktam	vac	ptc. nt. sg. nom.	0005c06	立	意译	0166a11	說	uktam（已说）玄奘作"立"
+U26-057	S0435	pūrvamuktam	ukta	ptc. nt. sg. nom. (√vac)	0005c06	立	意译	0166a11	說	uktam（已说）玄奘作"立"
 U26-058	S0435	pūrvamuktam	ppp.	gram. ppp. (-ta)			省译			过去被动分词未译"已"
 U26-059	S0435				0005c06	蘊	增译			"立蘊次第"之"蘊"为增字
 U26-061	S0436	anādimati	an-ādimat	adj. m. sg. loc.	0005c06	無始	对译	0166a11	無始	
@@ -103,7 +103,7 @@ U26-111	S0440	bhojana	bhojana	n. 成分	0005c10	飲食	对译	0166a14	食
 U26-112	S0440	vyañjana	vyañjana	n. 成分	0005c10	助味	意译	0166a14	餚	vyañjana（调味品）译"助味"
 U26-113	S0440	karttṛ	kartṛ	n. 成分	0005c11	厨人	意译	0166a14	厨人	kartṛ（作者）此指厨师；GRETIL 本作 karttṛ
 U26-114	S0440	bhoktṛ	bhoktṛ	n. 成分	0005c11	食者	对译	0166a14	噉者	
-U26-115	S0440	bhoktṛbhūtā	bhū	ptc. m. pl. nom. (bhūta)	0005c10	如…類…同…似…喻	意译	0166a14	如	-bhūta（为…者、如…）玄奘分作"如、類、同、似、喻"五字
+U26-115	S0440	bhoktṛbhūtā	bhūta	ptc. m. pl. nom. (√bhū)	0005c10	如…類…同…似…喻	意译	0166a14	如	-bhūta（为…者、如…）玄奘分作"如、類、同、似、喻"五字
 U26-117	S0440	rūpādayaḥ	rūpa-ādi	cpd. m. pl. nom.	0005c10	色…受…想…行…識	意译	0166a14	色等	ādi 展开为受、想、行、識
 U26-118	S0440	rūpādayaḥ	rūpa	n. 成分	0005c10	色	对译	0166a14	色	
 U26-231	S0440	ādayaḥ	ādi	n. m. pl. nom.	0005c10	受…想…行…識	意译	0166a14	等	补成分记录；ādi 展开为受、想、行、識
@@ -145,7 +145,7 @@ U26-153	S0444	vijñānasthitayaḥ	vijñāna-sthiti	cpd. f. pl. nom.	0005c15	識
 U26-236	S0444	vijñāna	vijñāna	n. 成分	0005c15	識	对译	0166a17	識	补成分记录
 U26-237	S0444	sthitayaḥ	sthiti	n. f. pl. nom.	0005c15	住	对译	0166a17	住	补成分记录
 U26-154	S0444	tāsu	tad	pron. f. pl. loc.	0005c15	其中	语法	0166a17	於四中	
-U26-155	S0444	pratiṣṭhitaṃ	prati-sthā	ptc. nt. sg. nom.	0005c15	住	对译	0166a17	依住	
+U26-155	S0444	pratiṣṭhitaṃ	pratiṣṭhita	ptc. nt. sg. nom. (√prati-sthā)	0005c15	住	对译	0166a17	依住	
 U26-156	S0444	vijñānamiti	vijñāna	n. nt. sg. nom.	0005c15	識	对译	0166a17	識	
 U26-157	S0444	kṣetrabijasaṃdarśanārthaḥ	kṣetra-bīja-saṃdarśana-artha	cpd. adj. m. sg. nom.	0005c16	顯似…田種次第	意译	0166a18	為顯田種子次第義	GRETIL 本作 -bija-，当读 -bīja-；"世間"为增字；"次第"承下文 anukrama
 U26-157+1	S0444				0005c16	世間	增译			合并时从 U26-157（顯似世間田種次第）拆出
@@ -178,7 +178,7 @@ U26-182	S0446	saṃjñe	saṃjñā	n. f. du. nom.	0005c18	想	对译	0166a20	想
 U26-184	S0446	saṃskārebhyaḥ	saṃskāra	n. m. pl. abl.	0005c18	行	对译	0166a19	行	
 U26-185	S0446	saṃskārebhyaḥ	abl.	gram. abl. (-ebhyaḥ)	0005c17	離	语法	0166a19	於…中	第五格与 pṛthak 连用（离…而别），玄奘作"離"
 U26-186	S0446	pṛthaka	pṛthak	ind.	0005c18	別	对译	0166a20	別	GRETIL 本作 pṛthaka，当读 pṛthak
-U26-187	S0446	skandhīkṛte	skandhī-kṛ	ptc. f. du. nom.	0005c18	立…蘊	意译	0166a20	立為陰	skandhīkṛta（立为蕴）
+U26-187	S0446	skandhīkṛte	skandhīkṛta	ptc. f. du. nom. (√skandhī-kṛ)	0005c18	立…蘊	意译	0166a20	立為陰	skandhīkṛta（立为蕴）
 U26-188	S0447	yata	yatas	ind.	0005c18	謂…故	语法	0166a20	由此	yataḥ（因为）以"謂…故"表出
 U26-189	S0447	yata ete	etad	pron. f. du. nom.	0005c18	受與想	意译	0166a20	受想	代词还原为所指 vedanā、saṃjñā
 U26-190	S0447				0005c18	於諸行中相	增译			补出比较对象"於諸行中"及"相"
@@ -190,7 +190,7 @@ U26-195	S0447	hetū	hetu	n. m. du. nom.	0005c19	生	意译	0166a20	因	hetu（�
 U26-196	S0447	bhājanavyañjanabhūte	bhojana-vyañjana-bhūta	cpd. adj. f. du. nom.	0005c19	類食同助	意译	0166a21	似食餚	GRETIL 本作 bhājana-（器），当读 bhojana-（食）；玄奘"類食同助"、真谛"似食餚"可证
 U26-197	S0447	bhājanavyañjana	bhojana	n. 成分	0005c19	食	对译	0166a21	食	GRETIL 本作 bhājana
 U26-198	S0447	vyañjanabhūte	vyañjana	n. 成分	0005c19	助	意译	0166a21	餚	
-U26-199	S0447	bhūte	bhū	ptc. f. du. nom. (bhūta)	0005c19	類…同	意译	0166a21	似	
+U26-199	S0447	bhūte	bhūta	ptc. f. du. nom. (√bhū)	0005c19	類…同	意译	0166a21	似	
 U26-200	S0447	tatprabhāvitaṃ	tad-prabhāvita	cpd. adj. nt. sg. nom.	0005c19	強	意译	0166a21	能顯	tatprabhāvita（以此二者为显著特征）玄奘作"（二界中）強"
 U26-243	S0447	tat	tad	pron. 成分			省译			补成分记录；tad（指受、想）未译
 U26-202	S0447	prabhāvitaṃ	prabhāvita	ptc. nt. sg. nom. (caus. pra-bhū)	0005c19	強	意译	0166a21	顯	
@@ -205,8 +205,8 @@ U26-210	S0448	dhātūnāṃ	dhātu	n. m. pl. gen.	0005c20	界	对译	0166a21	界
 U26-211	S0448				0005c20	門中	增译	0166a22	中	
 U26-212	S0448	ṣaṇṇāṃ	ṣaṣ	num. pl. gen.	0005c20	六	对译	0166a22	六	
 U26-213	S0448	cakṣurādīnām	cakṣus-ādi	cpd. m. pl. gen. (?)	0005c20	根	意译	0166a22	眼等	cakṣurādi（眼等）玄奘概括为"根"
-U26-244	S0448	cakṣur	cakṣus	n. 成分	0005c20	根	合译	0166a22	眼	补成分记录；与 ādi 合为"根"
-U26-245	S0448	ādīnām	ādi	n. m. pl. gen. (?)	0005c20	根	合译	0166a22	等	补成分记录；与 cakṣus 合为"根"
+U26-244	S0448	cakṣur	cakṣus	n. 成分			省译	0166a22	眼	补成分记录；与 ādi 合为"根"；玄奘以"根"概括，此成分不单译，记省译（原作合译）
+U26-245	S0448	ādīnām	ādi	n. m. pl. gen. (?)			省译	0166a22	等	补成分记录；与 cakṣus 合为"根"；玄奘以"根"概括，此成分不单译，记省译（原作合译）
 U26-214	S0448	anukramo	anukrama	n. m. sg. nom.	0005c20	次第	对译	0166a22	次第	
 U26-215	S0448	vaktavyaḥ	vac	gdv. m. sg. nom.	0005c20	辨說	意译	0166a22	說	
 U26-217	S0448				0005c20	先	增译			

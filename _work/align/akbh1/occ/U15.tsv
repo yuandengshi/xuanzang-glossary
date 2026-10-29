@@ -14,7 +14,7 @@ U15-012	S0282	duḥkho	duḥkha	adj. m. sg. nom.	0004a02	苦	对译	0164b14	苦
 U15-013	S0282	duḥkhāsukhaś	a-duḥkha-a-sukha	cpd. adj. m. sg. nom.	0004a02	不苦不樂	对译	0164b14	不樂不苦	GRETIL 本作 ", duḥkhāsukhaśca"，脱 avagraha，当读 'duḥkhāsukhaś ca；真谛倒序
 U15-014	S0282	duḥkhā	a-duḥkha	adj. 成分	0004a02	不苦	对译	0164b15	不苦	
 U15-015	S0282	āsukhaś	a-sukha	adj. m. sg. nom.	0004a03	不樂	对译	0164b14	不樂	
-U15-018	S0283	bhidyamānaḥ	bhid	ptc. pres. pass. m. sg. nom.	0004a03	分別	对译	0164b15	分別	
+U15-018	S0283	bhidyamānaḥ	bhidyamāna	ptc. pres. pass. m. sg. nom. (√bhid)	0004a03	分別	对译	0164b15	分別	
 U15-019	S0283				0004a03	成	增译	0164b15	成	二译都补出"成"
 U15-020	S0283	ṣaḍ	ṣaṣ	num. pl. nom.	0004a03	六	对译	0164b15	六	
 U15-021	S0283	vedanākāyāḥ	vedanā-kāya	cpd. m. pl. nom.	0004a03	受身	对译	0164b16	受聚	
@@ -59,7 +59,7 @@ U15-054	S0285	asau	adas	pron. m. sg. nom.			省译	0164b18	是
 U15-055	S0285	saṃjñāskandhaḥ	saṃjñā-skandha	cpd. m. sg. nom.	0004a04	想蘊	对译	0164b18	想陰	玄奘把主语"想蘊"置于句首
 U15-056	S0285	saṃjñā	saṃjñā	n. 成分	0004a04	想	对译	0164b18	想	
 U15-057	S0285	skandhaḥ	skandha	n. m. sg. nom.	0004a04	蘊	对译	0164b18	陰	
-U15-059	S0286	bhidyamānaḥ	bhid	ptc. pres. pass. m. sg. nom.	0004a05	分別	对译	0164b18	分別	"成"为增字
+U15-059	S0286	bhidyamānaḥ	bhidyamāna	ptc. pres. pass. m. sg. nom. (√bhid)	0004a05	分別	对译	0164b18	分別	"成"为增字
 U15-060	S0286	ṣaṭsaṃjñākāyā	ṣaṣ-saṃjñā-kāya	cpd. m. pl. nom.	0004a06	六想身	对译	0164b19	有六	真谛只作"有六"
 U15-061	S0286	ṣaṭ	ṣaṣ	num. 成分	0004a06	六	对译	0164b19	六	
 U15-062	S0286	saṃjñā	saṃjñā	n. 成分	0004a06	想	对译	0164b19	想	
@@ -94,7 +94,7 @@ U15-091	S0289	cetanākāyā	cetanā-kāya	cpd. m. pl. nom.	0004a08	思身	对译
 U15-092	S0289	cetanā	cetanā	n. 成分	0004a08	思	对译	0164b21	故意	真谛 cetanā 译"故意"
 U15-093	S0289	kāyā	kāya	n. m. pl. nom.	0004a08	身	对译	0164b21	聚	
 U15-094	S0289				0004a08	為行蘊	增译	0164b21	名行取陰	玄奘补出经文的谓语"為行蘊"
-U15-096	S0289	uktaṃ	vac	ptc. nt. sg. nom.	0004a08	說	对译	0164b21	說	
+U15-096	S0289	uktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0004a08	說	对译	0164b21	說	
 U15-097	S0289	prādhānyāt	prādhānya	n. nt. sg. abl.	0004a08	最勝	对译	0164b21	勝	
 U15-099	S0290	sā hi	hi	ind.	0004a08	所以者何	语法			hi 引出理由，玄奘以设问"所以者何"表出
 U15-100	S0290				0004a09	行名造作	增译			玄奘先释"行"义（saṃskāra 即 abhisaṃskaraṇa）
@@ -105,7 +105,7 @@ U15-104	S0290	svarūpa	svarūpa	n. 成分	0004a09	性	对译	0164b22	性
 U15-107	S0290	abhisaṃskaraṇe	abhisaṃskaraṇa	n. nt. sg. loc.	0004a09	造作	对译	0164b22	造作	
 U15-108	S0290				0004a09	義強	增译			"造作義強"
 U15-109	S0290	pradhānā	pradhāna	adj. f. sg. nom.	0004a10	最勝	对译	0164b22	最勝	"為"为增字
-U15-111	S0291	evoktaṃ	vac	ptc. nt. sg. nom.	0004a10	說	对译	0164b22	說	
+U15-111	S0291	evoktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0004a10	說	对译	0164b22	說	
 U15-112	S0291	bhagavatā	bhagavat	n. m. sg. instr.	0004a10	佛	对译	0164b22	佛世尊	
 U15-113	S0291	saṃskṛtam	saṃskṛta	ptc. adj. nt. sg. acc.	0004a10	有為	对译	0164b23	有為法	
 U15-114	S0291				0004a10	有漏	增译			玄奘补出"有漏"（取蕴所摄为有漏）
@@ -134,7 +134,7 @@ U15-138	S0293	parijñā	parijñā	n. 成分	0004a12	知	对译	0164b25	知
 U15-139	S0293	parihāṇe	parihāṇa	n. nt. du. nom.	0004a12	斷	对译	0164b25	離	待核：parihāṇa（退失）疑当作 prahāṇa（断），玄奘、真谛皆作"斷"
 U15-142	S0293	syātām	as	v. opt. 3du.	0004a12	可為	语法	0164b25	可立為	祈愿式表推论（不能成为）
 U15-143	S0294				0004a12	如	增译			玄奘以"如世尊說"引经
-U15-144	S0294	uktaṃ ca	vac	ptc. nt. sg. nom.	0004a13	說	对译	0164b26	說	
+U15-144	S0294	uktaṃ ca	ukta	ptc. nt. sg. nom. (√vac)	0004a13	說	对译	0164b26	說	
 U15-146	S0294	bhagavatā	bhagavat	n. m. sg. instr.	0004a13	世尊	对译	0164b26	佛世尊	
 U15-148	S0294	nāham	aham	pron. sg. nom.	0004a13	我	语法	0164b26	我	
 U15-149	S0294	ekadharmam	eka-dharma	cpd. m. sg. acc.	0004a13	一法	对译	0164b26	一法	
@@ -151,7 +151,7 @@ U15-159	S0294	vadāmīti	vad	v. pres. 1sg.	0004a13	說	对译	0164b26	說
 U15-160	S0295	evam	evam	ind.	0004a14	亦如是	语法	0164b27	亦爾	evam（同样）译"亦如是"
 U15-161	S0295	aprahāye"	a-pra-hā	abs.	0004a14	未斷	对译	0164b27	未除	GRETIL 本引号位置作 aprahāye" tyuktam（即 aprahāya ity uktam）
 U15-162	S0295				0004a14	未滅	梵本缺文	0164b27	未滅	二译都有"未滅"，梵本只有 aprahāya，疑梵本省略（如 avyantīkṛtya）；待核
-U15-163	S0295	tyuktam	vac	ptc. nt. sg. nom.	0004a14	說	对译			
+U15-163	S0295	tyuktam	ukta	ptc. nt. sg. nom. (√vac)	0004a14	說	对译			
 U15-164	S0296	tasmād	tasmāt	ind.	0004a14	是故	语法	0164b27	是故	
 U15-165	S0296	avaśyam	avaśyam	ind.	0004a14	定	对译			
 U15-166	S0296	eṣāṃ	etad	pron. m. pl. gen.	0004a15	除四蘊餘有為行	意译	0164b27	諸有為法	代词 eṣām 还原为所指（四蕴以外的有为法）；"皆"为增字

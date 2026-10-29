@@ -21,7 +21,7 @@ U54-175	S1105	jihvā	jihvā	n. 成分			省译	0172c16	舌	补成分记录；玄
 U54-176	S1105	kāya	kāya	n. 成分			省译	0172c16	身	补成分记录；玄奘约为"眼等五識"
 U54-177	S1105	vijñānair	vijñāna	n. nt. pl. instr.	0013a16	識	对译	0172c16	識	补成分记录
 U54-011	S1105				0013a16	各一	增译			表每界各为一识所识
-U54-012	S1105	anubhūtā	anu-bhū	ptc. m. pl. nom.	0013a16	所識	意译	0172c16	所識	anubhūta（所领受）译"所識"
+U54-012	S1105	anubhūtā	anubhūta	ptc. m. pl. nom. (√anu-bhū)	0013a16	所識	意译	0172c16	所識	anubhūta（所领受）译"所識"
 U54-013	S1105				0013a16	又總皆是	增译	0172c16	復為	
 U54-014	S1105	manovijñānena	manas-vijñāna	cpd. nt. sg. instr.	0013a16	意識	对译	0172c16	意識	
 U54-178	S1105	mano	manas	n. 成分	0013a16	意	对译	0172c16	意	补成分记录
@@ -35,7 +35,7 @@ U54-021	S1106	vijñānābhyāṃ	vijñāna	n. nt. du. instr.	0013a17	識	对译	
 U54-022	S1106	vijñeyā	vi-jñā	gdv. m. pl. nom.	0013a17	所識	对译	0172c17	所知	
 U54-023	S1106	bhavanti	bhū	v. pres. 3pl.			省译			
 U54-024	S1107	ityākhyātaṃ	iti	ind.	0013a17	由此	语法			"ity ākhyātaṃ bhavati"玄奘移前作"由此准知"
-U54-025	S1107	ākhyātaṃ	ā-khyā	ptc. nt. sg. nom.	0013a17	准知	意译	0172c18	義至所顯	ākhyātaṃ bhavati（即已说明）译"准知"（据义推知）；真谛"此是義至所顯"
+U54-025	S1107	ākhyātaṃ	ākhyāta	ptc. nt. sg. nom. (√ā-khyā)	0013a17	准知	意译	0172c18	義至所顯	ākhyātaṃ bhavati（即已说明）译"准知"（据义推知）；真谛"此是義至所顯"
 U54-026	S1107	śeṣās	śeṣa	adj. m. pl. nom.	0013a17	餘	对译	0172c17	餘	
 U54-027	S1107	trayodaśa	trayodaśan	num. pl. nom.	0013a17	十三	对译	0172c17	十三	
 U54-028	S1107	dhātavaḥ	dhātu	n. m. pl. nom.	0013a17	界	对译	0172c17	界	
@@ -88,11 +88,11 @@ U54-070	S1113	ye ca	ca	ind.	0013a14	并	语法	0172c22	及
 U54-072	S1113	dvādaśā	dvādaśan	num. pl. nom.	0013a14	十二	对译	0172c22	十二	
 U54-073	S1113	ādhyātmikāḥ	ādhyātmika	adj. m. pl. nom.	0013a14	內	意译	0172c22	我依	"界"为补出
 U54-073+1	S1113				0013a14	界	增译			合并时从 U54-073（內界）拆出
-U54-074	S1113	smṛtāḥ	smṛ	ptc. m. pl. nom.			省译			smṛta（所传说）未译
+U54-074	S1113	smṛtāḥ	smṛta	ptc. m. pl. nom. (√smṛ)			省译			smṛta（所传说）未译
 U54-075	S1114				0013a20	又	增译			
 U54-076	S1114	dvāviṃśatir	dvāviṃśati	num. f. sg. nom.	0013a20	二十二	对译	0172c23	二十二	
 U54-077	S1114	indriyāṇy	indriya	n. nt. pl. nom.	0013a20	根	对译	0172c23	根	
-U54-078	S1114	uktāni	vac	ptc. nt. pl. nom.	0013a20	說	对译	0172c23	說	
+U54-078	S1114	uktāni	ukta	ptc. nt. pl. nom. (√vac)	0013a20	說	对译	0172c23	說	
 U54-079	S1114	sūtre	sūtra	n. nt. sg. loc.	0013a20	經	对译	0172c23	經	
 U54-082	S1115	cakṣurindriyaṃ	cakṣus-indriya	cpd. nt. sg. nom.	0013a21	眼根	对译	0172c23	眼根	
 U54-189	S1115	cakṣur	cakṣus	n. 成分	0013a21	眼	对译	0172c23	眼	补成分记录
@@ -214,7 +214,7 @@ U54-141+1	S1119				0013a28	如	增译			合并时从 U54-141（如自名攝）�
 U54-142	S1119	svanām	sva-nāman	cpd. 成分	0013a28	自名	对译	0173a01	自名	
 U54-248	S1119	sva	sva	pron. 成分	0013a28	自	对译	0173a01	自	补成分记录
 U54-249	S1119	nām	nāman	n. 成分	0013a28	名	对译	0173a01	名	补成分记录
-U54-143	S1119	oktāḥ	vac	ptc. m. pl. nom.	0013a28	攝	意译	0173a01	所說	ukta（所说）译"攝"（如自名攝）
+U54-143	S1119	oktāḥ	ukta	ptc. m. pl. nom. (√vac)	0013a28	攝	意译	0173a01	所說	ukta（所说）译"攝"（如自名攝）
 U54-144	S1120	sapta	saptan	num. pl. nom.	0013a28	七	对译	0173a01	七	
 U54-145	S1120	cittadhātavo	citta-dhātu	cpd. m. pl. nom.	0013a28	心界	对译	0173a01	心界	
 U54-250	S1120	citta	citta	n. 成分	0013a28	心	对译	0173a01	心	补成分记录

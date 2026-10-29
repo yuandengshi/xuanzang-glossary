@@ -7,12 +7,12 @@ U49-003	S1001	tulyaviṣayagrahaṇaṃ	tulya-viṣaya-grahaṇa	cpd. nt. sg. no
 U49-004	S1001	tulya	tulya	adj. 成分	0012a04	等量	意译	0171c16	如量	
 U49-005	S1001	viṣaya	viṣaya	n. 成分	0012a04	境	对译	0171c16	塵	
 U49-006	S1001	grahaṇaṃ	grahaṇa	n. nt. sg. nom.	0012a04	取	对译	0171c16	取	
-U49-007	S1001	matam	man	ptc. nt. sg. nom.	0012a04	應知	意译	0171c16	許	matam（所许、公认）玄奘作"應知"
+U49-007	S1001	matam	mata	ptc. nt. sg. nom. (√man)	0012a04	應知	意译	0171c16	許	matam（所许、公认）玄奘作"應知"
 U49-008	S1001	tulyaviṣayagrahaṇaṃ	tulya-viṣaya-grahaṇa	cpd. nt. sg. nom.	0012a05	取等量境	意译			长行"應知唯能取等量境"复述颂文；"唯能"为增字
 U49-262	S1001	tulya	tulya	adj. 成分	0012a05	等量	意译			补成分记录
 U49-263	S1001	viṣaya	viṣaya	n. 成分	0012a06	境	对译			补成分记录
 U49-264	S1001	grahaṇaṃ	grahaṇa	n. nt. sg. nom.	0012a05	取	对译			补成分记录
-U49-009	S1001	matam	man	ptc. nt. sg. nom.	0012a05	應知	意译			长行复述
+U49-009	S1001	matam	mata	ptc. nt. sg. nom. (√man)	0012a05	應知	意译			长行复述
 U49-010	S1002	yāvanto hīndriyaparamāṇavastāvanto	yāvat … tāvat	pron. m. pl. nom.	0012a06	如…量…亦然	语法	0171c16	如…量…亦爾	关系-相关句式
 U49-012	S1002	īndriyaparamāṇavas	indriya-paramāṇu	cpd. m. pl. nom.	0012a06	根微	对译	0171c16	根…隣虛	
 U49-013	S1002	īndriya	indriya	n. 成分	0012a06	根	对译	0171c16	根	
@@ -81,7 +81,7 @@ U49-204	S1009	akṣi	akṣi	n. 成分	0012a12	眼	对译	0171c22	眼	补成分�
 U49-205	S1009	tārakāyām	tārakā	n. f. sg. loc.	0012a12	星	对译	0171c22	童子	补成分记录
 U49-062	S1009	akṣitārakāyām	loc.	gram. loc. (-āyām)	0012a12	在…上	语法	0171c22	於…中	
 U49-063	S1009				0012a12	傍布	增译			
-U49-064	S1009	avasthitāḥ	ava-sthita	ptc. m. pl. nom.	0012a13	住	对译	0171c22	住	"而"为增字
+U49-064	S1009	avasthitāḥ	avasthita	ptc. m. pl. nom. (√ava-sthā)	0012a13	住	对译	0171c22	住	"而"为增字
 U49-065	S1009	ajājīpuṣpavad	ajājī-puṣpa	cpd. 成分 (-vat)	0012a13	香荾花	意译	0171c22	時羅花	-vat（如）不另立
 U49-066	S1009	ajājī	ajājī	n. 成分	0012a13	香荾	意译	0171c22	時羅	
 U49-067	S1009	puṣpavad	puṣpa	n. 成分 (-vat)	0012a13	花	对译	0171c22	花	
@@ -94,7 +94,7 @@ U49-072	S1010				0012a13	令	增译			"令無分散"
 U49-073	S1011	ityapare	apara	pron. m. pl. nom.	0012a13	有	意译	0171c23	有餘部	"有說"
 U49-074	S1011	adharauttaryeṇa	ādharottarya	n. nt. sg. instr.	0012a14	重累	意译	0171c23	重累	GRETIL 本作 adharauttaryeṇa，当读 ādharottaryeṇa
 U49-075	S1011	piṇḍavad	piṇḍa	n. 成分 (-vat)	0012a14	丸	对译	0171c23	聚	
-U49-076	S1011	avasthitā	ava-sthita	ptc. m. pl. nom.	0012a14	住	对译	0171c24	住	
+U49-076	S1011	avasthitā	avasthita	ptc. m. pl. nom. (√ava-sthā)	0012a14	住	对译	0171c24	住	
 U49-077	S1012	cānyo 'nyam	anyonya	pron. m. sg. acc.	0012a15	相	对译	0171c24	互…相	
 U49-078	S1012	āvṛṇvanti	ā-vṛ	v. pres. 3pl.	0012a15	障礙	对译	0171c24	障	
 U49-079	S1012	sphaṭikavad	sphaṭika	n. 成分 (-vat)	0012a14	頗胝迦	音译	0171c24	頗梨柯寶	
@@ -106,7 +106,7 @@ U49-209	S1013	paramāṇavo	paramāṇu	n. m. pl. nom.	0012a15	極微	对译	017
 U49-082	S1013	bhūrjābhyantarāvasthitāḥ	bhūrja-abhyantara-avasthita	cpd. adj. m. pl. nom.	0012a15	耳穴內…住	意译	0171c25	耳中住	待核：GRETIL 此处疑有脱文（当有 karṇa- 及 bhūrjavat 一类词）；玄奘作"居耳穴內旋環而住，如卷樺皮"
 U49-083	S1013	bhūrjā	bhūrja	n. 成分	0012a16	樺皮	对译	0171c25	浮休闍皮	"卷"为增字；真谛音译
 U49-084	S1013	ābhyantarā	abhyantara	n. 成分	0012a15	內	对译	0171c25	中	
-U49-085	S1013	āvasthitāḥ	ava-sthita	ptc. m. pl. nom.	0012a15	住	对译	0171c25	住	"居""旋環而"为增字
+U49-085	S1013	āvasthitāḥ	avasthita	ptc. m. pl. nom. (√ava-sthā)	0012a15	住	对译	0171c25	住	"居""旋環而"为增字
 U49-086	S1014	ghrāṇendriyaparamāṇavo	ghrāṇa-indriya-paramāṇu	cpd. m. pl. nom.	0012a16	鼻根極微	对译	0171c25	鼻根隣虛	
 U49-210	S1014	ghrāṇe	ghrāṇa	n. 成分	0012a16	鼻	对译	0171c25	鼻	补成分记录
 U49-211	S1014	endriya	indriya	n. 成分	0012a16	根	对译	0171c25	根	补成分记录
@@ -119,7 +119,7 @@ U49-089	S1014	śalākāvat	śalākā	n. 成分 (-vat)	0012a17	雙爪甲	意译		
 U49-090	S1015	ādyāni	ādya	adj. nt. pl. nom.	0012a17	初	对译	0171c26	前	"此"为增字
 U49-091	S1015	trīṇī	tri	num. nt. pl. nom.	0012a17	三	对译	0171c26	三	
 U49-092	S1015	īndriyāṇi	indriya	n. nt. pl. nom.	0012a17	根	对译	0171c26	根	
-U49-093	S1015	avasthitāni	ava-sthita	ptc. nt. pl. nom.	0012a17	橫作行度	意译	0171c26	橫作行度	待核：玄奘、真谛都作"橫作行度"（真谛无花鬘之喻），疑所据梵本有 tiryak 一类词
+U49-093	S1015	avasthitāni	avasthita	ptc. nt. pl. nom. (√ava-sthā)	0012a17	橫作行度	意译	0171c26	橫作行度	待核：玄奘、真谛都作"橫作行度"（真谛无花鬘之喻），疑所据梵本有 tiryak 一类词
 U49-094	S1015				0012a17	處無高下	梵本缺文	0171c26	無有高下	真谛亦有
 U49-095	S1015	mālāvad	mālā	n. 成分 (-vat)	0012a18	花鬘	意译			"冠"为增字
 U49-095+1	S1015				0012a18	冠	增译			合并时从 U49-095（冠花鬘）拆出
@@ -149,7 +149,7 @@ U49-106	S1018	kāyendriyaparamāṇavaḥ	kāya-indriya-paramāṇu	cpd. m. pl. 
 U49-227	S1018	kāye	kāya	n. 成分	0012a20	身	对译	0171c28	身	补成分记录
 U49-228	S1018	endriya	indriya	n. 成分	0012a20	根	对译	0171c28	根	补成分记录
 U49-229	S1018	paramāṇavaḥ	paramāṇu	n. m. pl. nom.	0012a20	極微	对译	0171c28	隣虛	补成分记录
-U49-107	S1018	avasthitāḥ	ava-sthita	ptc. m. pl. nom.	0012a20	住	对译			
+U49-107	S1018	avasthitāḥ	avasthita	ptc. m. pl. nom. (√ava-sthā)	0012a20	住	对译			
 U49-108	S1018				0012a20	遍…身分	增译			
 U49-109	S1018	kāyavad	kāya	n. 成分 (-vat)	0012a20	身	意译	0171c28	身相	"形量"为增字
 U49-109+1	S1018				0012a20	形量	增译			合并时从 U49-109（身形量）拆出
@@ -234,7 +234,7 @@ U49-167	S1028	evānidarśanaḥ	a-nidarśana	adj. m. sg. nom.	0012a29	無見	对
 U49-168	S1028	paramāṇur	paramāṇu	n. m. sg. nom.	0012a29	極微	对译	0172a06	隣虛	
 U49-169	S1028	adṛśyatvāt	a-dṛśya-tva	n. nt. sg. abl.	0012a29	不可見	对译	0172a07	不可見	第五格"故"
 U49-171	S1029	uktāś	ppp.	gram. ppp. (-ta)	0012a29	前	语法	0172a07	前	
-U49-172	S1029	uktāś	vac	ptc. m. pl. nom.	0012b01	說	对译	0172a07	說	
+U49-172	S1029	uktāś	ukta	ptc. m. pl. nom. (√vac)	0012b01	說	对译	0172a07	說	
 U49-173	S1029	ṣaḍvijñānadhātava	ṣaṣ-vijñāna-dhātu	cpd. m. pl. nom.	0012b01	識有六種	意译	0172a07	六識界	dhātu 未译；"有…種"为增字
 U49-174	S1029	ṣaḍ	ṣaṣ	num. 成分	0012b01	六	对译	0172a07	六	
 U49-254	S1029	vijñāna	vijñāna	n. 成分	0012b01	識	对译	0172a07	識	补成分记录

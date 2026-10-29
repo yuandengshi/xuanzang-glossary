@@ -17,7 +17,7 @@ U27-015	S0451	viṣayatvāt	viṣaya	n. 成分	0005c24	境	对译	0166a24	塵
 U27-016	S0451	viṣayatvāt	abl.	gram. abl. (-āt)	0005c24	是故	语法	0166a24	是故	第五格表原因，玄奘、真谛都以"是故"承接下句
 U27-017	S0451				0005c24	唯	增译			"唯取現境"之"唯"
 U27-018	S0451	pūrvamuktāni	pūrvam	ind.	0005c25	先	对译	0166a24	先	
-U27-019	S0451	muktāni	vac	ptc. nt. pl. nom.	0005c25	說	对译	0166a24	說	
+U27-019	S0451	muktāni	ukta	ptc. nt. pl. nom. (√vac)	0005c25	說	对译	0166a24	說	
 U27-020	S0451	manastvaniyata	manas	n. nt. sg. nom.	0005c25	意	对译	0166a24	意根	
 U27-022	S0451	aniyataviṣayam	a-niyata-viṣaya	cpd. adj. nt. sg. nom.	0005c25	境不定	对译	0166a24	境界…不定	玄奘倒序作"境不定"
 U27-023	S0451	aniyata	a-niyata	ptc. adj. 成分	0005c25	不定	对译	0166a25	不定	
@@ -28,7 +28,7 @@ U27-186	S0452	varttamāna	vartamāna	ptc. 成分	0005c25	一	意译	0166a25	現�
 U27-187	S0452	viṣayaṃ	viṣaya	n. nt. sg. nom.	0005c25	取	意译	0166a25	緣…塵	补成分记录；viṣaya（以…为境）作"取"
 U27-027	S0452				0005c25	二三四	增译			"或唯取一或二三四"之"二三四"
 U27-028	S0452	kiñcit vyadhvā	kiṃcit	pron. nt. sg. nom.	0005c25	或	语法	0166a25	有	
-U27-029	S0452	vyadhvānadhraviṣayam	tri-adhvan-anadhvan-viṣaya	cpd. adj. nt. sg. nom.	0005c25	三世無為	意译	0166a25	緣三世及非三世…塵	GRETIL 本作 vyadhvānadhra-，当读 tryadhvānadhva-；玄奘把它提前作"意境"的内容
+U27-029	S0452	vyadhvānadhraviṣayam	tri-adhva-an-adhva-viṣaya	cpd. adj. nt. sg. nom.	0005c25	三世無為	意译	0166a25	緣三世及非三世…塵	GRETIL 本作 vyadhvānadhra-，当读 tryadhvānadhva-；玄奘把它提前作"意境"的内容
 U27-030	S0452	vyadhvā	tri-adhvan	cpd. 成分	0005c25	三世	对译	0166a25	三世	GRETIL 本作 vyadhva-，当读 tryadhva-
 U27-189	S0452	vy	tri	num. 成分	0005c25	三	对译	0166a25	三	补成分记录；GRETIL 本作 vy-，当读 try-
 U27-190	S0452	adhvā	adhvan	n. 成分	0005c25	世	对译	0166a25	世	补成分记录
@@ -47,7 +47,7 @@ U27-041	S0454	pañcānāṃ	pañcan	num. pl. gen.	0005c26	五	对译	0166a26	五
 U27-043	S0454				0005c26	前	增译			"五中前四"之"前"
 U27-044	S0454	punaśctvāri	catur	num. nt. pl. nom.	0005c27	四	对译	0166a27	四	GRETIL 本作 punaśctvāri，当读 punaś catvāri
 U27-045	S0454	pūrvamuktāni	pūrvam	ind.	0005c27	先	对译	0166a27	前	
-U27-046	S0454	muktāni	vac	ptc. nt. pl. nom.	0005c27	說	对译	0166a27	說	
+U27-046	S0454	muktāni	ukta	ptc. nt. pl. nom. (√vac)	0005c27	說	对译	0166a27	說	
 U27-047	S0454	bhautikaviṣayatvāt	bhautika-viṣaya-tva	cpd. nt. sg. abl.	0005c27	境…所造	意译	0166a27	所造色為塵	"唯"为增字
 U27-047+1	S0454				0005c27	唯	增译			合并时从 U27-047（境唯所造）拆出
 U27-048	S0454	bhautika	bhautika	adj. 成分	0005c27	所造	对译	0166a27	所造色	
@@ -78,7 +78,7 @@ U27-072	S0458	āśutara	āśutara	adj. compar. 成分	0005c29	速明	意译	0166
 U27-073	S0458	vṛttyā	vṛtti	n. f. sg. instr.	0005c29	用	意译	0166b01	事	
 U27-074	S0458	vṛttyā	instr.	gram. instr. (-ā)	0005c29	是故	语法	0166b01	由…故	第三格表原因
 U27-075	S0458	pūrvamuktam	pūrvam	ind.	0005c29	先	对译	0166a29	前	
-U27-076	S0458	muktam	vac	ptc. nt. sg. nom.	0005c29	說	对译	0166a29	說	
+U27-076	S0458	muktam	ukta	ptc. nt. sg. nom. (√vac)	0005c29	說	对译	0166a29	說	
 U27-077	S0458	cakṣuḥśrotraṃ	cakṣus-śrotra	cpd. nt. sg. nom.	0005c29	眼耳	对译	0166b01	眼耳	
 U27-078	S0458	cakṣuḥ	cakṣus	n. 成分	0005c29	眼	对译	0166b01	眼	
 U27-079	S0458	śrotraṃ	śrotra	n. nt. sg. nom.	0005c29	耳	对译	0166b01	耳	
@@ -89,14 +89,14 @@ U27-083	S0458	dūraviṣayam	dūra	adj. 成分	0005c29	遠	对译	0166b01	遠
 U27-084	S0458	viṣayam	viṣaya	n. nt. sg. nom.	0005c29	境	对译	0166b01	境	
 U27-085	S0458				0005c29	取	增译	0166b01	緣	"取遠境"之"取"
 U27-086	S0459	tat pūrvamuktaṃ	pūrvam	ind.	0006a01	先	对译	0166b01	前	
-U27-087	S0459	muktaṃ	vac	ptc. nt. sg. nom.	0006a01	說	对译	0166b01	說	
+U27-087	S0459	muktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0006a01	說	对译	0166b01	說	
 U27-088	S0459	dvayāt	dvaya	num. nt. sg. abl.	0006a01	二	对译	0166b01	後二	
 U27-089	S0459	dvayāt	abl.	gram. abl. (-āt)	0006a01	在	语法	0166b01	於	第五格与 pūrvam 连用（先于二者），玄奘作"在二先說"
 U27-090	S0459	tayorapi	tad	pron. nt. du. gen.	0006a01	二中	语法	0166b01	於前二中	表部分的第六格"二者之中"，代词还原为"二"
 U27-092	S0459	cakṣuṣo	cakṣus	n. nt. sg. gen.	0006a01	眼	对译	0166b02	眼	
 U27-093	S0459	dūratare	dūra	adj. compar. nt. sg. loc.	0006a01	遠	对译	0166b02	最遠	
 U27-094	S0459	vṛttiḥ	vṛtti	n. f. sg. nom.	0006a01	用	意译	0166b02	事	
-U27-095	S0460	paśyato	dṛś	ptc. pres. m. sg. gen.	0006a01	見	对译	0166b02	見	现在分词 paśyat
+U27-095	S0460	paśyato	paśyat	ptc. pres. m. sg. gen. (√dṛś)	0006a01	見	对译	0166b02	見	现在分词 paśyat
 U27-096	S0460	dūrān	dūra	n. nt. sg. abl.	0006a01	遠	对译	0166b02	遠	
 U27-097	S0460				0006a01	山	增译			"山河"之"山"
 U27-098	S0460	nadīṃ	nadī	n. f. sg. acc.	0006a02	河	对译	0166b02	江河	
@@ -105,7 +105,7 @@ U27-191	S0460	tac	tad	pron. 成分			省译			补成分记录；tad 未译
 U27-100	S0460	tacchabdā	śabda	n. 成分	0006a02	聲	对译	0166b02	聲	
 U27-101	S0460	āśravaṇād	a-śravaṇa	n. nt. sg. abl.	0006a02	不聞	对译	0166b02	不聞	
 U27-103	S0460	pūrvamuktam	pūrvam	ind.	0006a01	先	对译	0166b03	前	
-U27-104	S0460	muktam	vac	ptc. nt. sg. nom.	0006a01	說	对译			
+U27-104	S0460	muktam	ukta	ptc. nt. sg. nom. (√vac)	0006a01	說	对译			
 U27-105	S0460				0006a02	又眼用速，先遠見人撞擊鍾鼓後聞聲故	梵本缺文	0166b03	後有急緩事，如先見人擊鼓後方聞聲	GRETIL 本无此例，玄奘、真谛都有
 U27-106	S0461	ghrāṇasya	ghrāṇa	n. nt. sg. gen.	0006a03	鼻	对译	0166b04	鼻	
 U27-108	S0461	dūre	dūra	n. nt. sg. loc.	0006a03	遠	对译	0166b04	遠	
@@ -118,7 +118,7 @@ U27-114	S0462	āśutara	āśutara	adj. compar. 成分	0006a04	速明	意译	0166
 U27-115	S0462	vṛttitvāt	vṛtti	n. 成分			省译	0166b04	事	
 U27-117	S0462	ghrāṇaṃ	ghrāṇa	n. nt. sg. nom.	0006a03	鼻	对译	0166b04	鼻	
 U27-118	S0462	pūrvamuktam	pūrvam	ind.	0006a03	先	对译	0166b04	前	
-U27-119	S0462	muktamaprāptasya	vac	ptc. nt. sg. nom.	0006a03	說	对译	0166b04	說	
+U27-119	S0462	muktamaprāptasya	ukta	ptc. nt. sg. nom. (√vac)	0006a03	說	对译	0166b04	說	
 U27-120	S0462				0006a04	如	增译	0166b04	如	举例
 U27-121	S0462	maprāptasyaiva	a-prāpta	ptc. nt. sg. gen.	0006a04	對…時	意译	0166b04	未到	aprāpta（未到[舌]）玄奘作"如對…時"，改从正面说
 U27-122	S0462				0006a04	香美諸	增译			"香美諸飲食"之"香美諸"
@@ -141,7 +141,7 @@ U27-142	S0464				0006a06	謂	增译
 U27-143	S0464	cakṣuṣo	cakṣus	n. nt. sg. gen.	0006a06	眼	对译	0166b07	眼根	
 U27-144	S0464	'dhiṣṭhānam	adhiṣṭhāna	n. nt. sg. nom.	0006a06	所依	对译	0166b07	依止	
 U27-145	S0464	upāriṣṭāt	upariṣṭāt	ind.	0006a06	上	对译	0166b07	上	GRETIL 本作 upāriṣṭāt，当读 upariṣṭāt
-U27-146	S0464	niviṣṭam	ni-viś	ptc. nt. sg. nom.	0006a06	居	意译	0166b07	在	
+U27-146	S0464	niviṣṭam	niviṣṭa	ptc. nt. sg. nom. (√ni-viś)	0006a06	居	意译	0166b07	在	
 U27-147	S0464				0006a06	最…其	增译			"最居其上"之"最""其"
 U27-148	S0464	tasmādadhaḥ	adhas	ind.	0006a06	次	意译	0166b07	次下	tasmād adhaḥ（其下）玄奘作"次"
 U27-149	S0464	śrotrasya	śrotra	n. nt. sg. gen.	0006a06	耳	对译	0166b07	耳根	
@@ -153,7 +153,7 @@ U27-154	S0465	bahulyena	bāhulya	n. nt. sg. instr.	0006a07	多	对译	0166b08	�
 U27-155	S0465				0006a07	居下	增译	0166b08	下舌	承上省略 adhaḥ，玄奘补出"居下"
 U27-156	S0466	manaḥ	manas	n. nt. sg. nom.	0006a07	意	对译	0166b08	意根	
 U27-157	S0466	tānyeva	tad	pron. nt. pl. nom.	0006a07	根	意译			代词还原为所指（五根）
-U27-159	S0466	niśritam	ni-śri	ptc. nt. sg. nom.	0006a07	依止	对译	0166b08	依止	
+U27-159	S0466	niśritam	niśrita	ptc. nt. sg. nom. (√ni-śri)	0006a07	依止	对译	0166b08	依止	
 U27-160	S0466				0006a07	有…生者	增译			"有即依止諸根生者"之"有""生者"
 U27-161	S0466	madeśasthaṃ	a-deśa-stha	adj. nt. sg. nom.	0006a07	無方處	对译	0166b08	無有的處	玄奘置于"依止諸根"之前
 U27-163	S0466				0006a08	最後說	增译			
@@ -164,7 +164,7 @@ U27-167	S0467	rūpaskandhasaṃgṛhīteṣv	rūpa-skandha-saṃgṛhīta	cpd. p
 U27-168	S0467	rūpaskandha	rūpa-skandha	cpd. 成分	0006a08	色蘊	对译	0166b10	色陰	
 U27-192	S0467	rūpa	rūpa	n. 成分	0006a08	色	对译	0166b10	色	补成分记录
 U27-193	S0467	skandha	skandha	n. 成分	0006a08	蘊	对译	0166b10	陰	补成分记录
-U27-169	S0467	saṃgṛhīteṣv	saṃ-grah	ptc. nt. pl. loc.	0006a08	攝	对译	0166b10	所攝	
+U27-169	S0467	saṃgṛhīteṣv	saṃgṛhīta	ptc. nt. pl. loc. (√saṃ-grah)	0006a08	攝	对译	0166b10	所攝	
 U27-170	S0467				0006a08	皆	增译	0166b10	皆	
 U27-171	S0467	ṣvekaṃ	eka	num. nt. sg. nom.	0006a08	唯…一	意译	0166b10	唯一	ekam（唯一）
 U27-172	S0467				0006a09	種	增译			"一種"之"種"

@@ -24,7 +24,7 @@ U19-101	S0335	sarva	sarva	adj. 成分	0004b19	一切	对译	0164c29	一切	补�
 U19-102	S0335	dharmāṇāṃ	dharma	n. m. pl. gen.	0004b20	法	对译	0164c29	法	补成分记录
 U19-017	S0336	yatra kvacid	yatra kvacit	ind.	0004b20	於諸處	语法	0165a01	處處	不定处所副词（无论何处）；"諸"非复数
 U19-018	S0336				0004b20	就勝義	增译			与下文"就世俗說"（sāṃketika）相对，玄奘补出
-U19-019	S0336	ucyamāno	vac	ptc. pres. pass. m. sg. nom.	0004b20	說	对译	0165a01	說	
+U19-019	S0336	ucyamāno	ucyamāna	ptc. pres. pass. m. sg. nom. (√vac)	0004b20	說	对译	0165a01	說	
 U19-020	S0336	saṃgraho	saṃgraha	n. m. sg. nom.	0004b20	攝	对译	0165a01	攝	
 U19-021	S0336	khalveṣa	khalu	ind.			省译			
 U19-022	S0336	veditavyaḥ	vid	gdv. m. sg. nom.			省译	0165a01	應知	
@@ -46,11 +46,11 @@ U19-035	S0340	parabhavena	instr.	gram. instr. (-ena)	0004b21	與	语法	0165a03	
 U19-036	S0340	parabhavena	para-bhāva	cpd. m. sg. instr.	0004b21	他性	对译	0165a04	他性	GRETIL 本作 parabhavena
 U19-105	S0340	para	para	pron. 成分	0004b21	他	对译	0165a04	他	补成分记录
 U19-106	S0340	bhavena	bhāva	n. m. sg. instr.	0004b21	性	对译	0165a04	性	补成分记录；GRETIL 本作 -bhavena
-U19-037	S0340	viyukto	vi-yuj	ptc. m. sg. nom. (viyukta)	0004b21	相離	对译	0165a04	相離	"恒"为增字
+U19-037	S0340	viyukto	viyukta	ptc. m. sg. nom. (√vi-yuj)	0004b21	相離	对译	0165a04	相離	"恒"为增字
 U19-039	S0340	yena	yad	pron. m. sg. instr.	0004b22	彼	语法			关系代词 yena（所离者）玄奘作"於彼"
-U19-040	S0340	viyuktas	vi-yuj	ptc. m. sg. nom. (viyukta)	0004b22	離	对译			
+U19-040	S0340	viyuktas	viyukta	ptc. m. sg. nom. (√vi-yuj)	0004b22	離	对译			
 U19-041	S0340				0004b22	而言	增译			
-U19-042	S0340	saṃgṛhīto	sam-grah	ptc. m. sg. nom.	0004b22	攝	对译	0165a05	攝	
+U19-042	S0340	saṃgṛhīto	saṃgṛhīta	ptc. m. sg. nom. (√sam-grah)	0004b22	攝	对译	0165a05	攝	
 U19-043	S0340	yujyate	yuj	v. pres. pass. 3sg.	0004b22	其理…然	意译			yujyate（合理）玄奘作"其理…然"；否定"不"归 na
 U19-044	S0341	tadyathā	tadyathā	ind.	0004b22	且如	语法	0165a05	譬如	
 U19-045	S0341	cakṣurindriyaṃ	cakṣus-indriya	cpd. nt. sg. nom.	0004b22	眼根	对译	0165a05	眼根	
@@ -69,7 +69,7 @@ U19-054	S0341	duḥkha	duḥkha	n. 成分	0004b23	苦	对译	0165a05	苦
 U19-055	S0341	samudaya	samudaya	n. 成分	0004b23	集	对译	0165a06	集	
 U19-056	S0341	satyābhyāṃ	satya	n. nt. du. instr.	0004b23	諦	对译	0165a06	諦	
 U19-057	S0341				0004b23	等	增译	0165a06	等	梵文只列苦、集二谛，二译都加"等"
-U19-058	S0341	saṃgṛhītam	sam-grah	ptc. nt. sg. nom.	0004b23	攝	对译	0165a06	攝	
+U19-058	S0341	saṃgṛhītam	saṃgṛhīta	ptc. nt. sg. nom. (√sam-grah)	0004b23	攝	对译	0165a06	攝	
 U19-059	S0342	tatsvabhāvatvāt	tad-svabhāva-tva	cpd. nt. sg. abl.	0004b23	是彼性	对译	0165a06	同性	第五格 -āt 译"故"
 U19-110	S0342	tat	tad	pron. 成分	0004b23	彼	对译	0165a06	同	补成分记录；真谛作"同"（同性）
 U19-061	S0342	svabhāvatvāt	svabhāva	n. 成分	0004b23	性	对译	0165a06	性	
@@ -78,7 +78,7 @@ U19-063	S0342	skandhā	skandha	n. 成分	0004b24	蘊	对译	0165a06	陰
 U19-064	S0342	ādibhis	ādi	n. m. pl. instr.	0004b24	等	对译	0165a06	等	
 U19-065	S0342	tadbhāva viyuktatvāt	tad-bhāva-viyukta-tva	cpd. nt. sg. abl.	0004b24	離彼性	对译	0165a06	彼性不相應	GRETIL 本分写作 tadbhāva viyuktatvāt
 U19-111	S0342	tad	tad	pron. 成分	0004b24	彼	对译	0165a06	彼	补成分记录
-U19-066	S0342	viyuktatvāt	vi-yuj	ptc. 成分 (viyukta)	0004b24	離	对译	0165a06	不相應	
+U19-066	S0342	viyuktatvāt	viyukta	ptc. 成分 (√vi-yuj)	0004b24	離	对译	0165a06	不相應	
 U19-067	S0342	bhāva viyuktatvāt	bhāva	n. 成分	0004b24	性	对译	0165a06	性	
 U19-068	S0343	yastvanyenā	yad	pron. m. sg. nom.	0004b24	若	语法			关系代词引出的主语从句，玄奘改作条件句"若…"
 U19-069	S0343				0004b24	於諸處	增译			仿上文 yatra kvacit 补出

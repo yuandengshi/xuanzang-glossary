@@ -24,9 +24,9 @@ U23-019	S0405	triprakāraḥ	tri-prakāra	cpd. adj. m. sg. nom.	0005b05	三種	�
 U23-020	S0405	tri	tri	num. 成分	0005b05	三	对译	0165c09	三	
 U23-021	S0405	prakāraḥ	prakāra	n. m. sg. nom.	0005b05	種	对译	0165c09	種	
 U23-022	S0406	keciccaitteṣu	kaścit	pron. m. pl. nom.	0005b05	或	语法	0165c09	有諸眾生	kecit … kecit 译"或…或"
-U23-023	S0406	saṃmūḍhāḥ	sam-muh	ptc. m. pl. nom. (saṃmūḍha)	0005b05	愚	对译	0165c09	不明	
+U23-023	S0406	saṃmūḍhāḥ	saṃmūḍha	ptc. m. pl. nom. (√sam-muh)	0005b05	愚	对译	0165c09	不明	
 U23-024	S0406	caitteṣu	caitta	n. m. pl. loc.	0005b05	心所	对译	0165c09	心法	
-U23-025	S0406	piṇḍātmagrahaṇataḥ	piṇḍa-ātman-grahaṇa	cpd. sg. abl. (-tas)	0005b05	總執為我	意译	0165c09	執聚為我	
+U23-025	S0406	piṇḍātmagrahaṇataḥ	piṇḍa-ātma-grahaṇa	cpd. sg. abl. (-tas)	0005b05	總執為我	意译	0165c09	執聚為我	
 U23-026	S0406	piṇḍā	piṇḍa	n. 成分	0005b05	總	意译	0165c10	聚	
 U23-027	S0406	grahaṇataḥ	grahaṇa	n. sg. abl. (-tas)	0005b05	執	对译	0165c09	執	
 U23-028	S0406	ātma	ātman	n. 成分	0005b06	我	对译	0165c10	我	
@@ -65,12 +65,12 @@ U23-060	S0411				0005b08	餘	增译	0165c13	所餘
 U23-061	S0411	caitasikā	caitasika	n. m. pl. nom.	0005b08	心所	对译	0165c13	心法	
 U23-062	S0411	ekatra	ekatra	ind.	0005b09	總	意译	0165c13	一	
 U23-063	S0411	saṃskāraskandhanikṣiptā	saṃskāra-skandha-nikṣipta	cpd. ptc. m. pl. nom.	0005b09	置行蘊	对译	0165c13	安置一行陰	
-U23-064	S0411	nikṣiptā	ni-kṣip	ptc. m. pl. nom. (nikṣipta)	0005b09	置	对译	0165c13	安置	
+U23-064	S0411	nikṣiptā	nikṣipta	ptc. m. pl. nom. (√ni-kṣip)	0005b09	置	对译	0165c13	安置	
 U23-065	S0411	saṃskāraskandha	saṃskāra-skandha	cpd. 成分	0005b09	行蘊	对译	0165c14	行陰	
 U23-076	S0411	saṃskāra	saṃskāra	n. 成分	0005b09	行	对译	0165c14	行	补成分记录
 U23-077	S0411	skandha	skandha	n. 成分	0005b09	蘊	对译	0165c14	陰	补成分记录
 U23-066	S0411	pṛthak	pṛthak	ind.	0005b09	別	对译	0165c14	別	
-U23-067	S0411	skandhīkṛte	skandhī-kṛ	ptc. f. du. nom.	0005b09	分…為…蘊	意译	0165c14	分…立為陰	
+U23-067	S0411	skandhīkṛte	skandhīkṛta	ptc. f. du. nom. (√skandhī-kṛ)	0005b09	分…為…蘊	意译	0165c14	分…立為陰	
 U23-068	S0411	vedanāsaṃjñe	vedanā-saṃjñā	cpd. f. du. nom.	0005b09	受想	对译	0165c14	受想	
 U23-078	S0411	vedanā	vedanā	n. 成分	0005b09	受	对译	0165c14	受	补成分记录
 U23-079	S0411	saṃjñe	saṃjñā	n. f. du. nom.	0005b09	想	对译	0165c14	想	补成分记录

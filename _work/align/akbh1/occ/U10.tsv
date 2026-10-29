@@ -95,7 +95,7 @@ U10-094	S0148	andhakāram	andhakāra	n. nt. sg. nom.	0002c03	闇	对译	0163a22	
 U10-095	S0149	śeṣaṃ	śeṣa	adj. nt. sg. nom.	0002c03	餘	对译	0163a22	餘	
 U10-096	S0149				0002c03	色	增译	0163a23	色	
 U10-097	S0149	sugamatvān	su-gama-tva	n. nt. sg. abl.	0002c03	易了	对译	0163a23	易解	-tva 未译
-U10-099	S0149	vipañcitam	vi-pañcaya	ptc. nt. sg. nom.	0002c04	釋	对译	0163a23	釋	
+U10-099	S0149	vipañcitam	vipañcita	ptc. nt. sg. nom. (caus. √vi-pañc)	0002c04	釋	对译	0163a23	釋	
 U10-100	S0149				0002c03	今	增译	0163a23	今	
 U10-101	S0150				0002c04	或	增译			列举诸句，以"或有"引出
 U10-103	S0150	rūpāyatanaṃ	rūpa-āyatana	cpd. nt. sg. nom.	0002c04	色處	对译	0163a23	色入	
@@ -180,7 +180,7 @@ U10-174	S0159	vijñaptāv	vijñapti	n. f. sg. loc.	0002c10	表	对译	0163b01	�
 U10-175	S0159	vijñaptāv	loc.	gram. loc. (-au)	0002c10	中	语法			第七格译"中"
 U10-176	S0159	prasaṅgaḥ	prasaṅga	n. m. sg. nom.	0002c10	應	意译	0163b01	反質難	prasaṅga（应成之过）译"應"
 U10-177	S0159				0002c10	有顯智	增译			具体补出过失的内容
-U10-178	S0159	uktaṃ	vac	ptc. nt. sg. nom.	0002c10	說	对译	0163b01	說	
+U10-178	S0159	uktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0002c10	說	对译	0163b01	說	
 U10-179	S0159	rūpāyatanaṃ	rūpa-āyatana	cpd. nt. sg. nom.	0002c10	色處	对译	0163b01	色入	
 U10-542	S0159	rūpā	rūpa	n. 成分	0002c10	色	对译	0163b01	色	补成分记录
 U10-543	S0159	āyatanaṃ	āyatana	n. nt. sg. nom.	0002c11	處	对译	0163b01	入	补成分记录
@@ -284,7 +284,7 @@ U10-269	S0169	tathā	tathā	ind.	0002c19	爾	语法	0163b09	爾	"聲亦應爾"
 U10-270	S0169	naivaiṣṭavya	na	ind.			省译			"聲亦應爾"即亦不許，否定承上"不許"而不重出
 U10-271	S0169	aiṣṭavya	iṣ	gdv. m. sg. nom.			省译			承上"許"，不重出
 U10-272	S0169	aiṣṭavya	gdv.	gram. gdv. (-tavya)	0002c18	應	语法	0163b09	應	
-U10-273	S0170	uktaḥ	vac	ptc. m. sg. nom.	0002c19	說	对译	0163b09	說	
+U10-273	S0170	uktaḥ	ukta	ptc. m. sg. nom. (√vac)	0002c19	說	对译	0163b09	說	
 U10-274	S0170	śabdaḥ	śabda	n. m. sg. nom.	0002c19	聲處	意译	0163b09	聲	补"處"
 U10-275	S0170				0002c19	當說味處	增译			玄奘补出过渡语
 U10-276	S0171	rasaḥ	rasa	n. m. sg. nom.	0002b23	味	对译	0163b09	味	
@@ -401,7 +401,7 @@ U10-381	S0187	tatra vastrāṇy	tatra	ind.	0003a01	彼界	意译	0163b20	彼	tat
 U10-382	S0187	vastrāṇy	vastra	n. nt. pl. nom.	0003a01	衣服	对译	0163b20	衣	
 U10-383	S0187	ekaśo	ekaśas	ind.	0003a02	別	意译	0163b21	各	ekaśas（一一、单独）译"別"
 U10-384	S0187	na tulyante	tul	v. pres. pass. 3pl.	0003a02	稱	对译	0163b21	稱	
-U10-385	S0187	sañcitāni	saṃ-ci	ptc. nt. pl. nom.	0003a02	聚	对译	0163b21	聚集	
+U10-385	S0187	sañcitāni	saṃcita	ptc. nt. pl. nom. (√saṃ-ci)	0003a02	聚	对译	0163b21	聚集	
 U10-386	S0187	punastulyante	punar	ind.	0003a02	則	意译			punar（然而）译"則"
 U10-387	S0187	punastulyante	tul	v. pres. pass. 3pl.	0003a02	稱	对译	0163b21	稱	
 U10-388	S0188	śītam	śīta	n. nt. sg. nom.	0003a02	冷	对译	0163b22	冷	
@@ -416,7 +416,7 @@ U10-398	S0189				0003a03	說如此	增译	0163b22	如此
 U10-399	S0190	bahuvidhaṃ	bahu-vidha	adj. nt. sg. nom.	0003a03	多種	对译	0163b23	多種	
 U10-400	S0190	rūpamuktaṃ	rūpa	n. nt. sg. nom.	0003a03	色	对译	0163b23	色	
 U10-401	S0190				0003a04	處	增译			
-U10-402	S0190	uktaṃ	vac	ptc. nt. sg. nom.	0003a03	說	对译	0163b23	說	
+U10-402	S0190	uktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0003a03	說	对译	0163b23	說	
 U10-403	S0190	kadācid	kadācit	ind.	0003a04	有時	对译	0163b23	有時	
 U10-404	S0190	ekena	eka	num. nt. sg. instr.	0003a04	一	对译	0163b23	一	
 U10-405	S0190	dravyeṇa	dravya	n. nt. sg. instr.	0003a04	事	意译	0163b23	物	
@@ -448,7 +448,7 @@ U10-427	S0192	maṇisamūhaṃ	maṇi-samūha	cpd. m. sg. acc.	0003a06	珠寶聚
 U10-428	S0192	maṇi	maṇi	n. 成分	0003a06	珠寶	对译	0163b26	寶	
 U10-429	S0192	samūhaṃ	samūha	n. m. sg. acc.	0003a06	聚	对译	0163b26	眾	
 U10-430	S0192	dūrāt	dūra	n. nt. sg. abl.	0003a06	遠	对译	0163b26	遠	
-U10-431	S0192	paśyataḥ	dṛś (paś)	ptc. pres. m. sg. gen.	0003a06	觀察	对译	0163b26	見	
+U10-431	S0192	paśyataḥ	paśyat	ptc. pres. m. sg. gen. (√dṛś)	0003a06	觀察	对译	0163b26	見	
 U10-432	S0192				0003a06	等	增译			
 U10-433	S0193	evaṃ	evam	ind.	0003a07	亦爾	语法	0163b26	亦爾	
 U10-434	S0193	śrotrādivijñānaṃ	śrotra-ādi-vijñāna	cpd. nt. sg. nom.	0003a07	耳等…識	对译	0163b26	耳等識	"諸"为增字
@@ -547,11 +547,11 @@ U10-506	S0202	utpadyate	ut-pad	v. pres. 3sg.	0003a13	起	对译	0163c04	生
 U10-507	S0203	bhoktukāmatāvarjitatvāt	bhoktu-kāmatā-āvarjita-tva	cpd. nt. sg. abl.	0003a13	食飲引	意译	0163c04	食欲所引	
 U10-508	S0203	bhoktu	bhuj	inf.	0003a13	食飲	意译	0163c04	食	bhoktum（欲食）译"食飲"
 U10-509	S0203	kāmatā	kāmatā	n. 成分			省译	0163c04	欲	kāmatā（欲）未译
-U10-510	S0203	āvarjita	ā-vṛj (caus.)	ptc. 成分	0003a13	引	对译	0163c04	引	
+U10-510	S0203	āvarjita	āvarjita	ptc. 成分 (caus. √ā-vṛj)	0003a13	引	对译	0163c04	引	
 U10-511	S0203	āvarjita	caus.	gram. caus. (-aya-)	0003a14	令	语法			使役以"令"表出（引身令相續）
 U10-512	S0203				0003a14	身	增译			
 U10-513	S0203	sasntateḥ	saṃtati	n. f. sg. gen.	0003a14	相續	对译	0163c04	相續	GRETIL 本作 sasntateḥ，当读 saṃtateḥ
-U10-514	S0204	uktāḥ	vac	ptc. m. pl. nom.	0003a14	說	对译	0163c05	說	
+U10-514	S0204	uktāḥ	ukta	ptc. m. pl. nom. (√vac)	0003a14	說	对译	0163c05	說	
 U10-515	S0204	pañācendriyārthāḥ	pañca-indriya-artha	cpd. m. pl. nom.	0003a14	根境	对译	0163c05	五根、五塵	GRETIL 本作 pañāca-；pañca 未译
 U10-516	S0204	pañācendriyārthāḥ	pañcan	num. 成分			省译	0163c05	五	
 U10-517	S0204	endriyā	indriya	n. 成分	0003a14	根	对译	0163c05	根	

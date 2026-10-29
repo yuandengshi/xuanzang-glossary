@@ -33,7 +33,7 @@ U06-025	S0095	sametya	sam-i	abs.	0002a11	聚集	对译	0162c09	已至
 U06-026	S0095	saṃbhūya	saṃ-bhū	abs.	0002a11	共	意译	0162c09	聚集	saṃbhūya（和合、共同）译"共"
 U06-027	S0095	pratyayaiḥ	pratyaya	n. m. pl. instr.	0002a11	緣	对译	0162c09	因緣	
 U06-028	S0095	pratyayaiḥ	pl.	gram. pl. instr. (-aiḥ)	0002a11	眾	语法			复数以"眾"表出
-U06-029	S0095	kṛtāḥ	kṛ	ptc. m. pl. nom.	0002a11	作	对译	0162c09	作	
+U06-029	S0095	kṛtāḥ	kṛta	ptc. m. pl. nom. (√kṛ)	0002a11	作	对译	0162c09	作	
 U06-030	S0095	kṛtāḥ	ppp.	gram. ppp. (-ta)	0002a11	所	语法	0162c09	所	过去被动分词以"所"表被动
 U06-032	S0095	iti saṃskṛtāḥ	saṃskṛta	ptc. adj. m. pl. nom.			省译	0162c09	有為	玄奘与上句"具攝有為"合并，不再出"有為"
 U06-035	S0095	astī	as	v. pres. 3sg.	0002a11	有	对译	0162c09	有	
@@ -41,7 +41,7 @@ U06-036	S0095	kiñcid	kaścit	pron. nt. sg. nom.	0002a11	少法	意译	0162c10	�
 U06-037	S0095	ekapratyayajanitaṃ	eka-pratyaya-janita	cpd. nt. sg. nom.	0002a12	一緣所生	对译	0162c10	一緣所生	
 U06-038	S0095	eka	eka	num. 成分	0002a12	一	对译	0162c10	一	
 U06-039	S0095	ekapratyaya	pratyaya	n. 成分	0002a12	緣	对译	0162c10	緣	
-U06-040	S0095	janitaṃ	jan (caus.)	ptc. nt. sg. nom.	0002a12	生	对译	0162c10	生	
+U06-040	S0095	janitaṃ	janita	ptc. nt. sg. nom. (caus. √jan)	0002a12	生	对译	0162c10	生	
 U06-041	S0095	janitaṃ	ppp.	gram. ppp. (-ta)	0002a12	所	语法	0162c10	所	
 U06-043	S0096	tajjātīyatvād	tad-jātīya-tva	cpd. nt. sg. abl.	0002a12	彼類	对译	0162c10	彼種類	-tva 以"是"表出，第五格译"故"
 U06-161	S0096	taj	tad	pron. 成分	0002a12	彼	对译	0162c10	彼	补成分记录
@@ -68,10 +68,10 @@ U06-064	S0098	saṃskṛtā	saṃskṛta	ptc. adj. m. pl. nom.	0002a13	有為	�
 U06-065	S0098				0002a13	法	增译	0162c12	法	补出"法"（此有為法）
 U06-066	S0098				0002a13	名	增译			名词谓语补"名"（亦名世路）
 U06-067	S0098	gatagacchadgamiṣyadbhāvād	gata-gacchat-gamiṣyat-bhāva	cpd. m. sg. abl.	0002a13	已行正行當行性	对译	0162c12	有已正當行	
-U06-068	S0098	gata	gam	ptc. 成分 (gata)	0002a13	行	对译	0162c12	行	
-U06-070	S0098	gacchad	gam	ptc. pres. 成分	0002a13	行	对译	0162c12	行	
+U06-068	S0098	gata	gata	ptc. 成分 (√gam)	0002a13	行	对译	0162c12	行	
+U06-070	S0098	gacchad	gacchat	ptc. pres. 成分 (√gam)	0002a13	行	对译	0162c12	行	
 U06-071	S0098	gacchad	pres. ptc.	gram. pres. ptc. (-at)	0002a13	正	语法	0162c12	正	现在分词表正在，译"正"
-U06-072	S0098	gamiṣyad	gam	ptc. fut. 成分	0002a13	行	对译	0162c12	行	
+U06-072	S0098	gamiṣyad	gamiṣyat	ptc. fut. 成分 (√gam)	0002a13	行	对译	0162c12	行	
 U06-074	S0098	bhāvād	bhāva	n. m. sg. abl.	0002a13	性	意译			bhāva（有、状态）译"性"
 U06-076	S0098	adhvānaḥ	adhvan	n. m. pl. nom.	0002a13	世路	对译	0162c13	世路	
 U06-077	S0098	adyante	ad	v. pres. pass. 3pl.	0002a14	吞食	对译	0162c13	食	
@@ -111,7 +111,7 @@ U06-164	S0102	kathā	kathā	n. 成分	0002a17	言	对译	0162c16	言	补成分�
 U06-165	S0102	vastūny	vastu	n. nt. pl. nom.	0002a17	依	对译	0162c16	依	补成分记录
 U06-110	S0102	aṣṭādaśabhir	aṣṭādaśan	num. pl. instr.	0002a17	十八	对译	0162c16	十八	
 U06-111	S0102	dhatubhiḥ	dhātu	n. m. pl. instr.	0002a17	界	对译	0162c16	界	GRETIL 本作 dhatubhiḥ
-U06-112	S0102	saṃgṛhītāni	saṃ-grah	ptc. nt. pl. nom.	0002a17	攝	对译	0162c16	攝	
+U06-112	S0102	saṃgṛhītāni	saṃgṛhīta	ptc. nt. pl. nom. (√saṃ-grah)	0002a17	攝	对译	0162c16	攝	
 U06-113	S0103	niḥsāraḥ	niḥsāra	n. m. sg. nom.	0002a17	離	对译	0162c16	離	
 U06-114	S0103	niḥsaraṇaṃ	niḥsaraṇa	n. nt. sg. nom.	0002a17	永離	意译	0162c16	永出	
 U06-115	S0103				0002a17	謂	增译			释词句补"謂"（離謂永離）

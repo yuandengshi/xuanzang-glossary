@@ -37,7 +37,7 @@ U46-605	S0880	dhātur	dhātu	n. m. sg. nom.	0010c10	界	对译	0170b29	界	补�
 U46-033	S0880				0010c10	於…中	增译			"於法界中此八是見"，以"於…中"表部分
 U46-034	S0880	dharmadhāturdṛṣṭi	dṛṣṭi	n. f. sg. nom.	0010c11	見	对译	0170b29	見	
 U46-035	S0880				0010c10	是	增译	0170b29	是	名词句"此八是見"的系词
-U46-036	S0880	ravraśiṣṭo	ava-śiṣṭa	ptc. m. sg. nom.	0010c11	所餘	对译	0170b29	所餘	GRETIL 本作 dṛṣṭi ravraśiṣṭo，当读 dṛṣṭir avaśiṣṭo
+U46-036	S0880	ravraśiṣṭo	avaśiṣṭa	ptc. m. sg. nom. (√ava-śiṣ)	0010c11	所餘	对译	0170b29	所餘	GRETIL 本作 dṛṣṭi ravraśiṣṭo，当读 dṛṣṭir avaśiṣṭo
 U46-038	S0880	na dṛṣṭiḥ	dṛṣṭi	n. f. sg. nom.	0010c11	見	对译	0170b29	見	"所餘非見"
 U46-040	S0880	satkāyadṛṣṭyādīnām	satkāya-dṛṣṭi-ādi	cpd. f. pl. gen.	0010c11	身見等	对译	0170b29	身見等	"五"为增字（下条）
 U46-606	S0880	satkāya	satkāya	n. 成分	0010c11	身	意译	0170b29	身	补成分记录；satkāya（有身）简作"身"
@@ -200,7 +200,7 @@ U46-622	S0895	tad	tad	pron. 成分	0010c06	彼	对译	0170c14	眼	补成分记�
 U46-193	S0895	āśritam	āśrita	ptc. nt. sg. nom.	0010c06	能依	对译	0170c14	能依	
 U46-194	S0895	tadāśritam	tad-āśrita	cpd. adj. nt. sg. nom.	0010c25	眼	意译			长行"眼識定非能見"复述颂文，tad-āśrita vijñāna 作"眼識"
 U46-623	S0895	tad	tad	pron. 成分	0010c25	眼	意译			补成分记录；代词还原为所指
-U46-624	S0895	āśritam	ā-śri	ptc. nt. sg. nom. (āśrita)			省译			补成分记录
+U46-624	S0895	āśritam	āśrita	ptc. nt. sg. nom. (√ā-śri)			省译			补成分记录
 U46-195	S0896	vijñānaṃ	vijñāna	n. nt. sg. nom.	0010c06	識	对译	0170c15	識	
 U46-196	S0896	vijñānaṃ	vijñāna	n. nt. sg. nom.	0010c25	識	对译	0170c15	識	长行复述（眼識）
 U46-197	S0897				0010c25	不爾	增译			玄奘先以"不爾"否定上句
@@ -232,10 +232,10 @@ U46-227	S0900	kuḍyādiṣu	kuḍya-ādi	cpd. nt. pl. loc.	0010c27	壁等	对�
 U46-625	S0900	kuḍyā	kuḍya	n. 成分	0010c27	壁	对译	0170c17	壁	补成分记录
 U46-626	S0900	ādiṣu	ādi	n. nt. pl. loc.	0010c27	等	对译	0170c17	等	补成分记录
 U46-228	S0900	pratighāto	pratighāta	n. m. sg. nom.	0010c27	礙	对译	0170c18	妨	
-U46-230	S0900	vāṛtam	ā-vṛta	ptc. nt. sg. acc.	0010c27	障	对译	0170c18	被障	GRETIL 本作 ityvāṛtamapi，当读 ity āvṛtam api
+U46-230	S0900	vāṛtam	āvṛta	ptc. nt. sg. acc. (√ā-vṛ)	0010c27	障	对译	0170c18	被障	GRETIL 本作 ityvāṛtamapi，当读 ity āvṛtam api
 U46-231	S0900	rūpaṃ paśyet	rūpa	n. nt. sg. acc.	0010c28	色	对译	0170c18	色	
 U46-233	S0900	rūpaṃ paśyet	dṛś	v. opt. 3sg.	0010c27	見	对译	0170c18	見	
-U46-235	S0901	hāvṛte	ā-vṛta	ptc. nt. sg. loc.	0010c28	被障	对译	0170c18	被障	GRETIL 本作 naiva hāvṛte，当读 na eva hy āvṛte；"於被障色"，"色"为增字
+U46-235	S0901	hāvṛte	āvṛta	ptc. nt. sg. loc. (√ā-vṛ)	0010c28	被障	对译	0170c18	被障	GRETIL 本作 naiva hāvṛte，当读 na eva hy āvṛte；"於被障色"，"色"为增字
 U46-237	S0901	cakṣurvijñānam	cakṣus-vijñāna	cpd. nt. sg. nom.	0010c28	眼識	对译	0170c19	識	
 U46-627	S0901	cakṣur	cakṣus	n. 成分	0010c28	眼	对译			补成分记录
 U46-628	S0901	vijñānam	vijñāna	n. nt. sg. nom.	0010c28	識	对译	0170c19	識	补成分记录
@@ -276,7 +276,7 @@ U46-275	S0904	kāyendriyavat	kāya-indriya	cpd. 成分 (-vat)	0011a03	身根	对
 U46-629	S0904	kāye	kāya	n. 成分	0011a03	身	对译	0170c22	身	补成分记录
 U46-630	S0904	endriya	indriya	n. 成分	0011a03	根	对译	0170c22	根	补成分记录
 U46-278	S0904				0011a03	而言	增译			"而言有對故不見彼耶"，玄奘以"而言"把 S0905 的理由并入问句
-U46-279	S0904	āvṛtaṃ	ā-vṛta	ptc. nt. sg. acc.	0011a04	彼	意译	0170c23	被障色	āvṛta（被障者）玄奘以"彼"指称
+U46-279	S0904	āvṛtaṃ	āvṛta	ptc. nt. sg. acc. (√ā-vṛ)	0011a04	彼	意译	0170c23	被障色	āvṛta（被障者）玄奘以"彼"指称
 U46-280	S0904	na paśyet	dṛś	v. opt. 3sg.	0011a04	見	对译	0170c22	見	
 U46-281	S0905	sapratighatvāt	sa-pratigha-tva	n. nt. sg. abl.	0011a03	有對	对译	0170c23	有礙	
 U46-283	S0906	kācābhrapaṭalasphaṭikāmbubhiś	kāca-abhrapaṭala-sphaṭika-ambu	cpd. nt. pl. instr.	0011a04	頗胝迦、瑠璃、雲母、水	对译	0170c23	雲母琉璃水精淨水	玄奘次序为頗胝迦（sphaṭika）、瑠璃（kāca）、雲母（abhrapaṭala）、水（ambu）；"等"为增字
@@ -291,7 +291,7 @@ U46-291	S0906	dṛśyate	dṛś	v. pres. pass. 3sg.	0011a05	見	对译	0170c24	�
 U46-292	S0907				0011a05	是故不	梵本缺文	0170c24	是故不	待核：玄奘、真谛都作"是故不由（眼）有對/有礙"，GRETIL 无相应的 ataḥ na，疑所据梵本有之
 U46-293	S0907	sapratighatvāc	sa-pratigha-tva	n. nt. sg. abl.	0011a05	有對	对译	0170c24	有礙	
 U46-295	S0907	cakṣuṣa	cakṣus	n. nt. sg. gen.	0011a05	眼	对译	0170c25	眼	
-U46-296	S0907	āvṛtasya	ā-vṛta	ptc. nt. sg. gen.	0011a05	障	对译	0170c24	被障	"於彼障色"，"於彼"为增字
+U46-296	S0907	āvṛtasya	āvṛta	ptc. nt. sg. gen. (√ā-vṛ)	0011a05	障	对译	0170c24	被障	"於彼障色"，"於彼"为增字
 U46-297	S0907	rūpasyā	rūpa	n. nt. sg. gen.	0011a06	色	对译	0170c25	色	
 U46-298	S0907	ādarśanam	a-darśana	n. nt. sg. nom.	0011a06	無見	对译	0170c25	不能見	"無見功能"，"功能"为增字
 U46-299	S0908	kiṃ tarhi	kiṃ tarhi	ind.	0011a06	若爾…云何	语法	0170c25	若爾…何故	"若爾，所執眼識云何"，"所執眼識"为增字
@@ -299,7 +299,7 @@ U46-300	S0908				0011a06	所執眼識	增译
 U46-301	S0909	yatrā	yatra	ind.	0011a06	若於是處	语法	0170c25	是處	
 U46-302	S0909	ālokasyā	āloka	n. m. sg. gen.	0011a07	光明	对译	0170c25	光明	
 U46-303	S0909	āpratibandha	a-pratibandha	n. m. sg. nom.	0011a07	無隔	对译	0170c25	相通無隔	
-U46-304	S0909	āvṛte	ā-vṛta	ptc. nt. sg. loc.	0011a07	障	对译	0170c26	被障	
+U46-304	S0909	āvṛte	āvṛta	ptc. nt. sg. loc. (√ā-vṛ)	0011a07	障	对译	0170c26	被障	
 U46-305	S0909	rupe	rūpa	n. nt. sg. loc.	0011a07	色	对译	0170c26	色	GRETIL 本作 rupe
 U46-307	S0909	tatropapadyata	upa-pad	v. pres. 3sg.	0011a07	生	对译	0170c26	生	
 U46-308	S0909	cakṣurvijñānam	cakṣus-vijñāna	cpd. nt. sg. nom.	0011a07	眼識	对译	0170c26	眼識	
@@ -310,11 +310,11 @@ U46-310	S0910	pratibandhas	pratibandha	n. m. sg. nom.	0011a08	有隔	对译	0170
 U46-312	S0910	notpadyata	ut-pad	v. pres. 3sg.	0011a08	生	对译	0170c27	生	
 U46-313	S0910	ityanutpannatvād	iti	ind.	0011a09	既	语法			"識既不生"，"識"为增字
 U46-314	S0910	anutpannatvād	an-utpanna-tva	n. nt. sg. abl.	0011a09	不生	对译	0170c27	不生	
-U46-315	S0910	āvṛtaṃ	ā-vṛta	ptc. nt. sg. nom.			省译	0170c27	被障	
+U46-315	S0910	āvṛtaṃ	āvṛta	ptc. nt. sg. nom. (√ā-vṛ)			省译	0170c27	被障	
 U46-316	S0910	nekṣyate	īkṣ	v. pres. pass. 3sg.	0011a09	見	对译	0170c27	見	"能"为增字
 U46-318	S0911	yattarhi	tarhi	ind.	0011a09	然	语法	0170c28	若爾	yat tarhi（那么所说…）玄奘作"然"
 U46-319	S0911	sūtra	sūtra	n. nt. sg. loc.	0011a09	經	对译	0170c28	經	
-U46-320	S0911	uktaṃ	vac	ptc. nt. sg. nom.	0011a09	說	对译	0170c28	說	
+U46-320	S0911	uktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0011a09	說	对译	0170c28	說	
 U46-321	S0911	cakṣuṣā	cakṣus	n. nt. sg. instr.	0011a09	眼	对译	0170c28	眼	第三格转为主语"眼能見色"；真谛作"由眼"
 U46-322	S0911	rūpāṇi	rūpa	n. nt. pl. acc.	0011a09	色	对译	0170c28	色	
 U46-323	S0911	dṛṣṭve	dṛś	abs.	0011a09	見	对译	0170c28	見	"能"为增字
@@ -343,7 +343,7 @@ U46-351	S0916				0011a13	世間說	增译
 U46-352	S0916	mañcāḥ	mañca	n. m. pl. nom.	0011a13	床座	对译	0171a03	樓	
 U46-353	S0916	krośantī	kruś	v. pres. 3pl.	0011a13	言聲	意译	0171a03	叫	
 U46-355	S0917	sūtra	sūtra	n. nt. sg. loc.	0011a13	經	对译	0171a03	經	
-U46-356	S0917	uktaṃ	vac	ptc. nt. sg. nom.	0011a13	言	对译	0171a03	說	
+U46-356	S0917	uktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0011a13	言	对译	0171a03	說	
 U46-357	S0917	cakṣurvijñeyāni	cakṣus-vijñeya	cpd. adj. nt. pl. nom.	0011a13	眼所識	对译	0171a03	眼所識	
 U46-635	S0917	cakṣur	cakṣus	n. 成分	0011a13	眼	对译	0171a03	眼	补成分记录
 U46-358	S0917	vijñeyāni	vijñeya	gdv. nt. pl. nom.	0011a13	所識	对译	0171a03	所識	
@@ -354,7 +354,7 @@ U46-362	S0918	na ca tāni	ca	ind.	0011a14	然	语法			"然實非此…"，"實"
 U46-363	S0918	tāni	tad	pron. nt. pl. nom.	0011a14	此可愛樂色	意译	0171a04	此色	代词还原为所指
 U46-364	S0918	cakṣuṣā	cakṣus	n. nt. sg. instr.	0011a14	眼	对译	0171a04	眼	
 U46-366	S0918	vijñāyante	vi-jñā	v. pres. pass. 3pl.	0011a14	識	对译	0171a04	識	"是"为增字
-U46-367	S0919	uktaṃ ca	vac	ptc. nt. sg. nom.	0011a15	說	对译	0171a04	說	"又如經說"，"如"为增字
+U46-367	S0919	uktaṃ ca	ukta	ptc. nt. sg. nom. (√vac)	0011a15	說	对译	0171a04	說	"又如經說"，"如"为增字
 U46-368	S0919	sūtre	sūtra	n. nt. sg. loc.	0011a15	經	对译	0171a04	經	
 U46-369	S0919	brāhmaṇa	brāhmaṇa	n. m. sg. voc.	0011a15	梵志	意译	0171a04	婆羅門	真谛音译
 U46-370	S0919				0011a15	當知	增译			"梵志當知"
@@ -409,7 +409,7 @@ U46-426	S0925	"yadi cakṣuḥ	cakṣus	n. nt. sg. nom.	0011a21	眼	对译	0171a
 U46-427	S0925	cakṣuḥ paśyati	dṛś	v. pres. 3sg.	0011a21	見	对译	0171a11	見	
 U46-428	S0925	kartṛbhūtasya	kartṛ-bhūta	cpd. adj. nt. sg. gen.	0011a21	是見者	意译	0171a11	成作者	
 U46-429	S0925	kartṛ	kartṛ	n. 成分	0011a21	見者	意译	0171a11	作者	kartṛ（作者）玄奘就"见"而作"見者"
-U46-638	S0925	bhūtasya	bhū	ptc. nt. sg. gen. (bhūta)	0011a21	是	意译	0171a11	成	补成分记录；bhūta（成为）译"是"
+U46-638	S0925	bhūtasya	bhūta	ptc. nt. sg. gen. (√bhū)	0011a21	是	意译	0171a11	成	补成分记录；bhūta（成为）译"是"
 U46-430	S0925	cakṣuṣaḥ	cakṣus	n. nt. sg. gen.	0011a21	眼	对译	0171a11	眼	
 U46-432	S0925	'nyā	anya	pron. f. sg. nom.			省译	0171a11	別	
 U46-433	S0925	dṛśikriye	dṛśi-kriyā	cpd. f. sg. nom.	0011a21	見用	对译	0171a11	見事	
@@ -464,14 +464,14 @@ U46-476	S0934	darśanam	darśana	n. nt. sg. nom.	0011a26	見	对译	0171a16	見	
 U46-477	S0934	ruḍhaṃ	rūḍha	ptc. nt. sg. nom.	0011a26	同許	意译	0171a16	成立	GRETIL 本作 ruḍhaṃ
 U46-478	S0934	loke	loka	n. m. sg. loc.	0011a26	世間	对译	0171a16	世間	
 U46-479	S0935	tathā hi	tathā hi	ind.	0011a26	由	语法	0171a17	云何知	
-U46-481	S0935	utpanne	ut-pad	ptc. nt. sg. loc.	0011a26	生	对译	0171a17	生	
+U46-481	S0935	utpanne	utpanna	ptc. nt. sg. loc. (√ut-pad)	0011a26	生	对译	0171a17	生	
 U46-482	S0935	utpanne	loc. abs.	gram. loc. abs. (-e)	0011a26	時	语法	0171a17	時	第七格独立句译"…時"
 U46-483	S0935	rūpaṃ	rūpa	n. nt. sg. nom.	0011a26	色	对译	0171a17	色	
-U46-484	S0935	dṛṣṭam	dṛś	ptc. nt. sg. nom.	0011a26	見	对译	0171a17	所見	被动分词转作主动"能見"，"能"为增字
+U46-484	S0935	dṛṣṭam	dṛṣṭa	ptc. nt. sg. nom. (√dṛś)	0011a26	見	对译	0171a17	所見	被动分词转作主动"能見"，"能"为增字
 U46-485	S0935	ucyate	vac	v. pres. pass. 3sg.	0011a26	說	对译	0171a17	說	
-U46-486	S0935	vijñātam	vi-jñā	ptc. nt. sg. nom.	0011a27	識	对译	0171a17	所識	
+U46-486	S0935	vijñātam	vijñāta	ptc. nt. sg. nom. (√vi-jñā)	0011a27	識	对译	0171a17	所識	
 U46-487	S0936	vibhāṣāyām	vibhāṣā	n. f. sg. loc.	0011a27	毘婆沙	音译	0171a18	毘婆沙	
-U46-489	S0936	uktaṃ	vac	ptc. nt. sg. nom.	0011a27	說	对译	0171a18	說	"作是"为增字
+U46-489	S0936	uktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0011a27	說	对译	0171a18	說	"作是"为增字
 U46-599	S0936	cakṣuḥ saṃpraptaṃ	cakṣus-saṃprāpta	cpd. nt. sg. nom.	0011a27	眼所得	对译	0171a18	眼所至	补整词记录；GRETIL 分写 cakṣuḥ saṃpraptaṃ，当读 cakṣuḥsaṃprāptaṃ，与下 cakṣurvijñānānubhūtaṃ 并列
 U46-490	S0936	cakṣuḥ	cakṣus	n. 成分	0011a27	眼	对译	0171a18	眼	"若"为增字
 U46-491	S0936	saṃpraptaṃ	saṃprāpta	ptc. nt. sg. nom.	0011a28	所得	对译	0171a18	所至	GRETIL 本作 saṃpraptaṃ
@@ -480,7 +480,7 @@ U46-493	S0936	cakṣurvijñānā	cakṣus-vijñāna	cpd. 成分	0011a28	眼識	�
 U46-648	S0936	cakṣur	cakṣus	n. 成分	0011a28	眼	对译	0171a18	眼	补成分记录
 U46-649	S0936	vijñānā	vijñāna	n. 成分	0011a28	識	对译	0171a18	識	补成分记录
 U46-494	S0936	ānubhūtaṃ	anubhūta	ptc. nt. sg. nom.	0011a28	所受	对译	0171a18	所受	
-U46-495	S0936	dṛṣṭam	dṛś	ptc. nt. sg. nom.	0011a28	所見	对译	0171a19	所見	
+U46-495	S0936	dṛṣṭam	dṛṣṭa	ptc. nt. sg. nom. (√dṛś)	0011a28	所見	对译	0171a19	所見	
 U46-496	S0936	ucyata	vac	v. pres. pass. 3sg.	0011a28	說名	对译	0171a19	說	
 U46-498	S0937	tasmāccakṣuḥ	cakṣus	n. nt. sg. nom.	0011a28	眼	对译	0171a19	眼	
 U46-499	S0937	tasmāccakṣuḥ paśyatīty	dṛś	v. pres. 3sg.	0011a29	見	对译	0171a19	見	"能"为增字
@@ -534,7 +534,7 @@ U46-551	S0943	nātrā	atra	ind.	0011b05	於中	语法	0171a24	於中
 U46-552	S0943	ābhiniveṣṭavyam	abhi-ni-viś	gdv. nt. sg. nom.	0011b05	封著	对译	0171a24	執著	
 U46-554	S0943				0011b05	智者	增译			
 U46-555	S0944	uktaṃ hi	hi	ind.	0011b05	如	语法			"如世尊說"
-U46-556	S0944	uktaṃ	vac	ptc. nt. sg. nom.	0011b05	說	对译	0171a24	說	
+U46-556	S0944	uktaṃ	ukta	ptc. nt. sg. nom. (√vac)	0011b05	說	对译	0171a24	說	
 U46-557	S0944	bhagavatā	bhagavat	n. m. sg. instr.	0011b05	世尊	对译	0171a24	世尊	
 U46-558	S0944	janapadaniruktiṃ	janapada-nirukti	cpd. f. sg. acc.	0011b05	方域言詞	对译	0171a25	方言	
 U46-559	S0944	janapada	janapada	n. 成分	0011b05	方域	对译	0171a25	方	

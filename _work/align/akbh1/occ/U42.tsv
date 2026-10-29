@@ -27,18 +27,18 @@ U42-018	S0778	krameṇa	krama	n. m. sg. instr.	0009c01	漸	对译	0169b28	次第
 U42-019	S0778	cakṣurindriyaṃ	cakṣus-indriya	cpd. nt. sg. acc.	0009c01	眼根	对译	0169b28	眼根	
 U42-136	S0778	cakṣur	cakṣus	n. 成分	0009c01	眼	对译	0169b28	眼	补成分记录
 U42-137	S0778	indriyaṃ	indriya	n. nt. sg. acc.	0009c01	根	对译	0169b28	根	补成分记录
-U42-020	S0778	pratilabhamānaḥ	prati-labh	ptc. pres. m. sg. nom.	0009c01	得	对译	0169b28	至得	
+U42-020	S0778	pratilabhamānaḥ	pratilabhamāna	ptc. pres. m. sg. nom. (√prati-labh)	0009c01	得	对译	0169b28	至得	
 U42-021	S0779	ārupyadhātucyutaś	ārūpya-dhātu-cyuta	cpd. m. sg. nom.	0009c01	無色沒	对译	0169b28	從無色界墮	GRETIL 作 ārupya-，当读 ārūpya-
 U42-022	S0779	ārupyadhātu	ārūpya-dhātu	cpd. 成分	0009c01	無色	对译	0169b28	無色界	"界"未译
 U42-138	S0779	ārupya	ārūpya	n. 成分	0009c01	無色	对译	0169b28	無色	补成分记录；GRETIL 作 ārupya-，当读 ārūpya-
 U42-139	S0779	dhātu	dhātu	n. 成分			省译	0169b28	界	补成分记录；"界"未译
-U42-023	S0779	cyutaś	cyu	ptc. m. sg. nom. (cyuta)	0009c02	沒	对译	0169b28	墮	
+U42-023	S0779	cyutaś	cyuta	ptc. m. sg. nom. (√cyu)	0009c02	沒	对译	0169b28	墮	
 U42-024	S0779	dvitīyādiṣu	dvitīya-ādi	cpd. nt. pl. loc.	0009c02	二三四	意译	0169b29	第二…等	ādi 展开为"三四"
 U42-025	S0779	dvitīyā	dvitīya	num. 成分 (ord.)	0009c02	二	对译	0169b29	第二	
 U42-026	S0779	ādiṣu	ādi	n. nt. pl. loc.	0009c02	三四	意译	0169b29	等	
 U42-027	S0779	dhyāneṣū	dhyāna	n. nt. pl. loc.	0009c02	靜慮	对译	0169b29	定	
 U42-028	S0779				0009c02	地	增译			"靜慮地"补"地"；下文"下地"同
-U42-029	S0779	ūpapadyamānaḥ	upa-pad	ptc. pres. m. sg. nom.	0009c02	生	对译	0169b29	生	
+U42-029	S0779	ūpapadyamānaḥ	upapadyamāna	ptc. pres. m. sg. nom. (√upa-pad)	0009c02	生	对译	0169b29	生	
 U42-030	S0779	ūpapadyamānaḥ	pres. ptc.	gram. pres. ptc. (-māna)	0009c02	時	语法			现在分词表同时，译"時"
 U42-031	S0780	syāc	as	v. opt. 3sg.	0009c02	或有	意译	0169b29	有	
 U42-032	S0780	cakṣurvijñānadhātunā	cakṣus-vijñāna-dhātu	cpd. m. sg. instr.	0009c02	眼識	对译	0169b29	眼識	
@@ -54,16 +54,16 @@ U42-036	S0781	dvitīyādi	dvitīya-ādi	cpd. 成分	0009c03	二三四	意译	016
 U42-145	S0781	dvitīyā	dvitīya	num. 成分 (ord.)	0009c03	二	对译	0169c01	第二	补成分记录
 U42-146	S0781	ādi	ādi	n. 成分	0009c03	三四	意译			补成分记录；ādi 展开为"三四"
 U42-037	S0781	dhyāno	dhyāna	n. 成分	0009c03	靜慮	对译	0169c01	定	
-U42-038	S0781	opapannaś	upa-pad	ptc. m. sg. nom. (upapanna)	0009c03	生	对译	0169c01	生	真谛作"已生"
+U42-038	S0781	opapannaś	upapanna	ptc. m. sg. nom. (√upa-pad)	0009c03	生	对译	0169c01	生	真谛作"已生"
 U42-039	S0781	cakṣurvijñāna	cakṣus-vijñāna	cpd. nt. sg. acc.	0009c04	眼識	对译	0169c01	眼識	GRETIL 作 cakṣurvijñāna saṃmukhī-，当读 cakṣurvijñānaṃ
 U42-147	S0781	cakṣur	cakṣus	n. 成分	0009c04	眼	对译	0169c01	眼	补成分记录
 U42-148	S0781	vijñāna	vijñāna	n. nt. sg. acc.	0009c04	識	对译	0169c01	識	补成分记录；GRETIL 作 vijñāna，当读 vijñānaṃ
-U42-040	S0781	saṃmukhīkurvāṇas	saṃmukhī-kṛ	ptc. pres. m. sg. nom.	0009c04	現起	对译	0169c01	引…現前	
+U42-040	S0781	saṃmukhīkurvāṇas	saṃmukhīkurvāṇa	ptc. pres. m. sg. nom. (√saṃmukhī-kṛ)	0009c04	現起	对译	0169c01	引…現前	
 U42-041	S0781	tatpracyutaś	tad-pracyuta	cpd. m. sg. nom.	0009c04	從彼沒	对译	0169c01	從彼退	
 U42-042	S0781	tat	tad	pron. 成分	0009c04	從彼	语法	0169c01	從彼	复合词中的 tad，"從"表第五格义
-U42-043	S0781	pracyutaś	pra-cyu	ptc. m. sg. nom. (pracyuta)	0009c04	沒	对译	0169c02	退	
+U42-043	S0781	pracyutaś	pracyuta	ptc. m. sg. nom. (√pra-cyu)	0009c04	沒	对译	0169c02	退	
 U42-044	S0781	ādhastād	adhastāt	ind.	0009c04	下	对译	0169c02	下界	"地"为增字
-U42-045	S0781	upapadyamānaḥ	upa-pad	ptc. pres. m. sg. nom.	0009c04	生	对译	0169c02	生	
+U42-045	S0781	upapadyamānaḥ	upapadyamāna	ptc. pres. m. sg. nom. (√upa-pad)	0009c04	生	对译	0169c02	生	
 U42-047	S0782	sahā	saha	ind.	0009c04	俱	对译	0169c02	俱	
 U42-048	S0782				0009c04	得	增译	0169c02	得	引颂文"俱得"
 U42-049	S0782	ubhayena	ubhaya	pron. m. sg. instr.	0009c05	二界	意译	0169c02	眼界眼識界	ubhaya（两者）还原为"二界"
@@ -73,14 +73,14 @@ U42-052	S0782	pratilabhate	prati-labh	v. pres. 3sg.	0009c05	得	对译
 U42-053	S0783	ārūpyadhātucyutaḥ	ārūpya-dhātu-cyuta	cpd. m. sg. nom.	0009c05	無色沒	对译	0169c03	從無色界墮	
 U42-149	S0783	ārūpya	ārūpya	n. 成分	0009c05	無色	对译	0169c03	無色	补成分记录
 U42-150	S0783	dhātu	dhātu	n. 成分			省译	0169c03	界	补成分记录；"界"未译
-U42-151	S0783	cyutaḥ	cyu	ptc. m. sg. nom. (cyuta)	0009c05	沒	对译	0169c03	墮	补成分记录
+U42-151	S0783	cyutaḥ	cyuta	ptc. m. sg. nom. (√cyu)	0009c05	沒	对译	0169c03	墮	补成分记录
 U42-054	S0783	kāmadhātau	kāma-dhātu	cpd. m. sg. loc.	0009c06	欲界	对译	0169c03	欲界	
 U42-152	S0783	kāma	kāma	n. 成分	0009c06	欲	对译	0169c03	欲	补成分记录
 U42-153	S0783	dhātau	dhātu	n. m. sg. loc.	0009c06	界	对译	0169c03	界	补成分记录
 U42-056	S0783	brahmaloke	brahma-loka	cpd. m. sg. loc.	0009c06	梵世	对译	0169c04	初定	真谛作"初定"
 U42-154	S0783	brahma	brahman	n. 成分	0009c06	梵	对译			补成分记录；真谛整词作"初定"
 U42-155	S0783	loke	loka	n. m. sg. loc.	0009c06	世	对译			补成分记录
-U42-057	S0783	opapadyamānaḥ	upa-pad	ptc. pres. m. sg. nom.	0009c06	生	对译	0169c03	生	
+U42-057	S0783	opapadyamānaḥ	upapadyamāna	ptc. pres. m. sg. nom. (√upa-pad)	0009c06	生	对译	0169c03	生	
 U42-058	S0783				0009c06	非者	增译			引颂文"非"
 U42-059	S0783	nobhayena	ubhaya	pron. m. sg. instr.	0009c06	俱	意译	0169c04	俱	"俱非"
 U42-061	S0784	ākārān	ākāra	n. m. pl. acc.	0009c06	相	对译	0169c04	三句	真谛作"三句"
@@ -105,18 +105,18 @@ U42-072	S0785	dvitīyādiṣu	dvitīya-ādi	cpd. nt. pl. loc.	0009c08	二三四	
 U42-163	S0785	dvitīyā	dvitīya	num. 成分 (ord.)	0009c08	二	对译	0169c06	第二	补成分记录
 U42-164	S0785	ādiṣu	ādi	n. nt. pl. loc.	0009c08	三四	意译	0169c06	等	补成分记录；ādi 展开为"三四"
 U42-073	S0785	dhyāneṣū	dhyāna	n. nt. pl. loc.	0009c08	靜慮	对译	0169c06	定	
-U42-074	S0785	ūpapannaś	upa-pad	ptc. m. sg. nom. (upapanna)	0009c08	生	对译	0169c06	受生	
+U42-074	S0785	ūpapannaś	upapanna	ptc. m. sg. nom. (√upa-pad)	0009c08	生	对译	0169c06	受生	
 U42-075	S0785	cakṣurvijñānā	cakṣus-vijñāna	cpd. nt. sg. acc. (?)	0009c08	眼識	对译	0169c06	眼識	
 U42-165	S0785	cakṣur	cakṣus	n. 成分	0009c08	眼	对译	0169c06	眼	补成分记录
 U42-166	S0785	vijñānā	vijñāna	n. nt. sg. acc. (?)	0009c08	識	对译	0169c06	識	补成分记录
-U42-076	S0785	āsaṃmukhīkurvāṇaḥ	a-saṃmukhī-kṛ	ptc. pres. m. sg. nom.	0009c08	不起	对译	0169c06	不引…現前	
+U42-076	S0785	āsaṃmukhīkurvāṇaḥ	a-saṃmukhīkurvāṇa	ptc. pres. m. sg. nom. (√a-saṃmukhī-kṛ)	0009c08	不起	对译	0169c06	不引…現前	
 U42-077	S0786	dvitīyā	dvitīya	num. f. sg. nom. (ord.)	0009c08	第二	对译	0169c07	第二	
 U42-078	S0786	kāmadhātāv	kāma-dhātu	cpd. m. sg. loc.	0009c09	欲界	对译	0169c07	欲界	"生"为增字
 U42-167	S0786	kāma	kāma	n. 成分	0009c09	欲	对译	0169c07	欲	补成分记录
 U42-168	S0786	dhātāv	dhātu	n. m. sg. loc.	0009c09	界	对译	0169c07	界	补成分记录
 U42-079	S0786	alabdhavihīna cakṣuḥ	alabdha-vihīna-cakṣus	cpd. m. sg. nom. (bahuvrīhi)	0009c09	未得眼根及得已失	意译	0169c07	未得眼根…失	GRETIL 分写 alabdhavihīna cakṣuḥ；dvandva 成分以"及"连接
 U42-080	S0786	alabdha	a-labdha	ptc. adj. 成分	0009c09	未得	对译	0169c07	未得	
-U42-081	S0786	vihīna	vi-hā	ptc. 成分 (vihīna)	0009c09	失	对译	0169c08	失	
+U42-081	S0786	vihīna	vihīna	ptc. 成分 (√vi-hā)	0009c09	失	对译	0169c08	失	
 U42-083	S0786				0009c09	得	增译			"得已失"之"得"
 U42-084	S0786	cakṣuḥ	cakṣus	n. m. sg. nom.	0009c09	眼	对译	0169c07	眼根	"根"为增字
 U42-084+1	S0786				0009c09	根	增译			合并时从 U42-084（眼根）拆出
@@ -125,21 +125,21 @@ U42-086	S0787	kāmadhātau	kāma-dhātu	cpd. m. sg. loc.	0009c10	欲界	对译	0
 U42-169	S0787	kāma	kāma	n. 成分	0009c10	欲	对译	0169c08	欲	补成分记录
 U42-170	S0787	dhātau	dhātu	n. m. sg. loc.	0009c10	界	对译	0169c08	界	补成分记录
 U42-087	S0787	labdhāvihīnacakṣuḥ	labdha-avihīna-cakṣus	cpd. m. sg. nom. (bahuvrīhi)	0009c10	得眼不失	对译	0169c08	已得眼根…不失	
-U42-088	S0787	labdhā	labh	ptc. 成分 (labdha)	0009c10	得	对译	0169c08	得	
+U42-088	S0787	labdhā	labdha	ptc. 成分 (√labh)	0009c10	得	对译	0169c08	得	
 U42-089	S0787	āvihīna	a-vihīna	ptc. adj. 成分	0009c10	不失	对译	0169c09	不失	
 U42-090	S0787	cakṣuḥ	cakṣus	n. m. sg. nom.	0009c10	眼	对译	0169c08	眼根	
 U42-091	S0787	prathamadhyānopapanno	prathama-dhyāna-upapanna	cpd. m. sg. nom.	0009c10	生梵世	意译	0169c09	生初定	
 U42-092	S0787	prathamadhyāno	prathama-dhyāna	cpd. 成分	0009c10	梵世	意译	0169c09	初定	初静虑玄奘作"梵世"
-U42-171	S0787	prathama	prathama	adj. 成分	0009c10	梵世	合译	0169c09	初	补成分记录；与 dhyāna 合为"梵世"（初静虑）
-U42-172	S0787	dhyāno	dhyāna	n. 成分	0009c10	梵世	合译	0169c09	定	补成分记录；与 prathama 合为"梵世"
-U42-093	S0787	opapanno	upa-pad	ptc. m. sg. nom. (upapanna)	0009c10	生	对译	0169c09	生	
+U42-171	S0787	prathama	prathama	adj. 成分			省译	0169c09	初	补成分记录；与 dhyāna 合为"梵世"（初静虑）；玄奘以"梵世"概括，此成分不单译，记省译（原作合译）
+U42-172	S0787	dhyāno	dhyāna	n. 成分			省译	0169c09	定	补成分记录；与 prathama 合为"梵世"；玄奘以"梵世"概括，此成分不单译，记省译（原作合译）
+U42-093	S0787	opapanno	upapanna	ptc. m. sg. nom. (√upa-pad)	0009c10	生	对译	0169c09	生	
 U42-094	S0787	dvitīyādidhyānopapannaś	dvitīya-ādi-dhyāna-upapanna	cpd. m. sg. nom.	0009c11	生二三四靜慮	意译	0169c09	二定等	
 U42-173	S0787	dvitīyā	dvitīya	num. 成分 (ord.)	0009c11	二	对译	0169c09	二	补成分记录
 U42-174	S0787	ādi	ādi	n. 成分	0009c11	三四	意译	0169c09	等	补成分记录；ādi 展开为"三四"
 U42-175	S0787	dhyāno	dhyāna	n. 成分	0009c11	靜慮	对译	0169c09	定	补成分记录
-U42-176	S0787	opapannaś	upa-pad	ptc. m. sg. nom. (upapanna)	0009c11	生	对译			补成分记录
+U42-176	S0787	opapannaś	upapanna	ptc. m. sg. nom. (√upa-pad)	0009c11	生	对译			补成分记录
 U42-095	S0787	śca paśyan	ca	ind.	0009c10	及…若	语法	0169c09	或	列举三项，玄奘以"及""若"连接
-U42-096	S0787	paśyan	dṛś	ptc. pres. m. sg. nom.	0009c11	見	对译	0169c09	見	
+U42-096	S0787	paśyan	paśyat	ptc. pres. m. sg. nom. (√dṛś)	0009c11	見	对译	0169c09	見	
 U42-097	S0787	paśyan	pres. ptc.	gram. pres. ptc. (-ant)	0009c11	正…時	语法	0169c09	正	现在分词表正在进行，译"正…時"
 U42-098	S0787				0009c11	色	增译	0169c09	色	补出宾语
 U42-099	S0788	catuṛthy	caturtha	num. f. sg. nom. (ord.)	0009c11	第四	对译	0169c09	第四	GRETIL 作 catuṛthī，当读 caturthī

@@ -111,12 +111,12 @@ U45-081	S0869	avyākṛtaṃ	a-vyākṛta	ptc. adj. nt. sg. nom.	0010b25	無記	
 U45-082	S0869				0010b25	性攝	增译			
 U45-083	S0870	samucchinnakuśalamūlavītarāgāṇām	samucchinna-kuśalamūla-vītarāga	cpd. m. pl. gen. (dvandva)	0010b26	已離欲者斷善根者	对译	0170b20	斷善根凡夫及離欲人	玄奘倒序
 U45-084	S0870	samucchinnakuśalamūla	samucchinna-kuśala-mūla	cpd. 成分	0010b26	斷善根	对译	0170b20	斷善根	
-U45-085	S0870	samucchinna	sam-ud-chid	ptc. 成分 (samucchinna)	0010b26	斷	对译	0170b20	斷	
+U45-085	S0870	samucchinna	samucchinna	ptc. 成分 (√sam-ud-chid)	0010b26	斷	对译	0170b20	斷	
 U45-086	S0870	kuśalamūla	kuśala-mūla	cpd. 成分	0010b26	善根	对译	0170b20	善根	
 U45-160	S0870	kuśala	kuśala	adj. 成分	0010b26	善	对译	0170b20	善	补成分记录
 U45-161	S0870	mūla	mūla	n. 成分	0010b26	根	对译	0170b21	根	补成分记录
 U45-087	S0870	vītarāgāṇām	vīta-rāga	cpd. m. pl. gen.	0010b26	離欲	对译	0170b21	離欲	
-U45-162	S0870	vīta	vi-i	ptc. 成分 (vīta)	0010b26	離	对译	0170b21	離	补成分记录
+U45-162	S0870	vīta	vīta	ptc. 成分 (√vi-i)	0010b26	離	对译	0170b21	離	补成分记录
 U45-163	S0870	rāgāṇām	rāga	n. m. pl. gen.	0010b26	欲	对译	0170b21	欲	补成分记录
 U45-088	S0870	vītarāgāṇāmapi	api	ind.	0010b26	猶	语法			api（即使…亦）译"猶"
 U45-089	S0870	tatsamanvāmat	tad-samanvāgama	cpd. m. sg. abl.	0010b26	成就	对译	0170b21	與此相應	GRETIL 作 tatsamanvāmat，当读 tatsamanvāgamāt；第五格译"故"
@@ -153,7 +153,7 @@ U45-109	S0874	ucyate	vac	v. pres. pass. 3sg.	0010b27	謂	对译	0170b24	謂
 U45-110	S0874	mana	manas	n. nt. sg. nom.	0010b27	意	对译	0170b24	意	
 U45-111	S0874	āyatanam	āyatana	n. nt. sg. nom.	0010b27	處	对译	0170b24	入	
 U45-112	S0875	anyatra	anyatra	ind.	0010b27	異	意译	0170b24	離	tasmād anyatra（除此以外）译"異此"
-U45-113	S0875	jātam	jan	ptc. nt. sg. nom. (jāta)	0010b28	生	对译	0170b24	生	"而"为增字
+U45-113	S0875	jātam	jāta	ptc. nt. sg. nom. (√jan)	0010b28	生	对译	0170b24	生	"而"为增字
 U45-114	S0875	aṣaṣṭhajaṃ	a-ṣaṣṭha-ja	cpd. adj. nt. sg. nom.	0010b28	非六生	对译	0170b24	非六生	"名"为增字
 U45-176	S0875	aṣaṣṭha	a-ṣaṣṭha	num. 成分 (ord.)	0010b28	非六	对译	0170b24	非六	补成分记录
 U45-177	S0875	jaṃ	ja	adj. nt. sg. nom. (√jan)	0010b28	生	对译	0170b24	生	补成分记录
