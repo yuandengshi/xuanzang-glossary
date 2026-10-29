@@ -1,6 +1,6 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
 U52-005	S1054	tvāddhi	hi	ind.			省译			
-U52-007	S1054	tairnirucyate	tad	pron. pl. instr.	0012b26	根	意译	0172a28	根	代词还原为所指"根"
+U52-007	S1054	tairnirucyate	tad	pron. m. pl. instr.	0012b26	根	意译	0172a28	根	代词还原为所指"根"
 U52-008	S1054	tairnirucyate	instr.	gram. instr. (-aiḥ)	0012b26	隨	语法	0172a28	約	第三格（以…为名）译"隨"
 U52-011	S1054	tairnirucyate	instr.	gram. instr. (-aiḥ)	0012b27	隨	语法			长行复述本颂
 U52-017	S1055	na hi	hi	ind.	0012b28	謂	语法			解释性的 hi 译"謂"
@@ -12,9 +12,9 @@ U52-043	S1058	asādhāraṇatvācca	ca	ind.	0012c01	及	对译	0172b01	及
 U52-046	S1058	tenaiva	instr.	gram. instr. (-ena)	0012c02	隨	语法	0172b02	約	第三格译"隨"（隨根非境）
 U52-048	S1059	yathā	yathā	ind.	0012c02	如	语法	0172b02	譬如	举例
 U52-058	S1060	atha	atha	ind.			省译			
-U52-066	S1060	kiṃ tāni	kim	pron. sg. acc.	0012c03	為	语法	0172b03	為是	选择疑问 kiṃ … āhosvid …，玄奘作"為…不"
+U52-066	S1060	kiṃ tāni	kim	pron. nt. sg. acc.	0012c03	為	语法	0172b03	為是	选择疑问 kiṃ … āhosvid …，玄奘作"為…不"
 U52-106	S1064	cakṣuṣā	instr.	gram. instr. (-ā)	0012c07	以	语法	0172b07	由	
 U52-133	S1066	evaṃ	evam	ind.	0012c10	如是	语法	0172b11	如此	
 U52-147	S1066	yojayitavyam	gdv.	gram. gdv. (-tavya)	0012c11	應	语法	0172b12	應	
 U52-188	S1071	yojyam	gdv.	gram. gdv. (-ya)	0012c17	應	语法	0172b18	應	
-U52-202	S1073	ayaṃ	idam	pron. sg. nom.	0012c20	此	语法	0172b19	此	
+U52-202	S1073	ayaṃ	idam	pron. m. sg. nom.	0012c20	此	语法	0172b19	此	

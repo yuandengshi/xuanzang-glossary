@@ -1,102 +1,102 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
-U11-001	S0206	vikṣiptācittakasyāpi	vikṣipta-acittaka	cpd. sg. gen.	0003a16	亂心無心	对译	0163c06	亂心無心	
+U11-001	S0206	vikṣiptācittakasyāpi	vikṣipta-acittaka	cpd. m. sg. gen.	0003a16	亂心無心	对译	0163c06	亂心無心	
 U11-002	S0206	vikṣiptā	vi-kṣip	ptc. 成分	0003a16	亂心	意译	0163c06	亂心	颂中 vikṣipta 即 vikṣiptacittaka（亂心者），见长行
 U11-003	S0206	ācittakasyā	a-cittaka	adj. 成分	0003a16	無心	对译	0163c06	無心	
 U11-004	S0206	kasyāpi	api	ind.	0003a16	等	意译	0163c06	耶	长行释"等"即 api（S0209）
-U11-005	S0206	'nubaṇdhaḥ	anubandha	n. sg. nom.	0003a16	隨流	对译	0163c06	隨流	GRETIL 本作 'nubaṇdhaḥ
-U11-006	S0206	śubhāśubhaḥ	śubha-aśubha	cpd. sg. nom.	0003a16	淨不淨	对译	0163c06	淨不淨	
+U11-005	S0206	'nubaṇdhaḥ	anubandha	n. m. sg. nom.	0003a16	隨流	对译	0163c06	隨流	GRETIL 本作 'nubaṇdhaḥ
+U11-006	S0206	śubhāśubhaḥ	śubha-aśubha	cpd. m. sg. nom.	0003a16	淨不淨	对译	0163c06	淨不淨	
 U11-007	S0206	śubhā	śubha	adj. 成分	0003a16	淨	对译	0163c06	淨	
-U11-008	S0206	āśubhaḥ	a-śubha	adj. sg. nom.	0003a16	不淨	对译	0163c06	不淨	
-U11-009	S0206	mahābhūtāny	mahā-bhūta	cpd. pl. acc.	0003a17	大種	对译	0163c07	四大	
+U11-008	S0206	āśubhaḥ	a-śubha	adj. m. sg. nom.	0003a16	不淨	对译	0163c06	不淨	
+U11-009	S0206	mahābhūtāny	mahā-bhūta	cpd. nt. pl. acc.	0003a17	大種	对译	0163c07	四大	
 U11-010	S0206	upādāya	upa-ā-dā	abs.	0003a17	所造	意译	0163c06	依止	upādāya 译"所造"
 U11-011	S0206				0003a17	性	增译			
-U11-013	S0206	avijñaptir	a-vijñapti	n. sg. nom.	0003a17	無表	对译	0163c07	無教色	
+U11-013	S0206	avijñaptir	a-vijñapti	n. f. sg. nom.	0003a17	無表	对译	0163c07	無教色	
 U11-014	S0206	ucyate	vac	v. pres. pass. 3sg.	0003a17	說	对译	0163c07	說	
-U11-015	S0207	vikṣiptacittakasyeti	vikṣipta-cittaka	cpd. sg. gen.	0003a18	亂心	对译	0163c07	亂心	
+U11-015	S0207	vikṣiptacittakasyeti	vikṣipta-cittaka	cpd. m. sg. gen.	0003a18	亂心	对译	0163c07	亂心	
 U11-016	S0207	vikṣipta	vi-kṣip	ptc. 成分	0003a18	亂	对译			
-U11-017	S0207	cittakasyeti	cittaka	n. sg. gen.	0003a18	心	对译	0163c07	心	
-U11-019	S0207	tadanyacittasyāpi	tad-anya-citta	cpd. sg. gen.	0003a18	此餘心	对译	0163c07	異緣	
+U11-017	S0207	cittakasyeti	cittaka	n. m. sg. gen.	0003a18	心	对译	0163c07	心	
+U11-019	S0207	tadanyacittasyāpi	tad-anya-citta	cpd. m. sg. gen.	0003a18	此餘心	对译	0163c07	異緣	
 U11-020	S0207	anya	anya	pron. 成分	0003a18	餘	对译			
-U11-021	S0207	cittasyāpi	citta	n. sg. gen.	0003a18	心	对译			
-U11-023	S0208	acittakasyā	a-cittaka	adj. sg. gen.	0003a18	無心	对译	0163c08	無心	
-U11-024	S0208	asaṃjñinirodhasamāpattisamāpannasyāpi	asaṃjñi-nirodha-samāpatti-samāpanna	cpd. sg. gen.	0003a18	入無想…滅盡定	意译	0163c07	入…無想定及滅心定	玄奘以"及"连接二定
+U11-021	S0207	cittasyāpi	citta	n. m. sg. gen.	0003a18	心	对译			
+U11-023	S0208	acittakasyā	a-cittaka	adj. m. sg. gen.	0003a18	無心	对译	0163c08	無心	
+U11-024	S0208	asaṃjñinirodhasamāpattisamāpannasyāpi	asaṃjñi-nirodha-samāpatti-samāpanna	cpd. m. sg. gen.	0003a18	入無想…滅盡定	意译	0163c07	入…無想定及滅心定	玄奘以"及"连接二定
 U11-025	S0208	asaṃjñi	a-saṃjñin	adj. 成分	0003a18	無想	对译	0163c08	無想	
 U11-026	S0208	nirodha	nirodha	n. 成分	0003a19	滅盡	意译	0163c08	滅心	
 U11-027	S0208	samāpatti	samāpatti	n. 成分	0003a19	定	对译	0163c08	定	
 U11-028	S0208	samāpannasyā	samāpanna	ptc. 成分	0003a18	入	对译	0163c07	入	
-U11-029	S0209	apiśabdenā	api-śabda	cpd. sg. instr.	0003a19	等，言	意译	0163c09	言耶	玄奘以颂中"等"字当 api
-U11-030	S0209	śabdenā	śabda	n. sg. instr.	0003a19	言	对译	0163c09	言	
-U11-031	S0209	āvikṣiptasacittasyā	a-vikṣipta-sa-citta	cpd. sg. gen.	0003a19	不亂有心	对译	0163c08	非亂心及有心	
+U11-029	S0209	apiśabdenā	api-śabda	cpd. m. sg. instr.	0003a19	等，言	意译	0163c09	言耶	玄奘以颂中"等"字当 api
+U11-030	S0209	śabdenā	śabda	n. m. sg. instr.	0003a19	言	对译	0163c09	言	
+U11-031	S0209	āvikṣiptasacittasyā	a-vikṣipta-sa-citta	cpd. m. sg. gen.	0003a19	不亂有心	对译	0163c08	非亂心及有心	
 U11-032	S0209	āvikṣipta	a-vikṣipta	ptc. 成分	0003a19	不亂	对译	0163c08	非亂心	
-U11-033	S0209	sacittasyā	sa-citta	adj. sg. gen.	0003a19	有心	对译	0163c08	有心	
+U11-033	S0209	sacittasyā	sa-citta	adj. m. sg. gen.	0003a19	有心	对译	0163c08	有心	
 U11-034	S0209	vijñāyate	vi-jñā	v. pres. pass. 3sg.	0003a19	顯示	意译	0163c08	顯	
-U11-035	S0210	'nu bandha	anubandha	n. sg. nom.	0003a20	隨流	对译	0163c09	隨流	GRETIL 本作 'nu bandha
+U11-035	S0210	'nu bandha	anubandha	n. m. sg. nom.	0003a20	隨流	对译	0163c09	隨流	GRETIL 本作 'nu bandha
 U11-036	S0210	bandha iti	iti	ind.	0003a20	說名	语法	0163c09	名	释词：X iti Y 译"Y 說名 X"
-U11-037	S0210	pravāhaḥ	pravāha	n. sg. nom.	0003a19	相似相續	意译	0163c09	似相續	pravāha（流）释作"相似相續"
-U11-038	S0210	śubhāśubha iti	śubha-aśubha	cpd. sg. nom.	0003a20	淨不淨	对译	0163c10	淨，惡名不淨	
-U11-040	S0210	kuśalākuśalaḥ	kuśala-akuśala	cpd. sg. nom.	0003a20	善…不善	对译	0163c09	善名…淨，惡	
+U11-037	S0210	pravāhaḥ	pravāha	n. m. sg. nom.	0003a19	相似相續	意译	0163c09	似相續	pravāha（流）释作"相似相續"
+U11-038	S0210	śubhāśubha iti	śubha-aśubha	cpd. m. sg. nom.	0003a20	淨不淨	对译	0163c10	淨，惡名不淨	
+U11-040	S0210	kuśalākuśalaḥ	kuśala-akuśala	cpd. m. sg. nom.	0003a20	善…不善	对译	0163c09	善名…淨，惡	
 U11-041	S0210	kuśalā	kuśala	adj. 成分	0003a20	善	对译	0163c09	善	
-U11-042	S0210	ākuśalaḥ	a-kuśala	adj. sg. nom.	0003a20	不善	对译	0163c10	惡	
-U11-043	S0211	kuśalākuśale	kuśala-akuśala	cpd. sg. loc.			省译			未译
-U11-044	S0211	prāptivāho	prāpti-vāha	cpd. sg. nom.	0003a21	得相似相續	意译	0163c10	至得相續	"相似"对 īdṛśa
+U11-042	S0210	ākuśalaḥ	a-kuśala	adj. m. sg. nom.	0003a20	不善	对译	0163c10	惡	
+U11-043	S0211	kuśalākuśale	kuśala-akuśala	cpd. nt. sg. loc. (?)			省译			未译
+U11-044	S0211	prāptivāho	prāpti-vāha	cpd. m. sg. nom.	0003a21	得相似相續	意译	0163c10	至得相續	"相似"对 īdṛśa
 U11-045	S0211	prāpti	prāpti	n. 成分	0003a21	得	对译	0163c10	得	
-U11-046	S0211	vāho	vāha	n. sg. nom.	0003a21	相續	意译	0163c10	相續	
+U11-046	S0211	vāho	vāha	n. m. sg. nom.	0003a21	相續	意译	0163c10	相續	
 U11-047	S0211				0003a21	諸	增译			
-U11-048	S0211	'pyastīdṛśa	īdṛśa	adj. sg. nom.	0003a21	相似	意译	0163c10	亦爾	
+U11-048	S0211	'pyastīdṛśa	īdṛśa	adj. m. sg. nom.	0003a21	相似	意译	0163c10	亦爾	
 U11-050	S0211	īdṛśa iti	iti	ind.	0003a21	是故	语法	0163c10	故	
 U11-051	S0211	tadviśeṣaṇārtham	tad-viśeṣaṇa-artham	cpd. ind.	0003a20	為簡	意译	0163c10	為簡此異彼	
 U11-052	S0211	viśeṣaṇā	viśeṣaṇa	n. 成分	0003a20	簡	对译	0163c10	簡	
 U11-053	S0211	ārtham	artham	ind.	0003a20	為	语法	0163c10	為	-artham 表目的，译"為"
 U11-054	S0211	mucyate	vac	v. pres. pass. 3sg.	0003a21	言	对译	0163c11	說	
 U11-055	S0211				0003a21	復	增译			
-U11-056	S0211	mahābhūtāny	mahā-bhūta	cpd. pl. acc.	0003a21	大種	对译	0163c11	四大	
+U11-056	S0211	mahābhūtāny	mahā-bhūta	cpd. nt. pl. acc.	0003a21	大種	对译	0163c11	四大	
 U11-057	S0211	upādāyeti	upa-ā-dā	abs.	0003a21	所造	意译	0163c11	依止於	
-U11-058	S0212	hetvartha	hetu-artha	cpd. sg. nom.	0003a22	因義	对译	0163c11	以因為義	
+U11-058	S0212	hetvartha	hetu-artha	cpd. m. sg. nom.	0003a22	因義	对译	0163c11	以因為義	
 U11-059	S0212	hetv	hetu	n. 成分	0003a22	因	对译	0163c11	因	
 U11-060	S0212	artha upādāyārtha	artha	n. 成分	0003a22	義	对译	0163c11	義	
-U11-061	S0212	upādāyārtha	upādāya-artha	cpd. sg. nom.	0003a22	造	意译	0163c11	依止	artha 与 hetvartha 共用"義"
-U11-062	S0212	vaibhāṣikāḥ	vaibhāṣika	n. pl. nom.	0003a21	毘婆沙	音译	0163c11	毘婆沙師	此处无"師"
-U11-063	S0212	jananādihetubhāvāt	janana-ādi-hetu-bhāva	cpd. sg. abl.	0003a22	作生等…因	意译	0163c12	生等…因	
+U11-061	S0212	upādāyārtha	upādāya-artha	cpd. m. sg. nom.	0003a22	造	意译	0163c11	依止	artha 与 hetvartha 共用"義"
+U11-062	S0212	vaibhāṣikāḥ	vaibhāṣika	n. m. pl. nom.	0003a21	毘婆沙	音译	0163c11	毘婆沙師	此处无"師"
+U11-063	S0212	jananādihetubhāvāt	janana-ādi-hetu-bhāva	cpd. m. sg. abl.	0003a22	作生等…因	意译	0163c12	生等…因	
 U11-064	S0212	jananā	janana	n. 成分	0003a22	生	对译	0163c12	生	
 U11-065	S0212	ādi	ādi	n. 成分	0003a22	等	对译	0163c12	等	
 U11-066	S0212	hetu	hetu	n. 成分	0003a22	因	对译	0163c12	因	
-U11-067	S0212	bhāvāt	bhāva	n. sg. abl.	0003a22	作	意译			"为因"之"为"译"作"
+U11-067	S0212	bhāvāt	bhāva	n. m. sg. abl.	0003a22	作	意译			"为因"之"为"译"作"
 U11-068	S0212				0003a22	五種	增译	0163c12	五	玄奘、真谛都补"五"
-U11-069	S0213	hiśabdas	hi-śabda	cpd. sg. nom.	0003a23	言由	意译	0163c12	言何	本颂以"由"译 hi，此释"由"字
-U11-070	S0213	tannāmakaraṇavijñāpanārthaḥ	tad-nāma-karaṇa-vijñāpana-artha	cpd. adj. sg. nom.	0003a22	顯立名因	意译	0163c12	顯立名因	"因"为玄奘、真谛据 hi 的因由义补出
+U11-069	S0213	hiśabdas	hi-śabda	cpd. m. sg. nom.	0003a23	言由	意译	0163c12	言何	本颂以"由"译 hi，此释"由"字
+U11-070	S0213	tannāmakaraṇavijñāpanārthaḥ	tad-nāma-karaṇa-vijñāpana-artha	cpd. adj. m. sg. nom.	0003a22	顯立名因	意译	0163c12	顯立名因	"因"为玄奘、真谛据 hi 的因由义补出
 U11-071	S0213	nāma	nāman	n. 成分	0003a22	名	对译	0163c12	名	
 U11-072	S0213	karaṇa	karaṇa	n. 成分	0003a22	立	意译	0163c12	立	
 U11-073	S0213	vijñāpanā	vijñāpana	n. 成分	0003a22	顯	对译	0163c12	顯	
 U11-074	S0214				0003a23	無表	增译	0163c13	此法	补出主语
-U11-075	S0214	rūpakriyāsvabhāvāpi	rūpa-kriyā-svabhāva	cpd. adj. sg. nom.	0003a23	以色業為性	对译	0163c13	以有色業為性	
+U11-075	S0214	rūpakriyāsvabhāvāpi	rūpa-kriyā-svabhāva	cpd. adj. f. sg. nom.	0003a23	以色業為性	对译	0163c13	以有色業為性	
 U11-076	S0214	rūpa	rūpa	n. 成分	0003a23	色	对译	0163c13	色	
 U11-077	S0214	kriyā	kriyā	n. 成分	0003a23	業	意译	0163c13	業	kriyā（作用）译"業"
-U11-078	S0214	svabhāvāpi	svabhāva	n. sg. nom.	0003a23	性	对译	0163c13	性	
+U11-078	S0214	svabhāvāpi	svabhāva	n. f. sg. nom.	0003a23	性	对译	0163c13	性	
 U11-079	S0214	svabhāvāpi satī	api	ind.	0003a23	雖	语法	0163c13	雖	api satī（虽是）译"雖"
 U11-080	S0214	satī	sat	ptc. f. sg. nom.			省译			api satī 只译"雖"
 U11-081	S0214	vijñaptivat	vijñapti	n. 成分	0003a23	有表	对译	0163c13	有教色	与"無表"相对，作"有表"
 U11-082	S0214				0003a24	業	增译			
-U11-083	S0214	paraṃ	para	pron. sg. acc.	0003a24	他	对译	0163c14	他	
+U11-083	S0214	paraṃ	para	pron. m. sg. acc.	0003a24	他	对译	0163c14	他	
 U11-084	S0214				0003a24	而	增译			
 U11-085	S0214	vijñāpayatī	vi-jñā (caus.)	v. pres. caus. 3sg.	0003a24	表示…了知	拆译	0163c14	知	vijñāpayati（使知）拆为"表示""了知"
-U11-087	S0214	avijñaptiḥ	a-vijñapti	n. sg. nom.	0003a24	無表	对译	0163c14	無教	"名"为增字
+U11-087	S0214	avijñaptiḥ	a-vijñapti	n. f. sg. nom.	0003a24	無表	对译	0163c14	無教	"名"为增字
 U11-088	S0215	ucyata	vac	v. pres. pass. 3sg.	0003a24	說	对译	0163c14	說	GRETIL 本此句前混入 Pradhan 页行标记（008 页 09 行），sid 的页行栏为空
-U11-089	S0215	ācāryavacanaṃ	ācārya-vacana	cpd. sg. acc.	0003a25	師宗言	意译	0163c14	餘師說	
+U11-089	S0215	ācāryavacanaṃ	ācārya-vacana	cpd. nt. sg. acc.	0003a25	師宗言	意译	0163c14	餘師說	
 U11-090	S0215	ācārya	ācārya	n. 成分	0003a25	師宗	意译	0163c14	餘師	ācārya 此指论主一系之说，译"師宗"
-U11-091	S0215	vacanaṃ	vacana	n. sg. acc.	0003a25	言	对译	0163c14	說	
+U11-091	S0215	vacanaṃ	vacana	n. nt. sg. acc.	0003a25	言	对译	0163c14	說	
 U11-092	S0215	darśayati	dṛś (caus.)	v. pres. caus. 3sg.	0003a25	顯	对译	0163c14	顯	
 U11-093	S0215				0003a25	此是	增译	0163c14	是	
 U11-094	S0216	samāsatastu	samāsatas	ind.	0003a25	略說	意译	0163c14	略說	samāsataḥ（总略而言）译"略說"
-U11-095	S0216	vijñaptisamādhisaṃbhūtaṃ	vijñapti-samādhi-saṃbhūta	cpd. adj. sg. nom.	0003a25	表…定所生	对译	0163c15	有教色，三摩提所生	"業""及"为增字
+U11-095	S0216	vijñaptisamādhisaṃbhūtaṃ	vijñapti-samādhi-saṃbhūta	cpd. adj. nt. sg. nom.	0003a25	表…定所生	对译	0163c15	有教色，三摩提所生	"業""及"为增字
 U11-096	S0216	vijñapti	vijñapti	n. 成分	0003a25	表	对译	0163c15	有教	
 U11-097	S0216	samādhi	samādhi	n. 成分	0003a25	定	对译	0163c15	三摩提	真谛音译
-U11-098	S0216	saṃbhūtaṃ	saṃ-bhū	ptc. sg. nom.	0003a25	生	对译	0163c15	生	
-U11-099	S0216	kuśalākuśalaṃ	kuśala-akuśala	cpd. sg. nom.	0003a25	善不善	对译	0163c15	善惡	
-U11-100	S0216	rūpam	rūpa	n. sg. nom.	0003a26	色	对译	0163c15	色	
-U11-101	S0216	avijñaptiḥ	a-vijñapti	n. sg. nom.	0003a26	無表	对译	0163c15	無教	"名為"为增字
+U11-098	S0216	saṃbhūtaṃ	saṃ-bhū	ptc. nt. sg. nom.	0003a25	生	对译	0163c15	生	
+U11-099	S0216	kuśalākuśalaṃ	kuśala-akuśala	cpd. nt. sg. nom.	0003a25	善不善	对译	0163c15	善惡	
+U11-100	S0216	rūpam	rūpa	n. nt. sg. nom.	0003a26	色	对译	0163c15	色	
+U11-101	S0216	avijñaptiḥ	a-vijñapti	n. f. sg. nom.	0003a26	無表	对译	0163c15	無教	"名為"为增字
 U11-102	S0217				0003a26	無表	增译			补出主语
-U11-103	S0217	mahābhūtāny	mahā-bhūta	cpd. pl. acc.	0003a26	大種	对译	0163c16	四大	
+U11-103	S0217	mahābhūtāny	mahā-bhūta	cpd. nt. pl. acc.	0003a26	大種	对译	0163c16	四大	
 U11-104	S0217	upādāyetyuktāni	upa-ā-dā	abs.	0003a26	所造	意译	0163c16	依止	
-U11-105	S0217	uktāni	vac	ptc. pl. nom.	0003a26	言	对译	0163c15	說	
+U11-105	S0217	uktāni	vac	ptc. nt. pl. nom.	0003a26	言	对译	0163c15	說	
 U11-106	S0217	uktāni	ppp.	gram. ppp. (-ta)	0003a26	既	语法	0163c15	前	过去被动分词表已然，译"既"
-U11-108	S0217	bhūtāni	bhūta	n. pl. nom.	0003a26	大種	意译	0163c16	四大	
+U11-108	S0217	bhūtāni	bhūta	n. nt. pl. nom.	0003a26	大種	意译	0163c16	四大	

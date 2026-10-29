@@ -139,3 +139,66 @@
 - 改词类：无。
 - 自定做法：复合词成分（含原带格的末成分）一律标成分（同 A、E）；-tva/-tā/-vat 前词干标成分；X-vat 整词 cpd. ind.；aikadhyam 标 n. acc. sg. (adv.)；saṃkhyāṃ gam 标 v. … (idiom)；kiṃ kāraṇam 标 pron. + n. nom. sg.；U15-148 pron. nom. 1sg. → pron. nom. sg.。改正：U19-052 → n. 成分；U22-228 → n. 成分；U24-070 → v. fut. caus. 1pl.。
 - 数据问题：U15-137/139 lemma parihāṇa 疑当作 prahāṇa（玄奘"斷"）；U24-069 lemma "tredho" 当作 tredhā，U24-070 skt "papādayiṣyāmaḥ" 为残片；U14-066 GRETIL vaktavyaḥ 疑当作 vaktavyāḥ；U22-226~228 aṣṭādaśdharmāṇāṃ 讹，疑为两词；缺整词记录：U22-340/341（āyadvāra bhāvāt 多一空格）、U18-017/018（pañcāśrayāḥ）；U21-022/027/029 长复合词分成两条重叠的 cpd 记录；U24-016 lemma "ni-veśaya (caus. viś)" 写法不规范。
+
+# 补标性（2026-10-29，用户要求"按词类、性、数、格的顺序标"）
+
+合并前我先做的：已有标注的格数次序改为数、格（4,565 条，morph.canon）；复合词末成分统一照整个复合词标（209 条由"成分"改出，lint 查末成分与复合词的性数格一致）；pañca → pañcan。之后七组分单位补标性。
+
+## D2：U31–U36
+
+- 650 条（U31 82、U32 72、U33 207、U34 167、U35 26、U36 96），拒绝 0、找不到 0；无形态/末成分 ERROR。
+- (?)：U31-187 与末成分 U31-192 -ādiṣu 标 nt. pl. loc. (?)（阳中同形，所列门窗口多中性）；U33-048 parasya、U33-157 yasya、U33-159 tasya、U33-265 paraiḥ 标 m. (?)（泛指"法""他"）；U33-324 anāsrave m. (?)（暗含 dharma）；U34-142 eṣām、U34-144 trayāṇām m. (?)（rūpa nt.、śabda m.、spraṣṭavya nt. 混合）。
+- 次序改正：U32-010、U33-174（ptc. pres. 格在数前；canon 把含 pres. 的分词当动词处理，漏排）。
+- 同一名词不同性（都合规则）：ādi（有情列举 m.；-ādīni nt.）；ālambana U34-401 m.、indriya U34-319 m.、vasti-guhya U34-282 m.（多财释末成分）。
+- 数据问题：U33-366 skt śabdadhātū、lemma śabda，被当成 rūpaśabdadhātū 的末成分，实为非末成分（共用的 dhātu 无记录）；末成分未被脚本关联：U34-319、U34-343、U31-138（已手工保持一致）。scratchpad 根目录共用，临时文件被别组覆盖过（已改用子目录）。
+
+## G2：U49–U54
+
+- 563 条（U49 105、U50 79、U51 30、U52 127、U53 124、U54 98），拒绝 0、找不到 0；lint ERROR 0、WARN 0。
+- (?)：U53-094 ūrdhvaṃ adj. nt. sg. nom. (?)（修饰阳性 śabda 而作中性，疑套颂文 ūrdhvaṃ rūpaṃ 或作副词）；U52-097 rūpāṇi n. nt. pl. nom. (?)（保留）；U49-044 ghoṣam n. m. sg. acc. (?)（note 疑当读 yojyam）。
+- 次序改正：U52 的 12 条 ptc. pres.（086、096、109、117、126、145、155、159、166、172、180、198）。U50-130、U51-050 kiṃ kāraṇam 改作 pron. nt. sg. nom. + n. nt. sg. nom.（照 U27-164）。
+- 有判断余地未加 (?)：caramasya（U49-181、U50-001）、eṣāṃ（U49-185）m.（指 dhātu）；-ādīnām/-ādibhiḥ 斜格复数按同段 -ādayaḥ 标 m.；U52-007、U50-019 taiḥ m.；U53-101 ubhe nt.；kim 疑问小词 pron. nt.。U53-128 bhūmi 作多财释末成分标 nt.（复合词修饰 kāyavijñānam）。
+- 数据问题：末成分未被脚本关联（连声或词目写法）：U49-070、139、147，U50-011、087、093、099、127、134、136，U52-193，U53-144、151，U54-067、143（已手工核对一致）；compar. 位置不统一（U51-040 放括号里，U49-022/026 放词类后）；-upapanna 复合词 U53-141/148 作 cpd.、U52-077/150/191 作 cpd. ptc.；U52-097 的译语"色"对的是宾语，对应本身待核。
+
+## E2：U37–U43
+
+- 637 条（U37 48、U38 77、U39 153、U40 57、U41 166、U42 71、U43 65），拒绝 0、找不到 0；无形态/末成分 ERROR。
+- U40-092/094/095 dagdhṛtulyayoḥ 定为第七格（vivāda 的论题用第七格；"关于能烧、所称有争论"，合玄奘"能燒所稱 諍"），性随 tulya 作 nt.（下文 S0732、S0733 tulyam 皆中性）：三条均为 nt. du. loc.，U40-094 去掉 (?)。
+- (?)：U38-100、U38-105、U38-107 -ādiṣu 取 m. (?)；U41-152、U41-170 asau 取 f. (?)（随表语 paraṃparā；note 说指"聲"m.，存疑）；U43-064 cakṣurādīnām m. (?)。原有 (?) 保留：U39-152、153、170，U41-294、295，U42-075。
+- 改正：U38-125 cpd. du. abl. → cpd. m. du. instr.（与末成分 U38-127 instr. 一致，"以损益而展转相随"）；U42-020、029、040、045、057、076、096 ptc. pres. 次序；U42-001、104、107 括号说明 (dvandva) 移到末尾；U41-128 kiṃ kāraṇam 只插入性。
+- 同一名词不同性（合规则）：ādi（m. U38-105、U41-013；nt. U39-018、U39-089、U40-038、U42-026）；cakṣus（U42-084、U42-090 多财释末成分指人作 m.）。
+- 数据问题：末成分 skt 以连声元音开头（o-、ā-）时脚本认不出：U38-125↔127、U38-128↔130、U40-022↔024、U40-029↔031（已手工一致）。较费斟酌未加 (?)：U39-091 cakṣurādibhir nt.、U42-049 ubhayena m.、U41-055 tasmāt m.。
+
+## C2：U21–U30
+
+- 657 条（U21 18、U22 216、U23 34、U24 37、U25 42、U26 95、U27 87、U28 65、U29 26、U30 37），拒绝 0、找不到 0；lint 无 ERROR。复合词与末成分两两对查一致。
+- (?)：U22-137 atītādīnāṃ nt.；U22-143 vedanādayo、U22-146 veditavyāḥ m.（或随 vedanā 作 f.）；U22-205 kasyā nt.；U22-261 ekasyāsti m.（承 paramāṇu，或泛指 nt.）；U26-040 dvābhyāṃ m.；U26-213 cakṣurādīnām m.（或指眼等根 nt.）；U28-150 ebhir m.；U27-128 jihvā 原有 (?)（格存疑），加 f.。
+- 改：无（只把 U24-059、U25-009、U27-095 的 ptc. 次序调为数、格）。
+- 同一名词不同性（都是多财释末成分随复合词）：āśraya（U22-103 nt.）、viṣaya（U27-024、U27-084 nt.）、svabhāva（U29-023、U29-036 nt.）、saṃjñā（U24-055 m.）、pramāṇa（U30-006 m.）、ādi。-tas 形式不标性（U22-059、U23-027、U26-010、U26-121）。
+- 格式：kiṃ kāraṇam 写法不统一（U23-058 "pron. nt. + n. nt. sg. nom."，U27-164 "pron. nt. sg. nom. + n. nt. sg. nom."）；U27-123 bhojyasya 作 gdv. n. nt. sg. gen.。
+- 数据问题：U22-207 svasyā 的 WARN 是误报（f. -asyāḥ 脱 visarga；已改粗查规则）；U21-018 dvayoḥ 词目作 dvaya（n.），实为 dvi 的双数斜格，词目应改 dvi、词类 num.；U27-067 itasmād 已标待核（疑读 ito 'smād），性取 m.。
+
+## B2：U11–U20
+
+- 580 条（U11 48、U12 71、U13 147、U14 34、U15 90、U16 59、U17 20、U18 35、U19 55、U20 21），拒绝 0、找不到 0；lint ERROR 0；form_gender_warning 无矛盾。
+- (?)：U11-043 kuśalākuśale cpd. nt. sg. loc. (?)（无中心词；或指 dharma 作 m.）；U12-137 pṛthivyādīnāṃ m. (?)；U13-080 kena m. (?)（按答句 pāṇisparśena）；U13-278 avijñaptyāśrayeṣu m. (?)（同位于 mahābhūteṣu nt.）；U15-067 caturbhyo m. (?)（颂文暗指四蕴；长行 U15-080 标 nt.）；U16-109 teṣām m. (?)；U19-005 ekena m. (?)（兼管 skandha m.、āyatana nt.、dhātu m.）。
+- 改：脚本未认出的末成分 16 条由"成分"改为照复合词：U12-056、U12-087、U12-106、U13-078、U13-107、U13-115、U13-123、U14-003、U14-014、U15-027、U15-037、U15-053、U17-006、U17-013、U17-041、U18-037。另 6 条 ptc. pres. 只调次序（U13-016、102、154，U15-018、059，U19-019）。U12-109（-vat 前）、U12-127（非末成分）仍作成分。
+- 同一名词不同性（合规则）：citta（U11-021 多财释末成分 m.）、svabhāva（U11-078 f.，随 avijñapti）、utpādana（按词形 nt./f.）、ākhyā（U15-191 m.）、cittaka（U11-017 m.）；īraṇa 三处 f.。
+- 数据问题：final_members 漏检的类型——连声使末成分首字母变 ā/e/o；词目是动词词根而词形是分词（saṃ-sidh/siddhāḥ、jan/jātasya、vyadh/viddha、ni-rudh/niruddhaṃ）；词目太短（ja/jā）或阴性 -ikā；skt 讹字（sdandha、vyavasathānād）。U14-066 vaktavyaḥ 疑当读 vaktavyāḥ（note 未注）；U14-001 与 U14-012 同一复合词，前者带 (dvandva) 后者无；kiṃ kāraṇam 写法不统一。
+
+## F2：U44–U48
+
+- 744 条（U44 178、U45 74、U46 290、U47 32、U48 170），拒绝 0、找不到 0。自查剩 U48-100 一条末成分 ERROR：U48-099 skt 误包 "ity arthaḥ"（应作 prāptaviṣayam），致 U48-100 arthaḥ 被当成末成分。
+- (?)：U48-221 cayavatāṃ m. (?)（m./nt. 同形）；U48-149 hasto、U48-152 upale 原有 (?) 保留。
+- 改：无；U45-083 括号说明移到末尾。
+- 同一名词不同性：viṣaya（多财释末成分 U46-273、U48-007、U48-085 作 nt.）。
+- 按所指定性未加 (?)：-ādi 复合词（U44-286 m.；U46-040、U46-016、U46-019 f.，指五见；U46-227 nt.；U48-059、U48-290、U48-310 nt.，指称作 trayam 的诸根；U48-302 m.）；U48-120 anyonyam m.；副词性疑问 kim 皆 nt.；指人的代词、数词 m.（U44-182 等）；U46-030 ayam m.、U48-109 kā iyam f.、U46-131 asau f.。
+- 数据问题：skt 带进邻词（U48-196、U48-199、U46-538）；U47-041、U47-043 GRETIL parasaṅga（应作 prasaṅga），末成分未被认出（已一致）；迦濕彌羅 词目 kāśmīra（U44-118）与 kāśmīraka（U48-123）不统一。scratchpad 根目录跑过 rm -rf scratchpad/sim（只删同名目录）。
+
+## A2：U01–U10
+
+- 760 条（U01 91、U02 45、U03 21、U04 36、U05 139、U06 65、U07 52、U08 23、U09 42、U10 253），另改 7 条末成分（U06-145、U08-005、U10-215、U10-234、U10-356、U10-518、U10-310 由"成分"补出性数格），拒绝 0、找不到 0；无形态/末成分 ERROR；与备份比对，pos 以外未动。
+- (?)：U10-148 nīlādīnāṃ cpd. nt. pl. gen. (?)（无中心词：照 S0140 指 varṇa 作 m.，照 S0144 作颜色名词作 nt.）。据 Yaśomitra 定下的：U05-125/128 m.（多财释 ekarūpavyāsaktacakṣurmanāḥ）；U01-159 anena nt.（指 viśeṣaṇa）。
+- 次序改正：U01-107、U10-431（ptc. pres.）。
+- 同一名词不同性：andhakāra（U01-006 多财释末成分 m.；andhakāram nt.）；kośa（U03-016 m.；书名 abhidharmakośam 一律 nt.，与 śāstram 同位）；svabhāva、varṇa、saṃsthāna、ālambana 作多财释末成分随所修饰的词。
+- 数据问题：U05-095 lemma 作动词 sākṣāt-kṛ 而 pos 是名词 sākṣātkaraṇa，脚本因此认不出它是 U05-091 的末成分（两条已一致 nt. sg. abl.）；U06-093 grahaṇāt xz 空、note 待核。scratchpad 根目录的 build.py 被别组换过，误跑一次（只重写了 scratchpad 里 U44–U48 的草表，没写项目文件）。

@@ -25,10 +25,15 @@ GROUPS = [
         ('abs.', 'absolutive', '独立式（-tvā、-ya），表先行动作，玄奘常以"已"表出'),
         ('inf.', 'infinitive', '不定式（-tum）'),
         ('cpd.', 'compound', '复合词，词目用连字符分出成分'),
-        ('成分', '', '复合词的成分（本身不变格）；"cpd. ind." 为不变格的复合词'),
+        ('成分', '', '复合词的非末成分（本身不变格）；末成分带整个复合词的词尾，照整个复合词标性数格；"cpd. ind." 为不变格的复合词'),
         ('bahuvrīhi', 'bahuvrīhi', '多财释（"具有…者"的复合词，"具有…者"）'),
         ('formula', 'formula', '套语，如 oṃ namo buddhāya'),
         ('人名', '', '人名'),
+    ]),
+    ('性', [
+        ('m.', 'masculine', '阳性'),
+        ('f.', 'feminine', '阴性'),
+        ('nt.', 'neuter', '中性；"m./nt." 表示据词形和上下文不能确定'),
     ]),
     ('格', [
         ('nom.', 'nominative', '第一格'),
@@ -52,9 +57,6 @@ GROUPS = [
         ('3sg.', 'third person singular', '第三人称单数'),
         ('3pl.', 'third person plural', '第三人称复数'),
         ('3du.', 'third person dual', '第三人称双数'),
-        ('m.', 'masculine', '阳性'),
-        ('f.', 'feminine', '阴性'),
-        ('nt.', 'neuter', '中性'),
     ]),
     ('时态、语气、语态', [
         ('pres.', 'present', '现在时'),

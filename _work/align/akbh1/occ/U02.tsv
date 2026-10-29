@@ -1,69 +1,69 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
-U02-001	S0021	prajñā	prajñā	n. sg. nom.	0001b02	慧	对译	0162a02	智	真谛 prajñā 译"智"
-U02-002	S0021	'malā	amala	adj. sg. nom.	0001b02	淨	对译	0162a02	淨	
-U02-003	S0021	sānucarā	sa-anucara	adj. sg. nom.	0001b02	隨行	对译	0162a02	助伴	
-U02-004	S0021	'bhidharmaḥ	abhidharma	n. sg. nom.	0001b02	對法	对译	0162a02	對法	
-U02-005	S0022	prajñā	prajñā	n. sg. nom.	0001b03	慧	对译	0162a02	智	
-U02-006	S0022	dharmapravicayaḥ	dharma-pravicaya	cpd. sg. nom.	0001b03	擇法	对译	0162a02	擇法	
-U02-007	S0022	amaleti	amala	adj. sg. nom.	0001b03	淨	对译	0162a03	淨	
-U02-008	S0022	anāsravā	an-āsrava	adj. sg. nom.	0001b03	無漏	对译	0162a03	無垢	真谛此处作"無垢"
-U02-009	S0022	saparivārā	sa-parivāra	adj. sg. nom.	0001b03	眷屬	对译	0162a03	助伴	
-U02-010	S0022	sānucareti	sa-anucara	adj. sg. nom.	0001b03	隨行	对译			
-U02-011	S0023	anāsravaḥ	an-āsrava	adj. sg. nom.	0001b04	無漏	对译	0162a04	無流	真谛 āsrava 译"流"
-U02-012	S0023	pañcaskandhako	pañca-skandhaka	cpd. adj. sg. nom.	0001b04	五蘊	对译	0162a04	五陰	真谛 skandha 译"陰"
-U02-013	S0023	'bhidharma	abhidharma	n. sg. nom.	0001b04	對法	对译	0162a04	阿毘達磨	
-U02-014	S0023	uktaṃ bhavati	uktaṃ bhavati	ptc. sg. nom. + bhū (v. pres. 3sg.)	0001b04	總說	意译	0162a04	說	"即是说"，玄奘作"總說"
-U02-015	S0024	pāramārthiko	pāramārthika	adj. sg. nom.	0001b04	勝義	对译	0162a04	真實	
-U02-016	S0024	'bhidharmaḥ	abhidharma	n. sg. nom.	0001b05	阿毘達磨	音译	0162a04	阿毘達磨	同一段内玄奘"對法""阿毘達磨"并用
-U02-017	S0025	sāṃketikas	sāṃketika	adj. sg. nom.	0001b05	世俗	意译	0162a05	假名	sāṃketika 本义"约定的"
-U02-018	S0026	tatprāptaye	tad-prāpti	cpd. sg. dat.	0001b05	得此	意译	0162a05	能得此法	"能"为增字
-U02-019	S0026	śāstram	śāstra	n. sg. nom.	0001b06	論	对译	0162a06	論	
-U02-020	S0027	śrutacintābhāvanāmayī	śruta-cintā-bhāvanā-maya	cpd. adj. sg. nom.	0001b06	修…思聞	对译	0162a06	思慧聞慧	-maya 未译出；玄奘倒序作修、思、聞
+U02-001	S0021	prajñā	prajñā	n. f. sg. nom.	0001b02	慧	对译	0162a02	智	真谛 prajñā 译"智"
+U02-002	S0021	'malā	amala	adj. f. sg. nom.	0001b02	淨	对译	0162a02	淨	
+U02-003	S0021	sānucarā	sa-anucara	adj. f. sg. nom.	0001b02	隨行	对译	0162a02	助伴	
+U02-004	S0021	'bhidharmaḥ	abhidharma	n. m. sg. nom.	0001b02	對法	对译	0162a02	對法	
+U02-005	S0022	prajñā	prajñā	n. f. sg. nom.	0001b03	慧	对译	0162a02	智	
+U02-006	S0022	dharmapravicayaḥ	dharma-pravicaya	cpd. m. sg. nom.	0001b03	擇法	对译	0162a02	擇法	
+U02-007	S0022	amaleti	amala	adj. f. sg. nom.	0001b03	淨	对译	0162a03	淨	
+U02-008	S0022	anāsravā	an-āsrava	adj. f. sg. nom.	0001b03	無漏	对译	0162a03	無垢	真谛此处作"無垢"
+U02-009	S0022	saparivārā	sa-parivāra	adj. f. sg. nom.	0001b03	眷屬	对译	0162a03	助伴	
+U02-010	S0022	sānucareti	sa-anucara	adj. f. sg. nom.	0001b03	隨行	对译			
+U02-011	S0023	anāsravaḥ	an-āsrava	adj. m. sg. nom.	0001b04	無漏	对译	0162a04	無流	真谛 āsrava 译"流"
+U02-012	S0023	pañcaskandhako	pañca-skandhaka	cpd. adj. m. sg. nom.	0001b04	五蘊	对译	0162a04	五陰	真谛 skandha 译"陰"
+U02-013	S0023	'bhidharma	abhidharma	n. m. sg. nom.	0001b04	對法	对译	0162a04	阿毘達磨	
+U02-014	S0023	uktaṃ bhavati	uktaṃ bhavati	ptc. nt. sg. nom. + bhū (v. pres. 3sg.)	0001b04	總說	意译	0162a04	說	"即是说"，玄奘作"總說"
+U02-015	S0024	pāramārthiko	pāramārthika	adj. m. sg. nom.	0001b04	勝義	对译	0162a04	真實	
+U02-016	S0024	'bhidharmaḥ	abhidharma	n. m. sg. nom.	0001b05	阿毘達磨	音译	0162a04	阿毘達磨	同一段内玄奘"對法""阿毘達磨"并用
+U02-017	S0025	sāṃketikas	sāṃketika	adj. m. sg. nom.	0001b05	世俗	意译	0162a05	假名	sāṃketika 本义"约定的"
+U02-018	S0026	tatprāptaye	tad-prāpti	cpd. f. sg. dat.	0001b05	得此	意译	0162a05	能得此法	"能"为增字
+U02-019	S0026	śāstram	śāstra	n. nt. sg. nom.	0001b06	論	对译	0162a06	論	
+U02-020	S0027	śrutacintābhāvanāmayī	śruta-cintā-bhāvanā-maya	cpd. adj. f. sg. nom.	0001b06	修…思聞	对译	0162a06	思慧聞慧	-maya 未译出；玄奘倒序作修、思、聞
 U02-021	S0027	śruta	śruta	n. 成分	0001b06	聞	对译	0162a06	聞	
 U02-022	S0027	cintā	cintā	n. 成分	0001b06	思	对译	0162a06	思	
-U02-023	S0027	bhāvanāmayī	bhāvanā-maya	adj. sg. nom.	0001b06	修	对译			-maya（所成）此处未译，玄奘他处作"修所成"；"慧"对应其后的 prajñā（U02-023b）；真谛未译
-U02-023b	S0027	sāsravā prajñā	prajñā	n. sg. nom.	0001b06	慧	对译	0162a06	慧	
-U02-024	S0027	sāsravā	sa-āsrava	adj. sg. nom.	0001b06	有漏	对译	0162a06	有流	
-U02-025	S0027	upapattipratilambhikā	upapatti-pratilambhika	cpd. adj. sg. nom.	0001b06	生得	对译	0162a06	生得	
-U02-026	S0027	sānucarā	sa-anucara	adj. sg. nom.	0001b07	隨行	对译	0162a06	助伴	
-U02-027	S0028	śāstram	śāstra	n. sg. nom.	0001b07	論	对译	0162a07	論	
+U02-023	S0027	bhāvanāmayī	bhāvanā-maya	adj. f. sg. nom.	0001b06	修	对译			-maya（所成）此处未译，玄奘他处作"修所成"；"慧"对应其后的 prajñā（U02-023b）；真谛未译
+U02-023b	S0027	sāsravā prajñā	prajñā	n. f. sg. nom.	0001b06	慧	对译	0162a06	慧	
+U02-024	S0027	sāsravā	sa-āsrava	adj. f. sg. nom.	0001b06	有漏	对译	0162a06	有流	
+U02-025	S0027	upapattipratilambhikā	upapatti-pratilambhika	cpd. adj. f. sg. nom.	0001b06	生得	对译	0162a06	生得	
+U02-026	S0027	sānucarā	sa-anucara	adj. f. sg. nom.	0001b07	隨行	对译	0162a06	助伴	
+U02-027	S0028	śāstram	śāstra	n. nt. sg. nom.	0001b07	論	对译	0162a07	論	
 U02-028	S0028	prāptyartham	prāpti-artham	cpd. ind.	0001b07	傳生	意译	0162a07	能傳生	
-U02-029	S0028	manāsravāyāḥ	an-āsrava	adj. sg. gen.	0001b07	無漏	对译	0162a07	無流	
-U02-029b	S0028	prajñāyāḥ	prajñā	n. sg. gen.	0001b07	慧	对译	0162a07	智	
-U02-030	S0028	tatsaṃbhārabhāvād	tad-saṃbhāra-bhāva	cpd. sg. abl.	0001b08	彼資糧	对译	0162a07	資糧	-bhāva 以"是"表出，第五格译"故"
+U02-029	S0028	manāsravāyāḥ	an-āsrava	adj. f. sg. gen.	0001b07	無漏	对译	0162a07	無流	
+U02-029b	S0028	prajñāyāḥ	prajñā	n. f. sg. gen.	0001b07	慧	对译	0162a07	智	
+U02-030	S0028	tatsaṃbhārabhāvād	tad-saṃbhāra-bhāva	cpd. m. sg. abl.	0001b08	彼資糧	对译	0162a07	資糧	-bhāva 以"是"表出，第五格译"故"
 U02-031	S0028	saṃbhāra	saṃbhāra	n. 成分	0001b08	資糧	对译	0162a07	資糧	
-U02-032	S0028	abhidharma	abhidharma	n. sg. nom.	0001b08	阿毘達磨	音译	0162a08	阿毘達磨	
+U02-032	S0028	abhidharma	abhidharma	n. m. sg. nom.	0001b08	阿毘達磨	音译	0162a08	阿毘達磨	
 U02-033	S0028	tadapi	api	ind.	0001b08	亦	语法	0162a07	亦	
-U02-033b	S0028	tadapi	tad	pron. sg. nom.	0001b07	此諸慧論	意译			代词还原为所指
-U02-034	S0029	nirvacanaṃ	nirvacana	n. sg. nom.	0001b08	釋…名	意译	0162a08	因何義立此名	
-U02-035	S0029	svalakṣaṇadhāraṇād	sva-lakṣaṇa-dhāraṇa	cpd. sg. abl.	0001b09	持自相	对译	0162a08	持自體相	"能"为增字
+U02-033b	S0028	tadapi	tad	pron. nt. sg. nom.	0001b07	此諸慧論	意译			代词还原为所指
+U02-034	S0029	nirvacanaṃ	nirvacana	n. nt. sg. nom.	0001b08	釋…名	意译	0162a08	因何義立此名	
+U02-035	S0029	svalakṣaṇadhāraṇād	sva-lakṣaṇa-dhāraṇa	cpd. nt. sg. abl.	0001b09	持自相	对译	0162a08	持自體相	"能"为增字
 U02-036	S0029	svalakṣaṇa	sva-lakṣaṇa	cpd. 成分	0001b09	自相	对译	0162a08	自體相	
-U02-037	S0029	dhāraṇād	dhāraṇa	n. sg. abl.	0001b09	持	对译	0162a08	持	
-U02-038	S0029	dharmaḥ	dharma	n. sg. nom.	0001b09	法	对译	0162a09	達磨	真谛音译"達磨"
-U02-039	S0030	paramārthadharmaṃ	parama-artha-dharma	cpd. sg. acc.	0001b09	勝義法	对译	0162a09	真實法	
+U02-037	S0029	dhāraṇād	dhāraṇa	n. nt. sg. abl.	0001b09	持	对译	0162a08	持	
+U02-038	S0029	dharmaḥ	dharma	n. m. sg. nom.	0001b09	法	对译	0162a09	達磨	真谛音译"達磨"
+U02-039	S0030	paramārthadharmaṃ	parama-artha-dharma	cpd. m. sg. acc.	0001b09	勝義法	对译	0162a09	真實法	
 U02-040	S0030	paramārtha	parama-artha	cpd. 成分	0001b09	勝義	对译	0162a09	真實	
-U02-041	S0030	nirvāṇaṃ	nirvāṇa	n. sg. acc.	0001b09	涅槃	音译	0162a09	涅槃	
-U02-042	S0030	dharmalakṣaṇaṃ	dharma-lakṣaṇa	cpd. sg. acc.	0001b10	法相法	意译	0162a09	為相	真谛读法不同
+U02-041	S0030	nirvāṇaṃ	nirvāṇa	n. nt. sg. acc.	0001b09	涅槃	音译	0162a09	涅槃	
+U02-042	S0030	dharmalakṣaṇaṃ	dharma-lakṣaṇa	cpd. nt. sg. acc.	0001b10	法相法	意译	0162a09	為相	真谛读法不同
 U02-043	S0030				0001b10	通四聖諦	增译			玄奘在 dharmalakṣaṇa 后增"通四聖諦"作释
-U02-044	S0030	pratyabhimukho	prati-abhimukha	adj. sg. nom.	0001b10	對向	意译	0162a10	現前	玄奘以"對向""對觀"两解 abhi-，"對觀"为增出之解
+U02-044	S0030	pratyabhimukho	prati-abhimukha	adj. m. sg. nom.	0001b10	對向	意译	0162a10	現前	玄奘以"對向""對觀"两解 abhi-，"對觀"为增出之解
 U02-044+1	S0030				0001b10	對觀	增译			合并时从 U02-044（對向…對觀）拆出
-U02-045	S0030	ityabhidharmaḥ	abhidharma	n. sg. nom.	0001b11	對法	对译	0162a10	阿毘達磨	
-U02-046	S0031	ukto	vac	ptc. sg. nom.	0001b11	釋	对译			
+U02-045	S0030	ityabhidharmaḥ	abhidharma	n. m. sg. nom.	0001b11	對法	对译	0162a10	阿毘達磨	
+U02-046	S0031	ukto	vac	ptc. m. sg. nom.	0001b11	釋	对译			
 U02-046c	S0031	ukto	ppp.	gram. ppp. (-ta)	0001b11	已	语法			过去被动分词译"已"
-U02-046b	S0031	ukto 'bhidharmaḥ	abhidharma	n. sg. nom.	0001b11	對法	对译			
+U02-046b	S0031	ukto 'bhidharmaḥ	abhidharma	n. m. sg. nom.	0001b11	對法	对译			
 U02-047	S0031	kathamabhidharmakośam	katham	ind.	0001b11	何故	语法	0162a11	云何	
-U02-048	S0031	śāstraṃ	śāstra	n. sg. nom.	0001b11	論	对译	0162a11	論	
+U02-048	S0031	śāstraṃ	śāstra	n. nt. sg. nom.	0001b11	論	对译	0162a11	論	
 U02-049	S0028	ucyate	vac	v. pres. pass. 3sg.	0001b08	得名	对译	0162a08	名	ucyate 单独切分（用户 2026-10-29 定）
 U02-050	S0022	tatra prajñā	tatra	ind.			省译			
 U02-051	S0022	amaleti	iti	ind.	0001b03	謂	语法	0162a03	謂	释词：X iti Y → X謂Y
 U02-052	S0022	sānucareti	iti	ind.	0001b03	名曰	语法			"…名曰隨行"
 U02-053	S0023	evamanāsravaḥ	evam	ind.	0001b04	如是	语法	0162a03	若爾	
 U02-054	S0023	ityuktaṃ	iti	ind.	0001b04	名為	语法	0162a04	名	
-U02-055	S0024	eṣa tāvat	etad	pron. sg. nom.	0001b04	此	语法	0162a04	此	
+U02-055	S0024	eṣa tāvat	etad	pron. m. sg. nom.	0001b04	此	语法	0162a04	此	
 U02-056	S0024	tāvat	tāvat	ind.	0001b04	則	语法	0162a04	即	tāvat（先就此而言）译"則"
 U02-057	S0025	sāṃketikastu	tu	ind.	0001b05	若	语法	0162a05	若	转折，以"若說…"引出
 U02-058	S0026	yacca śāstram	ca	ind.	0001b06	及	对译			
 U02-059	S0029	nirvacanaṃ tu	tu	ind.			省译			
 U02-060	S0030	dharmaṃ vā	vā	ind.	0001b09	若…若	语法	0162a09	或	"若勝義法…若法相法"
-U02-061	S0030	tadayaṃ	idam	pron. sg. nom.	0001b10	此	语法	0162a10	此	
+U02-061	S0030	tadayaṃ	idam	pron. m. sg. nom.	0001b10	此	语法	0162a10	此	
 U02-062	S0030	ityabhidharmaḥ	iti	ind.	0001b10	故稱	语法	0162a10	故…稱	

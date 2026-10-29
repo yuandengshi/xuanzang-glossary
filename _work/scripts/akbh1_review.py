@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""akbh1_review.py -- 生成《待核清单》：标"待核"的对应、梵本缺文（自动），加上人工整理的梵本问题（review_notes.md）。
+"""akbh1_review.py -- 生成《待核清单》：标"待核"的对应、梵本缺文（自动），人工整理的梵本问题（review_notes.md），
+以及形态标注存疑（pos 带 "(?)"，含存档例句；自动）。
 
 Usage: python3 -I akbh1_review.py AKBH1_DIR OUT_MD
 """
@@ -56,9 +57,18 @@ def main(d, out):
         L.append('| %s | %s（P %s） | %s（T %s） | %s | %s |' % (
             r['oid'], r['sid'], pref(skt[r['sid']]['pradhan']), esc(r['xz']), tref(r['xz_line']),
             esc(r['pm']) or '—', esc(r['note'])))
-    L += ['', open(os.path.join(d, 'review_notes.md'), encoding='utf-8').read()]
+    L += ['', open(os.path.join(d, 'review_notes.md'), encoding='utf-8').read().rstrip('\n')]
+    morph = [r for sub in ('occ', 'occ_extra') for f in sorted(glob.glob(os.path.join(d, sub, 'U*.tsv')))
+             for r in tsv(f) if '(?)' in r['pos']]
+    L += ['', '## 八、形态存疑（%d 条）' % len(morph), '',
+          '性、数、格或时态据词形和上下文仍不能确定的，取了最可能的一种，pos 末尾加 (?)。', '',
+          '| 编号 | 梵文 | 词目 | 形态 | 玄奘 | 说明 |', '|---|---|---|---|---|---|']
+    for r in sorted(morph, key=lambda r: r['oid']):
+        L.append('| %s | %s | %s | %s | %s | %s |' % (r['oid'], esc(r['skt']) or '—', esc(r['lemma']) or '—',
+                 esc(r['pos']), esc(r['xz']) or '（未译）', esc(r['note']) or '—'))
+    L.append('')
     open(out, 'w', encoding='utf-8').write('\n'.join(L))
-    print('待核 %d 条，梵本缺文 %d 处' % (len(pend), len(lac)))
+    print('待核 %d 条，梵本缺文 %d 处，形态存疑 %d 条' % (len(pend), len(lac), len(morph)))
 
 
 if __name__ == '__main__':

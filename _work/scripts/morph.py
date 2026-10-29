@@ -52,7 +52,8 @@ def canon(pos):
     parts = pos.split(' + ')
     out = []
     for p in parts:
-        table = _RANK_V if TENSE.search(re.sub(r'\(.*?\)', '', p)) or PERSON.search(p) else _RANK_NOM
+        # 分词的 pres./fut. 不算动词：只有 v. 和带人称数的部分按动词排
+        table = _RANK_V if p.startswith('v.') or PERSON.search(re.sub(r'\(.*?\)', '', p)) else _RANK_NOM
         out.append(_order(p, table))
     return ' + '.join(out)
 
@@ -100,7 +101,23 @@ def _core(lemma):
     last = lemma.split('-')[-1].split(' ')[0]
     c = re.sub(r'(?:ant|vat|mat|as|us|is|an|in|at|[aāiīuūṛeo])$', '', last)
     c = re.sub(r'[aāiīuū]$', '', c)
-    return c if len(c) >= 2 else last
+    return c if len(c) >= 2 or len(last) <= 3 and c else last
+
+
+def _find_core(lemma, skt):
+    """词干在 skt 中的位置 (起点, 长度)；依次试：词干本身、去首字母（与前一成分连声，如 opaghāta、endriya）、
+    去末字母（分词、阴性 -ikā：sidh → siddhāḥ、ātmak → ātmikā）、两头都去。找不到返回 None。"""
+    core = _core(lemma)
+    tries = [core]
+    if len(core) >= 4:
+        tries += [core[1:], core[:-1], core[1:-1]]
+    elif len(core) == 3:
+        tries += [core[:-1]]
+    for t in tries:
+        i = skt.rfind(t)
+        if i >= 0:
+            return i, len(t)
+    return None
 
 
 def gnc(pos):
@@ -131,11 +148,10 @@ def final_members(rows):
                 if m['type'] in ('增译', '梵本缺文') or m['pos'].split(' ')[0] not in NOMINAL or 'cpd. ind.' in m['pos'] \
                         or m['pos'].startswith('pron.'):   # 代词作末成分极少，多是连声带进的下一个词
                     continue
-                core = _core(m['lemma'])
-                i = m['skt'].rfind(core)
-                if i < 0 or len(m['skt']) - (i + len(core)) > 6:
+                fc = _find_core(m['lemma'], m['skt'])
+                if not fc or len(m['skt']) - sum(fc) > 6:
                     continue
-                tail = m['skt'][i + len(core):]
+                tail = m['skt'][sum(fc):]
                 if 'tv' in tail or re.match(r'[aāiīuū]?(tā|vat|tay)', tail):   # -tva/-tā/-vat 前的词干不是末成分
                     continue
                 # 同句另有成分记录落在它的 skt 末尾（如 saṃsparśajā 之后的 jā），它就不是末成分
@@ -145,3 +161,30 @@ def final_members(rows):
                     continue
                 out.append((m, c))
     return out
+
+
+# ---- 性与词尾的粗查（只查 a 词干最明显的几种词尾；连声带进下一个词的 skt 不查） ----
+
+_A_END = [  # (格数, 词尾正则, 不可能的性)
+    (('sg.', 'nom.'), r'a[mṃn]$', ('m.', 'f.')),
+    (('sg.', 'nom.'), r'(aḥ|o|aś|as)$', ('nt.', 'f.')),
+    (('pl.', 'nom.'), r'ā(ni|ny|ṇi|ṇy)$', ('m.', 'f.')),
+    (('pl.', 'acc.'), r'ā(ni|ny|ṇi|ṇy)$', ('m.', 'f.')),
+    (('pl.', 'nom.'), r'(āḥ|āś|ās)$', ('nt.',)),
+    (('sg.', 'instr.'), r'e[nṇ][aā]?$', ('f.',)),
+    (('sg.', 'instr.'), r'ayā$', ('m.', 'nt.')),
+    (('sg.', 'gen.'), r'asya$', ('f.',)),   # -asyā 可能是阴性 -asyāḥ 脱 visarga
+    (('sg.', 'gen.'), r'āyāḥ$', ('m.', 'nt.')),
+]
+
+
+def form_gender_warning(skt, lemma, pos):
+    """a 词干（词目末成分以 a 结尾）的词尾与所标的性矛盾时返回说明。"""
+    g, n, c = gnc(pos)
+    last = lemma.split('-')[-1].split(' ')[0]
+    if not g or '/' in g or not skt or not last.endswith('a') or not pos.startswith(NOMINAL):
+        return ''
+    for (nn, cc), rx, bad in _A_END:
+        if n == nn and c == cc and g in bad and re.search(rx, skt):
+            return '词尾 %s 与所标的性 %s 不合' % (re.search(rx, skt).group(0), g)
+    return ''

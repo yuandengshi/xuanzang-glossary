@@ -1,151 +1,151 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
-U36-001	S0638	savitarkavicārā	sa-vitarka-vicāra	cpd. adj. pl. nom.	0008a11	尋伺	对译	0168a12	有覺亦有觀	本颂 sa- 未译
+U36-001	S0638	savitarkavicārā	sa-vitarka-vicāra	cpd. adj. m. pl. nom.	0008a11	尋伺	对译	0168a12	有覺亦有觀	本颂 sa- 未译
 U36-002	S0638	hi	hi	ind.	0008a11	唯	语法	0168a13	定	长行自释此 hi 为限定义（avadhāraṇārtha）
 U36-003	S0638	pañca	pañcan	num. pl. nom.	0008a11	五	对译	0168a13	五	
-U36-004	S0638	vijñānadhātavaḥ	vijñāna-dhātu	cpd. pl. nom.	0008a11	識	意译	0168a13	識界	dhātu 未译
+U36-004	S0638	vijñānadhātavaḥ	vijñāna-dhātu	cpd. m. pl. nom.	0008a11	識	意译	0168a13	識界	dhātu 未译
 U36-005	S0638				0008a12	眼等	增译			长行复述本颂（梵本长行无此句）
 U36-006	S0638	pañca	pañcan	num. pl. nom.	0008a12	五	对译			长行复述本颂
-U36-007	S0638	vijñānadhātavaḥ	vijñāna-dhātu	cpd. pl. nom.	0008a12	識	意译			长行复述本颂
-U36-008	S0638	savitarkavicārā	sa-vitarka-vicāra	cpd. adj. pl. nom.	0008a12	有尋有伺	对译			长行复述本颂
+U36-007	S0638	vijñānadhātavaḥ	vijñāna-dhātu	cpd. m. pl. nom.	0008a12	識	意译			长行复述本颂
+U36-008	S0638	savitarkavicārā	sa-vitarka-vicāra	cpd. adj. m. pl. nom.	0008a12	有尋有伺	对译			长行复述本颂
 U36-009	S0639				0008a12	由	增译			
 U36-010	S0639	nityam	nityam	ind.	0008a12	恒	对译	0168a13	恒	
-U36-011	S0639	vitarkavicārābhyāṃ	vitarka-vicāra	cpd. du. instr.	0008a12	尋伺	对译	0168a14	覺觀	
+U36-011	S0639	vitarkavicārābhyāṃ	vitarka-vicāra	cpd. m. du. instr.	0008a12	尋伺	对译	0168a14	覺觀	
 U36-012	S0639	vitarka	vitarka	n. 成分	0008a12	尋	对译	0168a14	覺	
-U36-013	S0639	vicārābhyāṃ	vicāra	n. du. instr.	0008a12	伺	对译	0168a14	觀	
+U36-013	S0639	vicārābhyāṃ	vicāra	n. m. du. instr.	0008a12	伺	对译	0168a14	觀	
 U36-014	S0639	vicārābhyāṃ	instr.	gram. du. instr. (-ābhyām)	0008a12	與	语法	0168a14	與	第三格（与…相应）以"與"表出
-U36-015	S0639	saṃprayuktāḥ	saṃprayukta	ptc. pl. nom.	0008a12	共相應	对译	0168a14	相應	
+U36-015	S0639	saṃprayuktāḥ	saṃprayukta	ptc. m. pl. nom.	0008a12	共相應	对译	0168a14	相應	
 U36-016	S0639				0008a13	以行相麁外門轉故	增译			玄奘补出另一理由
 U36-017	S0639				0008a13	顯	增译			"顯義決定"
-U36-018	S0639	avadhāraṇārtho	avadhāraṇa-artha	cpd. sg. nom.	0008a13	義決定	意译	0168a14	為簡異餘界	
+U36-018	S0639	avadhāraṇārtho	avadhāraṇa-artha	cpd. m. sg. nom.	0008a13	義決定	意译	0168a14	為簡異餘界	
 U36-019	S0639	avadhāraṇā	avadhāraṇa	n. 成分	0008a13	決定	对译			
-U36-020	S0639	rtho	artha	n. sg. nom.	0008a13	義	对译			
+U36-020	S0639	rtho	artha	n. m. sg. nom.	0008a13	義	对译			
 U36-021	S0639				0008a13	故說	增译			
-U36-022	S0639	hiśabdaḥ	hi-śabda	cpd. sg. nom.	0008a14	唯言	意译	0168a14	言定	梵文"hi 字"，玄奘、真谛都改称颂中对应之字（唯／定）
-U36-023	S0639	śabdaḥ	śabda	n. sg. nom.	0008a14	言	对译	0168a14	言	
-U36-024	S0640	antyās	antya	adj. pl. nom.	0008a11	後	对译	0168a14	後	
-U36-025	S0640	trayas	tri	num. pl. nom.	0008a11	三	对译	0168a15	三	
-U36-026	S0640	triprakārāḥ	tri-prakāra	cpd. adj. pl. nom.	0008a11	三	意译	0168a15	有三義	本颂只作"三"
-U36-027	S0641	āntyāḥ	antya	adj. pl. nom.	0008a14	後	对译	0168a16	後	
+U36-022	S0639	hiśabdaḥ	hi-śabda	cpd. m. sg. nom.	0008a14	唯言	意译	0168a14	言定	梵文"hi 字"，玄奘、真谛都改称颂中对应之字（唯／定）
+U36-023	S0639	śabdaḥ	śabda	n. m. sg. nom.	0008a14	言	对译	0168a14	言	
+U36-024	S0640	antyās	antya	adj. m. pl. nom.	0008a11	後	对译	0168a14	後	
+U36-025	S0640	trayas	tri	num. m. pl. nom.	0008a11	三	对译	0168a15	三	
+U36-026	S0640	triprakārāḥ	tri-prakāra	cpd. adj. m. pl. nom.	0008a11	三	意译	0168a15	有三義	本颂只作"三"
+U36-027	S0641	āntyāḥ	antya	adj. m. pl. nom.	0008a14	後	对译	0168a16	後	
 U36-028	S0641				0008a14	謂是	增译			释词句式
-U36-029	S0641	manodhātur	manas-dhātu	cpd. sg. nom.	0008a14	意	意译	0168a15	意界	dhātu 未译
-U36-030	S0641	dharmadhātur	dharma-dhātu	cpd. sg. nom.	0008a14	法	意译	0168a15	法界	dhātu 未译
-U36-031	S0641	manovijñānadhātuś	manas-vijñāna-dhātu	cpd. sg. nom.	0008a14	意識	意译	0168a15	意識界	dhātu 未译
+U36-029	S0641	manodhātur	manas-dhātu	cpd. m. sg. nom.	0008a14	意	意译	0168a15	意界	dhātu 未译
+U36-030	S0641	dharmadhātur	dharma-dhātu	cpd. m. sg. nom.	0008a14	法	意译	0168a15	法界	dhātu 未译
+U36-031	S0641	manovijñānadhātuś	manas-vijñāna-dhātu	cpd. m. sg. nom.	0008a14	意識	意译	0168a15	意識界	dhātu 未译
 U36-032	S0641				0008a14	根、境、識中各居後故	梵本缺文	0168a15	是十八中最後故言後	玄奘、真谛都释"後"义，梵本无
 U36-034	S0641				0008a15	後…界	增译			"此後三界"
-U36-035	S0641	trayas	tri	num. pl. nom.	0008a15	三	对译			
+U36-035	S0641	trayas	tri	num. m. pl. nom.	0008a15	三	对译			
 U36-036	S0641				0008a15	皆	增译			
-U36-037	S0641	triprakārāḥ	tri-prakāra	cpd. adj. pl. nom.	0008a15	三品	意译	0168a16	具三品	"通"为补出
+U36-037	S0641	triprakārāḥ	tri-prakāra	cpd. adj. m. pl. nom.	0008a15	三品	意译	0168a16	具三品	"通"为补出
 U36-037+1	S0641				0008a15	通	增译			合并时从 U36-037（通三品）拆出
-U36-038	S0641	prakārāḥ	prakāra	n. pl. nom.	0008a15	品	对译	0168a16	品	
-U36-039	S0642	manodhātur	manas-dhātu	cpd. sg. nom.	0008a15	意界	对译	0168a16	意界	
-U36-040	S0642	manovijñānadhātuḥ	manas-vijñāna-dhātu	cpd. sg. nom.	0008a15	意識界	对译	0168a16	意識界	
-U36-041	S0642	saṃprayuktaś	saṃprayukta	ptc. sg. nom.	0008a15	相應	对译	0168a16	與心相應	真谛补"心"
-U36-042	S0642	dharamadhātur	dharma-dhātu	cpd. sg. nom.	0008a16	法界	对译	0168a17	法界	GRETIL 本作 dharamadhātur，当读 dharmadhātur
+U36-038	S0641	prakārāḥ	prakāra	n. m. pl. nom.	0008a15	品	对译	0168a16	品	
+U36-039	S0642	manodhātur	manas-dhātu	cpd. m. sg. nom.	0008a15	意界	对译	0168a16	意界	
+U36-040	S0642	manovijñānadhātuḥ	manas-vijñāna-dhātu	cpd. m. sg. nom.	0008a15	意識界	对译	0168a16	意識界	
+U36-041	S0642	saṃprayuktaś	saṃprayukta	ptc. m. sg. nom.	0008a15	相應	对译	0168a16	與心相應	真谛补"心"
+U36-042	S0642	dharamadhātur	dharma-dhātu	cpd. m. sg. nom.	0008a16	法界	对译	0168a17	法界	GRETIL 本作 dharamadhātur，当读 dharmadhātur
 U36-043	S0642	anyatra	anyatra	ind.	0008a16	除	对译	0168a17	除	
-U36-044	S0642	vitarkavicārābhyāṃ kāma	vitarka-vicāra	cpd. du. abl.	0008a16	尋與伺	对译	0168a17	覺觀	"與"表并列
+U36-044	S0642	vitarkavicārābhyāṃ kāma	vitarka-vicāra	cpd. m. du. abl.	0008a16	尋與伺	对译	0168a17	覺觀	"與"表并列
 U36-045	S0642				0008a16	若	增译			
-U36-046	S0642	kāmadhātau	kāma-dhātu	cpd. sg. loc.	0008a16	欲界	对译	0168a17	欲界	
+U36-046	S0642	kāmadhātau	kāma-dhātu	cpd. m. sg. loc.	0008a16	欲界	对译	0168a17	欲界	
 U36-047	S0642	kāmadhātau	loc.	gram. loc. (-au)	0008a16	在…中	语法	0168a17	於	第七格以"在…中"表出
-U36-048	S0642	prathame ca	prathama	adj. sg. loc.	0008a16	初	对译	0168a17	初	
-U36-049	S0642	dhyāne	dhyāna	n. sg. loc.	0008a16	靜慮	对译	0168a17	定	
-U36-050	S0642	savitarkāḥ savicārāḥ /	sa-vitarka	adj. pl. nom.	0008a16	有尋	对译	0168a17	有覺	
-U36-051	S0642	savicārāḥ /	sa-vicāra	adj. pl. nom.	0008a17	有伺	对译	0168a17	有觀	
-U36-052	S0643	dhyānāntare	dhyāna-antara	cpd. sg. loc.	0008a17	靜慮中間	对译	0168a18	中間定	
+U36-048	S0642	prathame ca	prathama	adj. nt. sg. loc.	0008a16	初	对译	0168a17	初	
+U36-049	S0642	dhyāne	dhyāna	n. nt. sg. loc.	0008a16	靜慮	对译	0168a17	定	
+U36-050	S0642	savitarkāḥ savicārāḥ /	sa-vitarka	adj. m. pl. nom.	0008a16	有尋	对译	0168a17	有覺	
+U36-051	S0642	savicārāḥ /	sa-vicāra	adj. m. pl. nom.	0008a17	有伺	对译	0168a17	有觀	
+U36-052	S0643	dhyānāntare	dhyāna-antara	cpd. nt. sg. loc.	0008a17	靜慮中間	对译	0168a18	中間定	
 U36-053	S0643	dhyānā	dhyāna	n. 成分	0008a17	靜慮	对译	0168a18	定	
-U36-054	S0643	āntare	antara	n. sg. loc.	0008a17	中間	对译	0168a18	中間	
-U36-055	S0643	'vitarkā	a-vitarka	adj. pl. nom.	0008a17	無尋	对译	0168a18	無覺	
-U36-056	S0643	vicāramātrāḥ	vicāra-mātra	cpd. adj. pl. nom.	0008a17	唯伺	对译	0168a18	唯有觀	
-U36-057	S0644	dvitīyād	dvitīya	num. sg. abl.	0008a17	第二	对译	0168a18	第二	
-U36-058	S0644	dhyānāt	dhyāna	n. sg. abl.	0008a17	靜慮	对译	0168a18	定	
+U36-054	S0643	āntare	antara	n. nt. sg. loc.	0008a17	中間	对译	0168a18	中間	
+U36-055	S0643	'vitarkā	a-vitarka	adj. m. pl. nom.	0008a17	無尋	对译	0168a18	無覺	
+U36-056	S0643	vicāramātrāḥ	vicāra-mātra	cpd. adj. m. pl. nom.	0008a17	唯伺	对译	0168a18	唯有觀	
+U36-057	S0644	dvitīyād	dvitīya	num. nt. sg. abl.	0008a17	第二	对译	0168a18	第二	
+U36-058	S0644	dhyānāt	dhyāna	n. nt. sg. abl.	0008a17	靜慮	对译	0168a18	定	
 U36-059	S0644	prabhṛtyā	prabhṛti	ind.	0008a17	以上	意译	0168a18	從…以上	
 U36-060	S0644				0008a17	諸地	增译			
 U36-061	S0644	ābhavāgrād	ā	ind. (+abl.)	0008a18	乃至	语法	0168a18	乃至	
-U36-062	S0644	bhavāgrād	bhava-agra	n. sg. abl.	0008a18	有頂	对译	0168a19	有頂	
-U36-063	S0644	avitarkā	a-vitarka	adj. pl. nom.	0008a18	無尋	对译	0168a19	無覺	
-U36-064	S0644	avicārāḥ	a-vicāra	adj. pl. nom.	0008a18	無伺	对译	0168a19	無觀	
-U36-065	S0645	sarvaś	sarva	adj. sg. nom.			省译	0168a19	一切	
-U36-066	S0645	cāsaṃprayukto	a-saṃprayukta	ptc. adj. sg. nom.	0008a18	非相應	对译	0168a19	心不相應	
-U36-067	S0645	dharmadhātur	dharma-dhātu	cpd. sg. nom.	0008a18	法界	对译	0168a19	法界	
+U36-062	S0644	bhavāgrād	bhava-agra	n. nt. sg. abl.	0008a18	有頂	对译	0168a19	有頂	
+U36-063	S0644	avitarkā	a-vitarka	adj. m. pl. nom.	0008a18	無尋	对译	0168a19	無覺	
+U36-064	S0644	avicārāḥ	a-vicāra	adj. m. pl. nom.	0008a18	無伺	对译	0168a19	無觀	
+U36-065	S0645	sarvaś	sarva	adj. m. sg. nom.			省译	0168a19	一切	
+U36-066	S0645	cāsaṃprayukto	a-saṃprayukta	ptc. adj. m. sg. nom.	0008a18	非相應	对译	0168a19	心不相應	
+U36-067	S0645	dharmadhātur	dharma-dhātu	cpd. m. sg. nom.	0008a18	法界	对译	0168a19	法界	
 U36-068	S0645				0008a18	所攝…法	增译			"法界所攝非相應法"
-U36-069	S0645	dhyānātare	dhyāna-antara	cpd. sg. loc.	0008a19	靜慮中間	对译	0168a19	中間定	GRETIL 本作 dhyānātare aca，当读 dhyānāntare ca
-U36-070	S0645	vicāraḥ	vicāra	n. sg. nom.	0008a19	伺	对译	0168a20	觀	
+U36-069	S0645	dhyānātare	dhyāna-antara	cpd. nt. sg. loc.	0008a19	靜慮中間	对译	0168a19	中間定	GRETIL 本作 dhyānātare aca，当读 dhyānāntare ca
+U36-070	S0645	vicāraḥ	vicāra	n. m. sg. nom.	0008a19	伺	对译	0168a20	觀	
 U36-071	S0645				0008a19	亦如是	增译			指同为无寻无伺
-U36-072	S0646	vitarkastū	vitarka	n. sg. nom.	0008a19	尋	对译	0168a20	覺	GRETIL 本作 tū，当读 tu
+U36-072	S0646	vitarkastū	vitarka	n. m. sg. nom.	0008a19	尋	对译	0168a20	覺	GRETIL 本作 tū，当读 tu
 U36-073	S0646	nityam	nityam	ind.	0008a19	一切時	意译	0168a20	恒	
-U36-074	S0646	aviatarko	a-vitarka	adj. sg. nom.	0008a19	無尋	对译	0168a20	無覺	GRETIL 本作 aviatarko，当读 avitarko
-U36-075	S0646	vicāramātro	vicāra-mātra	cpd. adj. sg. nom.	0008a19	唯伺	对译	0168a20	唯有觀	
-U36-076	S0646	dvitīyavitarkābhāvāt	dvitīya-vitarka-abhāva	cpd. sg. abl.	0008a20	無第二尋	对译	0168a20	無第二覺	
+U36-074	S0646	aviatarko	a-vitarka	adj. m. sg. nom.	0008a19	無尋	对译	0168a20	無覺	GRETIL 本作 aviatarko，当读 avitarko
+U36-075	S0646	vicāramātro	vicāra-mātra	cpd. adj. m. sg. nom.	0008a19	唯伺	对译	0168a20	唯有觀	
+U36-076	S0646	dvitīyavitarkābhāvāt	dvitīya-vitarka-abhāva	cpd. m. sg. abl.	0008a20	無第二尋	对译	0168a20	無第二覺	
 U36-077	S0646	dvitīya	dvitīya	num. 成分	0008a20	第二	对译	0168a20	第二	
 U36-078	S0646	vitarkā	vitarka	n. 成分	0008a20	尋	对译	0168a20	覺	
-U36-079	S0646	ābhāvāt	a-bhāva	n. sg. abl.	0008a20	無	对译	0168a20	無	
-U36-080	S0646	vicārasaṃprayogāc	vicāra-saṃprayoga	cpd. sg. abl.	0008a20	伺相應	对译	0168a20	唯與觀相應	
+U36-079	S0646	ābhāvāt	a-bhāva	n. m. sg. abl.	0008a20	無	对译	0168a20	無	
+U36-080	S0646	vicārasaṃprayogāc	vicāra-saṃprayoga	cpd. m. sg. abl.	0008a20	伺相應	对译	0168a20	唯與觀相應	
 U36-081	S0646				0008a20	但	增译	0168a20	唯	玄奘、真谛都补出"但／唯"
-U36-082	S0646	saṃprayogāc	saṃprayoga	n. sg. abl.	0008a20	相應	对译	0168a21	相應	
-U36-083	S0647	vicāra eṣu	vicāra	n. sg. nom.	0008a20	伺	对译	0168a21	觀	
-U36-084	S0647	kāmadhātau	kāma-dhātu	cpd. sg. loc.	0008a20	欲界	对译	0168a21	欲界	
+U36-082	S0646	saṃprayogāc	saṃprayoga	n. m. sg. abl.	0008a20	相應	对译	0168a21	相應	
+U36-083	S0647	vicāra eṣu	vicāra	n. m. sg. nom.	0008a20	伺	对译	0168a21	觀	
+U36-084	S0647	kāmadhātau	kāma-dhātu	cpd. m. sg. loc.	0008a20	欲界	对译	0168a21	欲界	
 U36-085	S0647	kāmadhātau	loc.	gram. loc. (-au)	0008a20	在…中	语法	0168a21	於	
-U36-086	S0647	prathame	prathama	adj. sg. loc.	0008a20	初	对译	0168a21	初	
-U36-087	S0647	dhyāne	dhyāna	n. sg. loc.	0008a20	靜慮	对译	0168a21	定	
-U36-088	S0647	triprakāreṣu	tri-prakāra	cpd. pl. loc.	0008a21	三品	对译	0168a21	三品	
+U36-086	S0647	prathame	prathama	adj. nt. sg. loc.	0008a20	初	对译	0168a21	初	
+U36-087	S0647	dhyāne	dhyāna	n. nt. sg. loc.	0008a20	靜慮	对译	0168a21	定	
+U36-088	S0647	triprakāreṣu	tri-prakāra	cpd. m. pl. loc.	0008a21	三品	对译	0168a21	三品	
 U36-090	S0647	āntarbhavati	antar-bhū	v. pres. 3sg.	0008a21	收	对译	0168a21	入	
 U36-091	S0648	kathaṃ	katham	ind.	0008a21	何等	语法	0168a22	云何	
-U36-092	S0648	vaktavyaḥ	vac	gdv. sg. nom.	0008a21	名	意译	0168a22	名	
+U36-092	S0648	vaktavyaḥ	vac	gdv. m. sg. nom.	0008a21	名	意译	0168a22	名	
 U36-094	S0649				0008a21	此應名曰	增译			答辞复述问句
-U36-095	S0649	avicāro	a-vicāra	adj. sg. nom.	0008a21	無伺	对译	0168a22	無觀	
-U36-096	S0649	vitarkamātaraḥ	vitarka-mātra	cpd. adj. sg. nom.	0008a22	唯尋	对译	0168a22	唯有覺	GRETIL 本作 vitarkamātaraḥ，当读 vitarkamātraḥ
-U36-097	S0649	dvitīyavicārābhāvāt	dvitīya-vicāra-abhāva	cpd. sg. abl.	0008a22	無第二伺	对译	0168a22	無第二觀	
-U36-098	S0649	vitarkasaṃprayogāc	vitarka-saṃprayoga	cpd. sg. abl.	0008a22	尋相應	对译	0168a22	與覺相應	"但"为补出
+U36-095	S0649	avicāro	a-vicāra	adj. m. sg. nom.	0008a21	無伺	对译	0168a22	無觀	
+U36-096	S0649	vitarkamātaraḥ	vitarka-mātra	cpd. adj. m. sg. nom.	0008a22	唯尋	对译	0168a22	唯有覺	GRETIL 本作 vitarkamātaraḥ，当读 vitarkamātraḥ
+U36-097	S0649	dvitīyavicārābhāvāt	dvitīya-vicāra-abhāva	cpd. m. sg. abl.	0008a22	無第二伺	对译	0168a22	無第二觀	
+U36-098	S0649	vitarkasaṃprayogāc	vitarka-saṃprayoga	cpd. m. sg. abl.	0008a22	尋相應	对译	0168a22	與覺相應	"但"为补出
 U36-099	S0650	ata	atas	ind.	0008a22	由此故	语法	0168a23	故	
 U36-100	S0650	evocyate	vac	v. pres. pass. 3sg.	0008a23	言	对译	0168a23	說	
-U36-102	S0650	savitarkasavicārāyāṃ	sa-vitarka-sa-vicāra	cpd. adj. sg. loc.	0008a23	有尋伺	对译	0168a23	有覺觀	
-U36-103	S0650	bhūmau	bhūmi	n. sg. loc.	0008a23	地	对译	0168a23	地	
-U36-104	S0650	dharmāś	dharma	n. pl. nom.	0008a23	法	对译	0168a23	法	
-U36-105	S0650	catuḥprakārāḥ	catur-prakāra	cpd. adj. pl. nom.	0008a23	四品	对译	0168a23	四品	
+U36-102	S0650	savitarkasavicārāyāṃ	sa-vitarka-sa-vicāra	cpd. adj. f. sg. loc.	0008a23	有尋伺	对译	0168a23	有覺觀	
+U36-103	S0650	bhūmau	bhūmi	n. f. sg. loc.	0008a23	地	对译	0168a23	地	
+U36-104	S0650	dharmāś	dharma	n. m. pl. nom.	0008a23	法	对译	0168a23	法	
+U36-105	S0650	catuḥprakārāḥ	catur-prakāra	cpd. adj. m. pl. nom.	0008a23	四品	对译	0168a23	四品	
 U36-106	S0650	catuḥ	catur	num. 成分	0008a23	四	对译	0168a23	四	
-U36-107	S0650	prakārāḥ	prakāra	n. pl. nom.	0008a23	品	对译	0168a23	品	
+U36-107	S0650	prakārāḥ	prakāra	n. m. pl. nom.	0008a23	品	对译	0168a23	品	
 U36-108	S0651				0008a23	一	增译	0168a24	一	四品逐一标数（二、三、四同）
-U36-109	S0651	savitarkāḥ	sa-vitarka	adj. pl. nom.	0008a23	有尋	对译	0168a24	有覺	
-U36-110	S0651	savicārā	sa-vicāra	adj. pl. nom.	0008a23	有伺	对译	0168a24	有觀	
+U36-109	S0651	savitarkāḥ	sa-vitarka	adj. m. pl. nom.	0008a23	有尋	对译	0168a24	有覺	
+U36-110	S0651	savicārā	sa-vicāra	adj. m. pl. nom.	0008a23	有伺	对译	0168a24	有觀	
 U36-111	S0651				0008a23	謂	增译	0168a24	謂	释词句式（四品同）
-U36-112	S0651	vicāravitarkavarjyāḥ	vicāra-vitarka-varjya	cpd. adj. pl. nom.	0008a23	除尋伺	对译	0168a24	除覺觀	玄奘、真谛都倒序作"尋伺／覺觀"
+U36-112	S0651	vicāravitarkavarjyāḥ	vicāra-vitarka-varjya	cpd. adj. m. pl. nom.	0008a23	除尋伺	对译	0168a24	除覺觀	玄奘、真谛都倒序作"尋伺／覺觀"
 U36-113	S0651	vicāravitarka	vicāra-vitarka	cpd. 成分	0008a24	尋伺	对译	0168a24	覺觀	
-U36-114	S0651	varjyāḥ	varjya	gdv. pl. nom.	0008a23	除	对译	0168a24	除	
+U36-114	S0651	varjyāḥ	varjya	gdv. m. pl. nom.	0008a23	除	对译	0168a24	除	
 U36-115	S0651				0008a24	餘…法	增译	0168a24	所餘…法	
-U36-116	S0651	saṃprayuktāḥ /	saṃprayukta	ptc. pl. nom.	0008a24	相應	对译	0168a24	心相應	
+U36-116	S0651	saṃprayuktāḥ /	saṃprayukta	ptc. m. pl. nom.	0008a24	相應	对译	0168a24	心相應	
 U36-117	S0652				0008a24	二	增译	0168a24	二	
-U36-118	S0652	avitarko	a-vitarka	adj. sg. nom.	0008a24	無尋	对译	0168a24	無覺	
-U36-119	S0652	vicāramātro	vicāra-mātra	cpd. adj. sg. nom.	0008a24	唯伺	对译	0168a25	有觀	
+U36-118	S0652	avitarko	a-vitarka	adj. m. sg. nom.	0008a24	無尋	对译	0168a24	無覺	
+U36-119	S0652	vicāramātro	vicāra-mātra	cpd. adj. m. sg. nom.	0008a24	唯伺	对译	0168a25	有觀	
 U36-120	S0652				0008a24	即是	增译	0168a25	唯是	"謂即是尋"
-U36-121	S0652	vitarkaḥ	vitarka	n. sg. nom.	0008a24	尋	对译	0168a25	覺	
+U36-121	S0652	vitarkaḥ	vitarka	n. m. sg. nom.	0008a24	尋	对译	0168a25	覺	
 U36-122	S0653				0008a24	三	增译	0168a25	三	
-U36-123	S0653	avitarkā	a-vitarka	adj. pl. nom.	0008a24	無尋	对译	0168a25	無覺	
-U36-124	S0653	avicārā asaṃ	a-vicāra	adj. pl. nom.	0008a25	無伺	对译	0168a25	無觀	
+U36-123	S0653	avitarkā	a-vitarka	adj. m. pl. nom.	0008a24	無尋	对译	0168a25	無覺	
+U36-124	S0653	avicārā asaṃ	a-vicāra	adj. m. pl. nom.	0008a25	無伺	对译	0168a25	無觀	
 U36-125	S0653				0008a25	一切…法	增译			"謂即一切非相應法"
-U36-126	S0653	asaṃprayuktāḥ	a-saṃprayukta	ptc. adj. pl. nom.	0008a25	非相應	对译	0168a25	心不相應	
+U36-126	S0653	asaṃprayuktāḥ	a-saṃprayukta	ptc. adj. m. pl. nom.	0008a25	非相應	对译	0168a25	心不相應	
 U36-127	S0653				0008a25	四	增译	0168a26	四	
-U36-128	S0653	avicāro	a-vicāra	adj. sg. nom.	0008a25	無伺	对译	0168a26	無觀	
-U36-129	S0653	vitarkamātro	vitarka-mātra	cpd. adj. sg. nom.	0008a25	唯尋	对译	0168a26	有覺	
-U36-130	S0653	vicāra	vicāra	n. sg. nom.	0008a26	伺	对译	0168a26	觀	
-U36-131	S0654	śeṣā	śeṣa	adj. pl. nom.	0008a11	餘	对译	0168a26	餘界	
-U36-132	S0654	ubhayavarjitāḥ	ubhaya-varjita	cpd. adj. pl. nom.	0008a11	無	意译	0168a26	二所離	"两者皆离"，本颂只作"無"
+U36-128	S0653	avicāro	a-vicāra	adj. m. sg. nom.	0008a25	無伺	对译	0168a26	無觀	
+U36-129	S0653	vitarkamātro	vitarka-mātra	cpd. adj. m. sg. nom.	0008a25	唯尋	对译	0168a26	有覺	
+U36-130	S0653	vicāra	vicāra	n. m. sg. nom.	0008a26	伺	对译	0168a26	觀	
+U36-131	S0654	śeṣā	śeṣa	adj. m. pl. nom.	0008a11	餘	对译	0168a26	餘界	
+U36-132	S0654	ubhayavarjitāḥ	ubhaya-varjita	cpd. adj. m. pl. nom.	0008a11	無	意译	0168a26	二所離	"两者皆离"，本颂只作"無"
 U36-133	S0654	ubhaya	ubhaya	pron. 成分			省译	0168a26	二	
-U36-134	S0654	varjitāḥ	varjita	ptc. pl. nom.	0008a11	無	意译	0168a27	所離	
-U36-135	S0655	śeṣā	śeṣa	adj. pl. nom.	0008a26	餘	对译	0168a27	餘	
+U36-134	S0654	varjitāḥ	varjita	ptc. m. pl. nom.	0008a11	無	意译	0168a27	所離	
+U36-135	S0655	śeṣā	śeṣa	adj. m. pl. nom.	0008a26	餘	对译	0168a27	餘	
 U36-136	S0655	daśa	daśan	num. pl. nom.	0008a26	十	对译	0168a27	十	
-U36-137	S0655	rupiṇo	rūpin	adj. pl. nom.	0008a26	色	对译	0168a27	有色	GRETIL 本作 rupiṇo，当读 rūpiṇo
-U36-138	S0655	dhātavaḥ	dhātu	n. pl. nom.	0008a26	界	对译	0168a27	界	
+U36-137	S0655	rupiṇo	rūpin	adj. m. pl. nom.	0008a26	色	对译	0168a27	有色	GRETIL 本作 rupiṇo，当读 rūpiṇo
+U36-138	S0655	dhātavaḥ	dhātu	n. m. pl. nom.	0008a26	界	对译	0168a27	界	
 U36-139	S0655	nityam	nityam	ind.	0008a26	常	对译	0168a27	恒	梵文 nityam 修饰"无寻无伺"，玄奘移入理由句"常與尋伺不相應"
-U36-140	S0655	avitarkā	a-vitarka	adj. pl. nom.	0008a26	尋伺俱無	合译	0168a27	無覺觀	与 a-vicāra 合为"尋伺俱無"
-U36-141	S0655	avicārā	a-vicāra	adj. pl. nom.	0008a26	尋伺俱無	合译	0168a27	無覺觀	与 a-vitarka 合为"尋伺俱無"
+U36-140	S0655	avitarkā	a-vitarka	adj. m. pl. nom.	0008a26	尋伺俱無	合译	0168a27	無覺觀	与 a-vicāra 合为"尋伺俱無"
+U36-141	S0655	avicārā	a-vicāra	adj. m. pl. nom.	0008a26	尋伺俱無	合译	0168a27	無覺觀	与 a-vitarka 合为"尋伺俱無"
 U36-142	S0655				0008a26	與尋伺	增译	0168a28	與心	补出相应的对象
-U36-143	S0655	asaṃprayogitvāt	a-saṃprayogi-tva	cpd. sg. abl.	0008a26	不相應	对译	0168a28	不相應	-tva 未译；第五格译"故"
+U36-143	S0655	asaṃprayogitvāt	a-saṃprayogi-tva	cpd. nt. sg. abl.	0008a26	不相應	对译	0168a28	不相應	-tva 未译；第五格译"故"
 U36-145	S0656	pañca	pañcan	num. pl. nom.	0008a27	五	对译	0168a28	五	
-U36-146	S0656	vijñānakāyāḥ	vijñāna-kāya	cpd. pl. nom.	0008a27	識身	对译	0168a28	識聚	
+U36-146	S0656	vijñānakāyāḥ	vijñāna-kāya	cpd. m. pl. nom.	0008a27	識身	对译	0168a28	識聚	
 U36-147	S0656	vijñāna	vijñāna	n. 成分	0008a27	識	对译	0168a28	識	
-U36-148	S0656	kāyāḥ	kāya	n. pl. nom.	0008a27	身	对译	0168a28	聚	
-U36-149	S0656	savitarkāḥ	sa-vitarka	adj. pl. nom.	0008a27	有尋	对译	0168a28	有覺	
-U36-150	S0656	savicārāḥ	sa-vicāra	adj. pl. nom.	0008a27	有伺	对译			
+U36-148	S0656	kāyāḥ	kāya	n. m. pl. nom.	0008a27	身	对译	0168a28	聚	
+U36-149	S0656	savitarkāḥ	sa-vitarka	adj. m. pl. nom.	0008a27	有尋	对译	0168a28	有覺	
+U36-150	S0656	savicārāḥ	sa-vicāra	adj. m. pl. nom.	0008a27	有伺	对译			
 U36-151	S0656	katham	katham	ind.	0008a27	如何…耶	语法	0168a28	云何	
 U36-152	S0656				0008a27	得	增译			"如何得說"
-U36-153	S0656	avikalpakā	a-vikalpaka	adj. pl. nom.	0008a27	無分別	对译	0168a29	無分別	
+U36-153	S0656	avikalpakā	a-vikalpaka	adj. m. pl. nom.	0008a27	無分別	对译	0168a29	無分別	
 U36-154	S0656	ucyante	vac	v. pres. pass. 3pl.	0008a27	說	对译	0168a28	說	

@@ -1,6 +1,6 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
 U32-009	S0515	chidramity	iti	ind.	0006c10	如是	语法	0166c29	若說	"chidram ity ucyamānam"（所谓竅隙）玄奘作"如是竅隙"
-U32-011	S0515	kiṃ veditavyam	kim	pron. sg. nom.	0006c10	云何	语法	0167a01	何法	
+U32-011	S0515	kiṃ veditavyam	kim	pron. nt. sg. nom.	0006c10	云何	语法	0167a01	何法	
 U32-024	S0517	gṛhyate	pass.	gram. pass. (-ya-)	0006c11	可	语法	0167a02	可	被动式译"可取"
 U32-040	S0519	rūpamityucyate	iti	ind.	0006c12	名	语法	0167a03	名	"說名"
 U32-043	S0520	aghaṃ kila	kila	ind.	0006c13	傳說	语法	0167a03	彼說	
@@ -14,4 +14,4 @@ U32-105	S0527	anāsravāstu	pl.	gram. pl. nom. (-āḥ)	0006c20	諸	语法			复
 U32-106	S0527	anāsravāstu	tu	ind.	0006c20	則	语法	0167a09	若	
 U32-108	S0527	naivamiti	evam	ind.	0006c20	如是	语法	0167a09	如此	
 U32-109	S0528	tadevaṃ satye	loc. abs.	gram. loc. abs. (sati)			省译	0167a10	如此	tad evaṃ sati（既然如此）玄奘未译
-U32-126	S0529	ye punarime	yad	pron. pl. nom.	0007a07	所	语法	0167a11	是…所	"所說"
+U32-126	S0529	ye punarime	yad	pron. m. pl. nom.	0007a07	所	语法	0167a11	是…所	"所說"

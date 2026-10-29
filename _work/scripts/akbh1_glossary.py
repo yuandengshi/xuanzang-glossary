@@ -451,7 +451,7 @@ function rvImport(file){const fr=new FileReader();fr.onload=()=>{try{const x=JSO
   let n=0,k=0;(x.items||[]).forEach(it=>{const cur=REV.items[it.oid];if(!BYOID[it.oid]){k++;return}
    if(!cur||(it.ts||0)>(cur.ts||0)){const c=Object.assign({},it);delete c.oid;REV.items[it.oid]=c;n++}});
   if(!REV.reviewer&&x.reviewer)REV.reviewer=x.reviewer;rvSave();render();alert(`导入 ${n} 条${k?`；${k} 条在当前数据中找不到，已跳过`:''}。`)}catch(e){alert('无法读取：这不是审定结果文件。')}};fr.readAsText(file,'utf-8')}
-function auditHTML(){const Q=D.filter(o=>o.note.includes('待核')||o.type=='梵本缺文'||REV.items[o.oid]);
+function auditHTML(){const Q=D.filter(o=>o.note.includes('待核')||o.type=='梵本缺文'||o.pos.includes('(?)')||REV.items[o.oid]);
  const done=Q.filter(o=>REV.items[o.oid]).length,all=Object.keys(REV.items).length;
  const L=Q.filter(o=>AF=='all'||(AF=='todo')==!REV.items[o.oid]);
  const head=`${RVOK?'':'<div class="warnbox">这个浏览器不允许本地保存（可能是隐私模式），关闭页面后审定结果会丢失，请及时导出。</div>'}
@@ -459,7 +459,7 @@ function auditHTML(){const Q=D.filter(o=>o.note.includes('待核')||o.type=='梵
  <span class="seg">${[['todo','未审'],['done','已审'],['all','全部']].map(([k,t])=>`<button data-act="af" data-af="${k}" class="${AF==k?'on':''}">${t}</button>`).join('')}</span>
  <span class="grow"></span><label>审定人 <input type="text" id="rv-name" value="${esc(REV.reviewer||'')}" placeholder="署名"></label>
  <button class="rvb pri" data-act="rv-export">导出审定结果</button><button class="rvb" data-act="rv-import">导入</button><input type="file" id="rv-file" accept=".json,application/json" hidden></div>
- <p class="audit-note">这里集中列出标"待核"的对应和梵本缺文。其他任何例句下面也都有"审定"按钮，审过的会一并列入。审定结果自动保存在本浏览器里；导出的文件交给编者即可。</p>`;
+ <p class="audit-note">这里集中列出标"待核"的对应、梵本缺文和形态存疑（词性栏带 (?)）的条目；形态的意见请写在"说明"里。其他任何例句下面也都有"审定"按钮，审过的会一并列入。审定结果自动保存在本浏览器里；导出的文件交给编者即可。</p>`;
  return head+(L.length?L.map(o=>`<div class="e open"><div class="eh"><div class="lem${o.lemma?'':' zh'}">${esc(o.lemma||o.xz)}<span class="pos">${esc(o.type)}${o.pos?' · '+posHTML(o.pos):''}</span></div><div></div><div></div></div><div class="occ">${occHTML(o)}</div></div>`).join(''):'<p class="empty">这一栏没有条目。</p>')}
 document.addEventListener('click',e=>{const b=e.target.closest('[data-act]');if(!b)return;const act=b.dataset.act;
  if(act=='af'){AF=b.dataset.af;render();return}

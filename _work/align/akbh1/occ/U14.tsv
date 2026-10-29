@@ -1,64 +1,64 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
-U14-001	S0274	indriyārthas	indriya-artha	cpd. pl. nom. (dvandva)	0003c22	根與境	对译	0164b09	根塵	
+U14-001	S0274	indriyārthas	indriya-artha	cpd. m. pl. nom. (dvandva)	0003c22	根與境	对译	0164b09	根塵	
 U14-002	S0274	indriyā	indriya	n. 成分	0003c22	根	对译	0164b09	根	
-U14-003	S0274	ārthas	artha	n. 成分	0003c22	境	对译	0164b09	塵	artha（根所对之境）译"境"，真谛作"塵"
+U14-003	S0274	ārthas	artha	n. m. pl. nom.	0003c22	境	对译	0164b09	塵	artha（根所对之境）译"境"，真谛作"塵"
 U14-004	S0274	indriyārthas	dvandva	gram. cpd.	0003c22	與	语法			相违释（并列复合词）以"與"连接
-U14-007	S0274	eveṣṭā	iṣ	ptc. pl. nom. (iṣṭa)	0003c22	許	对译	0164b09	說	iṣṭa（被承认的）译"許"；真谛作"說"
-U14-008	S0274	aśāyatanadhātavaḥ	daśa-āyatana-dhātu	cpd. pl. nom.	0003c22	十處界	对译	0164b09	十入及十界	GRETIL 本作 eveṣṭā aśāyatanadhātavaḥ，当读 daśāyatanadhātavaḥ
+U14-007	S0274	eveṣṭā	iṣ	ptc. m. pl. nom. (iṣṭa)	0003c22	許	对译	0164b09	說	iṣṭa（被承认的）译"許"；真谛作"說"
+U14-008	S0274	aśāyatanadhātavaḥ	daśa-āyatana-dhātu	cpd. m. pl. nom.	0003c22	十處界	对译	0164b09	十入及十界	GRETIL 本作 eveṣṭā aśāyatanadhātavaḥ，当读 daśāyatanadhātavaḥ
 U14-009	S0274	aśā	daśan	num. 成分	0003c22	十	对译	0164b09	十	GRETIL 本脱 d-（aśā-），当读 daśa-
 U14-010	S0274	āyatana	āyatana	n. 成分	0003c22	處	对译	0164b09	入	
-U14-011	S0274	dhātavaḥ	dhātu	n. pl. nom.	0003c22	界	对译	0164b09	界	
-U14-012	S0274	indriyārthas	indriya-artha	cpd. pl. nom.	0003c23	根境	对译			长行承 S0273（此前所說色蘊性中）复述颂文
+U14-011	S0274	dhātavaḥ	dhātu	n. m. pl. nom.	0003c22	界	对译	0164b09	界	
+U14-012	S0274	indriyārthas	indriya-artha	cpd. m. pl. nom.	0003c23	根境	对译			长行承 S0273（此前所說色蘊性中）复述颂文
 U14-013	S0274	indriyā	indriya	n. 成分	0003c23	根	对译			长行复述颂文
-U14-014	S0274	ārthas	artha	n. 成分	0003c23	境	对译			长行复述颂文
-U14-015	S0274	eveṣṭā	iṣ	ptc. pl. nom. (iṣṭa)	0003c23	許	对译			长行复述颂文
-U14-016	S0274	aśāyatanadhātavaḥ	daśa-āyatana-dhātu	cpd. pl. nom.	0003c23	十處界	对译			长行复述颂文；"為"为增字
+U14-014	S0274	ārthas	artha	n. m. pl. nom.	0003c23	境	对译			长行复述颂文
+U14-015	S0274	eveṣṭā	iṣ	ptc. m. pl. nom. (iṣṭa)	0003c23	許	对译			长行复述颂文
+U14-016	S0274	aśāyatanadhātavaḥ	daśa-āyatana-dhātu	cpd. m. pl. nom.	0003c23	十處界	对译			长行复述颂文；"為"为增字
 U14-017	S0275				0003c24	謂	增译			玄奘以"謂"引出解释
-U14-018	S0275	āyatanavyavasthāyāṃ	āyatana-vyavasthā	cpd. sg. loc.	0003c24	處門立為	意译	0164b09	安立入門	vyavasthā（安立）玄奘拆作"門"与"立為"
+U14-018	S0275	āyatanavyavasthāyāṃ	āyatana-vyavasthā	cpd. f. sg. loc.	0003c24	處門立為	意译	0164b09	安立入門	vyavasthā（安立）玄奘拆作"門"与"立為"
 U14-019	S0275	āyatana	āyatana	n. 成分	0003c24	處	对译	0164b09	入	
-U14-020	S0275	vyavasthāyāṃ	vyavasthā	n. sg. loc.	0003c24	門…立為	拆译	0164b09	安立…門	vyavasthā（安立、建立）拆作"門""立為"二处
+U14-020	S0275	vyavasthāyāṃ	vyavasthā	n. f. sg. loc.	0003c24	門…立為	拆译	0164b09	安立…門	vyavasthā（安立、建立）拆作"門""立為"二处
 U14-021	S0275	vyavasthāyāṃ	loc.	gram. loc. (-āyām)	0003c24	於	语法	0164b09	若	第七格（在……的安立中）译"於"；真谛作"若"
-U14-022	S0275	daśāyatanāni	daśa-āyatana	cpd. pl. nom.	0003c24	十處	对译			真谛作"屬十八"，疑有讹误
+U14-022	S0275	daśāyatanāni	daśa-āyatana	cpd. nt. pl. nom.	0003c24	十處	对译			真谛作"屬十八"，疑有讹误
 U14-023	S0275	daśā	daśan	num. 成分	0003c24	十	对译			
-U14-024	S0275	āyatanāni	āyatana	n. pl. nom.	0003c24	處	对译			
-U14-025	S0276	cakṣurāyatanaṃ	cakṣus-āyatana	cpd. sg. nom.	0003c24	眼處	对译	0164b10	眼入	
+U14-024	S0275	āyatanāni	āyatana	n. nt. pl. nom.	0003c24	處	对译			
+U14-025	S0276	cakṣurāyatanaṃ	cakṣus-āyatana	cpd. nt. sg. nom.	0003c24	眼處	对译	0164b10	眼入	
 U14-026	S0276	cakṣur	cakṣus	n. 成分	0003c24	眼	对译	0164b10	眼	
 U14-027	S0276	cakṣurāyatanaṃ	āyatana	n. 成分	0003c24	處	对译	0164b10	入	
-U14-028	S0276	rūpāyatanaṃ	rūpa-āyatana	cpd. sg. nom.	0003c24	色處	对译	0164b10	色入	
+U14-028	S0276	rūpāyatanaṃ	rūpa-āyatana	cpd. nt. sg. nom.	0003c24	色處	对译	0164b10	色入	
 U14-029	S0276	rūpā	rūpa	n. 成分	0003c24	色	对译	0164b10	色	
 U14-030	S0276	yāvat	yāvat	ind.	0003c24	廣說乃至	语法	0164b10	乃至	列举中表省略的 yāvat，玄奘作"廣說乃至"，真谛作"乃至"
-U14-031	S0276	kāyāyatanaṃ	kāya-āyatana	cpd. sg. nom.	0003c25	身處	对译	0164b10	身入	
+U14-031	S0276	kāyāyatanaṃ	kāya-āyatana	cpd. nt. sg. nom.	0003c25	身處	对译	0164b10	身入	
 U14-032	S0276	kāyā	kāya	n. 成分	0003c25	身	对译	0164b10	身	
-U14-033	S0276	spraṣṭavyāyatanam	spraṣṭavya-āyatana	cpd. sg. nom.	0003c25	觸處	对译	0164b10	觸入	
+U14-033	S0276	spraṣṭavyāyatanam	spraṣṭavya-āyatana	cpd. nt. sg. nom.	0003c25	觸處	对译	0164b10	觸入	
 U14-034	S0276	spraṣṭavyā	spraṣṭavya	gdv. n. 成分	0003c25	觸	对译	0164b10	觸	
-U14-036	S0277	dhātuvyavasthāyāṃ	dhātu-vyavasthā	cpd. sg. loc.	0003c25	界門立為	意译	0164b11	安立界門	
+U14-036	S0277	dhātuvyavasthāyāṃ	dhātu-vyavasthā	cpd. f. sg. loc.	0003c25	界門立為	意译	0164b11	安立界門	
 U14-037	S0277	dhātu	dhātu	n. 成分	0003c25	界	对译	0164b11	界	
-U14-038	S0277	vyavasthāyāṃ	vyavasthā	n. sg. loc.	0003c25	門…立為	拆译	0164b11	安立…門	
+U14-038	S0277	vyavasthāyāṃ	vyavasthā	n. f. sg. loc.	0003c25	門…立為	拆译	0164b11	安立…門	
 U14-039	S0277	vyavasthāyāṃ	loc.	gram. loc. (-āyām)	0003c25	若於	语法	0164b10	若	第七格译"若於"
-U14-041	S0277	daśadhātavaś	daśa-dhātu	cpd. pl. nom.	0003c25	十界	对译	0164b11	十界	
+U14-041	S0277	daśadhātavaś	daśa-dhātu	cpd. m. pl. nom.	0003c25	十界	对译	0164b11	十界	
 U14-042	S0277	daśa	daśan	num. 成分	0003c25	十	对译	0164b11	十	
-U14-043	S0277	dhātavaś	dhātu	n. pl. nom.	0003c25	界	对译	0164b11	界	
-U14-044	S0277	cakṣurchātū	cakṣus-dhātu	cpd. sg. nom.	0003c25	眼界	对译	0164b11	眼界	GRETIL 本作 cakṣurchātū，当读 cakṣurdhātū(r)
+U14-043	S0277	dhātavaś	dhātu	n. m. pl. nom.	0003c25	界	对译	0164b11	界	
+U14-044	S0277	cakṣurchātū	cakṣus-dhātu	cpd. m. sg. nom.	0003c25	眼界	对译	0164b11	眼界	GRETIL 本作 cakṣurchātū，当读 cakṣurdhātū(r)
 U14-045	S0277	cakṣur	cakṣus	n. 成分	0003c25	眼	对译	0164b11	眼	
-U14-046	S0277	rūpadhātur	rūpa-dhātu	cpd. sg. nom.	0003c25	色界	对译	0164b11	色界	
+U14-046	S0277	rūpadhātur	rūpa-dhātu	cpd. m. sg. nom.	0003c25	色界	对译	0164b11	色界	
 U14-047	S0277	rūpa	rūpa	n. 成分	0003c25	色	对译	0164b11	色	
 U14-048	S0277	yāvat	yāvat	ind.	0003c26	廣說乃至	语法	0164b11	乃至	
-U14-049	S0277	kāyadhātuḥ	kāya-dhātu	cpd. sg. nom.	0003c26	身界	对译	0164b11	身界	
+U14-049	S0277	kāyadhātuḥ	kāya-dhātu	cpd. m. sg. nom.	0003c26	身界	对译	0164b11	身界	
 U14-050	S0277	kāya	kāya	n. 成分	0003c26	身	对译	0164b11	身	
-U14-051	S0277	spraṣṭavyadhātur	spraṣṭavya-dhātu	cpd. sg. nom.	0003c26	觸界	对译	0164b11	觸界	
+U14-051	S0277	spraṣṭavyadhātur	spraṣṭavya-dhātu	cpd. m. sg. nom.	0003c26	觸界	对译	0164b11	觸界	
 U14-052	S0277	spraṣṭavya	spraṣṭavya	gdv. n. 成分	0003c26	觸	对译	0164b11	觸	
-U14-053	S0278	ukto	vac	ptc. sg. nom.	0003c26	說	对译	0164b12	說	
-U14-055	S0278	rūpaskandhas	rūpa-skandha	cpd. sg. nom.	0003c26	色蘊	对译	0164b12	色陰	
+U14-053	S0278	ukto	vac	ptc. m. sg. nom.	0003c26	說	对译	0164b12	說	
+U14-055	S0278	rūpaskandhas	rūpa-skandha	cpd. m. sg. nom.	0003c26	色蘊	对译	0164b12	色陰	
 U14-056	S0278	rūpa	rūpa	n. 成分	0003c26	色	对译	0164b12	色	
-U14-057	S0278	skandhas	skandha	n. sg. nom.	0003c26	蘊	对译	0164b12	陰	
+U14-057	S0278	skandhas	skandha	n. m. sg. nom.	0003c26	蘊	对译	0164b12	陰	
 U14-058	S0278	cāyatana	ca	ind.	0003c26	并	对译	0164b12	及	
-U14-059	S0278	āyatanavyavasthānam	āyatana-vyavasthāna	cpd. sg. nom.	0003c26	立處界	意译	0164b12	安立入界	梵文只说 āyatana，二译都补"界"（见增译条）
-U14-060	S0278	vyavasthānam	vyavasthāna	n. sg. nom.	0003c26	立	对译	0164b12	安立	
+U14-059	S0278	āyatanavyavasthānam	āyatana-vyavasthāna	cpd. nt. sg. nom.	0003c26	立處界	意译	0164b12	安立入界	梵文只说 āyatana，二译都补"界"（见增译条）
+U14-060	S0278	vyavasthānam	vyavasthāna	n. nt. sg. nom.	0003c26	立	对译	0164b12	安立	
 U14-061	S0278	āyatana	āyatana	n. 成分	0003c26	處	对译	0164b12	入	
 U14-062	S0278				0003c27	界	增译	0164b12	界	玄奘、真谛都补出"界"（立處界／安立入界）
-U14-063	S0279	vedanādayo	vedanā-ādi	cpd. pl. nom.	0003c27	受等	对译	0164b12	受等	GRETIL 本句首混入页行标记（[010-12=01012]）
+U14-063	S0279	vedanādayo	vedanā-ādi	cpd. m. pl. nom.	0003c27	受等	对译	0164b12	受等	GRETIL 本句首混入页行标记（[010-12=01012]）
 U14-064	S0279	vedanā	vedanā	n. 成分	0003c27	受	对译	0164b12	受	
-U14-065	S0279	ādayo	ādi	n. pl. nom.	0003c27	等	对译	0164b12	等	
-U14-066	S0279	vaktavyaḥ	vac	gdv. sg. nom.	0003c27	說	对译	0164b12	說	
+U14-065	S0279	ādayo	ādi	n. m. pl. nom.	0003c27	等	对译	0164b12	等	
+U14-066	S0279	vaktavyaḥ	vac	gdv. m. sg. nom.	0003c27	說	对译	0164b12	說	GRETIL 作 vaktavyaḥ（单数），主语 vedanādayaḥ 为复数，疑当读 vaktavyāḥ
 U14-067	S0279	vaktavyaḥ	gdv.	gram. gdv. (-tavya)	0003c27	當	语法	0164b12	當	义务分词表"将要（说）"，译"當"
 U14-068	S0279				0003c27	三蘊處界	增译	0164b12	諸陰	玄奘补出"三蘊處界"，真谛补"諸陰"

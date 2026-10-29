@@ -1,89 +1,89 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
-U19-001	S0334	sarvasaṃgraha	sarva-saṃgraha	cpd. sg. nom.	0004b17	攝一切	意译	0164c27	略攝一切法	"總"与"法"为补出
+U19-001	S0334	sarvasaṃgraha	sarva-saṃgraha	cpd. m. sg. nom.	0004b17	攝一切	意译	0164c27	略攝一切法	"總"与"法"为补出
 U19-001+1	S0334				0004b17	總	增译			合并时从 U19-001（總攝一切法）拆出
 U19-001+2	S0334				0004b17	法	增译			合并时从 U19-001（總攝一切法）拆出
 U19-002	S0334	sarva	sarva	adj. 成分	0004b17	一切	对译	0164c28	一切	
-U19-003	S0334	saṃgraha	saṃgraha	n. sg. nom.	0004b17	攝	对译	0164c27	攝	
-U19-005	S0334	ekena	eka	num. sg. instr.	0004b17	一	对译	0164c28	一	
-U19-006	S0334	skandehnā	skandha	n. sg. instr.	0004b17	蘊	对译	0164c28	陰	GRETIL 本作 skandehnāyatanena，当读 skandhenāyatanena
-U19-007	S0334	āyatanena	āyatana	n. sg. instr.	0004b17	處	对译	0164c28	入	
-U19-008	S0334	dhātunā	dhātu	n. sg. instr.	0004b17	界	对译	0164c28	界	
-U19-010	S0335	rūpaskandhena	rūpa-skandha	cpd. sg. instr.	0004b19	色蘊	对译	0164c28	色陰	"一"为增字（由一色蘊）
-U19-011	S0335	mana āyatanena	manas-āyatana	cpd. sg. instr.	0004b19	意處	对译	0164c29	意入	
-U19-012	S0335	dharmadhātunā	dharma-dhātu	cpd. sg. instr.	0004b19	法界	对译	0164c29	法界	
-U19-014	S0335	boddhavyaḥ	budh	gdv. sg. nom.	0004b19	知	对译	0164c29	知	
-U19-015	S0335	saṃgraho	saṃgraha	n. sg. nom.	0004b19	攝	对译	0164c29	攝	"總"为增字
-U19-016	S0335	sarvadharmāṇāṃ	sarva-dharma	cpd. pl. gen.	0004b19	一切法	对译	0164c29	一切法	"盡"为增字
+U19-003	S0334	saṃgraha	saṃgraha	n. m. sg. nom.	0004b17	攝	对译	0164c27	攝	
+U19-005	S0334	ekena	eka	num. m. sg. instr. (?)	0004b17	一	对译	0164c28	一	
+U19-006	S0334	skandehnā	skandha	n. m. sg. instr.	0004b17	蘊	对译	0164c28	陰	GRETIL 本作 skandehnāyatanena，当读 skandhenāyatanena
+U19-007	S0334	āyatanena	āyatana	n. nt. sg. instr.	0004b17	處	对译	0164c28	入	
+U19-008	S0334	dhātunā	dhātu	n. m. sg. instr.	0004b17	界	对译	0164c28	界	
+U19-010	S0335	rūpaskandhena	rūpa-skandha	cpd. m. sg. instr.	0004b19	色蘊	对译	0164c28	色陰	"一"为增字（由一色蘊）
+U19-011	S0335	mana āyatanena	manas-āyatana	cpd. nt. sg. instr.	0004b19	意處	对译	0164c29	意入	
+U19-012	S0335	dharmadhātunā	dharma-dhātu	cpd. m. sg. instr.	0004b19	法界	对译	0164c29	法界	
+U19-014	S0335	boddhavyaḥ	budh	gdv. m. sg. nom.	0004b19	知	对译	0164c29	知	
+U19-015	S0335	saṃgraho	saṃgraha	n. m. sg. nom.	0004b19	攝	对译	0164c29	攝	"總"为增字
+U19-016	S0335	sarvadharmāṇāṃ	sarva-dharma	cpd. m. pl. gen.	0004b19	一切法	对译	0164c29	一切法	"盡"为增字
 U19-017	S0336	yatra kvacid	yatra kvacit	ind.	0004b20	於諸處	语法	0165a01	處處	不定处所副词（无论何处）；"諸"非复数
 U19-018	S0336				0004b20	就勝義	增译			与下文"就世俗說"（sāṃketika）相对，玄奘补出
-U19-019	S0336	ucyamāno	vac	ptc. pres. pass. nom. sg.	0004b20	說	对译	0165a01	說	
-U19-020	S0336	saṃgraho	saṃgraha	n. sg. nom.	0004b20	攝	对译	0165a01	攝	
+U19-019	S0336	ucyamāno	vac	ptc. pres. pass. m. sg. nom.	0004b20	說	对译	0165a01	說	
+U19-020	S0336	saṃgraho	saṃgraha	n. m. sg. nom.	0004b20	攝	对译	0165a01	攝	
 U19-021	S0336	khalveṣa	khalu	ind.			省译			
-U19-022	S0336	veditavyaḥ	vid	gdv. sg. nom.			省译	0165a01	應知	
-U19-023	S0337	svabhāvena	svabhāva	n. sg. instr.	0004b18	自性	对译	0165a01	自性類	颂文"攝"为增字
-U19-024	S0337	svabhāvena	svabhāva	n. sg. instr.	0004b20	自性	对译	0165a02	同性類	长行复述颂文；"唯攝"为增字
-U19-025	S0338	parabhāvena	para-bhāva	cpd. sg. instr.	0004b18	餘	意译			玄奘颂文"非餘"取自长行 na parabhāvena
-U19-026	S0338	parabhāvena	para-bhāva	cpd. sg. instr.	0004b21	他性	对译	0165a02	異性	"不攝"之"攝"为增字
+U19-022	S0336	veditavyaḥ	vid	gdv. m. sg. nom.			省译	0165a01	應知	
+U19-023	S0337	svabhāvena	svabhāva	n. m. sg. instr.	0004b18	自性	对译	0165a01	自性類	颂文"攝"为增字
+U19-024	S0337	svabhāvena	svabhāva	n. m. sg. instr.	0004b20	自性	对译	0165a02	同性類	长行复述颂文；"唯攝"为增字
+U19-025	S0338	parabhāvena	para-bhāva	cpd. m. sg. instr.	0004b18	餘	意译			玄奘颂文"非餘"取自长行 na parabhāvena
+U19-026	S0338	parabhāvena	para-bhāva	cpd. m. sg. instr.	0004b21	他性	对译	0165a02	異性	"不攝"之"攝"为增字
 U19-027	S0338	para	para	pron. 成分	0004b21	他	对译	0165a02	異	
-U19-028	S0338	bhāvena	bhāva	n. sg. instr.	0004b21	性	对译	0165a02	性	
+U19-028	S0338	bhāvena	bhāva	n. m. sg. instr.	0004b21	性	对译	0165a02	性	
 U19-031	S0339	parabhāvaviyogataḥ	para-bhāva-viyoga	cpd. sg. abl. (-tas)	0004b18	離他性	对译	0165a03	離餘法性類	
 U19-032	S0339	parabhāva	para-bhāva	cpd. 成分	0004b18	他性	对译	0165a03	餘法性類	
 U19-033	S0339	viyogataḥ	viyoga	n. sg. abl. (-tas)	0004b18	離	对译	0165a03	離	
-U19-034	S0340	dharmaḥ	dharma	n. sg. nom.	0004b21	法	对译	0165a03	法	
+U19-034	S0340	dharmaḥ	dharma	n. m. sg. nom.	0004b21	法	对译	0165a03	法	
 U19-035	S0340	parabhavena	instr.	gram. instr. (-ena)	0004b21	與	语法	0165a03	與	第三格（与……相离）译"與"
-U19-036	S0340	parabhavena	para-bhāva	cpd. sg. instr.	0004b21	他性	对译	0165a04	他性	GRETIL 本作 parabhavena
-U19-037	S0340	viyukto	vi-yuj	ptc. sg. nom. (viyukta)	0004b21	相離	对译	0165a04	相離	"恒"为增字
-U19-039	S0340	yena	yad	pron. sg. instr.	0004b22	彼	语法			关系代词 yena（所离者）玄奘作"於彼"
-U19-040	S0340	viyuktas	vi-yuj	ptc. sg. nom. (viyukta)	0004b22	離	对译			
+U19-036	S0340	parabhavena	para-bhāva	cpd. m. sg. instr.	0004b21	他性	对译	0165a04	他性	GRETIL 本作 parabhavena
+U19-037	S0340	viyukto	vi-yuj	ptc. m. sg. nom. (viyukta)	0004b21	相離	对译	0165a04	相離	"恒"为增字
+U19-039	S0340	yena	yad	pron. m. sg. instr.	0004b22	彼	语法			关系代词 yena（所离者）玄奘作"於彼"
+U19-040	S0340	viyuktas	vi-yuj	ptc. m. sg. nom. (viyukta)	0004b22	離	对译			
 U19-041	S0340				0004b22	而言	增译			
-U19-042	S0340	saṃgṛhīto	sam-grah	ptc. sg. nom.	0004b22	攝	对译	0165a05	攝	
+U19-042	S0340	saṃgṛhīto	sam-grah	ptc. m. sg. nom.	0004b22	攝	对译	0165a05	攝	
 U19-043	S0340	yujyate	yuj	v. pres. pass. 3sg.	0004b22	其理…然	意译			yujyate（合理）玄奘作"其理…然"；否定"不"归 na
 U19-044	S0341	tadyathā	tadyathā	ind.	0004b22	且如	语法	0165a05	譬如	
-U19-045	S0341	cakṣurindriyaṃ	cakṣus-indriya	cpd. sg. nom.	0004b22	眼根	对译	0165a05	眼根	
+U19-045	S0341	cakṣurindriyaṃ	cakṣus-indriya	cpd. nt. sg. nom.	0004b22	眼根	对译	0165a05	眼根	
 U19-046	S0341	cakṣur	cakṣus	n. 成分	0004b22	眼	对译	0165a05	眼	
-U19-047	S0341	indriyaṃ	indriya	n. sg. nom.	0004b22	根	对译	0165a05	根	
+U19-047	S0341	indriyaṃ	indriya	n. nt. sg. nom.	0004b22	根	对译	0165a05	根	
 U19-048	S0341				0004b22	唯	增译			
-U19-049	S0341	rūpaskandhena	rūpa-skandha	cpd. sg. instr.	0004b23	色蘊	对译	0165a05	色陰	
-U19-050	S0341	cakṣurāyatanadhātubhyāṃ	cakṣus-āyatana-dhātu	cpd. du. instr.	0004b23	眼處眼界	对译	0165a05	眼入眼界	玄奘把共用的 cakṣus 分别补在"處""界"前
+U19-049	S0341	rūpaskandhena	rūpa-skandha	cpd. m. sg. instr.	0004b23	色蘊	对译	0165a05	色陰	
+U19-050	S0341	cakṣurāyatanadhātubhyāṃ	cakṣus-āyatana-dhātu	cpd. m. du. instr.	0004b23	眼處眼界	对译	0165a05	眼入眼界	玄奘把共用的 cakṣus 分别补在"處""界"前
 U19-051	S0341	āyatana	āyatana	n. 成分	0004b23	處	对译	0165a05	入	
-U19-052	S0341	dhātubhyāṃ	dhātu	n. du. instr.	0004b23	界	对译	0165a05	界	
-U19-053	S0341	duḥkhasamudayasatyābhyāṃ	duḥkha-samudaya-satya	cpd. du. instr.	0004b23	苦集諦	对译	0165a05	苦集二諦	
+U19-052	S0341	dhātubhyāṃ	dhātu	n. m. du. instr.	0004b23	界	对译	0165a05	界	
+U19-053	S0341	duḥkhasamudayasatyābhyāṃ	duḥkha-samudaya-satya	cpd. nt. du. instr.	0004b23	苦集諦	对译	0165a05	苦集二諦	
 U19-054	S0341	duḥkha	duḥkha	n. 成分	0004b23	苦	对译	0165a05	苦	
 U19-055	S0341	samudaya	samudaya	n. 成分	0004b23	集	对译	0165a06	集	
-U19-056	S0341	satyābhyāṃ	satya	n. du. instr.	0004b23	諦	对译	0165a06	諦	
+U19-056	S0341	satyābhyāṃ	satya	n. nt. du. instr.	0004b23	諦	对译	0165a06	諦	
 U19-057	S0341				0004b23	等	增译	0165a06	等	梵文只列苦、集二谛，二译都加"等"
-U19-058	S0341	saṃgṛhītam	sam-grah	ptc. sg. nom.	0004b23	攝	对译	0165a06	攝	
-U19-059	S0342	tatsvabhāvatvāt	tad-svabhāva-tva	cpd. sg. abl.	0004b23	是彼性	对译	0165a06	同性	第五格 -āt 译"故"
+U19-058	S0341	saṃgṛhītam	sam-grah	ptc. nt. sg. nom.	0004b23	攝	对译	0165a06	攝	
+U19-059	S0342	tatsvabhāvatvāt	tad-svabhāva-tva	cpd. nt. sg. abl.	0004b23	是彼性	对译	0165a06	同性	第五格 -āt 译"故"
 U19-061	S0342	svabhāvatvāt	svabhāva	n. 成分	0004b23	性	对译	0165a06	性	
-U19-062	S0342	skandhādibhis	skandha-ādi	cpd. pl. instr.	0004b24	蘊餘處界等	意译	0165a06	陰等	ādi 玄奘展开为"餘處界等"
+U19-062	S0342	skandhādibhis	skandha-ādi	cpd. m. pl. instr.	0004b24	蘊餘處界等	意译	0165a06	陰等	ādi 玄奘展开为"餘處界等"
 U19-063	S0342	skandhā	skandha	n. 成分	0004b24	蘊	对译	0165a06	陰	
-U19-064	S0342	ādibhis	ādi	n. pl. instr.	0004b24	等	对译	0165a06	等	
-U19-065	S0342	tadbhāva viyuktatvāt	tad-bhāva-viyukta-tva	cpd. sg. abl.	0004b24	離彼性	对译	0165a06	彼性不相應	GRETIL 本分写作 tadbhāva viyuktatvāt
+U19-064	S0342	ādibhis	ādi	n. m. pl. instr.	0004b24	等	对译	0165a06	等	
+U19-065	S0342	tadbhāva viyuktatvāt	tad-bhāva-viyukta-tva	cpd. nt. sg. abl.	0004b24	離彼性	对译	0165a06	彼性不相應	GRETIL 本分写作 tadbhāva viyuktatvāt
 U19-066	S0342	viyuktatvāt	vi-yuj	ptc. 成分 (viyukta)	0004b24	離	对译	0165a06	不相應	
 U19-067	S0342	bhāva viyuktatvāt	bhāva	n. 成分	0004b24	性	对译	0165a06	性	
-U19-068	S0343	yastvanyenā	yad	pron. sg. nom.	0004b24	若	语法			关系代词引出的主语从句，玄奘改作条件句"若…"
+U19-068	S0343	yastvanyenā	yad	pron. m. sg. nom.	0004b24	若	语法			关系代词引出的主语从句，玄奘改作条件句"若…"
 U19-069	S0343				0004b24	於諸處	增译			仿上文 yatra kvacit 补出
-U19-070	S0343	sāṃketiko	sāṃketika	adj. sg. nom.	0004b24	世俗	意译	0165a08	假名	"就"为增字
+U19-070	S0343	sāṃketiko	sāṃketika	adj. m. sg. nom.	0004b24	世俗	意译	0165a08	假名	"就"为增字
 U19-071	S0343	ucyate	vac	v. pres. pass. 3sg.	0004b25	說	对译	0165a07	說	
-U19-072	S0343	veditavyaḥ	vid	gdv. sg. nom.	0004b25	知	对译	0165a08	知	"應"表 gdv.，"亦"为增字
+U19-072	S0343	veditavyaḥ	vid	gdv. m. sg. nom.	0004b25	知	对译	0165a08	知	"應"表 gdv.，"亦"为增字
 U19-073	S0343	anyenā	instr.	gram. instr. (-ena)	0004b25	以	语法	0165a07	由	
-U19-074	S0343	anyenā	anya	pron. sg. instr.	0004b25	餘法	意译	0165a07	他	补出"法"
-U19-075	S0343	saṃgraha ucyate	saṃgraha	n. sg. nom.	0004b25	攝	对译	0165a07	攝	
-U19-076	S0343	ānyasya	anya	pron. sg. gen.	0004b25	餘	对译	0165a07	他	
-U19-078	S0343	saṃgrahavastubhiḥ	saṃgraha-vastu	cpd. pl. instr.	0004b25	四攝事	意译	0165a07	四攝類	二译都补出"四"
+U19-074	S0343	anyenā	anya	pron. m. sg. instr.	0004b25	餘法	意译	0165a07	他	补出"法"
+U19-075	S0343	saṃgraha ucyate	saṃgraha	n. m. sg. nom.	0004b25	攝	对译	0165a07	攝	
+U19-076	S0343	ānyasya	anya	pron. m. sg. gen.	0004b25	餘	对译	0165a07	他	
+U19-078	S0343	saṃgrahavastubhiḥ	saṃgraha-vastu	cpd. nt. pl. instr.	0004b25	四攝事	意译	0165a07	四攝類	二译都补出"四"
 U19-079	S0343	saṃgrahavastubhiḥ	saṃgraha	n. 成分	0004b25	攝	对译			
-U19-080	S0343	vastubhiḥ	vastu	n. pl. instr.	0004b25	事	对译	0165a08	類	
-U19-081	S0343	parṣadāṃ	parṣad	n. pl. gen.	0004b26	徒眾	对译	0165a08	眾生	"等"为增字
-U19-082	S0343	kādācitkatvāt	kādācitka-tva	n. sg. abl.			省译	0165a08	不恒	玄奘未译"因其暂时性"
+U19-080	S0343	vastubhiḥ	vastu	n. nt. pl. instr.	0004b25	事	对译	0165a08	類	
+U19-081	S0343	parṣadāṃ	parṣad	n. f. pl. gen.	0004b26	徒眾	对译	0165a08	眾生	"等"为增字
+U19-082	S0343	kādācitkatvāt	kādācitka-tva	n. nt. sg. abl.			省译	0165a08	不恒	玄奘未译"因其暂时性"
 U19-083	S0344				0004b26	三處各	增译	0165a09	各	
-U19-084	S0344	cakṣuṣo	cakṣus	n. sg. gen.	0004b26	眼	对译	0165a09	眼	
-U19-085	S0344	śrotraghrāṇayośca	śrotra-ghrāṇa	cpd. du. gen.	0004b26	耳鼻	对译	0165a09	耳鼻	
+U19-084	S0344	cakṣuṣo	cakṣus	n. nt. sg. gen.	0004b26	眼	对译	0165a09	眼	
+U19-085	S0344	śrotraghrāṇayośca	śrotra-ghrāṇa	cpd. nt. du. gen.	0004b26	耳鼻	对译	0165a09	耳鼻	
 U19-086	S0344	śrotra	śrotra	n. 成分	0004b26	耳	对译	0165a09	耳	
 U19-087	S0344	ghrāṇayoś	ghrāṇa	n. 成分	0004b26	鼻	对译	0165a09	鼻	
-U19-088	S0344	dvitvāt	dvi-tva	n. sg. abl.	0004b26	有二	意译	0165a09	有二	
+U19-088	S0344	dvitvāt	dvi-tva	n. nt. sg. abl.	0004b26	有二	意译	0165a09	有二	
 U19-089	S0344	nanu caika	nanu	ind.	0004b26	何緣…非	语法	0165a08	何故…不	nanu（岂非）以反问"何緣…非"表出
-U19-090	S0344	dhātubhir	dhātu	n. pl. instr.	0004b26	界	对译	0165a09	界	"體"为增字
-U19-091	S0344	aikaviṃśatyā	ekaviṃśati	num. sg. instr.	0004b27	二十一	对译	0165a09	二十一	
-U19-092	S0344	bhavitavyam /	bhū	gdv. sg. nom.			省译	0165a09	成	
+U19-090	S0344	dhātubhir	dhātu	n. m. pl. instr.	0004b26	界	对译	0165a09	界	"體"为增字
+U19-091	S0344	aikaviṃśatyā	ekaviṃśati	num. f. sg. instr.	0004b27	二十一	对译	0165a09	二十一	
+U19-092	S0344	bhavitavyam /	bhū	gdv. nt. sg. nom.			省译	0165a09	成	
 U19-093	S0345	na bhavitavyam	na bhavitavyam	ind. phr.	0004b27	此難非理	意译	0165a09	不應爾	na bhavitavyam（不应如此）玄奘作驳辞"此難非理"
 U19-094	S0345	yasmāt	yasmāt	ind.	0004b27	所以者何	语法	0165a10	何以故	

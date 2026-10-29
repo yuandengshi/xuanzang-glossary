@@ -1,42 +1,42 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
-U15-001	S0281	vedanā	vedanā	n. sg. nom.	0003c28	受	对译	0164b13	受	真谛作"受陰"
-U15-002	S0281	'nubhavaḥ	anubhava	n. sg. nom.	0003c28	領納	对译	0164b13	領	
+U15-001	S0281	vedanā	vedanā	n. f. sg. nom.	0003c28	受	对译	0164b13	受	真谛作"受陰"
+U15-002	S0281	'nubhavaḥ	anubhava	n. m. sg. nom.	0003c28	領納	对译	0164b13	領	
 U15-003	S0281				0003c28	隨觸	增译	0164b13	隨觸	玄奘、真谛都在 anubhava 后有"隨觸"，当是据"受随触生"之释增出；待核是否另有梵本依据
-U15-004	S0282	trividho	trividha	adj. sg. nom.	0004a02	三	对译	0164b13	三種	"謂"为增字
-U15-005	S0282	'nubhavo	anubhava	n. sg. nom.	0004a02	領納	对译	0164b13	領	
+U15-004	S0282	trividho	trividha	adj. m. sg. nom.	0004a02	三	对译	0164b13	三種	"謂"为增字
+U15-005	S0282	'nubhavo	anubhava	n. m. sg. nom.	0004a02	領納	对译	0164b13	領	
 U15-006	S0282				0004a02	隨觸	增译	0164b13	隨觸	同上条（颂文）
-U15-007	S0282	vedanāskandhaḥ	vedanā-skandha	cpd. sg. nom.	0004a02	受蘊	对译	0164b14	受陰	
+U15-007	S0282	vedanāskandhaḥ	vedanā-skandha	cpd. m. sg. nom.	0004a02	受蘊	对译	0164b14	受陰	
 U15-008	S0282	vedanā	vedanā	n. 成分	0004a02	受	对译	0164b14	受	
-U15-009	S0282	skandhaḥ	skandha	n. sg. nom.	0004a02	蘊	对译	0164b14	陰	
-U15-010	S0282	sukho	sukha	adj. sg. nom.	0004a02	樂	对译	0164b14	樂	
+U15-009	S0282	skandhaḥ	skandha	n. m. sg. nom.	0004a02	蘊	对译	0164b14	陰	
+U15-010	S0282	sukho	sukha	adj. m. sg. nom.	0004a02	樂	对译	0164b14	樂	
 U15-011	S0282				0004a02	即	增译			
-U15-012	S0282	duḥkho	duḥkha	adj. sg. nom.	0004a02	苦	对译	0164b14	苦	
-U15-013	S0282	duḥkhāsukhaś	a-duḥkha-a-sukha	cpd. adj. sg. nom.	0004a02	不苦不樂	对译	0164b14	不樂不苦	GRETIL 本作 ", duḥkhāsukhaśca"，脱 avagraha，当读 'duḥkhāsukhaś ca；真谛倒序
+U15-012	S0282	duḥkho	duḥkha	adj. m. sg. nom.	0004a02	苦	对译	0164b14	苦	
+U15-013	S0282	duḥkhāsukhaś	a-duḥkha-a-sukha	cpd. adj. m. sg. nom.	0004a02	不苦不樂	对译	0164b14	不樂不苦	GRETIL 本作 ", duḥkhāsukhaśca"，脱 avagraha，当读 'duḥkhāsukhaś ca；真谛倒序
 U15-014	S0282	duḥkhā	a-duḥkha	adj. 成分	0004a02	不苦	对译	0164b15	不苦	
-U15-015	S0282	āsukhaś	a-sukha	adj. sg. nom.	0004a03	不樂	对译	0164b14	不樂	
-U15-018	S0283	bhidyamānaḥ	bhid	ptc. pres. pass. nom. sg.	0004a03	分別	对译	0164b15	分別	
+U15-015	S0282	āsukhaś	a-sukha	adj. m. sg. nom.	0004a03	不樂	对译	0164b14	不樂	
+U15-018	S0283	bhidyamānaḥ	bhid	ptc. pres. pass. m. sg. nom.	0004a03	分別	对译	0164b15	分別	
 U15-019	S0283				0004a03	成	增译	0164b15	成	二译都补出"成"
 U15-020	S0283	ṣaḍ	ṣaṣ	num. pl. nom.	0004a03	六	对译	0164b15	六	
-U15-021	S0283	vedanākāyāḥ	vedanā-kāya	cpd. pl. nom.	0004a03	受身	对译	0164b16	受聚	
+U15-021	S0283	vedanākāyāḥ	vedanā-kāya	cpd. m. pl. nom.	0004a03	受身	对译	0164b16	受聚	
 U15-022	S0283	vedanā	vedanā	n. 成分	0004a03	受	对译	0164b16	受	
-U15-023	S0283	kāyāḥ	kāya	n. pl. nom.	0004a03	身	对译	0164b16	聚	kāya 译"身"，真谛作"聚"
-U15-024	S0283	cakṣuḥsaṃsparśajā	cakṣus-saṃsparśa-ja	cpd. adj. sg. nom.	0004a03	眼觸所生	对译	0164b16	眼觸所生	"謂"为增字
+U15-023	S0283	kāyāḥ	kāya	n. m. pl. nom.	0004a03	身	对译	0164b16	聚	kāya 译"身"，真谛作"聚"
+U15-024	S0283	cakṣuḥsaṃsparśajā	cakṣus-saṃsparśa-ja	cpd. adj. f. sg. nom.	0004a03	眼觸所生	对译	0164b16	眼觸所生	"謂"为增字
 U15-025	S0283	cakṣuḥ	cakṣus	n. 成分	0004a03	眼	对译	0164b16	眼	
 U15-026	S0283	saṃsparśajā	saṃsparśa	n. 成分	0004a03	觸	对译	0164b16	觸	
-U15-027	S0283	jā	ja	adj. 成分	0004a03	所生	对译	0164b16	所生	
-U15-028	S0283	vedanā yāvam	vedanā	n. sg. nom.	0004a03	受	对译	0164b16	受	
+U15-027	S0283	jā	ja	adj. f. sg. nom.	0004a03	所生	对译	0164b16	所生	
+U15-028	S0283	vedanā yāvam	vedanā	n. f. sg. nom.	0004a03	受	对译	0164b16	受	
 U15-029	S0283	yāvamvanaḥ	yāvat	ind.	0004a03	乃至	语法	0164b16	乃至	GRETIL 本作 yāvamvanaḥ，当读 yāvan manaḥ
-U15-030	S0283	vanaḥsaṃsparśajā	manas-saṃsparśa-ja	cpd. adj. sg. nom.	0004a04	意觸所生	对译	0164b16	意觸所生	GRETIL 本作 -vanaḥsaṃsparśajā，当读 manaḥsaṃsparśajā
+U15-030	S0283	vanaḥsaṃsparśajā	manas-saṃsparśa-ja	cpd. adj. f. sg. nom.	0004a04	意觸所生	对译	0164b16	意觸所生	GRETIL 本作 -vanaḥsaṃsparśajā，当读 manaḥsaṃsparśajā
 U15-031	S0283	vanaḥ	manas	n. 成分	0004a04	意	对译	0164b16	意	GRETIL 误作 vanaḥ
-U15-032	S0283	vedaneti	vedanā	n. sg. nom.	0004a04	受	对译	0164b16	受	
-U15-033	S0284	saṃjñā	saṃjñā	n. sg. nom.	0003c28	想	对译	0164b17	想	真谛作"想陰"
-U15-034	S0284	nimittodgrahaṇātmikā	nimitta-udgrahaṇa-ātmaka	cpd. adj. sg. nom.	0003c28	取像為體	对译	0164b17	別執相	真谛未译 ātmaka
+U15-032	S0283	vedaneti	vedanā	n. f. sg. nom.	0004a04	受	对译	0164b16	受	
+U15-033	S0284	saṃjñā	saṃjñā	n. f. sg. nom.	0003c28	想	对译	0164b17	想	真谛作"想陰"
+U15-034	S0284	nimittodgrahaṇātmikā	nimitta-udgrahaṇa-ātmaka	cpd. adj. f. sg. nom.	0003c28	取像為體	对译	0164b17	別執相	真谛未译 ātmaka
 U15-035	S0284	nimitto	nimitta	n. 成分	0003c28	像	对译	0164b17	相	
 U15-036	S0284	odgrahaṇā	udgrahaṇa	n. 成分	0003c28	取	对译	0164b17	執	
-U15-037	S0284	ātmikā	ātmaka	adj. 成分	0003c28	為體	对译			ātmaka（以……为本性）译"為體"
-U15-038	S0284	nimittodgrahaṇātmikā	nimitta-udgrahaṇa-ātmaka	cpd. adj. sg. nom.	0004a04	取像為體	对译			长行复述颂文；"謂能"为增字
+U15-037	S0284	ātmikā	ātmaka	adj. f. sg. nom.	0003c28	為體	对译			ātmaka（以……为本性）译"為體"
+U15-038	S0284	nimittodgrahaṇātmikā	nimitta-udgrahaṇa-ātmaka	cpd. adj. f. sg. nom.	0004a04	取像為體	对译			长行复述颂文；"謂能"为增字
 U15-039	S0285	yāvan	yāvat	ind.			省译			句首 yāvat（表举例）玄奘未明译，或以"即"当之；待核
-U15-040	S0285	nīlapītadīrghahrasvastripuruṣamitramitrasukhaduḥkhādinimittodgrahaṇam	nīla-pīta-dīrgha-hrasva-strī-puruṣa-mitra-amitra-sukha-duḥkha-ādi-nimitta-udgrahaṇa	cpd. sg. nom.	0004a05	執取青黃長短、男女怨親、苦樂等相	对译	0164b17	青黃、長短、男女、親怨、樂苦等相差別執	玄奘把 udgrahaṇa 移前作"執取"；strī-puruṣa、mitra-amitra、sukha-duḥkha 都倒序；"即能"为增字
+U15-040	S0285	nīlapītadīrghahrasvastripuruṣamitramitrasukhaduḥkhādinimittodgrahaṇam	nīla-pīta-dīrgha-hrasva-strī-puruṣa-mitra-amitra-sukha-duḥkha-ādi-nimitta-udgrahaṇa	cpd. nt. sg. nom.	0004a05	執取青黃長短、男女怨親、苦樂等相	对译	0164b17	青黃、長短、男女、親怨、樂苦等相差別執	玄奘把 udgrahaṇa 移前作"執取"；strī-puruṣa、mitra-amitra、sukha-duḥkha 都倒序；"即能"为增字
 U15-041	S0285	nīla	nīla	adj. 成分	0004a05	青	对译	0164b17	青	
 U15-042	S0285	pīta	pīta	adj. 成分	0004a05	黃	对译	0164b17	黃	
 U15-043	S0285	dīrgha	dīrgha	adj. 成分	0004a05	長	对译	0164b17	長	
@@ -49,137 +49,137 @@ U15-049	S0285	sukhaduḥkhā	sukha	n. 成分	0004a05	樂	对译	0164b18	樂
 U15-050	S0285	duḥkhādi	duḥkha	n. 成分	0004a05	苦	对译	0164b18	苦	
 U15-051	S0285	ādinimitto	ādi	n. 成分	0004a05	等	对译	0164b18	等	
 U15-052	S0285	nimittodgrahaṇam	nimitta	n. 成分	0004a05	相	对译	0164b18	相	
-U15-053	S0285	odgrahaṇam	udgrahaṇa	n. 成分	0004a05	執取	对译	0164b18	執	
-U15-054	S0285	asau	adas	pron. sg. nom.			省译	0164b18	是	
-U15-055	S0285	saṃjñāskandhaḥ	saṃjñā-skandha	cpd. sg. nom.	0004a04	想蘊	对译	0164b18	想陰	玄奘把主语"想蘊"置于句首
+U15-053	S0285	odgrahaṇam	udgrahaṇa	n. nt. sg. nom.	0004a05	執取	对译	0164b18	執	
+U15-054	S0285	asau	adas	pron. m. sg. nom.			省译	0164b18	是	
+U15-055	S0285	saṃjñāskandhaḥ	saṃjñā-skandha	cpd. m. sg. nom.	0004a04	想蘊	对译	0164b18	想陰	玄奘把主语"想蘊"置于句首
 U15-056	S0285	saṃjñā	saṃjñā	n. 成分	0004a04	想	对译	0164b18	想	
-U15-057	S0285	skandhaḥ	skandha	n. sg. nom.	0004a04	蘊	对译	0164b18	陰	
-U15-059	S0286	bhidyamānaḥ	bhid	ptc. pres. pass. nom. sg.	0004a05	分別	对译	0164b18	分別	"成"为增字
-U15-060	S0286	ṣaṭsaṃjñākāyā	ṣaṣ-saṃjñā-kāya	cpd. pl. nom.	0004a06	六想身	对译	0164b19	有六	真谛只作"有六"
+U15-057	S0285	skandhaḥ	skandha	n. m. sg. nom.	0004a04	蘊	对译	0164b18	陰	
+U15-059	S0286	bhidyamānaḥ	bhid	ptc. pres. pass. m. sg. nom.	0004a05	分別	对译	0164b18	分別	"成"为增字
+U15-060	S0286	ṣaṭsaṃjñākāyā	ṣaṣ-saṃjñā-kāya	cpd. m. pl. nom.	0004a06	六想身	对译	0164b19	有六	真谛只作"有六"
 U15-061	S0286	ṣaṭ	ṣaṣ	num. 成分	0004a06	六	对译	0164b19	六	
 U15-062	S0286	saṃjñā	saṃjñā	n. 成分	0004a06	想	对译	0164b19	想	
-U15-063	S0286	kāyā	kāya	n. pl. nom.	0004a06	身	对译			
+U15-063	S0286	kāyā	kāya	n. m. pl. nom.	0004a06	身	对译			
 U15-064	S0286	vedanāvat	vedanā	n. 成分	0004a06	受	对译	0164b19	受	
 U15-066	S0286				0004a06	應…說	增译			玄奘补出"應…說"（應如受說）
-U15-067	S0287	caturbhyo	catur	num. pl. abl.	0003c29	四	对译	0164b19	四	
-U15-068	S0287	'nye	anya	pron. pl. nom.	0003c29	餘	对译	0164b19	異	caturbhyo 'nye（异于四者）
-U15-070	S0287	saṃskāraskandhaḥ	saṃskāra-skandha	cpd. sg. nom.	0003c29	行蘊	对译	0164b19	行陰	
+U15-067	S0287	caturbhyo	catur	num. m. pl. abl. (?)	0003c29	四	对译	0164b19	四	
+U15-068	S0287	'nye	anya	pron. m. pl. nom.	0003c29	餘	对译	0164b19	異	caturbhyo 'nye（异于四者）
+U15-070	S0287	saṃskāraskandhaḥ	saṃskāra-skandha	cpd. m. sg. nom.	0003c29	行蘊	对译	0164b19	行陰	
 U15-071	S0287	saṃskāra	saṃskāra	n. 成分	0003c29	行	对译	0164b19	行	
-U15-072	S0287	skandhaḥ	skandha	n. sg. nom.	0003c29	蘊	对译	0164b19	陰	
+U15-072	S0287	skandhaḥ	skandha	n. m. sg. nom.	0003c29	蘊	对译	0164b19	陰	
 U15-073	S0287				0003c29	名	增译	0164b19	名	二译都以"名"连接主谓
-U15-074	S0288	rūpavedanāsaṃjñāvijñānebhyaś	rūpa-vedanā-saṃjñā-vijñāna	cpd. pl. abl.	0004a06	色、受、想、識	对译	0164b19	色、受、想、識	
+U15-074	S0288	rūpavedanāsaṃjñāvijñānebhyaś	rūpa-vedanā-saṃjñā-vijñāna	cpd. nt. pl. abl.	0004a06	色、受、想、識	对译	0164b19	色、受、想、識	
 U15-075	S0288	rūpa	rūpa	n. 成分	0004a06	色	对译	0164b19	色	
 U15-076	S0288	vedanā	vedanā	n. 成分	0004a06	受	对译	0164b20	受	
 U15-077	S0288	saṃjñā	saṃjñā	n. 成分	0004a06	想	对译	0164b20	想	
-U15-078	S0288	vijñānebhyaś	vijñāna	n. pl. abl.	0004a07	識	对译	0164b20	識	
+U15-078	S0288	vijñānebhyaś	vijñāna	n. nt. pl. abl.	0004a07	識	对译	0164b20	識	
 U15-079	S0288	vijñānebhyaś	abl.	gram. abl. (-bhyaḥ)	0004a06	除	语法	0164b19	除	表比较的第五格（……ebhyaḥ … anye，异于……）以"除…餘"表出
-U15-080	S0288	catubbryo	catur	num. pl. abl.			省译	0164b20	四	GRETIL 本作 catubbryo，当读 caturbhyo；玄奘未译"四"，真谛作"四陰"
+U15-080	S0288	catubbryo	catur	num. nt. pl. abl.			省译	0164b20	四	GRETIL 本作 catubbryo，当读 caturbhyo；玄奘未译"四"，真谛作"四陰"
 U15-081	S0288				0004a06	前及後	增译			玄奘补出"前及後"，指行蕴之前的色、受、想与之后的识
 U15-082	S0288				0004a07	一切	增译			
-U15-083	S0288	saṃskārāḥ saṃskāra	saṃskāra	n. pl. nom.	0004a07	行	对译	0164b20	有為法	真谛以"有為法"译 saṃskāra
-U15-084	S0288	saṃskārāḥ saṃskāraskandhaḥ	saṃskāra-skandha	cpd. sg. nom.	0004a07	行蘊	对译	0164b20	行陰	
+U15-083	S0288	saṃskārāḥ saṃskāra	saṃskāra	n. m. pl. nom.	0004a07	行	对译	0164b20	有為法	真谛以"有為法"译 saṃskāra
+U15-084	S0288	saṃskārāḥ saṃskāraskandhaḥ	saṃskāra-skandha	cpd. m. sg. nom.	0004a07	行蘊	对译	0164b20	行陰	
 U15-085	S0288				0004a07	名為	增译	0164b20	名	
 U15-086	S0289	tu sūtre	tu	ind.	0004a07	然	语法			
-U15-087	S0289	bhagavatā	bhagavat	n. sg. instr.	0004a07	薄伽梵	音译	0164b20	佛世尊	
-U15-088	S0289	sūtre	sūtra	n. sg. loc.	0004a07	契經	对译	0164b20	經	
+U15-087	S0289	bhagavatā	bhagavat	n. m. sg. instr.	0004a07	薄伽梵	音译	0164b20	佛世尊	
+U15-088	S0289	sūtre	sūtra	n. nt. sg. loc.	0004a07	契經	对译	0164b20	經	
 U15-090	S0289	ṣaṭ	ṣaṣ	num. pl. nom.	0004a08	六	对译	0164b21	六	
-U15-091	S0289	cetanākāyā	cetanā-kāya	cpd. pl. nom.	0004a08	思身	对译	0164b21	故意聚	
+U15-091	S0289	cetanākāyā	cetanā-kāya	cpd. m. pl. nom.	0004a08	思身	对译	0164b21	故意聚	
 U15-092	S0289	cetanā	cetanā	n. 成分	0004a08	思	对译	0164b21	故意	真谛 cetanā 译"故意"
-U15-093	S0289	kāyā	kāya	n. pl. nom.	0004a08	身	对译	0164b21	聚	
+U15-093	S0289	kāyā	kāya	n. m. pl. nom.	0004a08	身	对译	0164b21	聚	
 U15-094	S0289				0004a08	為行蘊	增译	0164b21	名行取陰	玄奘补出经文的谓语"為行蘊"
-U15-096	S0289	uktaṃ	vac	ptc. sg. nom.	0004a08	說	对译	0164b21	說	
-U15-097	S0289	prādhānyāt	prādhānya	n. sg. abl.	0004a08	最勝	对译	0164b21	勝	
+U15-096	S0289	uktaṃ	vac	ptc. nt. sg. nom.	0004a08	說	对译	0164b21	說	
+U15-097	S0289	prādhānyāt	prādhānya	n. nt. sg. abl.	0004a08	最勝	对译	0164b21	勝	
 U15-099	S0290	sā hi	hi	ind.	0004a08	所以者何	语法			hi 引出理由，玄奘以设问"所以者何"表出
 U15-100	S0290				0004a09	行名造作	增译			玄奘先释"行"义（saṃskāra 即 abhisaṃskaraṇa）
-U15-101	S0290	sā hi	tad	pron. sg. nom.	0004a09	思	意译	0164b21	此故意聚	代词 sā 还原为所指"思"（cetanā）
-U15-102	S0290	karmasvarūpatvād	karma-svarūpa-tva	cpd. sg. abl.	0004a09	業性	对译	0164b22	業性	-tva 以"是"表出、第五格译"故"（见下条）
+U15-101	S0290	sā hi	tad	pron. f. sg. nom.	0004a09	思	意译	0164b21	此故意聚	代词 sā 还原为所指"思"（cetanā）
+U15-102	S0290	karmasvarūpatvād	karma-svarūpa-tva	cpd. nt. sg. abl.	0004a09	業性	对译	0164b22	業性	-tva 以"是"表出、第五格译"故"（见下条）
 U15-103	S0290	karma	karman	n. 成分	0004a09	業	对译	0164b22	業	
 U15-104	S0290	svarūpa	svarūpa	n. 成分	0004a09	性	对译	0164b22	性	
-U15-107	S0290	abhisaṃskaraṇe	abhisaṃskaraṇa	n. sg. loc.	0004a09	造作	对译	0164b22	造作	
+U15-107	S0290	abhisaṃskaraṇe	abhisaṃskaraṇa	n. nt. sg. loc.	0004a09	造作	对译	0164b22	造作	
 U15-108	S0290				0004a09	義強	增译			"造作義強"
-U15-109	S0290	pradhānā	pradhāna	adj. sg. nom.	0004a10	最勝	对译	0164b22	最勝	"為"为增字
-U15-111	S0291	evoktaṃ	vac	ptc. sg. nom.	0004a10	說	对译	0164b22	說	
-U15-112	S0291	bhagavatā	bhagavat	n. sg. instr.	0004a10	佛	对译	0164b22	佛世尊	
-U15-113	S0291	saṃskṛtam	saṃskṛta	ptc. adj. sg. acc.	0004a10	有為	对译	0164b23	有為法	
+U15-109	S0290	pradhānā	pradhāna	adj. f. sg. nom.	0004a10	最勝	对译	0164b22	最勝	"為"为增字
+U15-111	S0291	evoktaṃ	vac	ptc. nt. sg. nom.	0004a10	說	对译	0164b22	說	
+U15-112	S0291	bhagavatā	bhagavat	n. m. sg. instr.	0004a10	佛	对译	0164b22	佛世尊	
+U15-113	S0291	saṃskṛtam	saṃskṛta	ptc. adj. nt. sg. acc.	0004a10	有為	对译	0164b23	有為法	
 U15-114	S0291				0004a10	有漏	增译			玄奘补出"有漏"（取蕴所摄为有漏）
 U15-115	S0291	abhisaṃskaroti	abhi-sam-kṛ	v. pres. 3sg.	0004a10	造作	对译	0164b23	作功用起	"若能"为增字
 U15-116	S0292	tasmāt	tasmāt	ind.			省译	0164b23	故	
-U15-117	S0292	saṃskārā	saṃskāra	n. pl. nom.	0004a10	行	对译	0164b23	行	
-U15-118	S0292	upādānaskandha	upādāna-skandha	cpd. sg. nom.	0004a11	取蘊	对译	0164b23	取陰	
+U15-117	S0292	saṃskārā	saṃskāra	n. m. pl. nom.	0004a10	行	对译	0164b23	行	
+U15-118	S0292	upādānaskandha	upādāna-skandha	cpd. m. sg. nom.	0004a11	取蘊	对译	0164b23	取陰	
 U15-119	S0292	upādāna	upādāna	n. 成分	0004a11	取	对译	0164b23	取	
 U15-120	S0292	upādānaskandha	skandha	n. 成分	0004a11	蘊	对译	0164b23	陰	
 U15-121	S0292	ucyata	vac	v. pres. pass. 3sg.	0004a10	名	对译	0164b23	說	
 U15-122	S0293	anyathā	anyathā	ind.	0004a11	若不爾者	语法	0164b23	若不爾	
-U15-124	S0293	śeṣāṇāṃ	śeṣa	adj. pl. gen.	0004a11	餘	对译	0164b24	所餘	
-U15-125	S0293	caitasikānāṃ	caitasika	n. pl. gen.	0004a11	心所法	对译	0164b24	心法	
-U15-126	S0293	viprayuktānāṃ	viprayukta	ptc. adj. pl. gen.	0004a11	不相應	对译	0164b24	不相應法	即心不相应行
-U15-128	S0293	saṃskārāṇāṃ	saṃskāra	n. pl. gen.			省译			"餘心所法及不相應"未译 saṃskāra（行）
-U15-129	S0293	skandhāsaṃgrahād	skandha-a-saṃgraha	cpd. sg. abl.	0004a11	非蘊攝	对译	0164b24	非陰攝	
+U15-124	S0293	śeṣāṇāṃ	śeṣa	adj. m. pl. gen.	0004a11	餘	对译	0164b24	所餘	
+U15-125	S0293	caitasikānāṃ	caitasika	n. m. pl. gen.	0004a11	心所法	对译	0164b24	心法	
+U15-126	S0293	viprayuktānāṃ	viprayukta	ptc. adj. m. pl. gen.	0004a11	不相應	对译	0164b24	不相應法	即心不相应行
+U15-128	S0293	saṃskārāṇāṃ	saṃskāra	n. m. pl. gen.			省译			"餘心所法及不相應"未译 saṃskāra（行）
+U15-129	S0293	skandhāsaṃgrahād	skandha-a-saṃgraha	cpd. m. sg. abl.	0004a11	非蘊攝	对译	0164b24	非陰攝	
 U15-130	S0293	skandhā	skandha	n. 成分	0004a11	蘊	对译	0164b24	陰	
-U15-131	S0293	āsaṃgrahād	a-saṃgraha	n. sg. abl.	0004a11	非…攝	对译	0164b24	非…攝	
-U15-132	S0293	duḥkhasamudayasatyatvaṃ	duḥkha-samudaya-satya-tva	cpd. sg. nom.	0004a12	苦集	意译	0164b25	苦諦集諦	玄奘未译 satya 与 -tva
+U15-131	S0293	āsaṃgrahād	a-saṃgraha	n. m. sg. abl.	0004a11	非…攝	对译	0164b24	非…攝	
+U15-132	S0293	duḥkhasamudayasatyatvaṃ	duḥkha-samudaya-satya-tva	cpd. nt. sg. nom.	0004a12	苦集	意译	0164b25	苦諦集諦	玄奘未译 satya 与 -tva
 U15-133	S0293	duḥkha	duḥkha	n. 成分	0004a12	苦	对译	0164b25	苦	
 U15-134	S0293	samudaya	samudaya	n. 成分	0004a12	集	对译	0164b25	集	
 U15-136	S0293	syād	as	v. opt. 3sg.	0004a12	應	语法			祈愿式表推论，译"應"
-U15-137	S0293	parijñāparihāṇe	parijñā-parihāṇa	cpd. du. nom.	0004a12	應知應斷	意译	0164b25	應知應離	二译都以"應…"把名词 parijñā、parihāṇa 译作"应遍知、应断"
+U15-137	S0293	parijñāparihāṇe	parijñā-parihāṇa	cpd. nt. du. nom.	0004a12	應知應斷	意译	0164b25	應知應離	二译都以"應…"把名词 parijñā、parihāṇa 译作"应遍知、应断"；待核：-parihāṇa 疑当作 -prahāṇa，见 U15-139
 U15-138	S0293	parijñā	parijñā	n. 成分	0004a12	知	对译	0164b25	知	
-U15-139	S0293	parihāṇe	parihāṇa	n. du. nom.	0004a12	斷	对译	0164b25	離	
+U15-139	S0293	parihāṇe	parihāṇa	n. nt. du. nom.	0004a12	斷	对译	0164b25	離	待核：parihāṇa（退失）疑当作 prahāṇa（断），玄奘、真谛皆作"斷"
 U15-142	S0293	syātām	as	v. opt. 3du.	0004a12	可為	语法	0164b25	可立為	祈愿式表推论（不能成为）
 U15-143	S0294				0004a12	如	增译			玄奘以"如世尊說"引经
-U15-144	S0294	uktaṃ ca	vac	ptc. sg. nom.	0004a13	說	对译	0164b26	說	
-U15-146	S0294	bhagavatā	bhagavat	n. sg. instr.	0004a13	世尊	对译	0164b26	佛世尊	
+U15-144	S0294	uktaṃ ca	vac	ptc. nt. sg. nom.	0004a13	說	对译	0164b26	說	
+U15-146	S0294	bhagavatā	bhagavat	n. m. sg. instr.	0004a13	世尊	对译	0164b26	佛世尊	
 U15-148	S0294	nāham	aham	pron. sg. nom.	0004a13	我	语法	0164b26	我	
-U15-149	S0294	ekadharmam	eka-dharma	cpd. sg. acc.	0004a13	一法	对译	0164b26	一法	
+U15-149	S0294	ekadharmam	eka-dharma	cpd. m. sg. acc.	0004a13	一法	对译	0164b26	一法	
 U15-150	S0294	eka	eka	num. 成分	0004a13	一	对译	0164b26	一	
-U15-151	S0294	dharmam	dharma	n. sg. acc.	0004a13	法	对译	0164b26	法	
+U15-151	S0294	dharmam	dharma	n. m. sg. acc.	0004a13	法	对译	0164b26	法	
 U15-152	S0294	anabhijñāyā	an-abhi-jñā	abs.	0004a13	未達	对译	0164b26	未見	
 U15-153	S0294	āparijñāya	a-pari-jñā	abs.	0004a13	未知	对译	0164b26	未通	
 U15-154	S0294	āparijñāya	abs.	gram. abs. (-ya)	0004a13	若	语法			否定的独立式（未先了知）以条件句"若…未…"表出；"於"为增字
-U15-155	S0294	duḥkhasyā	duḥkha	n. sg. gen.	0004a14	苦	对译	0164b26	苦	
-U15-156	S0294	āntakriyāṃ	anta-kriyā	cpd. sg. acc.	0004a13	作…邊際	拆译	0164b26	至…後際	"能"为增字
+U15-155	S0294	duḥkhasyā	duḥkha	n. nt. sg. gen.	0004a14	苦	对译	0164b26	苦	
+U15-156	S0294	āntakriyāṃ	anta-kriyā	cpd. f. sg. acc.	0004a13	作…邊際	拆译	0164b26	至…後際	"能"为增字
 U15-157	S0294	āntakriyāṃ	anta	n. 成分	0004a14	邊際	对译	0164b27	後際	
-U15-158	S0294	kriyāṃ	kriyā	n. sg. acc.	0004a13	作	对译	0164b26	至	
+U15-158	S0294	kriyāṃ	kriyā	n. f. sg. acc.	0004a13	作	对译	0164b26	至	
 U15-159	S0294	vadāmīti	vad	v. pres. 1sg.	0004a13	說	对译	0164b26	說	
 U15-160	S0295	evam	evam	ind.	0004a14	亦如是	语法	0164b27	亦爾	evam（同样）译"亦如是"
 U15-161	S0295	aprahāye"	a-pra-hā	abs.	0004a14	未斷	对译	0164b27	未除	GRETIL 本引号位置作 aprahāye" tyuktam（即 aprahāya ity uktam）
 U15-162	S0295				0004a14	未滅	梵本缺文	0164b27	未滅	二译都有"未滅"，梵本只有 aprahāya，疑梵本省略（如 avyantīkṛtya）；待核
-U15-163	S0295	tyuktam	vac	ptc. sg. nom.	0004a14	說	对译			
+U15-163	S0295	tyuktam	vac	ptc. nt. sg. nom.	0004a14	說	对译			
 U15-164	S0296	tasmād	tasmāt	ind.	0004a14	是故	语法	0164b27	是故	
 U15-165	S0296	avaśyam	avaśyam	ind.	0004a14	定	对译			
-U15-166	S0296	eṣāṃ	etad	pron. pl. gen.	0004a15	除四蘊餘有為行	意译	0164b27	諸有為法	代词 eṣām 还原为所指（四蕴以外的有为法）；"皆"为增字
-U15-167	S0296	saṃskāraskandhasaṃgraho	saṃskāra-skandha-saṃgraha	cpd. sg. nom.	0004a15	行蘊攝	对译	0164b27	入行陰攝	
+U15-166	S0296	eṣāṃ	etad	pron. m. pl. gen.	0004a15	除四蘊餘有為行	意译	0164b27	諸有為法	代词 eṣām 还原为所指（四蕴以外的有为法）；"皆"为增字
+U15-167	S0296	saṃskāraskandhasaṃgraho	saṃskāra-skandha-saṃgraha	cpd. m. sg. nom.	0004a15	行蘊攝	对译	0164b27	入行陰攝	
 U15-168	S0296	saṃskāraskandha	saṃskāra-skandha	cpd. 成分	0004a15	行蘊	对译	0164b27	行陰	
-U15-169	S0296	saṃgraho	saṃgraha	n. sg. nom.	0004a15	攝	对译	0164b28	攝	
-U15-170	S0296	bhyupagantavyaḥ	abhi-upa-gam	gdv. sg. nom.	0004a14	許	对译	0164b28	信	
-U15-172	S0297	ete	etad	pron. pl. nom.	0003c29	如是	语法	0164b28	是	
+U15-169	S0296	saṃgraho	saṃgraha	n. m. sg. nom.	0004a15	攝	对译	0164b28	攝	
+U15-170	S0296	bhyupagantavyaḥ	abhi-upa-gam	gdv. m. sg. nom.	0004a14	許	对译	0164b28	信	
+U15-172	S0297	ete	etad	pron. m. pl. nom.	0003c29	如是	语法	0164b28	是	
 U15-173	S0297				0003c29	受等	增译	0164b28	受等	颂文"受等"取自长行（vedanāsaṃjñāsaṃskāra-）
-U15-175	S0297	trayaḥ	tri	num. pl. nom.	0003c29	三	对译	0164b28	三	
+U15-175	S0297	trayaḥ	tri	num. m. pl. nom.	0003c29	三	对译	0164b28	三	
 U15-176	S0298				0004a15	即此所說	增译			复指颂文 ete
-U15-177	S0298	vedanāsaṃjñāsaṃskāraskandhāḥ	vedanā-saṃjñā-saṃskāra-skandha	cpd. pl. nom.	0004a15	受、想、行、蘊	对译	0164b28	受、想、行三陰	
+U15-177	S0298	vedanāsaṃjñāsaṃskāraskandhāḥ	vedanā-saṃjñā-saṃskāra-skandha	cpd. m. pl. nom.	0004a15	受、想、行、蘊	对译	0164b28	受、想、行三陰	
 U15-178	S0298	vedanā	vedanā	n. 成分	0004a15	受	对译	0164b28	受	
 U15-179	S0298	saṃjñā	saṃjñā	n. 成分	0004a15	想	对译	0164b29	想	
 U15-180	S0298	saṃskāra	saṃskāra	n. 成分	0004a16	行	对译	0164b29	行	
-U15-181	S0298	skandhāḥ	skandha	n. pl. nom.	0004a16	蘊	对译	0164b29	陰	
-U15-182	S0298	āyatanadhātuvyavasthāyāṃ	āyatana-dhātu-vyavasthā	cpd. sg. loc.	0004a16	於處門中立為…於界門中立為	拆译	0164b29	若安立為入及界	玄奘按处、界分作两句
+U15-181	S0298	skandhāḥ	skandha	n. m. pl. nom.	0004a16	蘊	对译	0164b29	陰	
+U15-182	S0298	āyatanadhātuvyavasthāyāṃ	āyatana-dhātu-vyavasthā	cpd. f. sg. loc.	0004a16	於處門中立為…於界門中立為	拆译	0164b29	若安立為入及界	玄奘按处、界分作两句
 U15-183	S0298	āyatana	āyatana	n. 成分	0004a16	處	对译	0164b29	入	
 U15-184	S0298	dhātu	dhātu	n. 成分	0004a17	界	对译	0164b29	界	
-U15-185	S0298	vyavasthāyāṃ	vyavasthā	n. sg. loc.	0004a17	門中立為	意译	0164b29	安立為	
-U15-187	S0299	dharmāyatanadhātvākhyāḥ	dharma-āyatana-dhātu-ākhyā	cpd. adj. pl. nom. (bahuvrīhi)	0004a01	名法處法界	意译	0164b29	名法入界	多财释（名为法处、法界的）；玄奘把共用的 dharma 分别补在"處""界"前
+U15-185	S0298	vyavasthāyāṃ	vyavasthā	n. f. sg. loc.	0004a17	門中立為	意译	0164b29	安立為	
+U15-187	S0299	dharmāyatanadhātvākhyāḥ	dharma-āyatana-dhātu-ākhyā	cpd. adj. m. pl. nom. (bahuvrīhi)	0004a01	名法處法界	意译	0164b29	名法入界	多财释（名为法处、法界的）；玄奘把共用的 dharma 分别补在"處""界"前
 U15-188	S0299	dharmā	dharma	n. 成分	0004a01	法	对译	0164b29	法	
 U15-189	S0299	āyatana	āyatana	n. 成分	0004a01	處	对译	0164b29	入	
 U15-190	S0299	dhātvā	dhātu	n. 成分	0004a01	界	对译	0164c01	界	
-U15-191	S0299	ākhyāḥ	ākhyā	n. pl. nom.	0004a01	名	对译	0164b29	名	
+U15-191	S0299	ākhyāḥ	ākhyā	n. m. pl. nom.	0004a01	名	对译	0164b29	名	
 U15-192	S0299	sahā	saha	ind.	0004a01	及	对译	0164c01	并	
-U15-193	S0299	āvijñaptyasaṃskṛtaiḥ	a-vijñapti-a-saṃskṛta	cpd. pl. instr.	0004a01	無表無為	对译	0164c01	無教無為	
+U15-193	S0299	āvijñaptyasaṃskṛtaiḥ	a-vijñapti-a-saṃskṛta	cpd. nt. pl. instr.	0004a01	無表無為	对译	0164c01	無教無為	
 U15-194	S0299	āvijñapty	a-vijñapti	n. 成分	0004a01	無表	对译	0164c01	無教	
-U15-195	S0299	asaṃskṛtaiḥ	a-saṃskṛta	ptc. adj. pl. instr.	0004a01	無為	对译	0164c01	無為	
+U15-195	S0299	asaṃskṛtaiḥ	a-saṃskṛta	ptc. adj. nt. pl. instr.	0004a01	無為	对译	0164c01	無為	
 U15-196	S0299	sahā	saha	ind.	0004a16	及	对译			长行复述颂文
 U15-197	S0299	āvijñapty	a-vijñapti	n. 成分	0004a16	無表色	意译			长行复述颂文，补出"色"
-U15-198	S0299	asaṃskṛtaiḥ	a-saṃskṛta	ptc. adj. pl. instr.	0004a16	無為	对译			长行复述颂文
+U15-198	S0299	asaṃskṛtaiḥ	a-saṃskṛta	ptc. adj. nt. pl. instr.	0004a16	無為	对译			长行复述颂文
 U15-199	S0299				0004a16	三種	增译			"三種無為"，补出无为之数
 U15-200	S0300	sapta	saptan	num. pl. nom.	0004a16	七	对译	0164c01	七	
-U15-201	S0300	dravyāṇi	dravya	n. pl. nom.	0004a16	法	意译	0164c01	法	dravya（实体）此处译"法"
-U15-202	S0300	dharmāyatanaṃ	dharma-āyatana	cpd. sg. nom.	0004a17	法處	对译	0164c01	法入	
-U15-203	S0300	dharmadhātuś	dharma-dhātu	cpd. sg. nom.	0004a17	法界	对译	0164c02	法界	
+U15-201	S0300	dravyāṇi	dravya	n. nt. pl. nom.	0004a16	法	意译	0164c01	法	dravya（实体）此处译"法"
+U15-202	S0300	dharmāyatanaṃ	dharma-āyatana	cpd. nt. sg. nom.	0004a17	法處	对译	0164c01	法入	
+U15-203	S0300	dharmadhātuś	dharma-dhātu	cpd. m. sg. nom.	0004a17	法界	对译	0164c02	法界	
 U15-204	S0300	ākhyāyante	ā-khyā	v. pres. pass. 3pl.	0004a17	立為	合译	0164c01	說名	与 vyavasthā 合用"立為"（S0298）
 U15-205	S0300				0004a17	已說受等三蘊處界，當說識蘊并立處界	增译			玄奘补出的承上启下语，梵本无

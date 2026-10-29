@@ -1,42 +1,42 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
-U20-001	S0346	jātigocaravijñānasāmānyād	jāti-gocara-vijñāna-sāmānya	cpd. sg. abl.	0004b28	類境識同	对译	0165a10	類境識同	
+U20-001	S0346	jātigocaravijñānasāmānyād	jāti-gocara-vijñāna-sāmānya	cpd. nt. sg. abl.	0004b28	類境識同	对译	0165a10	類境識同	
 U20-002	S0346	jāti	jāti	n. 成分	0004b28	類	对译	0165a10	類	
 U20-003	S0346	gocara	gocara	n. 成分	0004b28	境	对译	0165a10	境	
 U20-004	S0346	vijñāna	vijñāna	n. 成分	0004b28	識	对译	0165a10	識	
-U20-005	S0346	sāmānyād	sāmānya	n. sg. abl.	0004b28	同	对译	0165a10	同	
-U20-008	S0346	dvitve	dvi-tva	n. sg. loc.	0004b28	二	对译	0165a10	二	
-U20-009	S0346	ekadhātutā	eka-dhātu-tā	cpd. sg. nom.	0004b28	界體一	意译	0165a10	成一界	-tā（抽象后缀）或即"體"
+U20-005	S0346	sāmānyād	sāmānya	n. nt. sg. abl.	0004b28	同	对译	0165a10	同	
+U20-008	S0346	dvitve	dvi-tva	n. nt. sg. loc.	0004b28	二	对译	0165a10	二	
+U20-009	S0346	ekadhātutā	eka-dhātu-tā	cpd. f. sg. nom.	0004b28	界體一	意译	0165a10	成一界	-tā（抽象后缀）或即"體"
 U20-010	S0346	ekadhātutā	dhātu	n. 成分	0004b28	界	对译	0165a11	界	
 U20-011	S0346	ekadhātutā	eka	num. 成分	0004b28	一	对译	0165a10	一	
-U20-012	S0346	cakṣuradīnaṃ	cakṣus-ādi	cpd. pl. gen.	0004c04	眼等	对译			颂文 cakṣurādīnām 玄奘移至下句（然為令端嚴，眼等各生二）；GRETIL 本作 cakṣuradīnaṃ
-U20-014	S0347	jātisāmānyam	jāti-sāmānya	cpd. sg. nom.	0004b29	類同	对译	0165a11	同類	"者""謂"为增字
+U20-012	S0346	cakṣuradīnaṃ	cakṣus-ādi	cpd. nt. pl. gen.	0004c04	眼等	对译			颂文 cakṣurādīnām 玄奘移至下句（然為令端嚴，眼等各生二）；GRETIL 本作 cakṣuradīnaṃ
+U20-014	S0347	jātisāmānyam	jāti-sāmānya	cpd. nt. sg. nom.	0004b29	類同	对译	0165a11	同類	"者""謂"为增字
 U20-015	S0347	jāti	jāti	n. 成分	0004b29	類	对译	0165a11	類	
-U20-016	S0347	sāmānyam	sāmānya	n. sg. nom.	0004b29	同	对译	0165a11	同	
-U20-017	S0347	ubhayoś	ubhaya	pron. du. gen.	0004b29	二處	意译	0165a11	此二	ubhaya（两者）指两眼，玄奘作"二處"
+U20-016	S0347	sāmānyam	sāmānya	n. nt. sg. nom.	0004b29	同	对译	0165a11	同	
+U20-017	S0347	ubhayoś	ubhaya	pron. nt. du. gen.	0004b29	二處	意译	0165a11	此二	ubhaya（两者）指两眼，玄奘作"二處"
 U20-018	S0347				0004b29	同	增译			"二處同是"之"同"为增字
-U20-019	S0347	cakṣuḥsvabhāvatvāt	cakṣus-svabhāva-tva	cpd. sg. abl.	0004b29	眼自性	对译	0165a11	眼性類	-tva 以"是"、第五格以"故"表出
+U20-019	S0347	cakṣuḥsvabhāvatvāt	cakṣus-svabhāva-tva	cpd. nt. sg. abl.	0004b29	眼自性	对译	0165a11	眼性類	-tva 以"是"、第五格以"故"表出
 U20-020	S0347	cakṣuḥ	cakṣus	n. 成分	0004b29	眼	对译	0165a11	眼	
 U20-021	S0347	svabhāvatvāt	svabhāva	n. 成分	0004b29	自性	对译	0165a11	性類	
-U20-022	S0348	gocarasāmānyam	gocara-sāmānya	cpd. sg. nom.	0004b29	境同	对译	0165a11	同境	
+U20-022	S0348	gocarasāmānyam	gocara-sāmānya	cpd. nt. sg. nom.	0004b29	境同	对译	0165a11	同境	
 U20-023	S0348	gocara	gocara	n. 成分	0004b29	境	对译	0165a12	境	
-U20-024	S0348	sāmānyam	sāmānya	n. sg. nom.	0004b29	同	对译	0165a12	同	
-U20-025	S0348	ubhayo	ubhaya	pron. du. gen.	0004c01	二處	意译	0165a12	此二	
-U20-026	S0348	rūpaviṣayatvāt	rūpa-viṣaya-tva	cpd. sg. abl.	0004c01	用色為境	意译	0165a12	緣色	多财释"以色为境"，玄奘作"用色為境"
+U20-024	S0348	sāmānyam	sāmānya	n. nt. sg. nom.	0004b29	同	对译	0165a12	同	
+U20-025	S0348	ubhayo	ubhaya	pron. nt. du. gen.	0004c01	二處	意译	0165a12	此二	
+U20-026	S0348	rūpaviṣayatvāt	rūpa-viṣaya-tva	cpd. nt. sg. abl.	0004c01	用色為境	意译	0165a12	緣色	多财释"以色为境"，玄奘作"用色為境"
 U20-027	S0348	rūpa	rūpa	n. 成分	0004c01	色	对译	0165a12	色	
 U20-028	S0348	viṣaya	viṣaya	n. 成分	0004c01	境	对译			
-U20-029	S0349	vijñānasāmānyam	vijñāna-sāmānya	cpd. sg. nom.	0004c01	識同	对译	0165a12	同識	
+U20-029	S0349	vijñānasāmānyam	vijñāna-sāmānya	cpd. nt. sg. nom.	0004c01	識同	对译	0165a12	同識	
 U20-030	S0349	vijñāna	vijñāna	n. 成分	0004c01	識	对译	0165a12	識	
-U20-031	S0349	sāmānyam	sāmānya	n. sg. nom.	0004c01	同	对译	0165a12	同	
-U20-032	S0349	ekacakṣurvijñānāśrayatvāt	eka-cakṣus-vijñāna-āśraya-tva	cpd. sg. abl.	0004c02	為眼識依	意译	0165a12	共為一眼識依止	玄奘未译 eka
+U20-031	S0349	sāmānyam	sāmānya	n. nt. sg. nom.	0004c01	同	对译	0165a12	同	
+U20-032	S0349	ekacakṣurvijñānāśrayatvāt	eka-cakṣus-vijñāna-āśraya-tva	cpd. nt. sg. abl.	0004c02	為眼識依	意译	0165a12	共為一眼識依止	玄奘未译 eka
 U20-033	S0349	eka	eka	num. 成分			省译	0165a12	一	
 U20-034	S0349	cakṣurvijñānā	cakṣus-vijñāna	cpd. 成分	0004c02	眼識	对译	0165a12	眼識	
 U20-035	S0349	āśraya	āśraya	n. 成分	0004c02	依	对译	0165a13	依止	
 U20-036	S0349	tasmad	tasmāt	ind.	0004c02	由此	语法	0165a13	是故	GRETIL 本作 tasmad
-U20-037	S0349	cakṣurdhātuḥ	cakṣus-dhātu	cpd. sg. nom.	0004c02	眼界	对译	0165a13	眼根	
+U20-037	S0349	cakṣurdhātuḥ	cakṣus-dhātu	cpd. m. sg. nom.	0004c02	眼界	对译	0165a13	眼根	
 U20-038	S0349				0004c02	雖二而	增译	0165a13	雖二共成	复述颂文"雖二"
-U20-039	S0349	eka eva	eka	num. sg. nom.	0004c02	一	对译	0165a13	一	
-U20-040	S0350	śrotraghrāṇayor	śrotra-ghrāṇa	cpd. du. loc.	0004c02	耳鼻	对译	0165a13	耳鼻	
+U20-039	S0349	eka eva	eka	num. m. sg. nom.	0004c02	一	对译	0165a13	一	
+U20-040	S0350	śrotraghrāṇayor	śrotra-ghrāṇa	cpd. nt. du. loc.	0004c02	耳鼻	对译	0165a13	耳鼻	
 U20-041	S0350	śrotra	śrotra	n. 成分	0004c02	耳	对译	0165a13	耳	
-U20-042	S0350	ghrāṇayor	ghrāṇa	n. du. loc.	0004c02	鼻	对译	0165a13	鼻	
-U20-045	S0350	yojyam	yuj	gdv. sg. nom.	0004c03	安立	意译	0165a14	知	yojya（应类推）玄奘作"安立"
+U20-042	S0350	ghrāṇayor	ghrāṇa	n. nt. du. loc.	0004c02	鼻	对译	0165a13	鼻	
+U20-045	S0350	yojyam	yuj	gdv. nt. sg. nom.	0004c03	安立	意译	0165a14	知	yojya（应类推）玄奘作"安立"
 U20-046	S0350				0004c03	若爾，何緣生依二處	梵本缺文	0165a14	若爾云何二	玄奘设问引出下颂，真谛置于颂中；梵本无

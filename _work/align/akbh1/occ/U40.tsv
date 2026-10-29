@@ -2,123 +2,123 @@ oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
 U40-001	S0720	chinatti	chid	v. pres. 3sg.	0009a03	斫	对译	0169a08	斫	"能"表主动（-ti）
 U40-002	S0720	cchidyate	chid	v. pres. pass. 3sg.	0009a03	斫	对译	0169a09	斫	"所"表被动（-ya-）
 U40-003	S0720				0009a03	謂	增译			
-U40-004	S0720	bāhyaṃ	bāhya	adj. sg. nom.	0009a03	外	对译	0169a09	外	
+U40-004	S0720	bāhyaṃ	bāhya	adj. nt. sg. nom.	0009a03	外	对译	0169a09	外	
 U40-005	S0720	dhātue	dhātu	n. 成分	0009a03	界	对译	0169a09	界	GRETIL 本作 dhātue catuṣṭayam，当读 dhātucatuṣṭayam
-U40-006	S0720	catuṣṭayam	catuṣṭaya	n. sg. nom.	0009a03	四	对译	0169a09	四	
-U40-007	S0721	rūpagandharasaspraṣṭavyākhyaṃ	rūpa-gandha-rasa-spraṣṭavya-ākhya	cpd. adj. sg. nom.	0009a05	色香味觸	对译	0169a09	色香味觸	ākhya（名为…）未译
+U40-006	S0720	catuṣṭayam	catuṣṭaya	n. nt. sg. nom.	0009a03	四	对译	0169a09	四	
+U40-007	S0721	rūpagandharasaspraṣṭavyākhyaṃ	rūpa-gandha-rasa-spraṣṭavya-ākhya	cpd. adj. nt. sg. nom.	0009a05	色香味觸	对译	0169a09	色香味觸	ākhya（名为…）未译
 U40-008	S0721	rūpa	rūpa	n. 成分	0009a05	色	对译	0169a09	色	
 U40-009	S0721	gandha	gandha	n. 成分	0009a05	香	对译	0169a09	香	
 U40-010	S0721	rasa	rasa	n. 成分	0009a05	味	对译	0169a09	味	
 U40-011	S0721	spraṣṭavyā	spraṣṭavya	gdv. n. 成分	0009a05	觸	对译	0169a09	觸	
-U40-012	S0721	paraśudārvādisaṃjñakam	paraśu-dāru-ādi-saṃjñaka	cpd. adj. sg. nom.	0009a05	成斧薪等	意译	0169a09	名斧名薪	
+U40-012	S0721	paraśudārvādisaṃjñakam	paraśu-dāru-ādi-saṃjñaka	cpd. adj. nt. sg. nom.	0009a05	成斧薪等	意译	0169a09	名斧名薪	
 U40-013	S0721	paraśu	paraśu	n. 成分	0009a05	斧	对译	0169a09	斧	
 U40-014	S0721	dārv	dāru	n. 成分	0009a05	薪	对译	0169a10	薪	
 U40-015	S0721	dārvādi	ādi	n. 成分	0009a05	等	对译			
-U40-016	S0721	saṃjñakam	saṃjñaka	adj. sg. nom.	0009a05	成	意译	0169a09	名	saṃjñaka（名为…的）译"成"
+U40-016	S0721	saṃjñakam	saṃjñaka	adj. nt. sg. nom.	0009a05	成	意译	0169a09	名	saṃjñaka（名为…的）译"成"
 U40-017	S0721				0009a05	此即名為能斫所斫	增译	0169a10	即是能斫所斫	玄奘、真谛都补出
-U40-018	S0721	chedo	cheda	n. sg. nom.	0009a06	斫	对译	0169a10	斫	
+U40-018	S0721	chedo	cheda	n. m. sg. nom.	0009a06	斫	对译	0169a10	斫	
 U40-019	S0721	nāma	nāma	ind.	0009a06	名	语法	0169a10	名	
-U40-020	S0721	dharmaḥ	dharma	n. sg. nom.	0009a06	法	对译	0169a10	法	
+U40-020	S0721	dharmaḥ	dharma	n. m. sg. nom.	0009a06	法	对译	0169a10	法	
 U40-021	S0722				0009a06	薪等	增译			补出"薪等""斧等"
-U40-022	S0722	saṃbandhotpādinaḥ	saṃbandha-utpādin	cpd. adj. sg. gen.	0009a06	相逼續生	意译	0169a10	相應生	
+U40-022	S0722	saṃbandhotpādinaḥ	saṃbandha-utpādin	cpd. adj. nt. sg. gen.	0009a06	相逼續生	意译	0169a10	相應生	
 U40-023	S0722	saṃbandho	saṃbandha	n. 成分	0009a06	相逼	意译	0169a10	相應	
-U40-024	S0722	otpādinaḥ	utpādin	adj. sg. gen.	0009a06	續生	意译	0169a10	生	"續"或兼译 srotas，待核
-U40-025	S0722	saṃghātasrotaso	saṃghāta-srotas	cpd. sg. gen.	0009a06	聚	意译	0169a10	聚流	"色"为补出
+U40-024	S0722	otpādinaḥ	utpādin	adj. nt. sg. gen.	0009a06	續生	意译	0169a10	生	"續"或兼译 srotas，待核
+U40-025	S0722	saṃghātasrotaso	saṃghāta-srotas	cpd. nt. sg. gen.	0009a06	聚	意译	0169a10	聚流	"色"为补出
 U40-025+1	S0722				0009a06	色	增译			合并时从 U40-025（色聚）拆出
 U40-026	S0722	saṃghāta	saṃghāta	n. 成分	0009a06	聚	对译	0169a10	聚	
-U40-027	S0722	srotaso	srotas	n. sg. gen.			省译	0169a10	流	srotas（相续之流）或以"續生"之"續"表出，待核
+U40-027	S0722	srotaso	srotas	n. nt. sg. gen.			省译	0169a10	流	srotas（相续之流）或以"續生"之"續"表出，待核
 U40-028	S0722				0009a06	斧等	增译			
-U40-029	S0722	vibhaktotpādanam	vibhakta-utpādana	cpd. sg. nom.	0009a07	分隔令各續起	意译	0169a11	斷隔其生起	
+U40-029	S0722	vibhaktotpādanam	vibhakta-utpādana	cpd. nt. sg. nom.	0009a07	分隔令各續起	意译	0169a11	斷隔其生起	
 U40-030	S0722	vibhakto	vibhakta	ptc. 成分	0009a07	分隔	对译	0169a11	斷隔	
-U40-031	S0722	otpādanam	utpādana	n. sg. nom.	0009a07	起	对译	0169a11	生起	
+U40-031	S0722	otpādanam	utpādana	n. nt. sg. nom.	0009a07	起	对译	0169a11	生起	
 U40-033	S0722				0009a07	各續	增译			
 U40-034	S0722				0009a07	此法名斫	增译	0169a11	名斫	答辞复述所问
-U40-035	S0723	kāyendriyādīni	kāya-indriya-ādi	cpd. pl. nom.	0009a07	身等…根	意译	0169a11	身根等	"色"为补出；玄奘移"等"于"身"后
+U40-035	S0723	kāyendriyādīni	kāya-indriya-ādi	cpd. nt. pl. nom.	0009a07	身等…根	意译	0169a11	身根等	"色"为补出；玄奘移"等"于"身"后
 U40-035+1	S0723				0009a07	色	增译			合并时从 U40-035（身等色根）拆出
 U40-036	S0723	kāye	kāya	n. 成分	0009a07	身	对译	0169a11	身	
 U40-037	S0723	ndriyā	indriya	n. 成分	0009a07	根	对译	0169a11	根	
-U40-038	S0723	ndriyādīni	ādi	n. pl. nom.	0009a07	等	对译	0169a11	等	
+U40-038	S0723	ndriyādīni	ādi	n. nt. pl. nom.	0009a07	等	对译	0169a11	等	
 U40-039	S0723	cchidyante	chid	v. pres. pass. 3pl.	0009a08	斫	对译	0169a11	斫	"所"表被动
 U40-040	S0723				0009a07	名	增译			"不名所斫"
-U40-041	S0724	niravaśeṣāṅgacchede	niravaśeṣa-aṅga-cheda	cpd. sg. loc.	0009a08	全斷	意译	0169a11	若斫則無餘	aṅga（肢体）未译
+U40-041	S0724	niravaśeṣāṅgacchede	niravaśeṣa-aṅga-cheda	cpd. m. sg. loc.	0009a08	全斷	意译	0169a11	若斫則無餘	aṅga（肢体）未译
 U40-042	S0724	niravaśeṣā	nir-avaśeṣa	adj. 成分	0009a08	全	意译	0169a11	無餘	
 U40-043	S0724	āṅga	aṅga	n. 成分			省译			
-U40-044	S0724	cchede	cheda	n. sg. loc.	0009a08	斷	对译	0169a11	斫	
-U40-045	S0724	advaidhīkaraṇāt	a-dvaidhī-karaṇa	cpd. sg. abl.	0009a08	非…令成二	意译	0169a12	不可令二	前面的 tad 未译；第五格译"故"
-U40-046	S0724	dvaidhīkaraṇāt	dvaidhī-karaṇa	cpd. sg. abl.	0009a08	令成二	意译	0169a12	令二	
+U40-044	S0724	cchede	cheda	n. m. sg. loc.	0009a08	斷	对译	0169a11	斫	
+U40-045	S0724	advaidhīkaraṇāt	a-dvaidhī-karaṇa	cpd. nt. sg. abl.	0009a08	非…令成二	意译	0169a12	不可令二	前面的 tad 未译；第五格译"故"
+U40-046	S0724	dvaidhīkaraṇāt	dvaidhī-karaṇa	cpd. nt. sg. abl.	0009a08	令成二	意译	0169a12	令二	
 U40-047	S0724				0009a08	可	增译			"非可全斷"
-U40-048	S0725	hīndriyāṇi	indriya	n. pl. nom.	0009a08	根	对译	0169a12	諸根	
+U40-048	S0725	hīndriyāṇi	indriya	n. nt. pl. nom.	0009a08	根	对译	0169a12	諸根	
 U40-049	S0725				0009a08	身…等	增译			"非身根等"
 U40-050	S0725	dvidhā	dvidhā	ind.	0009a09	二分	意译	0169a12	分為多	
 U40-051	S0725	bhavanti	bhū	v. pres. 3pl.	0009a08	成	对译			
 U40-052	S0725				0009a08	可	增译			"可成二分"
-U40-053	S0726	chinnasyā	chid	ptc. sg. gen. (chinna)	0009a09	離身	意译	0169a13	所斫	chinna（被截断的）译"離身"
-U40-054	S0726	āṅgasya	aṅga	n. sg. gen.	0009a09	支分	对译	0169a13	諸分	
+U40-053	S0726	chinnasyā	chid	ptc. nt. sg. gen. (chinna)	0009a09	離身	意译	0169a13	所斫	chinna（被截断的）译"離身"
+U40-054	S0726	āṅgasya	aṅga	n. nt. sg. gen.	0009a09	支分	对译	0169a13	諸分	
 U40-055	S0726				0009a09	則	增译	0169a12	則	
-U40-056	S0726	nirindriyatvāt	nir-indriya-tva	cpd. sg. abl.	0009a09	無根	对译	0169a13	非根	-tva 未译；第五格译"故"
+U40-056	S0726	nirindriyatvāt	nir-indriya-tva	cpd. nt. sg. abl.	0009a09	無根	对译	0169a13	非根	-tva 未译；第五格译"故"
 U40-057	S0727				0009a09	身根等	增译			补出主语
 U40-058	S0727	cchindanti	chid	v. pres. 3pl.	0009a10	斫	对译	0169a13	斫	"能"表主动
 U40-059	S0727	maṇiprabhāvad	maṇi-prabhā-vat	cpd. ind.	0009a10	如珠寶光	对译	0169a13	如寶光	
 U40-060	S0727	maṇi	maṇi	n. 成分	0009a10	珠寶	对译	0169a13	寶	
 U40-061	S0727	prabhā	prabhā	n. 成分	0009a10	光	对译	0169a13	光	
-U40-063	S0727	andhatvāt	accha-tva	n. sg. abl.	0009a10	淨妙	意译	0169a14	清淨	GRETIL 本作 andhatvāt，当读 acchatvāt（参 S0730）
+U40-063	S0727	andhatvāt	accha-tva	n. nt. sg. abl.	0009a10	淨妙	意译	0169a14	清淨	GRETIL 本作 andhatvāt，当读 acchatvāt（参 S0730）
 U40-065	S0728	cchinattī	chid	v. pres. 3sg.	0009a10	斫	对译	0169a14	斫	GRETIL 本作 cchinattī，当读 chinatti
 U40-066	S0728	cchiyate	chid	v. pres. pass. 3sg.	0009a10	斫	对译	0169a14	斫	GRETIL 本作 cchiyate，当读 chidyate
 U40-067	S0728				0009a10	體	增译			"體唯外四界"
-U40-068	S0728	bāhyaṃ	bāhya	adj. sg. nom.	0009a11	外	对译	0169a14	外	
-U40-069	S0728	dhātucatuṣṭayam	dhātu-catuṣṭaya	cpd. sg. nom.	0009a11	四界	对译	0169a14	四界	玄奘倒序
+U40-068	S0728	bāhyaṃ	bāhya	adj. nt. sg. nom.	0009a11	外	对译	0169a14	外	
+U40-069	S0728	dhātucatuṣṭayam	dhātu-catuṣṭaya	cpd. nt. sg. nom.	0009a11	四界	对译	0169a14	四界	玄奘倒序
 U40-070	S0728	dhātu	dhātu	n. 成分	0009a11	界	对译	0169a14	界	
-U40-071	S0728	catuṣṭayam	catuṣṭaya	n. sg. nom.	0009a11	四	对译	0169a14	四	
+U40-071	S0728	catuṣṭayam	catuṣṭaya	n. nt. sg. nom.	0009a11	四	对译	0169a14	四	
 U40-072	S0729	dahyate	dah	v. pres. pass. 3sg.	0009a04	燒	对译	0169a14	燒	
 U40-073	S0729	tulayatyevaṃ	tul	v. pres. caus. 3sg.	0009a04	稱	对译	0169a15	稱	真谛作"所稱"
 U40-074	S0729	evaṃ	evam	ind.	0009a04	亦	语法	0169a15	爾	
-U40-075	S0730	tadeva dahyate	tad	pron. sg. nom.	0009a11	其體	意译			
+U40-075	S0730	tadeva dahyate	tad	pron. nt. sg. nom.	0009a11	其體	意译			
 U40-076	S0730	tadeva dahyate	eva	ind.	0009a11	亦爾	意译			tad eva（即彼）以"其體亦爾"表出，待核
 U40-077	S0730	dahyate	dah	v. pres. pass. 3sg.	0009a11	燒	对译	0169a15	燒	
-U40-078	S0730	tadeva tulayati	tad	pron. sg. nom.	0009a11	外四界	意译	0169a15	外四界	代词还原为所指
+U40-078	S0730	tadeva tulayati	tad	pron. nt. sg. nom.	0009a11	外四界	意译	0169a15	外四界	代词还原为所指
 U40-079	S0730	tulayati	tul	v. pres. caus. 3sg.	0009a11	稱	对译	0169a15	稱	
 U40-080	S0730				0009a12	名所燒能稱	增译			复述
-U40-081	S0730	endriyāṇy	indriya	n. pl. nom.	0009a12	根	对译	0169a16	諸根	
+U40-081	S0730	endriyāṇy	indriya	n. nt. pl. nom.	0009a12	根	对译	0169a16	諸根	
 U40-082	S0730				0009a12	身等色	增译			"身等色根"
 U40-083	S0730				0009a12	亦…二事	增译			"亦非二事"
-U40-084	S0730	acchatvān	accha-tva	n. sg. abl.	0009a12	淨妙	意译	0169a16	清淨	第五格译"以…故"
+U40-084	S0730	acchatvān	accha-tva	n. nt. sg. abl.	0009a12	淨妙	意译	0169a16	清淨	第五格译"以…故"
 U40-085	S0730	maṇiprabhāvat	maṇi-prabhā-vat	cpd. ind.	0009a13	如珠寶光	对译	0169a16	猶如光明	
 U40-086	S0730	maṇi	maṇi	n. 成分	0009a13	珠寶	对译			
 U40-087	S0730	prabhāvat	prabhā	n. 成分	0009a13	光	对译	0169a16	光明	
-U40-088	S0730	śabda	śabda	n. sg. nom.	0009a13	聲	对译	0169a16	聲	
+U40-088	S0730	śabda	śabda	n. m. sg. nom.	0009a13	聲	对译	0169a16	聲	
 U40-089	S0730				0009a13	界總	增译			"聲界總非"
-U40-090	S0730	ucheditvāt	ucchedi-tva	n. sg. abl.	0009a13	不相續	意译	0169a17	自性斷	GRETIL 本作 ucheditvāt，当读 ucchedi-tvāt
-U40-091	S0731	vivādo	vivāda	n. sg. nom.	0009a04	諍	对译	0169a17	爭	
-U40-092	S0731	dagdhṛtulyayoḥ	dagdhṛ-tulya	cpd. du. gen.	0009a04	能燒所稱	对译	0169a17	能燒所稱	
+U40-090	S0730	ucheditvāt	ucchedi-tva	n. nt. sg. abl.	0009a13	不相續	意译	0169a17	自性斷	GRETIL 本作 ucheditvāt，当读 ucchedi-tvāt
+U40-091	S0731	vivādo	vivāda	n. m. sg. nom.	0009a04	諍	对译	0169a17	爭	
+U40-092	S0731	dagdhṛtulyayoḥ	dagdhṛ-tulya	cpd. nt. du. loc.	0009a04	能燒所稱	对译	0169a17	能燒所稱	
 U40-093	S0731	dagdhṛ	dagdhṛ	n. 成分	0009a04	能燒	对译	0169a17	能燒	
-U40-094	S0731	tulyayoḥ	tulya	gdv. du. loc. (?)	0009a04	所稱	对译	0169a17	所稱	
-U40-095	S0731	dagdhṛtulyayoḥ	dagdhṛ-tulya	cpd. du. gen.	0009a13	能燒所稱	对译			长行复述本颂
-U40-096	S0731	vivādo	vivāda	n. sg. nom.	0009a14	異諍論	意译			长行复述本颂；"有"为补出
-U40-097	S0732	kecidāhuḥ	kaścit	pron. pl. nom.	0009a14	或有	意译	0169a17	有諸師	
-U40-099	S0732	dāhakaṃ	dāhaka	adj. sg. nom.	0009a14	能燒	对译	0169a18	能燒	
-U40-100	S0732	tulyaṃ ca	tulya	gdv. sg. nom.	0009a14	所稱	对译	0169a18	所稱	
+U40-094	S0731	tulyayoḥ	tulya	gdv. nt. du. loc.	0009a04	所稱	对译	0169a17	所稱	
+U40-095	S0731	dagdhṛtulyayoḥ	dagdhṛ-tulya	cpd. nt. du. loc.	0009a13	能燒所稱	对译			长行复述本颂
+U40-096	S0731	vivādo	vivāda	n. m. sg. nom.	0009a14	異諍論	意译			长行复述本颂；"有"为补出
+U40-097	S0732	kecidāhuḥ	kaścit	pron. m. pl. nom.	0009a14	或有	意译	0169a17	有諸師	
+U40-099	S0732	dāhakaṃ	dāhaka	adj. nt. sg. nom.	0009a14	能燒	对译	0169a18	能燒	
+U40-100	S0732	tulyaṃ ca	tulya	gdv. nt. sg. nom.	0009a14	所稱	对译	0169a18	所稱	
 U40-101	S0732				0009a14	體	增译			
-U40-102	S0732	tadeva dhātu	tad	pron. sg. nom.	0009a14	如前	意译			tad（前述者）译"如前"
+U40-102	S0732	tadeva dhātu	tad	pron. nt. sg. nom.	0009a14	如前	意译			tad（前述者）译"如前"
 U40-104	S0732				0009a15	唯外	增译	0169a18	外	
-U40-105	S0732	dhātucatuṣṭayaṃ	dhātu-catuṣṭaya	cpd. sg. nom.	0009a15	四界	对译	0169a18	四界	
-U40-106	S0733	kecidāhus	kaścit	pron. pl. nom.	0009a15	或復有	意译	0169a18	有諸師	
-U40-108	S0733	tejodhātur	tejas-dhātu	cpd. sg. nom.	0009a15	火界	对译	0169a19	火大	
+U40-105	S0732	dhātucatuṣṭayaṃ	dhātu-catuṣṭaya	cpd. nt. sg. nom.	0009a15	四界	对译	0169a18	四界	
+U40-106	S0733	kecidāhus	kaścit	pron. m. pl. nom.	0009a15	或復有	意译	0169a18	有諸師	
+U40-108	S0733	tejodhātur	tejas-dhātu	cpd. m. sg. nom.	0009a15	火界	对译	0169a19	火大	
 U40-109	S0733	tejo	tejas	n. 成分	0009a15	火	对译	0169a19	火	
-U40-110	S0733	dhātur	dhātu	n. sg. nom.	0009a15	界	对译	0169a19	大	
+U40-110	S0733	dhātur	dhātu	n. m. sg. nom.	0009a15	界	对译	0169a19	大	
 U40-111	S0733				0009a15	唯有…可名	增译			
-U40-112	S0733	dagdhā	dagdhṛ	n. sg. nom.	0009a15	能燒	对译	0169a19	能燒	
-U40-113	S0733	gurutvam	guru-tva	n. sg. nom.	0009a16	重	对译	0169a19	重觸	-tva 未译
-U40-114	S0733	tulyamiti	tulya	gdv. sg. nom.	0009a16	所稱	对译	0169a19	所稱	
+U40-112	S0733	dagdhā	dagdhṛ	n. m. sg. nom.	0009a15	能燒	对译	0169a19	能燒	
+U40-113	S0733	gurutvam	guru-tva	n. nt. sg. nom.	0009a16	重	对译	0169a19	重觸	-tva 未译
+U40-114	S0733	tulyamiti	tulya	gdv. nt. sg. nom.	0009a16	所稱	对译	0169a19	所稱	
 U40-115	S0734				0009a16	如是已說能所斫等	增译			玄奘过渡语
 U40-116	S0734				0009a16	十八界中	增译			
-U40-117	S0734	vipākajāḥ	vipāka-ja	cpd. adj. pl. nom.	0009a17	異熟生	对译	0169a19	從果報生	
+U40-117	S0734	vipākajāḥ	vipāka-ja	cpd. adj. m. pl. nom.	0009a17	異熟生	对译	0169a19	從果報生	
 U40-118	S0734	vipāka	vipāka	n. 成分	0009a17	異熟	对译	0169a19	果報	
-U40-119	S0734	jāḥ	ja	adj. pl. nom.	0009a17	生	对译	0169a19	生	
-U40-120	S0734	dhātavaḥ	dhātu	n. pl. nom.			省译	0169a19	界	
-U40-121	S0734	aupacayikāḥ	aupacayika	adj. pl. nom.	0009a17	所長養	对译	0169a20	從增長生	
-U40-122	S0734	naihṣyandikāḥ	naiṣyandika	adj. pl. nom.	0009a17	等流	意译	0169a20	從等流生	GRETIL 本作 naihṣyandika，当读 naiḥṣyandika；"性"为补出
+U40-119	S0734	jāḥ	ja	adj. m. pl. nom.	0009a17	生	对译	0169a19	生	
+U40-120	S0734	dhātavaḥ	dhātu	n. m. pl. nom.			省译	0169a19	界	
+U40-121	S0734	aupacayikāḥ	aupacayika	adj. m. pl. nom.	0009a17	所長養	对译	0169a20	從增長生	
+U40-122	S0734	naihṣyandikāḥ	naiṣyandika	adj. m. pl. nom.	0009a17	等流	意译	0169a20	從等流生	GRETIL 本作 naihṣyandika，当读 naiḥṣyandika；"性"为补出
 U40-122+1	S0734				0009a17	性	增译			合并时从 U40-122（等流性）拆出
-U40-123	S0734	dravayuktāḥ	dravya-yukta	cpd. adj. pl. nom.	0009a17	有實事	意译	0169a20	有實物	GRETIL 本作 dravayukta，当读 dravyayukta
+U40-123	S0734	dravayuktāḥ	dravya-yukta	cpd. adj. m. pl. nom.	0009a17	有實事	意译	0169a20	有實物	GRETIL 本作 dravayukta，当读 dravyayukta
 U40-124	S0734	drava	dravya	n. 成分	0009a17	實事	意译	0169a20	實物	GRETIL 本作 drava
-U40-125	S0734	yuktāḥ	yukta	ptc. adj. pl. nom.	0009a17	有	意译	0169a20	有	
-U40-126	S0734	kṣaṇikāḥ	kṣaṇika	adj. pl. nom.	0009a18	一剎那	对译	0169a21	唯一剎那生	
+U40-125	S0734	yuktāḥ	yukta	ptc. adj. m. pl. nom.	0009a17	有	意译	0169a20	有	
+U40-126	S0734	kṣaṇikāḥ	kṣaṇika	adj. m. pl. nom.	0009a18	一剎那	对译	0169a21	唯一剎那生	

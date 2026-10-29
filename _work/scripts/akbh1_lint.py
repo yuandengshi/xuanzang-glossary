@@ -40,6 +40,7 @@ def main(files):
     nerr = nwarn = 0
     known, var = lemma_table(files[0]) if files else (None, {})
     seen = defaultdict(list)
+    ngender = defaultdict(lambda: defaultdict(list))   # 名词词目 → 性 → oid（不计复合词末成分）
     for f in files:
         rows = list(csv.DictReader(open(f, encoding='utf-8'), delimiter='\t', quoting=csv.QUOTE_NONE))
         final = defaultdict(list)
@@ -60,6 +61,12 @@ def main(files):
             mp = morph.problem(p, t, l)
             if mp:
                 msgs.append(('ERROR', '形态标注：%s（见 morph.py 的格式）' % mp))
+            else:
+                fg = morph.form_gender_warning(sk, l, p)
+                if fg:
+                    msgs.append(('WARN', '形态标注：' + fg))
+            if p.startswith('n. ') and o not in final and morph.gnc(p)[0]:
+                ngender[l][morph.gnc(p)[0]].append(o)
             if (' + ' in p or ' + ' in l) and l not in IDIOM:
                 msgs.append(('ERROR', '两个以上的词并成一条（pos/lemma 含"+"）：应拆开'))
             if t in ('增译', '梵本缺文') or not x:
@@ -82,6 +89,11 @@ def main(files):
     for k, v in seen.items():
         if len(v) > 2:
             print('INFO\t%s\t虚词/语法形式"%s → %s"有 %d 例（合并后统一裁剪到两例）：%s' % (v[0], k[0], k[1], len(v), ' '.join(v)))
+    for l, gs in sorted(ngender.items()):
+        if len(gs) > 1:
+            nwarn += 1
+            print('WARN\t%s\t名词 %s 标了不同的性：%s' % (min(min(v) for v in gs.values()), l,
+                  '；'.join('%s %s' % (g, ' '.join(v[:6]) + (' 等 %d 条' % len(v) if len(v) > 6 else '')) for g, v in gs.items())))
     print('ERROR %d，WARN %d' % (nerr, nwarn))
     return min(nerr, 255)
 

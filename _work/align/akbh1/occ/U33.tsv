@@ -1,121 +1,121 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
-U33-001	S0530	sanidarśana	sa-nidarśana	adj. sg. nom.	0007a09	有見	对译	0167a12	有顯	真谛 nidarśana 译"顯"
-U33-002	S0530	eko	eka	num. sg. nom.	0007a09	一	对译	0167a12	一	
-U33-004	S0530	rūpaṃ	rūpa	n. sg. nom.	0007a09	色	对译	0167a12	色	
+U33-001	S0530	sanidarśana	sa-nidarśana	adj. m. sg. nom.	0007a09	有見	对译	0167a12	有顯	真谛 nidarśana 译"顯"
+U33-002	S0530	eko	eka	num. m. sg. nom.	0007a09	一	对译	0167a12	一	
+U33-004	S0530	rūpaṃ	rūpa	n. nt. sg. nom.	0007a09	色	对译	0167a12	色	
 U33-005	S0530				0007a09	謂	增译	0167a12	謂	
 U33-006	S0530	'tra	atra	ind.	0007a11	十八界中	意译			长行把 atra（于此）还原为"十八界中"
-U33-007	S0530	rūpaṃ	rūpa	n. sg. nom.	0007a11	色界	意译			长行作"色界"（rūpadhātu）
-U33-008	S0530	sanidarśana	sa-nidarśana	adj. sg. nom.	0007a11	有見	对译			长行复述颂文
+U33-007	S0530	rūpaṃ	rūpa	n. nt. sg. nom.	0007a11	色界	意译			长行作"色界"（rūpadhātu）
+U33-008	S0530	sanidarśana	sa-nidarśana	adj. m. sg. nom.	0007a11	有見	对译			长行复述颂文
 U33-009	S0531	sa hi	hi	ind.	0007a11	以	语法			表原因
 U33-010	S0531	śakyate	śak	v. pres. pass. 3sg.	0007a11	可	对译	0167a13	易可	
 U33-011	S0531	nidarśayitum	ni-dṛś (caus.)	inf.	0007a11	示現	对译	0167a13	顯	
 U33-012	S0531	idamihāmutreti	iha	ind.	0007a11	此	对译	0167a13	此	
 U33-013	S0531	āmutreti	amutra	ind.	0007a11	彼	对译	0167a13	彼	
 U33-014	S0531				0007a12	差別	增译			"此彼差別"之"差別"
-U33-015	S0531	uktaṃ bhavati	uktaṃ bhavati	ptc. sg. nom. + bhū pres. 3sg.	0007a12	由此義准…說	意译	0167a13	由此言…故，應知義至	"即是说、言下之意"，玄奘作"由此義准，說…"
-U33-016	S0531	anidarśanāḥ	a-nidarśana	adj. pl. nom.	0007a12	無見	对译	0167a14	非顯	
-U33-017	S0531	śeṣā	śeṣa	adj. pl. nom.	0007a12	餘	对译	0167a14	所餘	
+U33-015	S0531	uktaṃ bhavati	uktaṃ bhavati	ptc. nt. sg. nom. + bhū pres. 3sg.	0007a12	由此義准…說	意译	0167a13	由此言…故，應知義至	"即是说、言下之意"，玄奘作"由此義准，說…"
+U33-016	S0531	anidarśanāḥ	a-nidarśana	adj. m. pl. nom.	0007a12	無見	对译	0167a14	非顯	
+U33-017	S0531	śeṣā	śeṣa	adj. m. pl. nom.	0007a12	餘	对译	0167a14	所餘	
 U33-018	S0531				0007a12	如是已說有見無見	增译			玄奘补出小结（"無見"在 0007a13）
-U33-019	S0532	sapratighāḥ	sa-pratigha	adj. pl. nom.	0007a08	有對	对译	0167a14	有礙	玄奘把此问并入卷二开头的总问（0007a07–08）
-U33-020	S0532	katyapratighāḥ	a-pratigha	adj. pl. nom.	0007a08	無對	对译	0167a14	無礙	
-U33-021	S0533	saparatighā	sa-pratigha	adj. pl. nom.	0007a09	有對	对译	0167a15	有礙	GRETIL 本作 saparatighā，当读 sapratighā
+U33-019	S0532	sapratighāḥ	sa-pratigha	adj. m. pl. nom.	0007a08	有對	对译	0167a14	有礙	玄奘把此问并入卷二开头的总问（0007a07–08）
+U33-020	S0532	katyapratighāḥ	a-pratigha	adj. m. pl. nom.	0007a08	無對	对译	0167a14	無礙	
+U33-021	S0533	saparatighā	sa-pratigha	adj. m. pl. nom.	0007a09	有對	对译	0167a15	有礙	GRETIL 本作 saparatighā，当读 sapratighā
 U33-022	S0533	daśa	daśan	num. pl. nom.	0007a09	十	对译	0167a15	十	
-U33-023	S0534	rūpiṇaḥ	rūpin	adj. pl. nom.	0007a09	有色	对译	0167a15	有色	
+U33-023	S0534	rūpiṇaḥ	rūpin	adj. m. pl. nom.	0007a09	有色	对译	0167a15	有色	
 U33-024	S0535				0007a13	唯	增译			
-U33-025	S0535	rūpaskandhasaṃgṛhītā	rūpa-skandha-saṃgṛhīta	cpd. ptc. pl. nom.	0007a13	色蘊攝	对译	0167a15	色陰所攝	
+U33-025	S0535	rūpaskandhasaṃgṛhītā	rūpa-skandha-saṃgṛhīta	cpd. ptc. m. pl. nom.	0007a13	色蘊攝	对译	0167a15	色陰所攝	
 U33-026	S0535	daśa	daśan	num. pl. nom.	0007a13	十	对译	0167a15	十	
-U33-027	S0535	dhātava	dhātu	n. pl. nom.	0007a13	界	对译	0167a15	界	
-U33-028	S0535	uktāste	vac	ptc. pl. nom.			省译			
-U33-029	S0535	sapratighāḥ	sa-pratigha	adj. pl. nom.	0007a13	有對	对译	0167a16	有礙	
-U33-030	S0536	pratigho	pratigha	n. sg. nom.	0007a13	對	对译	0167a16	礙	
+U33-027	S0535	dhātava	dhātu	n. m. pl. nom.	0007a13	界	对译	0167a15	界	
+U33-028	S0535	uktāste	vac	ptc. m. pl. nom.			省译			
+U33-029	S0535	sapratighāḥ	sa-pratigha	adj. m. pl. nom.	0007a13	有對	对译	0167a16	有礙	
+U33-030	S0536	pratigho	pratigha	n. m. sg. nom.	0007a13	對	对译	0167a16	礙	
 U33-031	S0536	nāma	nāma	ind.	0007a13	是…義	语法			定义句"X 是 Y 義"
-U33-032	S0536	pratighātaḥ	pratighāta	n. sg. nom.	0007a13	礙	对译	0167a16	相障	
+U33-032	S0536	pratighātaḥ	pratighāta	n. m. sg. nom.	0007a13	礙	对译	0167a16	相障	
 U33-033	S0536	sa ca	ca	ind.	0007a13	復	语法			
-U33-034	S0536	trividhaḥ	trividha	adj. sg. nom.	0007a13	三種	对译	0167a16	三種	
-U33-035	S0537	āvaraṇaviṣayālambanapratighātaḥ	āvaraṇa-viṣaya-ālambana-pratighāta	cpd. sg. nom.	0007a14	障礙、境界、所緣	意译	0167a17	一障礙、二塵礙、三緣緣礙	pratighāta 未单独译；"異故"为增字
+U33-034	S0536	trividhaḥ	trividha	adj. m. sg. nom.	0007a13	三種	对译	0167a16	三種	
+U33-035	S0537	āvaraṇaviṣayālambanapratighātaḥ	āvaraṇa-viṣaya-ālambana-pratighāta	cpd. m. sg. nom.	0007a14	障礙、境界、所緣	意译	0167a17	一障礙、二塵礙、三緣緣礙	pratighāta 未单独译；"異故"为增字
 U33-036	S0537	āvaraṇa	āvaraṇa	n. 成分	0007a14	障礙	意译	0167a17	障礙	
 U33-037	S0537	viṣayā	viṣaya	n. 成分	0007a14	境界	对译	0167a17	塵	
 U33-038	S0537	ālambana	ālambana	n. 成分	0007a14	所緣	对译	0167a17	緣緣	
 U33-039	S0537				0007a14	異故	增译			
-U33-040	S0538	tatrāvaraṇapratighātaḥ	āvaraṇa-pratighāta	cpd. sg. nom.	0007a14	障礙有對	意译	0167a17	障礙	
+U33-040	S0538	tatrāvaraṇapratighātaḥ	āvaraṇa-pratighāta	cpd. m. sg. nom.	0007a14	障礙有對	意译	0167a17	障礙	
 U33-041	S0538	tatrāvaraṇa	āvaraṇa	n. 成分	0007a14	障礙	意译	0167a17	障礙	
-U33-042	S0538	pratighātaḥ svadeśe	pratighāta	n. sg. nom.	0007a14	有對	意译			pratighāta 此处作"有對"
+U33-042	S0538	pratighātaḥ svadeśe	pratighāta	n. m. sg. nom.	0007a14	有對	意译			pratighāta 此处作"有對"
 U33-043	S0538				0007a14	謂十色	增译			"謂十色界"（"界"在 0007a15）
-U33-044	S0538	svadeśe	sva-deśa	cpd. sg. loc.	0007a15	於他處	意译	0167a18	於自處	视角互换：梵文"于自处碍他生"，玄奘从被碍者说"自於他處被礙"
+U33-044	S0538	svadeśe	sva-deśa	cpd. m. sg. loc.	0007a15	於他處	意译	0167a18	於自處	视角互换：梵文"于自处碍他生"，玄奘从被碍者说"自於他處被礙"
 U33-045	S0538	svadeśe	sva	pron. 成分	0007a15	他	意译	0167a18	自	同上，视角互换
-U33-046	S0538	deśe	deśa	n. sg. loc.	0007a15	處	对译	0167a18	處	
-U33-048	S0538	parasyo	para	pron. sg. gen.	0007a15	自	意译	0167a18	他	同上，视角互换
-U33-049	S0538	tpattiporativandhaḥ	utpatti-pratibandha	cpd. sg. nom.	0007a15	被礙不生	意译	0167a18	對障…生	GRETIL 本作 porativandhaḥ，当读 pratibandhaḥ；"不生"即 pratibandha（障其生起）之果
+U33-046	S0538	deśe	deśa	n. m. sg. loc.	0007a15	處	对译	0167a18	處	
+U33-048	S0538	parasyo	para	pron. m. sg. gen. (?)	0007a15	自	意译	0167a18	他	同上，视角互换
+U33-049	S0538	tpattiporativandhaḥ	utpatti-pratibandha	cpd. m. sg. nom.	0007a15	被礙不生	意译	0167a18	對障…生	GRETIL 本作 porativandhaḥ，当读 pratibandhaḥ；"不生"即 pratibandha（障其生起）之果
 U33-050	S0538	tpatti	utpatti	n. 成分	0007a15	生	对译	0167a18	生	
-U33-051	S0538	porativandhaḥ	pratibandha	n. sg. nom.	0007a15	被礙	意译	0167a18	對障	
-U33-053	S0539	hasto	hasta	n. sg. nom.	0007a15	手	对译	0167a18	手	
-U33-054	S0539	haste	hasta	n. sg. loc.	0007a15	手	对译	0167a18	於手	
+U33-051	S0538	porativandhaḥ	pratibandha	n. m. sg. nom.	0007a15	被礙	意译	0167a18	對障	
+U33-053	S0539	hasto	hasta	n. m. sg. nom.	0007a15	手	对译	0167a18	手	
+U33-054	S0539	haste	hasta	n. m. sg. loc.	0007a15	手	对译	0167a18	於手	
 U33-055	S0539	pratihanyate	prati-han	v. pres. pass. 3sg.	0007a15	礙	对译	0167a18	相對障	
-U33-056	S0539	upale vā	upala	n. sg. loc.	0007a15	石	意译	0167a18	石	待核：梵文"手碍于手或碍于石，石亦碍于二者"，玄奘作"如手礙手或石礙石或二相礙"，次序与对象不尽相同
-U33-057	S0539	upalo	upala	n. sg. nom.	0007a16	石	对译	0167a19	石	
-U33-058	S0539	tayoḥ	tad	pron. du. loc.	0007a16	二	意译			代词还原（手与石二者）
+U33-056	S0539	upale vā	upala	n. m. sg. loc.	0007a15	石	意译	0167a18	石	待核：梵文"手碍于手或碍于石，石亦碍于二者"，玄奘作"如手礙手或石礙石或二相礙"，次序与对象不尽相同
+U33-057	S0539	upalo	upala	n. m. sg. nom.	0007a16	石	对译	0167a19	石	
+U33-058	S0539	tayoḥ	tad	pron. m. du. loc.	0007a16	二	意译			代词还原（手与石二者）
 U33-059	S0539				0007a16	相礙	增译	0167a19	亦爾	
-U33-060	S0540	viṣayapratighātaś	viṣaya-pratighāta	cpd. sg. nom.	0007a16	境界有對	意译	0167a19	塵礙	
+U33-060	S0540	viṣayapratighātaś	viṣaya-pratighāta	cpd. m. sg. nom.	0007a16	境界有對	意译	0167a19	塵礙	
 U33-061	S0540	viṣayapratighātaś	viṣaya	n. 成分	0007a16	境界	对译	0167a19	塵	
-U33-062	S0540	pratighātaś	pratighāta	n. sg. nom.	0007a16	有對	意译	0167a19	礙	
+U33-062	S0540	pratighātaś	pratighāta	n. m. sg. nom.	0007a16	有對	意译	0167a19	礙	
 U33-063	S0540				0007a16	謂十二界法界一	增译			玄奘具体指出"十二界法界一分"（"分"在 0007a17）
-U33-064	S0540	cakṣurādīnāṃ	cakṣus-ādi	cpd. pl. gen.			省译	0167a19	眼等	玄奘改作"謂十二界法界一分"
-U33-065	S0540	viṣayiṇāṃ	viṣayin	n. pl. gen.	0007a17	有境	对译	0167a19	根	
+U33-064	S0540	cakṣurādīnāṃ	cakṣus-ādi	cpd. nt. pl. gen.			省译	0167a19	眼等	玄奘改作"謂十二界法界一分"
+U33-065	S0540	viṣayiṇāṃ	viṣayin	n. nt. pl. gen.	0007a17	有境	对译	0167a19	根	
 U33-066	S0540				0007a17	諸…法	增译	0167a19	諸	"諸有境法"之"諸""法"
-U33-067	S0540	rūpādiṣu	rūpa-ādi	cpd. pl. loc.	0007a17	色等	对译	0167a19	色等	
-U33-068	S0540	viṣayeṣu	viṣaya	n. pl. loc.	0007a17	境	对译	0167a19	塵	
+U33-067	S0540	rūpādiṣu	rūpa-ādi	cpd. m. pl. loc.	0007a17	色等	对译	0167a19	色等	
+U33-068	S0540	viṣayeṣu	viṣaya	n. m. pl. loc.	0007a17	境	对译	0167a19	塵	
 U33-070	S0541	yathoktaṃ	yathā	ind.	0007a17	如是	语法	0167a19	如	"作如是言"
-U33-071	S0541	yathoktaṃ	vac	ptc. sg. nom.	0007a18	言	意译	0167a20	說	"作"为增字
+U33-071	S0541	yathoktaṃ	vac	ptc. nt. sg. nom.	0007a18	言	意译	0167a20	說	"作"为增字
 U33-072	S0541				0007a17	故…作	增译			"故《施設論》作如是言"之"故""作"
-U33-073	S0541	prajñaptā	prajñapti	n. sg. loc.	0007a17	施設	意译	0167a19	假名論	书名《施設論》（Prajñaptiśāstra），"論"为增字
+U33-073	S0541	prajñaptā	prajñapti	n. f. sg. loc.	0007a17	施設	意译	0167a19	假名論	书名《施設論》（Prajñaptiśāstra），"論"为增字
 U33-073+1	S0541				0007a17	論	增译			合并时从 U33-073（施設論）拆出
-U33-075	S0541	cakṣurjale	cakṣus	n. sg. nom.	0007a18	眼	对译	0167a20	眼	
-U33-076	S0541	jale	jala	n. sg. loc.	0007a18	水	对译	0167a20	水	
+U33-075	S0541	cakṣurjale	cakṣus	n. nt. sg. nom.	0007a18	眼	对译	0167a20	眼	
+U33-076	S0541	jale	jala	n. nt. sg. loc.	0007a18	水	对译	0167a20	水	
 U33-078	S0541	pratihanyate	prati-han	v. pres. pass. 3sg.	0007a18	有礙	意译	0167a20	有礙	
-U33-079	S0541	sthale	sthala	n. sg. loc.	0007a18	陸	对译	0167a20	陸地	
-U33-080	S0542	matsyānām	matsya	n. pl. gen.	0007a18	魚	对译	0167a20	魚	
+U33-079	S0541	sthale	sthala	n. nt. sg. loc.	0007a18	陸	对译	0167a20	陸地	
+U33-080	S0542	matsyānām	matsya	n. m. pl. gen.	0007a18	魚	对译	0167a20	魚	
 U33-081	S0542				0007a18	等眼	增译	0167a20	等眼	
 U33-083	S0543				0007a18	眼	增译	0167a21	眼	承上补出主语
-U33-084	S0543	sthale	sthala	n. sg. loc.	0007a19	陸	对译	0167a21	陸地	
-U33-085	S0543	jale	jala	n. sg. loc.	0007a19	水	对译	0167a21	水	
+U33-084	S0543	sthale	sthala	n. nt. sg. loc.	0007a19	陸	对译	0167a21	陸地	
+U33-085	S0543	jale	jala	n. nt. sg. loc.	0007a19	水	对译	0167a21	水	
 U33-086	S0543				0007a19	有礙	增译	0167a21	有礙	承上补出 pratihanyate
-U33-087	S0544	prāyeṇa	prāya	n. sg. instr.	0007a19	從多分說	意译	0167a21	從多	prāyeṇa（大多）
-U33-088	S0544	manuṣyāṇām	manuṣya	n. pl. gen.	0007a19	人	对译	0167a21	人	
+U33-087	S0544	prāyeṇa	prāya	n. m. sg. instr.	0007a19	從多分說	意译	0167a21	從多	prāyeṇa（大多）
+U33-088	S0544	manuṣyāṇām	manuṣya	n. m. pl. gen.	0007a19	人	对译	0167a21	人	
 U33-089	S0544				0007a19	如…等眼	增译	0167a21	如…等眼	
 U33-090	S0544	astyubhayatra	ubhayatra	ind.	0007a20	俱	对译	0167a22	二處	
 U33-091	S0544				0007a20	礙	增译	0167a22	有礙	
-U33-092	S0545	śiśumāramaṇḍūkapiśācakaivarttādīnām	śiśumāra-maṇḍūka-piśāca-kaivarta-ādi	cpd. pl. gen.	0007a20	畢舍遮、室獸摩羅及捕魚人、蝦蟇等	意译	0167a22	龜鼉蝦蟆鬼捕魚人等	玄奘改动次序；GRETIL 本作 kaivartta-
+U33-092	S0545	śiśumāramaṇḍūkapiśācakaivarttādīnām	śiśumāra-maṇḍūka-piśāca-kaivarta-ādi	cpd. m. pl. gen.	0007a20	畢舍遮、室獸摩羅及捕魚人、蝦蟇等	意译	0167a22	龜鼉蝦蟆鬼捕魚人等	玄奘改动次序；GRETIL 本作 kaivartta-
 U33-093	S0545	śiśumāra	śiśumāra	n. 成分	0007a20	室獸摩羅	音译	0167a22	龜鼉	
 U33-094	S0545	maṇḍūka	maṇḍūka	n. 成分	0007a20	蝦蟇	对译	0167a22	蝦蟆	
 U33-095	S0545	piśāca	piśāca	n. 成分	0007a20	畢舍遮	音译	0167a22	鬼	
 U33-096	S0545	kaivarttā	kaivarta	n. 成分	0007a20	捕魚人	意译	0167a22	捕魚人	kaivarta（渔夫）；GRETIL 本作 kaivartta
-U33-097	S0545	ādīnām	ādi	n. pl. gen.	0007a21	等	对译	0167a23	等	
+U33-097	S0545	ādīnām	ādi	n. m. pl. gen.	0007a21	等	对译	0167a23	等	
 U33-098	S0545				0007a20	如	增译	0167a22	如	
 U33-099	S0546	nobhayatra	ubhayatra	ind.	0007a21	俱	对译	0167a23	二處	"有俱非礙"
 U33-100	S0546				0007a21	礙	增译	0167a23	礙	
-U33-101	S0546	etānākārān	etad	pron. pl. acc.	0007a21	前	意译	0167a23	前	代词 etān（这些）译"前"（前述情形）
-U33-102	S0546	ākārān	ākāra	n. pl. acc.	0007a21	相	对译	0167a23	三句	
+U33-101	S0546	etānākārān	etad	pron. m. pl. acc.	0007a21	前	意译	0167a23	前	代词 etān（这些）译"前"（前述情形）
+U33-102	S0546	ākārān	ākāra	n. m. pl. acc.	0007a21	相	对译	0167a23	三句	
 U33-103	S0546	sthāpayitvā	sthā (caus.)	abs.	0007a21	除	意译	0167a23	除	sthāpayitvā（除开）
 U33-104	S0546				0007a21	謂	增译			
-U33-105	S0547	cakṣuryad	cakṣus	n. sg. nom.	0007a21	眼	对译	0167a23	眼	
-U33-106	S0547	rātrau	rātri	n. sg. loc.	0007a21	夜	对译	0167a24	夜	
+U33-105	S0547	cakṣuryad	cakṣus	n. nt. sg. nom.	0007a21	眼	对译	0167a23	眼	
+U33-106	S0547	rātrau	rātri	n. f. sg. loc.	0007a21	夜	对译	0167a24	夜	
 U33-107	S0547	pratihanyate	prati-han	v. pres. pass. 3sg.	0007a21	有礙	意译	0167a24	有礙	
 U33-108	S0547	divā	divā	ind.	0007a22	晝	对译	0167a24	晝時	
-U33-110	S0548	titīlolūkādīnām	titīla-ulūka-ādi	cpd. pl. gen.	0007a22	蝙蝠鵂鶹等	对译	0167a24	蝙蝠鴝鵒等	
+U33-110	S0548	titīlolūkādīnām	titīla-ulūka-ādi	cpd. m. pl. gen.	0007a22	蝙蝠鵂鶹等	对译	0167a24	蝙蝠鴝鵒等	
 U33-111	S0548	titīlo	titīla	n. 成分	0007a22	蝙蝠	对译	0167a24	蝙蝠	待核：GRETIL 本作 titīla，义未详，玄奘、真谛都作"蝙蝠"
 U33-112	S0548	olūkā	ulūka	n. 成分	0007a22	鵂鶹	对译	0167a24	鴝鵒	
-U33-113	S0548	ādīnām	ādi	n. pl. gen.	0007a22	等	对译	0167a24	等	
+U33-113	S0548	ādīnām	ādi	n. m. pl. gen.	0007a22	等	对译	0167a24	等	
 U33-115	S0548				0007a22	眼	增译	0167a24	眼	
 U33-116	S0548	divā na	divā	ind.	0007a22	晝	对译	0167a25	晝	
-U33-117	S0548	rātrau	rātri	n. sg. loc.	0007a23	夜	对译	0167a25	夜時	
+U33-117	S0548	rātrau	rātri	n. f. sg. loc.	0007a23	夜	对译	0167a25	夜時	
 U33-118	S0548				0007a22	有眼於…有礙	增译	0167a24	有眼	承上补出
-U33-119	S0549	prāyeṇa	prāya	n. sg. instr.	0007a23	從多分說	意译	0167a25	從多	
-U33-120	S0549	manuṣyāṇām	manuṣya	n. pl. gen.	0007a23	人	对译	0167a25	人	
+U33-119	S0549	prāyeṇa	prāya	n. m. sg. instr.	0007a23	從多分說	意译	0167a25	從多	
+U33-120	S0549	manuṣyāṇām	manuṣya	n. m. pl. gen.	0007a23	人	对译	0167a25	人	
 U33-121	S0549				0007a23	如…等眼	增译	0167a25	如…等眼	
-U33-122	S0550	rātrau divā ca	rātri	n. sg. loc.	0007a23	俱	意译	0167a26	夜	rātrau divā ca（夜与昼）概括为"俱"
+U33-122	S0550	rātrau divā ca	rātri	n. f. sg. loc.	0007a23	俱	意译	0167a26	夜	rātrau divā ca（夜与昼）概括为"俱"
 U33-123	S0550	divā ca	divā	ind.	0007a23	俱	合译	0167a26	晝	与 rātri 合为"俱"
 U33-124	S0550				0007a23	有眼…礙	增译	0167a26	有礙	承上补出
-U33-125	S0550	śvaśṛgālaturagadvīpimārjārādīnām	śvan-śṛgāla-turaga-dvīpin-mārjāra-ādi	cpd. pl. gen.	0007a24	狗野干馬豹…猫狸等	意译	0167a26	狗野干馬豹猫狸等	"豺狼"为增字
+U33-125	S0550	śvaśṛgālaturagadvīpimārjārādīnām	śvan-śṛgāla-turaga-dvīpin-mārjāra-ādi	cpd. m. pl. gen.	0007a24	狗野干馬豹…猫狸等	意译	0167a26	狗野干馬豹猫狸等	"豺狼"为增字
 U33-125+1	S0550				0007a24	豺狼	增译			合并时从 U33-125（狗野干馬豹豺狼猫狸等）拆出
 U33-126	S0550	śva	śvan	n. 成分	0007a24	狗	对译	0167a26	狗	
 U33-127	S0550	śṛgāla	śṛgāla	n. 成分	0007a24	野干	对译	0167a26	野干	
@@ -123,254 +123,254 @@ U33-128	S0550	turaga	turaga	n. 成分	0007a24	馬	对译	0167a26	馬
 U33-129	S0550	dvīpi	dvīpin	n. 成分	0007a24	豹	对译	0167a26	豹	
 U33-130	S0550				0007a24	豺狼	增译			
 U33-131	S0550	mārjārā	mārjāra	n. 成分	0007a24	猫狸	对译	0167a26	猫狸	
-U33-132	S0550	mārjārādīnām	ādi	n. pl. gen.	0007a24	等	对译	0167a26	等	
+U33-132	S0550	mārjārādīnām	ādi	n. m. pl. gen.	0007a24	等	对译	0167a26	等	
 U33-133	S0550	nobhayatra	ubhayatra	ind.	0007a24	俱	对译	0167a27	二時	"有俱非礙"
-U33-134	S0551	etānākārān	etad	pron. pl. acc.	0007a25	前	意译	0167a27	前	
-U33-135	S0551	ākārān	ākāra	n. pl. acc.	0007a25	相	对译	0167a27	三句	
+U33-134	S0551	etānākārān	etad	pron. m. pl. acc.	0007a25	前	意译	0167a27	前	
+U33-135	S0551	ākārān	ākāra	n. m. pl. acc.	0007a25	相	对译	0167a27	三句	
 U33-136	S0551	sthāpayitve	sthā (caus.)	abs.	0007a24	除	意译	0167a27	除	
-U33-137	S0551	tyayaṃ	idam	pron. sg. nom.	0007a25	此等	语法			
+U33-137	S0551	tyayaṃ	idam	pron. m. sg. nom.	0007a25	此等	语法			
 U33-138	S0551	sthāpayitve"tyayaṃ	iti	ind.	0007a25	名為	语法	0167a27	如此	引文结束的 iti，玄奘作"此等名為…"
-U33-139	S0551	viśayapratighātaḥ	viṣaya-pratighāta	cpd. sg. nom.	0007a25	境界有對	意译	0167a27	塵礙	GRETIL 本作 viśaya，当读 viṣaya
-U33-140	S0552	ālambanapratighātaś	ālambana-pratighāta	cpd. sg. nom.	0007a25	所緣有對	意译	0167a27	緣緣礙	
+U33-139	S0551	viśayapratighātaḥ	viṣaya-pratighāta	cpd. m. sg. nom.	0007a25	境界有對	意译	0167a27	塵礙	GRETIL 本作 viśaya，当读 viṣaya
+U33-140	S0552	ālambanapratighātaś	ālambana-pratighāta	cpd. m. sg. nom.	0007a25	所緣有對	意译	0167a27	緣緣礙	
 U33-141	S0552	ālambana	ālambana	n. 成分	0007a25	所緣	对译	0167a27	緣緣	
 U33-142	S0552				0007a25	謂	增译			
-U33-143	S0552	cittacaittānāṃ	citta-caitta	cpd. pl. gen.	0007a25	心心所	对译	0167a28	心及心法	
+U33-143	S0552	cittacaittānāṃ	citta-caitta	cpd. m. pl. gen.	0007a25	心心所	对译	0167a28	心及心法	
 U33-144	S0552	cittacaittānāṃ	citta	n. 成分	0007a25	心	对译	0167a28	心	
-U33-145	S0552	caittānāṃ	caitta	n. pl. gen.	0007a26	心所	对译	0167a28	心法	
-U33-146	S0552	sveṣbālamvaneṣu	sva	pron. pl. loc.	0007a26	自	对译	0167a28	自	GRETIL 本作 sveṣbālamvaneṣu，当读 sveṣv ālambaneṣu
-U33-147	S0552	sveṣbālamvaneṣu	ālambana	n. pl. loc.	0007a26	所緣	对译	0167a28	緣緣境	
-U33-151	S0553	viṣayālambanayor	viṣaya-ālambana	cpd. du. gen.	0007a26	境界、所緣	对译	0167a28	塵礙與緣緣…礙	
+U33-145	S0552	caittānāṃ	caitta	n. m. pl. gen.	0007a26	心所	对译	0167a28	心法	
+U33-146	S0552	sveṣbālamvaneṣu	sva	pron. nt. pl. loc.	0007a26	自	对译	0167a28	自	GRETIL 本作 sveṣbālamvaneṣu，当读 sveṣv ālambaneṣu
+U33-147	S0552	sveṣbālamvaneṣu	ālambana	n. nt. pl. loc.	0007a26	所緣	对译	0167a28	緣緣境	
+U33-151	S0553	viṣayālambanayor	viṣaya-ālambana	cpd. nt. du. gen.	0007a26	境界、所緣	对译	0167a28	塵礙與緣緣…礙	
 U33-152	S0553	viṣayā	viṣaya	n. 成分	0007a26	境界	对译	0167a28	塵礙	
-U33-153	S0553	ālambanayor	ālambana	n. du. gen.	0007a26	所緣	对译	0167a28	緣緣	
-U33-154	S0553	viśeṣaḥ	viśeṣa	n. sg. nom.	0007a26	別	对译	0167a29	異相	"有"为增字
+U33-153	S0553	ālambanayor	ālambana	n. nt. du. gen.	0007a26	所緣	对译	0167a28	緣緣	
+U33-154	S0553	viśeṣaḥ	viśeṣa	n. m. sg. nom.	0007a26	別	对译	0167a29	異相	"有"为增字
 U33-155	S0553				0007a26	有	增译			
-U33-156	S0554	yasmin	yad	pron. sg. loc.	0007a26	若於彼法	语法	0167a29	於礙處	关系代词 yasmin（于某法）译"若於彼法"
-U33-157	S0554	yasya	yad	pron. sg. gen.	0007a27	此	语法	0167a29	此法	关系代词 yasya（某法之）译"此"
-U33-158	S0554	kāritraṃ	kāritra	n. sg. nom.	0007a27	功能	对译	0167a29	功能	"有"为增字
-U33-159	S0554	tasya	tad	pron. sg. gen.	0007a27	此法	意译	0167b01	此法	代词还原
-U33-160	S0554	viṣayaḥ	viṣaya	n. sg. nom.	0007a27	境界	对译	0167b01	塵	
+U33-156	S0554	yasmin	yad	pron. m. sg. loc.	0007a26	若於彼法	语法	0167a29	於礙處	关系代词 yasmin（于某法）译"若於彼法"
+U33-157	S0554	yasya	yad	pron. m. sg. gen. (?)	0007a27	此	语法	0167a29	此法	关系代词 yasya（某法之）译"此"
+U33-158	S0554	kāritraṃ	kāritra	n. nt. sg. nom.	0007a27	功能	对译	0167a29	功能	"有"为增字
+U33-159	S0554	tasya	tad	pron. m. sg. gen. (?)	0007a27	此法	意译	0167b01	此法	代词还原
+U33-160	S0554	viṣayaḥ	viṣaya	n. m. sg. nom.	0007a27	境界	对译	0167b01	塵	
 U33-161	S0554				0007a27	即說…為	增译	0167a29	說…為	
-U33-163	S0555	cittacaittair	citta-caitta	cpd. pl. instr.	0007a27	心心所	对译	0167b01	心及心法	"法"为增字
+U33-163	S0555	cittacaittair	citta-caitta	cpd. m. pl. instr.	0007a27	心心所	对译	0167b01	心及心法	"法"为增字
 U33-164	S0555	cittacaittair	citta	n. 成分	0007a27	心	对译	0167b01	心	
-U33-165	S0555	caittair	caitta	n. pl. instr.	0007a27	心所	对译	0167b01	心法	
+U33-165	S0555	caittair	caitta	n. m. pl. instr.	0007a27	心所	对译	0167b01	心法	
 U33-166	S0555	gṛhyate	grah	v. pres. pass. 3sg.	0007a28	執	对译	0167b01	取	
 U33-167	S0555	gṛhyate	pass.	gram. pass. (-ya-)			省译	0167b01	所	被动改为主动（心心所法執彼），玄奘未译被动；真谛作"所取"
 U33-168	S0555				0007a28	而起	增译			
-U33-169	S0555	tadālambanam	ālambana	n. sg. nom.	0007a28	所緣	对译	0167b02	緣緣礙	
+U33-169	S0555	tadālambanam	ālambana	n. nt. sg. nom.	0007a28	所緣	对译	0167b02	緣緣礙	
 U33-170	S0555				0007a28	於心等名為	增译	0167b01	名	
-U33-171	S0556	svasminviṣaye	sva	pron. sg. loc.	0007a29	自	对译	0167b02	自	
-U33-172	S0556	viṣaye	viṣaya	n. sg. loc.	0007a29	境界	对译	0167b02	境	
+U33-171	S0556	svasminviṣaye	sva	pron. m. sg. loc.	0007a29	自	对译	0167b02	自	
+U33-172	S0556	viṣaye	viṣaya	n. m. sg. loc.	0007a29	境界	对译	0167b02	境	
 U33-173	S0556				0007a29	眼等	增译	0167b02	此根	补出主语
-U33-174	S0556	pravarttamānam	pra-vṛt	ptc. pres. nom. sg.	0007a29	轉	对译	0167b02	相續生	GRETIL 本作 pravarttamāna
+U33-174	S0556	pravarttamānam	pra-vṛt	ptc. pres. nt. sg. nom.	0007a29	轉	对译	0167b02	相續生	GRETIL 本作 pravarttamāna
 U33-175	S0556	pravarttamānam	pres. ptc.	gram. ptc. pres. (-māna)	0007a29	時	语法			现在分词表同时，译"…時"
-U33-176	S0556	ālamvane vā	ālambana	n. sg. loc.	0007a29	所緣	对译	0167b02	緣緣	GRETIL 本作 ālamvane，当读 ālambane
+U33-176	S0556	ālamvane vā	ālambana	n. nt. sg. loc.	0007a29	所緣	对译	0167b02	緣緣	GRETIL 本作 ālamvane，当读 ālambane
 U33-178	S0556	pratihanyata	prati-han	v. pres. pass. 3sg.	0007a29	有礙	意译	0167b03	有礙	
 U33-179	S0556	ityucyate	vac	v. pres. pass. 3sg.	0007a29	說	对译	0167b03	說	
 U33-180	S0557	pareṇā	pareṇa	ind.	0007a29	越…於餘	意译	0167b03	過	pareṇa（越过…之外）
-U33-181	S0557	pravṛtteḥ	a-pravṛtti	n. sg. abl.	0007b01	不轉	对译	0167b03	不生	
+U33-181	S0557	pravṛtteḥ	a-pravṛtti	n. f. sg. abl.	0007b01	不轉	对译	0167b03	不生	
 U33-183	S0557				0007b01	此	增译			
 U33-184	S0558	nipāto vā	vā	ind.	0007b01	或復	语法	0167b03	復次	
-U33-185	S0558	'tra pratighāto	pratighāta	n. sg. nom.	0007b01	礙	对译	0167b04	礙	
-U33-186	S0558	nipāto	nipāta	n. sg. nom.	0007b01	和會	意译	0167b04	到	nipāta（落于、遇合）
+U33-185	S0558	'tra pratighāto	pratighāta	n. m. sg. nom.	0007b01	礙	对译	0167b04	礙	
+U33-186	S0558	nipāto	nipāta	n. m. sg. nom.	0007b01	和會	意译	0167b04	到	nipāta（落于、遇合）
 U33-187	S0558				0007b01	是…義	增译	0167b04	義	
-U33-188	S0558	yā svaviṣaye	yad	pron. sg. nom.	0007b01	謂	语法	0167b04	謂	
+U33-188	S0558	yā svaviṣaye	yad	pron. f. sg. nom.	0007b01	謂	语法	0167b04	謂	
 U33-189	S0558				0007b01	眼	增译			"眼等法"（"等法"在 0007b02）
-U33-190	S0558	svaviṣaye	sva-viṣaya	cpd. sg. loc.	0007b02	自境界	对译	0167b04	自境	
+U33-190	S0558	svaviṣaye	sva-viṣaya	cpd. m. sg. loc.	0007b02	自境界	对译	0167b04	自境	
 U33-191	S0558				0007b02	及自所緣和會	增译			玄奘补出"及自所緣"并复出"和會"
-U33-192	S0558	pravṛttiḥ	pravṛtti	n. sg. nom.	0007b02	轉	对译	0167b04	生	
+U33-192	S0558	pravṛttiḥ	pravṛtti	n. f. sg. nom.	0007b02	轉	对译	0167b04	生	
 U33-193	S0559	tadihā	iha	ind.	0007b02	此中	语法	0167b04	此中	
-U33-194	S0559	āvaraṇapratighātena	āvaraṇa-pratighāta	cpd. sg. instr.	0007b03	障礙有對	对译	0167b04	障礙	
+U33-194	S0559	āvaraṇapratighātena	āvaraṇa-pratighāta	cpd. m. sg. instr.	0007b03	障礙有對	对译	0167b04	障礙	
 U33-195	S0559	āvaraṇapratighātena	instr.	gram. instr. (-ena)	0007b03	就	语法	0167b04	由	第三格表依据
 U33-196	S0559				0007b03	唯…而說	增译			
 U33-197	S0559	daśānāṃ	daśan	num. pl. gen.	0007b03	十	对译	0167b05	十	
 U33-198	S0559	sapratighatvaṃ	sa-pratigha	adj. 成分	0007b03	有對	对译	0167b05	有礙	
 U33-199	S0559				0007b03	故但言…有色	增译			"故但言十有色有對"之"故但言""有色"
-U33-200	S0559	veditavyam	vid	gdv. sg. nom.	0007b02	知	对译	0167b05	知	
-U33-201	S0559	anyonyāvaraṇāt	anyonya-āvaraṇa	cpd. sg. abl.	0007b04	更相障	对译	0167b05	互相障	
+U33-200	S0559	veditavyam	vid	gdv. nt. sg. nom.	0007b02	知	对译	0167b05	知	
+U33-201	S0559	anyonyāvaraṇāt	anyonya-āvaraṇa	cpd. nt. sg. abl.	0007b04	更相障	对译	0167b05	互相障	
 U33-202	S0559	anyonyā	anyonya	pron. 成分	0007b04	更相	对译	0167b05	互相	
-U33-203	S0559	āvaraṇāt	āvaraṇa	n. sg. abl.	0007b04	障	对译	0167b05	障	
+U33-203	S0559	āvaraṇāt	āvaraṇa	n. nt. sg. abl.	0007b04	障	对译	0167b05	障	
 U33-204	S0559				0007b04	由此義准說餘無對	增译			玄奘仿"有見"段补出
 U33-205	S0560	ye dharmā	yad … tad	gram. rel.-cor.	0007b04	若…耶	语法	0167b05	若…不	关系-相关句"凡 X 者亦 Y"译作是非问"若…亦…耶"
-U33-206	S0560	dharmā	dharma	n. pl. nom.	0007b04	法	对译	0167b05	法	
-U33-207	S0560	viṣayapratighātena	viṣaya-pratighāta	cpd. sg. instr.	0007b04	境界	意译	0167b05	塵礙	pratighāta 与 sapratigha 合为"有對"
-U33-208	S0560	sapratighā	sa-pratigha	adj. pl. nom.	0007b05	有對	对译	0167b05	有礙	
-U33-210	S0560	āvaraṇapratighātenā	āvaraṇa-pratighāta	cpd. sg. instr.	0007b05	障礙	意译	0167b06	障礙	
+U33-206	S0560	dharmā	dharma	n. m. pl. nom.	0007b04	法	对译	0167b05	法	
+U33-207	S0560	viṣayapratighātena	viṣaya-pratighāta	cpd. m. sg. instr.	0007b04	境界	意译	0167b05	塵礙	pratighāta 与 sapratigha 合为"有對"
+U33-208	S0560	sapratighā	sa-pratigha	adj. m. pl. nom.	0007b05	有對	对译	0167b05	有礙	
+U33-210	S0560	āvaraṇapratighātenā	āvaraṇa-pratighāta	cpd. m. sg. instr.	0007b05	障礙	意译	0167b06	障礙	
 U33-211	S0560				0007b05	有對	增译	0167b06	有礙	承上补出
-U33-212	S0560	catuṣkoṭikaḥ	catur-koṭika	cpd. adj. sg. nom.	0007b05	四句	对译	0167b06	四句	"應作"为增字
+U33-212	S0560	catuṣkoṭikaḥ	catur-koṭika	cpd. adj. m. sg. nom.	0007b05	四句	对译	0167b06	四句	"應作"为增字
 U33-213	S0560				0007b05	應作	增译	0167b06	有	
-U33-214	S0561	prathamā koṭiḥ	prathama	num. sg. nom.	0007b06	第一	对译	0167b06	第一	
-U33-215	S0561	koṭiḥ	koṭi	n. sg. nom.	0007b06	句	对译	0167b06	句	
+U33-214	S0561	prathamā koṭiḥ	prathama	num. f. sg. nom.	0007b06	第一	对译	0167b06	第一	
+U33-215	S0561	koṭiḥ	koṭi	n. f. sg. nom.	0007b06	句	对译	0167b06	句	
 U33-216	S0561				0007b05	謂	增译	0167b06	謂	
 U33-217	S0561	sapta	saptan	num. pl. nom.	0007b05	七	对译	0167b06	七	
-U33-218	S0561	cittadhātavo	citta-dhātu	cpd. pl. nom.	0007b05	心界	对译	0167b06	心界	
-U33-219	S0561	dharmadhātupradeśaś	dharma-dhātu-pradeśa	cpd. sg. nom.	0007b06	法界一分	对译	0167b07	法界一分	
+U33-218	S0561	cittadhātavo	citta-dhātu	cpd. m. pl. nom.	0007b05	心界	对译	0167b06	心界	
+U33-219	S0561	dharmadhātupradeśaś	dharma-dhātu-pradeśa	cpd. m. sg. nom.	0007b06	法界一分	对译	0167b07	法界一分	
 U33-220	S0561	dharmadhātu	dharma-dhātu	cpd. 成分	0007b06	法界	对译	0167b07	法界	
-U33-221	S0561	pradeśaś	pradeśa	n. sg. nom.	0007b06	一分	意译	0167b07	一分	
-U33-223	S0561	saṃprayuktaḥ	saṃprayukta	ptc. sg. nom.	0007b06	相應	对译	0167b07	相應	"法"为增字
+U33-221	S0561	pradeśaś	pradeśa	n. m. sg. nom.	0007b06	一分	意译	0167b07	一分	
+U33-223	S0561	saṃprayuktaḥ	saṃprayukta	ptc. m. sg. nom.	0007b06	相應	对译	0167b07	相應	"法"为增字
 U33-224	S0561				0007b06	法是	增译			"諸相應法是第一句"之"法""是"
-U33-225	S0562	dvitīyā	dvitīya	num. sg. nom.	0007b07	第二	对译	0167b07	第二	
+U33-225	S0562	dvitīyā	dvitīya	num. f. sg. nom.	0007b07	第二	对译	0167b07	第二	
 U33-226	S0562	pañca viṣayāḥ	pañcan	num. pl. nom.	0007b06	五	对译	0167b07	五	
-U33-227	S0562	viṣayāḥ	viṣaya	n. pl. nom.	0007b06	境	对译	0167b07	塵	"色等"为增字
+U33-227	S0562	viṣayāḥ	viṣaya	n. m. pl. nom.	0007b06	境	对译	0167b07	塵	"色等"为增字
 U33-228	S0562				0007b06	色等	增译			
-U33-229	S0562	tṛtīyā	tṛtīya	num. sg. nom.	0007b07	第三	对译	0167b07	第	
+U33-229	S0562	tṛtīyā	tṛtīya	num. f. sg. nom.	0007b07	第三	对译	0167b07	第	
 U33-230	S0562	pañcendriyāṇi	pañcan	num. pl. nom.	0007b07	五	对译	0167b08	五	
-U33-231	S0562	ndriyāṇi	indriya	n. pl. nom.	0007b07	根	对译	0167b08	根	"眼等"为增字
+U33-231	S0562	ndriyāṇi	indriya	n. nt. pl. nom.	0007b07	根	对译	0167b08	根	"眼等"为增字
 U33-232	S0562				0007b07	眼等	增译			
-U33-233	S0563	caturthī	caturtha	num. sg. nom.	0007b08	第四	对译	0167b08	第四	
-U33-234	S0563	dharmadhātupradeśaḥ	dharma-dhātu-pradeśa	cpd. sg. nom.	0007b07	法界一分	对译	0167b08	法界一分	
-U33-235	S0563	saṃprayuktakavarjyaḥ	saṃprayuktaka-varjya	cpd. adj. sg. nom.	0007b07	非…相應	意译	0167b08	心不相應	"非相應法"（"相應法"在 0007b07）
+U33-233	S0563	caturthī	caturtha	num. f. sg. nom.	0007b08	第四	对译	0167b08	第四	
+U33-234	S0563	dharmadhātupradeśaḥ	dharma-dhātu-pradeśa	cpd. m. sg. nom.	0007b07	法界一分	对译	0167b08	法界一分	
+U33-235	S0563	saṃprayuktakavarjyaḥ	saṃprayuktaka-varjya	cpd. adj. m. sg. nom.	0007b07	非…相應	意译	0167b08	心不相應	"非相應法"（"相應法"在 0007b07）
 U33-236	S0563	saṃprayuktaka	saṃprayuktaka	adj. 成分	0007b08	相應	对译	0167b08	相應	
-U33-237	S0563	varjyaḥ	varjya	gdv. sg. nom.	0007b07	非	意译	0167b08	不	varjya（除去的）译"非"
+U33-237	S0563	varjyaḥ	varjya	gdv. m. sg. nom.	0007b07	非	意译	0167b08	不	varjya（除去的）译"非"
 U33-238	S0564	ye dharmā	yad … tad	gram. rel.-cor.	0007b08	若…耶	语法	0167b09	若…不	
-U33-239	S0564	dharmā	dharma	n. pl. nom.	0007b08	法	对译	0167b09	法	
-U33-240	S0564	viśayapratighātena	viṣaya-pratighāta	cpd. sg. instr.	0007b08	境界	意译	0167b09	塵礙	GRETIL 本作 viśaya，当读 viṣaya；pratighāta 与 sapratigha 合为"有對"
-U33-241	S0564	sapratighā	sa-pratigha	adj. pl. nom.	0007b08	有對	对译	0167b09	有礙	
-U33-243	S0564	ālambana pratighātenā	ālambana-pratighāta	cpd. sg. instr.	0007b08	所緣	意译	0167b09	緣緣礙	GRETIL 本 ālambana 与 pratighātena 间有空格
+U33-239	S0564	dharmā	dharma	n. m. pl. nom.	0007b08	法	对译	0167b09	法	
+U33-240	S0564	viśayapratighātena	viṣaya-pratighāta	cpd. m. sg. instr.	0007b08	境界	意译	0167b09	塵礙	GRETIL 本作 viśaya，当读 viṣaya；pratighāta 与 sapratigha 合为"有對"
+U33-241	S0564	sapratighā	sa-pratigha	adj. m. pl. nom.	0007b08	有對	对译	0167b09	有礙	
+U33-243	S0564	ālambana pratighātenā	ālambana-pratighāta	cpd. m. sg. instr.	0007b08	所緣	意译	0167b09	緣緣礙	GRETIL 本 ālambana 与 pratighātena 间有空格
 U33-244	S0564				0007b08	有對	增译	0167b09	有礙	承上补出
-U33-245	S0565	paścātpādakaḥ	paścāt-pādaka	cpd. adj. sg. nom.	0007b09	順後句	意译	0167b09	除…後二句	paścātpādaka（后句式）；"應"为增字
+U33-245	S0565	paścātpādakaḥ	paścāt-pādaka	cpd. adj. m. sg. nom.	0007b09	順後句	意译	0167b09	除…後二句	paścātpādaka（后句式）；"應"为增字
 U33-246	S0565	paścāt	paścāt	ind.	0007b09	後	对译	0167b10	後	
-U33-247	S0565	pādakaḥ	pādaka	n. sg. nom.	0007b09	句	意译	0167b10	句	
+U33-247	S0565	pādakaḥ	pādaka	n. m. sg. nom.	0007b09	句	意译	0167b10	句	
 U33-248	S0565				0007b09	應	增译			
 U33-249	S0565	ye tāvad	tāvat	ind.	0007b09	謂	语法			
 U33-250	S0565	ye tāvad	yad … tad	gram. rel.-cor.	0007b09	若…定是	语法	0167b10	若…必	关系-相关句"凡 X 者皆 Y"译"若…定是…"
-U33-251	S0565	ālambanapratighātenāpi	ālambana-pratighāta	cpd. sg. instr.	0007b09	所緣有對	意译	0167b10	緣緣礙	
-U33-252	S0565	viṣayapratighātenāpi	viṣaya-pratighāta	cpd. sg. instr.	0007b09	境界	意译	0167b10	塵礙	"有對"在 0007b10
-U33-253	S0566	viṣayapratighatenaiva	viṣaya-pratighāta	cpd. sg. instr.	0007b10	境界有對	意译	0167b10	塵礙	GRETIL 本作 pratighatena，当读 pratighātena
+U33-251	S0565	ālambanapratighātenāpi	ālambana-pratighāta	cpd. m. sg. instr.	0007b09	所緣有對	意译	0167b10	緣緣礙	
+U33-252	S0565	viṣayapratighātenāpi	viṣaya-pratighāta	cpd. m. sg. instr.	0007b09	境界	意译	0167b10	塵礙	"有對"在 0007b10
+U33-253	S0566	viṣayapratighatenaiva	viṣaya-pratighāta	cpd. m. sg. instr.	0007b10	境界有對	意译	0167b10	塵礙	GRETIL 本作 pratighatena，当读 pratighātena
 U33-254	S0566	tenaiva	eva	ind.	0007b10	雖…而	语法			"唯由境界有对而不由所缘"，玄奘作"雖…而非…"
-U33-255	S0566	nālambanapratighātena	ālambana-pratighāta	cpd. sg. instr.	0007b10	所緣有對	意译	0167b11	緣緣礙	
+U33-255	S0566	nālambanapratighātena	ālambana-pratighāta	cpd. m. sg. instr.	0007b10	所緣有對	意译	0167b11	緣緣礙	
 U33-256	S0567	pañcendriyāṇi	pañcan	num. pl. nom.	0007b11	五	对译	0167b11	五	
-U33-257	S0567	ndriyāṇi	indriya	n. pl. nom.	0007b11	根	对译	0167b11	根	"謂眼等"为增字
+U33-257	S0567	ndriyāṇi	indriya	n. nt. pl. nom.	0007b11	根	对译	0167b11	根	"謂眼等"为增字
 U33-258	S0567				0007b10	謂眼	增译			"謂眼等五根"（"等"在 0007b11）
 U33-259	S0568	yatrotpitsor	yatra	ind.	0007b12	是處	语法	0167b13	是處	
-U33-260	S0568	tpitsor	ud-pad (desid.)	adj. desid. sg. gen.	0007b12	生	对译	0167b13	生	utpitsu（欲生的）
+U33-260	S0568	tpitsor	ud-pad (desid.)	adj. desid. nt. sg. gen.	0007b12	生	对译	0167b13	生	utpitsu（欲生的）
 U33-261	S0568	tpitsor	desid.	gram. desid. (-sa-)	0007b12	欲	语法	0167b13	欲	愿望式（desiderative）译"欲"
-U33-262	S0568	manasaḥ	manas	n. sg. gen.	0007b12	心	意译	0167b13	心	
-U33-263	S0568	pratighataḥ	pratighāta	n. sg. nom.	0007b12	礙	对译	0167b13	礙	GRETIL 本作 pratighataḥ，当读 pratighātaḥ
+U33-262	S0568	manasaḥ	manas	n. nt. sg. gen.	0007b12	心	意译	0167b13	心	
+U33-263	S0568	pratighataḥ	pratighāta	n. m. sg. nom.	0007b12	礙	对译	0167b13	礙	GRETIL 本作 pratighataḥ，当读 pratighātaḥ
 U33-264	S0568	śakyate	śak	v. pres. pass. 3sg.			省译			
-U33-265	S0568	paraiḥ	para	pron. pl. instr.	0007b12	他	对译	0167b13	他	
+U33-265	S0568	paraiḥ	para	pron. m. pl. instr. (?)	0007b12	他	对译	0167b13	他	
 U33-266	S0568	karttum	kṛ	inf.			省译			GRETIL 本作 karttum
 U33-267	S0568				0007b12	令不起	增译	0167b13	令不起	玄奘、真谛都补出结果"令不起"
-U33-268	S0568	tatsapratighaṃ	tad	pron. sg. nom.	0007b13	是	语法	0167b14	是	
-U33-269	S0568	sapratighaṃ	sa-pratigha	adj. sg. nom.	0007b13	有對	对译	0167b14	有礙	
-U33-270	S0568	jñeyaṃ	jñā	gdv. sg. nom.	0007b13	知	对译	0167b14	知	"應"归义务分词
-U33-271	S0568	viparyayād	viparyaya	n. sg. abl.	0007b13	相違	对译	0167b14	異	"此"为增字
-U33-272	S0568	apratigham	a-pratigha	adj. sg. nom.	0007b13	無對	对译	0167b14	非有礙	
-U33-273	S0568	miṣṭami"ti	iṣ	ptc. sg. nom.	0007b14	所許	意译			iṣṭam（所许）玄奘移到颂后作"此是所許"
+U33-268	S0568	tatsapratighaṃ	tad	pron. nt. sg. nom.	0007b13	是	语法	0167b14	是	
+U33-269	S0568	sapratighaṃ	sa-pratigha	adj. nt. sg. nom.	0007b13	有對	对译	0167b14	有礙	
+U33-270	S0568	jñeyaṃ	jñā	gdv. nt. sg. nom.	0007b13	知	对译	0167b14	知	"應"归义务分词
+U33-271	S0568	viparyayād	viparyaya	n. m. sg. abl.	0007b13	相違	对译	0167b14	異	"此"为增字
+U33-272	S0568	apratigham	a-pratigha	adj. nt. sg. nom.	0007b13	無對	对译	0167b14	非有礙	
+U33-273	S0568	miṣṭami"ti	iṣ	ptc. nt. sg. nom.	0007b14	所許	意译			iṣṭam（所许）玄奘移到颂后作"此是所許"
 U33-275	S0568				0007b11	此中…作…說	增译	0167b12	說	"此中大德鳩摩邏多作如是說"之"此中""作""說"
-U33-276	S0569	bhadantakumāralātaḥ	bhadanta-kumāralāta	cpd. sg. nom.	0007b11	大德鳩摩邏多	音译	0167b12	大德鳩摩羅羅多	
+U33-276	S0569	bhadantakumāralātaḥ	bhadanta-kumāralāta	cpd. m. sg. nom.	0007b11	大德鳩摩邏多	音译	0167b12	大德鳩摩羅羅多	
 U33-277	S0569	bhadanta	bhadanta	n. 成分	0007b11	大德	对译	0167b12	大德	
-U33-278	S0569	kumāralātaḥ	kumāralāta	n. sg. nom. (人名)	0007b11	鳩摩邏多	音译	0167b12	鳩摩羅羅多	
-U33-279	S0569	uktāḥ	vac	ptc. pl. nom.	0007b14	說	对译	0167b15	說	
+U33-278	S0569	kumāralātaḥ	kumāralāta	n. m. sg. nom. (人名)	0007b11	鳩摩邏多	音译	0167b12	鳩摩羅羅多	
+U33-279	S0569	uktāḥ	vac	ptc. m. pl. nom.	0007b14	說	对译	0167b15	說	
 U33-281	S0569				0007b14	如是	增译			
-U33-282	S0569	sapratighā	sa-pratigha	adj. pl. nom.	0007b14	有對	对译	0167b15	有礙	
-U33-283	S0569	apratighāśca	a-pratigha	adj. pl. nom.	0007b14	無對	对译			
+U33-282	S0569	sapratighā	sa-pratigha	adj. m. pl. nom.	0007b14	有對	对译	0167b15	有礙	
+U33-283	S0569	apratighāśca	a-pratigha	adj. m. pl. nom.	0007b14	無對	对译			
 U33-284	S0570	aṣṭādaśadhātūnāṃ	aṣṭādaśan	num. 成分	0007a07	十八	合译	0167b15	十八	玄奘把 S0529、S0532、S0570 三问并在卷二开头，共用"於前所說十八界中"
-U33-285	S0570	dhātūnāṃ	dhātu	n. pl. gen.	0007a07	界	合译	0167b15	界	同上
-U33-286	S0570	kuśalāḥ	kuśala	adj. pl. nom.	0007a08	善	对译	0167b15	善	
-U33-287	S0570	katyakuśalāḥ	a-kuśala	adj. pl. nom.	0007a08	不善	对译	0167b15	惡	
-U33-288	S0570	katyavyākṛtā	a-vyākṛta	ptc. adj. pl. nom.	0007a08	無記	对译	0167b15	無記	
-U33-289	S0571	avyākṛtā	a-vyākṛta	ptc. adj. pl. nom.	0007a10	無記	对译	0167b16	無記	
+U33-285	S0570	dhātūnāṃ	dhātu	n. m. pl. gen.	0007a07	界	合译	0167b15	界	同上
+U33-286	S0570	kuśalāḥ	kuśala	adj. m. pl. nom.	0007a08	善	对译	0167b15	善	
+U33-287	S0570	katyakuśalāḥ	a-kuśala	adj. m. pl. nom.	0007a08	不善	对译	0167b15	惡	
+U33-288	S0570	katyavyākṛtā	a-vyākṛta	ptc. adj. m. pl. nom.	0007a08	無記	对译	0167b15	無記	
+U33-289	S0571	avyākṛtā	a-vyākṛta	ptc. adj. m. pl. nom.	0007a10	無記	对译	0167b16	無記	
 U33-290	S0571	aṣṭau	aṣṭan	num. pl. nom.	0007a10	八	对译	0167b16	八	
 U33-291	S0571	aṣṭau	aṣṭan	num. pl. nom.	0007b15	八	对译			长行复述颂文"餘八無記"
-U33-292	S0571	avyākṛtā	a-vyākṛta	ptc. adj. pl. nom.	0007b15	無記	对译			长行复述颂文
+U33-292	S0571	avyākṛtā	a-vyākṛta	ptc. adj. m. pl. nom.	0007b15	無記	对译			长行复述颂文
 U33-294	S0572	katame aṣṭau	aṣṭan	num. pl. nom.			省译	0167b16	八	
-U33-296	S0572	daśoktāḥ	vac	ptc. pl. nom.	0007b14	說	对译	0167b16	說	
+U33-296	S0572	daśoktāḥ	vac	ptc. m. pl. nom.	0007b14	說	对译	0167b16	說	
 U33-297	S0572	daśoktāḥ	daśan	num. pl. nom.	0007b15	十	对译	0167b16	十種	
-U33-298	S0572	sapratighā	sa-pratigha	adj. pl. nom.	0007b15	有對	对译	0167b16	有礙	
+U33-298	S0572	sapratighā	sa-pratigha	adj. m. pl. nom.	0007b15	有對	对译	0167b16	有礙	
 U33-299	S0572				0007b14	於…所	增译	0167b16	所	"於此所說十有對中"之"於""所"（"中"在 0007b15）
-U33-300	S0573	ārūpaśabdakāḥ	a-rūpa-śabdaka	cpd. adj. pl. nom.	0007a10	除色聲	意译	0167b17	除色聲	a-（无、除）译"除"
+U33-300	S0573	ārūpaśabdakāḥ	a-rūpa-śabdaka	cpd. adj. m. pl. nom.	0007a10	除色聲	意译	0167b17	除色聲	a-（无、除）译"除"
 U33-301	S0573	ārūpa	rūpa	n. 成分	0007a10	色	对译	0167b17	色	
-U33-302	S0573	śabdakāḥ	śabdaka	adj. pl. nom.	0007a10	聲	对译	0167b17	聲	
-U33-303	S0573	ārūpaśabdakāḥ	a-rūpa-śabdaka	cpd. adj. pl. nom.	0007b15	除色及聲	意译			长行复述颂文
+U33-302	S0573	śabdakāḥ	śabdaka	adj. m. pl. nom.	0007a10	聲	对译	0167b17	聲	
+U33-303	S0573	ārūpaśabdakāḥ	a-rūpa-śabdaka	cpd. adj. m. pl. nom.	0007b15	除色及聲	意译			长行复述颂文
 U33-304	S0574				0007b15	謂	增译			
 U33-305	S0574	pañcendriyāṇi	pañcan	num. pl. nom.	0007b15	五	对译	0167b17	五	
-U33-306	S0574	ndriyāṇi	indriya	n. pl. nom.	0007b15	根	对译	0167b17	根	"色"为增字
+U33-306	S0574	ndriyāṇi	indriya	n. nt. pl. nom.	0007b15	根	对译	0167b17	根	"色"为增字
 U33-307	S0574				0007b15	色	增译			"五色根"之"色"
-U33-308	S0574	gandharasaspraṣṭavyā	gandha-rasa-spraṣṭavya	cpd. pl. nom.	0007b16	香、味、觸	对译	0167b17	香、味、觸	
-U33-309	S0574	dhātavaśca	dhātu	n. pl. nom.	0007b16	境	意译	0167b17	界	dhātu 此处译"境"
-U33-310	S0575	kuśalākuśalabhāvenā	kuśala-akuśala-bhāva	cpd. sg. instr.	0007b16	善不善性	对译	0167b18	善惡差別	
+U33-308	S0574	gandharasaspraṣṭavyā	gandha-rasa-spraṣṭavya	cpd. m. pl. nom.	0007b16	香、味、觸	对译	0167b17	香、味、觸	
+U33-309	S0574	dhātavaśca	dhātu	n. m. pl. nom.	0007b16	境	意译	0167b17	界	dhātu 此处译"境"
+U33-310	S0575	kuśalākuśalabhāvenā	kuśala-akuśala-bhāva	cpd. m. sg. instr.	0007b16	善不善性	对译	0167b18	善惡差別	
 U33-311	S0575	kuśalā	kuśala	adj. 成分	0007b16	善	对译	0167b18	善	
 U33-312	S0575	ākuśala	a-kuśala	adj. 成分	0007b16	不善	对译	0167b18	惡	
-U33-313	S0575	bhāvenā	bhāva	n. sg. instr.	0007b16	性	对译	0167b18	差別	
+U33-313	S0575	bhāvenā	bhāva	n. m. sg. instr.	0007b16	性	对译	0167b18	差別	
 U33-314	S0575	bhāvenā	instr.	gram. instr. (-ena)	0007b16	為	语法	0167b18	由	"記為善不善性"
-U33-315	S0575	vyākaraṇād	a-vyākaraṇa	n. sg. abl.	0007b16	不可記	对译	0167b18	不可記	
-U33-316	S0575	davyākṛtāḥ	a-vyākṛta	ptc. adj. pl. nom.	0007b16	無記	对译	0167b18	無記	"名"为增字
+U33-315	S0575	vyākaraṇād	a-vyākaraṇa	n. nt. sg. abl.	0007b16	不可記	对译	0167b18	不可記	
+U33-316	S0575	davyākṛtāḥ	a-vyākṛta	ptc. adj. m. pl. nom.	0007b16	無記	对译	0167b18	無記	"名"为增字
 U33-317	S0575	'ṣṭau	aṣṭan	num. pl. nom.			省译	0167b18	八	
-U33-318	S0576	ityapare	apara	pron. pl. nom.	0007b17	有	意译	0167b18	有餘	
-U33-319	S0576	vipākaṃ	vipāka	n. sg. acc.	0007b17	異熟	意译	0167b19	果報	"果"为增字
+U33-318	S0576	ityapare	apara	pron. m. pl. nom.	0007b17	有	意译	0167b18	有餘	
+U33-319	S0576	vipākaṃ	vipāka	n. m. sg. acc.	0007b17	異熟	意译	0167b19	果報	"果"为增字
 U33-319+1	S0576				0007b17	果	增译			合并时从 U33-319（異熟果）拆出
 U33-320	S0576	pratyavyākaraṇād	prati	ind.			省译	0167b19	約	
-U33-321	S0576	pratyavyākaraṇād	a-vyākaraṇa	n. sg. abl.	0007b17	不能記	意译	0167b19	不可記	
+U33-321	S0576	pratyavyākaraṇād	a-vyākaraṇa	n. nt. sg. abl.	0007b17	不能記	意译	0167b19	不可記	
 U33-322	S0576				0007b17	名無記	增译	0167b19	名無記	
 U33-323	S0576	evamanāsrave	evam	ind.	0007b17	若爾	语法	0167b19	若爾	
-U33-324	S0576	anāsrave	an-āsrava	adj. sg. loc.	0007b17	無漏	对译	0167b19	無流	
-U33-325	S0576	prasaṅgaḥ	prasaṅga	n. sg. nom.	0007b18	應	意译	0167b20	反質難	prasaṅga（推及之过）玄奘具体作"應唯無記"
+U33-324	S0576	anāsrave	an-āsrava	adj. m. sg. loc. (?)	0007b17	無漏	对译	0167b19	無流	
+U33-325	S0576	prasaṅgaḥ	prasaṅga	n. m. sg. nom.	0007b18	應	意译	0167b20	反質難	prasaṅga（推及之过）玄奘具体作"應唯無記"
 U33-326	S0576				0007b18	唯無記	增译			
-U33-327	S0577	'nye	anya	pron. pl. nom.	0007a10	餘	对译	0167b20	餘	
+U33-327	S0577	'nye	anya	pron. m. pl. nom.	0007a10	餘	对译	0167b20	餘	
 U33-328	S0577	tridhā	tridhā	ind.	0007a10	三種	对译	0167b20	三性	
-U33-329	S0578	anye daśa	anya	pron. pl. nom.	0007b18	其餘	对译	0167b20	餘	
+U33-329	S0578	anye daśa	anya	pron. m. pl. nom.	0007b18	其餘	对译	0167b20	餘	
 U33-330	S0578	daśa dhātavaḥ	daśan	num. pl. nom.	0007b18	十	对译	0167b20	十種	
-U33-331	S0578	dhātavaḥ	dhātu	n. pl. nom.	0007b18	界	对译	0167b20	界	
+U33-331	S0578	dhātavaḥ	dhātu	n. m. pl. nom.	0007b18	界	对译	0167b20	界	
 U33-332	S0578				0007b18	通	增译	0167b21	具	
-U33-333	S0578	kuśalākuśalāvyākṛtāḥ	kuśala-akuśala-avyākṛta	cpd. pl. nom.	0007b18	善等三	意译	0167b21	善、惡、無記	
+U33-333	S0578	kuśalākuśalāvyākṛtāḥ	kuśala-akuśala-avyākṛta	cpd. m. pl. nom.	0007b18	善等三	意译	0167b21	善、惡、無記	
 U33-334	S0578	kuśalā	kuśala	adj. 成分	0007b18	善	对译	0167b21	善	
 U33-335	S0579	tatra sapta	tatra	ind.	0007b18	謂	语法	0167b21	此中	
 U33-336	S0579	sapta	saptan	num. pl. nom.	0007b18	七	对译	0167b21	七	
-U33-337	S0579	dhātavo	dhātu	n. pl. nom.	0007b18	界	对译	0167b21	識界	"心"为增字
+U33-337	S0579	dhātavo	dhātu	n. m. pl. nom.	0007b18	界	对译	0167b21	識界	"心"为增字
 U33-338	S0579				0007b18	心	增译	0167b21	識	"七心界"之"心"
-U33-339	S0579	'lobhādisaṃprayuktā	a-lobha-ādi-saṃprayukta	cpd. ptc. pl. nom.	0007b19	與無貪等相應	对译	0167b21	與無貪等相應	
+U33-339	S0579	'lobhādisaṃprayuktā	a-lobha-ādi-saṃprayukta	cpd. ptc. m. pl. nom.	0007b19	與無貪等相應	对译	0167b21	與無貪等相應	
 U33-340	S0579	'lobhā	a-lobha	n. 成分	0007b19	無貪	对译	0167b21	無貪	
 U33-341	S0579	ādisaṃprayuktā	ādi	n. 成分	0007b19	等	对译	0167b21	等	
-U33-342	S0579	saṃprayuktā	saṃprayukta	ptc. pl. nom.	0007b19	相應	对译	0167b21	相應	
-U33-343	S0579	kuśalāḥ	kuśala	adj. pl. nom.	0007b19	善	对译	0167b22	善	"名"为增字
-U33-344	S0580	lobhādisaṃprayuktā	lobha-ādi-saṃprayukta	cpd. ptc. pl. nom.	0007b19	貪等相應	对译	0167b22	與貪等相應	
+U33-342	S0579	saṃprayuktā	saṃprayukta	ptc. m. pl. nom.	0007b19	相應	对译	0167b21	相應	
+U33-343	S0579	kuśalāḥ	kuśala	adj. m. pl. nom.	0007b19	善	对译	0167b22	善	"名"为增字
+U33-344	S0580	lobhādisaṃprayuktā	lobha-ādi-saṃprayukta	cpd. ptc. m. pl. nom.	0007b19	貪等相應	对译	0167b22	與貪等相應	
 U33-345	S0580	lobhā	lobha	n. 成分	0007b19	貪	对译	0167b22	貪	
-U33-346	S0580	akuśalāḥ	a-kuśala	adj. pl. nom.	0007b19	不善	对译	0167b22	惡	"名為"为增字
-U33-347	S0580	anye	anya	pron. pl. nom.	0007b20	餘	对译	0167b22	所餘	
-U33-348	S0580	avyākṛtāḥ	a-vyākṛta	ptc. adj. pl. nom.	0007b20	無記	对译	0167b22	無記	
-U33-349	S0581	dharmadhātur	dharma-dhātu	cpd. sg. nom.	0007b20	法界	对译	0167b23	法界	"若是"为增字
+U33-346	S0580	akuśalāḥ	a-kuśala	adj. m. pl. nom.	0007b19	不善	对译	0167b22	惡	"名為"为增字
+U33-347	S0580	anye	anya	pron. m. pl. nom.	0007b20	餘	对译	0167b22	所餘	
+U33-348	S0580	avyākṛtāḥ	a-vyākṛta	ptc. adj. m. pl. nom.	0007b20	無記	对译	0167b22	無記	
+U33-349	S0581	dharmadhātur	dharma-dhātu	cpd. m. sg. nom.	0007b20	法界	对译	0167b23	法界	"若是"为增字
 U33-350	S0581				0007b20	若是	增译			
-U33-351	S0581	ralobhādisvabhāvasaṃprayuktasamutthaḥ	a-lobha-ādi-svabhāva-saṃprayukta-samuttha	cpd. sg. nom.	0007b20	無貪等性相應等起	对译	0167b23	無貪等善相應及發起	
+U33-351	S0581	ralobhādisvabhāvasaṃprayuktasamutthaḥ	a-lobha-ādi-svabhāva-saṃprayukta-samuttha	cpd. m. sg. nom.	0007b20	無貪等性相應等起	对译	0167b23	無貪等善相應及發起	
 U33-352	S0581	ralobhā	a-lobha	n. 成分	0007b20	無貪	对译	0167b23	無貪	
 U33-353	S0581	svabhāva	svabhāva	n. 成分	0007b20	性	对译			
 U33-354	S0581	saṃprayukta	saṃprayukta	ptc. 成分	0007b20	相應	对译	0167b23	相應	
-U33-355	S0581	samutthaḥ	samuttha	adj. sg. nom.	0007b20	等起	对译	0167b23	發起	
-U33-356	S0581	pratisaṃkhyānirodhaśca	pratisaṃkhyā-nirodha	cpd. sg. nom.	0007b20	擇滅	对译	0167b23	擇滅	
-U33-357	S0581	kuśalaḥ	kuśala	adj. sg. nom.	0007b21	善	对译	0167b24	善	
-U33-358	S0582	lobhādisvabhāvasaṃprayuktasamuttho	lobha-ādi-svabhāva-saṃprayukta-samuttha	cpd. sg. nom.	0007b21	貪等性相應等起	对译	0167b24	貪等惡相應及發起	"若"为增字
+U33-355	S0581	samutthaḥ	samuttha	adj. m. sg. nom.	0007b20	等起	对译	0167b23	發起	
+U33-356	S0581	pratisaṃkhyānirodhaśca	pratisaṃkhyā-nirodha	cpd. m. sg. nom.	0007b20	擇滅	对译	0167b23	擇滅	
+U33-357	S0581	kuśalaḥ	kuśala	adj. m. sg. nom.	0007b21	善	对译	0167b24	善	
+U33-358	S0582	lobhādisvabhāvasaṃprayuktasamuttho	lobha-ādi-svabhāva-saṃprayukta-samuttha	cpd. m. sg. nom.	0007b21	貪等性相應等起	对译	0167b24	貪等惡相應及發起	"若"为增字
 U33-359	S0582	lobhā	lobha	n. 成分	0007b21	貪	对译	0167b24	貪	
-U33-360	S0582	samuttho	samuttha	adj. sg. nom.	0007b21	等起	对译	0167b24	發起	
-U33-361	S0582	'kuśalaḥ	a-kuśala	adj. sg. nom.	0007b21	不善	对译	0167b24	惡	
-U33-362	S0583	anyo	anya	pron. sg. nom.	0007b21	餘	对译	0167b24	所餘	
-U33-363	S0583	'vyākṛtaḥ	a-vyākṛta	ptc. adj. sg. nom.	0007b22	無記	对译	0167b25	無記	
-U33-364	S0584	rūpaśabdadhātū	rūpa-śabda-dhātu	cpd. du. nom.	0007b22	色界聲界	对译	0167b25	色界聲界	dvandva 共用 dhātu，玄奘分作"色界聲界"
+U33-360	S0582	samuttho	samuttha	adj. m. sg. nom.	0007b21	等起	对译	0167b24	發起	
+U33-361	S0582	'kuśalaḥ	a-kuśala	adj. m. sg. nom.	0007b21	不善	对译	0167b24	惡	
+U33-362	S0583	anyo	anya	pron. m. sg. nom.	0007b21	餘	对译	0167b24	所餘	
+U33-363	S0583	'vyākṛtaḥ	a-vyākṛta	ptc. adj. m. sg. nom.	0007b22	無記	对译	0167b25	無記	
+U33-364	S0584	rūpaśabdadhātū	rūpa-śabda-dhātu	cpd. m. du. nom.	0007b22	色界聲界	对译	0167b25	色界聲界	dvandva 共用 dhātu，玄奘分作"色界聲界"
 U33-365	S0584	rūpa	rūpa	n. 成分	0007b22	色	对译	0167b25	色	
-U33-366	S0584	śabdadhātū	śabda	n. du. nom.	0007b22	聲	对译	0167b25	聲	
+U33-366	S0584	śabda	śabda	n. 成分	0007b22	聲	对译	0167b25	聲	
 U33-367	S0584				0007b22	若	增译			
-U33-368	S0584	kuśalākuśalacittasamuṭthau	kuśala-akuśala-citta-samuttha	cpd. du. nom.	0007b22	善不善心…等起	意译	0167b25	善惡心發起	GRETIL 本作 samuṭthau，当读 samutthau；"力"为增字
+U33-368	S0584	kuśalākuśalacittasamuṭthau	kuśala-akuśala-citta-samuttha	cpd. m. du. nom.	0007b22	善不善心…等起	意译	0167b25	善惡心發起	GRETIL 本作 samuṭthau，当读 samutthau；"力"为增字
 U33-368+1	S0584				0007b22	力	增译			合并时从 U33-368（善不善心力等起）拆出
 U33-369	S0584	cittasamuṭthau	citta	n. 成分	0007b22	心	对译	0167b25	心	
-U33-370	S0584	samuṭthau	samuttha	adj. du. nom.	0007b22	等起	对译	0167b25	發起	
+U33-370	S0584	samuṭthau	samuttha	adj. m. du. nom.	0007b22	等起	对译	0167b25	發起	
 U33-371	S0584				0007b22	力	增译			
-U33-372	S0584	kāyavāgvijñaptisaṃgṛhītau	kāya-vāc-vijñapti-saṃgṛhīta	cpd. ptc. du. nom.	0007b22	身語表攝	对译	0167b26	身口業所攝	
+U33-372	S0584	kāyavāgvijñaptisaṃgṛhītau	kāya-vāc-vijñapti-saṃgṛhīta	cpd. ptc. m. du. nom.	0007b22	身語表攝	对译	0167b26	身口業所攝	
 U33-373	S0584	kāya	kāya	n. 成分	0007b22	身	对译	0167b26	身	
 U33-374	S0584	vāg	vāc	n. 成分	0007b22	語	对译	0167b26	口	
 U33-375	S0584	vijñapti	vijñapti	n. 成分	0007b23	表	对译	0167b26	業	
-U33-376	S0584	saṃgṛhītau	saṃ-grah	ptc. du. nom.	0007b23	攝	对译	0167b26	所攝	
-U33-377	S0584	kuśalākuśalau	kuśala-akuśala	cpd. du. nom.	0007b23	善不善	对译	0167b25	善惡	"是"为增字
+U33-376	S0584	saṃgṛhītau	saṃ-grah	ptc. m. du. nom.	0007b23	攝	对译	0167b26	所攝	
+U33-377	S0584	kuśalākuśalau	kuśala-akuśala	cpd. m. du. nom.	0007b23	善不善	对译	0167b25	善惡	"是"为增字
 U33-378	S0584				0007b23	是	增译	0167b25	是	
-U33-379	S0585	tadanyāvyākṛtau	tad-anya	cpd. du. nom.	0007b23	餘	意译	0167b26	異此	tad 未译
-U33-380	S0585	āvyākṛtau	a-vyākṛta	ptc. adj. du. nom.	0007b23	無記	对译	0167b26	無記	
-U33-381	S0585	uktaḥ	vac	ptc. sg. nom.	0007b23	說	对译	0167b26	說	
-U33-383	S0585	kuśalādibhāvaḥ	kuśala-ādi-bhāva	cpd. sg. nom.	0007b23	善等	意译	0167b26	善…等性	bhāva 未译
+U33-379	S0585	tadanyāvyākṛtau	tad-anya	cpd. m. du. nom.	0007b23	餘	意译	0167b26	異此	tad 未译
+U33-380	S0585	āvyākṛtau	a-vyākṛta	ptc. adj. m. du. nom.	0007b23	無記	对译	0167b26	無記	
+U33-381	S0585	uktaḥ	vac	ptc. m. sg. nom.	0007b23	說	对译	0167b26	說	
+U33-383	S0585	kuśalādibhāvaḥ	kuśala-ādi-bhāva	cpd. m. sg. nom.	0007b23	善等	意译	0167b26	善…等性	bhāva 未译
 U33-384	S0585	kuśalā	kuśala	adj. 成分	0007b23	善	对译	0167b26	善	
 U33-385	S0585	ādibhāvaḥ	ādi	n. 成分	0007b23	等	对译	0167b27	等	
 U33-386	S0586	aṣṭādaśadhātūnāṃ	aṣṭādaśan	num. 成分	0007b23	十八	对译	0167b27	十八	
-U33-387	S0586	dhātūnāṃ	dhātu	n. pl. gen.	0007b24	界	对译	0167b27	界	
-U33-389	S0586	kāmadhātvāptāḥ	kāma-dhātu-āpta	cpd. pl. nom.	0007b24	欲界繫	对译	0167b27	於欲界相應	
+U33-387	S0586	dhātūnāṃ	dhātu	n. m. pl. gen.	0007b24	界	对译	0167b27	界	
+U33-389	S0586	kāmadhātvāptāḥ	kāma-dhātu-āpta	cpd. m. pl. nom.	0007b24	欲界繫	对译	0167b27	於欲界相應	
 U33-390	S0586	kāmadhātvā	kāma-dhātu	cpd. 成分	0007b24	欲界	对译	0167b27	欲界	
-U33-391	S0586	āptāḥ kati	āpta	ptc. pl. nom.	0007b24	繫	意译	0167b27	相應	āpta（所属的）译"繫"
-U33-392	S0586	rūpadhātvāptāḥ	rūpa-dhātu-āpta	cpd. pl. nom.	0007b24	色界繫	对译	0167b27	於色界…相應	
+U33-391	S0586	āptāḥ kati	āpta	ptc. m. pl. nom.	0007b24	繫	意译	0167b27	相應	āpta（所属的）译"繫"
+U33-392	S0586	rūpadhātvāptāḥ	rūpa-dhātu-āpta	cpd. m. pl. nom.	0007b24	色界繫	对译	0167b27	於色界…相應	
 U33-393	S0586	rūpadhātvā	rūpa-dhātu	cpd. 成分	0007b24	色界	对译	0167b27	色界	
-U33-394	S0586	rūpadhātvāptāḥ	āpta	ptc. pl. nom.	0007b24	繫	意译	0167b28	相應	
+U33-394	S0586	rūpadhātvāptāḥ	āpta	ptc. m. pl. nom.	0007b24	繫	意译	0167b28	相應	
 U33-395	S0586				0007b24	幾無色界繫	梵本缺文	0167b28	無色界相應	GRETIL 本 S0586 无 ārūpyadhātvāpta 一问（疑脱）；玄奘、真谛都有

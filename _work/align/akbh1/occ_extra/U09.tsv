@@ -1,6 +1,6 @@
 oid	sid	skt	lemma	pos	xz_line	xz	type	pm_line	pm	note
 U09-002	S0130	tadvijñānāśrayā	tad	pron. 成分	0002b12	彼	语法	0163a07	此	复合词前项 tad，指上颂所说五境
-U09-048	S0133	yānyetāni	yad	pron. pl. nom.	0002b17	前	语法	0163a11	前	关系代词（所说者）译"前"
+U09-048	S0133	yānyetāni	yad	pron. nt. pl. nom.	0002b17	前	语法	0163a11	前	关系代词（所说者）译"前"
 U09-067	S0135	evaṃ kṛtvā	evam	ind.	0002b19	如是	语法	0163a12	此	
-U09-078	S0135	katamat	katama	pron. sg. nom.	0002b20	云何	语法	0163a13	何者	
+U09-078	S0135	katamat	katama	pron. nt. sg. nom.	0002b20	云何	语法	0163a13	何者	
 U09-087	S0137	nirddiṣṭāni	ppp.	gram. ppp. (-ta)	0002b21	已	语法	0163a14	已	过去被动分词译"已"
