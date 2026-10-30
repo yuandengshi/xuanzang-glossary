@@ -29,17 +29,20 @@ RANK = {c: i for i, c in enumerate(ORDER)}
 
 
 def skey(s):
-    s = unicodedata.normalize('NFC', s.lower()).lstrip('-√')
-    out, i = [], 0
-    while i < len(s):
-        two = s[i:i + 2]
-        if two in RANK and two not in ('ai', 'au') or (two in ('ai', 'au')):
+    """梵文字母表次序的排序键。连字符、空格不计（a-kuśala 照 akuśala 排），但各段分开切字母，
+    免得 kuśala-indriya 的 a-i 被当成 ai；键相同时按原写法定先后。"""
+    s = unicodedata.normalize('NFC', s.lower()).lstrip('-√(')
+    out = []
+    for seg in re.split(r'[- ]+', s):
+        i = 0
+        while i < len(seg):
+            two = seg[i:i + 2]
             if two in RANK:
                 out.append(RANK[two]); i += 2; continue
-        ch = s[i]
-        out.append(RANK.get(ch, 100 + ord(ch)) if ch.isalpha() or ch in RANK else 99)
-        i += 1
-    return out
+            ch = seg[i]
+            out.append(RANK.get(ch, 100 + ord(ch)))
+            i += 1
+    return out, s
 
 
 def tsv(path):
@@ -374,6 +377,17 @@ mark{background:var(--acc-soft);color:inherit;border-bottom:2px solid var(--acc)
 .note{grid-column:1/-1;font-family:var(--zh);font-size:14px;color:var(--mut)}
 .note .lab{font-family:var(--sans);font-size:11.5px;letter-spacing:.06em;margin-right:6px}
 .empty{font-family:var(--zh);color:var(--mut);padding:24px 0}
+/* 字母导航与分节标题 */
+.abc{position:relative;flex:1 1 100%;display:flex;flex-wrap:wrap;gap:4px 10px;align-items:center}
+.abc[hidden]{display:none}
+.abc .g{display:inline-flex;flex:none;gap:2px}
+.abc button{font:400 15px/1 var(--serif);color:var(--ink);background:none;border:1px solid transparent;border-radius:6px;padding:5px 5px 6px;min-width:25px;cursor:pointer}
+.abc button:hover:not(:disabled){background:var(--paper);border-color:var(--line)}
+.abc button.on{color:var(--acc);background:var(--acc-soft);border-color:color-mix(in srgb,var(--acc) 30%,transparent)}
+.abc button:disabled{color:var(--mut);opacity:.45;cursor:default}
+.ltr{display:flex;align-items:baseline;gap:12px;font:700 24px/1.3 var(--serif);color:var(--acc);margin:28px 0 12px;padding-bottom:4px;border-bottom:1px solid var(--line)}
+.ltr:first-child{margin-top:4px}
+.ltr .small{font-weight:400}
 /* 审定 */
 .rvbar{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;font-family:var(--sans);font-size:12.5px;color:var(--mut)}
 .rvb{font:500 12.5px/1 var(--sans);border:1px solid var(--line);background:var(--paper);color:var(--mut);border-radius:6px;padding:5px 10px;cursor:pointer}
@@ -407,6 +421,8 @@ table.ab td.k.zh{font-family:var(--zh)}
 table.ab td.f{font-family:var(--serif);font-style:italic;color:var(--mut);white-space:nowrap}
 table.ab td.n{font-family:var(--sans);font-size:13px;color:var(--mut);text-align:right;width:4em}
 @media (max-width:720px){table.ab td.f{display:none}table.ab th:nth-child(2){display:none}}
+@media (max-width:720px){.abc,.bar .seg{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none}.abc::-webkit-scrollbar,.bar .seg::-webkit-scrollbar{display:none}
+  .bar .seg{max-width:100%}.bar .seg button{flex:none;white-space:nowrap;padding:10px 12px}}
 @media (max-width:720px){.eh{grid-template-columns:1fr auto}.rs{grid-column:1/-1}.o{grid-template-columns:1fr}}
 </style></head><body><main>
 <header class="top">
@@ -419,6 +435,7 @@ table.ab td.n{font-family:var(--sans);font-size:13px;color:var(--mut);text-align
 <select id="part" aria-label="按品筛选" hidden></select>
 <input type="search" id="q" placeholder="检索梵文词目、汉译、注或类型，如 abhidharma、對法、待核、梵本缺文" aria-label="检索">
 <div class="seg" role="tablist"><button class="on" data-v="lex">梵→汉</button><button data-v="gram">语法形式</button><button data-v="rev">汉→梵</button><button data-v="add">增译 · 省译 · 缺文</button><button data-v="abbr">缩略语</button><button data-v="audit">审定</button></div>
+<nav id="abc" class="abc" aria-label="梵文字母导航" hidden></nav>
 </div>
 <div id="out"></div>
 </main>
@@ -434,9 +451,13 @@ window.XZG_DATA=function(p){META[p.meta.part]=p.meta;ALL=ALL.concat(decode(p));D
  Object.entries(p.tang||{}).forEach(([k,v])=>{TANG[k]=(TANG[k]||[]).concat(v)})};
 const ORDER=['a','ā','i','ī','u','ū','ṛ','ṝ','ḷ','e','ai','o','au','ṃ','ḥ','k','kh','g','gh','ṅ','c','ch','j','jh','ñ','ṭ','ṭh','ḍ','ḍh','ṇ','t','th','d','dh','n','p','ph','b','bh','m','y','r','l','v','ś','ṣ','s','h'];
 const R={};ORDER.forEach((c,i)=>R[c]=i);
-function key(s){s=s.toLowerCase().normalize('NFC').replace(/^[-√(]+/,'');const o=[];for(let i=0;i<s.length;){const t=s.slice(i,i+2);if(t.length==2&&R[t]!==undefined){o.push(R[t]);i+=2;continue}const c=s[i];o.push(R[c]!==undefined?R[c]:200+c.charCodeAt(0));i++}return o}
+// 排序不计连字符、空格（a-kuśala 照 akuśala 排），各段分开切字母（kuśala-indriya 的 a-i 不当 ai）；键相同按原写法
+function key(s){s=s.toLowerCase().normalize('NFC').replace(/^[-√(]+/,'');const o=[];s.split(/[- ]+/).forEach(g=>{for(let i=0;i<g.length;){const t=g.slice(i,i+2);if(t.length==2&&R[t]!==undefined){o.push(R[t]);i+=2;continue}const c=g[i];o.push(R[c]!==undefined?R[c]:200+c.charCodeAt(0));i++}});return o}
 const KC=new Map();function ck(s){let k=KC.get(s);if(!k){k=key(s);KC.set(s,k)}return k}
-function cmp(a,b){const x=ck(a),y=ck(b);for(let i=0;i<Math.min(x.length,y.length);i++)if(x[i]!=y[i])return x[i]-y[i];return x.length-y.length}
+function cmp(a,b){const x=ck(a),y=ck(b);for(let i=0;i<Math.min(x.length,y.length);i++)if(x[i]!=y[i])return x[i]-y[i];return x.length-y.length||(a<b?-1:a>b?1:0)}
+const ini=s=>{const k=ck(s);return k.length&&k[0]<ORDER.length?ORDER[k[0]]:'其他'};
+// 导航条按元音与各列分组
+const VARGA=[['a','ā','i','ī','u','ū','ṛ','ṝ','ḷ','e','ai','o','au','ṃ','ḥ'],['k','kh','g','gh','ṅ'],['c','ch','j','jh','ñ'],['ṭ','ṭh','ḍ','ḍh','ṇ'],['t','th','d','dh','n'],['p','ph','b','bh','m'],['y','r','l','v'],['ś','ṣ','s','h'],['其他']];
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 function hlSkt(text,frag,k){text=text.replace(/\s*\/\/\s*VAkK_[0-9.]+\s*\/\//gi,' //').trim();if(!frag)return esc(text);let i=text.indexOf(frag);
  for(let n=0;n<(k||0)&&i>=0;n++)i=text.indexOf(frag,i+1);if(i<0)i=text.indexOf(frag);
@@ -476,10 +497,13 @@ function more(){const out=document.getElementById('out');const old=out.querySele
   while(box.firstChild)out.appendChild(box.firstChild);bind(out);
   if(SHOWN<PEND.length){const m=document.createElement('div');m.className='more';m.textContent=`已显示 ${SHOWN} / ${PEND.length}，向下滚动继续`;out.appendChild(m);
     if(IO)IO.disconnect();IO=new IntersectionObserver(es=>{if(es.some(e=>e.isIntersecting))more()},{rootMargin:'800px'});IO.observe(m)}}
-function render(){OS.length=0;const q=document.getElementById('q').value.trim().toLowerCase();
+function render(){OS.length=0;for(const k in LPOS)delete LPOS[k];document.getElementById('abc').hidden=view!='lex';const q=document.getElementById('q').value.trim().toLowerCase();
 const match=o=>!q||[o.lemma,o.skt,o.xz,o.pm,o.note,o.type].join(' ').toLowerCase().includes(q);const H=[];let h='';
-if(view=='lex'){const {g,keys}=sortedGroups('lex',lexOcc,o=>o.lemma,cmp);keys.forEach(k=>{const os=g.get(k);if(!os.some(match))return;
-  H.push(entry(k,[...new Set(os.map(o=>o.pos.split(' ')[0]))].join(' / '),os,o=>o.xz||'（未译）'))})}
+if(view=='lex'){const {g,keys}=sortedGroups('lex',lexOcc,o=>o.lemma,cmp);const ks=keys.filter(k=>g.get(k).some(match)),cnt={};let cur=null;
+  ks.forEach(k=>{const l=ini(k);cnt[l]=(cnt[l]||0)+1});
+  ks.forEach(k=>{const os=g.get(k),l=ini(k);
+    if(l!==cur){cur=l;LPOS[l]=H.length;H.push(`<h2 class="ltr" data-l="${esc(l)}">${esc(l)}<span class="small">${cnt[l]} 条</span></h2>`)}
+    H.push(entry(k,[...new Set(os.map(o=>o.pos.split(' ')[0]))].join(' / '),os,o=>o.xz||'（未译）'))});abcNav(cnt)}
 else if(view=='gram'){const {g,keys}=sortedGroups('gram',gramOcc,o=>o.lemma,cmp);keys.forEach(k=>{const os=g.get(k);if(!os.some(match))return;
   H.push(entry(k,AB.known[k]||'语法形式',os,o=>o.xz||'（未译）'))})}
 else if(view=='rev'){const {g,keys}=sortedGroups('rev',D.filter(o=>o.xz&&!['增译','梵本缺文'].includes(o.type)),o=>o.xz,COLL.compare);keys.forEach(k=>{const os=g.get(k);if(!os.some(match))return;
@@ -491,7 +515,22 @@ else{const os=D.filter(o=>['增译','省译','梵本缺文'].includes(o.type)&&m
 const out=document.getElementById('out');if(IO)IO.disconnect();
 if(h){out.innerHTML=h;return}
 if(!H.length){out.innerHTML='<p class="empty">没有匹配的条目。</p>';return}
-out.innerHTML='';PEND=H;SHOWN=0;more()}
+out.innerHTML='';PEND=H;SHOWN=0;more();spy()}
+
+/* ===== 梵文字母导航：点字母跳到该节（未载入的先载入），滚动时标出当前字母 ===== */
+const LPOS={};let INI=new Set(),SPY=0,JUMP=null;
+function abcNav(cnt){document.getElementById('abc').innerHTML=VARGA.map(g=>g.filter(l=>INI.has(l))).filter(g=>g.length).map(g=>
+  `<span class="g">${g.map(l=>`<button data-l="${esc(l)}"${cnt[l]?` title="${esc(l)}：${cnt[l]} 条"`:' disabled'}>${esc(l)}</button>`).join('')}</span>`).join('')}
+function jump(l){const p=LPOS[l];if(p===undefined)return;while(SHOWN<=p+60&&SHOWN<PEND.length)more();   // 多载入几十条，标题才能滚到顶
+  const el=document.querySelector(`#out .ltr[data-l="${CSS.escape(l)}"]`);if(!el)return;
+  window.scrollTo(0,el.getBoundingClientRect().top+scrollY-document.querySelector('.bar').offsetHeight-6);JUMP={l,y:scrollY};spy()}
+function spy(){SPY=0;if(view!='lex')return;const nav=document.getElementById('abc'),y=document.querySelector('.bar').getBoundingClientRect().bottom+8;let cur=null;
+  if(JUMP&&Math.abs(scrollY-JUMP.y)<4)cur=JUMP.l;   // 刚点的字母：节太短、滚不到顶时也标它
+  else{JUMP=null;for(const h of document.querySelectorAll('#out .ltr')){if(h.getBoundingClientRect().top<=y)cur=h.dataset.l;else break}}
+  nav.querySelectorAll('button').forEach(b=>{const on=b.dataset.l===cur;if(b.classList.contains('on')==on)return;b.classList.toggle('on',on);
+    if(on&&nav.scrollWidth>nav.clientWidth)nav.scrollLeft=b.offsetLeft-nav.clientWidth/2})}
+addEventListener('scroll',()=>{if(!SPY)SPY=requestAnimationFrame(spy)},{passive:true});
+document.getElementById('abc').onclick=e=>{const b=e.target.closest('button[data-l]');if(b&&!b.disabled)jump(b.dataset.l)};
 
 /* ===== 审定：结果保存在本浏览器（localStorage），可导出为文件交回 ===== */
 let REV={reviewer:'',items:{}},RVOK=true,AF='todo';
@@ -551,7 +590,7 @@ document.addEventListener('input',e=>{if(e.target.id=='rv-name'){REV.reviewer=e.
 document.addEventListener('change',e=>{if(e.target.id=='rv-file'&&e.target.files[0]){rvImport(e.target.files[0]);e.target.value=''}});
 
 function stats(){document.getElementById('stats').innerHTML=[['对应实例',D.length],['梵文词目',new Set(lexOcc.map(o=>o.lemma)).size],['语法形式',new Set(gramOcc.map(o=>o.lemma)).size],['增译',D.filter(o=>o.type=='增译').length],['省译',D.filter(o=>o.type=='省译').length],['梵本缺文',D.filter(o=>o.type=='梵本缺文').length]].map(([a,b])=>`<div><b>${b}</b>${a}</div>`).join('')}
-function init(){D=ALL;prep();rvLoad();stats();
+function init(){D=ALL;prep();INI=new Set(lexOcc.map(o=>ini(o.lemma)));rvLoad();stats();
 document.getElementById('scope').textContent='收录：'+PARTS.map(p=>p.scope).join('；')+'。';
 const sel=document.getElementById('part');
 if(PARTS.length>1){sel.hidden=false;sel.innerHTML='<option value="">各品</option>'+PARTS.map(p=>`<option value="${esc(p.id)}">${esc(p.short)}</option>`).join('');

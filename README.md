@@ -59,7 +59,7 @@ python3 -I scripts/build_sqlite.py align ../清单/玄奘译经清单.csv 某处
 cd .. && _work/.venv/bin/python _work/scripts/pkg_build.py
 ```
 
-资料包的词汇表页面由外壳（`词汇表.html`）和数据（`data/akbh1.js`，句子与语境去重存放）组成，数据用 `<script>` 载入，本地双击也能读取；以后增加的品各自一个数据文件。字体由 `pkg_fonts.py` 按包内实际用字从 Noto Serif SC/TC、Noto Sans SC 抽取子集；Gentium Book Plus 有保留字体名，按 OFL 原样附带。审定结果保存在浏览器的 localStorage 里，导出为 .json 交回。
+资料包的词汇表页面由外壳（`词汇表.html`）和数据（`data/akbh1.js`，句子与语境去重存放）组成，数据用 `<script>` 载入，本地双击也能读取；以后增加的品各自一个数据文件。"梵→汉"页按梵文字母表分节，顶上有字母导航（排序不计连字符，规则见体例草案第八节）。字体由 `pkg_fonts.py` 按包内实际用字从 Noto Serif SC/TC、Noto Sans SC 抽取子集；Gentium Book Plus 有保留字体名，按 OFL 原样附带。审定结果保存在浏览器的 localStorage 里，导出为 .json 交回。
 
 形态标注（pos 栏）的格式规则在 `_work/scripts/morph.py`：名词类按词类、性、数、格，动词按时态/语气、语态、人称数；复合词末成分照整个复合词标。`align/akbh1/units_map.tsv`（玄奘颂块与梵本、真谛起点的对应）是人工指定的。U06–U54 由七批子代理并行编写，各批汇报的疑点记在 `align/akbh1/batch_reports.md`，整理后的梵本问题在 `align/akbh1/review_notes.md`。各 HTML 页面共用 `_work/scripts/page_style.py` 里的字体与配色（Noto Serif SC/TC、Gentium Book Plus）；资料包里用随包字体，`清单/` 下的单页版从 Google Fonts 加载。词类、语法标注的缩略语说明在 `_work/scripts/abbr.py`，词汇表的"缩略语"页和悬停提示都由它生成；生成时如果遇到说明表里没有的写法会提示补充。`src/` 下是下载的语料，作不可信数据处理，只当文本读。
 
